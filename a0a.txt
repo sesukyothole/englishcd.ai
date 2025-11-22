@@ -26,29 +26,6 @@
 
 22-11-2005	^-
 
-14:30 [g]Korean K League 1[z]	^-
-Gwangju vs Ulsan Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302781/gwangju-football-club-vs-ulsan-hd-fc.html
-Gwangju vs Ulsan Hyundai	https://live.vivo200.com/live/sd-1-4445756.m3u8?txSecret=92ae87398ec5b0b2aa9d8668ac2b532f&txTime=6921B441
-Pohang Steelers vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302866/pohang-steelers-vs-jeonbuk-hyundai-motors.html
-Pohang Steelers vs Jeonbuk Hyundai	https://live2.huiji0888.com/live/64699998_1ad2688fa816a73392215bfcffeb8889.m3u8
-
-14:30 Liga 2	^-
-Persipal Palu vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4313231/persipal-palu-vs-barito-putera.html
-
-15:30 Liga 1	^-
-Persebaya Surabaya vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229693/persebaya-surabaya-vs-arema-fc.html
-Persebaya Surabaya vs Arema FC	`0https://live.samuraitv.biz.id/p/ch2.html
-
-15:30 Liga 2	^-
-Kendal Tornado vs Persipura Jayapura	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4313232/kendal-tornado-fc-vs-persipura-jayapura.html
-
-15:35 [g]Australia A-League[z]	^-
-Sydney FC vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282146/sydney-fc-vs-melbourne-victory.html
-Sydney FC vs Melbourne Victory	https://live.vivo200.com/live/sd-1-4426566.m3u8?txSecret=d2751ae73af8dc909df34f7cc364dcfc&txTime=6921C1EF
-
-16:00 Malaysian Super League	^-
-Negeri Sembilan vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221152/negeri-sembilan-vs-terengganu-fc.html
-
 18:00 [g]Thai League 1[z]	^-
 Port FC vs Chiangrai United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266214/port-fc-vs-chiangrai-united.html
 
