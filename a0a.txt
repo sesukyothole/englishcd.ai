@@ -34,10 +34,12 @@ Bangkok Utd vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league
 
 19:00 Liga 1	^-
 Borneo FC vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229691/borneo-fc-vs-madura-united.html
+Borneo FC vs Madura United	`0https://live.samuraitv.biz.id/p/ch2.html
 Borneo FC vs Madura United	https://xlz.livoraz.com/ajax/chanel/type/1/link/dyv7fis
 
 19:00 [g]Thai League 1[z]	^-
 Muang Thong Utd vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266205/muangthong-united-vs-buriram-united.html
+Muang Thong Utd vs Buriram Utd	`0https://live.samuraitv.biz.id/p/ch4.html
 
 19:00 Liga 2	^-
 Deltras Sidoarjo vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4313235/deltras-sidoarjo-vs-pss-sleman.html
@@ -62,6 +64,7 @@ Ratchaburi FC vs BG Pathum United	`Fhttps://www.fctv33.net/football/thai-league-
 
 20:00 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209857/deportivo-alavs-vs-rc-celta.html
+Deportivo Alavés vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 20:00 Malaysian Super League[z]	^-
 Selangor vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221184/selangor-fc-vs-kelantan-the-real-warriors.html
