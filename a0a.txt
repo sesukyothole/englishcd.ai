@@ -61,11 +61,15 @@ Al Hilal SFC vs Al-Fateh	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/cli
 
 22:00 [y]English Premier League[z]	^-
 Fulham vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194075/fulham-vs-sunderland.html
+Fulham vs Sunderland AFC	https://live5.k8v4dh5.app/live/43612277.m3u8
 Brighton Hove Albion vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194077/brighton-hove-albion-vs-brentford.html
+Brighton Hove Albion vs Brentford	https://live5.k8v4dh5.app/live/75915087.m3u8
 Bournemouth AFC vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194081/bournemouth-afc-vs-west-ham-united.html
+Bournemouth AFC vs West Ham United	https://live5.k8v4dh5.app/live/82054853.m3u8
 Liverpool vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194083/liverpool-vs-nottingham-forest.html
 Liverpool vs Nottingham Forest	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Wolves vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194084/wolverhampton-wanderers-vs-crystal-palace.html
+Wolves vs Crystal Palace	https://live5.k8v4dh5.app/live/90725470.m3u8
 
 22:00 [g]Belgian Pro League[z]	^-
 Saint Gilloise vs Cercle Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199101/union-saint-gilloise-vs-cercle-brugge.html
