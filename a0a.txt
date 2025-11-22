@@ -47,6 +47,7 @@ FC Tulsa vs Pittsburgh Riverhounds	`Fhttps://www.fctv33.net/football/usl-champio
 
 00:30 [y]English Premier League[z]	^-
 Newcastle United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194080/newcastle-united-vs-manchester-city.html
+Newcastle United vs Manchester City	https://live.vivo200.com/live/sd-1-4343341.m3u8?txSecret=827a05deee4f87f11a869c0dff3ddbc6&txTime=69223991
 
 00:30 [y]Bundesliga[z]	^-
 FC Koln vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199757/fc-kln-vs-eintracht-frankfurt.html
