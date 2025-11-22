@@ -51,6 +51,7 @@ Volendam vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-ere
 
 01:00 [y]French Ligue 1[z]	^-
 Rennes vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200335/stade-rennais-fc-vs-as-monaco.html
+Rennes vs Monaco	https://live.vivo200.com/live/sd-1-4347792.m3u8?txSecret=9a2da0dcc380a0db7ccea30a5193c666&txTime=692240B7
 
 01:00 [g]Portuguese Cup[z]	^-
 Sporting CP vs Marinhense	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4308255/sporting-cp-vs-marinhense.html
