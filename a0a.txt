@@ -31,6 +31,7 @@ NAC Breda vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivi
 
 23:00 [y]French Ligue 1[z]	^-
 Lens vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200337/rc-lens-vs-rc-strasbourg-alsace.html
+Lens vs Strasbourg	https://play4.y808.com/live/11374573498_735460715_1080p.m3u8
 
 23:00 [g]CAF Champions League[z]	^-
 Al Ahly SC vs JS kabylie	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311155/al-ahly-fc-vs-js-kabylie.html
@@ -39,6 +40,7 @@ Al Ahly SC vs JS kabylie	`Fhttps://www.fctv33.net/football/caf-champions-league-
 
 00:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194805/fiorentina-vs-juventus.html
+Fiorentina vs Juventus	https://v.aqsxx.cn/live/100380.m3u8?txSecret=b27c291cdd1fea636fd4a01ae3c24ae1&txTime=6921F150&sign=50b9f6f5ddd575ce
 
 00:00 [g]USL Champ[z]	^-
 FC Tulsa vs Pittsburgh Riverhounds	`Fhttps://www.fctv33.net/football/usl-championship-match-4312171/fc-tulsa-vs-pittsburgh-riverhounds.html
