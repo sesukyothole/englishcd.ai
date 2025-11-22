@@ -26,23 +26,11 @@
 
 22-11-2005	^-
 
-12:00 [g]Korean K League 1[z]	^-
-FC Anyang vs Suwon FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302777/fc-anyang-vs-suwon-football-club.html
-FC Anyang vs Suwon FC	https://live.huiji0888.com/live/64700026_428222fc07b63c463604fe8c901999de.m3u8
-Daejeon Citizen vs Gangwon FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302868/daejeon-citizen-vs-gangwon-football-club.html
-Daejeon Citizen vs Gangwon FC	https://live.huiji0888.com/live/64699996_966728248a321f653afb5e092a4aafe7.m3u8
-FC Seoul vs Gimcheon Sangmu FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302873/football-club-seoul-vs-gimcheon-sangmu-football-club.html
-FC Seoul vs Gimcheon Sangmu FC	https://live1.huiji0888.com/live/64699994_a4d2a69d43bc2cc604d8aced51e5cab6.m3u8
-
-12:00 [g]Japanese Emperor's Cup[z]	^-
-Machida Zelvia vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-emperors-cup-match-4312427/machida-zelvia-vs-vissel-kobe.html
-
-13:00 [g]Australia A-League[z]	^-
-Western Sydney vs Cen Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282095/western-sydney-vs-central-coast-mariners.html
-
 14:30 [g]Korean K League 1[z]	^-
 Gwangju vs Ulsan Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302781/gwangju-football-club-vs-ulsan-hd-fc.html
+Gwangju vs Ulsan Hyundai	https://live.vivo200.com/live/sd-1-4445756.m3u8?txSecret=92ae87398ec5b0b2aa9d8668ac2b532f&txTime=6921B441
 Pohang Steelers vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302866/pohang-steelers-vs-jeonbuk-hyundai-motors.html
+Pohang Steelers vs Jeonbuk Hyundai	https://live2.huiji0888.com/live/64699998_1ad2688fa816a73392215bfcffeb8889.m3u8
 
 14:30 Liga 2	^-
 Persipal Palu vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4313231/persipal-palu-vs-barito-putera.html
