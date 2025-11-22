@@ -50,14 +50,19 @@ Al Hilal SFC vs Al-Fateh	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/cli
 
 22:00 [y]English Premier League[z]	^-
 Fulham vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194075/fulham-vs-sunderland.html
+Fulham vs Sunderland AFC	https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 Fulham vs Sunderland AFC	https://live5.k8v4dh5.app/live/43612277.m3u8
 Brighton Hove Albion vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194077/brighton-hove-albion-vs-brentford.html
+Brighton Hove Albion vs Brentford	https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 Brighton Hove Albion vs Brentford	https://live5.k8v4dh5.app/live/75915087.m3u8
 Bournemouth AFC vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194081/bournemouth-afc-vs-west-ham-united.html
+Bournemouth AFC vs West Ham United	https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 Bournemouth AFC vs West Ham United	https://live5.k8v4dh5.app/live/82054853.m3u8
 Liverpool vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194083/liverpool-vs-nottingham-forest.html
 Liverpool vs Nottingham Forest	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Liverpool vs Nottingham Forest	https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 Wolves vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194084/wolverhampton-wanderers-vs-crystal-palace.html
+Wolves vs Crystal Palace	https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
 Wolves vs Crystal Palace	https://live5.k8v4dh5.app/live/90725470.m3u8
 
 22:00 [g]Belgian Pro League[z]	^-
