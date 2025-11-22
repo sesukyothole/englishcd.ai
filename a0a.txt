@@ -51,9 +51,11 @@ Newcastle United vs Manchester City	https://live.vivo200.com/live/sd-1-4343341.m
 
 00:30 [y]Bundesliga[z]	^-
 FC Koln vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199757/fc-kln-vs-eintracht-frankfurt.html
+FC Koln vs Eintracht Frankfurt	https://live.vivo200.com/live/sd-1-4347449.m3u8?txSecret=58caac08799c5ba8acb48d10cd87a8fc&txTime=692239AE
 
 00:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209854/ca-osasuna-vs-real-sociedad.html
+Osasuna vs Real Sociedad	https://live.vivo200.com/live/sd-1-4358464.m3u8?txSecret=ef99f24a60294fe1657d4a86968f529b&txTime=6922399C
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199350/afc-ajax-vs-excelsior-sbv.html
