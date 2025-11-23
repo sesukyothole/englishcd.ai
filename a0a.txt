@@ -60,7 +60,7 @@ Viborg vs Vejle	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193590
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209856/real-oviedo-vs-rayo-vallecano.html
-Real Oviedo vs Rayo Vallecano	https://live2.huiji0888.com/live/61624188_292bfe2b07bed95e886a8a38144f4172_h1080p.m3u8
+Real Oviedo vs Rayo Vallecano	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 20:00 [g]CAF Champions League[z]	^-
 Simba Sports vs Petro Atletico	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311365/simba-sports-club-vs-petro-atletico-de-luanda.html
@@ -318,7 +318,7 @@ TyC Sports	`0https://www.telegratishd.com/tyc-sports-en-vivo.html
 Movistar Deportes	`0https://www.telegratishd.com/movistar-deportes-en-vivo.html
 Movistar Liga De Campeones	`0https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html
 DAZN F1	`0https://www.telegratishd.com/dazn-f1-en-vivo.html
-DAZN La Liga	`0https://www.telegratishd.com/dazn-la-liga-en-vivo.html
+DAZN LaLiga	`0https://www.telegratishd.com/dazn-la-liga-en-vivo.html
 Directv Sports 1	`0https://www.telegratishd.com/directv-sports-en-vivo.html
 Directv Sports 2	`0https://www.telegratishd.com/directv-sports-2-en-vivo.html
 Directv Sports Plus	`0https://www.telegratishd.com/directv-sports-plus-en-vivo.html
