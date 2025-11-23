@@ -26,67 +26,6 @@
 
 23-11-2005	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Fiorentina vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194805/fiorentina-vs-juventus.html
-Fiorentina vs Juventus	https://v.aqsxx.cn/live/100380.m3u8?txSecret=b27c291cdd1fea636fd4a01ae3c24ae1&txTime=6921F150&sign=50b9f6f5ddd575ce
-
-00:00 [g]USL Champ[z]	^-
-FC Tulsa vs Pittsburgh Riverhounds	`Fhttps://www.fctv33.net/football/usl-championship-match-4312171/fc-tulsa-vs-pittsburgh-riverhounds.html
-
-00:30 [y]English Premier League[z]	^-
-Newcastle United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194080/newcastle-united-vs-manchester-city.html
-Newcastle United vs Manchester City	https://live.vivo200.com/live/sd-1-4343341.m3u8?txSecret=827a05deee4f87f11a869c0dff3ddbc6&txTime=69223991
-
-00:30 [y]Bundesliga[z]	^-
-FC Koln vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199757/fc-kln-vs-eintracht-frankfurt.html
-FC Koln vs Eintracht Frankfurt	https://live.vivo200.com/live/sd-1-4347449.m3u8?txSecret=58caac08799c5ba8acb48d10cd87a8fc&txTime=692239AE
-
-00:30 [y]Spanish La Liga[z]	^-
-Osasuna vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209854/ca-osasuna-vs-real-sociedad.html
-Osasuna vs Real Sociedad	https://live.vivo200.com/live/sd-1-4358464.m3u8?txSecret=ef99f24a60294fe1657d4a86968f529b&txTime=6922399C
-
-00:45 [y]Netherlands Eredivisie[z]	^-
-AFC Ajax vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199350/afc-ajax-vs-excelsior-sbv.html
-Volendam vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199352/volendam-vs-fc-twente-enschede.html
-
-01:00 [y]French Ligue 1[z]	^-
-Rennes vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200335/stade-rennais-fc-vs-as-monaco.html
-Rennes vs Monaco	https://live.vivo200.com/live/sd-1-4347792.m3u8?txSecret=9a2da0dcc380a0db7ccea30a5193c666&txTime=692240B7
-
-01:00 [g]Portuguese Cup[z]	^-
-Sporting CP vs Marinhense	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4308255/sporting-cp-vs-marinhense.html
-
-02:00 [g]CAF Champions League[z]	^-
-Pyramids FC vs Rivers United	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311316/pyramids-fc-vs-rivers-united.html
-
-02:45 [y]Italian Serie A[z]	^-
-Napoli vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194803/napoli-vs-atalanta.html
-
-02:45 [g]Belgian Pro League[z]	^-
-Club Brugge vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199095/club-brugge-vs-rc-sporting-charleroi.html
-
-03:00 [y]Netherlands Eredivisie[z]	^-
-Sparta Rotterdam vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199347/sparta-rotterdam-vs-fortuna-sittard.html
-Heracles Almelo vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199354/heracles-almelo-vs-go-ahead-eagles.html
-
-03:00 [y]Spanish La Liga[z]	^-
-Villarreal vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209860/villarreal-cf-vs-rcd-mallorca.html
-
-03:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Lanus vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4305885/club-atltico-lans-vs-atletico-mineiro.html
-
-03:05 [y]French Ligue 1[z]	^-
-Paris Saint Germain vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200338/paris-saint-germain-vs-havre-athletic-club.html
-
-03:15 [g]Portuguese Cup[z]	^-
-FC Porto vs Sintrense	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4307815/fc-porto-vs-sintrense.html
-
-07:30 [g]Brazilian Serie A[z]	^-
-Palmeiras vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141752/palmeiras-vs-fluminense-rj.html
-
-09:00 [g]Australia A-League[z]	^-
-Auckland FC vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282128/auckland-fc-vs-brisbane-roar.html
-
 09:30 [g]US Major League Soccer[z]	^-
 Vancouver Whitecaps vs Los Angeles	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4307648/vancouver-whitecaps-vs-los-angeles-fc.html
 
