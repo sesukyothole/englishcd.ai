@@ -26,45 +26,6 @@
 
 24-11-2005	^-
 
-00:30 [g]Belgian Pro League[z]	^-
-LaLouviere vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199099/raal-la-louvire-vs-anderlecht.html
-
-00:30 [y]Spanish La Liga[z]	^-
-Getafe vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209852/getafe-vs-atletico-madrid.html
-Getafe vs Atletico Madrid	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-Getafe vs Atletico Madrid	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
-00:30 [g]Saudi Professional League[z]	^-
-Al Nassr FC vs Al Khaleej Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256002/al-nassr-fc-vs-al-khaleej-club.html
-Al Nassr FC vs Al Khaleej Club	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-Al-Taawon vs NEOM Sports Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256007/al-taawoun-vs-neom-sports-club.html
-
-00:30 [g]Portuguese Cup[z]	^-
-Sporting Braga vs Nacional Madeira	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4307848/sporting-braga-vs-nacional-da-madeira.html
-
-01:15 [g]Belgian Pro League[z]	^-
-Oud Heverlee vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199103/oud-heverlee-leuven-vs-sint-truidense.html
-
-02:00 [g]Brazilian Serie A[z]	^-
-Bahia vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141747/bahia-vs-clube-de-regatas-vasco-da-gama.html
-
-02:00 [g]CAF Confederation Cup[z]	^-
-Wydad Casablanca vs Nairobi United	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312354/wydad-casablanca-vs-nairobi-united.html
-
-02:45 [y]Italian Serie A[z]	^-
-Inter Milan vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194810/inter-milan-vs-ac-milan.html
-Inter Milan vs AC Milan	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Inter Milan vs AC Milan	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-
-02:45 [y]French Ligue 1[z]	^-
-Lille vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200336/losc-lille-vs-paris-fc.html
-Lille vs Paris FC	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-
-03:00 [y]Spanish La Liga[z]	^-
-Elche vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209853/elche-vs-real-madrid.html
-Elche vs Real Madrid	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-Elche vs Real Madrid	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
 05:00 [g]US Major League Soccer[z]	^-
 FC Cincinnati vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4309810/fc-cincinnati-vs-inter-miami-cf.html
 
