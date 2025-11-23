@@ -26,10 +26,6 @@
 
 23-11-2005	^-
 
-22:15 [y]Spanish La Liga[z]	^-
-Real Betis vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209851/real-betis-vs-girona-fc.html
-Real Betis vs Girona	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
 22:45 [y]Netherlands Eredivisie[z]	^-
 Groningen vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199356/groningen-vs-pec-zwolle.html
 
@@ -78,6 +74,7 @@ Getafe vs Atletico Madrid	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/cl
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al Khaleej Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256002/al-nassr-fc-vs-al-khaleej-club.html
+Al Nassr FC vs Al Khaleej Club	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 Al-Taawon vs NEOM Sports Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256007/al-taawoun-vs-neom-sports-club.html
 
 00:30 [g]Portuguese Cup[z]	^-
@@ -94,9 +91,12 @@ Wydad Casablanca vs Nairobi United	`Fhttps://www.fctv33.net/football/caf-confede
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194810/inter-milan-vs-ac-milan.html
+Inter Milan vs AC Milan	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Inter Milan vs AC Milan	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
 02:45 [y]French Ligue 1[z]	^-
 Lille vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200336/losc-lille-vs-paris-fc.html
+Lille vs Paris FC	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 
 03:00 [y]Spanish La Liga[z]	^-
 Elche vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209853/elche-vs-real-madrid.html
@@ -155,10 +155,16 @@ DAZN 2 DE	https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd!!cf
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd!!bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
 Sky One	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport1 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd!!032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
 Sport2 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd!!5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
 Sport Networld 🇨🇦	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
@@ -526,10 +532,6 @@ FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 Fast Sports 🇵🇰	https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd!!ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
 Filmax 🇵🇰	https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd!!eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
 Fox Sports Espanol	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
@@ -585,8 +587,6 @@ Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8
 Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 SMC 4	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport enFrance 🇫🇷	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sport 🇮🇹 Italia Plus	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
