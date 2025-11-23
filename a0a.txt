@@ -52,8 +52,11 @@ Al Masry vs Kaizer Chiefs	`Fhttps://www.fctv33.net/football/caf-confederation-cu
 
 23:15 [y]French Ligue 1[z]	^-
 Toulouse vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200339/toulouse-fc-vs-angers-sco.html
+Toulouse vs Angers	https://live.vivo200.com/live/hd-en-1-4347793.m3u8?txSecret=7a33b174db503b0a25b7d1a9bf126d80&txTime=69237602
 Stade Brestois vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200341/stade-brestois-29-vs-metz.html
+Stade Brestois vs Metz	https://live.vivo200.com/live/hd-en-1-4347786.m3u8?txSecret=2c6c48439cb0f266b10cd0b321f82db2&txTime=692375EF
 Nantes vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200345/fc-nantes-vs-lorient.html
+Nantes vs Lorient	https://live.vivo200.com/live/hd-en-1-4347789.m3u8?txSecret=93327e69deaac388dd4e9028d133c401&txTime=692375F9
 
 23:30 [y]English Premier League[z]	^-
 Arsenal vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194079/arsenal-vs-tottenham-hotspur.html
