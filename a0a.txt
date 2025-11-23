@@ -26,21 +26,6 @@
 
 23-11-2005	^-
 
-19:00 [g]English Football League Champ[z]	^-
-Sheffield Wednesday vs Sheffield Utd	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204102/sheffield-wednesday-vs-sheffield-united.html
-Sheffield Wednesday vs Sheffield Utd	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
-19:00 Liga 1	^-
-Bali United vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229698/bali-united-vs-persis-solo-fc.html
-Bali United vs Persis Solo FC	`0https://live.samuraitv.biz.id/p/ch1.html
-
-19:00 [g]Thai League 1[z]	^-
-Lamphun Warrior vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266204/lamphun-warriors-vs-uthai-thani-forest.html
-Lamphun Warrior vs Uthai Thani Forest	https://bf.jalaplay.net/live/5004716_FHD1080.m3u8?txSecret=c5d7c993384f398f62461bcad6efd7f6&txTime=69230a58
-
-19:00 Liga 2	^-
-Persiba Balikpapan vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4313350/persiba-balikpapan-vs-psis-semarang.html
-
 19:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199097/racing-genk-vs-kv-mechelen.html
 
