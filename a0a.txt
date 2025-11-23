@@ -26,20 +26,6 @@
 
 23-11-2005	^-
 
-21:30 [y]Bundesliga[z]	^-
-RB Leipzig vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199764/rb-leipzig-vs-sv-werder-bremen.html
-RB Leipzig vs Werder Bremen	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
-22:00 [g]Danish Superliga[z]	^-
-Nordsjaelland vs Fredericia	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193573/nordsjaelland-vs-fredericia.html
-
-22:00 [g]Belgian Pro League[z]	^-
-Royal Antwerp vs FCV Dender EH	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199096/royal-antwerp-vs-fcv-dender-eh.html
-
-22:15 [y]Spanish La Liga[z]	^-
-Real Betis vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209851/real-betis-vs-girona-fc.html
-Real Betis vs Girona	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
 22:45 [y]Netherlands Eredivisie[z]	^-
 Groningen vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199356/groningen-vs-pec-zwolle.html
 
