@@ -26,47 +26,6 @@
 
 23-11-2005	^-
 
-20:00 [g]Danish Superliga[z]	^-
-Viborg vs Vejle	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193590/viborg-vs-vejle.html
-
-20:00 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209856/real-oviedo-vs-rayo-vallecano.html
-Real Oviedo vs Rayo Vallecano	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
-20:00 [g]CAF Champions League[z]	^-
-Simba Sports vs Petro Atletico	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311365/simba-sports-club-vs-petro-atletico-de-luanda.html
-
-20:00 [g]CAF Confederation Cup[z]	^-
-Stellenbosch FC vs AS Otoho	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312532/stellenbosch-fc-vs-as-otoho.html
-
-20:30 [y]Netherlands Eredivisie[z]	^-
-SC Telstar vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199349/sc-telstar-vs-fc-utrecht.html
-Feyenoord vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199351/feyenoord-vs-nec-nijmegen.html
-Feyenoord vs NEC Nijmegen	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
-
-20:30 [g]Austrian Bundesliga[z]	^-
-Red Bull Salzburg vs Swarovski Tirol	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202583/red-bull-salzburg-vs-wsg-tirol.html
-Sturm Graz vs LASK Linz	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202603/sturm-graz-vs-lask-linz.html
-
-20:30 [g]Poland Liga 1[z]	^-
-Pogon Siedlce vs Wisla Krakow	`Fhttps://www.fctv33.net/football/poland-liga-1-match-4206030/pogon-siedlce-vs-wisla-krakow.html
-
-20:30 [g]South Africa Premier Soccer League[z]	^-
-TS Galaxy vs Lamontville Arrows	`Fhttps://www.fctv33.net/football/south-africa-premier-soccer-league-match-4251125/ts-galaxy-vs-lamontville-golden-arrows.html
-
-21:00 [y]English Premier League[z]	^-
-Leeds United vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194076/leeds-united-vs-aston-villa.html
-Leeds United vs Aston Villa	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-
-21:00 [y]Italian Serie A[z]	^-
-Cremonese vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194806/cremonese-vs-as-roma.html
-Cremonese vs AS Roma	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-
-21:00 [y]French Ligue 1[z]	^-
-AJ Auxerre vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200342/aj-auxerre-vs-lyon.html
-^=AJ Auxerre vs Lyon 0	`0https://streamtpmedia.com/global1.php?stream=disney11
-^=AJ Auxerre vs Lyon 3	`3https://streamtpmedia.com/global1.php?stream=disney11
-
 21:30 [y]Bundesliga[z]	^-
 RB Leipzig vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199764/rb-leipzig-vs-sv-werder-bremen.html
 RB Leipzig vs Werder Bremen	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
@@ -98,6 +57,8 @@ Nantes vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200345
 
 23:30 [y]English Premier League[z]	^-
 Arsenal vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194079/arsenal-vs-tottenham-hotspur.html
+Arsenal vs Tottenham Hotspur	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+Arsenal vs Tottenham Hotspur	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 
 23:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199792/fc-st-pauli-vs-1-fc-union-berlin.html
