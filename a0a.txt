@@ -26,16 +26,6 @@
 
 23-11-2005	^-
 
-15:30 Liga 1	^-
-Persita Tangerang vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229696/persita-tangerang-vs-malut-united.html
-Persita Tangerang vs Malut United	`0https://live.samuraitv.biz.id/p/ch2.html
-
-15:30 Liga 2	^-
-Persiku Kudus vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4313343/persiku-kudus-vs-persela-lamongan.html
-
-16:00 Malaysian Super League	^-
-Imigresen FC vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221150/imigresen-fc-vs-pdrm-fc.html
-
 18:00 [g]Danish Superliga[z]	^-
 FC Copenhagen vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193613/fc-copenhagen-vs-brondby-if.html
 
@@ -50,6 +40,8 @@ SC Heerenveen vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-erediv
 
 18:30 [y]Italian Serie A[z]	^-
 Verona vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194809/hellas-verona-vs-parma.html
+Verona vs Parma	https://live.vivo200.com/live/sd-1-4339580.m3u8?txSecret=67007e9bf43b749ccdd51257489b28c1&txTime=6923369A
+Verona vs Parma	https://live.qfngx.com/sport/202_4312095_1.m3u8?txSecret=810d27ff2ff67bb56c58e268d2c259f2&txTime=1763897106
 
 18:30 Malaysian Super League	^-
 Sabah vs Penang	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221151/sabah-fc-vs-penang-fc.html
