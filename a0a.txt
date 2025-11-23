@@ -24,45 +24,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-23-11-2005	^-
-
-22:45 [y]Netherlands Eredivisie[z]	^-
-Groningen vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199356/groningen-vs-pec-zwolle.html
-
-23:00 [g]Austrian Bundesliga[z]	^-
-Rapid Wien vs Grazer AK	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202453/rapid-wien-vs-grazer-ak.html
-
-23:00 [g]CAF Confederation Cup[z]	^-
-Djoliba vs Olympique de Safi	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312543/djoliba-vs-olympique-de-safi.html
-Al Masry vs Kaizer Chiefs	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312544/al-masry-vs-kaizer-chiefs.html
-
-23:15 [y]French Ligue 1[z]	^-
-Toulouse vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200339/toulouse-fc-vs-angers-sco.html
-Toulouse vs Angers	https://live.vivo200.com/live/hd-en-1-4347793.m3u8?txSecret=7a33b174db503b0a25b7d1a9bf126d80&txTime=69237602
-Stade Brestois vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200341/stade-brestois-29-vs-metz.html
-Stade Brestois vs Metz	https://live.vivo200.com/live/hd-en-1-4347786.m3u8?txSecret=2c6c48439cb0f266b10cd0b321f82db2&txTime=692375EF
-Nantes vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200345/fc-nantes-vs-lorient.html
-Nantes vs Lorient	https://live.vivo200.com/live/hd-en-1-4347789.m3u8?txSecret=93327e69deaac388dd4e9028d133c401&txTime=692375F9
-
-23:30 [y]English Premier League[z]	^-
-Arsenal vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194079/arsenal-vs-tottenham-hotspur.html
-Arsenal vs Tottenham Hotspur	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-Arsenal vs Tottenham Hotspur	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-
-23:30 [y]Bundesliga[z]	^-
-FC St. Pauli vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199792/fc-st-pauli-vs-1-fc-union-berlin.html
-FC St. Pauli vs Union Berlin	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-FC St. Pauli vs Union Berlin	https://play.y808.com/live/112361014268_3542413497_1080p.m3u8
-
 24-11-2005	^-
-
-00:00 [g]Danish Superliga[z]	^-
-Sonderjyske vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193536/sonderjyske-vs-midtjylland.html
-
-00:00 [y]Italian Serie A[z]	^-
-Lazio vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194821/lazio-vs-lecce.html
-Lazio vs Lecce	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-Lazio vs Lecce	https://live.vivo200.com/live/hd-en-1-4339575.m3u8?txSecret=89113eb7d1f67163235de5aaa363132c&txTime=69238427
 
 00:30 [g]Belgian Pro League[z]	^-
 LaLouviere vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199099/raal-la-louvire-vs-anderlecht.html
