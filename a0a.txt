@@ -58,8 +58,10 @@ Napoli vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-
 Napoli vs Qarabag	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 Napoli vs Qarabag	https://live.vivo200.com/live/sd-1-4415389.m3u8?txSecret=788e7e65ee70072f6d3232350802e1c4&txTime=6926518E
 Bodo Glimt vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283709/bodo-glimt-vs-juventus.html
+Bodo Glimt vs Juventus	https://v.aqsxx.cn/live/100338.m3u8?txSecret=45b3310a48931173852aaba522059e70&txTime=692614B2&sign=b80609a4687eed22
 Bodo Glimt vs Juventus	`0https://streaming.sportsnews.id/p/ch1.html
 Slavia Praha vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283714/slavia-praha-vs-athletic-club.html
+Slavia Praha vs Athletic Bilbao	https://live.vivo200.com/live/sd-1-4415426.m3u8?txSecret=1a1a6dec0d2883495a8b63c289fb66fd&txTime=69265197
 Slavia Praha vs Athletic Bilbao	`0https://streaming.sportsnews.id/p/ch2.html
 
 04:00 [g]CONCACAF Caribbean Cup[z]	^-
