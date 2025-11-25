@@ -40,6 +40,7 @@ Middlesbrough vs Coventry City	`Fhttps://www.fctv33.net/football/english-footbal
 
 03:00 [g]English Football League Champ[z]	^-
 Southampton vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204120/southampton-vs-leicester-city.html
+Southampton vs Leicester City	https://play7ba.peodlc.com/live/202_4312721_1.m3u8
 
 03:00 [y]UEFA Champions League[z]	^-
 Chelsea vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283710/chelsea-vs-fc-barcelona.html
