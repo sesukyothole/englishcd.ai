@@ -26,17 +26,59 @@
 
 25-11-2005	^-
 
-05:00 [g]Brazilian Serie A[z]	^-
-Mirassol vs Ceara	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141742/mirassol-vs-ceara.html
+14:45 [g]AFC Champions League Elite[z]	^-
+Melbourne City vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258387/melbourne-city-vs-johor-darul-tazim-fc.html
 
-05:15 [g]Argentine Division 1[z]	^-
-Racing Club vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4312511/racing-club-de-avellaneda-vs-river-plate.html
+17:00 [g]AFC Champions League Elite[z]	^-
+Gangwon FC vs Machida Zelvia	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258393/gangwon-football-club-vs-machida-zelvia.html
+Shanghai Port vs FC Seoul	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258396/shanghai-port-fc-vs-football-club-seoul.html
 
-07:00 [g]Brazilian Serie A[z]	^-
-Internacional RS vs Santos	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141748/internacional-rs-vs-santos.html
+19:15 [g]AFC Champions League Elite[z]	^-
+Chengdu City vs Hiroshima Sanfrecce	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283078/chengdu-rongcheng-fc-vs-sanfrecce-hiroshima.html
 
-10:00 [g]US Major League Soccer[z]	^-
-San Diego FC vs Minnesota United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4309809/san-diego-fc-vs-minnesota-united-fc.html
+23:00 [g]AFC Champions League Elite[z]	^-
+Al Wehda UAE vs Al-Sadd	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258455/al-wahda-fc-vs-al-sadd.html
+
+26-11-2005	^-
+
+00:30 [g]South Africa Premier League[z]	^-
+Orlando Pirates vs Chippa United	`Fhttps://www.fctv33.net/football/south-africa-premier-soccer-league-match-4251020/orlando-pirates-vs-chippa-united.html
+
+00:45 [y]UEFA Champions League[z]	^-
+AFC Ajax vs Benfica	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268473/afc-ajax-vs-benfica.html
+Galatasaray vs Saint Gilloise	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283715/galatasaray-vs-union-saint-gilloise.html
+
+01:15 [g]AFC Champions League Elite[z]	^-
+Al Hilal SFC vs Al Shorta	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258447/al-hilal-vs-al-shorta.html
+
+02:45 [g]English Football League Champ[z]	^-
+Hull City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204116/hull-city-vs-ipswich-town.html
+Swansea City vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204119/swansea-city-vs-derby-county.html
+Norwich City vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204121/norwich-city-vs-oxford-united.html
+Watford vs Preston North End	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204123/watford-vs-preston-north-end.html
+Stoke City vs Charlton Athletic	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204125/stoke-city-vs-charlton-athletic.html
+Middlesbrough vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204126/middlesbrough-vs-coventry-city.html
+
+03:00 [g]English Football League Champ[z]	^-
+Southampton vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204120/southampton-vs-leicester-city.html
+
+03:00 [y]UEFA Champions League[z]	^-
+Napoli vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269420/napoli-vs-qarabag.html
+Bodo Glimt vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283709/bodo-glimt-vs-juventus.html
+Chelsea vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283710/chelsea-vs-fc-barcelona.html
+Borussia Dortmund vs Villarreal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283711/borussia-dortmund-vs-villarreal-cf.html
+Manchester City vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283712/manchester-city-vs-bayer-04-leverkusen.html
+Marseille vs Newcastle United	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283713/marseille-vs-newcastle-united.html
+Slavia Praha vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283714/slavia-praha-vs-athletic-club.html
+
+04:00 [g]CONCACAF Caribbean Cup[z]	^-
+National Defense Forces vs Cibao	`Fhttps://www.fctv33.net/football/concacaf-caribbean-cup-match-4312844/national-defense-forces-vs-cibao-fc.html
+
+06:00 [g]CONCACAF Caribbean Cup[z]	^-
+Universidad O&M vs Mount Pleasant	`Fhttps://www.fctv33.net/football/concacaf-caribbean-cup-match-4312915/universidad-om-vs-mount-pleasant-fa.html
+
+07:30 [g]Brazilian Serie A[z]	^-
+Atletico Mineiro vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141793/atletico-mineiro-vs-cr-flamengo.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
