@@ -42,6 +42,7 @@ Galatasaray vs Saint Gilloise	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-n
 
 01:15 [g]AFC Champions League Elite[z]	^-
 Al Hilal SFC vs Al Shorta	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258447/al-hilal-vs-al-shorta.html
+Al Hilal SFC vs Al Shorta	`0https://live.samuraitv.biz.id/p/ch5_9.html
 
 02:45 [g]English Football League Champ[z]	^-
 Hull City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204116/hull-city-vs-ipswich-town.html
@@ -66,7 +67,9 @@ Borussia Dortmund vs Villarreal	https://a129aivottlinear-a.akamaihd.net/OTTB/bom
 Napoli vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269420/napoli-vs-qarabag.html
 Napoli vs Qarabag	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 Bodo Glimt vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283709/bodo-glimt-vs-juventus.html
+Bodo Glimt vs Juventus	`0https://streaming.sportsnews.id/p/ch1.html
 Slavia Praha vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283714/slavia-praha-vs-athletic-club.html
+Slavia Praha vs Athletic Bilbao	`0https://streaming.sportsnews.id/p/ch2.html
 
 04:00 [g]CONCACAF Caribbean Cup[z]	^-
 National Defense Forces vs Cibao	`Fhttps://www.fctv33.net/football/concacaf-caribbean-cup-match-4312844/national-defense-forces-vs-cibao-fc.html
