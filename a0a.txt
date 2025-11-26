@@ -26,14 +26,6 @@
 
 26-11-2005	^-
 
-17:00 [g]AFC Champions League Elite[z]	^-
-Ulsan Hyundai FC vs Buriram United	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258386/ulsan-hd-fc-vs-buriram-united.html
-Ulsan Hyundai FC vs Buriram United	https://hls.bitiyu9.cc/hd-en-6MvXc3quMoJbD6dBnw.m3u8?token=iktvNR3qNwIkIsDnscDxPG0yrBUL2pKQ2JqK0RGRTZWa0Q3MlgxeUlobGZxRGwxTk83TnJQc2toTml5dWNrV0pkbTFHekthWU5hWS9zSUp6dHVsZ2lXb2Z2YW
-
-17:00 [g]Thai League Cup[z]	^-
-Samut Sakhon vs Nakhon Si United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314836/samut-sakhon-city-vs-nakhon-si-united-fc.html
-Padriew City vs Bangkok	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314837/padriew-city-vs-bangkok.html
-
 18:00 [l]AFC U17 Asian Cup[z]	^-
 India vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282281/india-u17-vs-chinese-taipei-u17.html
 Iran vs Lebanon	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282295/iran-u17-vs-lebanon-u17.html
@@ -44,6 +36,7 @@ Thap Luang United vs BEC Tero Sasana	`Fhttps://www.fctv33.net/football/thai-leag
 
 18:35 [l]AFC U17 Asian Cup[z]	^-
 China vs Brunei Darussalam	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282357/china-u17-vs-brunei-darussalam-u17.html
+China vs Brunei Darussalam	https://bf.njscwh.com/live/sd-1-4401707.m3u8?txSecret=406beca72ed329ec7e8f382140ad0c53&txTime=6926e67f
 
 19:15 [g]AFC Champions League 2[z]	^-
 Lion City Sailors vs Persib Bandung	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258844/lion-city-sailors-vs-persib-bandung.html
