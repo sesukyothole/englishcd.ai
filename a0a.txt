@@ -26,29 +26,6 @@
 
 26-11-2005	^-
 
-19:15 [g]AFC Champions League 2[z]	^-
-Lion City Sailors vs Persib Bandung	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258844/lion-city-sailors-vs-persib-bandung.html
-Lion City Sailors vs Persib Bandung	https://play5.y808.com/live/11177448534_2593327720_1080p.m3u8
-Lion City Sailors vs Persib Bandung	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Bangkok United FC vs Selangor	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258881/bangkok-united-fc-vs-selangor-fc.html
-Bangkok United FC vs Selangor	https://play.y808.com/live/114088739231_245559222_1080p.m3u8
-Bangkok United FC vs Selangor	https://live.vivo200.com/live/sd-1-4405651.m3u8?txSecret=f9d6d5955c0ff5aba2bee7973d5f5387&txTime=692736F4
-
-19:15 [g]AFC Champions League Elite[z]	^-
-Shanghai Shenhua vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283077/shanghai-shenhua-fc-vs-vissel-kobe.html
-Shanghai Shenhua vs Vissel Kobe	https://live2.huiji0888.com/live/63014375_185e55f2683d3549a50c39e6d4d10e01_h1080p.m3u8
-
-19:30 [l]International Friendly (w)[z]	^-
-Indonesia 🇮🇩 vs Nepal 🇳🇵	`Fhttps://www.fctv33.net/football/international-friendly-match-4313943/indonesia-women-vs-nepal-women.html
-Indonesia 🇮🇩 vs Nepal 🇳🇵	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTAyNDIwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Indonesia 🇮🇩 vs Nepal 🇳🇵	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3911682
-
-20:45 [g]AFC Champions League 2[z]	^-
-FK Andijon vs Arkadag FK	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259250/fk-andijon-vs-arkadag-fk.html
-FK Andijon vs Arkadag FK	https://v.aqsxx.cn/live/100479.m3u8?txSecret=3c3a9cc75f1f7e5e9817c5ad67b04124&txTime=69270D21&sign=e662289b3d1bcca6
-Istiklol Dushanbe vs Al Nassr	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4260063/fc-istiklol-dushanbe-vs-al-nassr-fc.html
-Istiklol Dushanbe vs Al Nassr	https://live.qfngx.com/sport/202_3921428_1.m3u8?txSecret=8cf89f5559e5c1bb59d63cb87c0f330d&txTime=1764165356
-
 23:00 [g]AFC Champions League 2[z]	^-
 Esteghlal Tehran vs Al-Wasl	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4257991/esteghlal-tehran-vs-al-wasl-sc.html
 Al Zawraa vs FC Goa	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4281113/al-zawraa-vs-fc-goa.html
