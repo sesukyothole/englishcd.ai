@@ -28,8 +28,10 @@
 
 00:45 [y]UEFA Champions League[z]	^-
 FC Copenhagen vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268106/fc-copenhagen-vs-fc-kairat-almaty.html
+FC Copenhagen vs FC Kairat Almaty	https://play5.y808.com/live/11657506276_2290718039_1080p.m3u8
 FC Copenhagen vs FC Kairat Almaty	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 Pafos FC vs Monaco	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283708/pafos-fc-vs-as-monaco.html
+Pafos FC vs Monaco	https://play4.y808.com/live/113112170019_1802278841_1080p.m3u8
 Pafos FC vs Monaco	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 
 03:00 [y]UEFA Champions League[z]	^-
