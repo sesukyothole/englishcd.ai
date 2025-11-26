@@ -26,29 +26,6 @@
 
 27-11-2005	^-
 
-03:00 [y]UEFA Champions League[z]	^-
-Arsenal vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283701/arsenal-vs-fc-bayern-munich.html
-Arsenal vs Bayern Munchen	https://live.qfngx.com/sport/202_3960816_2.m3u8?txSecret=4764a44ed131be170dc9a914c551cd5e&txTime=1764187203
-Arsenal vs Bayern Munchen	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-Atletico Madrid vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283702/atletico-madrid-vs-inter-milan.html
-Atletico Madrid vs Inter Milan	https://live3.huiji0888.com/live/63369877_91ccf486b4b649677814dba1b1141dc1_h1080p.m3u8
-Atletico Madrid vs Inter Milan	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
-Liverpool vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283704/liverpool-vs-psv-eindhoven.html
-Liverpool vs PSV Eindhoven	https://live.qfngx.com/sport/202_3960739_2.m3u8?txSecret=c176f5aa6cc28aca11c7aa626f57fe7c&txTime=1764187460
-Liverpool vs PSV Eindhoven	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-Olympiakos Piraeus vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283705/olympiakos-piraeus-vs-real-madrid.html
-Olympiakos Piraeus vs Real Madrid	https://live.qfngx.com/sport/202_3960716_2.m3u8?txSecret=b216ea71c40af11e75413c891fb6bea6&txTime=1764187350
-Olympiakos Piraeus vs Real Madrid	`https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-Paris St Germain vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283706/paris-saint-germain-vs-tottenham-hotspur.html
-Paris St Germain vs Tottenham Spur	https://live.qfngx.com/sport/202_3960707_2.m3u8?txSecret=6c1400fa3e7bc0b0dc45c997bd75c2af&txTime=1764187277
-Paris St Germain vs Tottenham Spur	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-Eintracht Frankfurt vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283703/eintracht-frankfurt-vs-atalanta.html
-Eintracht Frankfurt vs Atalanta	https://live.qfngx.com/sport/202_3960768_1.m3u8?txSecret=88eac8f1a77fa93bf353d5e2f40abc0c&txTime=1764187516
-Eintracht Frankfurt vs Atalanta	https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd!!02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
-Sporting CP vs Club Brugge	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283707/sporting-cp-vs-club-brugge.html
-Sporting CP vs Club Brugge	https://live.qfngx.com/sport/202_3960686_1.m3u8?txSecret=3e05ced67e855566f9a74dae51fe9dde&txTime=1764187132
-Sporting CP vs Club Brugge	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-
 12:00 [g]Mexico Liga MX[z]	^-
 Club Tijuana vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4314088/club-tijuana-vs-tigres-uanl.html
 
