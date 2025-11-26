@@ -26,14 +26,6 @@
 
 26-11-2005	^-
 
-16:00 [l]AFC U17 Asian Cup[z]	^-
-Yemen vs Cambodia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282288/yemen-u17-vs-cambodia-u17.html
-Pakistan vs Laos	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282290/pakistan-u17-vs-laos-u17.html
-North Mariana Island vs Singapore	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307760/northern-mariana-island-u17-vs-singapore-u17.html
-
-16:00 [g]Thai League Cup[z]	^-
-Banbueng City vs Mahasarakham United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314835/banbueng-city-vs-mahasarakham-sbt-fc.html
-
 17:00 [g]AFC Champions League Elite[z]	^-
 Ulsan Hyundai FC vs Buriram United	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258386/ulsan-hd-fc-vs-buriram-united.html
 
@@ -60,7 +52,7 @@ Bangkok United FC vs Selangor	`Fhttps://www.fctv33.net/football/afc-champions-le
 Shanghai Shenhua vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283077/shanghai-shenhua-fc-vs-vissel-kobe.html
 
 19:30 [l]International Friendly (w)[z]	^-
-Indonesia vs Nepal	`Fhttps://www.fctv33.net/football/international-friendly-match-4313943/indonesia-women-vs-nepal-women.html
+Indonesia 🇮🇩 vs Nepal 🇳🇵	`Fhttps://www.fctv33.net/football/international-friendly-match-4313943/indonesia-women-vs-nepal-women.html
 
 20:45 [g]AFC Champions League 2[z]	^-
 FK Andijon vs Arkadag FK	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259250/fk-andijon-vs-arkadag-fk.html
