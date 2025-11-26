@@ -26,14 +26,6 @@
 
 26-11-2005	^-
 
-18:00 [l]AFC U17 Asian Cup[z]	^-
-India vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282281/india-u17-vs-chinese-taipei-u17.html
-Iran vs Lebanon	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282295/iran-u17-vs-lebanon-u17.html
-Vietnam vs Hong Kong	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307761/vietnam-u17-vs-hong-kong-u17.html
-
-18:00 [g]Thai League Cup[z]	^-
-Thap Luang United vs BEC Tero Sasana	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314838/thap-luang-united-vs-bec-tero-sasana.html
-
 18:35 [l]AFC U17 Asian Cup[z]	^-
 China vs Brunei Darussalam	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282357/china-u17-vs-brunei-darussalam-u17.html
 China vs Brunei Darussalam	https://bf.njscwh.com/live/sd-1-4401707.m3u8?txSecret=406beca72ed329ec7e8f382140ad0c53&txTime=6926e67f
@@ -51,6 +43,7 @@ Bangkok United FC vs Selangor	https://live.vivo200.com/live/sd-1-4405651.m3u8?tx
 
 19:15 [g]AFC Champions League Elite[z]	^-
 Shanghai Shenhua vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283077/shanghai-shenhua-fc-vs-vissel-kobe.html
+Shanghai Shenhua vs Vissel Kobe	https://live2.huiji0888.com/live/63014375_185e55f2683d3549a50c39e6d4d10e01_h1080p.m3u8
 
 19:30 [l]International Friendly (w)[z]	^-
 Indonesia 🇮🇩 vs Nepal 🇳🇵	`Fhttps://www.fctv33.net/football/international-friendly-match-4313943/indonesia-women-vs-nepal-women.html
