@@ -34,13 +34,13 @@ Atletico Madrid vs Inter Milan	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw102
 Liverpool vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283704/liverpool-vs-psv-eindhoven.html
 Liverpool vs PSV Eindhoven	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 Olympiakos Piraeus vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283705/olympiakos-piraeus-vs-real-madrid.html
-Olympiakos Piraeus vs Real Madrid	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+Olympiakos Piraeus vs Real Madrid	`https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 Paris St Germain vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283706/paris-saint-germain-vs-tottenham-hotspur.html
 Paris St Germain vs Tottenham Spur	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 Eintracht Frankfurt vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283703/eintracht-frankfurt-vs-atalanta.html
-Eintracht Frankfurt vs Atalanta	`0https://streaming.sportsnews.id/p/ch1.html
+Eintracht Frankfurt vs Atalanta	https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd!!02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
 Sporting CP vs Club Brugge	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283707/sporting-cp-vs-club-brugge.html
-Sporting CP vs Club Brugge	`0https://sportsonline.si/channels/pt/sporttv5.php
+Sporting CP vs Club Brugge	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 12:00 [g]Mexico Liga MX[z]	^-
 Club Tijuana vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4314088/club-tijuana-vs-tigres-uanl.html
@@ -92,6 +92,8 @@ Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc
 HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd!!bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
 Sky One	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+Eintracht Frankfurt vs Atalanta	https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd!!02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
+TNT Sports Space	https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd!!02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport1 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd!!032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
