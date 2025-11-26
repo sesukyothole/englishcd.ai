@@ -34,10 +34,13 @@ Al Zawraa vs FC Goa	`Fhttps://www.fctv33.net/football/afc-champions-league-2-mat
 
 00:45 [y]UEFA Champions League[z]	^-
 FC Copenhagen vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268106/fc-copenhagen-vs-fc-kairat-almaty.html
+FC Copenhagen vs FC Kairat Almaty	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 Pafos FC vs Monaco	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283708/pafos-fc-vs-as-monaco.html
+Pafos FC vs Monaco	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 
 03:00 [y]UEFA Champions League[z]	^-
 Arsenal vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283701/arsenal-vs-fc-bayern-munich.html
+Arsenal vs Bayern Munchen	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 Atletico Madrid vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283702/atletico-madrid-vs-inter-milan.html
 Eintracht Frankfurt vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283703/eintracht-frankfurt-vs-atalanta.html
 Liverpool vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283704/liverpool-vs-psv-eindhoven.html
