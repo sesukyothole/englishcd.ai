@@ -44,6 +44,7 @@ Paris St Germain vs Tottenham Spur	https://a129aivottlinear-a.akamaihd.net/OTTB/
 Eintracht Frankfurt vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283703/eintracht-frankfurt-vs-atalanta.html
 Eintracht Frankfurt vs Atalanta	https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd!!02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
 Sporting CP vs Club Brugge	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283707/sporting-cp-vs-club-brugge.html
+Sporting CP vs Club Brugge	https://live.qfngx.com/sport/202_3960686_1.m3u8?txSecret=3e05ced67e855566f9a74dae51fe9dde&txTime=1764187132
 Sporting CP vs Club Brugge	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 12:00 [g]Mexico Liga MX[z]	^-
