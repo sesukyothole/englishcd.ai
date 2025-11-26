@@ -46,6 +46,7 @@ Lion City Sailors vs Persib Bandung	`Fhttps://www.fctv33.net/football/afc-champi
 Lion City Sailors vs Persib Bandung	https://play5.y808.com/live/11177448534_2593327720_1080p.m3u8
 Lion City Sailors vs Persib Bandung	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Bangkok United FC vs Selangor	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258881/bangkok-united-fc-vs-selangor-fc.html
+Bangkok United FC vs Selangor	https://play.y808.com/live/114088739231_245559222_1080p.m3u8
 Bangkok United FC vs Selangor	https://live.vivo200.com/live/sd-1-4405651.m3u8?txSecret=f9d6d5955c0ff5aba2bee7973d5f5387&txTime=692736F4
 
 19:15 [g]AFC Champions League Elite[z]	^-
