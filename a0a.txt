@@ -27,7 +27,72 @@
 26-11-2005	^-
 
 15:00 [g]Thai League Cup[z]	^-
-Lopburi City FC vs Songkhla FC	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314831/lopburi-city-fc-vs-songkhla-fc.html
+Lopburi City vs Songkhla	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314831/lopburi-city-fc-vs-songkhla-fc.html
+Udon United vs Khonkaen United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314832/udon-united-vs-khonkaen-united.html
+Thonburi United vs Sisaket United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314833/thonburi-united-fc-vs-sisaket-united.html
+Kasem Bundit University vs Chainat	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314834/kasem-bundit-university-fc-vs-chainat-hornbill-fc.html
+
+16:00 [l]AFC U17 Asian Cup[z]	^-
+Yemen vs Cambodia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282288/yemen-u17-vs-cambodia-u17.html
+Pakistan vs Laos	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282290/pakistan-u17-vs-laos-u17.html
+North Mariana Island vs Singapore	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307760/northern-mariana-island-u17-vs-singapore-u17.html
+
+16:00 [g]Thai League Cup[z]	^-
+Banbueng City vs Mahasarakham United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314835/banbueng-city-vs-mahasarakham-sbt-fc.html
+
+17:00 [g]AFC Champions League Elite[z]	^-
+Ulsan Hyundai FC vs Buriram United	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258386/ulsan-hd-fc-vs-buriram-united.html
+
+17:00 [g]Thai League Cup[z]	^-
+Samut Sakhon vs Nakhon Si United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314836/samut-sakhon-city-vs-nakhon-si-united-fc.html
+Padriew City vs Bangkok	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314837/padriew-city-vs-bangkok.html
+
+18:00 [l]AFC U17 Asian Cup[z]	^-
+India vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282281/india-u17-vs-chinese-taipei-u17.html
+Iran vs Lebanon	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282295/iran-u17-vs-lebanon-u17.html
+Vietnam vs Hong Kong	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307761/vietnam-u17-vs-hong-kong-u17.html
+
+18:00 [g]Thai League Cup[z]	^-
+Thap Luang United vs BEC Tero Sasana	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314838/thap-luang-united-vs-bec-tero-sasana.html
+
+18:35 [l]AFC U17 Asian Cup[z]	^-
+China vs Brunei Darussalam	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282357/china-u17-vs-brunei-darussalam-u17.html
+
+19:15 [g]AFC Champions League 2[z]	^-
+Lion City Sailors vs Persib Bandung	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258844/lion-city-sailors-vs-persib-bandung.html
+Bangkok United FC vs Selangor	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258881/bangkok-united-fc-vs-selangor-fc.html
+
+19:15 [g]AFC Champions League Elite[z]	^-
+Shanghai Shenhua vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283077/shanghai-shenhua-fc-vs-vissel-kobe.html
+
+19:30 [l]International Friendly (w)[z]	^-
+Indonesia vs Nepal	`Fhttps://www.fctv33.net/football/international-friendly-match-4313943/indonesia-women-vs-nepal-women.html
+
+20:45 [g]AFC Champions League 2[z]	^-
+FK Andijon vs Arkadag FK	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259250/fk-andijon-vs-arkadag-fk.html
+Istiklol Dushanbe vs Al Nassr	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4260063/fc-istiklol-dushanbe-vs-al-nassr-fc.html
+
+23:00 [g]AFC Champions League 2[z]	^-
+Esteghlal Tehran vs Al-Wasl	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4257991/esteghlal-tehran-vs-al-wasl-sc.html
+Al Zawraa vs FC Goa	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4281113/al-zawraa-vs-fc-goa.html
+
+27-11-2005	^-
+
+00:45 [y]UEFA Champions League[z]	^-
+FC Copenhagen vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268106/fc-copenhagen-vs-fc-kairat-almaty.html
+Pafos FC vs Monaco	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283708/pafos-fc-vs-as-monaco.html
+
+03:00 [y]UEFA Champions League[z]	^-
+Arsenal vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283701/arsenal-vs-fc-bayern-munich.html
+Atletico Madrid vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283702/atletico-madrid-vs-inter-milan.html
+Eintracht Frankfurt vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283703/eintracht-frankfurt-vs-atalanta.html
+Liverpool vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283704/liverpool-vs-psv-eindhoven.html
+Olympiakos Piraeus vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283705/olympiakos-piraeus-vs-real-madrid.html
+Paris St Germain vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283706/paris-saint-germain-vs-tottenham-hotspur.html
+Sporting CP vs Club Brugge	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283707/sporting-cp-vs-club-brugge.html
+
+12:00 [g]Mexico Liga MX[z]	^-
+Club Tijuana vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4314088/club-tijuana-vs-tigres-uanl.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
