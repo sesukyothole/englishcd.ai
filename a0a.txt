@@ -26,45 +26,6 @@
 
 28-11-2005	^-
 
-00:45 [y]UEFA Europa League[z]	^-
-Ludogorets Razgrad vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270181/ludogorets-razgrad-vs-rc-celta.html
-Ludogorets Razgrad vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_3964091_1.m3u8
-
-00:45 [y]UEFA Europa Conference League[z]	^-
-AZ Alkmaar vs Shelbourne	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272426/az-alkmaar-vs-shelbourne.html
-AZ Alkmaar vs Shelbourne	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
-Hamrun Spartans vs Lincoln Red Imps	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4287135/hamrun-spartans-vs-lincoln-red-imps-fc.html
-
-00:45 [y]UEFA Europa League[z]	^-
-FC Viktoria Plzen vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287323/fc-viktoria-plzen-vs-sc-freiburg.html
-FC Viktoria Plzen vs SC Freiburg	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-FC Porto vs Nice	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287324/fc-porto-vs-ogc-nice.html
-FC Porto vs Nice	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-AS Roma vs Midtjylland	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287325/as-roma-vs-midtjylland.html
-AS Roma vs Midtjylland	https://play7ba.peodlc.com/live/202_3964031_1.m3u8
-Feyenoord vs Celtic FC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287326/feyenoord-vs-celtic-fc.html
-Feyenoord vs Celtic FC	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-Lille vs Dinamo Zagreb	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287327/losc-lille-vs-dinamo-zagreb.html
-Lille vs Dinamo Zagreb	https://live.vivo200.com/live/sd-1-4415684.m3u8?txSecret=85c5aa6a308ddff384da1e068620ae9b&txTime=6928DF31
-Fenerbahce vs Ferencvarosi TC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287328/fenerbahce-vs-ferencvarosi-tc.html
-Fenerbahce vs Ferencvarosi TC	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
-PAOK Saloniki vs Brann	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287329/paok-saloniki-vs-brann.html
-PAOK Saloniki vs Brann	https://play7ba.peodlc.com/live/202_3964089_1.m3u8
-Aston Villa vs Young Boys	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287330/aston-villa-vs-young-boys.html
-Aston Villa vs Young Boys	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-
-00:45 [y]UEFA Europa Conference League[z]	^-
-Lech Poznan vs Lausanne Sports	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295383/lech-poznan-vs-lausanne-sports.html
-Rakow Czestochowa vs Rapid Wien	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295384/rakow-czestochowa-vs-rapid-wien.html
-HSK Zrinjski Mostar vs Hacken	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295385/hsk-zrinjski-mostar-vs-hacken.html
-Omonia Nicosia FC vs Dynamo Kyiv	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295386/omonia-nicosia-fc-vs-dynamo-kyiv.html
-Slovan Bratislava vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295387/slovan-bratislava-vs-rayo-vallecano.html
-Sigma Olomouc vs NK Publikum Celje	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295388/sigma-olomouc-vs-nk-publikum-celje.html
-Universitatea Craiova vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295389/cs-universitatea-craiova-vs-1-fsv-mainz-05.html
-
-01:00 [l]International Friendly (w)[z]	^-
-Finland vs Austria	`Fhttps://www.fctv33.net/football/international-friendly-match-4313554/finland-women-vs-austria-women.html
-
 03:00 [y]UEFA Europa Conference League[z]	^-
 Aberdeen vs FC Noah	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4269706/aberdeen-vs-fc-noah.html
 KF Drita Gjilan vs FK Shkendija 79	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272423/fc-drita-vs-shkendija-tetovo.html
