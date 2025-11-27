@@ -26,16 +26,6 @@
 
 27-11-2005	^-
 
-17:00 [g]AFC Champions League 2[z]	^-
-Pohang Steelers vs BG Pathum United	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258871/pohang-steelers-vs-bg-pathum-united.html
-Ratchaburi FC vs Nam Dinh FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4261347/ratchaburi-fc-vs-thep-xanh-nam-dinh-fc.html
-Eastern AA vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4261352/eastern-football-team-vs-gamba-osaka.html
-Eastern AA vs Gamba Osaka	https://hls.bitiyu9.cc/hd-en-6MvXc3qAYKJWRxBSTR.m3u8?token=iktvNR3qNwIkIsDnscDxPG0yrBUL2pKQ2JqK0RGRTZWa0Q3MlgxeUlobGZxRGwxTk83TnJQc2toTml5dWNrV0pkbTFH
-
-18:00 [g]Thai League Cup[z]	^-
-Khelang United vs Nong Bua Lamphu	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4315426/khelang-united-vs-nongbua-pitchaya-fc.html
-Roi Et United vs Pattani	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4315427/roi-et-pb-united-vs-pattani.html
-
 19:00 Liga 1	^-
 PSBS Biak Numfor vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229708/psbs-biak-numfor-vs-persijap-jepara.html
 PSBS Biak Numfor vs Persijap Jepara	`0https://live.samuraitv.biz.id/p/ch4.html
@@ -47,6 +37,7 @@ Cong An Nhan Dan vs Beijing Guoan	`Fhttps://www.fctv33.net/football/afc-champion
 
 19:30 [l]U17 World Cup[z]	^-
 Brazil vs Italy	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4314851/brazil-u17-vs-italy-u17.html
+Brazil vs Italy	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 23:00 [l]U17 World Cup[z]	^-
 Portugal vs Austria	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4314850/portugal-u17-vs-austria-u17.html
