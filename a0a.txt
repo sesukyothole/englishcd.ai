@@ -26,36 +26,6 @@
 
 28-11-2005	^-
 
-03:00 [y]UEFA Europa Conference League[z]	^-
-Aberdeen vs FC Noah	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4269706/aberdeen-vs-fc-noah.html
-KF Drita Gjilan vs FK Shkendija 79	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272423/fc-drita-vs-shkendija-tetovo.html
-Shamrock Rovers vs Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4273543/shamrock-rovers-vs-fc-shakhtar-donetsk.html
-Jagiellonia Bialystok vs KuPs	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4277842/jagiellonia-bialystok-vs-kups.html
-Breidablik vs Samsunspor	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4277843/breidablik-vs-samsunspor.html
-
-03:00 [y]UEFA Europa League[z]	^-
-Bologna vs Red Bull Salzburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287314/bologna-vs-red-bull-salzburg.html
-Bologna vs Red Bull Salzburg	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Crvena Zvezda vs Fotbal Club FCSB	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287315/crvena-zvezda-vs-fotbal-club-fcsb.html
-Glasgow Rangers vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287316/rangers-vs-sporting-braga.html
-Glasgow Rangers vs Sporting Braga	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-Panathinaikos vs Sturm Graz	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287318/panathinaikos-vs-sturm-graz.html
-Go Ahead Eagles vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287319/go-ahead-eagles-vs-vfb-stuttgart.html
-Go Ahead Eagles vs VfB Stuttgart	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-Racing Genk vs Basel	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287320/racing-genk-vs-fc-basel-1893.html
-Racing Genk vs Basel	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-Real Betis vs FC Utrecht	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287321/real-betis-vs-fc-utrecht.html
-Real Betis vs FC Utrecht	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
-Nottingham Forest vs Malmo FF	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287322/nottingham-forest-vs-malmo-ff.html
-Nottingham Forest vs Malmo FF	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-
-03:00 [y]UEFA Europa Conference League[z]	^-
-Legia Warszawa vs Sparta Praha	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295379/legia-warszawa-vs-sparta-praha.html
-Strasbourg vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295380/rc-strasbourg-alsace-vs-crystal-palace.html
-Strasbourg vs Crystal Palace	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-Rijeka vs AEK Larnaca	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295381/rijeka-vs-aek-larnaca.html
-Fiorentina vs AEK Athens	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295382/fiorentina-vs-aek-athens.html
-
 06:30 [g]Brazilian Serie A[z]	^-
 Fluminense RJ vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141797/fluminense-rj-vs-sao-paulo.html
 
