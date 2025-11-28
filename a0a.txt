@@ -26,13 +26,6 @@
 
 28-11-2005	^-
 
-18:00 [l]International Friendly (w)[z]	^-
-Scotland vs Ukraine	`Fhttps://www.fctv33.net/football/international-friendly-match-4313552/scotland-women-vs-ukraine-women.html
-
-18:35 [l]AFC U17 Asian Cup[z]	^-
-Sri Lanka vs China	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282360/sri-lanka-u17-vs-china-u17.html
-Sri Lanka vs China	https://live.qfngx.com/sport/202_4312887_1.m3u8?txSecret=14d84c8ce85dac270952ce6ca86d6df2&txTime=1764330129
-
 19:00 Liga 1	^-
 Persija Jakarta vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229704/persija-jakarta-vs-psim-yogyakarta.html
 Persija Jakarta vs PSIM Yogyakarta	`0https://live.samuraitv.biz.id/p/ch1.html
