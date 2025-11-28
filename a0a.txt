@@ -26,11 +26,127 @@
 
 28-11-2005	^-
 
-06:30 [g]Brazilian Serie A[z]	^-
-Fluminense RJ vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141797/fluminense-rj-vs-sao-paulo.html
+15:30 [l]International Friendly (w)[z]	^-
+Australia vs New Zealand	`Fhttps://www.fctv33.net/football/international-friendly-match-4315306/australia-women-vs-new-zealand-women.html
 
-09:05 [g]Mexico Liga MX[z]	^-
-Chivas Guadalajara vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4314089/chivas-guadalajara-vs-cruz-azul.html
+15:35 [g]Australia A-League[z]	^-
+Brisbane Roar vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282191/brisbane-roar-vs-melbourne-victory.html
+
+16:00 [l]AFC U17 Asian Cup[z]	^-
+Pakistan vs Yemen	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282293/pakistan-u17-vs-yemen-u17.html
+Cambodia vs Guam	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282300/cambodia-u17-vs-guam-u17.html
+Malaysia vs Singapore	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307766/malaysia-u17-vs-singapore-u17.html
+
+16:30 [l]AFC U17 Asian Cup[z]	^-
+Myanmar vs Oman	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282372/myanmar-u17-vs-oman-u17.html
+
+18:00 [l]International Friendly (w)[z]	^-
+Scotland vs Ukraine	`Fhttps://www.fctv33.net/football/international-friendly-match-4313552/scotland-women-vs-ukraine-women.html
+
+18:35 [l]AFC U17 Asian Cup[z]	^-
+Sri Lanka vs China	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282360/sri-lanka-u17-vs-china-u17.html
+
+19:00 Liga 1	^-
+Persija Jakarta vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229704/persija-jakarta-vs-psim-yogyakarta.html
+
+19:00 [g]Thai League 1[z]	^-
+Prachuap Khiri Khan vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266219/pt-prachuap-fc-vs-port-fc.html
+
+19:00 [l]AFC U17 Asian Cup[z]	^-
+Macau vs Vietnam	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307759/macau-u17-vs-vietnam-u17.html
+Hong Kong vs North Mariana Island	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307762/hong-kong-u17-vs-northern-mariana-island-u17.html
+
+20:00 [g]CAF Confederation Cup[z]	^-
+ZESCO United Ndola vs Al Masry	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312547/zesco-united-ndola-vs-al-masry.html
+
+21:00 [l]AFC U17 Asian Cup[z]	^-
+India vs Lebanon	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282276/india-u17-vs-lebanon-u17.html
+
+23:00 [g]CAF Champions League[z]	^-
+JS kabylie vs Young Africans	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311157/js-kabylie-vs-young-africans.html
+Rivers Utd vs Renaissance Sportive	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311319/rivers-united-vs-renaissance-de-berkane.html
+
+23:00 [g]CAF Confederation Cup[z]	^-
+Azam vs Wydad Casablanca	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312356/azam-vs-wydad-casablanca.html
+
+23:45 [l]International Friendly (w)[z]	^-
+Poland vs Slovenia	`Fhttps://www.fctv33.net/football/international-friendly-match-4313548/poland-women-vs-slovenia-women.html
+
+29-11-2005	^-
+
+01:00 [g]Danish Superliga[z]	^-
+Sonderjyske vs Viborg	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193549/sonderjyske-vs-viborg.html
+
+01:00 [l]International Friendly (w)[z]	^-
+Norway vs Brazil	`Fhttps://www.fctv33.net/football/international-friendly-match-4313546/norway-women-vs-brazil-women.html
+Switzerland vs Belgium	`Fhttps://www.fctv33.net/football/international-friendly-match-4313547/switzerland-women-vs-belgium-women.html
+South Korea vs Wales	`Fhttps://www.fctv33.net/football/international-friendly-match-4315300/south-korea-women-vs-wales-women.html
+
+02:00 [y]Netherlands Eredivisie[z]	^-
+PEC Zwolle vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199359/pec-zwolle-vs-sc-heerenveen.html
+
+02:00 [g]CAF Champions League[z]	^-
+MC Alger vs Mamelodi Sundowns	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311148/mc-alger-vs-mamelodi-sundowns.html
+Forces Armee Royales vs Al Ahly SC	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311158/as-far-rabat-vs-al-ahly-fc.html
+
+02:00 [g]CAF Confederation Cup[z]	^-
+Olympique de Safi vs USM Alger	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312110/olympique-de-safi-vs-usm-alger.html
+
+02:30 [y]Bundesliga[z]	^-
+Br Monchengladbach vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199791/borussia-monchengladbach-vs-rb-leipzig.html
+
+02:30 [l]UEFA WNL[z]	^-
+Germany vs Spain	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4314689/germany-women-vs-spain-women.html
+
+02:45 [y]Italian Serie A[z]	^-
+Como vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194843/como-vs-sassuolo.html
+
+02:45 [g]Belgian Pro League[z]	^-
+Mechelen vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198967/kv-mechelen-vs-standard-liege.html
+
+02:45 [y]French Ligue 1[z]	^-
+Metz vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200353/metz-vs-stade-rennais-fc.html
+
+02:45 [l]International Friendly (w)[z]	^-
+Portugal vs Netherland	`Fhttps://www.fctv33.net/football/international-friendly-match-4315297/portugal-women-vs-netherlands-women.html
+
+03:00 [g]English Football League Champ[z]	^-
+Oxford United vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204158/oxford-united-vs-ipswich-town.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Getafe vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209862/getafe-vs-elche.html
+
+03:10 [l]UEFA WNL[z]	^-
+France vs Sweden	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4314690/france-women-vs-sweden-women.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+Vitoria Guimaraes vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216075/vitoria-guimaraes-vs-avs-futebol-sad.html
+
+04:00 [l]CNL W[z]	^-
+Bolivia vs Colombia	`Fhttps://www.fctv33.net/football/cnl-w-match-4303527/bolivia-women-vs-colombia-women.html
+Peru vs Chile	`Fhttps://www.fctv33.net/football/cnl-w-match-4303535/peru-women-vs-chile-women.html
+
+05:00 [g]Brazilian Serie A[z]	^-
+Juventude vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141791/juventude-vs-bahia.html
+
+05:30 [g]Brazilian Serie A[z]	^-
+Vasco da Gama vs Internacional RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141792/clube-de-regatas-vasco-da-gama-vs-internacional-rs.html
+
+06:00 [l]CNL W[z]	^-
+Ecuador vs Venezuela	`Fhttps://www.fctv33.net/football/cnl-w-match-4303528/ecuador-women-vs-venezuela-women.html
+Paraguay vs Uruguay	`Fhttps://www.fctv33.net/football/cnl-w-match-4303557/paraguay-women-vs-uruguay-women.html
+
+07:05 [l]International Friendly (w)[z]	^-
+USA vs Italy	`Fhttps://www.fctv33.net/football/international-friendly-match-4313545/usa-women-vs-italy-women.html
+
+07:30 [g]Brazilian Serie A[z]	^-
+Santos vs Sport Club do Recife	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141802/santos-vs-sport-club-do-recife.html
+
+11:00 [g]Australia A-League[z]	^-
+Wellington Phoenix vs Adelaide Utd	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282114/wellington-phoenix-vs-adelaide-united.html
+
+13:00 [g]Australia A-League[z]	^-
+Cen Coast Mariners vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282121/central-coast-mariners-vs-melbourne-city.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
