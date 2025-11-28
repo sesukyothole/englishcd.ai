@@ -58,9 +58,11 @@ Portugal vs Netherland	`Fhttps://www.fctv33.net/football/international-friendly-
 
 03:00 [g]English Football League Champ[z]	^-
 Oxford United vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204158/oxford-united-vs-ipswich-town.html
+Oxford United vs Ipswich Town	https://play5.y808.com/live/113610332721_667861946_1080p.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Getafe vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209862/getafe-vs-elche.html
+Getafe vs Elche	`https://live.vivo200.com/live/hd-en-1-4358481.m3u8?txSecret=c5dd67dbee30ad4a24c787cc74156548&txTime=692A4CCA
 
 03:10 [l]UEFA WNL[z]	^-
 France vs Sweden	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4314690/france-women-vs-sweden-women.html
