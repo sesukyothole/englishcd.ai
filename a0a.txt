@@ -26,50 +26,6 @@
 
 29-11-2005	^-
 
-02:00 [y]Netherlands Eredivisie[z]	^-
-PEC Zwolle vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199359/pec-zwolle-vs-sc-heerenveen.html
-
-02:00 [g]CAF Champions League[z]	^-
-MC Alger vs Mamelodi Sundowns	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311148/mc-alger-vs-mamelodi-sundowns.html
-Forces Armee Royales vs Al Ahly SC	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311158/as-far-rabat-vs-al-ahly-fc.html
-
-02:00 [g]CAF Confederation Cup[z]	^-
-Olympique de Safi vs USM Alger	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312110/olympique-de-safi-vs-usm-alger.html
-
-02:30 [y]Bundesliga[z]	^-
-Br Monchengladbach vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199791/borussia-monchengladbach-vs-rb-leipzig.html
-Br Monchengladbach vs RB Leipzig	https://live.qfngx.com/sport/202_4312972_1.m3u8?txSecret=5d1c2c78386f82d93df98f32b8e88251&txTime=1764359745
-
-02:30 [l]UEFA WNL[z]	^-
-Germany vs Spain	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4314689/germany-women-vs-spain-women.html
-
-02:45 [y]Italian Serie A[z]	^-
-Como vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194843/como-vs-sassuolo.html
-
-02:45 [g]Belgian Pro League[z]	^-
-Mechelen vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198967/kv-mechelen-vs-standard-liege.html
-
-02:45 [y]French Ligue 1[z]	^-
-Metz vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200353/metz-vs-stade-rennais-fc.html
-Metz vs Rennes	https://live.vivo200.com/live/sd-1-4347799.m3u8?txSecret=f26749769d0079f1133228fa2af73ec7&txTime=692A4CE2
-
-02:45 [l]International Friendly (w)[z]	^-
-Portugal vs Netherland	`Fhttps://www.fctv33.net/football/international-friendly-match-4315297/portugal-women-vs-netherlands-women.html
-
-03:00 [g]English Football League Champ[z]	^-
-Oxford United vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204158/oxford-united-vs-ipswich-town.html
-Oxford United vs Ipswich Town	https://play5.y808.com/live/113610332721_667861946_1080p.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-Getafe vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209862/getafe-vs-elche.html
-Getafe vs Elche	`https://live.vivo200.com/live/hd-en-1-4358481.m3u8?txSecret=c5dd67dbee30ad4a24c787cc74156548&txTime=692A4CCA
-
-03:10 [l]UEFA WNL[z]	^-
-France vs Sweden	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4314690/france-women-vs-sweden-women.html
-
-03:15 [g]Portuguese Primera Liga[z]	^-
-Vitoria Guimaraes vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216075/vitoria-guimaraes-vs-avs-futebol-sad.html
-
 04:00 [l]CNL W[z]	^-
 Bolivia vs Colombia	`Fhttps://www.fctv33.net/football/cnl-w-match-4303527/bolivia-women-vs-colombia-women.html
 Peru vs Chile	`Fhttps://www.fctv33.net/football/cnl-w-match-4303535/peru-women-vs-chile-women.html
