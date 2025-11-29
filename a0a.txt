@@ -26,23 +26,6 @@
 
 29-11-2005	^-
 
-19:30 [g]English Football League Champ[z]	^-
-Portsmouth vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204148/portsmouth-vs-bristol-city.html
-Portsmouth vs Bristol City	https://play7ba.peodlc.com/live/202_4313236_1.m3u8
-Stoke City vs Hull City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204152/stoke-city-vs-hull-city.html
-Stoke City vs Hull City	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzk4MjIwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Stoke City vs Hull City	https://play7ba.peodlc.com/live/202_4313234_2.m3u8
-Leicester City vs Sheffield Utd	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204159/leicester-city-vs-sheffield-united.html
-Leicester City vs Sheffield Utd	https://play7ba.peodlc.com/live/202_4313241_2.m3u8
-
-19:30 [g]Thai League 1[z]	^-
-Chiangrai Utd vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266215/chiangrai-united-vs-muangthong-united.html
-Chiangrai Utd vs Muang Thong Utd	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU4OTQ4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
-19:30 [l]International Friendly (w)[z]	^-
-Indonesia 🇮🇩 vs Chinese Taipei 🇹🇼	`Fhttps://www.fctv33.net/football/international-friendly-match-4315530/indonesia-women-vs-chinese-taipei-women.html
-Indonesia 🇮🇩 vs Chinese Taipei 🇹🇼	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTA0MDk3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
 20:00 [y]Spanish La Liga[z]	^-
 Mallorca vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209863/rcd-mallorca-vs-ca-osasuna.html
 Mallorca vs Osasuna	https://play5.y808.com/live/111072351630_2093632291_1080p.m3u8
@@ -65,6 +48,7 @@ Bayern Munchen vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-matc
 
 21:40 [g]Saudi Arabia Kings Cup[z]	^-
 Al Hilal SFC vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4314396/al-hilal-vs-al-fateh-sc.html
+Al Hilal SFC vs Al-Fateh	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk3MDY4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 22:00 [y]English Premier League[z]	^-
 Brentford vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194100/brentford-vs-burnley.html
