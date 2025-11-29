@@ -39,13 +39,16 @@ Bayern Munchen vs FC St. Pauli	https://play2.y808.com/live/111638077126_31350054
 21:40 [g]Saudi Arabia Kings Cup[z]	^-
 Al Hilal SFC vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4314396/al-hilal-vs-al-fateh-sc.html
 Al Hilal SFC vs Al-Fateh	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk3MDY4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Al Hilal SFC vs Al-Fateh	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 
 22:00 [y]English Premier League[z]	^-
 Brentford vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194100/brentford-vs-burnley.html
 Brentford vs Burnley	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjUwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Brentford vs Burnley	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
 Manchester City vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194103/manchester-city-vs-leeds-united.html
 Manchester City vs Leeds United	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjU0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Manchester City vs Leeds United	https://play7ba.peodlc.com/live/202_4313165_1.m3u8
+Manchester City vs Leeds United	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Sunderland AFC vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194104/sunderland-vs-bournemouth-afc.html
 Sunderland AFC vs Bournemouth AFC	`Fhttps://ppdd12.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjU2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Sunderland AFC vs Bournemouth AFC	https://live.qfngx.com/sport/202_4313163_1.m3u8?txSecret=ca0799ae93f3ef7dd5875cb0e2f6f771&txTime=1764429051
@@ -644,8 +647,9 @@ TNT Sports 4	i3!16/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!
 TNT Sports 5	i3!16/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd!!60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-Universo East	https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
-Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd!!8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
+Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
+^=Universo East	https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
+^=Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd!!8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
