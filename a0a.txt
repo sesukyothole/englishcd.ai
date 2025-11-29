@@ -26,25 +26,6 @@
 
 30-11-2005	^-
 
-02:45 [y]Italian Serie A[z]	^-
-AC Milan vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194842/ac-milan-vs-lazio.html
-AC Milan vs Lazio	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-AC Milan vs Lazio	https://live.vivo200.com/live/sd-1-4339581.m3u8?txSecret=90fafba92c2cd0aac56304ccd9fe3191&txTime=692B9729
-
-03:00 [y]English Premier League[z]	^-
-Tottenham Hotspur vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194095/tottenham-hotspur-vs-fulham.html
-Tottenham Hotspur vs Fulham	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-Tottenham Hotspur vs Fulham	https://live.qfngx.com/sport/202_4313162_1.m3u8?txSecret=c05d1ef42b7aee6118d102b6411c0f03&txTime=1764447136
-
-03:00 [y]Spanish La Liga[z]	^-
-Atletico Madrid vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209864/atletico-madrid-vs-real-oviedo.html
-Atletico Madrid vs Real Oviedo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Atletico Madrid vs Real Oviedo	https://live.qfngx.com/sport/202_4313443_1.m3u8?txSecret=0e559bab466a575ce44efd8c05fc0676&txTime=1764447080
-
-03:05 [y]French Ligue 1[z]	^-
-Marseille vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200351/marseille-vs-toulouse-fc.html
-Marseille vs Toulouse	https://live.vivo200.com/live/sd-1-4347798.m3u8?txSecret=e31855a3ed2f8192425ccde8885a3526&txTime=692B9E32
-
 04:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Palmeiras vs Flamengo	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4308658/palmeiras-vs-cr-flamengo.html
 
