@@ -26,81 +26,42 @@
 
 30-11-2005	^-
 
-20:30 [y]Netherlands Eredivisie[z]	^-
-Go Ahead Eagles vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199363/go-ahead-eagles-vs-fc-utrecht.html
-SC Telstar vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199364/sc-telstar-vs-feyenoord.html
-SC Telstar vs Feyenoord	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwODI3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
-20:30 [g]Austrian Bundesliga[z]	^-
-Rheindorf Altach vs Red Bull Salzburg	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202605/rheindorf-altach-vs-red-bull-salzburg.html
-TSV Hartberg vs Sturm Graz	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202649/tsv-hartberg-vs-sturm-graz.html
-
-20:30 [g]South Africa Premier League[z]	^-
-Marumo Gallants FC vs Magesi	`Fhttps://www.fctv33.net/football/south-africa-premier-soccer-league-match-4251136/marumo-gallants-fc-vs-magesi.html
-
-21:00 [y]Italian Serie A[z]	^-
-Pisa vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194840/pisa-vs-inter-milan.html
-Pisa vs Inter Milan	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NjEwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Pisa vs Inter Milan	https://live.qfngx.com/sport/202_4313865_1.m3u8?txSecret=56a90db75288c369fc135abae8970cc0&txTime=1764511945
-Pisa vs Inter Milan	https://live.vivo200.com/live/sd-1-4339590.m3u8?txSecret=5ba8aa053bf1b64871fc0a722b9d381c&txTime=692C9B65
-
-21:00 [y]French Ligue 1[z]	^-
-Strasbourg vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200347/rc-strasbourg-alsace-vs-stade-brestois-29.html
-Strasbourg vs Stade Brestois	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTQ0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Strasbourg vs Stade Brestois	https://live.vivo200.com/live/sd-1-4347802.m3u8?txSecret=8710b7132847f7a6e832d28ea04d32d3&txTime=692C9B5A
-Strasbourg vs Stade Brestois	https://live.qfngx.com/sport/202_4313986_1.m3u8?txSecret=60881c1bc30cd2082facbdd8a8562736&txTime=1764510906
-
-21:05 [y]English Premier League[z]	^-
-Nottingham Forest vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194097/nottingham-forest-vs-brighton-hove-albion.html
-Nottingham Forest vs Brighton Hove	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjU1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Nottingham Forest vs Brighton Hove	https://play7ba.peodlc.com/live/202_4313164_1.m3u8
-Nottingham Forest vs Brighton Hove	https://live.vivo200.com/live/sd-1-4343359.m3u8?txSecret=62f7da30b450272f1f8d2926302a5525&txTime=692C9B79
-Aston Villa vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194099/aston-villa-vs-wolverhampton-wanderers.html
-Aston Villa vs Wolves	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjQ5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Aston Villa vs Wolves	https://play7ba.peodlc.com/live/202_4313170_1.m3u8
-Aston Villa vs Wolves	https://live.vivo200.com/live/sd-1-4343347.m3u8?txSecret=4b5a3d1293c1a14a3bee591991066645&txTime=692C9B6F
-West Ham United vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194101/west-ham-united-vs-liverpool.html
-West Ham United vs Liverpool	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjU4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-West Ham United vs Liverpool	https://pullkgq721.qmuiw.com/live/sd-1-4343366.m3u8?auth_key=1764511729-0-0-3c4397e1a1cac86331cdc7bafa567d10
-West Ham United vs Liverpool	https://live.vivo200.com/live/sd-1-4343366.m3u8?txSecret=d565a19e1d4a33ddac77739476434da2&txTime=692C9B83
-
-21:30 [y]Bundesliga[z]	^-
-Hamburger SV vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199776/hamburger-sv-vs-vfb-stuttgart.html
-Hamburger SV vs VfB Stuttgart	https://v.aqsxx.cn/live/100433.m3u8?txSecret=7f169da2ddce662e2072c0f8608bb93d&txTime=692C5E41&sign=582bc397f396a4ec
-Hamburger SV vs VfB Stuttgart	https://live.vivo200.com/live/sd-1-4347460.m3u8?txSecret=176becdc1c1790c3df3349f4f56006e0&txTime=692CA25A
-
-22:00 [g]Danish Superliga[z]	^-
-Midtjylland vs Nordsjaelland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193575/midtjylland-vs-nordsjaelland.html
-
-22:00 [g]Belgian Pro League[z]	^-
-Racing Genk vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199107/racing-genk-vs-oud-heverlee-leuven.html
-
 22:15 [y]Spanish La Liga[z]	^-
 Sevilla vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209870/sevilla-fc-vs-real-betis.html
+Sevilla vs Real Betis	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDMzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216120/rio-ave-vs-santa-clara.html
+Rio Ave vs Santa Clara	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODE0ODI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 FC Twente Enschede vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199365/fc-twente-enschede-vs-az-alkmaar.html
+FC Twente Enschede vs AZ Alkmaar	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwODI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 23:00 [g]Austrian Bundesliga[z]	^-
 LASK Linz vs Rapid Wien	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202527/lask-linz-vs-rapid-wien.html
 
 23:00 [g]CAF Champions League[z]	^-
 Stade Malien Bamako vs Simba Sports	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311368/stade-malien-vs-simba-sports-club.html
+Stade Malien Bamako vs Simba Sports	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTAwMDk0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 23:00 [g]CAF Confederation Cup[z]	^-
 San Pedro FC vs Djoliba	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312113/san-pedro-fc-vs-djoliba.html
+San Pedro FC vs Djoliba	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTAxMzA2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Ihefu SC vs Stellenbosch FC	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312518/singida-black-stars-vs-stellenbosch-fc.html
+Ihefu SC vs Stellenbosch FC	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTAxMTMxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 23:15 [y]French Ligue 1[z]	^-
 Le Havre vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200348/havre-athletic-club-vs-losc-lille.html
 Angers vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200349/angers-sco-vs-rc-lens.html
+Angers vs Lens	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTM2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Lorient vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200352/lorient-vs-ogc-nice.html
 
 23:30 [y]English Premier League[z]	^-
 Chelsea vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194098/chelsea-vs-arsenal.html
+Chelsea vs Arsenal	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjUxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Chelsea vs Arsenal	https://live.vivo200.com/live/sd-1-4343349.m3u8?txSecret=c8f3e76c90d14c4f15bdf61b9109b1e2&txTime=692CBE83
+Chelsea vs Arsenal	https://pullkgq721.qmuiw.com/live/sd-1-4343349.m3u8?auth_key=1764520390-0-0-7e398f6f2613ec00f9644948ee550a1c
 
 23:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199780/eintracht-frankfurt-vs-vfl-wolfsburg.html
