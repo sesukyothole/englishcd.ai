@@ -26,25 +26,6 @@
 
 30-11-2005	^-
 
-14:30 [g]Korean K League 1[z]	^-
-Gimcheon Sangmu vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302870/gimcheon-sangmu-football-club-vs-daejeon-citizen.html
-Gimcheon Sangmu vs Daejeon Citizen	https://play7ba.peodlc.com/live/202_4434456_1.m3u8
-Gangwon FC vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302871/gangwon-football-club-vs-pohang-steelers.html
-Gangwon FC vs Pohang Steelers	https://play7ba.peodlc.com/live/202_4434457_1.m3u8
-Jeonbuk Hyundai Motors vs FC Seoul	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302872/jeonbuk-hyundai-motors-vs-football-club-seoul.html
-Jeonbuk Hyundai Motors vs FC Seoul	https://play7ba.peodlc.com/live/202_4434455_1.m3u8
-
-15:00 [g]Philippines United League[z]	^-
-Don Bosco Garelli Utd vs One Taguig	`Fhttps://www.fctv33.net/football/philippines-united-football-league-match-4279727/don-bosco-garelli-united-vs-one-taguig.html
-
-15:30 Liga 1	^-
-Borneo FC vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229709/borneo-fc-vs-bali-united.html
-
-16:00 [l]AFC U17 Asian Cup[z]	^-
-Kyrgyzstan vs Cambodia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282298/kyrgyzstan-u17-vs-cambodia-u17.html
-Guam vs Pakistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282301/guam-u17-vs-pakistan-u17.html
-Northern Mariana Island vs Macau	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4307764/northern-mariana-island-u17-vs-macau-u17.html
-
 18:00 [g]Thai League 1[z]	^-
 Sukhothai vs Bangkok United FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266200/sukhothai-vs-bangkok-united-fc.html
 
