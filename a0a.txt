@@ -53,6 +53,7 @@ KAA Gent vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-
 
 01:30 [y]Bundesliga[z]	^-
 SC Freiburg vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199788/sc-freiburg-vs-1-fsv-mainz-05.html
+SC Freiburg vs FSV Mainz 05	https://live.vivo200.com/live/sd-1-4347459.m3u8?txSecret=94736eabd08bfb3ec26bcb9c5347c6cf&txTime=692CD3CD
 
 02:00 [g]Brazilian Serie A[z]	^-
 Corinthians Paulista vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141786/corinthians-paulista-sp-vs-botafogo-rj.html
