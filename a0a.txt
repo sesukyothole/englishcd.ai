@@ -26,34 +26,6 @@
 
 30-11-2005	^-
 
-20:00 [g]Danish Superliga[z]	^-
-Aarhus AGF vs FC Copenhagen	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193550/aarhus-agf-vs-fc-copenhagen.html
-Silkeborg vs Randers FC	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193588/silkeborg-vs-randers-fc.html
-
-20:00 [y]Spanish La Liga[z]	^-
-Real Sociedad vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209871/real-sociedad-vs-villarreal-cf.html
-Real Sociedad vs Villarreal	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDMyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Real Sociedad vs Villarreal	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Real Sociedad vs Villarreal	https://live.vivo200.com/live/sd-1-4358477.m3u8?txSecret=086581cbb37833c16769719f55b911c8&txTime=692C8635
-
-20:00 Malaysian Super League	^-
-Melaka FC vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221060/melaka-fc-vs-kuala-lumpur-city-fc.html
-Melaka FC vs Kuala Lumpur	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODIyMzI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
-20:00 [l]AFC U17 Asian Cup[z]	^-
-Yemen vs Laos	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282299/yemen-u17-vs-laos-u17.html
-
-20:00 Malaysian FA Cup	^-
-Selangor vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4308923/selangor-fc-vs-sabah-fc.html
-Selangor vs Sabah	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk2NDgxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
-20:00 [g]CAF Champions League[z]	^-
-St Eloi Lupopo vs Al-Hilal Omdurman	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311145/saint-eloi-lupopo-vs-al-hilal-omdurman.html
-
-20:00 [g]CAF Confederation Cup[z]	^-
-Nairobi United vs Maniema Union	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312539/nairobi-united-vs-maniema-union.html
-Nairobi United vs Maniema Union	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTAxMTE5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
 20:30 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199363/go-ahead-eagles-vs-fc-utrecht.html
 SC Telstar vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199364/sc-telstar-vs-feyenoord.html
