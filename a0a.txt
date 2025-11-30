@@ -36,10 +36,12 @@ Chinese Taipei vs Palestine	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-
 18:15 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199361/psv-eindhoven-vs-volendam.html
 PSV Eindhoven vs Volendam	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwODI1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+PSV Eindhoven vs Volendam	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 
 18:30 [y]Netherlands Eredivisie[z]	^-
 Lecce vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194846/lecce-vs-torino.html
 Lecce vs Torino	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NjA3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Lecce vs Torino	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 Lecce vs Torino	https://live.vivo200.com/live/sd-1-4339588.m3u8?txSecret=27f1d08a29bb258ad450f93b05be398c&txTime=692C711D
 
 19:00 [y]English Premier League[z]	^-
@@ -72,18 +74,21 @@ Real Sociedad vs Villarreal	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa
 
 20:00 Malaysian Super League	^-
 Melaka FC vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221060/melaka-fc-vs-kuala-lumpur-city-fc.html
+Melaka FC vs Kuala Lumpur	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODIyMzI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 20:00 [l]AFC U17 Asian Cup[z]	^-
 Yemen vs Laos	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4282299/yemen-u17-vs-laos-u17.html
 
 20:00 Malaysian FA Cup	^-
 Selangor vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4308923/selangor-fc-vs-sabah-fc.html
+Selangor vs Sabah	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk2NDgxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 20:00 [g]CAF Champions League[z]	^-
 St Eloi Lupopo vs Al-Hilal Omdurman	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311145/saint-eloi-lupopo-vs-al-hilal-omdurman.html
 
 20:00 [g]CAF Confederation Cup[z]	^-
 Nairobi United vs Maniema Union	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312539/nairobi-united-vs-maniema-union.html
+Nairobi United vs Maniema Union	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTAxMTE5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199363/go-ahead-eagles-vs-fc-utrecht.html
