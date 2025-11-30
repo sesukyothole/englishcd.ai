@@ -90,6 +90,8 @@ West Ham United vs Liverpool	https://live.vivo200.com/live/sd-1-4343366.m3u8?txS
 
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199776/hamburger-sv-vs-vfb-stuttgart.html
+Hamburger SV vs VfB Stuttgart	https://v.aqsxx.cn/live/100433.m3u8?txSecret=7f169da2ddce662e2072c0f8608bb93d&txTime=692C5E41&sign=582bc397f396a4ec
+Hamburger SV vs VfB Stuttgart	https://live.vivo200.com/live/sd-1-4347460.m3u8?txSecret=176becdc1c1790c3df3349f4f56006e0&txTime=692CA25A
 
 22:00 [g]Danish Superliga[z]	^-
 Midtjylland vs Nordsjaelland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193575/midtjylland-vs-nordsjaelland.html
