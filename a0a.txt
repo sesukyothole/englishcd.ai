@@ -26,26 +26,8 @@
 
 30-11-2005	^-
 
-04:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Palmeiras vs Flamengo	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4308658/palmeiras-vs-cr-flamengo.html
-Palmeiras vs Flamengo	https://play7ba.peodlc.com/live/202_4578176_1.m3u8
-
-06:00 [g]Mexico Liga MX[z]	^-
-Club America vs Monterrey	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4314101/club-america-vs-monterrey.html
-
-06:00 [g]US Major League Soccer[z]	^-
-Inter Miami vs New York City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4314796/inter-miami-cf-vs-new-york-city-fc.html
-
-09:00 [g]Australia A-League[z]	^-
-Auckland FC vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282140/auckland-fc-vs-newcastle-jets.html
-
-09:00 [g]US Major League Soccer[z]	^-
-San Diego FC vs Vancouver Whitecaps	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4314933/san-diego-fc-vs-vancouver-whitecaps.html
-
-12:00 [g]Korean K League 1[z]	^-
-Ulsan Hyundai FC vs Jeju United	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302778/ulsan-hd-fc-vs-jeju-sk-fc.html
-Daegu FC vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302780/daegu-football-club-vs-fc-anyang.html
-Suwon FC vs Gwangju Football Club	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302782/suwon-football-club-vs-gwangju-football-club.html
+14:00 [g]Australia A-League[z]	^-
+FC Macarthur vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282153/macarthur-fc-vs-perth-glory.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
