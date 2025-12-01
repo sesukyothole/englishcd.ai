@@ -24,24 +24,63 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-01-12-2005	^-
+01	^-
 
-03:30 [g]Portuguese Primera Liga[z]	^-
-FC Porto vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216121/fc-porto-vs-estoril.html
-FC Porto vs Estoril	https://play7ba.peodlc.com/live/202_4314063_1.m3u8
+18:00 [l]International Friendly (w)[z]	^-
+Austria vs Ukraine	`Fhttps://www.fctv33.net/football/international-friendly-match-4315514/austria-women-vs-ukraine-women.html
 
-04:30 [g]Brazilian Serie A[z]	^-
-Fortaleza vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141738/fortaleza-vs-atletico-mineiro.html
-Fortaleza vs Atletico Mineiro	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzM1MDQ5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Fortaleza vs Atletico Mineiro	https://play7ba.peodlc.com/live/202_4315847_1.m3u8
+19:45 Malaysia A1 Semi-Pro League[z]	^-
+Manjung City FC vs Bunga Raya	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4315693/manjung-city-fc-vs-bunga-raya.html
 
-04:30 [g]Argentine Division 1[z]	^-
-Boca Juniors vs Argentinos Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4314916/boca-juniors-vs-argentinos-juniors.html
-Boca Juniors vs Argentinos Juniors	`Fhttps://ppdd13.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yOTAzMjE5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Boca Juniors vs Argentinos Juniors	https://play7ba.peodlc.com/live/202_4687686_1.m3u8
+20:00 [l]WAFF Arab Nations Cup[z]	^-
+Tunisia vs Syrian	`Fhttps://www.fctv33.net/football/waff-arab-nations-cup-match-4315880/tunisia-vs-syria.html
 
-08:00 [g]Mexico Liga MX[z]	^-
-CDSyC Cruz Azul vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4314095/cruz-azul-vs-chivas-guadalajara.html
+20:00 [l]International Friendly (w)[z]	^-
+Turkey vs Albania	`Fhttps://www.fctv33.net/football/international-friendly-match-4316086/turkiye-women-vs-albania-women.html
+
+22:45 [l]WAFF Arab Nations Cup[z]	^-
+Qatar vs Palestine	`Fhttps://www.fctv33.net/football/waff-arab-nations-cup-match-4315909/qatar-vs-palestine.html
+
+23:00 [l]International Friendly (w)[z]	^-
+Malta vs Croatia	`Fhttps://www.fctv33.net/football/international-friendly-match-4316133/malta-women-vs-croatia-women.html
+
+02	^-
+
+00:00 [l]International Friendly (w)[z]	^-
+Denmark vs Norway	`Fhttps://www.fctv33.net/football/international-friendly-match-4315516/denmark-women-vs-norway-women.html
+
+00:15 [l]International Friendly (w) U23[z]	^-
+Germany vs France	`Fhttps://www.fctv33.net/football/international-friendly-match-4315481/germany-women-u23-vs-france-women-u23.html
+
+01:00 [g]Danish Superliga[z]	^-
+Brondby IF vs Fredericia	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193614/brondby-if-vs-fredericia.html
+
+01:00 [l]International Friendly (w)[z]	^-
+Belgium vs Finland	`Fhttps://www.fctv33.net/football/international-friendly-match-4315515/belgium-women-vs-finland-women.html
+
+02:45 [y]Italian Serie A[z]	^-
+Bologna vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194841/bologna-vs-cremonese.html
+
+03:00 [g]English Football League Champ[z]	^-
+Birmingham City vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204157/birmingham-city-vs-watford.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Rayo Vallecano vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209869/rayo-vallecano-vs-valencia-cf.html
+
+03:00 [g]Argentine Division 1[z]	^-
+Barracas Central vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4314917/barracas-central-vs-gimnasia-la-plata.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+FC Arouca vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216165/fc-arouca-vs-sporting-braga.html
+
+06:30 [l]World Cup qualifiers CONCACAF (w)[z]	^-
+Puerto Rico vs Saint Lucia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303524/puerto-rico-women-vs-saint-lucia-women.html
+
+07:00 [l]International Friendly (w)[z]	^-
+USA vs Italy	`Fhttps://www.fctv33.net/football/international-friendly-match-4316025/usa-women-vs-italy-women.html
+
+07:30 [g]Argentine Division 1[z]	^-
+Racing Club vs Club Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4315462/racing-club-de-avellaneda-vs-club-atletico-tigre.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
