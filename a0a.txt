@@ -26,31 +26,6 @@
 
 03.12.2025	^-
 
-00:00 [y]DFB Pokal[z]	^-
-Hertha Berlin vs 1. Kaiserslautern	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4308545/hertha-berlin-vs-1-fc-kaiserslautern.html
-Hertha Berlin vs 1. Kaiserslautern	https://play7ba.peodlc.com/live/202_4627769_1.m3u8
-Br Monchengladbach vs St. Pauli	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4312765/borussia-monchengladbach-vs-fc-st-pauli.html
-Br Monchengladbach vs St. Pauli	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Br Monchengladbach vs St. Pauli	https://play7ba.peodlc.com/live/202_4627770_1.m3u8
-
-00:00 [l]UEFA WNL[z]	^-
-Spain vs Germany	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4314691/spain-women-vs-germany-women.html
-
-00:00 [l]Arab Cup[z]	^-
-Saudi Arabia vs Oman	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315974/saudi-arabia-vs-oman.html
-
-01:00 [l]International Friendly (w)[z]	^-
-Scotland vs China	`Fhttps://www.fctv33.net/football/international-friendly-match-4310925/scotland-women-vs-china-women.html
-
-01:00 [y]Copa del Rey[z]	^-
-Racing de Ferrol vs SD Huesca	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315780/racing-de-ferrol-vs-sd-huesca.html
-Numancia vs Mallorca	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315901/numancia-vs-rcd-mallorca.html
-CD Ebro vs Osasuna	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315902/cd-ebro-vs-ca-osasuna.html
-Portugalete vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315975/portugalete-vs-deportivo-alavs.html
-
-02:00 [y]Copa del Rey[z]	^-
-CD Guadalajara vs AD Ceuta	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315904/cd-guadalajara-vs-ad-ceuta.html
-
 02:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194107/bournemouth-afc-vs-everton.html
 Bournemouth AFC vs Everton	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
