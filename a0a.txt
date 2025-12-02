@@ -26,37 +26,6 @@
 
 03.12.2025	^-
 
-02:30 [y]English Premier League[z]	^-
-Bournemouth AFC vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194107/bournemouth-afc-vs-everton.html
-Bournemouth AFC vs Everton	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-Fulham vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194108/fulham-vs-manchester-city.html
-Fulham vs Manchester City	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-
-02:45 [l]International Friendly (w)[z]	^-
-Netherland vs South Korea	`Fhttps://www.fctv33.net/football/international-friendly-match-4316013/netherlands-women-vs-south-korea-women.html
-Portugal vs Brazil	`Fhttps://www.fctv33.net/football/international-friendly-match-4316014/portugal-women-vs-brazil-women.html
-
-03:00 [l]Spanish La Liga[z]	^-
-FC Barcelona vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209915/fc-barcelona-vs-atletico-madrid.html
-FC Barcelona vs Atletico Madrid	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
-03:00 [y]Coppa Italia[z]	^-
-Juventus vs Udinese	`Fhttps://www.fctv33.net/football/coppa-italia-match-4304997/juventus-vs-udinese.html
-Juventus vs Udinese	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-
-03:00 [y]DFB Pokal[z]	^-
-RB Leipzig vs 1. FC Magdeburg	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4312737/rb-leipzig-vs-1-fc-magdeburg.html
-RB Leipzig vs 1. FC Magdeburg	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
-Br Dortmund vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4314408/borussia-dortmund-vs-bayer-04-leverkusen.html
-Br Dortmund vs Bayer Leverkusen	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
-03:00 [y]Copa del Rey[z]	^-
-Artistico Navalcarnero vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315777/cd-artistico-navalcarnero-vs-getafe.html
-
-03:15 [y]English Premier League[z]	^-
-Newcastle United vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194114/newcastle-united-vs-tottenham-hotspur.html
-Newcastle United vs Tottenham Hotspur	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-
 04:00 [l]CNL W[z]	^-
 Uruguay vs Ecuador	`Fhttps://www.fctv33.net/football/cnl-w-match-4303534/uruguay-women-vs-ecuador-women.html
 
