@@ -66,6 +66,7 @@ FC Barcelona vs Atletico Madrid	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/da
 
 03:00 [y]Coppa Italia[z]	^-
 Juventus vs Udinese	`Fhttps://www.fctv33.net/football/coppa-italia-match-4304997/juventus-vs-udinese.html
+Juventus vs Udinese	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 
 03:00 [y]DFB Pokal[z]	^-
 RB Leipzig vs 1. FC Magdeburg	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4312737/rb-leipzig-vs-1-fc-magdeburg.html
@@ -78,6 +79,7 @@ Artistico Navalcarnero vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-
 
 03:15 [y]English Premier League[z]	^-
 Newcastle United vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194114/newcastle-united-vs-tottenham-hotspur.html
+Newcastle United vs Tottenham Hotspur	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 04:00 [l]CNL W[z]	^-
 Uruguay vs Ecuador	`Fhttps://www.fctv33.net/football/cnl-w-match-4303534/uruguay-women-vs-ecuador-women.html
