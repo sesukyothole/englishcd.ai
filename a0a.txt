@@ -26,20 +26,6 @@
 
 03.12.2025	^-
 
-04:00 [l]CNL W[z]	^-
-Uruguay vs Ecuador	`Fhttps://www.fctv33.net/football/cnl-w-match-4303534/uruguay-women-vs-ecuador-women.html
-
-04:00 [g]CONCACAF Caribbean Cup[z]	^-
-Cibao FC vs National Defense Forces	`Fhttps://www.fctv33.net/football/concacaf-caribbean-cup-match-4314823/cibao-fc-vs-national-defense-forces.html
-
-05:00 [g]Brazilian Serie A[z]	^-
-Vasco da Gama vs Mirassol	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141799/clube-de-regatas-vasco-da-gama-vs-mirassol.html
-
-06:00 [l]CNL W[z]	^-
-Argentina vs Bolivia	`Fhttps://www.fctv33.net/football/cnl-w-match-4303532/argentina-women-vs-bolivia-women.html
-Venezuela vs Peru	`Fhttps://www.fctv33.net/football/cnl-w-match-4303537/venezuela-women-vs-peru-women.html
-Chile vs Paraguay	`Fhttps://www.fctv33.net/football/cnl-w-match-4303538/chile-women-vs-paraguay-women.html
-
 07:00 [g]CONCACAF Caribbean Cup[z]	^-
 Mount Pleasant vs Universidad O&M	`Fhttps://www.fctv33.net/football/concacaf-caribbean-cup-match-4314844/mount-pleasant-fa-vs-universidad-om.html
 
