@@ -26,12 +26,115 @@
 
 03.12.2025	^-
 
-07:00 [g]CONCACAF Caribbean Cup[z]	^-
-Mount Pleasant vs Universidad O&M	`Fhttps://www.fctv33.net/football/concacaf-caribbean-cup-match-4314844/mount-pleasant-fa-vs-universidad-om.html
+16:00 [g]Southeast Asian Games U22[z]	^-
+Laos vs Vietnam	`Fhttps://www.fctv33.net/football/aff-southeast-asian-games-match-4309665/laos-u22-vs-vietnam-u22.html
+
+18:00 [g]Asean Club Champ Shopee Cup[z]	^-
+Dynamic Herb Cebu vs Selangor	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4260378/dynamic-herb-cebu-vs-selangor-fc.html
+
+18:30 [g]Asean Club Champ Shopee Cup[z]	^-
+Tampines Rovers FC vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261093/tampines-rovers-fc-vs-bg-pathum-united.html
+
+19:00 [g]Asean Club Champ Shopee Cup[z]	^-
+Buriram United vs Cong An Nhan Dan	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261092/buriram-united-vs-cong-an-ha-noi-fc.html
+
+19:00 [l]Southeast Asian Games U22[z]	^-
+Timor Leste vs Thailand	`Fhttps://www.fctv33.net/football/aff-southeast-asian-games-match-4315650/timor-leste-u22-vs-thailand-u22.html
+
+19:00 [l]Arab Cup[z]	^-
+Algeria vs Sudan	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315976/algeria-vs-sudan.html
+
+21:00 [y]Coppa Italia[z]	^-
+Atalanta vs Genoa	`Fhttps://www.fctv33.net/football/coppa-italia-match-4312756/atalanta-vs-genoa.html
+
+21:30 [l]Arab Cup[z]	^-
+Iraq vs Bahrain	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315977/iraq-vs-bahrain.html
+
+04.12.2025	^-
+
+00:00 [l]Arab Cup[z]	^-
+Jordan vs United Arab Emirates	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4310319/jordan-vs-united-arab-emirates.html
+
+00:00 [y]DFB Pokal[z]	^-
+VfL Bochum vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4312636/vfl-bochum-1848-vs-vfb-stuttgart.html
+
+00:00 [y]Coppa Italia[z]	^-
+Napoli vs Cagliari	`Fhttps://www.fctv33.net/football/coppa-italia-match-4312757/napoli-vs-cagliari.html
+
+00:00 [y]DFB Pokal[z]	^-
+SC Freiburg vs SV Darmstadt 98	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4312814/sc-freiburg-vs-sv-darmstadt-98.html
+
+01:00 [y]Spanish La Liga[z]	^-
+Athletic Bilbao vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209913/athletic-club-vs-real-madrid.html
+
+02:00 [y]Netherlands KNVB Cup[z]	^-
+PEC Zwolle vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4313029/pec-zwolle-vs-az-alkmaar.html
+
+02:00 [y]Copa del Rey[z]	^-
+Eldense vs Almeria	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315767/eldense-vs-almeria.html
+Mirandes vs Sporting Gijon	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315769/mirandes-vs-sporting-gijon.html
+Cultural Leonesa vs Andorra CF	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315770/cultural-leonesa-vs-andorra-cf.html
+CF Talavera de la Reina vs Malaga	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315779/cf-talavera-de-la-reina-vs-malaga.html
+Real Murcia vs Cadiz	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315983/real-murcia-vs-cadiz.html
+
+02:30 [y]English Premier League[z]	^-
+Brighton Hove Albion vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194111/brighton-hove-albion-vs-aston-villa.html
+Arsenal vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194112/arsenal-vs-brentford.html
+Burnley vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194113/burnley-vs-crystal-palace.html
+Wolves vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194115/wolverhampton-wanderers-vs-nottingham-forest.html
+
+02:30 [g]Austrian Bundesliga[z]	^-
+Sturm Graz vs WSG Swarovski Tirol	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202442/sturm-graz-vs-wsg-tirol.html
+
+02:30 [g]Belgian Cup[z]	^-
+Saint Gilloise vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-cup-match-4312657/union-saint-gilloise-vs-zulte-waregem.html
+Cercle Brugge vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-cup-match-4312770/cercle-brugge-vs-kaa-gent.html
+Royal Antwerp vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-cup-match-4313016/royal-antwerp-vs-sint-truidense.html
+Oud Heverlee vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-cup-match-4313043/oud-heverlee-leuven-vs-club-brugge.html
+
+02:45 [y]DFB Pokal[z]	^-
+Union Berlin vs Bayern Munchen	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4308500/1-fc-union-berlin-vs-fc-bayern-munich.html
+Hamburger SV vs Holstein Kiel	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4312764/hamburger-sv-vs-holstein-kiel.html
+
+03:00 [y]Coppa Italia[z]	^-
+Inter Milan vs Venezia	`Fhttps://www.fctv33.net/football/coppa-italia-match-4313031/inter-milan-vs-venezia.html
+
+03:00 [y]Copa del Rey[z]	^-
+Quintanar Del Rey vs Elche	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315778/quintanar-del-rey-vs-elche.html
+Ourense CF vs Girona	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315781/ourense-cf-vs-girona-fc.html
+CD Cieza vs Levante	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315961/cd-cieza-vs-levante.html
+Pontevedra vs Eibar	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315963/pontevedra-vs-eibar.html
+CA Antoniano vs Villarreal	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315984/ca-antoniano-vs-villarreal-cf.html
+Reus FC Reddis vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315985/reus-fc-reddis-vs-real-sociedad.html
+Torrent C.F vs Real Betis	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315986/torrent-cf-vs-real-betis.html
+
+03:15 [y]English Premier League[z]	^-
+Leeds United vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194109/leeds-united-vs-chelsea.html
+Liverpool vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194110/liverpool-vs-sunderland.html
+
+05:00 [g]Brazilian Serie A[z]	^-
+Bragantino vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141739/red-bull-bragantino-vs-vitoria-ba.html
+Fortaleza vs Corinthians Paulista	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141794/fortaleza-vs-corinthians-paulista-sp.html
+
+05:30 [g]Brazilian Serie A[z]	^-
+Juventude vs Santos	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141804/juventude-vs-santos.html
+
+06:00 [g]Brazilian Serie A[z]	^-
+Bahia vs Sport Club do Recife	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141801/bahia-vs-sport-club-do-recife.html
+Sao Paulo vs Internacional RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141803/sao-paulo-vs-internacional-rs.html
 
 07:30 [g]Brazilian Serie A[z]	^-
-Gremio RS vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141790/gremio-rs-vs-fluminense-rj.html
-Gremio RS vs Fluminense RJ	https://play7ba.peodlc.com/live/202_4317022_1.m3u8
+Atletico Mineiro vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141745/atletico-mineiro-vs-palmeiras.html
+Flamengo vs Ceara	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141798/cr-flamengo-vs-ceara.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+CDSyC Cruz Azul vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4316678/cruz-azul-vs-tigres-uanl.html
+
+09:00 [g]CONCACAF Central American Cup[z]	^-
+Xelaju MC vs Alajuelense	`Fhttps://www.fctv33.net/football/concacaf-central-american-cup-match-4305911/xelaju-mc-vs-ld-alajuelense.html
+
+10:10 [g]Mexico Liga MX[z]	^-
+Monterrey vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4316677/monterrey-vs-toluca.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
