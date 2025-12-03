@@ -65,6 +65,7 @@ Real Murcia vs Cadiz	`Fhttps://www.fctv33.net/football/copa-del-rey-match-431598
 02:30 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194111/brighton-hove-albion-vs-aston-villa.html
 Arsenal vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194112/arsenal-vs-brentford.html
+Arsenal vs Brentford	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
 Burnley vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194113/burnley-vs-crystal-palace.html
 Wolves vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194115/wolverhampton-wanderers-vs-nottingham-forest.html
 
@@ -79,10 +80,12 @@ Oud Heverlee vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-cup-match-
 
 02:45 [y]DFB Pokal[z]	^-
 Union Berlin vs Bayern Munchen	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4308500/1-fc-union-berlin-vs-fc-bayern-munich.html
+Union Berlin vs Bayern Munchen	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 Hamburger SV vs Holstein Kiel	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4312764/hamburger-sv-vs-holstein-kiel.html
 
 03:00 [y]Coppa Italia[z]	^-
 Inter Milan vs Venezia	`Fhttps://www.fctv33.net/football/coppa-italia-match-4313031/inter-milan-vs-venezia.html
+Inter Milan vs Venezia	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 
 03:00 [y]Copa del Rey[z]	^-
 Quintanar Del Rey vs Elche	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4315778/quintanar-del-rey-vs-elche.html
@@ -95,7 +98,9 @@ Torrent C.F vs Real Betis	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4
 
 03:15 [y]English Premier League[z]	^-
 Leeds United vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194109/leeds-united-vs-chelsea.html
+Leeds United vs Chelsea	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 Liverpool vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194110/liverpool-vs-sunderland.html
+Liverpool vs Sunderland AFC	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 
 05:00 [g]Brazilian Serie A[z]	^-
 Bragantino vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141739/red-bull-bragantino-vs-vitoria-ba.html
@@ -634,9 +639,8 @@ TNT Sports 4	i3!16/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!
 TNT Sports 5	i3!16/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd!!60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
 Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
-^=Universo East	https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
-^=Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd!!8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
