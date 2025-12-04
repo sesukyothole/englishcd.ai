@@ -26,20 +26,11 @@
 
 04.12.2025	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-CDSyC Cruz Azul vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4316678/cruz-azul-vs-tigres-uanl.html
-
-09:00 [g]CONCACAF Central American Cup[z]	^-
-Xelaju MC vs Alajuelense	`Fhttps://www.fctv33.net/football/concacaf-central-american-cup-match-4305911/xelaju-mc-vs-ld-alajuelense.html
-
-10:10 [g]Mexico Liga MX[z]	^-
-Monterrey vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4316677/monterrey-vs-toluca.html
-
 18:30 [g]ASEAN Club Champ Shopee Cup[z]	^-
 Shan United vs Nam Dinh FC	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261089/shan-united-vs-thep-xanh-nam-dinh-fc.html
 
 18:30 [l]AFF Women's Games[z]	^-
-Thailand vs Indonesia	`Fhttps://www.fctv33.net/football/aff-womens-games-match-4313944/thailand-women-vs-indonesia-women.html
+Thailand 🇹🇭 vs Indonesia 🇮🇩	`Fhttps://www.fctv33.net/football/aff-womens-games-match-4313944/thailand-women-vs-indonesia-women.html
 
 19:00 [g]ASEAN Club Champ Shopee Cup[z]	^-
 Bangkok Utd vs Lion City Sailors	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261090/bangkok-united-fc-vs-lion-city-sailors.html
