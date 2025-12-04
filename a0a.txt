@@ -29,6 +29,7 @@
 00:00 [y]Coppa Italia[z]	^-
 Bologna vs Parma	`Fhttps://www.fctv33.net/football/coppa-italia-match-4305998/bologna-vs-parma.html
 Bologna vs Parma	`Fhttps://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODgyNTM2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Bologna vs Parma	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 
 00:00 [l]Arab Cup[z]	^-
 Syrian vs Qatar	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315883/syria-vs-qatar.html
