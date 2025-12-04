@@ -26,20 +26,8 @@
 
 04.12.2025	^-
 
-05:00 [g]Brazilian Serie A[z]	^-
-Bragantino vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141739/red-bull-bragantino-vs-vitoria-ba.html
-Fortaleza vs Corinthians Paulista	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141794/fortaleza-vs-corinthians-paulista-sp.html
-
-05:30 [g]Brazilian Serie A[z]	^-
-Juventude vs Santos	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141804/juventude-vs-santos.html
-
-06:00 [g]Brazilian Serie A[z]	^-
-Bahia vs Sport Club do Recife	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141801/bahia-vs-sport-club-do-recife.html
-Sao Paulo vs Internacional RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141803/sao-paulo-vs-internacional-rs.html
-
 07:30 [g]Brazilian Serie A[z]	^-
 Atletico Mineiro vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141745/atletico-mineiro-vs-palmeiras.html
-Flamengo vs Ceara	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141798/cr-flamengo-vs-ceara.html
 
 08:00 [g]Mexico Liga MX[z]	^-
 CDSyC Cruz Azul vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4316678/cruz-azul-vs-tigres-uanl.html
