@@ -26,43 +26,37 @@
 
 05.12.2025	^-
 
-15:00 [g]Australia W-League[z]	^-
-Melbourne Victory vs Canberra Utd	`Fhttps://www.fctv33.net/football/australia-w-league-match-4304807/melbourne-victory-women-vs-canberra-united-women.html
-Melbourne Victory vs Canberra Utd	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3919011
-^=Melbourne Victory vs Canberra Utd	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3919011
-
 15:35 [g]Australia A-League[z]	^-
 FC Macarthur vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282211/macarthur-fc-vs-melbourne-victory.html
-FC Macarthur vs Melbourne Victory	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3685076
-^=FC Macarthur vs Melbourne Victory	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3685076
+FC Macarthur vs Melbourne Victory	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3685076
 
 16:00 [l]Southeast Asian Women's Games[z]	^-
 Myanmar vs Philippines	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4316358/myanmar-women-vs-philippines-women.html
 Myanmar vs Philippines	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953737
-^=Myanmar vs Philippines	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953737
 
 s17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282120/perth-glory-vs-western-sydney.html
-Perth Glory vs Western Sydney	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODcxNjg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Perth Glory vs Western Sydney	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3685074
 
 18:00 [l]AFF Southeast Asian Games U22[z]	^-
 Myanmar vs Philippines	`Fhttps://www.fctv33.net/football/aff-southeast-asian-games-match-4316359/myanmar-u22-vs-philippines-u22.html
-Myanmar vs Philippines	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yOTAxNDY0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Myanmar vs Philippines	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953689
 
 18:30 [l]Southeast Asian Women's Games[z]	^-
 Vietnam vs Malaysia	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4315121/vietnam-women-vs-malaysia-women.html
-Vietnam vs Malaysia	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yOTAxNjc0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Vietnam vs Malaysia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953738
 
 18:45 [l]Gulf Olympic Cup U23[z]	^-
 Qatar vs Kuwait	`Fhttps://www.fctv33.net/football/gulf-olympic-cup-match-4316883/qatar-u23-vs-kuwait-u23.html
+Qatar vs Kuwait	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3962413
 
 19:00 Liga 1[z]	^-
 Persib Bandung vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229467/persib-bandung-vs-borneo-fc.html
-Persib Bandung vs Borneo FC	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODI2MTgxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Persib Bandung vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3941088
 
 19:00 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266213/ratchaburi-fc-vs-sukhothai.html
-Ratchaburi FC vs Sukhothai	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODU4OTUyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Ratchaburi FC vs Sukhothai	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3824619
 
 19:00 [l]Gulf Olympic Cup U23[z]	^-
 Saudi Arabia vs Bahrain	`Fhttps://www.fctv33.net/football/gulf-olympic-cup-match-4316884/saudi-arabia-u23-vs-bahrain-u23.html
@@ -74,14 +68,12 @@ Oman vs Morocco	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315914/o
 
 01:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200363/stade-brestois-29-vs-as-monaco.html
-Stade Brestois vs Monaco	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTQ2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 01:30 [l]Arab Cup[z]	^-
 Comoros vs Saudi Arabia	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315912/comoros-vs-saudi-arabia.html
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Excelsior SBV vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199371/excelsior-sbv-vs-groningen.html
-Excelsior SBV vs Groningen	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yNzkwODMxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 02:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199810/1-fsv-mainz-05-vs-borussia-monchengladbach.html
@@ -91,22 +83,18 @@ Salford City vs Leyton Orient	`Fhttps://www.fctv33.net/football/fa-cup-match-431
 
 03:00 [y]French Ligue 1[z]	^-
 Lille vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200360/losc-lille-vs-marseille.html
-Lille vs Marseille	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTQ4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 03:00 [g]English Football League Champ[z]	^-
 Hull City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204160/hull-city-vs-middlesbrough.html
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209880/real-oviedo-vs-rcd-mallorca.html
-Real Oviedo vs Mallorca	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDQxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Benfica vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216082/benfica-vs-sporting-cp.html
-Benfica vs Sporting CP	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODE0ODMzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 11:00 [g]Australia A-League[z]	^-
 Auckland FC vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282139/auckland-fc-vs-wellington-phoenix-12-2025.html
-Auckland FC vs Wellington Phoenix	`*https://ppdd13.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD0yODcxNjg3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
