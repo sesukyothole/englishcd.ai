@@ -29,6 +29,7 @@
 21:30 [l]Arab Cup[z]	^-
 Oman vs Morocco	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315914/oman-vs-morocco.html
 Oman vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3941051
+Oman vs Morocco	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 06.12.2025	^-
 
@@ -56,6 +57,7 @@ Lille vs Marseille	`0https://streaming.sportsnews.id/p/ch8.html
 
 03:00 [g]English Football League Champ[z]	^-
 Hull City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204160/hull-city-vs-middlesbrough.html
+Hull City vs Middlesbrough	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209880/real-oviedo-vs-rcd-mallorca.html
@@ -63,6 +65,7 @@ Real Oviedo vs Mallorca	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Benfica vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216082/benfica-vs-sporting-cp.html
+Benfica vs Sporting CP	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 
 11:00 [g]Australia A-League[z]	^-
 Auckland FC vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282139/auckland-fc-vs-wellington-phoenix-12-2025.html
