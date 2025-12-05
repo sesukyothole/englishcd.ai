@@ -34,6 +34,7 @@ Oman vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&match
 
 01:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200363/stade-brestois-29-vs-as-monaco.html
+Stade Brestois vs Monaco	`0https://streaming.sportsnews.id/p/ch7.html
 
 01:30 [l]Arab Cup[z]	^-
 Comoros vs Saudi Arabia	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4315912/comoros-vs-saudi-arabia.html
@@ -44,18 +45,21 @@ Excelsior SBV vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivi
 
 02:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199810/1-fsv-mainz-05-vs-borussia-monchengladbach.html
+FSV Mainz 05 vs Br Monchengladbach	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 02:30 [y]FA Cup[z]	^-
 Salford City vs Leyton Orient	`Fhttps://www.fctv33.net/football/fa-cup-match-4312782/salford-city-vs-leyton-orient-12-2025.html
 
 03:00 [y]French Ligue 1[z]	^-
 Lille vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200360/losc-lille-vs-marseille.html
+Lille vs Marseille	`0https://streaming.sportsnews.id/p/ch8.html
 
 03:00 [g]English Football League Champ[z]	^-
 Hull City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204160/hull-city-vs-middlesbrough.html
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209880/real-oviedo-vs-rcd-mallorca.html
+Real Oviedo vs Mallorca	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Benfica vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216082/benfica-vs-sporting-cp.html
