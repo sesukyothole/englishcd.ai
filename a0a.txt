@@ -26,29 +26,6 @@
 
 06.12.2025	^-
 
-02:30 [y]Bundesliga[z]	^-
-FSV Mainz 05 vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199810/1-fsv-mainz-05-vs-borussia-monchengladbach.html
-FSV Mainz 05 vs Br Monchengladbach	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
-02:30 [y]FA Cup[z]	^-
-Salford City vs Leyton Orient	`Fhttps://www.fctv33.net/football/fa-cup-match-4312782/salford-city-vs-leyton-orient-12-2025.html
-
-03:00 [y]French Ligue 1[z]	^-
-Lille vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200360/losc-lille-vs-marseille.html
-Lille vs Marseille	`0https://streaming.sportsnews.id/p/ch8.html
-
-03:00 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209880/real-oviedo-vs-rcd-mallorca.html
-Real Oviedo vs Mallorca	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-
-03:10 [g]English Football League Champ[z]	^-
-Hull City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204160/hull-city-vs-middlesbrough.html
-Hull City vs Middlesbrough	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
-03:15 [g]Portuguese Primera Liga[z]	^-
-Benfica vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216082/benfica-vs-sporting-cp.html
-Benfica vs Sporting CP	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-
 11:00 [g]Australia A-League[z]	^-
 Auckland FC vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282139/auckland-fc-vs-wellington-phoenix-12-2025.html
 
