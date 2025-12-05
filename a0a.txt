@@ -28,6 +28,7 @@
 
 01:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200363/stade-brestois-29-vs-as-monaco.html
+Stade Brestois vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3824605
 Stade Brestois vs Monaco	`0https://streaming.sportsnews.id/p/ch7.html
 
 01:30 [l]Arab Cup[z]	^-
@@ -36,6 +37,7 @@ Comoros vs Saudi Arabia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Excelsior SBV vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199371/excelsior-sbv-vs-groningen.html
+Excelsior SBV vs Groningen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3824616
 
 02:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199810/1-fsv-mainz-05-vs-borussia-monchengladbach.html
