@@ -26,14 +26,6 @@
 
 05.12.2025	^-
 
-15:35 [g]Australia A-League[z]	^-
-FC Macarthur vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282211/macarthur-fc-vs-melbourne-victory.html
-FC Macarthur vs Melbourne Victory	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3685076
-
-16:00 [l]Southeast Asian Women's Games[z]	^-
-Myanmar vs Philippines	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4316358/myanmar-women-vs-philippines-women.html
-Myanmar vs Philippines	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953737
-
 s17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282120/perth-glory-vs-western-sydney.html
 Perth Glory vs Western Sydney	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3685074
@@ -53,6 +45,7 @@ Qatar vs Kuwait	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&match
 19:00 Liga 1[z]	^-
 Persib Bandung vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229467/persib-bandung-vs-borneo-fc.html
 Persib Bandung vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3941088
+Persib Bandung vs Borneo FC	`0https://live.samuraitv.biz.id/p/ch1.html
 
 19:00 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266213/ratchaburi-fc-vs-sukhothai.html
