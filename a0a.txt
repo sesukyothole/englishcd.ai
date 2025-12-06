@@ -142,8 +142,13 @@ AVS Futebol SAD vs Rio Ave	`Fhttps://www.fctv33.net/football/portuguese-primera-
 02:00 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199370/heracles-almelo-vs-sc-telstar.html
 
+02:30 [y]US Major League Soccer[z]	^-
+Inter Miami vs Vancouver Whitecaps	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4316431/inter-miami-cf-vs-vancouver-whitecaps.html
+Inter Miami vs Vancouver Whitecaps	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd!!7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+
 02:45 [y]Italian Serie A[z]	^-
 Verona vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194859/hellas-verona-vs-atalanta.html
+Verona vs Atalanta	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 02:45 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198987/sint-truidense-vs-club-brugge.html
@@ -153,6 +158,7 @@ Feyenoord vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie
 
 03:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209872/athletic-club-vs-atletico-madrid.html
+Athletic Bilbao vs Atletico Madrid	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:05 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200364/paris-saint-germain-vs-stade-rennais-fc.html
