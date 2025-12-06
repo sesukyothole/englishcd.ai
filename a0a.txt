@@ -95,7 +95,7 @@ Bournemouth AFC vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-lea
 Newcastle United vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194123/newcastle-united-vs-burnley.html
 Manchester City vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194125/manchester-city-vs-sunderland.html
 
-22:00 [y]Belgian Pro League[z]	^-
+22:00 [g]Belgian Pro League[z]	^-
 Cercle Brugge vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198947/cercle-brugge-vs-standard-liege.html
 
 22:00 [g]English Football League Champ[z]	^-
