@@ -58,21 +58,28 @@ Sassuolo vs Fiorentina	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-
 21:30 [y]Bundesliga[z]	^-
 FC Koln vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199799/fc-kln-vs-fc-st-pauli.html
 FC Koln vs FC St. Pauli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3923730
+FC Koln vs FC St. Pauli	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 FC Augsburg vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199803/fc-augsburg-vs-bayer-04-leverkusen.html
 FC Augsburg vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888615
+FC Augsburg vs Bayer Leverkusen	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 VfB Stuttgart vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199808/vfb-stuttgart-vs-fc-bayern-munich.html
 VfB Stuttgart vs Bayern Munchen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888614
+VfB Stuttgart vs Bayern Munchen	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 1. FC Heidenheim vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199811/1-fc-heidenheim-1846-vs-sc-freiburg.html
 1. FC Heidenheim vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888616
+1. FC Heidenheim vs SC Freiburg	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 VfL Wolfsburg vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199814/vfl-wolfsburg-vs-1-fc-union-berlin.html
 VfL Wolfsburg vs Union Berlin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3881828
+VfL Wolfsburg vs Union Berlin	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 
 22:00 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194116/tottenham-hotspur-vs-brentford.html
+Tottenham Hotspur vs Brentford	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
 Everton vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194120/everton-vs-nottingham-forest.html
 Bournemouth AFC vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194121/bournemouth-afc-vs-chelsea.html
 Newcastle United vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194123/newcastle-united-vs-burnley.html
 Manchester City vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194125/manchester-city-vs-sunderland.html
+Manchester City vs Sunderland AFC	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 
 22:00 [g]Belgian Pro League[z]	^-
 Cercle Brugge vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198947/cercle-brugge-vs-standard-liege.html
