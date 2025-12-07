@@ -24,35 +24,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-07.12.2025	^-
-
-22:45 [y]Netherlands Eredivisie[z]	^-
-Sparta Rotterdam vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199366/sparta-rotterdam-vs-nac-breda.html
-Sparta Rotterdam vs NAC Breda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830902
-Sparta Rotterdam vs NAC Breda	https://play7ba.peodlc.com/live/202_4314938_1.m3u8
-
-23:15 [y]French Ligue 1[z]	^-
-Le Havre vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200362/havre-athletic-club-vs-paris-fc.html
-Le Havre vs Paris FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830887
-Le Havre vs Paris FC	https://play7ba.peodlc.com/live/202_4315439_1.m3u8
-AJ Auxerre vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200366/aj-auxerre-vs-metz.html
-AJ Auxerre vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850325
-AJ Auxerre vs Metz	https://play7ba.peodlc.com/live/202_4315441_1.m3u8
-
-23:30 [y]English Premier League[z]	^-
-Fulham vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194117/fulham-vs-crystal-palace.html
-Fulham vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3939742
-Fulham vs Crystal Palace	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-Fulham vs Crystal Palace	https://live.vivo200.com/live/sd-1-4343400.m3u8?txSecret=6161bb95a12eda600106e2ee222ede7e&txTime=6935F1FB
-Fulham vs Crystal Palace	https://play7ba.peodlc.com/live/202_4314723_1.m3u8
-
-23:30 [y]Bundesliga[z]	^-
-Borussia Dortmund vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199809/borussia-dortmund-vs-tsg-hoffenheim.html
-Borussia Dortmund vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3871326
-Borussia Dortmund vs TSG Hoffenheim	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-Borussia Dortmund vs TSG Hoffenheim	https://live.vivo200.com/live/sd-1-4347465.m3u8?txSecret=781bb715b7c6d12c812952487540c69a&txTime=6935F208
-Borussia Dortmund vs TSG Hoffenheim	https://live.qfngx.com/sport/202_4314759_1.m3u8
-
 08.12.2025	^-
 
 00:00 [g]Danish Superliga[z]	^-
@@ -72,41 +43,54 @@ Syrian vs Palestine	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&m
 
 00:30 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199105/royal-antwerp-vs-racing-genk.html
+Royal Antwerp vs Racing Genk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830931
 
 00:30 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209881/rcd-espanyol-de-barcelona-vs-rayo-vallecano.html
+RCD Espanyol vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693058
 RCD Espanyol vs Rayo Vallecano	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 00:30 [g]FA Cup[z]	^-
 Blackpool vs Carlisle United	`Fhttps://www.fctv33.net/football/fa-cup-match-4312783/blackpool-vs-carlisle-united.html
+Blackpool vs Carlisle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3942812
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Alverca vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216125/alverca-vs-nacional-da-madeira.html
+Alverca vs Nacional da Madeira	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946617
 Estrela da Amadora vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216164/cf-estrela-amadora-sad-vs-fc-arouca.html
+Estrela da Amadora vs FC Arouca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3948276
 
 01:15 [g]Belgian Pro League[z]	^-
 Oud Heverlee vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198973/oud-heverlee-leuven-vs-zulte-waregem.html
+Oud Heverlee vs Zulte-Waregem	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830927
 
 02:00 [g]Brazilian Serie A[z]	^-
 Santos vs Cruzeiro Esporte Clube	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141829/santos-vs-cruzeiro-esporte-clube.html
+Santos vs Cruzeiro Esporte Clube	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3934072
 Atletico Mineiro vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141832/atletico-mineiro-vs-clube-de-regatas-vasco-da-gama.html
+Atletico Mineiro vs Vasco da Gama	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3934081
 
 02:45 [y]Italian Serie A[z]	^-
 Napoli vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194857/napoli-vs-juventus.html
+Napoli vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3873268
 Napoli vs Juventus	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 
 02:45 [y]French Ligue 1[z]	^-
 Lorient vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200367/lorient-vs-lyon.html
+Lorient vs Lyon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830888
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209877/real-madrid-vs-rc-celta.html
+Real Madrid vs Real Celta Vigo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693057
 Real Madrid vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216078/cd-tondela-vs-fc-porto.html
+CD Tondela vs FC Porto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3925724
 
 05:00 [g]Argentine Division 1[z]	^-
 Boca Juniors vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4316875/boca-juniors-vs-racing-club-de-avellaneda.html
+Boca Juniors vs Racing Club	`https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953479
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
