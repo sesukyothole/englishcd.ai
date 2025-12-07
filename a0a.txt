@@ -26,35 +26,6 @@
 
 08.12.2025	^-
 
-02:00 [g]Brazilian Serie A[z]	^-
-Santos vs Cruzeiro Esporte Clube	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141829/santos-vs-cruzeiro-esporte-clube.html
-Santos vs Cruzeiro Esporte Clube	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3934072
-Santos vs Cruzeiro Esporte Clube	https://play7ba.peodlc.com/live/202_4317881_1.m3u8
-Atletico Mineiro vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141832/atletico-mineiro-vs-clube-de-regatas-vasco-da-gama.html
-Atletico Mineiro vs Vasco da Gama	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3934081
-Atletico Mineiro vs Vasco da Gama	https://play7ba.peodlc.com/live/202_4317886_1.m3u8
-
-02:45 [y]Italian Serie A[z]	^-
-Napoli vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194857/napoli-vs-juventus.html
-Napoli vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3873268
-Napoli vs Juventus	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-Napoli vs Juventus	https://play7ba.peodlc.com/live/202_4315292_1.m3u8
-
-02:45 [y]French Ligue 1[z]	^-
-Lorient vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200367/lorient-vs-lyon.html
-Lorient vs Lyon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830888
-Lorient vs Lyon	https://play7ba.peodlc.com/live/202_4315435_1.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-Real Madrid vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209877/real-madrid-vs-rc-celta.html
-Real Madrid vs Real Celta Vigo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693057
-Real Madrid vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Real Madrid vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_4314934_1.m3u8
-
-03:30 [g]Portuguese Primera Liga[z]	^-
-CD Tondela vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216078/cd-tondela-vs-fc-porto.html
-CD Tondela vs FC Porto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3925724
-
 05:00 [g]Argentine Division 1[z]	^-
 Boca Juniors vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4316875/boca-juniors-vs-racing-club-de-avellaneda.html
 Boca Juniors vs Racing Club	`https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953479
