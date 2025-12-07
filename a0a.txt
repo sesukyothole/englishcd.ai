@@ -39,6 +39,7 @@ Valencia vs Sevilla	https://play4.y808.com/live/112359792144_1070304673_1080p.m3
 22:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216166/estoril-vs-moreirense.html
 Estoril vs Moreirense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3948519
+Estoril vs Moreirense	https://play7ba.peodlc.com/live/202_4315509_1.m3u8
 
 22:30 [g]FA Cup[z]	^-
 Gateshead vs Walsall	`Fhttps://www.fctv33.net/football/fa-cup-match-4312776/gateshead-vs-walsall.html
@@ -47,10 +48,12 @@ Gateshead vs Walsall	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 22:45 [y]Netherlands Eredivisie[z]	^-
 Sparta Rotterdam vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199366/sparta-rotterdam-vs-nac-breda.html
 Sparta Rotterdam vs NAC Breda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830902
+Sparta Rotterdam vs NAC Breda	https://play7ba.peodlc.com/live/202_4314938_1.m3u8
 
 23:15 [y]French Ligue 1[z]	^-
 Le Havre vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200362/havre-athletic-club-vs-paris-fc.html
 Le Havre vs Paris FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830887
+Le Havre vs Paris FC	https://play7ba.peodlc.com/live/202_4315439_1.m3u8
 AJ Auxerre vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200366/aj-auxerre-vs-metz.html
 AJ Auxerre vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850325
 AJ Auxerre vs Metz	https://play7ba.peodlc.com/live/202_4315441_1.m3u8
