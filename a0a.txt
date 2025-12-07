@@ -99,9 +99,11 @@ AJ Auxerre vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-420036
 
 23:30 [y]English Premier League[z]	^-
 Fulham vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194117/fulham-vs-crystal-palace.html
+Fulham vs Crystal Palace	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 
 23:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199809/borussia-dortmund-vs-tsg-hoffenheim.html
+Borussia Dortmund vs TSG Hoffenheim	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 08.12.2025	^-
 
@@ -110,6 +112,7 @@ FC Copenhagen vs Sonderjyske	`Fhttps://www.fctv33.net/football/danish-superliga-
 
 00:00 [y]Italian Serie A[z]	^-
 Lazio vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194856/lazio-vs-bologna.html
+Lazio vs Bologna	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 00:00 [g]Arab Cup[z]	^-
 Qatar vs Tunisia	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4310320/qatar-vs-tunisia.html
@@ -120,6 +123,7 @@ Royal Antwerp vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-leagu
 
 00:30 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209881/rcd-espanyol-de-barcelona-vs-rayo-vallecano.html
+RCD Espanyol vs Rayo Vallecano	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 00:30 [g]FA Cup[z]	^-
 Blackpool vs Carlisle United	`Fhttps://www.fctv33.net/football/fa-cup-match-4312783/blackpool-vs-carlisle-united.html
@@ -137,12 +141,14 @@ Atletico Mineiro vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-se
 
 02:45 [y]Italian Serie A[z]	^-
 Napoli vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194857/napoli-vs-juventus.html
+Napoli vs Juventus	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 
 02:45 [y]French Ligue 1[z]	^-
 Lorient vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200367/lorient-vs-lyon.html
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209877/real-madrid-vs-rc-celta.html
+Real Madrid vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216078/cd-tondela-vs-fc-porto.html
