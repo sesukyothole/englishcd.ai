@@ -26,25 +26,6 @@
 
 08.12.2025	^-
 
-00:30 [y]Spanish La Liga[z]	^-
-RCD Espanyol vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209881/rcd-espanyol-de-barcelona-vs-rayo-vallecano.html
-RCD Espanyol vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693058
-RCD Espanyol vs Rayo Vallecano	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-
-00:30 [g]FA Cup[z]	^-
-Blackpool vs Carlisle United	`Fhttps://www.fctv33.net/football/fa-cup-match-4312783/blackpool-vs-carlisle-united.html
-Blackpool vs Carlisle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3942812
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-Alverca vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216125/alverca-vs-nacional-da-madeira.html
-Alverca vs Nacional da Madeira	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946617
-Estrela da Amadora vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216164/cf-estrela-amadora-sad-vs-fc-arouca.html
-Estrela da Amadora vs FC Arouca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3948276
-
-01:15 [g]Belgian Pro League[z]	^-
-Oud Heverlee vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198973/oud-heverlee-leuven-vs-zulte-waregem.html
-Oud Heverlee vs Zulte-Waregem	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830927
-
 02:00 [g]Brazilian Serie A[z]	^-
 Santos vs Cruzeiro Esporte Clube	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141829/santos-vs-cruzeiro-esporte-clube.html
 Santos vs Cruzeiro Esporte Clube	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3934072
