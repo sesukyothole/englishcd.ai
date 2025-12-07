@@ -26,62 +26,63 @@
 
 07.12.2025	^-
 
-18:00 [g]Thai League 1[z]	^-
-Bangkok Utd vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266223/bangkok-united-fc-vs-chiangrai-united.html
-
-18:15 [y]Netherlands Eredivisie[z]	^-
-FC Utrecht vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199369/fc-utrecht-vs-fc-twente-enschede.html
-
-18:30 [y]Italian Serie A[z]	^-
-Cremonese vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194861/cremonese-vs-lecce.html
-Cremonese vs Lecce	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Cremonese vs Lecce	https://live.vivo200.com/live/sd-1-4339592.m3u8?txSecret=c6127a0f71e9f3b2654a8f36bca0e106&txTime=6935ABB4
-
-18:30 [g]Thai League 1[z]	^-
-Nakhon Ratchasima vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266221/nakhon-ratchasima-mazda-fc-vs-bg-pathum-united.html
-
 19:00 [g]Thai League 1[z]	^-
 Port FC vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266226/port-fc-vs-uthai-thani-forest.html
+Port FC vs Uthai Thani Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830916
 
 19:15 Malaysian Super League[z]	^-
 DPMM FC vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221178/dpmm-fc-vs-imigresen-fc.html
+DPMM FC vs Imigresen FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3930361
 
 19:30 [g]Belgian Pro League[z]	^-
 Mechelen vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199027/kv-mechelen-vs-rc-sporting-charleroi.html
+Mechelen vs Charleroi	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830925
 
 19:30 [g]FA Cup[z]	^-
 Slough Town vs Macclesfield Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4315482/slough-town-vs-macclesfield-town.html
+Slough Town vs Macclesfield Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3916862
 
 20:00 [g]Danish Superliga[z]	^-
 Viborg vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193574/viborg-vs-midtjylland.html
+Viborg vs Midtjylland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879193
 Nordsjaelland vs Silkeborg	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193610/nordsjaelland-vs-silkeborg.html
+Nordsjaelland vs Silkeborg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879190
 
 20:00 [y]Spanish La Liga[z]	^-
 Elche vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209876/elche-vs-girona-fc.html
+Elche vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693059
 Elche vs Girona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 20:00 Malaysian Super League[z]	^-
 Penang vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221179/penang-fc-vs-selangor-fc.html
+Penang vs Selangor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3930357
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 Volendam vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199373/volendam-vs-nec-nijmegen.html
+Volendam vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830908
 AZ Alkmaar vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199377/az-alkmaar-vs-go-ahead-eagles.html
+AZ Alkmaar vs Go Ahead Eagles	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830903
 AZ Alkmaar vs Go Ahead Eagles	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 
 20:30 [g]Austrian Bundesliga[z]	^-
 Wolfsberger AC vs Austria Wien	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202461/wolfsberger-ac-vs-austria-vienna.html
+Wolfsberger AC vs Austria Wien	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830948
 Swarovski Tirol vs Rheindorf Altach	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4202531/wsg-tirol-vs-rheindorf-altach.html
+Swarovski Tirol vs Rheindorf Altach	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830951
 
 21:00 [y]English Premier League[z]	^-
 Brighton Hove Albion vs West Ham Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194119/brighton-hove-albion-vs-west-ham-united.html
+Brighton Hove Albion vs West Ham Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3939739
 Brighton Hove Albion vs West Ham Utd	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 21:00 [y]Italian Serie A[z]	^-
 Cagliari vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194860/cagliari-vs-as-roma.html
+Cagliari vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3873257
 Cagliari vs AS Roma	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 21:00 [y]French Ligue 1[z]	^-
 Nice vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200365/ogc-nice-vs-angers-sco.html
+Nice vs Angers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3866248
 
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199801/hamburger-sv-vs-sv-werder-bremen.html
