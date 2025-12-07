@@ -63,12 +63,14 @@ Fulham vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-leagu
 Fulham vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3939742
 Fulham vs Crystal Palace	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fulham vs Crystal Palace	https://live.vivo200.com/live/sd-1-4343400.m3u8?txSecret=6161bb95a12eda600106e2ee222ede7e&txTime=6935F1FB
+Fulham vs Crystal Palace	https://play7ba.peodlc.com/live/202_4314723_1.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199809/borussia-dortmund-vs-tsg-hoffenheim.html
 Borussia Dortmund vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3871326
 Borussia Dortmund vs TSG Hoffenheim	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Borussia Dortmund vs TSG Hoffenheim	https://live.vivo200.com/live/sd-1-4347465.m3u8?txSecret=781bb715b7c6d12c812952487540c69a&txTime=6935F208
+Borussia Dortmund vs TSG Hoffenheim	https://live.qfngx.com/sport/202_4314759_1.m3u8
 
 08.12.2025	^-
 
