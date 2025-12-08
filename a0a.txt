@@ -46,6 +46,9 @@ Oman vs Comoros	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&match
 Vejle vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193566/vejle-vs-brondby-if.html
 Vejle vs Brondby IF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3882144
 
+01:30 [y]English Premier League[z]	^-
+FA Cup 3rd Round Draw	`Fhttps://www.fctv33.net/football/english-premier-league-match-4318801/fa-vs-cup-3rd-round-draw.html
+
 02:30 [g]FA Cup[z]	^-
 Brackley Town vs Burton Albion	`Fhttps://www.fctv33.net/football/fa-cup-match-4312745/brackley-town-vs-burton.html
 
@@ -63,6 +66,12 @@ Gimnasia Plata vs Estudiantes Plata	`Fhttps://www.fctv33.net/football/argentine-
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Vitoria Guimaraes vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216076/vitoria-guimaraes-vs-gil-vicente.html
+
+06:00 [y]English Premier League[z]	^-
+FA Cup Round 2 Review Show	`Fhttps://www.fctv33.net/football/english-premier-league-match-4318802/fa-vs-cup-round-2-review-show.html
+
+17:00 [g]AFC Champions League Elite[z]	^-
+Machida Zelvia vs Ulsan Hyundai FC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258394/machida-zelvia-vs-ulsan-hd-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
