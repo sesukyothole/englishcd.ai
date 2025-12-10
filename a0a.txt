@@ -36,46 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 11.12.2025	^-
 
-02:45 [g]English Football League Champ[z]	^-
-Bristol City vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204173/bristol-city-vs-leicester-city.html
-Bristol City vs Leicester City	https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950337
-Ipswich Town vs Stoke City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204183/ipswich-town-vs-stoke-city.html
-Ipswich Town vs Stoke City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950353
-
-02:45 [g]English National League[z]	^-
-Carlisle United vs Woking	`Fhttps://www.fctv33.net/football/english-national-league-match-4219841/carlisle-united-vs-woking.html
-Carlisle United vs Woking	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3957903
-
-02:53 [g]Jornada 6 - futbol-internacional[z]	^-
-Multichampions (10/12/25)	`Fhttps://www.fctv33.net/football/jornada-6---futbol-internacional-match-4319061/multichampions-10-12-25.html
-
-03:00 [g]English Football League Champ[z]	^-
-Hull City vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204175/hull-city-vs-wrexham.html
-Hull City vs Wrexham	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950342
-
-03:00 [y]UEFA Champions League[z]	^-
-Real Madrid vs Manchester City	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283694/real-madrid-vs-manchester-city.html
-Real Madrid vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879533
-Real Madrid vs Manchester City	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-Club Brugge vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283692/club-brugge-vs-arsenal.html
-Club Brugge vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879518
-Club Brugge vs Arsenal	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-Bayer Leverkusen vs Newcastle Utd	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268466/bayer-04-leverkusen-vs-newcastle-united.html
-Bayer Leverkusen vs Newcastle Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879507
-Bayer Leverkusen vs Newcastle Utd	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-Athletic Club vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268508/athletic-club-vs-paris-saint-germain.html
-Athletic Club vs Paris Saint Germain	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879522
-Athletic Club vs Paris Saint Germain	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-Juventus vs Pafos FC	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269338/juventus-vs-pafos-fc.html
-Juventus vs Pafos FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879517
-Juventus vs Pafos FC	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
-Benfica vs Napoli	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283691/benfica-vs-napoli.html
-Benfica vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879519
-Benfica vs Napoli	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-Borussia Dortmund vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283693/borussia-dortmund-vs-bodo-glimt.html
-Borussia Dortmund vs Bodo Glimt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879513
-Borussia Dortmund vs Bodo Glimt	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-
 07:30 [y]Brazilian Cup[z]	^-
 Cruzeiro Esporte vs Corinthians Paul	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4308538/cruzeiro-esporte-clube-vs-corinthians-paulista-sp.html
 
