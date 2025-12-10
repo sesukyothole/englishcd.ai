@@ -26,11 +26,54 @@
 
 10.12.2025	^-
 
-07:00 [g]The Insiders-Football[z]	^-
-The Insiders-Football	`Fhttps://www.fctv33.net/football/the-insiders-football-match-4318835/the-insiders-football.html
-
 15:00 [g]Thai League Cup[z]	^-
 Surat Thani City vs PT Satun FC	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4319099/surat-thani-city-vs-pt-satun-fc.html
+
+17:00 [g]AFC Champions League Elite[z]	^-
+FC Seoul vs Melbourne City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258389/football-club-seoul-vs-melbourne-city.html
+Hiroshima San vs Shanghai Shenhua	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283075/sanfrecce-hiroshima-vs-shanghai-shenhua-fc.html
+
+18:30 [l]Southeast Asian Women's Games[z]	^-
+Singapore vs Thailand	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4313946/singapore-women-vs-thailand-women.html
+
+19:00 [l]Gulf Olympic Cup U23[z]	^-
+Iraq vs United Arab Emirates	`Fhttps://www.fctv33.net/football/gulf-olympic-cup-match-4317088/iraq-u23-vs-united-arab-emirates-u23.html
+Oman vs Yemen	`Fhttps://www.fctv33.net/football/gulf-olympic-cup-match-4317089/oman-u23-vs-yemen-u23.html
+
+19:15 [g]AFC Champions League 2[z]	^-
+Selangor vs Lion City Sailors	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258860/selangor-fc-vs-lion-city-sailors.html
+Persib Bandung vs Bangkok United	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258877/persib-bandung-vs-bangkok-united-fc.html
+
+11.12.2025	^-
+
+00:00 [g]Intercontinental Cup[z]	^-
+CDSyC Cruz Azul vs Flamengo	`Fhttps://www.fctv33.net/football/fifa-intercontinental-cup-match-4316469/cruz-azul-vs-cr-flamengo.html
+
+00:45 [y]UEFA Champions League[z]	^-
+Villarreal vs FC Copenhagen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268454/villarreal-cf-vs-fc-copenhagen.html
+Qarabag vs AFC Ajax	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269421/qarabag-vs-afc-ajax.html
+
+02:45 [g]English Football League Champ[z]	^-
+Bristol City vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204173/bristol-city-vs-leicester-city.html
+Ipswich Town vs Stoke City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204183/ipswich-town-vs-stoke-city.html
+
+02:45 [g]English National League[z]	^-
+Carlisle United vs Woking	`Fhttps://www.fctv33.net/football/english-national-league-match-4219841/carlisle-united-vs-woking.html
+
+02:53Jornada 6 - futbol-internacional
+Multichampions (10/12/25)	`Fhttps://www.fctv33.net/football/jornada-6---futbol-internacional-match-4319061/multichampions-10-12-25.html
+
+03:00 [g]English Football League Champ[z]	^-
+Hull City vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204175/hull-city-vs-wrexham.html
+
+03:00 [y]UEFA Champions League[z]	^-
+Bayer Leverkusen vs Newcastle Utd	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268466/bayer-04-leverkusen-vs-newcastle-united.html
+Athletic Club vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268508/athletic-club-vs-paris-saint-germain.html
+Juventus vs Pafos FC	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269338/juventus-vs-pafos-fc.html
+Benfica vs Napoli	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283691/benfica-vs-napoli.html
+Club Brugge vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283692/club-brugge-vs-arsenal.html
+Borussia Dortmund vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283693/borussia-dortmund-vs-bodo-glimt.html
+Real Madrid vs Manchester City	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283694/real-madrid-vs-manchester-city.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
