@@ -87,6 +87,7 @@ Ludogorets Razgrad vs PAOK Saloniki	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 
 00:45 [y]UEFA Europa Conference League[z]	^-
 KF Drita Gjilan vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272427/fc-drita-vs-az-alkmaar.html
+KF Drita Gjilan vs AZ Alkmaar	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 Breidablik vs Shamrock Rovers	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4273544/breidablik-vs-shamrock-rovers.html
 
 00:45 [y]UEFA Europa League[z]	^-
@@ -102,6 +103,7 @@ FC Utrecht vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-le
 FC Utrecht vs Nottingham Forest	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 Nice vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287312/ogc-nice-vs-sporting-braga.html
 Young Boys vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287313/young-boys-vs-losc-lille.html
+Young Boys vs Lille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879563
 
 00:45 [y]UEFA Europa Conference League[z]	^-
 Shkendija 79 vs Slovan Bratislava	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295373/shkendija-tetovo-vs-slovan-bratislava.html
@@ -113,9 +115,11 @@ Univ Craiova vs Sparta Praha	`Fhttps://www.fctv33.net/football/uefa-europa-confe
 
 03:00 [y]UEFA Europa League[z]	^-
 Basel vs Aston Villa	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4268833/fc-basel-1893-vs-aston-villa.html
+Basel vs Aston Villa	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
 03:00 [y]UEFA Europa Conference League[z]	^-
 Shelbourne vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272428/shelbourne-vs-crystal-palace.html
+Shelbourne vs Crystal Palace	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 KuPs vs Lausanne Sports	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4277845/kups-vs-lausanne-sports.html
 
 03:00 [y]UEFA Europa League[z]	^-
@@ -127,12 +131,15 @@ Hamrun Spartans vs Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europ
 
 03:00 [y]UEFA Europa League[z]	^-
 Fotbal Club FCSB vs Feyenoord	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287299/fotbal-club-fcsb-vs-feyenoord.html
+Fotbal Club FCSB vs Feyenoord	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 FC Porto vs Malmo FF	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287300/fc-porto-vs-malmo-ff.html
 Real Celta Vigo vs Bologna	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287301/rc-celta-vs-bologna.html
 Lyon vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287302/lyon-vs-go-ahead-eagles.html
 Celtic FC vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287303/celtic-fc-vs-as-roma.html
+Celtic FC vs AS Roma	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 SC Freiburg vs Red Bull Salzburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287304/sc-freiburg-vs-red-bull-salzburg.html
 Brann vs Fenerbahce	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287305/brann-vs-fenerbahce.html
+Brann vs Fenerbahce	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 
 03:00 [y]UEFA Europa Conference League[z]	^-
 Aberdeen vs Strasbourg	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295368/aberdeen-vs-rc-strasbourg-alsace.html
