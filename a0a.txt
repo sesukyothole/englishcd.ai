@@ -36,8 +36,92 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 11.12.2025	^-
 
-16:00 [y]AFF Southeast Asian Games U22[z]	^-
+16:00 [l]AFF Southeast Asian Games U22[z]	^-
 Vietnam vs Malaysia	`Fhttps://www.fctv33.net/football/aff-southeast-asian-games-match-4309667/vietnam-u22-vs-malaysia-u22.html
+
+16:00 [l]Southeast Asian Women's Games[z]	^-
+Vietnam vs Myanmar	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4315124/vietnam-women-vs-myanmar-women.html
+Philippines vs Malaysia	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4315125/philippines-women-vs-malaysia-women.html
+
+17:00 [g]AFC Champions League 2[z]	^-
+Gamba Osaka vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4261351/gamba-osaka-vs-ratchaburi-fc.html
+
+17:00 [g]AFC Champions League 2[z]	^-
+Nam Dinh vs Eastern AA FT	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4261350/thep-xanh-nam-dinh-fc-vs-eastern-football-team.html
+
+17:30 [l]Gulf Olympic Cup U23[z]	^-
+Bahrain vs Kuwait	`Fhttps://www.fctv33.net/football/gulf-olympic-cup-match-4317090/bahrain-u23-vs-kuwait-u23.html
+Qatar vs Saudi Arabia	`Fhttps://www.fctv33.net/football/gulf-olympic-cup-match-4317091/qatar-u23-vs-saudi-arabia-u23.html
+
+19:00 [l]AFF Southeast Asian Games U22[z]	^-
+Thailand vs Singapore	`Fhttps://www.fctv33.net/football/aff-southeast-asian-games-match-4316877/thailand-u22-vs-singapore-u22.html
+
+19:15 [g]AFC Champions League 2[z]	^-
+Pathum United vs Tampines Rovers	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258868/bg-pathum-united-vs-tampines-rovers-fc.html
+Kaya FC vs Pohang Steelers	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258869/kaya-fc-iloilo-vs-pohang-steelers.html
+
+19:15 [g]AFC Champions League 2[z]	^-
+Beijing Guoan vs FC Macarthur	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259865/beijing-guoan-fc-vs-macarthur-fc.html
+Wofoo Tai Po vs Cong An Nhan Dan	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259872/tai-po-vs-cong-an-ha-noi-fc.html
+
+12.12.2025	^-
+
+00:45 [y]UEFA Europa Conference League[z]	^-
+FC Noah vs Legia Warszawa	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4268858/fc-noah-vs-legia-warszawa.html
+
+00:45 [y]UEFA Europa League[z]	^-
+Ludogorets Razgrad vs PAOK Saloniki	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270182/ludogorets-razgrad-vs-paok-saloniki.html
+
+00:45 [y]UEFA Europa Conference League[z]	^-
+KF Drita Gjilan vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272427/fc-drita-vs-az-alkmaar.html
+Breidablik vs Shamrock Rovers	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4273544/breidablik-vs-shamrock-rovers.html
+
+00:45 [y]UEFA Europa League[z]	^-
+Ferencvarosi TC vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287306/ferencvarosi-tc-vs-rangers.html
+Sturm Graz vs Crvena Zvezda	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287308/sturm-graz-vs-crvena-zvezda.html
+Midtjylland vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287309/midtjylland-vs-racing-genk.html
+Dinamo Zagreb vs Real Betis	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287310/dinamo-zagreb-vs-real-betis.html
+FC Utrecht vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287311/fc-utrecht-vs-nottingham-forest.html
+Nice vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287312/ogc-nice-vs-sporting-braga.html
+Young Boys vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287313/young-boys-vs-losc-lille.html
+
+00:45 [y]UEFA Europa Conference League[z]	^-
+Shkendija 79 vs Slovan Bratislava	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295373/shkendija-tetovo-vs-slovan-bratislava.html
+Fiorentina vs Dynamo Kyiv	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295374/fiorentina-vs-dynamo-kyiv.html
+Jagiellonia Bialy vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295375/jagiellonia-bialystok-vs-rayo-vallecano.html
+Hacken vs AEK Larnaca	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295376/hacken-vs-aek-larnaca.html
+Samsunspor vs AEK Athens	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295377/samsunspor-vs-aek-athens.html
+Univ Craiova vs Sparta Praha	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295378/cs-universitatea-craiova-vs-sparta-praha.html
+
+03:00 [y]UEFA Europa League[z]	^-
+Basel vs Aston Villa	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4268833/fc-basel-1893-vs-aston-villa.html
+
+03:00 [y]UEFA Europa Conference League[z]	^-
+Shelbourne vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272428/shelbourne-vs-crystal-palace.html
+KuPs vs Lausanne Sports	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4277845/kups-vs-lausanne-sports.html
+
+03:00 [y]UEFA Europa League[z]	^-
+Panathinaikos vs Viktoria Plzen	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4280152/panathinaikos-vs-fc-viktoria-plzen.html
+
+03:00 [y]UEFA Europa Conference League[z]	^-
+Rijeka vs NK Publikum Celje	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4284139/rijeka-vs-nk-publikum-celje.html
+Hamrun Spartans vs Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4287138/hamrun-spartans-vs-fc-shakhtar-donetsk.html
+
+03:00 [y]UEFA Europa League[z]	^-
+Fotbal Club FCSB vs Feyenoord	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287299/fotbal-club-fcsb-vs-feyenoord.html
+FC Porto vs Malmo FF	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287300/fc-porto-vs-malmo-ff.html
+Real Celta Vigo vs Bologna	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287301/rc-celta-vs-bologna.html
+Lyon vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287302/lyon-vs-go-ahead-eagles.html
+Celtic FC vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287303/celtic-fc-vs-as-roma.html
+SC Freiburg vs Red Bull Salzburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287304/sc-freiburg-vs-red-bull-salzburg.html
+Brann vs Fenerbahce	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287305/brann-vs-fenerbahce.html
+
+03:00 [y]UEFA Europa Conference League[z]	^-
+Aberdeen vs Strasbourg	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295368/aberdeen-vs-rc-strasbourg-alsace.html
+Rakow Czestochowa vs Zrinjski Mostar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295369/rakow-czestochowa-vs-hsk-zrinjski-mostar.html
+Lincoln Red Imps vs Sigma Olomouc	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295370/lincoln-red-imps-fc-vs-sigma-olomouc.html
+Rapid Wien vs Omonia Nicosia	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295371/rapid-wien-vs-omonia-nicosia-fc.html
+Lech Poznan vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295372/lech-poznan-vs-1-fsv-mainz-05.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
