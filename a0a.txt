@@ -34,16 +34,10 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-12.12.2025	^-
-
-21:30 [l]Arab Cup[z]	^-
-Jordan vs Iraq	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4319245/jordan-vs-iraq.html
-Jordan vs Iraq	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978213
-Jordan vs Iraq	https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
-
 13.12.2025	^-
 
 00:30 [l]Arab Cup[z]	^-
+Algeria vs United Arab Emirates	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4319291/algeria-vs-united-arab-emirates.html
 Algeria vs United Arab Emirates	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978214
 Algeria vs United Arab Emirates	https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 
