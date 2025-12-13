@@ -63,26 +63,32 @@ FC St. Pauli vs 1. FC Heidenheim	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/m
 Chelsea vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194129/chelsea-vs-everton.html
 Chelsea vs Everton	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950169
 Chelsea vs Everton	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Chelsea vs Everton	https://play7ba.peodlc.com/live/202_4316061_1.m3u8
 Liverpool vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194131/liverpool-vs-brighton-hove-albion.html
 Liverpool vs Brighton Hove Albion	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950170
 Liverpool vs Brighton Hove Albion	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+Liverpool vs Brighton Hove Albion	https://play7ba.peodlc.com/live/202_4316060_1.m3u8
 
 22:00 [g]English Football League Champ[z]	^-
 Wrexham vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204216/wrexham-vs-watford.html
 Wrexham vs Watford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950347
+Wrexham vs Watford	https://play7ba.peodlc.com/live/202_4316109_1.m3u8
 
 22:15 [y]Spanish La Liga[z]	^-
 Mallorca vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209883/rcd-mallorca-vs-elche.html
 Mallorca vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3715893
+Mallorca vs Elche	https://play7ba.peodlc.com/live/202_4316270_1.m3u8
 Mallorca vs Elche	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 SC Telstar vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199380/sc-telstar-vs-nec-nijmegen.html
 SC Telstar vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850350
+SC Telstar vs NEC Nijmegen	https://play7ba.peodlc.com/live/202_4316280_1.m3u8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216129/casa-pia-ac-vs-gil-vicente.html
 Casa Pia AC vs Gil Vicente	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3967609
+Casa Pia AC vs Gil Vicente	https://play7ba.peodlc.com/live/202_4316733_1.m3u8
 
 23:00 [y]French Ligue 1[z]	^-
 Rennes vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200371/stade-rennais-fc-vs-stade-brestois-29.html
