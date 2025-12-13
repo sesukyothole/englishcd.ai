@@ -36,16 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 13.12.2025	^-
 
-22:30 [y]Netherlands Eredivisie[z]	^-
-SC Telstar vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199380/sc-telstar-vs-nec-nijmegen.html
-SC Telstar vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850350
-SC Telstar vs NEC Nijmegen	https://play7ba.peodlc.com/live/202_4316280_1.m3u8
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-Casa Pia AC vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216129/casa-pia-ac-vs-gil-vicente.html
-Casa Pia AC vs Gil Vicente	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3967609
-Casa Pia AC vs Gil Vicente	https://play7ba.peodlc.com/live/202_4316733_1.m3u8
-
 23:00 [y]French Ligue 1[z]	^-
 Rennes vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200371/stade-rennais-fc-vs-stade-brestois-29.html
 Rennes vs Stade Brestois	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850328
@@ -93,22 +83,28 @@ Rio Ave vs Vitoria Guimaraes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199376/psv-eindhoven-vs-heracles-almelo.html
+PSV Eindhoven vs Heracles Almelo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850351
 
 02:45 [y]Italian Serie A[z]	^-
 Atalanta vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194874/atalanta-vs-cagliari.html
+Atalanta vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890707
 Atalanta vs Cagliari	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 02:45 [g]Belgian Pro League[z]	^-
 Anderlecht vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199036/anderlecht-vs-sint-truidense.html
+Anderlecht vs Sint-Truidense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850381
 
 03:00 [y]English Premier League[z]	^-
 Arsenal vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194134/arsenal-vs-wolverhampton-wanderers.html
+Arsenal vs Wolves	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959304
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 PEC Zwolle vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199378/pec-zwolle-vs-fortuna-sittard.html
+PEC Zwolle vs Fortuna Sittard	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850348
 
 03:00 [y]Spanish La Liga[z]	^-
 Getafe vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209884/getafe-vs-rcd-espanyol-de-barcelona.html
+Getafe vs RCD Espanyol	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3715897
 Getafe vs RCD Espanyol	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:05 [y]French Ligue 1[z]	^-
