@@ -36,24 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 13.12.2025	^-
 
-21:30 [y]Bundesliga[z]	^-
-TSG Hoffenheim vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199818/tsg-hoffenheim-vs-hamburger-sv.html
-TSG Hoffenheim vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949328
-TSG Hoffenheim vs Hamburger SV	https://play7ba.peodlc.com/live/202_4316096_1.m3u8
-TSG Hoffenheim vs Hamburger SV	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-Br Monchengladbach vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199824/borussia-monchengladbach-vs-vfl-wolfsburg.html
-Br Monchengladbach vs VfL Wolfsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888618
-Br Monchengladbach vs VfL Wolfsburg	https://play7ba.peodlc.com/live/202_4316098_1.m3u8
-Br Monchengladbach vs VfL Wolfsburg	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
-Eintracht Frankfurt vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199825/eintracht-frankfurt-vs-fc-augsburg.html
-Eintracht Frankfurt vs FC Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888617
-Eintracht Frankfurt vs FC Augsburg	https://play7ba.peodlc.com/live/202_4316100_1.m3u8
-Eintracht Frankfurt vs FC Augsburg	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-FC St. Pauli vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199832/fc-st-pauli-vs-1-fc-heidenheim-1846.html
-FC St. Pauli vs 1. FC Heidenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949329
-FC St. Pauli vs 1. FC Heidenheim	https://play7ba.peodlc.com/live/202_4316095_1.m3u8
-FC St. Pauli vs 1. FC Heidenheim	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
-
 22:00 [y]English Premier League[z]	^-
 Chelsea vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194129/chelsea-vs-everton.html
 Chelsea vs Everton	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950169
