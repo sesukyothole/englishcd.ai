@@ -55,12 +55,16 @@ Torino vs Cremonese	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.m
 21:30 [y]Bundesliga[z]	^-
 TSG Hoffenheim vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199818/tsg-hoffenheim-vs-hamburger-sv.html
 TSG Hoffenheim vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949328
+TSG Hoffenheim vs Hamburger SV	https://play7ba.peodlc.com/live/202_4316096_1.m3u8
 Br Monchengladbach vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199824/borussia-monchengladbach-vs-vfl-wolfsburg.html
 Br Monchengladbach vs VfL Wolfsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888618
+Br Monchengladbach vs VfL Wolfsburg	https://play7ba.peodlc.com/live/202_4316098_1.m3u8
 Eintracht Frankfurt vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199825/eintracht-frankfurt-vs-fc-augsburg.html
 Eintracht Frankfurt vs FC Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888617
+Eintracht Frankfurt vs FC Augsburg	https://play7ba.peodlc.com/live/202_4316100_1.m3u8
 FC St. Pauli vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199832/fc-st-pauli-vs-1-fc-heidenheim-1846.html
 FC St. Pauli vs 1. FC Heidenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949329
+FC St. Pauli vs 1. FC Heidenheim	https://play7ba.peodlc.com/live/202_4316095_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 Chelsea vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194129/chelsea-vs-everton.html
