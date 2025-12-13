@@ -34,13 +34,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-13.12.2025	^-
-
-23:00 [y]French Ligue 1[z]	^-
-Rennes vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200371/stade-rennais-fc-vs-stade-brestois-29.html
-Rennes vs Stade Brestois	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850328
-Rennes vs Stade Brestois	https://play7ba.peodlc.com/live/202_4316663_1.m3u8
-
 14.12.2025	^-
 
 00:00 [y]Italian Serie A[z]	^-
@@ -110,12 +103,15 @@ Getafe vs RCD Espanyol	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16H
 
 03:05 [y]French Ligue 1[z]	^-
 Paris FC vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200376/paris-fc-vs-toulouse-fc.html
+Paris FC vs Toulouse	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3850326
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216131/sporting-cp-vs-avs-futebol-sad.html
+Sporting CP vs AVS Futebol	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946558
 
 07:00 [g]Argentine Division 1[z]	^-
 Racing Club vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4319252/racing-club-de-avellaneda-vs-estudiantes-la-plata.html
+Racing Club vs Estudiantes La Plata	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3975180
 
 09:00 [g]Australia A-League[z]	^-
 Wellington Phoenix vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282161/wellington-phoenix-vs-newcastle-jets.html
