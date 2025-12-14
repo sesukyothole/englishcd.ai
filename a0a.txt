@@ -34,32 +34,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-14.12.2025	^-
-
-22:45 [y]Netherlands Eredivisie[z]	^-
-NAC Breda vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199375/nac-breda-vs-fc-utrecht.html
-NAC Breda vs FC Utrecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853870
-
-23:15 [y]French Ligue 1[z]	^-
-Lens vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200372/rc-lens-vs-ogc-nice.html
-Lens vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853856
-AJ Auxerre vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200374/aj-auxerre-vs-losc-lille.html
-AJ Auxerre vs Lille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3886187
-Strasbourg vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200375/rc-strasbourg-alsace-vs-lorient.html
-Strasbourg vs Lorient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853857
-
-23:30 [y]English Premier League[z]	^-
-Brentford vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194133/brentford-vs-leeds-united.html
-Brentford vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959303
-Brentford vs Leeds United	https://play7ba.peodlc.com/live/202_4316063_1.m3u8
-Brentford vs Leeds United	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-
-23:30 [y]Bundesliga[z]	^-
-Bayern Munchen vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199830/fc-bayern-munich-vs-1-fsv-mainz-05.html
-Bayern Munchen vs FSV Mainz 05	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949331
-Bayern Munchen vs FSV Mainz 05	https://play7ba.peodlc.com/live/202_4316101_1.m3u8
-Bayern Munchen vs FSV Mainz 05	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
 15.12.2025	^-
 
 00:00 [y]Italian Serie A[z]	^-
