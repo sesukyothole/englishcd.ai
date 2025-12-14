@@ -36,29 +36,30 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 14.12.2025	^-
 
-16:00 [l]Southeast Asian Women's Games (w)[z]	^-
-Vietnam 🇻🇳 vs Indonesia 🇮🇩	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4320372/vietnam-women-vs-indonesia-women.html
-Vietnam 🇻🇳 vs Indonesia 🇮🇩	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987730
-
-16:30 [l]SEA Games 2025 Women's Futsal[z]	^-
-Malaysia vs Thailand	`Fhttps://www.fctv33.net/football/sea-games-thailand-2025-womens-futsal-match-4320807/malaysia-vs-thailand.html
-
 18:00 [g]Thai League 1[z]	^-
 Ayutthaya Utd vs Bangkok Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266228/ayutthaya-united-vs-bangkok-united-fc.html
 Ayutthaya Utd vs Bangkok Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853876
 
 18:15 [y]Netherlands Eredivisie[z]	^-
 Sparta Rotterdam vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199379/sparta-rotterdam-vs-sc-heerenveen.html
+Sparta Rotterdam vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853871
 
 18:30 [y]Italian Serie A[z]	^-
 AC Milan vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194872/ac-milan-vs-sassuolo.html
+AC Milan vs Sassuolo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890710
 AC Milan vs Sassuolo	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+
+18:30 [l]Southeast Asian Women's Games (w)[z]	^-
+Thailand vs Philippines	`Fhttps://www.fctv33.net/football/southeast-asian-womens-games-match-4320373/thailand-women-vs-philippines-women.html
+Thailand vs Philippines	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987731
 
 18:30 [g]Thai League 1[z]	^-
 Buriram United vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266230/buriram-united-vs-port-fc.html
+Buriram United vs Port FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853878
 
 19:00 [g]Thai League 1[z]	^-
 BG Pathum Utd vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266231/bg-pathum-united-vs-muangthong-united.html
+BG Pathum Utd vs Muang Thong Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853877
 
 19:30 [g]Belgian Pro League[z]	^-
 KAA Gent vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198969/kaa-gent-vs-royal-antwerp.html
