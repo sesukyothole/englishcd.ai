@@ -87,8 +87,11 @@ NAC Breda vs FC Utrecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 
 23:15 [y]French Ligue 1[z]	^-
 Lens vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200372/rc-lens-vs-ogc-nice.html
+Lens vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853856
 AJ Auxerre vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200374/aj-auxerre-vs-losc-lille.html
+AJ Auxerre vs Lille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3886187
 Strasbourg vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200375/rc-strasbourg-alsace-vs-lorient.html
+Strasbourg vs Lorient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853857
 
 23:30 [y]English Premier League[z]	^-
 Brentford vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194133/brentford-vs-leeds-united.html
