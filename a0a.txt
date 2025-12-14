@@ -36,24 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 15.12.2025	^-
 
-02:45 [y]Italian Serie A[z]	^-
-Bologna vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194870/bologna-vs-juventus.html
-Bologna vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890725
-Bologna vs Juventus	https://play7ba.peodlc.com/live/202_4316560_1.m3u8
-Bologna vs Juventus	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-
-02:45 [y]French Ligue 1[z]	^-
-Marseille vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200377/marseille-vs-as-monaco.html
-Marseille vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853858
-Marseille vs Monaco	https://play7ba.peodlc.com/live/202_4318103_1.m3u8
-Marseille vs Monaco	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-
-03:00 [y]Spanish La Liga[z]	^-
-Deportivo Alavés vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209890/deportivo-alavs-vs-real-madrid.html
-Deportivo Alavés vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3715902
-Deportivo Alavés vs Real Madrid	https://play7ba.peodlc.com/202_4316278_1.m3u8?txSecret=76b8337846b4264fbe221aa228f1147a&txTime=1765741311
-Deportivo Alavés vs Real Madrid	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Arouca vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216140/fc-arouca-vs-alverca.html
 FC Arouca vs Alverca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946579
