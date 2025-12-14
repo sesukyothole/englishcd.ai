@@ -36,47 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 14.12.2025	^-
 
-21:00 [y]English Premier League[z]	^-
-West Ham United vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194126/west-ham-united-vs-aston-villa.html
-West Ham United vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959306
-West Ham United vs Aston Villa	https://live.vivo200.com/live/sd-1-4343418.m3u8?txSecret=9eebdf298198ed5397dfda90673ae1a0&txTime=693F0976
-Crystal Palace vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194130/crystal-palace-vs-manchester-city.html
-Crystal Palace vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959301
-Crystal Palace vs Manchester City	https://live.vivo200.com/live/sd-1-4343413.m3u8?txSecret=fe9f45df367a25254b1b9d6d0941c3b7&txTime=693F0954
-Crystal Palace vs Manchester City	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-Sunderland AFC vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194132/sunderland-vs-newcastle-united.html
-Sunderland AFC vs Newcastle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959307
-Sunderland AFC vs Newcastle United	https://live.vivo200.com/live/sd-1-4343417.m3u8?txSecret=82045d34b38c8cf7df63bb3eaaf48fe9&txTime=693F096A
-Sunderland AFC vs Newcastle United	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-Nottingham Forest vs Tottenham Spurs	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194135/nottingham-forest-vs-tottenham-hotspur.html
-Nottingham Forest vs Tottenham Spurs	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959305
-Nottingham Forest vs Tottenham Spurs	https://live.vivo200.com/live/sd-1-4343416.m3u8?txSecret=63c6523f936e99a37c84c7de05c6090e&txTime=693F0960
-
-21:00 [y]Italian Serie A[z]	^-
-Fiorentina vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194875/fiorentina-vs-hellas-verona.html
-Fiorentina vs Verona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890747
-Fiorentina vs Verona	https://live.vivo200.com/live/sd-1-4339612.m3u8?txSecret=1e0584465e9c967fc26346de85d769a1&txTime=693F0980
-Udinese vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194876/udinese-vs-napoli.html
-Udinese vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890715
-Udinese vs Napoli	https://live.vivo200.com/live/sd-1-4339617.m3u8?txSecret=e86baf67c4636bab9c72fb951439d540&txTime=693F098A
-Udinese vs Napoli	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-
-21:00 [y]French Ligue 1[z]	^-
-Lyon vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200370/lyon-vs-havre-athletic-club.html
-Lyon vs Le Havre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3886185
-Lyon vs Le Havre	https://live.vivo200.com/live/sd-1-4347815.m3u8?txSecret=1cbf5bfd6b27602a6fede84ee5ae9a19&txTime=693F0996
-
-21:30 [y]Bundesliga[z]	^-
-SC Freiburg vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199819/sc-freiburg-vs-borussia-dortmund.html
-SC Freiburg vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3871331
-SC Freiburg vs Borussia Dortmund	https://play7ba.peodlc.com/live/202_4316097_1.m3u8
-SC Freiburg vs Borussia Dortmund	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
-22:15 [y]Spanish La Liga[z]	^-
-Real Celta Vigo vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209886/rc-celta-vs-athletic-club.html
-Real Celta Vigo vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3715890
-Real Celta Vigo vs Athletic Bilbao	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-
 22:30 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216171/fc-famalicao-vs-estoril.html
 FC Famalicao vs Estoril	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946578
@@ -95,20 +54,24 @@ Strasbourg vs Lorient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 
 23:30 [y]English Premier League[z]	^-
 Brentford vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194133/brentford-vs-leeds-united.html
+Brentford vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959303
 Brentford vs Leeds United	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 23:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199830/fc-bayern-munich-vs-1-fsv-mainz-05.html
+Bayern Munchen vs FSV Mainz 05	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949331
 Bayern Munchen vs FSV Mainz 05	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 15.12.2025	^-
 
 00:00 [y]Italian Serie A[z]	^-
 Genoa vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194868/genoa-vs-inter-milan.html
+Genoa vs Inter Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890721
 Genoa vs Inter Milan	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 00:30 [g]Belgian Pro League[z]	^-
 Charleroi vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199034/rc-sporting-charleroi-vs-union-saint-gilloise.html
+Charleroi vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853884
 
 00:30 [y]Spanish La Liga[z]	^-
 Levante vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209888/levante-vs-villarreal-cf.html
@@ -116,28 +79,35 @@ Levante vs Villarreal	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Moreirense vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216123/moreirense-vs-benfica.html
+Moreirense vs Benfica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946580
 
 01:15 [g]Belgian Pro League[z]	^-
 Racing Genk vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199080/racing-genk-vs-kvc-westerlo.html
+Racing Genk vs Westerlo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853885
 
 01:30 [y]Bundesliga[z]	^-
 Werder Bremen vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199817/sv-werder-bremen-vs-vfb-stuttgart.html
+Werder Bremen vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3871330
 Werder Bremen vs VfB Stuttgart	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 02:45 [y]Italian Serie A[z]	^-
 Bologna vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194870/bologna-vs-juventus.html
+Bologna vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890725
 Bologna vs Juventus	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
 02:45 [y]French Ligue 1[z]	^-
 Marseille vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200377/marseille-vs-as-monaco.html
+Marseille vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853858
 Marseille vs Monaco	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 
 03:00 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209890/deportivo-alavs-vs-real-madrid.html
+Deportivo Alavés vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3715902
 Deportivo Alavés vs Real Madrid	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Arouca vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216140/fc-arouca-vs-alverca.html
+FC Arouca vs Alverca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946579
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
