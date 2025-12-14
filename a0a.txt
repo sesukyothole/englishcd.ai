@@ -36,16 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 14.12.2025	^-
 
-18:00 [g]Thai League 1[z]	^-
-Ayutthaya Utd vs Bangkok Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266228/ayutthaya-united-vs-bangkok-united-fc.html
-Ayutthaya Utd vs Bangkok Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853876
-Ayutthaya Utd vs Bangkok Utd	https://play7ba.peodlc.com/live/202_4316488_1.m3u8
-
-18:15 [y]Netherlands Eredivisie[z]	^-
-Sparta Rotterdam vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199379/sparta-rotterdam-vs-sc-heerenveen.html
-Sparta Rotterdam vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853871
-Sparta Rotterdam vs SC Heerenveen	https://play7ba.peodlc.com/live/202_4316284_1.m3u8
-
 18:30 [y]Italian Serie A[z]	^-
 AC Milan vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194872/ac-milan-vs-sassuolo.html
 AC Milan vs Sassuolo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890710
@@ -59,10 +49,12 @@ Thailand vs Philippines	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 18:30 [g]Thai League 1[z]	^-
 Buriram United vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266230/buriram-united-vs-port-fc.html
 Buriram United vs Port FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853878
+Buriram United vs Port FC	https://play7ba.peodlc.com/live/202_4316501_1.m3u8
 
 19:00 [g]Thai League 1[z]	^-
 BG Pathum Utd vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266231/bg-pathum-united-vs-muangthong-united.html
 BG Pathum Utd vs Muang Thong Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853877
+BG Pathum Utd vs Muang Thong Utd	https://play7ba.peodlc.com/live/202_4316503_1.m3u8
 
 19:30 [g]Belgian Pro League[z]	^-
 KAA Gent vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198969/kaa-gent-vs-royal-antwerp.html
@@ -80,6 +72,7 @@ Johor Darul Takzim vs Sabah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 20:30 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199381/afc-ajax-vs-feyenoord.html
 AFC Ajax vs Feyenoord	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853865
+AFC Ajax vs Feyenoord	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 Twente Enschede vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199383/fc-twente-enschede-vs-go-ahead-eagles.html
 Twente Enschede vs Go Ahead Eagles	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853872
 
