@@ -36,21 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 15.12.2025	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Genoa vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194868/genoa-vs-inter-milan.html
-Genoa vs Inter Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890721
-Genoa vs Inter Milan	https://play7ba.peodlc.com/live/202_4316558_1.m3u8
-Genoa vs Inter Milan	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-
-00:30 [g]Belgian Pro League[z]	^-
-Charleroi vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199034/rc-sporting-charleroi-vs-union-saint-gilloise.html
-Charleroi vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853884
-Charleroi vs Saint Gilloise	https://play7ba.peodlc.com/live/202_4316130_1.m3u8
-
-00:30 [y]Spanish La Liga[z]	^-
-Levante vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209888/levante-vs-villarreal-cf.html
-Levante vs Villarreal	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-
 01:00 [g]Portuguese Primera Liga[z]	^-
 Moreirense vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216123/moreirense-vs-benfica.html
 Moreirense vs Benfica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946580
@@ -69,11 +54,13 @@ Werder Bremen vs VfB Stuttgart	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manife
 02:45 [y]Italian Serie A[z]	^-
 Bologna vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194870/bologna-vs-juventus.html
 Bologna vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890725
+Bologna vs Juventus	https://play7ba.peodlc.com/live/202_4316560_1.m3u8
 Bologna vs Juventus	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
 02:45 [y]French Ligue 1[z]	^-
 Marseille vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200377/marseille-vs-as-monaco.html
 Marseille vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853858
+Marseille vs Monaco	https://play7ba.peodlc.com/live/202_4318103_1.m3u8
 Marseille vs Monaco	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 
 03:00 [y]Spanish La Liga[z]	^-
