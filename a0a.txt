@@ -48,6 +48,7 @@ KAA Gent vs Royal Antwerp	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sport
 20:00 [y]Spanish La Liga[z]	^-
 Sevilla vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209887/sevilla-fc-vs-real-oviedo.html
 Sevilla vs Real Oviedo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3715914
+Sevilla vs Real Oviedo	https://play7ba.peodlc.com/live/202_4316268_1.m3u8
 Sevilla vs Real Oviedo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 20:00 Malaysian FA Cup	^-
@@ -64,14 +65,18 @@ Twente Enschede vs Go Ahead Eagles	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 21:00 [y]English Premier League[z]	^-
 West Ham United vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194126/west-ham-united-vs-aston-villa.html
 West Ham United vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959306
+West Ham United vs Aston Villa	https://live.vivo200.com/live/sd-1-4343418.m3u8?txSecret=9eebdf298198ed5397dfda90673ae1a0&txTime=693F0976
 Crystal Palace vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194130/crystal-palace-vs-manchester-city.html
 Crystal Palace vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959301
+Crystal Palace vs Manchester City	https://live.vivo200.com/live/sd-1-4343413.m3u8?txSecret=fe9f45df367a25254b1b9d6d0941c3b7&txTime=693F0954
 Crystal Palace vs Manchester City	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 Sunderland AFC vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194132/sunderland-vs-newcastle-united.html
 Sunderland AFC vs Newcastle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959307
+Sunderland AFC vs Newcastle United	https://live.vivo200.com/live/sd-1-4343417.m3u8?txSecret=82045d34b38c8cf7df63bb3eaaf48fe9&txTime=693F096A
 Sunderland AFC vs Newcastle United	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Nottingham Forest vs Tottenham Spurs	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194135/nottingham-forest-vs-tottenham-hotspur.html
 Nottingham Forest vs Tottenham Spurs	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959305
+Nottingham Forest vs Tottenham Spurs	https://live.vivo200.com/live/sd-1-4343416.m3u8?txSecret=63c6523f936e99a37c84c7de05c6090e&txTime=693F0960
 
 21:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194875/fiorentina-vs-hellas-verona.html
