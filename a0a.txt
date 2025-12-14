@@ -51,11 +51,13 @@ Strasbourg vs Lorient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 23:30 [y]English Premier League[z]	^-
 Brentford vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194133/brentford-vs-leeds-united.html
 Brentford vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959303
+Brentford vs Leeds United	https://play7ba.peodlc.com/live/202_4316063_1.m3u8
 Brentford vs Leeds United	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 23:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199830/fc-bayern-munich-vs-1-fsv-mainz-05.html
 Bayern Munchen vs FSV Mainz 05	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949331
+Bayern Munchen vs FSV Mainz 05	https://play7ba.peodlc.com/live/202_4316101_1.m3u8
 Bayern Munchen vs FSV Mainz 05	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 15.12.2025	^-
@@ -63,6 +65,7 @@ Bayern Munchen vs FSV Mainz 05	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manife
 00:00 [y]Italian Serie A[z]	^-
 Genoa vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194868/genoa-vs-inter-milan.html
 Genoa vs Inter Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890721
+Genoa vs Inter Milan	https://play7ba.peodlc.com/live/202_4316558_1.m3u8
 Genoa vs Inter Milan	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 00:30 [g]Belgian Pro League[z]	^-
