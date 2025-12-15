@@ -36,14 +36,10 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 15.12.2025	^-
 
-15:30 [l]AFF Southeast Asian Games U22[z]	^-
-Vietnam vs Philippines	`Fhttps://www.fctv33.net/football/aff-southeast-asian-games-match-4321232/vietnam-u22-vs-philippines-u22.html
-Vietnam vs Philippines	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987734
-Vietnam vs Philippines	https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd!!3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-
 20:00 [l]AFF Southeast Asian Games U22[z]	^-
 Thailand vs Malaysia	`Fhttps://www.fctv33.net/football/aff-southeast-asian-games-match-4321233/thailand-u22-vs-malaysia-u22-12-2025.html
 Thailand vs Malaysia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987733
+Thailand vs Malaysia	https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd!!3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 
 21:30 [l]Arab Cup[z]	^-
 Morocco vs United Arab Emirates	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4320819/morocco-vs-united-arab-emirates.html
