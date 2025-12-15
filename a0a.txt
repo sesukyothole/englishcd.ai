@@ -51,22 +51,26 @@ AS Roma vs Como	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!
 03:00 [y]English Premier League[z]	^-
 Manchester Utd vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194127/manchester-united-vs-bournemouth-afc.html
 Manchester Utd vs Bournemouth AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959302
+Manchester Utd vs Bournemouth AFC	https://play7ba.peodlc.com/live/202_4316058_1.m3u8
 Manchester Utd vs Bournemouth AFC	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
 Manchester Utd vs Bournemouth AFC	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-
-03:00 [g]English Football League Champ[z]	^-
-Sheffield Wednesday vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204208/sheffield-wednesday-vs-derby-county.html
-Sheffield Wednesday vs Derby County	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968324
-Sheffield Wednesday vs Derby County	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 03:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209892/rayo-vallecano-vs-real-betis.html
 Rayo Vallecano vs Real Betis	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3715911
+Rayo Vallecano vs Real Betis	https://play7ba.peodlc.com/live/202_4316272_1.m3u8
 Rayo Vallecano vs Real Betis	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+
+03:00 [g]English Football League Champ[z]	^-
+Sheffield Wednesday vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204208/sheffield-wednesday-vs-derby-county.html
+Sheffield Wednesday vs Derby County	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968324
+Sheffield Wednesday vs Derby County	https://play7ba.peodlc.com/live/202_4316112_1.m3u8
+Sheffield Wednesday vs Derby County	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216135/fc-porto-vs-cf-estrela-amadora-sad.html
 FC Porto vs Estrela da Amadora	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946581
+FC Porto vs Estrela da Amadora	https://play7ba.peodlc.com/live/202_4316731_1.m3u8
 FC Porto vs Estrela da Amadora	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 19:00 [g]Thai League 1[z]	^-
