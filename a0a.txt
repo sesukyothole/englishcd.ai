@@ -39,6 +39,51 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 15:00 [y]Thai League Cup[z]	^-
 Lopburi City FC vs Songkhla FC	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4314831/lopburi-city-fc-vs-songkhla-fc.html
 
+18:30 [g]Asean Club Shopee Cup[z]	^-
+Lion City Sailors vs Shan United	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261088/lion-city-sailors-vs-shan-united.html
+
+19:00 [g]Asean Club Shopee Cup[z]	^-
+Bangkok United FC vs Nam Dinh FC	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261087/bangkok-united-fc-vs-thep-xanh-nam-dinh-fc.html
+
+20:00 Malaysian Super League	^-
+Kuala Lumpur vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221185/kuala-lumpur-city-fc-vs-johor-darul-tazim-fc.html
+
+22:00 [l]International Friendly[z]	^-
+Uganda vs Gabon	`Fhttps://www.fctv33.net/football/international-friendly-match-4320816/uganda-vs-gabon.html
+
+18.12.2025	^-
+
+00:00 [y]Copa del Rey[z]	^-
+Cultural Leonesa vs Levante	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319504/cultural-leonesa-vs-levante.html
+
+00:00 [g]Intercontinental Cup[z]	^-
+Paris Saint Germain vs Flamengo	`Fhttps://www.fctv33.net/football/fifa-intercontinental-cup-match-4320638/paris-saint-germain-vs-cr-flamengo.html
+
+00:45 [y]Netherlands KNVB Cup[z]	^-
+Excelsior Maassluis vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317211/excelsior-maassluis-vs-afc-ajax.html
+
+01:00 [y]Copa del Rey[z]	^-
+Racing Santander vs Villarreal	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319463/racing-santander-vs-villarreal-cf.html
+SD Huesca vs Osasuna	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319505/sd-huesca-vs-ca-osasuna.html
+Albacete Balompié vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319514/albacete-balompi-sad-vs-rc-celta.html
+Atlético Baleares vs Atletico Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319793/cd-atltico-baleares-vs-atletico-madrid.html
+
+02:30 [g]English Football League Cup[z]	^-
+Manchester City vs Brentford	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4317263/manchester-city-vs-brentford.html
+
+03:00 [y]Netherlands KNVB Cup[z]	^-
+Feyenoord vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317209/feyenoord-vs-sc-heerenveen.html
+
+03:00 [y]Copa del Rey[z]	^-
+Talavera Reina vs Real Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319285/cf-talavera-de-la-reina-vs-real-madrid.html
+Deportivo Alavés vs Sevilla	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4320385/deportivo-alavs-vs-sevilla-fc.html
+
+03:15 [g]English Football League Cup[z]	^-
+Newcastle United vs Fulham	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4317940/newcastle-united-vs-fulham.html
+
+03:45 [g]Portuguese Cup[z]	^-
+SC Farense vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4317949/sc-farense-vs-benfica.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
