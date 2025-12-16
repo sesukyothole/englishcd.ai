@@ -63,6 +63,7 @@ Winterthur vs Thun	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&ma
 03:00 [y]Netherlands KNVB Cup[z]	^-
 PSV Eindhoven vs GVVV Veenendaal	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317212/psv-eindhoven-vs-gvvv-veenendaal.html
 PSV Eindhoven vs GVVV Veenendaal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879157
+PSV Eindhoven vs GVVV Veenendaal	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 03:00 [y]English Football League Cup[z]	^-
 Cardiff City vs Chelsea	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4318684/cardiff-city-vs-chelsea.html
