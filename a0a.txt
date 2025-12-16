@@ -39,6 +39,26 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 19:00 [g]Thai League 1[z]	^-
 Rayong FC vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266229/rayong-fc-vs-ratchaburi-fc.html
 
+22:00 [l]International Friendly[z]	^-
+Democratic Rep Congo vs Zambia	`Fhttps://www.fctv33.net/football/international-friendly-match-4320238/democratic-republic-of-the-congo-vs-zambia.html
+
+17.12.2025	^-
+
+01:00 [y]Copa del Rey[z]	^-
+Eibar vs Elche	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319794/eibar-vs-elche.html
+Deportivo La Coruna vs Mallorca	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4320247/deportivo-la-coruna-vs-rcd-mallorca.html
+
+03:00 [y]Netherlands KNVB Cup[z]	^-
+PSV Eindhoven vs GVVV Veenendaal	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317212/psv-eindhoven-vs-gvvv-veenendaal.html
+
+03:00 [y]English Football League Cup[z]	^-
+Cardiff City vs Chelsea	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4318684/cardiff-city-vs-chelsea.html
+
+03:00 [y]Copa del Rey[z]	^-
+Eldense vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319517/eldense-vs-real-sociedad.html
+Sporting Gijon vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319792/sporting-gijon-vs-valencia-cf.html
+CD Guadalajara vs FC Barcelona	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319795/cd-guadalajara-vs-fc-barcelona.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
