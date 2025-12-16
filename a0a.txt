@@ -36,43 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 17.12.2025	^-
 
-02:00 [y]Netherlands KNVB Cup[z]	^-
-Den Bosch vs Katwijk	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317157/den-bosch-vs-katwijk.html
-Den Bosch vs Katwijk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3874368
-AFC vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317213/afc-vs-nec-nijmegen.html
-AFC vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3874371
-HSV Hoek vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317214/hsv-hoek-vs-sc-telstar.html
-HSV Hoek vs SC Telstar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3977331
-
-02:30 [g]Switzerland Super League[z]	^-
-St. Gallen vs FC Sion	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207151/st-gallen-vs-fc-sion.html
-St. Gallen vs FC Sion	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3865617
-St. Gallen vs FC Sion	https://play7ba.peodlc.com/live/202_4316935_1.m3u8
-Winterthur vs Thun	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207161/winterthur-vs-thun.html
-Winterthur vs Thun	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3865613
-Winterthur vs Thun	https://play7ba.peodlc.com/live/202_4316936_1.m3u8
-
-03:00 [y]Netherlands KNVB Cup[z]	^-
-PSV Eindhoven vs GVVV Veenendaal	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317212/psv-eindhoven-vs-gvvv-veenendaal.html
-PSV Eindhoven vs GVVV Veenendaal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879157
-PSV Eindhoven vs GVVV Veenendaal	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-
-03:00 [y]English Football League Cup[z]	^-
-Cardiff City vs Chelsea	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4318684/cardiff-city-vs-chelsea.html
-Cardiff City vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3839030
-Cardiff City vs Chelsea	https://play7ba.peodlc.com/live/202_4537798_1.m3u8
-Cardiff City vs Chelsea	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-
-03:00 [y]Copa del Rey[z]	^-
-Eldense vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319517/eldense-vs-real-sociedad.html
-Eldense vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978961
-Eldense vs Real Sociedad	https://play7ba.peodlc.com/live/202_4746185_1.m3u8
-Eldense vs Real Sociedad	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Sporting Gijon vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319792/sporting-gijon-vs-valencia-cf.html
-Sporting Gijon vs Valencia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3979341
-Sporting Gijon vs Valencia	https://play7ba.peodlc.com/live/202_4746188_1.m3u8
-Sporting Gijon vs Valencia	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-
 03:30 [y]Copa del Rey[z]	^-
 CD Guadalajara vs FC Barcelona	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319795/cd-guadalajara-vs-fc-barcelona.html
 CD Guadalajara vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3979280
