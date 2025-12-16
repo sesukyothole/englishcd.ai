@@ -34,12 +34,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-16.12.2025	^-
-
-22:00 [l]International Friendly[z]	^-
-Democratic Rep Congo vs Zambia	`Fhttps://www.fctv33.net/football/international-friendly-match-4320238/democratic-republic-of-the-congo-vs-zambia.html
-Democratic Rep Congo vs Zambia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995432
-
 17.12.2025	^-
 
 01:00 [y]Copa del Rey[z]	^-
@@ -51,6 +45,20 @@ Deportivo La Coruna vs Mallorca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 01:00 [l]International Friendly[z]	^-
 Egypt vs Nigeria	`Fhttps://www.fctv33.net/football/international-friendly-match-4320248/egypt-vs-nigeria.html
 Egypt vs Nigeria	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3986604
+
+02:00 [y]Netherlands KNVB Cup[z]	^-
+Den Bosch vs Katwijk	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317157/den-bosch-vs-katwijk.html
+Den Bosch vs Katwijk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3874368
+AFC vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317213/afc-vs-nec-nijmegen.html
+AFC vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3874371
+HSV Hoek vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317214/hsv-hoek-vs-sc-telstar.html
+HSV Hoek vs SC Telstar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3977331
+
+02:30 [g]Switzerland Super League[z]	^-
+St. Gallen vs FC Sion	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207151/st-gallen-vs-fc-sion.html
+St. Gallen vs FC Sion	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3865617
+Winterthur vs Thun	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207161/winterthur-vs-thun.html
+Winterthur vs Thun	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3865613
 
 03:00 [y]Netherlands KNVB Cup[z]	^-
 PSV Eindhoven vs GVVV Veenendaal	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317212/psv-eindhoven-vs-gvvv-veenendaal.html
