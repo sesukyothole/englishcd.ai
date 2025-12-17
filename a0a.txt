@@ -36,6 +36,12 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 18.12.2025	^-
 
+00:00 [g]Intercontinental Cup[z]	^-
+Paris Saint Germain vs Flamengo	`Fhttps://www.fctv33.net/football/fifa-intercontinental-cup-match-4320638/paris-saint-germain-vs-cr-flamengo.html
+Paris Saint Germain vs Flamengo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990985
+Paris Saint Germain vs Flamengo	https://play7ba.peodlc.com/live/202_4754908_1.m3u8
+Paris Saint Germain vs Flamengo	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+
 00:45 [y]Netherlands KNVB Cup[z]	^-
 Excelsior Maassluis vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317211/excelsior-maassluis-vs-afc-ajax.html
 Excelsior Maassluis vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980589
