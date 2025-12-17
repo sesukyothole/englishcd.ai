@@ -39,10 +39,13 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 00:00 [y]Copa del Rey[z]	^-
 Cultural Leonesa vs Levante	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319504/cultural-leonesa-vs-levante.html
 Cultural Leonesa vs Levante	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980486
+Cultural Leonesa vs Levante	https://play7ba.peodlc.com/live/202_4746191_1.m3u8
 
 00:00 [g]Intercontinental Cup[z]	^-
 Paris Saint Germain vs Flamengo	`Fhttps://www.fctv33.net/football/fifa-intercontinental-cup-match-4320638/paris-saint-germain-vs-cr-flamengo.html
 Paris Saint Germain vs Flamengo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990985
+Paris Saint Germain vs Flamengo	https://play7ba.peodlc.com/live/202_4754908_1.m3u8
+Paris Saint Germain vs Flamengo	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 
 00:45 [y]Netherlands KNVB Cup[z]	^-
 Excelsior Maassluis vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317211/excelsior-maassluis-vs-afc-ajax.html
@@ -51,16 +54,23 @@ Excelsior Maassluis vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 01:00 [y]Copa del Rey[z]	^-
 Racing Santander vs Villarreal	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319463/racing-santander-vs-villarreal-cf.html
 Racing Santander vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980502
+Racing Santander vs Villarreal	https://play7ba.peodlc.com/live/202_4746189_1.m3u8
 SD Huesca vs Osasuna	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319505/sd-huesca-vs-ca-osasuna.html
 SD Huesca vs Osasuna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980606
+SD Huesca vs Osasuna	https://play7ba.peodlc.com/live/202_4746190_1.m3u8
 Albacete Balompié vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319514/albacete-balompi-sad-vs-rc-celta.html
 Albacete Balompié vs Real Celta Vigo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980550
+Albacete Balompié vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_4746192_1.m3u8
 Atlético Baleares vs Atletico Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319793/cd-atltico-baleares-vs-atletico-madrid.html
 Atlético Baleares vs Atletico Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981799
+Atlético Baleares vs Atletico Madrid	https://play7ba.peodlc.com/live/202_4746200_1.m3u8
+Atlético Baleares vs Atletico Madrid	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 
 02:30 [g]English Football League Cup[z]	^-
 Manchester City vs Brentford	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4317263/manchester-city-vs-brentford.html
 Manchester City vs Brentford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3839034
+Manchester City vs Brentford	https://play7ba.peodlc.com/live/202_4537800_1.m3u8
+Manchester City vs Brentford	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 
 03:00 [y]Netherlands KNVB Cup[z]	^-
 Feyenoord vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317209/feyenoord-vs-sc-heerenveen.html
@@ -69,11 +79,16 @@ Feyenoord vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 03:00 [y]Copa del Rey[z]	^-
 Talavera Reina vs Real Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319285/cf-talavera-de-la-reina-vs-real-madrid.html
 Talavera Reina vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978960
+Talavera Reina vs Real Madrid	https://play7ba.peodlc.com/live/202_4746193_1.m3u8
+Talavera Reina vs Real Madrid	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Deportivo Alavés vs Sevilla	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4320385/deportivo-alavs-vs-sevilla-fc.html
 Deportivo Alavés vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980540
+Deportivo Alavés vs Sevilla	https://play7ba.peodlc.com/live/202_4746194_1.m3u8
 
 03:15 [g]English Football League Cup[z]	^-
 Newcastle United vs Fulham	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4317940/newcastle-united-vs-fulham.html
+Newcastle United vs Fulham	https://play7ba.peodlc.com/live/202_4537797_1.m3u8
+Newcastle United vs Fulham	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 
 03:45 [g]Portuguese Cup[z]	^-
 SC Farense vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4317949/sc-farense-vs-benfica.html
@@ -167,6 +182,9 @@ Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!
 Sport Networld 🇨🇦	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 Sport1 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd!!032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
 Sport2 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd!!5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
+SporTV 1 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+SporTV 2 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd!!9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
@@ -385,9 +403,6 @@ Sony Sports 4	https://dtvxtream.com/sonyliv2/301738.m3u8
 Sony Sports 5	https://dtvxtream.com/sonyliv2/300258.m3u8
 SportsNet East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
 ^=SportsNet West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
-SporTV 1 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-SporTV 2 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd!!9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
