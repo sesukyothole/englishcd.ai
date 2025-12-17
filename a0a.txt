@@ -36,19 +36,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 
 17.12.2025	^-
 
-18:30 [g]Asean Club Shopee Cup[z]	^-
-Lion City Sailors vs Shan United	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261088/lion-city-sailors-vs-shan-united.html
-Lion City Sailors vs Shan United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980392
-Lion City Sailors vs Shan United	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-
-19:00 [g]Asean Club Shopee Cup[z]	^-
-Bangkok United FC vs Nam Dinh FC	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261087/bangkok-united-fc-vs-thep-xanh-nam-dinh-fc.html
-Bangkok United FC vs Nam Dinh FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980332
-
-20:00 Malaysian Super League	^-
-Kuala Lumpur vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221185/kuala-lumpur-city-fc-vs-johor-darul-tazim-fc.html
-Kuala Lumpur vs Johor Darul Takzim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3973066
-
 22:00 [l]International Friendly[z]	^-
 Uganda vs Gabon	`Fhttps://www.fctv33.net/football/international-friendly-match-4320816/uganda-vs-gabon.html
 
@@ -82,10 +69,13 @@ Manchester City vs Brentford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 
 03:00 [y]Netherlands KNVB Cup[z]	^-
 Feyenoord vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317209/feyenoord-vs-sc-heerenveen.html
+Feyenoord vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3874369
 
 03:00 [y]Copa del Rey[z]	^-
 Talavera Reina vs Real Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319285/cf-talavera-de-la-reina-vs-real-madrid.html
+Talavera Reina vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978960
 Deportivo Alavés vs Sevilla	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4320385/deportivo-alavs-vs-sevilla-fc.html
+Deportivo Alavés vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980540
 
 03:15 [g]English Football League Cup[z]	^-
 Newcastle United vs Fulham	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4317940/newcastle-united-vs-fulham.html
