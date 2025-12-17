@@ -42,10 +42,6 @@ Paris Saint Germain vs Flamengo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 Paris Saint Germain vs Flamengo	https://play7ba.peodlc.com/live/202_4754908_1.m3u8
 Paris Saint Germain vs Flamengo	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 
-00:45 [y]Netherlands KNVB Cup[z]	^-
-Excelsior Maassluis vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4317211/excelsior-maassluis-vs-afc-ajax.html
-Excelsior Maassluis vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980589
-
 01:00 [y]Copa del Rey[z]	^-
 Racing Santander vs Villarreal	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319463/racing-santander-vs-villarreal-cf.html
 Racing Santander vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980502
@@ -60,7 +56,6 @@ Albacete Balompié vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_474619
 Atlético Baleares vs Atletico Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319793/cd-atltico-baleares-vs-atletico-madrid.html
 Atlético Baleares vs Atletico Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981799
 Atlético Baleares vs Atletico Madrid	https://play7ba.peodlc.com/live/202_4746200_1.m3u8
-Atlético Baleares vs Atletico Madrid	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 
 02:30 [g]English Football League Cup[z]	^-
 Manchester City vs Brentford	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4317263/manchester-city-vs-brentford.html
@@ -77,7 +72,7 @@ Feyenoord vs SC Heerenveen	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw2661178
 Talavera Reina vs Real Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319285/cf-talavera-de-la-reina-vs-real-madrid.html
 Talavera Reina vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978960
 Talavera Reina vs Real Madrid	https://play7ba.peodlc.com/live/202_4746193_1.m3u8
-Talavera Reina vs Real Madrid	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+Talavera Reina vs Real Madrid	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Deportivo Alavés vs Sevilla	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4320385/deportivo-alavs-vs-sevilla-fc.html
 Deportivo Alavés vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980540
 Deportivo Alavés vs Sevilla	https://play7ba.peodlc.com/live/202_4746194_1.m3u8
