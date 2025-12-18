@@ -39,6 +39,7 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 23:00 [l]Arab Cup[z]	^-
 Jordan vs Morocco	`Fhttps://www.fctv33.net/football/fifa--arab-cup-match-4321786/jordan-vs-morocco.html
 Jordan vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998090
+Jordan vs Morocco	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 19.12.2025	^-
 
@@ -55,46 +56,56 @@ Santa Clara vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 02:00 [y]EA SPORTS FC Supercup[z]	^-
 Napoli vs AC Milan	`Fhttps://www.fctv33.net/football/ea-sports-fc-supercup-match-4318375/napoli-vs-ac-milan.html
 Napoli vs AC Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3870193
+Napoli vs AC Milan	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 
 03:00 [y]Copa del Rey[z]	^-
 Real Murcia vs Real Betis	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319465/real-murcia-vs-real-betis.html
 Real Murcia vs Real Betis	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978963
 
 03:00 [y]UEFA Europa Conference League[z]	^-
-Dynamo Kyiv vs FC Noah	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4269707/dynamo-kyiv-vs-fc-noah.html
-Dynamo Kyiv vs FC Noah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879564
-Rayo Vallecano vs KF Drita Gjilan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272425/rayo-vallecano-vs-fc-drita.html
-Rayo Vallecano vs KF Drita Gjilan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879602
-NK Publikum Celje vs Shelbourne	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272429/nk-publikum-celje-vs-shelbourne.html
-NK Publikum Celje vs Shelbourne	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879557
-AZ Alkmaar vs Jagiellonia Bialystok	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272430/az-alkmaar-vs-jagiellonia-bialystok.html
-AZ Alkmaar vs Jagiellonia Bialystok	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879551
 Crystal Palace vs KuPs	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272431/crystal-palace-vs-kups.html
 Crystal Palace vs KuPs	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879550
+Crystal Palace vs KuPs	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+Sparta Praha vs Aberdeen	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295366/sparta-praha-vs-aberdeen.html
+Sparta Praha vs Aberdeen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879601
+Sparta Praha vs Aberdeen	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 Shamrock Rovers vs Hamrun Spartans	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4273548/shamrock-rovers-vs-hamrun-spartans.html
 Shamrock Rovers vs Hamrun Spartans	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879600
+Shamrock Rovers vs Hamrun Spartans	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+Rayo Vallecano vs KF Drita Gjilan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272425/rayo-vallecano-vs-fc-drita.html
+Rayo Vallecano vs KF Drita Gjilan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879602
+Rayo Vallecano vs KF Drita Gjilan	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+AZ Alkmaar vs Jagiellonia Bialystok	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272430/az-alkmaar-vs-jagiellonia-bialystok.html
+AZ Alkmaar vs Jagiellonia Bialystok	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879551
+AZ Alkmaar vs Jagiellonia Bialystok	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+Lausanne Sports vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295364/lausanne-sports-vs-fiorentina.html
+Lausanne Sports vs Fiorentina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879554
+Lausanne Sports vs Fiorentina	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+FSV Mainz 05 vs Samsunspor	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295360/1-fsv-mainz-05-vs-samsunspor.html
+FSV Mainz 05 vs Samsunspor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879553
+FSV Mainz 05 vs Samsunspor	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Strasbourg vs Breidablik	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4273550/rc-strasbourg-alsace-vs-breidablik.html
 Strasbourg vs Breidablik	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879603
+Strasbourg vs Breidablik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+Slovan Bratislava vs Hacken	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295363/slovan-bratislava-vs-hacken.html
+Slovan Bratislava vs Hacken	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879597
+Slovan Bratislava vs Hacken	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Dynamo Kyiv vs FC Noah	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4269707/dynamo-kyiv-vs-fc-noah.html
+Dynamo Kyiv vs FC Noah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879564
+NK Publikum Celje vs Shelbourne	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4272429/nk-publikum-celje-vs-shelbourne.html
+NK Publikum Celje vs Shelbourne	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879557
 FC Shakhtar Donetsk vs Rijeka	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4284140/fc-shakhtar-donetsk-vs-rijeka.html
 FC Shakhtar Donetsk vs Rijeka	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879598
 Legia Warszawa vs Lincoln Red Imps	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4294699/legia-warszawa-vs-lincoln-red-imps-fc.html
 Legia Warszawa vs Lincoln Red Imps	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879588
 HSK Zrinjski Mostar vs Rapid Wien	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295359/hsk-zrinjski-mostar-vs-rapid-wien.html
 HSK Zrinjski Mostar vs Rapid Wien	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879604
-FSV Mainz 05 vs Samsunspor	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295360/1-fsv-mainz-05-vs-samsunspor.html
-FSV Mainz 05 vs Samsunspor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879553
 AEK Larnaca vs FK Shkendija 79	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295361/aek-larnaca-vs-shkendija-tetovo.html
 AEK Larnaca vs FK Shkendija 79	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879548
 AEK Athens vs Univ Craiova	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295362/aek-athens-vs-cs-universitatea-craiova.html
 AEK Athens vs Univ Craiova	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879559
-Slovan Bratislava vs Hacken	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295363/slovan-bratislava-vs-hacken.html
-Slovan Bratislava vs Hacken	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879597
-Lausanne Sports vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295364/lausanne-sports-vs-fiorentina.html
-Lausanne Sports vs Fiorentina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879554
 Omonia Nicosia vs Rakow Czestochowa	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295365/omonia-nicosia-fc-vs-rakow-czestochowa.html
 Omonia Nicosia vs Rakow Czestochowa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879558
-Sparta Praha vs Aberdeen	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295366/sparta-praha-vs-aberdeen.html
-Sparta Praha vs Aberdeen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879601
 Sigma Olomouc vs Lech Poznan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4295367/sigma-olomouc-vs-lech-poznan.html
 Sigma Olomouc vs Lech Poznan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879599
 
@@ -164,6 +175,7 @@ Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe5
 Fubo Sports 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo Sports 2	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd!!bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
+Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 MLB Network	`Shttps://embedstreams.top/embed/alpha/mlb-network/1
 MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
@@ -176,6 +188,7 @@ One Sports Plus	https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onespor
 PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
 PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Setanta LT 1	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd!!8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Sharjah Sport	https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
@@ -199,6 +212,7 @@ SporTV 2 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/da
 SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
+Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
@@ -449,7 +463,6 @@ DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-def
 ^=RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 Sport 1 🇩🇪	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR!!98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 Sport 4 🇱🇹	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
-Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 TUDN 🇲🇽	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 TUDN 🇺🇸	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 
@@ -544,7 +557,6 @@ Fox Sports Espanol	https://live-news-manifest.tubi.video/live-news-manifest/csm/
 HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
-Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 KSA Sport 1	https://uselector.cdn.intigral-ott.net/KSAS1/KSAS1.isml/manifest.mpd!!f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b
 KSS 1	https://uselector.cdn.intigral-ott.net/KSS/KSS.isml/manifest.mpd!!0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba
 KSS 2	https://uselector.cdn.intigral-ott.net/KSS2/KSS2.isml/manifest.mpd!!08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0
@@ -583,7 +595,6 @@ Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master
 RedBull TV	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 RTA Sports	https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 RTK1	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
-RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 RTP 3 🇵🇹	https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 RTP Madeira 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
