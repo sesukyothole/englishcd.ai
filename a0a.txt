@@ -39,8 +39,10 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 01:00 [y]Copa del Rey[z]	^-
 Ourense CF vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319284/ourense-cf-vs-athletic-club.html
 Ourense CF vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980149
+Ourense CF vs Athletic Bilbao	https://play7ba.peodlc.com/live/202_4746197_1.m3u8
 Burgos CF vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4320168/burgos-cf-vs-getafe.html
 Burgos CF vs Getafe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980150
+Burgos CF vs Getafe	https://play7ba.peodlc.com/live/202_4746198_1.m3u8
 
 01:45 [g]Portuguese Cup[z]	^-
 Santa Clara vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4317266/santa-clara-vs-sporting-cp.html
