@@ -40,12 +40,6 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 Santa Clara vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4317266/santa-clara-vs-sporting-cp.html
 Santa Clara vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3982237
 
-02:00 [y]EA SPORTS FC Supercup[z]	^-
-Napoli vs AC Milan	`Fhttps://www.fctv33.net/football/ea-sports-fc-supercup-match-4318375/napoli-vs-ac-milan.html
-Napoli vs AC Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3870193
-Napoli vs AC Milan	https://play7ba.peodlc.com/live/202_4450778_1.m3u8
-Napoli vs AC Milan	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-
 03:00 [y]Copa del Rey[z]	^-
 Real Murcia vs Real Betis	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4319465/real-murcia-vs-real-betis.html
 Real Murcia vs Real Betis	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3978963
