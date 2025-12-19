@@ -83,6 +83,18 @@ Lens vs Feignies	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317269
 03:15 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216209/estoril-vs-sporting-braga.html
 
+13:00 [g]Australia A-League[z]	^-
+Newcastle Jets vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282178/newcastle-jets-vs-sydney-fc.html
+
+15:30 Liga 1	^-
+Dewa United FC vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229723/dewa-united-fc-vs-persis-solo-fc.html
+
+15:35 [g]Australia A-League[z]	^-
+Melbourne City vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282207/melbourne-city-vs-melbourne-victory.html
+
+16:30 Malaysian Super League	^-
+Johor Darul Takzim vs Kelantan Utd	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221265/johor-darul-tazim-fc-vs-kelantan-the-real-warriors.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
