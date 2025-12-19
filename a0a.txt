@@ -34,30 +34,11 @@ SEA Games Thailand 6	https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9e
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-19.12.2025	^-
-
-16:00 Malaysian Super League	^-
-Imigresen FC vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221259/imigresen-fc-vs-terengganu-fc.html
-Imigresen FC vs Terengganu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3973068
-
-16:00 Malaysian Super League	^-
-Penang vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221260/penang-fc-vs-pdrm-fc.html
-Penang vs PDRM	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3973064
-
-16:00 [g]Australia A-League[z]	^-
-Western Sydney vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282094/western-sydney-vs-auckland-fc.html
-Western Sydney vs Auckland FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3730524
-Western Sydney vs Auckland FC	https://play7ba.peodlc.com/live/202_4317029_1.m3u8
-Western Sydney vs Auckland FC	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-
-19:15 Malaysian Super League	^-
-Kuching FA vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221264/kuching-city-fc-vs-melaka-fc.html
-Kuching FA vs Melaka FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3973065
-
 20.12.2025	^-
 
 02:00 [y]EA SPORTS FC Supercup[z]	^-
 Bologna vs Inter Milan	`Fhttps://www.fctv33.net/football/ea-sports-fc-supercup-match-4318693/bologna-vs-inter-milan.html
+Bologna vs Inter Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3870197
 
 02:30 [y]Bundesliga[z]	^-
 Br Dortmund vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199849/borussia-dortmund-vs-borussia-monchengladbach.html
