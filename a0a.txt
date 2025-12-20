@@ -58,6 +58,7 @@ Sukhothai vs Nong Bua Lamphu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 19:00 Liga 1	^-
 Persebaya Surabaya vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229717/persebaya-surabaya-vs-borneo-fc.html
 Persebaya Surabaya vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3969584
+Persebaya Surabaya vs Borneo FC	`0https://streaming.sportsnews.id/p/ch5.html
 
 19:00 [g]Thai FA Cup[z]	^-
 Singha Kanchanaburi vs BEC Tero	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318354/kanchanaburi-power-fc-vs-bec-tero-sasana.html
@@ -67,9 +68,11 @@ Muang Thong Utd vs Lamphun Warrior	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 
 19:30 [y]English Premier League[z]	^-
 Newcastle United vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194154/newcastle-united-vs-chelsea.html
+Newcastle United vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968278
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209899/real-oviedo-vs-rc-celta.html
+Real Oviedo vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199836/hamburger-sv-vs-eintracht-frankfurt.html
@@ -79,10 +82,13 @@ VfB Stuttgart vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-mat
 VfL Wolfsburg vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199851/vfl-wolfsburg-vs-sc-freiburg.html
 
 22:00 [y]English Premier League[z]	^-
-Wolves vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194137/wolverhampton-wanderers-vs-brentford.html
 Brighton Hove vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194141/brighton-hove-albion-vs-sunderland.html
+Brighton Hove vs Sunderland AFC	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 Manchester City vs West Ham Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194142/manchester-city-vs-west-ham-united.html
+Manchester City vs West Ham Utd	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
 Bournemouth AFC vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194150/bournemouth-afc-vs-burnley.html
+Bournemouth AFC vs Burnley	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+Wolves vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194137/wolverhampton-wanderers-vs-brentford.html
 
 22:15 [y]Spanish La Liga[z]	^-
 Levante vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209900/levante-vs-real-sociedad.html
@@ -100,6 +106,7 @@ Lyon Duchere vs Toulouse	`Fhttps://www.fctv33.net/football/coupe-de-france-match
 
 00:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194138/tottenham-hotspur-vs-liverpool.html
+Tottenham Hotspur vs Liverpool	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
 00:30 [y]Bundesliga[z]	^-
 RB Leipzig vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199834/rb-leipzig-vs-bayer-04-leverkusen.html
