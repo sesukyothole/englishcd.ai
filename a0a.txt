@@ -26,11 +26,6 @@
 
 21.12.2025	^-
 
-02:00 [y]Netherlands Eredivisie[z]	^-
-NEC Nijmegen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199388/nec-nijmegen-vs-afc-ajax.html
-NEC Nijmegen vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3876754
-NEC Nijmegen vs AFC Ajax	https://play7ba.peodlc.com/live/202_4317421_1.m3u8
-
 02:45 [y]Italian Serie A[z]	^-
 Juventus vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194882/juventus-vs-as-roma.html
 Juventus vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953491
