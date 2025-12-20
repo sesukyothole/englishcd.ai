@@ -51,11 +51,9 @@ VfL Wolfsburg vs SC Freiburg	https://play7ba.peodlc.com/live/202_4317208_1.m3u8
 22:00 [y]English Premier League[z]	^-
 Brighton Hove vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194141/brighton-hove-albion-vs-sunderland.html
 Brighton Hove vs Sunderland AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968276
-Brighton Hove vs Sunderland AFC	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
 Brighton Hove vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4317188_1.m3u8
 Manchester City vs West Ham Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194142/manchester-city-vs-west-ham-united.html
 Manchester City vs West Ham Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968282
-Manchester City vs West Ham Utd	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 Manchester City vs West Ham Utd	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 Manchester City vs West Ham Utd	https://play7ba.peodlc.com/live/202_4317185_1.m3u8
 Bournemouth AFC vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194150/bournemouth-afc-vs-burnley.html
@@ -199,9 +197,6 @@ NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
 Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Nova Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 One Sports Plus	https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd!!322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Setanta LT 1	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd!!8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Sharjah Sport	https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
@@ -1328,5 +1323,9 @@ Starsports Select 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B
 Starsports Select 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114584&extension=ts
 Sky Sports Calcio	i3`06http://mains.services/live/67564813/6Z@74..W/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts
 Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/c303e484-7208-4695-a34e-c962db644a86.ts
+
+PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 
 	^-
