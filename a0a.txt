@@ -54,10 +54,15 @@ Real Oviedo vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYS
 
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199836/hamburger-sv-vs-eintracht-frankfurt.html
+Hamburger SV vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3956737
 FC Augsburg vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199839/fc-augsburg-vs-sv-werder-bremen.html
+FC Augsburg vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888621
 FC Koln vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199840/fc-kln-vs-1-fc-union-berlin.html
+FC Koln vs Union Berlin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3962647
 VfB Stuttgart vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199848/vfb-stuttgart-vs-tsg-hoffenheim.html
+VfB Stuttgart vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888619
 VfL Wolfsburg vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199851/vfl-wolfsburg-vs-sc-freiburg.html
+VfL Wolfsburg vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888620
 
 22:00 [y]English Premier League[z]	^-
 Brighton Hove vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194141/brighton-hove-albion-vs-sunderland.html
