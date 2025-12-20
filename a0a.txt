@@ -59,7 +59,7 @@ NAC Breda vs SC Telstar	https://play7ba.peodlc.com/live/202_4317424_1.m3u8
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209898/real-madrid-vs-sevilla-fc.html
 Real Madrid vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740591
-Real Madrid vs Sevilla	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Real Madrid vs Sevilla	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 Real Madrid vs Sevilla	https://play7ba.peodlc.com/live/202_4317412_1.m3u8
 
 03:00 [y]Coupe de France[z]	^-
