@@ -31,11 +31,6 @@ SEA Games Thailand	https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9
 
 20.12.2025	^-
 
-16:30 Malaysian Super League	^-
-Johor Darul Takzim vs Kelantan Utd	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221265/johor-darul-tazim-fc-vs-kelantan-the-real-warriors.html
-Johor Darul Takzim vs Kelantan Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3973063
-Johor Darul Takzim vs Kelantan Utd	`0https://live.samuraitv.biz.id/p/blog-page_11.html
-
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282173/perth-glory-vs-adelaide-united.html
 Perth Glory vs Adelaide United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3735995
@@ -66,7 +61,9 @@ Persebaya Surabaya vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 
 19:00 [g]Thai FA Cup[z]	^-
 Singha Kanchanaburi vs BEC Tero	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318354/kanchanaburi-power-fc-vs-bec-tero-sasana.html
+Singha Kanchanaburi vs BEC Tero	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3989351
 Muang Thong Utd vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318381/muangthong-united-vs-lamphun-warriors.html
+Muang Thong Utd vs Lamphun Warrior	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3989360
 
 19:30 [y]English Premier League[z]	^-
 Newcastle United vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194154/newcastle-united-vs-chelsea.html
