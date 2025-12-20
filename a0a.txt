@@ -26,12 +26,6 @@
 
 20.12.2025	^-
 
-20:00 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209899/real-oviedo-vs-rc-celta.html
-Real Oviedo vs Real Celta Vigo	https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740575
-Real Oviedo vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Real Oviedo vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_4317407_1.m3u8
-
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199836/hamburger-sv-vs-eintracht-frankfurt.html
 Hamburger SV vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3956737
@@ -74,10 +68,12 @@ Wolves vs Brentford	https://play7ba.peodlc.com/live/202_4317182_1.m3u8
 
 22:15 [y]Spanish La Liga[z]	^-
 Levante vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209900/levante-vs-real-sociedad.html
+Levante vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740569
 Levante vs Real Sociedad	https://play7ba.peodlc.com/live/202_4317413_1.m3u8
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199387/heracles-almelo-vs-sc-heerenveen.html
+Heracles Almelo vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3874367
 Heracles Almelo vs SC Heerenveen	https://play7ba.peodlc.com/live/202_4317422_1.m3u8
 
 21.12.2025	^-
