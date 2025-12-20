@@ -31,23 +31,6 @@ SEA Games Thailand	https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9
 
 20.12.2025	^-
 
-19:00 Liga 1	^-
-Persebaya Surabaya vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229717/persebaya-surabaya-vs-borneo-fc.html
-Persebaya Surabaya vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3969584
-Persebaya Surabaya vs Borneo FC	https://live.vivo200.com/live/sd-1-4379384.m3u8?txSecret=e0dcd5a60be44604a96bbfce956f16e5&txTime=6946D632
-
-19:00 [g]Thai FA Cup[z]	^-
-Singha Kanchanaburi vs BEC Tero	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318354/kanchanaburi-power-fc-vs-bec-tero-sasana.html
-Singha Kanchanaburi vs BEC Tero	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3989351
-Muang Thong Utd vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318381/muangthong-united-vs-lamphun-warriors.html
-Muang Thong Utd vs Lamphun Warrior	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3989360
-
-19:30 [y]English Premier League[z]	^-
-Newcastle United vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194154/newcastle-united-vs-chelsea.html
-Newcastle United vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968278
-Newcastle United vs Chelsea	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-Newcastle United vs Chelsea	https://play7ba.peodlc.com/live/202_4317183_1.m3u8
-
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209899/real-oviedo-vs-rc-celta.html
 Real Oviedo vs Real Celta Vigo	https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740575
