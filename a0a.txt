@@ -58,7 +58,7 @@ Sukhothai vs Nong Bua Lamphu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 19:00 Liga 1	^-
 Persebaya Surabaya vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229717/persebaya-surabaya-vs-borneo-fc.html
 Persebaya Surabaya vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3969584
-Persebaya Surabaya vs Borneo FC	`0https://streaming.sportsnews.id/p/ch5.html
+Persebaya Surabaya vs Borneo FC	https://live.vivo200.com/live/sd-1-4379384.m3u8?txSecret=e0dcd5a60be44604a96bbfce956f16e5&txTime=6946D632
 
 19:00 [g]Thai FA Cup[z]	^-
 Singha Kanchanaburi vs BEC Tero	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318354/kanchanaburi-power-fc-vs-bec-tero-sasana.html
