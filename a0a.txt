@@ -40,18 +40,23 @@ Real Oviedo vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_4317407_1.m3u
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199836/hamburger-sv-vs-eintracht-frankfurt.html
 Hamburger SV vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3956737
+Hamburger SV vs Eintracht Frankfurt	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 Hamburger SV vs Eintracht Frankfurt	https://play7ba.peodlc.com/live/202_4317213_1.m3u8
 FC Augsburg vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199839/fc-augsburg-vs-sv-werder-bremen.html
 FC Augsburg vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888621
+FC Augsburg vs Werder Bremen	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 FC Augsburg vs Werder Bremen	https://play7ba.peodlc.com/live/202_4317216_1.m3u8
 FC Koln vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199840/fc-kln-vs-1-fc-union-berlin.html
 FC Koln vs Union Berlin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3962647
+FC Koln vs Union Berlin	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 FC Koln vs Union Berlin	https://play7ba.peodlc.com/live/202_4317215_1.m3u8
 VfB Stuttgart vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199848/vfb-stuttgart-vs-tsg-hoffenheim.html
 VfB Stuttgart vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888619
+VfB Stuttgart vs TSG Hoffenheim	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 VfB Stuttgart vs TSG Hoffenheim	https://play7ba.peodlc.com/live/202_4317209_1.m3u8
 VfL Wolfsburg vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199851/vfl-wolfsburg-vs-sc-freiburg.html
 VfL Wolfsburg vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888620
+VfL Wolfsburg vs SC Freiburg	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 VfL Wolfsburg vs SC Freiburg	https://play7ba.peodlc.com/live/202_4317208_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
