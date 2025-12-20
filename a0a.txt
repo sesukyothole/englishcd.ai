@@ -29,35 +29,43 @@
 02:00 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199388/nec-nijmegen-vs-afc-ajax.html
 NEC Nijmegen vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3876754
+NEC Nijmegen vs AFC Ajax	https://play7ba.peodlc.com/live/202_4317421_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Juventus vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194882/juventus-vs-as-roma.html
 Juventus vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953491
 Juventus vs AS Roma	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Juventus vs AS Roma	https://play7ba.peodlc.com/live/202_4317611_1.m3u8
 
 02:45 [g]Belgian Pro League[z]	^-
 Saint Gilloise vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199031/union-saint-gilloise-vs-zulte-waregem.html
 Saint Gilloise vs Zulte-Waregem	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3876846
+Saint Gilloise vs Zulte-Waregem	https://play7ba.peodlc.com/live/202_4317238_1.m3u8
 
 03:00 [y]English Premier League[z]	^-
 Everton vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194144/everton-vs-arsenal.html
 Everton vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968288
 Everton vs Arsenal	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+Everton vs Arsenal	https://play7ba.peodlc.com/live/202_4317187_1.m3u8
 Leeds United vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194145/leeds-united-vs-crystal-palace.html
 Leeds United vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968287
+Leeds United vs Crystal Palace	https://play7ba.peodlc.com/live/202_4317184_1.m3u8
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199385/nac-breda-vs-sc-telstar.html
 NAC Breda vs SC Telstar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3876756
+NAC Breda vs SC Telstar	https://play7ba.peodlc.com/live/202_4317424_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209898/real-madrid-vs-sevilla-fc.html
 Real Madrid vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740591
 Real Madrid vs Sevilla	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Real Madrid vs Sevilla	https://play7ba.peodlc.com/live/202_4317412_1.m3u8
 
 03:00 [y]Coupe de France[z]	^-
 FONTENAY VENDEE FOOT vs PSG	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4318830/fontenay-vendee-foot-vs-paris-saint-germain.html
 FONTENAY VENDEE FOOT vs PSG	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990239
+FONTENAY VENDEE FOOT vs PSG	https://play7ba.peodlc.com/live/202_4720317_1.m3u8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216175/cf-estrela-amadora-sad-vs-moreirense.html
