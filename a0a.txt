@@ -46,23 +46,30 @@ Muang Thong Utd vs Lamphun Warrior	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 Newcastle United vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194154/newcastle-united-vs-chelsea.html
 Newcastle United vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968278
 Newcastle United vs Chelsea	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+Newcastle United vs Chelsea	https://play7ba.peodlc.com/live/202_4317183_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209899/real-oviedo-vs-rc-celta.html
 Real Oviedo vs Real Celta Vigo	https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740575
 Real Oviedo vs Real Celta Vigo	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Real Oviedo vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_4317407_1.m3u8
 
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199836/hamburger-sv-vs-eintracht-frankfurt.html
 Hamburger SV vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3956737
+Hamburger SV vs Eintracht Frankfurt	https://play7ba.peodlc.com/live/202_4317213_1.m3u8
 FC Augsburg vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199839/fc-augsburg-vs-sv-werder-bremen.html
 FC Augsburg vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888621
+FC Augsburg vs Werder Bremen	https://play7ba.peodlc.com/live/202_4317216_1.m3u8
 FC Koln vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199840/fc-kln-vs-1-fc-union-berlin.html
 FC Koln vs Union Berlin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3962647
+FC Koln vs Union Berlin	https://play7ba.peodlc.com/live/202_4317215_1.m3u8
 VfB Stuttgart vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199848/vfb-stuttgart-vs-tsg-hoffenheim.html
 VfB Stuttgart vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888619
+VfB Stuttgart vs TSG Hoffenheim	https://play7ba.peodlc.com/live/202_4317209_1.m3u8
 VfL Wolfsburg vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199851/vfl-wolfsburg-vs-sc-freiburg.html
 VfL Wolfsburg vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3888620
+VfL Wolfsburg vs SC Freiburg	https://play7ba.peodlc.com/live/202_4317208_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 Brighton Hove vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194141/brighton-hove-albion-vs-sunderland.html
