@@ -33,18 +33,24 @@ SEA Games Thailand	https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9
 
 13:00 [g]Australia A-League[z]	^-
 Newcastle Jets vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282178/newcastle-jets-vs-sydney-fc.html
+Newcastle Jets vs Sydney FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733040
+Newcastle Jets vs Sydney FC	https://play7ba.peodlc.com/live/202_4317098_1.m3u8
 
 15:30 Liga 1	^-
 Dewa United FC vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229723/dewa-united-fc-vs-persis-solo-fc.html
+Dewa United FC vs Persis Solo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3969586
 
 15:35 [g]Australia A-League[z]	^-
 Melbourne City vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282207/melbourne-city-vs-melbourne-victory.html
+Melbourne City vs Melbourne Victory	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733038
+Melbourne City vs Melbourne Victory	https://play7ba.peodlc.com/live/202_4317102_1.m3u8
 
 16:30 Malaysian Super League	^-
 Johor Darul Takzim vs Kelantan Utd	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221265/johor-darul-tazim-fc-vs-kelantan-the-real-warriors.html
 
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282173/perth-glory-vs-adelaide-united.html
+Perth Glory vs Adelaide United	https://play7ba.peodlc.com/live/202_4317115_1.m3u8
 
 18:00 [g]Thai FA Cup[z]	^-
 Ayutthaya United vs Roi Et 2018	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318373/ayutthaya-united-vs-roi-et-2018.html
