@@ -35,8 +35,10 @@ Uttaradit vs BFB Pattaya City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 15:30 Liga 1	^-
 PSM Makassar vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229716/persatuan-sepakbola-makassar-vs-malut-united.html
 PSM Makassar vs Malut United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3991890
+PSM Makassar vs Malut United	https://live5.msrktz.app/live/07808742.m3u8
 Persita Tangerang vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229722/persita-tangerang-vs-persatuan-sepak-bola-indonesia-kediri.html
 Persita Tangerang vs Persik Kediri	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3969589
+Persita Tangerang vs Persik Kediri	https://live5.msrktz.app/live/71426314.m3u8
 
 17:00 [g]Thai FA Cup[z]	^-
 Pattani vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318328/pattani-vs-nakhon-ratchasima-mazda-fc.html
