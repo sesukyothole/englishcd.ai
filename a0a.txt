@@ -26,24 +26,6 @@
 
 21.12.2025	^-
 
-20:30 [y]Netherlands Eredivisie[z]	^-
-Feyenoord vs Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199390/feyenoord-vs-fc-twente-enschede.html
-Feyenoord vs Twente Enschede	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879154
-Feyenoord vs Twente Enschede	https://play7ba.peodlc.com/live/202_4317416_1.m3u8
-Go Ahead Eagles vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199391/go-ahead-eagles-vs-groningen.html
-Go Ahead Eagles vs Groningen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879155
-Go Ahead Eagles vs Groningen	https://play7ba.peodlc.com/live/202_4317419_1.m3u8
-
-20:45 [y]Coupe de France[z]	^-
-Concarneau vs Nantes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3993296
-AJ Auxerre vs Monaco	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317939/aj-auxerre-vs-as-monaco.html
-AJ Auxerre vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3962890
-AJ Auxerre vs Monaco	https://play7ba.peodlc.com/live/202_4720316_1.m3u8
-Strasbourg vs USL Dunkerque	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317291/rc-strasbourg-alsace-vs-usl-dunkerque.html
-Strasbourg vs USL Dunkerque	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959464
-Nice vs Saint Etienne	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317292/ogc-nice-vs-as-saint-tienne.html
-Nice vs Saint Etienne	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3993284
-
 21:00 [y]Italian Serie A[z]	^-
 Sassuolo vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194883/sassuolo-vs-torino.html
 Sassuolo vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953500
