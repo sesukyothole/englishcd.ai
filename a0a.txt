@@ -56,6 +56,7 @@ Club Brugge vs KAA Gent	https://play7ba.peodlc.com/live/202_4317242_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
 Girona vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209894/girona-fc-vs-atletico-madrid.html
+Girona vs Atletico Madrid	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 Feyenoord vs Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199390/feyenoord-vs-fc-twente-enschede.html
@@ -67,15 +68,18 @@ AJ Auxerre vs Monaco	`Fhttps://www.fctv33.net/football/coupe-de-france-match-431
 
 21:00 [y]Italian Serie A[z]	^-
 Sassuolo vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194883/sassuolo-vs-torino.html
+Sassuolo vs Torino	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 21:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199841/1-fsv-mainz-05-vs-fc-st-pauli.html
+FSV Mainz 05 vs FC St. Pauli	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 22:00 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199039/sint-truidense-vs-kv-mechelen.html
 
 22:15 [y]Spanish La Liga[z]	^-
 Villarreal vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209895/villarreal-cf-vs-fc-barcelona.html
+Villarreal vs FC Barcelona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol vs Nacional Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216181/avs-futebol-sad-vs-nacional-da-madeira.html
@@ -86,9 +90,12 @@ Fortuna Sittard vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-ered
 
 23:30 [y]English Premier League[z]	^-
 Aston Villa vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194148/aston-villa-vs-manchester-united.html
+Aston Villa vs Manchester United	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Aston Villa vs Manchester United	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 23:30 [y]Bundesliga[z]	^-
 1. FC Heidenheim vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199847/1-fc-heidenheim-1846-vs-fc-bayern-munich.html
+1. FC Heidenheim vs Bayern Munchen	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 23:30 [y]Coupe de France[z]	^-
 Rennes vs Les Sables dOlonne	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317779/stade-rennais-fc-vs-les-sables-dolonne.html
@@ -97,12 +104,14 @@ Rennes vs Les Sables dOlonne	`Fhttps://www.fctv33.net/football/coupe-de-france-m
 
 00:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194880/fiorentina-vs-udinese.html
+Fiorentina vs Udinese	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
 00:30 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199014/royal-antwerp-vs-anderlecht.html
 
 00:30 [y]Spanish La Liga[z]	^-
 Elche vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209897/elche-vs-rayo-vallecano.html
+Elche vs Rayo Vallecano	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216138/cd-tondela-vs-casa-pia-ac.html
@@ -112,9 +121,11 @@ Morocco vs Comoros	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-m
 
 02:45 [y]Italian Serie A[z]	^-
 Genoa vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194877/genoa-vs-atalanta.html
+Genoa vs Atalanta	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Betis vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209896/real-betis-vs-getafe.html
+Real Betis vs Getafe	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:00 [y]Coupe de France[z]	^-
 Lyon vs Saint Cyr Collonges	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4319515/lyon-vs-saint-cyr-collonges.html
