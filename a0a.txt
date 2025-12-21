@@ -51,10 +51,12 @@ BG Pathum United vs Ubonkids City	`Fhttps://www.fctv33.net/football/thai-fa-cup-
 
 18:15 [y]Netherlands Eredivisie[z]	^-
 FC Utrecht vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199386/fc-utrecht-vs-psv-eindhoven.html
+FC Utrecht vs PSV Eindhoven	https://play7ba.peodlc.com/live/202_4317420_1.m3u8
 
 18:30 [y]Italian Serie A[z]	^-
 Cagliari vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194884/cagliari-vs-pisa.html
 Cagliari vs Pisa	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Cagliari vs Pisa	https://play7ba.peodlc.com/live/202_4317616_1.m3u8
 
 19:00 Liga 1	^-
 Persib Bandung vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229721/persib-bandung-vs-bhayangkara-presisi-indonesia-fc.html
@@ -64,6 +66,7 @@ Port FC vs Bangkok United FC	`Fhttps://www.fctv33.net/football/thai-fa-cup-match
 
 19:30 [g]Belgian Pro League[z]	^-
 Club Brugge vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198929/club-brugge-vs-kaa-gent.html
+Club Brugge vs KAA Gent	https://play7ba.peodlc.com/live/202_4317242_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
 Girona vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209894/girona-fc-vs-atletico-madrid.html
