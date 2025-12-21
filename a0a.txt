@@ -47,10 +47,12 @@ Cagliari vs Pisa	https://play7ba.peodlc.com/live/202_4317616_1.m3u8
 
 19:00 Liga 1	^-
 Persib Bandung vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229721/persib-bandung-vs-bhayangkara-presisi-indonesia-fc.html
+Persib Bandung vs Bhayangkara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3992613
 
 19:00 [g]Thai FA Cup[z]	^-
-Pattani vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318328/pattani-vs-nakhon-ratchasima-mazda-fc.html
 Port FC vs Bangkok United FC	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318522/port-fc-vs-bangkok-united-fc.html
+Port FC vs Bangkok United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3993036
+Pattani vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318328/pattani-vs-nakhon-ratchasima-mazda-fc.html
 
 19:30 [g]Belgian Pro League[z]	^-
 Club Brugge vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198929/club-brugge-vs-kaa-gent.html
