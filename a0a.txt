@@ -46,6 +46,7 @@ Sint-Truidense vs Mechelen	https://play7ba.peodlc.com/live/202_4317239_1.m3u8
 22:15 [y]Spanish La Liga[z]	^-
 Villarreal vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209895/villarreal-cf-vs-fc-barcelona.html
 Villarreal vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740580
+Villarreal vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Villarreal vs FC Barcelona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 Villarreal vs FC Barcelona	https://play7ba.peodlc.com/live/202_4317409_1.m3u8
 
@@ -101,6 +102,7 @@ Genoa vs Atalanta	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mp
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Betis vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209896/real-betis-vs-getafe.html
+Real Betis vs Getafe	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Real Betis vs Getafe	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:00 [y]Coupe de France[z]	^-
@@ -193,6 +195,7 @@ Sky Live Event 5	https://a.00/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c8
 Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 Sky Sports One	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
@@ -211,7 +214,6 @@ TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/en
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 TNT Sports 4	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 TNT Sports Space	https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd!!02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
 TSN CA 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd!!7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 TSN CA 2	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd!!362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
