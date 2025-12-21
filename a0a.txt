@@ -26,21 +26,6 @@
 
 21.12.2025	^-
 
-19:00 Liga 1	^-
-Persib Bandung vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229721/persib-bandung-vs-bhayangkara-presisi-indonesia-fc.html
-Persib Bandung vs Bhayangkara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3992613
-Persib Bandung vs Bhayangkara	https://live.vivo200.com/live/sd-1-4379395.m3u8?txSecret=6ac30476d197a17a012c2692dc41972a&txTime=694827B2
-
-19:00 [g]Thai FA Cup[z]	^-
-Port FC vs Bangkok United FC	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318522/port-fc-vs-bangkok-united-fc.html
-Port FC vs Bangkok United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3993036
-Pattani vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4318328/pattani-vs-nakhon-ratchasima-mazda-fc.html
-
-19:30 [g]Belgian Pro League[z]	^-
-Club Brugge vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198929/club-brugge-vs-kaa-gent.html
-Club Brugge vs KAA Gent	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879183
-Club Brugge vs KAA Gent	https://play7ba.peodlc.com/live/202_4317242_1.m3u8
-
 20:00 [y]Spanish La Liga[z]	^-
 Girona vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209894/girona-fc-vs-atletico-madrid.html
 Girona vs Atletico Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740576
@@ -56,9 +41,14 @@ Go Ahead Eagles vs Groningen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 Go Ahead Eagles vs Groningen	https://play7ba.peodlc.com/live/202_4317419_1.m3u8
 
 20:45 [y]Coupe de France[z]	^-
-Concarneau vs Nantes	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317149/concarneau-vs-fc-nantes.html
+Concarneau vs Nantes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3993296
 AJ Auxerre vs Monaco	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317939/aj-auxerre-vs-as-monaco.html
+AJ Auxerre vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3962890
 AJ Auxerre vs Monaco	https://play7ba.peodlc.com/live/202_4720316_1.m3u8
+Strasbourg vs USL Dunkerque	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317291/rc-strasbourg-alsace-vs-usl-dunkerque.html
+Strasbourg vs USL Dunkerque	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3959464
+Nice vs Saint Etienne	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317292/ogc-nice-vs-as-saint-tienne.html
+Nice vs Saint Etienne	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3993284
 
 21:00 [y]Italian Serie A[z]	^-
 Sassuolo vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194883/sassuolo-vs-torino.html
