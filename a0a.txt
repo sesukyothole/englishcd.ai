@@ -26,12 +26,6 @@
 
 21.12.2025	^-
 
-21:00 [y]Italian Serie A[z]	^-
-Sassuolo vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194883/sassuolo-vs-torino.html
-Sassuolo vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953500
-Sassuolo vs Torino	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-Sassuolo vs Torino	https://play7ba.peodlc.com/live/202_4317609_1.m3u8
-
 21:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199841/1-fsv-mainz-05-vs-fc-st-pauli.html
 FSV Mainz 05 vs FC St. Pauli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3878812
@@ -76,22 +70,28 @@ Aston Villa vs Manchester United	https://a151aivottlinear-a.akamaihd.net/OTTB/lh
 
 23:30 [y]Coupe de France[z]	^-
 Rennes vs Les Sables dOlonne	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4317779/stade-rennais-fc-vs-les-sables-dolonne.html
+Rennes vs Les Sables dOlonne	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3993512
 
 22.12.2025	^-
 
 00:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194880/fiorentina-vs-udinese.html
+Fiorentina vs Udinese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953521
 Fiorentina vs Udinese	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
 00:30 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199014/royal-antwerp-vs-anderlecht.html
+Royal Antwerp vs Anderlecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3879184
 
 00:30 [y]Spanish La Liga[z]	^-
 Elche vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209897/elche-vs-rayo-vallecano.html
+Elche vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740578
 Elche vs Rayo Vallecano	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+Elche vs Rayo Vallecano	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216138/cd-tondela-vs-casa-pia-ac.html
+CD Tondela vs Casa Pia AC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3965823
 
 02:00 [l]CAF Africa Cup of Nations[z]	^-
 Morocco vs Comoros	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310311/morocco-vs-comoros.html
