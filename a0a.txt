@@ -26,10 +26,6 @@
 
 22.12.2025	^-
 
-19:00 Liga 1	^-
-Semen Padang vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229719/semen-padang-vs-persatuan-sepakbola-indonesia-jakarta.html
-Semen Padang vs Persija Jakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3969585
-
 21:00 [l]CAF Africa Cup of Nations[z]	^-
 Mali vs Zambia	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310825/mali-vs-zambia.html
 Mali vs Zambia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3743364
@@ -54,9 +50,11 @@ Al-Garrafa vs Al Wehda UAE	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 
 01:45 [g]Portuguese Primera Liga[z]	^-
 Alverca vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216136/alverca-vs-fc-porto.html
+Alverca vs FC Porto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3965812
 
 02:00 [y]EA SPORTS FC Supercup[z]	^-
 Napoli vs Bologna	`Fhttps://www.fctv33.net/football/ea-sports-fc-supercup-match-4322959/napoli-vs-bologna.html
+Napoli vs Bologna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4008983
 
 03:00 [y]English Premier League[z]	^-
 Fulham vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194139/fulham-vs-nottingham-forest.html
