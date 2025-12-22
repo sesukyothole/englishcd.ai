@@ -58,9 +58,11 @@ Napoli vs Bologna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&mat
 
 03:00 [y]English Premier League[z]	^-
 Fulham vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194139/fulham-vs-nottingham-forest.html
+Fulham vs Nottingham Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3968259
 
 03:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209893/athletic-club-vs-rcd-espanyol-de-barcelona.html
+Athletic Bilbao vs RCD Espanyol	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740571
 
 03:00 [l]CAF Africa Cup of Nations[z]	^-
 Egypt vs Zimbabwe	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310020/egypt-vs-zimbabwe.html
