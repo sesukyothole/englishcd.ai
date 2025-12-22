@@ -29,6 +29,7 @@
 00:00 [l]CAF Africa Cup of Nations[z]	^-
 South Africa vs Angola	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310577/south-africa-vs-angola.html
 South Africa vs Angola	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3744173
+South Africa vs Angola	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 01:15 [g]AFC Champions League Elite[z]	^-
 Al Shorta vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258449/al-shorta-vs-al-ahli-sfc.html
@@ -61,6 +62,7 @@ Athletic Bilbao vs RCD Espanyol	https://play7ba.peodlc.com/live/202_4317418_1.m3
 03:00 [l]CAF Africa Cup of Nations[z]	^-
 Egypt vs Zimbabwe	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310020/egypt-vs-zimbabwe.html
 Egypt vs Zimbabwe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3743372
+Egypt vs Zimbabwe	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Benfica vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216145/benfica-vs-fc-famalicao.html
