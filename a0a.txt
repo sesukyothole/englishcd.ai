@@ -26,10 +26,6 @@
 
 22.12.2025	^-
 
-15:30 Liga 1	^-
-PSBS Biak Numfor vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229715/psbs-biak-numfor-vs-bali-united.html
-PSBS Biak Numfor vs Bali United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3939835
-
 19:00 Liga 1	^-
 Semen Padang vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229719/semen-padang-vs-persatuan-sepakbola-indonesia-jakarta.html
 Semen Padang vs Persija Jakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3969585
@@ -40,7 +36,9 @@ Mali vs Zambia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchI
 
 23:00 [g]AFC Champions League Elite[z]	^-
 Al-Sharjah vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258445/al-sharjah-vs-al-hilal.html
+Al-Sharjah vs Al Hilal SFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3743365
 Tractor S.C. vs Al Duhail	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258448/tractor-sc-vs-al-duhail.html
+Tractor S.C. vs Al Duhail	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3743370
 
 23.12.2025	^-
 
