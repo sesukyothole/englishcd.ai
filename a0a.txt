@@ -26,12 +26,6 @@
 
 24.12.2025	^-
 
-03:00 [y]English Football League Cup[z]	^-
-Arsenal vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4320167/arsenal-vs-crystal-palace.html
-Arsenal vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3839024
-Arsenal vs Crystal Palace	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Arsenal vs Crystal Palace	https://play7ba.peodlc.com/live/202_4537799_1.m3u8
-
 03:45 [g]Portuguese Primera Liga[z]	^-
 Vitoria Guimaraes vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216134/vitoria-guimaraes-vs-sporting-cp.html
 Vitoria Guimaraes vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995565
