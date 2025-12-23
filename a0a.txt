@@ -26,9 +26,6 @@
 
 23.12.2025	^-
 
-17:30 [l]ASEAN U16 Boy's Futsal Championship[z]	^-
-Thailand vs Brunei Darusalam	`Fhttps://www.fctv33.net/football/asean-u16-boys-futsal-championship-2025-match-4323941/thailand-vs-brunei-darusalam.html
-
 19:00 Liga 1	^-
 Persijap Jepara vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229720/persatuan-sepakbola-indonesia-jepara-vs-psim-yogyakarta.html
 Persijap Jepara vs PSIM Yogyakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3942662
@@ -69,6 +66,7 @@ Al-Sadd vs Al Ahli UAE	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=
 
 00:30 [l]CAF Africa Cup of Nations[z]	^-
 Nigeria vs Tanzania	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310010/nigeria-vs-tanzania.html
+Nigeria vs Tanzania	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3746123
 Nigeria vs Tanzania	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 01:15 [g]AFC Champions League Elite[z]	^-
