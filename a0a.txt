@@ -26,10 +26,6 @@
 
 24.12.2025	^-
 
-22:00 [l]CAF Africa Cup of Nations[z]	^-
-Algeria vs Sudan	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310269/algeria-vs-sudan.html
-Algeria vs Sudan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3749105
-
 23:00 [g]AFC Champions League 2[z]	^-
 Arkadag FK vs Al Khaldiya	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259254/arkadag-fk-vs-al-khaldiya.html
 Arkadag FK vs Al Khaldiya	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3750288
@@ -47,10 +43,12 @@ Al-Qadsia SC vs Sitra	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 00:30 [l]CAF Africa Cup of Nations[z]	^-
 Ivory Coast vs Mozambique	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310310/cote-divoire-vs-mozambique.html
 Ivory Coast vs Mozambique	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3750287
+Ivory Coast vs Mozambique	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 03:00 [l]CAF Africa Cup of Nations[z]	^-
 Cameroon vs Gabon	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310011/cameroon-vs-gabon.html
 Cameroon vs Gabon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3750743
+Cameroon vs Gabon	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 11:30 [l]ASEAN U16 Boy's Futsal Championship[z]	^-
 Indonesia vs Brunei Darussalam	`Fhttps://www.fctv33.net/football/asean-u16-boys-futsal-championship-2025-match-4324301/indonesia-vs-brunei-darusalam.html
