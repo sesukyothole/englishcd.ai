@@ -26,24 +26,6 @@
 
 27.12.2025	^-
 
-00:30 [g]Belgian Pro League[z]	^-
-Standard Liege vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199059/standard-liege-vs-sint-truidense.html
-Standard Liege vs Sint-Truidense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3895084
-
-00:30 [g]English Football League Champ[z]	^-
-Wrexham vs Sheffield United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204232/wrexham-vs-sheffield-united.html
-Wrexham vs Sheffield United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995121
-Wrexham vs Sheffield United	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-
-00:30 [g]Saudi Professional League[z]	^-
-Al Hilal SFC vs Al Khaleej Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256054/al-hilal-vs-al-khaleej-club.html
-Al Hilal SFC vs Al Khaleej Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3752841
-
-00:30 [g]CAF Africa Cup of Nations[z]	^-
-Zambia vs Comoros	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310315/zambia-vs-comoros.html
-Zambia vs Comoros	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3755734
-Zambia vs Comoros	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
 02:45 [g]Belgian Pro League[z]	^-
 Anderlecht vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199062/anderlecht-vs-rc-sporting-charleroi.html
 Anderlecht vs Charleroi	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3895085
