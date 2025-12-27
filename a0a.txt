@@ -50,10 +50,11 @@ Persib Bandung vs PSM Makassar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?
 Persib Bandung vs PSM Makassar	https://live.vivo200.com/live/sd-1-4379238.m3u8?txSecret=2a62b807adba10c0a5365e7cf600fc0d&txTime=695010B8
 
 19:00 Liga 2	^-
-PSPS Riau vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323700/psps-riau-vs-persikad-depok.html
-PSPS Riau vs Persikad Depok	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4011032
 Barito Putera vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323701/barito-putera-vs-psis-semarang.html
 Barito Putera vs PSIS Semarang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4010993
+Barito Putera vs PSIS Semarang	https://live.vivo200.com/live/sd-1-4457751.m3u8?txSecret=73f46f20ee0351e212aef074cd769ab5&txTime=69501314
+PSPS Riau vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323700/psps-riau-vs-persikad-depok.html
+PSPS Riau vs Persikad Depok	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4011032
 
 19:00 [g]Thai League Cup[z]	^-
 Nakhon Pathom vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4324292/nakhon-pathom-fc-vs-uthai-thani-forest.html
