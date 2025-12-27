@@ -26,19 +26,6 @@
 
 28.12.2025	^-
 
-00:30 [y]English Premier League[z]	^-
-Chelsea vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194157/chelsea-vs-aston-villa.html
-Chelsea vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990339
-
-00:30 [g]Saudi Professional League[z]	^-
-Al Ittihad Club vs Al Shabab Riyadh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256064/al-ittihad-club-vs-al-shabab-fc.html
-Al Ittihad Club vs Al Shabab Riyadh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3752843
-
-00:30 [l]CAF Africa Cup of Nations[z]	^-
-Uganda vs Tanzania	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310015/uganda-vs-tanzania.html
-Uganda vs Tanzania	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3759723
-Uganda vs Tanzania	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
 01:00 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216195/fc-famalicao-vs-cf-estrela-amadora-sad.html
 FC Famalicao vs Estrela da Amadora	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3991524
@@ -62,6 +49,82 @@ Estoril vs Alverca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&ma
 
 13:30 Liga 1	^-
 Malut United vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229542/malut-united-vs-borneo-fc.html
+
+Australia: Australia A-League
+15:00
+Melbourne City vs Perth Glory
+Thailand: Thai League Cup
+15:00
+Uttaradit vs BG Pathum United
+15:00
+Lopburi City FC vs Nakhon Ratchasima
+Indonesia: Indonesian Liga 1
+15:30
+Persebaya Surabaya vs Persijap Jepara
+Indonesia: Indonesian Liga 2
+15:30
+Persiku Kudus vs Deltras Sidoarjo
+Thailand: Thai League Cup
+16:00
+PT Satun FC vs Lamphun Warrior
+17:00
+Customs Department FC vs Sukhothai
+17:00
+Samut Sakhon vs Prachuap Khiri Khan
+Thailand: Thai League Cup
+18:00
+Mahasarakham United FC vs Rayong FC
+18:00
+Pattaya Discovery United FC vs Bangkok United FC
+Italy: Italian Serie A
+18:30
+AC Milan vs Verona
+Thailand: Thai League Cup
+18:30
+Chainat FC vs Port FC
+Indonesia: Indonesian Liga 1
+19:00
+Madura United vs Semen Padang
+Thailand: Thai League Cup
+19:00
+Pattani vs Ratchaburi FC
+Indonesia: Indonesian Liga 2
+19:00
+Persiba Balikpapan vs Kendal Tornado FC
+19:00
+PSS Sleman vs Persipal Palu
+Africa: CAF Africa Cup of Nations
+19:30
+Gabon vs Mozambique
+England: English Premier League
+21:00
+Sunderland AFC vs Leeds United
+Italy: Italian Serie A
+21:00
+Cremonese vs Napoli
+Africa: CAF Africa Cup of Nations
+22:00
+Equatorial Guinea vs Sudan
+Portugal: Portuguese Primera Liga
+22:30
+Casa Pia AC vs Vitoria Guimaraes
+22:30
+FC Arouca vs Gil Vicente
+England: English Premier League
+23:30
+Crystal Palace vs Tottenham Hotspur
+Italy: Italian Serie A
+29/12
+00:00
+Bologna vs Sassuolo
+Africa: CAF Africa Cup of Nations
+29/12
+00:30
+Algeria vs Burkina Faso
+Portugal: Portuguese Primera Liga
+29/12
+01:00
+Sporting Braga vs Benfica
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
