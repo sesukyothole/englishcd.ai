@@ -35,6 +35,7 @@ Nong Bua Lamphu vs Chonburi Shark	`3https://embed-10-08-12-51.linkzhe.eu.org/emb
 18:30 [y]Italian Serie A[z]	^-
 Parma vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194895/parma-vs-fiorentina.html
 Parma vs Fiorentina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953564
+Parma vs Fiorentina	https://play7ba.peodlc.com/live/202_4326240_1.m3u8
 
 18:30 [g]Thai League Cup[z]	^-
 Khonkaen Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323612/khonkaen-united-vs-kanchanaburi-power-fc.html
@@ -59,6 +60,7 @@ Nakhon Pathom vs Uthai Thani Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 19:30 [y]English Premier League[z]	^-
 Nottingham Forest vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194163/nottingham-forest-vs-manchester-city.html
 Nottingham Forest vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990336
+Nottingham Forest vs Manchester City	https://play7ba.peodlc.com/live/202_4321605_1.m3u8
 
 19:30 [l]CAF Africa Cup of Nations[z]	^-
 Benin vs Botswana	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310342/benin-vs-botswana.html
@@ -67,21 +69,29 @@ Benin vs Botswana	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&mat
 20:00 [g]Saudi Professional League[z]	^-
 Al-Qadasiya vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256066/al-qadsiah-vs-damac.html
 Al-Qadasiya vs Dhamk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3752846
+Al-Qadasiya vs Dhamk	https://play7ba.peodlc.com/live/202_4317956_1.m3u8
 
 21:00 [y]Italian Serie A[z]	^-
 Lecce vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194887/lecce-vs-como.html
 Lecce vs Como	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953571
+Lecce vs Como	https://play7ba.peodlc.com/live/202_4326241_1.m3u8
 Torino vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194893/torino-vs-cagliari.html
 Torino vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953568
+Torino vs Cagliari	https://play7ba.peodlc.com/live/202_4326238_1.m3u8
 
 21:50 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Akhdoud	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256055/al-nassr-fc-vs-al-okhdood.html
+Al Nassr FC vs Al-Akhdoud	https://play7ba.peodlc.com/live/202_4317964_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 West Ham United vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194158/west-ham-united-vs-fulham.html
+West Ham United vs Fulham	https://play7ba.peodlc.com/live/202_4321604_1.m3u8
 Brentford vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194160/brentford-vs-bournemouth-afc.html
+Brentford vs Bournemouth AFC	https://play7ba.peodlc.com/live/202_4321612_1.m3u8
 Burnley vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194161/burnley-vs-everton.html
+Burnley vs Everton	https://play7ba.peodlc.com/live/202_4321611_1.m3u8
 Liverpool vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194164/liverpool-vs-wolverhampton-wanderers.html
+Liverpool vs Wolves	https://play7ba.peodlc.com/live/202_4321607_1.m3u8
 Arsenal vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194165/arsenal-vs-brighton-hove-albion.html
 
 22:00 [g]Belgian Pro League[z]	^-
