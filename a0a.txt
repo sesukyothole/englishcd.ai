@@ -26,56 +26,53 @@
 
 27.12.2025	^-
 
-13:30 Liga 2	^-
-Persi Jayapura vs Perse Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323695/persipura-jayapura-vs-persela-lamongan.html
-
-15:00 [g]Thai League Cup[z]	^-
-Nonthaburi United vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323562/nonthaburi-united-vs-buriram-united.html
-
-15:30 Liga 1	^-
-Persik Kediri vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229543/persatuan-sepak-bola-indonesia-kediri-vs-persis-solo-fc.html
-
-15:30 Liga 2	^-
-Adhyaksa Banten vs Persekat Tegal	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323696/adhyaksa-fc-banten-vs-persekat-tegal.html
-Sriwijaya FC vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323697/sriwijaya-fc-vs-psms-medan.html
-
-15:35 [g]Australia A-League[z]	^-
-Adelaide United vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282113/adelaide-united-vs-western-sydney.html
-
 18:00 [g]Thai League Cup[z]	^-
 Bankhai United vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323684/bankhai-united-vs-ayutthaya-united.html
 Thap Luang Utd vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323685/thap-luang-united-vs-chiangrai-united.html
 Nong Bua Lamphu vs Chonburi Shark	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323698/nongbua-pitchaya-fc-vs-chonburi-fc.html
+Nong Bua Lamphu vs Chonburi Shark	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4021307
 
 18:30 [y]Italian Serie A[z]	^-
 Parma vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194895/parma-vs-fiorentina.html
+Parma vs Fiorentina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953564
 
 18:30 [g]Thai League Cup[z]	^-
 Khonkaen Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323612/khonkaen-united-vs-kanchanaburi-power-fc.html
+Khonkaen Utd vs Singha GB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4021303
 Bangkok vs Muang Thong United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323699/bangkok-vs-muangthong-united.html
+Bangkok vs Muang Thong United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4001500
 
 19:00 Liga 1	^-
 Persib Bandung vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229553/persib-bandung-vs-persatuan-sepakbola-makassar.html
+Persib Bandung vs PSM Makassar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4011017
 
 19:00 Liga 2	^-
 PSPS Riau vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323700/psps-riau-vs-persikad-depok.html
+PSPS Riau vs Persikad Depok	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4011032
 Barito Putera vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323701/barito-putera-vs-psis-semarang.html
+Barito Putera vs PSIS Semarang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4010993
 
 19:00 [g]Thai League Cup[z]	^-
 Nakhon Pathom vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4324292/nakhon-pathom-fc-vs-uthai-thani-forest.html
+Nakhon Pathom vs Uthai Thani Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4021308
 
 19:30 [y]English Premier League[z]	^-
 Nottingham Forest vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194163/nottingham-forest-vs-manchester-city.html
+Nottingham Forest vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990336
 
 19:30 [l]CAF Africa Cup of Nations[z]	^-
 Benin vs Botswana	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310342/benin-vs-botswana.html
+Benin vs Botswana	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3760260
 
 20:00 [g]Saudi Professional League[z]	^-
 Al-Qadasiya vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256066/al-qadsiah-vs-damac.html
+Al-Qadasiya vs Dhamk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3752846
 
 21:00 [y]Italian Serie A[z]	^-
 Lecce vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194887/lecce-vs-como.html
+Lecce vs Como	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953571
 Torino vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194893/torino-vs-cagliari.html
+Torino vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953568
 
 21:50 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Akhdoud	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256055/al-nassr-fc-vs-al-okhdood.html
