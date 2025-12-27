@@ -50,81 +50,78 @@ Estoril vs Alverca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&ma
 13:30 Liga 1	^-
 Malut United vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229542/malut-united-vs-borneo-fc.html
 
-Australia: Australia A-League
-15:00
-Melbourne City vs Perth Glory
-Thailand: Thai League Cup
-15:00
-Uttaradit vs BG Pathum United
-15:00
-Lopburi City FC vs Nakhon Ratchasima
-Indonesia: Indonesian Liga 1
-15:30
-Persebaya Surabaya vs Persijap Jepara
-Indonesia: Indonesian Liga 2
-15:30
-Persiku Kudus vs Deltras Sidoarjo
-Thailand: Thai League Cup
-16:00
-PT Satun FC vs Lamphun Warrior
-17:00
-Customs Department FC vs Sukhothai
-17:00
-Samut Sakhon vs Prachuap Khiri Khan
-Thailand: Thai League Cup
-18:00
-Mahasarakham United FC vs Rayong FC
-18:00
-Pattaya Discovery United FC vs Bangkok United FC
-Italy: Italian Serie A
-18:30
-AC Milan vs Verona
-Thailand: Thai League Cup
-18:30
-Chainat FC vs Port FC
-Indonesia: Indonesian Liga 1
-19:00
-Madura United vs Semen Padang
-Thailand: Thai League Cup
-19:00
-Pattani vs Ratchaburi FC
-Indonesia: Indonesian Liga 2
-19:00
-Persiba Balikpapan vs Kendal Tornado FC
-19:00
-PSS Sleman vs Persipal Palu
-Africa: CAF Africa Cup of Nations
-19:30
-Gabon vs Mozambique
-England: English Premier League
-21:00
-Sunderland AFC vs Leeds United
-Italy: Italian Serie A
-21:00
-Cremonese vs Napoli
-Africa: CAF Africa Cup of Nations
-22:00
-Equatorial Guinea vs Sudan
-Portugal: Portuguese Primera Liga
-22:30
-Casa Pia AC vs Vitoria Guimaraes
-22:30
-FC Arouca vs Gil Vicente
-England: English Premier League
-23:30
-Crystal Palace vs Tottenham Hotspur
-Italy: Italian Serie A
-29/12
-00:00
-Bologna vs Sassuolo
-Africa: CAF Africa Cup of Nations
-29/12
-00:30
-Algeria vs Burkina Faso
-Portugal: Portuguese Primera Liga
-29/12
-01:00
-Sporting Braga vs Benfica
+15:00 [g]Australia A-League[z]	^-
+Melbourne City vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282112/melbourne-city-vs-perth-glory.html
+
+15:00 [g]Thai League Cup[z]	^-
+Uttaradit vs BG Pathum United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323582/tpf-uttaradit-vs-bg-pathum-united.html
+Lopburi City vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4324282/lopburi-city-fc-vs-nakhon-ratchasima-mazda-fc.html
+
+15:30 Liga 1	^-
+Perse Surabaya vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229509/persebaya-surabaya-vs-persatuan-sepakbola-indonesia-jepara.html
+
+15:30 Liga 2	^-
+Persiku Kudus vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4324170/persiku-kudus-vs-deltras-sidoarjo.html
+
+16:00 [g]Thai League Cup[z]	^-
+PT Satun FC vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4324283/pt-satun-fc-vs-lamphun-warriors.html
+
+17:00 [g]Thai League Cup[z]	^-
+Customs Department FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323561/toko-customs-united-vs-sukhothai.html
+Samut Sakhon vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4324132/samut-sakhon-city-vs-pt-prachuap-fc.html
+
+18:00 [g]Thai League Cup[z]	^-
+Mahasarakham Utd vs Rayong	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323581/mahasarakham-sbt-fc-vs-rayong-fc.html
+Pattaya Discovery Utd vs Bangkok Utd	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323584/pattaya-discovery-united-fc-vs-bangkok-united-fc.html
+
+18:30 [g]Italian Serie A[z]	^-
+AC Milan vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194896/ac-milan-vs-hellas-verona.html
+
+18:30 [g]Thai League Cup[z]	^-
+Chainat FC vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323583/chainat-hornbill-fc-vs-port-fc.html
+
+19:00 Liga 1	^-
+Madura United vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229508/madura-united-vs-semen-padang.html
+
+19:00 [g]Thai League Cup[z]	^-
+Pattani vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323560/pattani-vs-ratchaburi-fc.html
+
+19:00 Liga 2	^-
+Persi Balikpapan vs Kendal Tornado	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4324171/persiba-balikpapan-vs-kendal-tornado-fc.html
+PSS Sleman vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4324172/pss-sleman-vs-persipal-palu.html
+
+19:30 [l]CAF Africa Cup of Nations[z]	^-
+Gabon vs Mozambique	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310012/gabon-vs-mozambique.html
+
+21:00 [y]English Premier League[z]	^-
+Sunderland AFC vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194166/sunderland-vs-leeds-united.html
+
+21:00 [y]Italian Serie A[z]	^-
+Cremonese vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194891/cremonese-vs-napoli.html
+
+22:00 [l]CAF Africa Cup of Nations[z]	^-
+Equatorial Guinea vs Sudan	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310270/equatorial-guinea-vs-sudan.html
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+Casa Pia AC vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216185/casa-pia-ac-vs-vitoria-guimaraes.html
+FC Arouca vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216187/fc-arouca-vs-gil-vicente.html
+
+23:30 [y]English Premier League[z]	^-
+Crystal Palace vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194162/crystal-palace-vs-tottenham-hotspur.html
+
+29.12.2025	^-
+
+00:00 [y]Italian Serie A[z]	^-
+Bologna vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194892/bologna-vs-sassuolo.html
+
+00:30 [l]CAF Africa Cup of Nations[z]	^-
+Algeria vs Burkina Faso	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310271/algeria-vs-burkina-faso.html
+
+01:00 [g]Portuguese Primera Liga[z]	^-
+Sporting Braga vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216176/sporting-braga-vs-benfica.html
+
+02:45 [y]Italian Serie A[z]	^-
+Atalanta vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194889/atalanta-vs-inter-milan.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
