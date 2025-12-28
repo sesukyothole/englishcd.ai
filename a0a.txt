@@ -26,18 +26,6 @@
 
 28.12.2025	^-
 
-21:00 [y]English Premier League[z]	^-
-Sunderland AFC vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194166/sunderland-vs-leeds-united.html
-Sunderland AFC vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990337
-Sunderland AFC vs Leeds United	https://play7ba.peodlc.com/live/202_4321603_1.m3u8
-Sunderland AFC vs Leeds United	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-
-21:00 [y]Italian Serie A[z]	^-
-Cremonese vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194891/cremonese-vs-napoli.html
-Cremonese vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953575
-Cremonese vs Napoli	https://play7ba.peodlc.com/live/202_4326242_1.m3u8
-Cremonese vs Napoli	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-
 22:00 [l]CAF Africa Cup of Nations[z]	^-
 Equatorial Guinea vs Sudan	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310270/equatorial-guinea-vs-sudan.html
 Equatorial Guinea vs Sudan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3763619
@@ -54,6 +42,7 @@ FC Arouca vs Gil Vicente	https://play7ba.peodlc.com/live/202_4328295_1.m3u8
 23:30 [y]English Premier League[z]	^-
 Crystal Palace vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194162/crystal-palace-vs-tottenham-hotspur.html
 Crystal Palace vs Tottenham Hotspur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3990333
+Crystal Palace vs Tottenham Hotspur	https://play7ba.peodlc.com/live/202_4321609_1.m3u8
 
 29.12.2025	^-
 
