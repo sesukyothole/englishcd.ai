@@ -26,12 +26,6 @@
 
 28.12.2025	^-
 
-17:00 [g]Thai League Cup[z]	^-
-Customs Department FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323561/toko-customs-united-vs-sukhothai.html
-Customs Department FC vs Sukhothai	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4001506
-Samut Sakhon vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4324132/samut-sakhon-city-vs-pt-prachuap-fc.html
-Samut Sakhon vs Prachuap Khiri Khan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4001501
-
 18:00 [g]Thai League Cup[z]	^-
 Mahasarakham Utd vs Rayong	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4323581/mahasarakham-sbt-fc-vs-rayong-fc.html
 Mahasarakham Utd vs Rayong	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4021367
@@ -88,8 +82,10 @@ Equatorial Guinea vs Sudan	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitr
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216185/casa-pia-ac-vs-vitoria-guimaraes.html
+Casa Pia AC vs Vitoria Guimaraes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004121
 Casa Pia AC vs Vitoria Guimaraes	https://play7ba.peodlc.com/live/202_4328293_1.m3u8
 FC Arouca vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216187/fc-arouca-vs-gil-vicente.html
+FC Arouca vs Gil Vicente	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004122
 FC Arouca vs Gil Vicente	https://play7ba.peodlc.com/live/202_4328295_1.m3u8
 
 23:30 [y]English Premier League[z]	^-
