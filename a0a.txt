@@ -29,6 +29,7 @@
 15:00 [g]Australia A-League[z]	^-
 Melbourne Vic vs Wellington Pho	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282214/melbourne-victory-vs-wellington-phoenix.html
 Melbourne Vic vs Wellington Pho	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3766301
+Melbourne Vic vs Wellington Pho	https://play7ba.peodlc.com/live/202_4328315_1.m3u8
 
 15:30 Liga 1	^-
 PSIM Yogyakarta vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229552/psim-yogyakarta-vs-psbs-biak-numfor.html
@@ -50,7 +51,7 @@ Selangor PKNS vs Perlis GSA FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?
 Persija Jakarta vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229550/persatuan-sepakbola-indonesia-jakarta-vs-bhayangkara-presisi-indonesia-fc.html
 Persija Jakarta vs Bhayangkara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3942661
 
-21:35Saudi Arabia: Saudi Professional League[z]	^-
+21:35 Saudi Professional League[z]	^-
 Al Khaleej Club vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256062/al-khaleej-club-vs-al-fateh-sc.html
 Al Khaleej Club vs Al-Fateh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3766968
 
