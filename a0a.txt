@@ -26,32 +26,6 @@
 
 29.12.2025	^-
 
-15:00 [g]Australia A-League[z]	^-
-Melbourne Vic vs Wellington Pho	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282214/melbourne-victory-vs-wellington-phoenix.html
-Melbourne Vic vs Wellington Pho	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3766301
-Melbourne Vic vs Wellington Pho	https://play7ba.peodlc.com/live/202_4328315_1.m3u8
-Melbourne Vic vs Wellington Pho	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-
-15:30 Liga 1	^-
-PSIM Yogyakarta vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229552/psim-yogyakarta-vs-psbs-biak-numfor.html
-PSIM Yogyakarta vs PSBS Biak Numfor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3939837
-PSIM Yogyakarta vs PSBS Biak Numfor	https://live.vivo200.com/live/sd-1-4379307.m3u8?txSecret=d081dc2e3891e02d95aab76d4a0217f2&txTime=6952836D
-Bali United vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229557/bali-united-vs-dewa-united-fc.html
-Bali United vs Dewa United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4015583
-Bali United vs Dewa United FC	https://live.vivo200.com/live/sd-1-4379251.m3u8?txSecret=fafe67e01d52020c5fe2bda4b8b034e0&txTime=69528348
-
-15:30 Liga 2	^-
-Garudayaksa FC vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4324285/garudayaksa-fc-vs-persiraja-aceh.html
-Garudayaksa FC vs Persiraja Aceh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016556
-Garudayaksa FC vs Persiraja Aceh	https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-Sumsel United vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4324286/sumsel-united-vs-fc-bekasi-city.html
-Sumsel United vs FC Bekasi City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016530
-Sumsel United vs FC Bekasi City	https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-
-15:45 Malaysia A1 Semi-Pro League	^-
-Selangor PKNS vs Perlis GSA FC	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4322975/selangor-pkns-vs-perlis-gsa-fc.html
-Selangor PKNS vs Perlis GSA FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016525
-
 19:00 Liga 1	^-
 Persija Jakarta vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229550/persatuan-sepakbola-indonesia-jakarta-vs-bhayangkara-presisi-indonesia-fc.html
 Persija Jakarta vs Bhayangkara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3942661
