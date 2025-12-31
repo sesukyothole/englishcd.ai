@@ -26,14 +26,6 @@
 
 01.01.2026	^-
 
-02:00 [l]CAF Africa Cup of Nations[z]	^-
-Gabon vs Ivory Coast	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310016/gabon-vs-cote-divoire.html
-Gabon vs Ivory Coast	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3773994
-Gabon vs Ivory Coast	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-Mozambique vs Cameroon	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4310017/mozambique-vs-cameroon.html
-Mozambique vs Cameroon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3773995
-Mozambique vs Cameroon	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
 11:00 [g]Australia A-League[z]	^-
 Auckland FC vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282117/auckland-fc-vs-newcastle-jets.html
 
@@ -57,6 +49,10 @@ Sheffield United vs Leicester City	`Fhttps://www.fctv33.net/football/english-foo
 00:30 [y]English Premier League[z]	^-
 Crystal Palace vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194146/crystal-palace-vs-fulham.html
 Liverpool vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194153/liverpool-vs-leeds-united.html
+
+03:00 [y]English Premier League[z]	^-
+Brentford vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194136/brentford-vs-tottenham-hotspur.html
+Sunderland AFC vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194156/sunderland-vs-manchester-city.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
