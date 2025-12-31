@@ -166,6 +166,8 @@ SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash
 Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 TSN CA 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd!!7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 TSN CA 2	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd!!362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 TSN CA 3	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd!!d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
@@ -237,19 +239,6 @@ Sky Sports 5	i3`06http://mains.services/live/67564813/6Z@74..W/f625580c-d706-491
 Sky Sports 6	i3`06http://mains.services/live/67564813/6Z@74..W/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts
 Sky Sports 7	i3`06http://mains.services/live/67564813/6Z@74..W/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts
 Sky Sports 9	i3`06http://mains.services/live/67564813/6Z@74..W/45531087-726e-49cc-a815-9ccbdd8cb59d.ts
-
-	^-
-👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
-
-	^-
-SpoTV 1 👇	00!0!2/1052588?zyy
-[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
-[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
-[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
-
-	^-
-GolTV 👇	00!0!0/9595?zyy
-[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
 [l]Embedded Channels[z]	^-
 Liga 1 Max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
@@ -562,8 +551,6 @@ SMC 4	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Sport enFrance 🇫🇷	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sport 🇮🇹 Italia Plus	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 SSC 1 🇸🇦	https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd!!d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 SSC 2 🇸🇦	https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd!!8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 SSC 3 🇸🇦	https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd!!7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
@@ -1265,5 +1252,18 @@ Starsports Select 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B
 Starsports Select 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114584&extension=ts
 Sky Sports Calcio	i3`06http://mains.services/live/67564813/6Z@74..W/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts
 Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/c303e484-7208-4695-a34e-c962db644a86.ts
+
+	^-
+👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
+
+	^-
+SpoTV 1 👇	00!0!2/1052588?zyy
+[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
+[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
+[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
+
+	^-
+GolTV 👇	00!0!0/9595?zyy
+[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
 	^-
