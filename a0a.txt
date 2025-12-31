@@ -40,6 +40,24 @@ Auckland FC vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-leag
 15:00 [g]Australia A-League[z]	^-
 Western Sydney vs FC Macarthur	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282096/western-sydney-vs-macarthur-fc.html
 
+19:30 [g]English Football League Champ[z]	^-
+Blackburn Rovers vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204176/blackburn-rovers-vs-wrexham.html
+
+22:00 [g]English Football League Champ[z]	^-
+Hull City vs Stoke City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204184/hull-city-vs-stoke-city.html
+Southampton vs Millwall	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204189/southampton-vs-millwall.html
+Derby County vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204190/derby-county-vs-middlesbrough.html
+Charlton Athletic vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204192/charlton-athletic-vs-coventry-city.html
+
+02.01.2026	^-
+
+00:30 [g]English Football League Champ[z]	^-
+Sheffield United vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204195/sheffield-united-vs-leicester-city.html
+
+00:30 [y]English Premier League[z]	^-
+Crystal Palace vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194146/crystal-palace-vs-fulham.html
+Liverpool vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194153/liverpool-vs-leeds-united.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
