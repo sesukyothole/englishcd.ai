@@ -31,13 +31,13 @@ Sheffield United vs Leicester City	`Fhttps://www.fctv33.net/football/english-foo
 Sheffield United vs Leicester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995131
 Sheffield United vs Leicester City	https://play7ba.peodlc.com/live/202_4337507_1.m3u8
 Sheffield United vs Leicester City	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+Sheffield United vs Leicester City	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 
 00:30 [y]English Premier League[z]	^-
 Crystal Palace vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194146/crystal-palace-vs-fulham.html
 Crystal Palace vs Fulham	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4001956
 Crystal Palace vs Fulham	https://play7ba.peodlc.com/live/202_4331270_1.m3u8
 Crystal Palace vs Fulham	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-Crystal Palace vs Fulham	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 Liverpool vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194153/liverpool-vs-leeds-united.html
 Liverpool vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004350
 Liverpool vs Leeds United	https://play7ba.peodlc.com/live/202_4331269_1.m3u8
