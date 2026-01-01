@@ -29,18 +29,23 @@
 00:30 [g]English Football League Champ[z]	^-
 Sheffield United vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204195/sheffield-united-vs-leicester-city.html
 Sheffield United vs Leicester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995131
+Sheffield United vs Leicester City	https://play7ba.peodlc.com/live/202_4337507_1.m3u8
 
 00:30 [y]English Premier League[z]	^-
 Crystal Palace vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194146/crystal-palace-vs-fulham.html
 Crystal Palace vs Fulham	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4001956
+Crystal Palace vs Fulham	https://play7ba.peodlc.com/live/202_4331270_1.m3u8
 Liverpool vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194153/liverpool-vs-leeds-united.html
 Liverpool vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004350
+Liverpool vs Leeds United	https://play7ba.peodlc.com/live/202_4331269_1.m3u8
 
 03:00 [y]English Premier League[z]	^-
 Brentford vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194136/brentford-vs-tottenham-hotspur.html
 Brentford vs Tottenham Hotspur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4001854
+Brentford vs Tottenham Hotspur	https://play7ba.peodlc.com/live/202_4331278_1.m3u8
 Sunderland AFC vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194156/sunderland-vs-manchester-city.html
 Sunderland AFC vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4001856
+Sunderland AFC vs Manchester City	https://play7ba.peodlc.com/live/202_4331271_1.m3u8
 
 15:35 [g]Australia A-League[z]	^-
 Melbourne Victory vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282154/melbourne-victory-vs-perth-glory.html
