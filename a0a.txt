@@ -26,11 +26,6 @@
 
 03.01.2026	^-
 
-03:00 [y]Spanish La Liga[z]	^-
-Rayo Vallecano vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209907/rayo-vallecano-vs-getafe.html
-Rayo Vallecano vs Getafe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786539
-Rayo Vallecano vs Getafe	https://play7ba.peodlc.com/live/202_4350089_1.m3u8
-
 03:45 [g]Portuguese Primera Liga[z]	^-
 Vitoria Guimaraes vs Nacional Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216194/vitoria-guimaraes-vs-nacional-da-madeira.html
 Vitoria Guimaraes vs Nacional Madeira	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4027158
