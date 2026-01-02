@@ -30,6 +30,12 @@
 Kelantan United vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221321/kelantan-the-real-warriors-vs-kuching-city-fc.html
 Kelantan United vs Kuching FA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4028712
 
+20:30 [g]Saudi Professional League[z]	^-
+Al Najma KSA vs Al Khaleej Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256140/al-najmaksa-vs-al-khaleej-club.html
+
+21:35 [g]Saudi Professional League[z]	^-
+Al Ettifaq vs Al-Akhdoud	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256139/al-ettifaq-fc-vs-al-okhdood.html
+
 03.01.2026	^-
 
 00:30 [g]Saudi Professional League[z]	^-
@@ -49,6 +55,20 @@ Rayo Vallecano vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Vitoria Guimaraes vs Nacional Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216194/vitoria-guimaraes-vs-nacional-da-madeira.html
+
+13:00 [g]Australia A-League[z]	^-
+Brisbane Roar vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282227/brisbane-roar-vs-wellington-phoenix.html
+
+15:30 Liga 1	^-
+Persija Jakarta vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229726/persatuan-sepakbola-indonesia-jakarta-vs-persatuan-sepakbola-indonesia-jepara.html
+Borneo FC vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229730/borneo-fc-vs-persatuan-sepakbola-makassar.html
+
+15:30 Liga 2	^-
+Persikad Depok vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323709/persikad-depok-vs-psms-medan.html
+FC Bekasi City vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4324287/fc-bekasi-city-vs-persiraja-aceh.html
+
+15:35 [g]Australia A-League[z]	^-
+Melbourne City vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282156/melbourne-city-vs-sydney-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
