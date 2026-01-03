@@ -76,6 +76,8 @@ Bournemouth AFC vs Arsenal	https://play7ba.peodlc.com/live/202_4343465_1.m3u8
 Elche vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209904/elche-vs-villarreal-cf.html
 Elche vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786540
 Elche vs Villarreal	https://play7ba.peodlc.com/live/202_4350094_1.m3u8
+Elche vs Villarreal	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Elche vs Villarreal	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Ittihad Club vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256146/al-ittihad-club-vs-al-taawoun.html
@@ -101,11 +103,15 @@ Mali vs Tunisia	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clie
 
 02:45 [y]Italian Serie A[z]	^-
 Atalanta vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194897/atalanta-vs-as-roma.html
+Atalanta vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953591
 Atalanta vs AS Roma	https://play7ba.peodlc.com/live/202_4343477_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209906/rcd-espanyol-de-barcelona-vs-fc-barcelona.html
+RCD Espanyol vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786544
 RCD Espanyol vs FC Barcelona	https://play7ba.peodlc.com/live/202_4350091_1.m3u8
+RCD Espanyol vs FC Barcelona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+RCD Espanyol vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 03:05 [y]French Ligue 1[z]	^-
 Lille vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200382/losc-lille-vs-stade-rennais-fc.html
