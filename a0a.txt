@@ -26,18 +26,6 @@
 
 03.01.2026	^-
 
-22:00 [y]English Premier League[z]	^-
-Brighton Hove Albion vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194172/brighton-hove-albion-vs-burnley.html
-Brighton Hove Albion vs Burnley	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4002038
-Brighton Hove Albion vs Burnley	https://play7ba.peodlc.com/live/202_4343463_1.m3u8
-Brighton Hove Albion vs Burnley	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-Brighton Hove Albion vs Burnley	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-Wolves vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194173/wolverhampton-wanderers-vs-west-ham-united.html
-Wolves vs West Ham United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4007855
-Wolves vs West Ham United	https://play7ba.peodlc.com/live/202_4343457_1.m3u8
-Wolves vs West Ham United	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd!!3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
-Wolves vs West Ham United	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-
 22:15 [y]Spanish La Liga[z]	^-
 Osasuna vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209905/ca-osasuna-vs-athletic-club.html
 Osasuna vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786535
@@ -66,6 +54,8 @@ Senegal vs Sudan	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/cli
 Juventus vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194905/juventus-vs-lecce.html
 Juventus vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953590
 Juventus vs Lecce	https://play7ba.peodlc.com/live/202_4343472_1.m3u8
+Juventus vs Lecce	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+Juventus vs Lecce	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 00:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194179/bournemouth-afc-vs-arsenal.html
