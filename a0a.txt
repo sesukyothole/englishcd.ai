@@ -26,28 +26,6 @@
 
 04.01.2026	^-
 
-02:00 [l]CAF Africa Cup of Nations[z]	^-
-Mali vs Tunisia	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324624/mali-vs-tunisia.html
-Mali vs Tunisia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4044841
-Mali vs Tunisia	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
-02:45 [y]Italian Serie A[z]	^-
-Atalanta vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194897/atalanta-vs-as-roma.html
-Atalanta vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953591
-Atalanta vs AS Roma	https://play7ba.peodlc.com/live/202_4343477_1.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-RCD Espanyol vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209906/rcd-espanyol-de-barcelona-vs-fc-barcelona.html
-RCD Espanyol vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786544
-RCD Espanyol vs FC Barcelona	https://play7ba.peodlc.com/live/202_4350091_1.m3u8
-RCD Espanyol vs FC Barcelona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-RCD Espanyol vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-
-03:05 [y]French Ligue 1[z]	^-
-Lille vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200382/losc-lille-vs-stade-rennais-fc.html
-Lille vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3925842
-Lille vs Rennes	https://play7ba.peodlc.com/live/202_4352291_1.m3u8
-
 03:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216228/avs-futebol-sad-vs-moreirense.html
 AVS Futebol SAD vs Moreirense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4032860
