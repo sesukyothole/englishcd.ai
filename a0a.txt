@@ -75,13 +75,17 @@ Sassuolo vs Parma	https://play7ba.peodlc.com/live/202_4343469_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194172/brighton-hove-albion-vs-burnley.html
+Brighton Hove Albion vs Burnley	https://play7ba.peodlc.com/live/202_4343463_1.m3u8
 Wolves vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194173/wolverhampton-wanderers-vs-west-ham-united.html
+Wolves vs West Ham United	https://play7ba.peodlc.com/live/202_4343457_1.m3u8
 
 22:15 [y]Spanish La Liga[z]	^-
 Osasuna vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209905/ca-osasuna-vs-athletic-club.html
+Osasuna vs Athletic Bilbao	https://play7ba.peodlc.com/live/202_4350092_1.m3u8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216204/cd-tondela-vs-fc-arouca.html
+CD Tondela vs FC Arouca	https://play7ba.peodlc.com/live/202_4352372_1.m3u8
 
 23:00 [y]French Ligue 1[z]	^-
 Monaco vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200385/as-monaco-vs-lyon.html
