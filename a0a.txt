@@ -98,10 +98,12 @@ RCD Espanyol vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/
 
 03:05 [y]French Ligue 1[z]	^-
 Lille vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200382/losc-lille-vs-stade-rennais-fc.html
+Lille vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3925842
 Lille vs Rennes	https://play7ba.peodlc.com/live/202_4352291_1.m3u8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216228/avs-futebol-sad-vs-moreirense.html
+AVS Futebol SAD vs Moreirense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4032860
 AVS Futebol SAD vs Moreirense	https://play7ba.peodlc.com/live/202_4352379_1.m3u8
 
 13:30 Liga 1	^-
