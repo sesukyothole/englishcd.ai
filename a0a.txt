@@ -33,8 +33,10 @@ Dejan FC vs Batavia FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=
 15:30 Liga 1	^-
 Persija Jakarta vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229726/persatuan-sepakbola-indonesia-jakarta-vs-persatuan-sepakbola-indonesia-jepara.html
 Persija Jakarta vs Persijap Jepara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3939838
+Persija Jakarta vs Persijap Jepara	https://live.vivo200.com/live/sd-1-4379380.m3u8?txSecret=86862bda7dacfd520c9ccbb7096ba0cb&txTime=695919F1
 Borneo FC vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229730/borneo-fc-vs-persatuan-sepakbola-makassar.html
 Borneo FC vs PSM Makassar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987950
+Borneo FC vs PSM Makassar	https://live5.msrktz.app/live/71426314.m3u8
 
 15:30 Liga 2	^-
 Persekat Tegal vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323704/persekat-tegal-vs-sumsel-united.html
