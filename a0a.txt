@@ -33,12 +33,15 @@ Prachuap Khiri Khan vs Buriram Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 18:30 [y]Italian Serie A[z]	^-
 Lazio vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194902/lazio-vs-napoli.html
 Lazio vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953589
+Lazio vs Napoli	https://play7ba.peodlc.com/live/202_4343468_1.m3u8
 
 19:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203727/birmingham-city-vs-coventry-city.html
 Birmingham City vs Coventry City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995133
+Birmingham City vs Coventry City	https://play7ba.peodlc.com/live/202_4350214_1.m3u8
 Queens Park vs Sheffield Wed	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203764/queens-park-rangers-vs-sheffield-wednesday.html
 Queens Park vs Sheffield Wed	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995137
+Queens Park vs Sheffield Wed	https://play7ba.peodlc.com/live/202_4350206_1.m3u8
 
 19:00 Liga 1	^-
 Bali United vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229724/bali-united-vs-arema-fc.html
@@ -55,28 +58,38 @@ Selangor vs Johor Darul Takzim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?
 19:30 [y]English Premier League[z]	^-
 Leeds United vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194178/leeds-united-vs-manchester-united.html
 Leeds United vs Manchester United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004355
+Leeds United vs Manchester United	https://play7ba.peodlc.com/live/202_4343461_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
 Sevilla vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209909/sevilla-fc-vs-levante.html
 Sevilla vs Levante	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786542
+Sevilla vs Levante	https://play7ba.peodlc.com/live/202_4350087_1.m3u8
 
 21:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194901/fiorentina-vs-cremonese.html
+Fiorentina vs Cremonese	https://play7ba.peodlc.com/live/202_4343471_1.m3u8
 
 21:00 [y]French Ligue 1[z]	^-
 Marseille vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200381/marseille-vs-fc-nantes.html
+Marseille vs Nantes	https://play7ba.peodlc.com/live/202_4352288_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 Everton vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194167/everton-vs-brentford.html
+Everton vs Brentford	https://play7ba.peodlc.com/live/202_4343464_1.m3u8
 Tottenham Hotspur vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194168/tottenham-hotspur-vs-sunderland.html
+Tottenham Hotspur vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4343458_1.m3u8
 Newcastle United vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194175/newcastle-united-vs-crystal-palace.html
+Newcastle United vs Crystal Palace	https://play7ba.peodlc.com/live/202_4343459_1.m3u8
 Fulham vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194176/fulham-vs-liverpool.html
+Fulham vs Liverpool	https://play7ba.peodlc.com/live/202_4343462_1.m3u8
 
 22:15 [y]Spanish La Liga[z]	^-
 Real Madrid vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209912/real-madrid-vs-real-betis.html
+Real Madrid vs Real Betis	https://play7ba.peodlc.com/live/202_4350090_1.m3u8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216193/rio-ave-vs-casa-pia-ac.html
+Rio Ave vs Casa Pia AC	https://play7ba.peodlc.com/live/202_4352374_1.m3u8
 
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Morocco vs Tanzania	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324623/morocco-vs-tanzania.html
