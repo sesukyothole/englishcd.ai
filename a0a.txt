@@ -29,11 +29,14 @@
 18:00 [g]Thai League 1[z]	^-
 Prachuap Khiri Khan vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320360/pt-prachuap-fc-vs-buriram-united.html
 Prachuap Khiri Khan vs Buriram Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4035103
+Prachuap Khiri Khan vs Buriram Utd	https://live5.msrktz.app/live/08552895.m3u8
 
 18:30 [y]Italian Serie A[z]	^-
 Lazio vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194902/lazio-vs-napoli.html
 Lazio vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953589
 Lazio vs Napoli	https://play7ba.peodlc.com/live/202_4343468_1.m3u8
+Lazio vs Napoli	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Lazio vs Napoli	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 19:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203727/birmingham-city-vs-coventry-city.html
@@ -46,6 +49,7 @@ Queens Park vs Sheffield Wed	https://play7ba.peodlc.com/live/202_4350206_1.m3u8
 19:00 Liga 1	^-
 Bali United vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229724/bali-united-vs-arema-fc.html
 Bali United vs Arema FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4036259
+Bali United vs Arema FC	https://live.vivo200.com/live/sd-1-4379341.m3u8?txSecret=a421644744a68002e4bd76ad4f8d7c03&txTime=695A9F39
 
 19:00 Liga 2	^-
 Perse Lamongan vs Persi Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323708/persela-lamongan-vs-persiba-balikpapan.html
@@ -186,6 +190,8 @@ Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 	^-
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Band Sport	https://cdn-brisanet.cportal.com.br/BANDEIRANT/DASH/stream.mpd!!bf4ed0d53f284514a5724052736edd13:b374c809058541966bed5e4716af55f4
@@ -236,8 +242,6 @@ Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro
 Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
 TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport Networld 🇨🇦	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
