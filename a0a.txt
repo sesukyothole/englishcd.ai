@@ -43,12 +43,16 @@ Marseille vs Nantes	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_ce
 Everton vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194167/everton-vs-brentford.html
 Everton vs Brentford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4002138
 Everton vs Brentford	https://play7ba.peodlc.com/live/202_4343464_1.m3u8
+Everton vs Brentford	https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 Tottenham Hotspur vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194168/tottenham-hotspur-vs-sunderland.html
 Tottenham Hotspur vs Sunderland AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4018704
 Tottenham Hotspur vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4343458_1.m3u8
+Tottenham Hotspur vs Sunderland AFC	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
 Newcastle United vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194175/newcastle-united-vs-crystal-palace.html
 Newcastle United vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4002139
 Newcastle United vs Crystal Palace	https://play7ba.peodlc.com/live/202_4343459_1.m3u8
+Newcastle United vs Crystal Palace	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+Newcastle United vs Crystal Palace	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 Fulham vs Liverpool	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4007835
 Fulham vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194176/fulham-vs-liverpool.html
 Fulham vs Liverpool	https://play7ba.peodlc.com/live/202_4343462_1.m3u8
