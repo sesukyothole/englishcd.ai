@@ -26,40 +26,6 @@
 
 05.01.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Verona vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194899/hellas-verona-vs-torino.html
-Verona vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953593
-Verona vs Torino	https://play7ba.peodlc.com/live/202_4343467_1.m3u8
-Verona vs Torino	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Verona vs Torino	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-
-00:30 [y]English Premier League[z]	^-
-Manchester City vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194180/manchester-city-vs-chelsea.html
-Manchester City vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4007837
-Manchester City vs Chelsea	https://play7ba.peodlc.com/live/202_4343460_1.m3u8
-Manchester City vs Chelsea	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-Manchester City vs Chelsea	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-Manchester City vs Chelsea	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-
-00:30 [y]Spanish La Liga[z]	^-
-Mallorca vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209903/rcd-mallorca-vs-girona-fc.html
-Mallorca vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786530
-Mallorca vs Girona	https://play7ba.peodlc.com/live/202_4350088_1.m3u8
-Mallorca vs Girona	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-Mallorca vs Girona	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-Mallorca vs Girona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Mallorca vs Girona	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-Deportivo Alavés vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209910/deportivo-alavs-vs-real-oviedo.html
-Deportivo Alavés vs Real Oviedo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786549
-Deportivo Alavés vs Real Oviedo	https://play7ba.peodlc.com/live/202_4350097_1.m3u8
-Deportivo Alavés vs Real Oviedo	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
-00:30 [g]Saudi Professional League[z]	^-
-Dhamk vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256141/damac-vs-al-hilal.html
-Dhamk vs Al Hilal SFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3779369
-Dhamk vs Al Hilal SFC	https://play7ba.peodlc.com/live/202_4343393_1.m3u8
-Dhamk vs Al Hilal SFC	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-
 01:00 [g]Portuguese Primera Liga[z]	^-
 Santa Clara vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216200/santa-clara-vs-fc-porto.html
 Santa Clara vs FC Porto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4036672
