@@ -24,29 +24,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-04.01.2026	^-
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-Rio Ave vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216193/rio-ave-vs-casa-pia-ac.html
-Rio Ave vs Casa Pia AC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4036535
-Rio Ave vs Casa Pia AC	https://play7ba.peodlc.com/live/202_4352374_1.m3u8
-
-23:00 [l]CAF Africa Cup of Nations[z]	^-
-Morocco vs Tanzania	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324623/morocco-vs-tanzania.html
-Morocco vs Tanzania	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4045246
-Morocco vs Tanzania	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-
-23:15 [y]French Ligue 1[z]	^-
-Le Havre vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200383/havre-athletic-club-vs-angers-sco.html
-Le Havre vs Angers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3929827
-Le Havre vs Angers	https://play7ba.peodlc.com/live/202_4352290_1.m3u8
-Stade Brestois vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200386/stade-brestois-29-vs-aj-auxerre.html
-Stade Brestois vs AJ Auxerre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3973152
-Stade Brestois vs AJ Auxerre	https://play7ba.peodlc.com/live/202_4352292_1.m3u8
-Lorient vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200387/lorient-vs-metz.html
-Lorient vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3929828
-Lorient vs Metz	https://play7ba.peodlc.com/live/202_4352289_1.m3u8
-
 05.01.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
