@@ -58,18 +58,22 @@ Verona vs Torino	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!
 00:30 [y]English Premier League[z]	^-
 Manchester City vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194180/manchester-city-vs-chelsea.html
 Manchester City vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4007837
+Manchester City vs Chelsea	https://play7ba.peodlc.com/live/202_4343460_1.m3u8
 
 00:30 [y]Spanish La Liga[z]	^-
 Mallorca vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209903/rcd-mallorca-vs-girona-fc.html
 Mallorca vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786530
+Mallorca vs Girona	https://play7ba.peodlc.com/live/202_4350088_1.m3u8
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Deportivo Alavés vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209910/deportivo-alavs-vs-real-oviedo.html
 Deportivo Alavés vs Real Oviedo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786549
+Deportivo Alavés vs Real Oviedo	https://play7ba.peodlc.com/live/202_4350097_1.m3u8
 
 00:30 [g]Saudi Professional League[z]	^-
 Dhamk vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256141/damac-vs-al-hilal.html
 Dhamk vs Al Hilal SFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3779369
+Dhamk vs Al Hilal SFC	https://play7ba.peodlc.com/live/202_4343393_1.m3u8
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Santa Clara vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216200/santa-clara-vs-fc-porto.html
