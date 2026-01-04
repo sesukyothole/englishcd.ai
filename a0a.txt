@@ -26,27 +26,6 @@
 
 04.01.2026	^-
 
-19:00 [g]English Football League Champ[z]	^-
-Birmingham City vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203727/birmingham-city-vs-coventry-city.html
-Birmingham City vs Coventry City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995133
-Birmingham City vs Coventry City	https://play7ba.peodlc.com/live/202_4350214_1.m3u8
-Queens Park vs Sheffield Wed	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203764/queens-park-rangers-vs-sheffield-wednesday.html
-Queens Park vs Sheffield Wed	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3995137
-Queens Park vs Sheffield Wed	https://play7ba.peodlc.com/live/202_4350206_1.m3u8
-
-19:00 Liga 1	^-
-Bali United vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229724/bali-united-vs-arema-fc.html
-Bali United vs Arema FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4036259
-Bali United vs Arema FC	https://live.vivo200.com/live/sd-1-4379341.m3u8?txSecret=a421644744a68002e4bd76ad4f8d7c03&txTime=695A9F39
-
-19:00 Liga 2	^-
-Perse Lamongan vs Persi Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323708/persela-lamongan-vs-persiba-balikpapan.html
-Perse Lamongan vs Persi Balikpapan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4036278
-
-19:15 Malaysian Super League	^-
-Selangor vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220892/selangor-fc-vs-johor-darul-tazim-fc.html
-Selangor vs Johor Darul Takzim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4036421
-
 19:30 [y]English Premier League[z]	^-
 Leeds United vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194178/leeds-united-vs-manchester-united.html
 Leeds United vs Manchester United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004355
