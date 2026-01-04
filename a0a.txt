@@ -68,10 +68,14 @@ Leeds United vs Manchester United	https://play7ba.peodlc.com/live/202_4343461_1.
 Sevilla vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209909/sevilla-fc-vs-levante.html
 Sevilla vs Levante	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786542
 Sevilla vs Levante	https://play7ba.peodlc.com/live/202_4350087_1.m3u8
+Sevilla vs Levante	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Sevilla vs Levante	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 21:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194901/fiorentina-vs-cremonese.html
 Fiorentina vs Cremonese	https://play7ba.peodlc.com/live/202_4343471_1.m3u8
+Fiorentina vs Cremonese	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Fiorentina vs Cremonese	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 21:00 [y]French Ligue 1[z]	^-
 Marseille vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200381/marseille-vs-fc-nantes.html
@@ -90,6 +94,8 @@ Fulham vs Liverpool	https://play7ba.peodlc.com/live/202_4343462_1.m3u8
 22:15 [y]Spanish La Liga[z]	^-
 Real Madrid vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209912/real-madrid-vs-real-betis.html
 Real Madrid vs Real Betis	https://play7ba.peodlc.com/live/202_4350090_1.m3u8
+Real Madrid vs Real Betis	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Real Madrid vs Real Betis	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216193/rio-ave-vs-casa-pia-ac.html
@@ -97,6 +103,7 @@ Rio Ave vs Casa Pia AC	https://play7ba.peodlc.com/live/202_4352374_1.m3u8
 
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Morocco vs Tanzania	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324623/morocco-vs-tanzania.html
+Morocco vs Tanzania	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 23:15 [y]French Ligue 1[z]	^-
 Le Havre vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200383/havre-athletic-club-vs-angers-sco.html
@@ -107,12 +114,16 @@ Lorient vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200387/l
 
 00:00 [y]Italian Serie A
 Verona vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194899/hellas-verona-vs-torino.html
+Verona vs Torino	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Verona vs Torino	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 00:30 [y]English Premier League[z]	^-
 Manchester City vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194180/manchester-city-vs-chelsea.html
 
 00:30 [y]Spanish La Liga[z]	^-
 Mallorca vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209903/rcd-mallorca-vs-girona-fc.html
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Deportivo Alavés vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209910/deportivo-alavs-vs-real-oviedo.html
 
 00:30 [g]Saudi Professional League[z]	^-
@@ -123,15 +134,20 @@ Santa Clara vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-lig
 
 02:00 [l]CAF Africa Cup of Nations[z]	^-
 South Africa vs Cameroon	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324622/south-africa-vs-cameroon.html
+South Africa vs Cameroon	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194900/inter-milan-vs-bologna.html
+Inter Milan vs Bologna	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Inter Milan vs Bologna	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 02:45 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200384/paris-saint-germain-vs-paris-fc.html
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209911/real-sociedad-vs-atletico-madrid.html
+Real Sociedad vs Atletico Madrid	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Real Sociedad vs Atletico Madrid	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Alverca vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216201/alverca-vs-fc-famalicao.html
@@ -230,6 +246,7 @@ Sharjah Sport	https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 Sky Sports 2	https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/manifest.mpd!!99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 Sky Live Event 2	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 Sky Live Event 3	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
@@ -241,7 +258,6 @@ Sky Sports Top Mix	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/c
 Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
-TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Sport Networld 🇨🇦	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
