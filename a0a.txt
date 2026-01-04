@@ -45,12 +45,13 @@ Fiorentina vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-
 Fiorentina vs Cremonese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953592
 Fiorentina vs Cremonese	https://play7ba.peodlc.com/live/202_4343471_1.m3u8
 Fiorentina vs Cremonese	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Fiorentina vs Cremonese	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+Fiorentina vs Cremonese	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 
 21:00 [y]French Ligue 1[z]	^-
 Marseille vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200381/marseille-vs-fc-nantes.html
 Marseille vs Nantes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3929830
 Marseille vs Nantes	https://play7ba.peodlc.com/live/202_4352288_1.m3u8
+Marseille vs Nantes	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 22:00 [y]English Premier League[z]	^-
 Everton vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194167/everton-vs-brentford.html
@@ -90,7 +91,6 @@ Lorient vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200387/l
 00:00 [y]Italian Serie A
 Verona vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194899/hellas-verona-vs-torino.html
 Verona vs Torino	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Verona vs Torino	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 00:30 [y]English Premier League[z]	^-
 Manchester City vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194180/manchester-city-vs-chelsea.html
@@ -114,7 +114,6 @@ South Africa vs Cameroon	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194900/inter-milan-vs-bologna.html
 Inter Milan vs Bologna	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Inter Milan vs Bologna	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 02:45 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200384/paris-saint-germain-vs-paris-fc.html
@@ -189,6 +188,8 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 	^-
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Band Sport	https://cdn-brisanet.cportal.com.br/BANDEIRANT/DASH/stream.mpd!!bf4ed0d53f284514a5724052736edd13:b374c809058541966bed5e4716af55f4
@@ -218,8 +219,6 @@ MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e
 NBA TV	`Shttps://embedsports.top/embed/alpha/nba-tv/1
 NFL Network	`Shttps://embedsports.top/embed/alpha/nfl-network/1
 NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
-Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Nova Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 One Sports Plus	https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd!!322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Setanta LT 1	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd!!8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
