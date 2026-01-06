@@ -26,18 +26,6 @@
 
 06.01.2026	^-
 
-18:30 [l]AFC U23 Asian Cup[z]	^-
-Vietnam vs Jordan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298357/vietnam-u23-vs-jordan-u23.html
-Vietnam vs Jordan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020015
-Vietnam vs Jordan	https://live5.msrktz.app/live/97312754.m3u8
-
-19:30 [g]International Club Friendly[z]	^-
-1. FC Magdeburg vs Winterthur	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4326999/1-fc-magdeburg-vs-winterthur.html
-1. FC Magdeburg vs Winterthur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4069601
-
-20:30 [g]International Club Friendly[z]	^-
-TSG Hoffenheim vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4067950
-
 21:00 [g]International Club Friendly[z]	^-
 Basel vs Slavia Praha	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4326102/fc-basel-1893-vs-slavia-praha.html
 Basel vs Slavia Praha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4067741
@@ -51,21 +39,26 @@ Pisa vs Como	https://play7ba.peodlc.com/live/202_4355521_1.m3u8
 
 23:00 [l]AFC U23 Asian Cup[z]	^-
 Saudi Arabia vs Kyrgyzstan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298091/saudi-arabia-u23-vs-kyrgyzstan-u23.html
+Saudi Arabia vs Kyrgyzstan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020020
 
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Algeria vs Democratic Rep Congo	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324619/algeria-vs-democratic-republic-of-the-congo.html
+Algeria vs Democratic Rep Congo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4045108
 Algeria vs Democratic Rep Congo	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 07.01.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
 Lecce vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194909/lecce-vs-as-roma.html
+Lecce vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953597
 
 01:00 [y]Copa del Rey[z]	^-
 Granada CF vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4322055/granada-cf-vs-rayo-vallecano.html
+Granada CF vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3980535
 
 02:00 [l]CAF Africa Cup of Nations[z]	^-
 Ivory Coast vs Burkina Faso	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324618/cote-divoire-vs-burkina-faso.html
+Ivory Coast vs Burkina Faso	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4048917
 Ivory Coast vs Burkina Faso	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 02:45 [y]Italian Serie A[z]	^-
