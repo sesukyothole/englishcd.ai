@@ -46,6 +46,7 @@ FC Salzburg vs Bayern Munich	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 21:00 [y]Italian Serie A[z]	^-
 Pisa vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194908/pisa-vs-como.html
 Pisa vs Como	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953603
+Pisa vs Como	https://play7ba.peodlc.com/live/202_4355521_1.m3u8
 
 23:00 [l]AFC U23 Asian Cup[z]	^-
 Saudi Arabia vs Kyrgyzstan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298091/saudi-arabia-u23-vs-kyrgyzstan-u23.html
