@@ -97,6 +97,12 @@ Al Nassr FC vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-
 01:00 [y]French Trophee des Champions[z]	^-
 Paris Saint Germain vs Marseille	`Fhttps://www.fctv33.net/football/french-trophee-des-champions-match-4323064/paris-saint-germain-vs-marseille.html
 
+02:00 [g]Supercopa de España[z]	^-
+Atletico Madrid vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4322571/atletico-madrid-vs-real-madrid.html
+
+02:45 [y]Italian Serie A[z]	^-
+AC Milan vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194912/ac-milan-vs-genoa.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
