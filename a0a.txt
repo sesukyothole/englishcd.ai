@@ -29,8 +29,10 @@
 18:30 [l]AFC U23 Asian Cup[z]	^-
 South Korea vs Iran	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298094/south-korea-u23-vs-iran-u23.html
 South Korea vs Iran	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020022
+South Korea vs Iran	https://live5.msrktz.app/live/24561735.m3u8
 Japan vs Syria	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4310346/japan-u23-vs-syria-u23.html
 Japan vs Syria	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020021
+Japan vs Syria	https://live5.msrktz.app/live/97312754.m3u8
 
 21:00 [l]AFC U23 Asian Cup[z]	^-
 Uzbekistan vs Lebanon	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4325260/uzbekistan-u23-vs-lebanon-u23.html
@@ -540,7 +542,6 @@ ON Sports 1	https://edge66.magictvbox.com/liveApple/ontvsport/index.m3u8
 ON Sports 2	https://edge66.magictvbox.com/liveApple/onSports2/index.m3u8
 ORF Sport Plus 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd!!ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
 Persiana	https://spstr.abntv.live/hls/psstream.m3u8
-Persiana	https://tv.sainaertebat.com/hls2/persiana.m3u8
 Peacock Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
