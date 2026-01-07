@@ -26,10 +26,6 @@
 
 07.01.2026	^-
 
-21:00 [l]AFC U23 Asian Cup[z]	^-
-Uzbekistan vs Lebanon	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4325260/uzbekistan-u23-vs-lebanon-u23.html
-Uzbekistan vs Lebanon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020023
-
 23:30 [l]AFC U23 Asian Cup[z]	^-
 Qatar vs United Arab Emirates	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298358/qatar-u23-vs-united-arab-emirates.html
 Qatar vs United Arab Emirates	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020024
@@ -66,13 +62,17 @@ Parma vs Inter Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 Torino vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194914/torino-vs-udinese-01-2026.html
 Torino vs Udinese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953600
 Lazio vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194916/lazio-vs-fiorentina-01-2026.html
+Lazio vs Fiorentina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953606
 
 03:00 [g]Portuguese League Cup[z]	^-
 Benfica vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-league-cup-match-4317836/benfica-vs-sporting-braga-01-2026.html
+Benfica vs Sporting Braga	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016683
 
 03:15 [y]English Premier League[z]	^-
 Burnley vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193852/burnley-vs-manchester-united-01-2026.html
+Burnley vs Manchester United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043078
 Newcastle United vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194181/newcastle-united-vs-leeds-united-01-2026.html
+Newcastle United vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043185
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
