@@ -27,61 +27,81 @@
 08.01.2026	^-
 
 00:30 [y]Italian Serie A[z]	^-
-Bologna vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194910/bologna-vs-atalanta-01-2026.html
+Bologna vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194910/bologna-vs-atalanta.html
 Bologna vs Atalanta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953604
 Bologna vs Atalanta	https://play7ba.peodlc.com/live/202_4355528_1.m3u8
-Napoli vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194915/napoli-vs-hellas-verona-01-2026.html
+Napoli vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194915/napoli-vs-hellas-verona.html
 Napoli vs Verona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953602
 Napoli vs Verona	https://play7ba.peodlc.com/live/202_4355524_1.m3u8
 
 02:00 [g]Supercopa de España[z]	^-
-FC Barcelona vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4313997/fc-barcelona-vs-athletic-club-01-2026.html
+FC Barcelona vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4313997/fc-barcelona-vs-athletic-club.html
 FC Barcelona vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3875153
 FC Barcelona vs Athletic Bilbao	https://play7ba.peodlc.com/live/202_4364942_1.m3u8
 
 02:30 [y]English Premier League[z]	^-
-Bournemouth AFC vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193846/bournemouth-afc-vs-tottenham-hotspur-01-2026.html
+Bournemouth AFC vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193846/bournemouth-afc-vs-tottenham-hotspur.html
 Bournemouth AFC vs Tottenham Hotspur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4040682
 Bournemouth AFC vs Tottenham Hotspur	https://play7ba.peodlc.com/live/202_4358332_1.m3u8
-Brentford vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193875/brentford-vs-sunderland-01-2026.html
+Brentford vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193875/brentford-vs-sunderland.html
 Brentford vs Sunderland AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4040683
 Brentford vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4358330_1.m3u8
-Manchester City vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193902/manchester-city-vs-brighton-hove-albion-01-2026.html
+Manchester City vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193902/manchester-city-vs-brighton-hove-albion.html
 Manchester City vs Brighton Hove	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043067
 Manchester City vs Brighton Hove	https://play7ba.peodlc.com/live/202_4358325_1.m3u8
-Everton vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194171/everton-vs-wolverhampton-wanderers-01-2026.html
+Everton vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194171/everton-vs-wolverhampton-wanderers.html
 Everton vs Wolves	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043158
 Everton vs Wolves	https://play7ba.peodlc.com/live/202_4358327_1.m3u8
-Crystal Palace vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194174/crystal-palace-vs-aston-villa-01-2026.html
+Crystal Palace vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194174/crystal-palace-vs-aston-villa.html
 Crystal Palace vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043070
 Crystal Palace vs Aston Villa	https://play7ba.peodlc.com/live/202_4358328_1.m3u8
-Fulham vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194177/fulham-vs-chelsea-01-2026.html
+Fulham vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194177/fulham-vs-chelsea.html
 Fulham vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043088
 Fulham vs Chelsea	https://play7ba.peodlc.com/live/202_4358326_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
-Parma vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194911/parma-vs-inter-milan-01-2026.html
+Parma vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194911/parma-vs-inter-milan.html
 Parma vs Inter Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953601
 Parma vs Inter Milan	https://play7ba.peodlc.com/live/202_4355523_1.m3u8
-Torino vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194914/torino-vs-udinese-01-2026.html
+Torino vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194914/torino-vs-udinese.html
 Torino vs Udinese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953600
 Torino vs Udinese	https://play7ba.peodlc.com/live/202_4355520_1.m3u8
-Lazio vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194916/lazio-vs-fiorentina-01-2026.html
+Lazio vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194916/lazio-vs-fiorentina.html
 Lazio vs Fiorentina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953606
 Lazio vs Fiorentina	https://play7ba.peodlc.com/live/202_4355525_1.m3u8
 
 03:00 [g]Portuguese League Cup[z]	^-
-Benfica vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-league-cup-match-4317836/benfica-vs-sporting-braga-01-2026.html
+Benfica vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-league-cup-match-4317836/benfica-vs-sporting-braga.html
 Benfica vs Sporting Braga	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016683
 Benfica vs Sporting Braga	https://play7ba.peodlc.com/live/202_4724604_1.m3u8
 
 03:15 [y]English Premier League[z]	^-
-Burnley vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193852/burnley-vs-manchester-united-01-2026.html
+Burnley vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193852/burnley-vs-manchester-united.html
 Burnley vs Manchester United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043078
 Burnley vs Manchester United	https://play7ba.peodlc.com/live/202_4358329_1.m3u8
-Newcastle United vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194181/newcastle-united-vs-leeds-united-01-2026.html
+Newcastle United vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194181/newcastle-united-vs-leeds-united.html
 Newcastle United vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043185
 Newcastle United vs Leeds United	https://play7ba.peodlc.com/live/202_4358324_1.m3u8
+
+18:30 [l]AFC U23 Asian Cup[z]	^-
+Australia vs Thailand	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298055/australia-u23-vs-thailand-u23.html
+
+21:00 [l]AFC U23 Asian Cup[z]	^-
+Iraq vs China	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298054/iraq-u23-vs-china-u23.html
+
+21:55 [g]Saudi Professional League[z]	^-
+Al Hilal SFC vs Al-Hazm	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256182/al-hilal-vs-al-hazem.html
+
+09.01.2026	^-
+
+00:30 [y]Italian Serie A[z]	^-
+Cremonese vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194913/cremonese-vs-cagliari.html
+
+00:30 [g]Saudi Professional League[z]	^-
+Al Nassr FC vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256201/al-nassr-fc-vs-al-qadsiah.html
+
+01:00 [y]French Trophee des Champions[z]	^-
+Paris Saint Germain vs Marseille	`Fhttps://www.fctv33.net/football/french-trophee-des-champions-match-4323064/paris-saint-germain-vs-marseille.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
