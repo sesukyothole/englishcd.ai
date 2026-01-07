@@ -38,6 +38,8 @@ Napoli vs Verona	https://play7ba.peodlc.com/live/202_4355524_1.m3u8
 FC Barcelona vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4313997/fc-barcelona-vs-athletic-club.html
 FC Barcelona vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3875153
 FC Barcelona vs Athletic Bilbao	https://play7ba.peodlc.com/live/202_4364942_1.m3u8
+FC Barcelona vs Athletic Bilbao	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+FC Barcelona vs Athletic Bilbao	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
 02:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193846/bournemouth-afc-vs-tottenham-hotspur.html
