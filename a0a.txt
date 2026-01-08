@@ -64,6 +64,27 @@ AC Milan vs Genoa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&mat
 Arsenal vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194182/arsenal-vs-liverpool.html
 Arsenal vs Liverpool	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043187
 
+15:30 Liga 1	^-
+Persita Tangerang vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229736/persita-tangerang-vs-borneo-fc.html
+
+15:35 [g]Australia A-League[z]	^-
+Brisbane Roar vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282169/brisbane-roar-vs-auckland-fc.html
+
+19:00 Liga 1	^-
+PSM Makassar vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229734/persatuan-sepakbola-makassar-vs-bali-united.html
+
+19:00 [g]Thai League 1[z]	^-
+Uthai Thani Forest vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320359/uthai-thani-forest-vs-buriram-united.html
+
+19:15 Malaysian Super League	^-
+Sabah vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221328/sabah-fc-vs-kuala-lumpur-city-fc.html
+
+20:00 Malaysian Super League	^-
+Negeri Sembilan vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220894/negeri-sembilan-vs-johor-darul-tazim-fc.html
+
+20:10 [g]Saudi Professional League[z]	^-
+Al Khaleej Club vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256149/al-khaleej-club-vs-damac.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
