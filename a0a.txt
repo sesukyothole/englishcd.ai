@@ -57,6 +57,35 @@ Negeri Sembilan vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysia
 20:10 [g]Saudi Professional League[z]	^-
 Al Khaleej Club vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256149/al-khaleej-club-vs-damac.html
 
+21:00 [l]AFC U23 Asian Cup[z]	^-
+Kyrgyzstan vs Vietnam	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298095/kyrgyzstan-u23-vs-vietnam-u23.html
+
+23:00 [l]CAF Africa Cup of Nations[z]	^-
+Mali vs Senegal	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324617/mali-vs-senegal.html
+
+23:30 [l]AFC U23 Asian Cup[z]	^-
+Jordan vs Saudi Arabia	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298092/jordan-u23-vs-saudi-arabia-u23.html
+
+10.01.2026	^-
+
+00:30 [g]Saudi Professional League[z]	^-
+Al Kholood vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256147/al-kholood-vs-al-ittihad-club.html
+
+02:00 [l]CAF Africa Cup of Nations[z]	^-
+Cameroon vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324616/cameroon-vs-morocco.html
+
+02:30 [y]Bundesliga[z]	^-
+Eintracht Frankfurt vs Br Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199859/eintracht-frankfurt-vs-borussia-dortmund.html
+
+02:30  [g]FA Cup[z]	^-
+Wrexham vs Nottingham Forest	`Fhttps://www.fctv33.net/football/fa-cup-match-4325254/wrexham-vs-nottingham-forest.html
+Port Vale vs Fleetwood Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4325271/port-vale-vs-fleetwood-town.html
+Milton Keynes Dons vs Oxford United	`Fhttps://www.fctv33.net/football/fa-cup-match-4325274/milton-keynes-dons-vs-oxford-united.html
+Preston North End vs Wigan Athletic	`Fhttps://www.fctv33.net/football/fa-cup-match-4325275/preston-north-end-vs-wigan-athletic.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Getafe vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209919/getafe-vs-real-sociedad.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
