@@ -42,18 +42,22 @@ Al Najma KSA vs Al Ettifaq	https://play7ba.peodlc.com/live/202_4364948_1.m3u8
 01:00 [y]French Trophee des Champions[z]	^-
 Paris Saint Germain vs Marseille	`Fhttps://www.fctv33.net/football/french-trophee-des-champions-match-4323064/paris-saint-germain-vs-marseille.html
 Paris Saint Germain vs Marseille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3826534
+Paris Saint Germain vs Marseille	https://play7ba.peodlc.com/live/202_4790621_1.m3u8
 
 02:00 [g]Supercopa de España[z]	^-
 Atletico Madrid vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4322571/atletico-madrid-vs-real-madrid.html
 Atletico Madrid vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3903402
+Atletico Madrid vs Real Madrid	https://play7ba.peodlc.com/live/202_4364957_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 AC Milan vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194912/ac-milan-vs-genoa.html
 AC Milan vs Genoa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3953607
+AC Milan vs Genoa	https://play7ba.peodlc.com/live/202_4355529_1.m3u8
 
 03:00 [y]English Premier League[z]	^-
 Arsenal vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194182/arsenal-vs-liverpool.html
 Arsenal vs Liverpool	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043187
+Arsenal vs Liverpool	https://play7ba.peodlc.com/live/202_4358331_1.m3u8
 
 15:30 Liga 1	^-
 Persita Tangerang vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229736/persita-tangerang-vs-borneo-fc.html
