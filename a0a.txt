@@ -24,50 +24,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-09.01.2026	^-
-
-23:30 [l]AFC U23 Asian Cup[z]	^-
-Jordan vs Saudi Arabia	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298092/jordan-u23-vs-saudi-arabia-u23.html
-Jordan vs Saudi Arabia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074899
-Jordan vs Saudi Arabia	https://play7ba.peodlc.com/202_4374835_1.m3u8?txSecret=8e73471639099362cd546e8751a374b1&txTime=1767976805
-
 10.01.2026	^-
-
-00:30 [g]Saudi Professional League[z]	^-
-Al Kholood vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256147/al-kholood-vs-al-ittihad-club.html
-Al Kholood vs Al Ittihad Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3798118
-Al Kholood vs Al Ittihad Club	https://play7ba.peodlc.com/live/202_4364945_1.m3u8
-
-02:00 [l]CAF Africa Cup of Nations[z]	^-
-Cameroon vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324616/cameroon-vs-morocco.html
-Cameroon vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4065053
-Cameroon vs Morocco	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
-02:30 [y]Bundesliga[z]	^-
-Eintracht Frankfurt vs Br Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199859/eintracht-frankfurt-vs-borussia-dortmund.html
-Eintracht Frankfurt vs Br Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3942476
-Eintracht Frankfurt vs Br Dortmund	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
-02:30  [g]FA Cup[z]	^-
-Wrexham vs Nottingham Forest	`Fhttps://www.fctv33.net/football/fa-cup-match-4325254/wrexham-vs-nottingham-forest.html
-Wrexham vs Nottingham Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004807
-Wrexham vs Nottingham Forest	https://play7ba.peodlc.com/live/202_4742424_1.m3u8
-Port Vale vs Fleetwood Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4325271/port-vale-vs-fleetwood-town.html
-Port Vale vs Fleetwood Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004799
-Port Vale vs Fleetwood Town	https://play7ba.peodlc.com/live/202_4742434_1.m3u8
-Milton Keynes Dons vs Oxford United	`Fhttps://www.fctv33.net/football/fa-cup-match-4325274/milton-keynes-dons-vs-oxford-united.html
-Milton Keynes Dons vs Oxford United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004768
-Milton Keynes Dons vs Oxford United	https://play7ba.peodlc.com/live/202_4742438_1.m3u8
-Preston North End vs Wigan Athletic	`Fhttps://www.fctv33.net/football/fa-cup-match-4325275/preston-north-end-vs-wigan-athletic.html
-Preston North End vs Wigan Athletic	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004788
-Preston North End vs Wigan Athletic	https://play7ba.peodlc.com/live/202_4742433_1.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-Getafe vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209919/getafe-vs-real-sociedad.html
-Getafe vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809764
-Getafe vs Real Sociedad	https://play7ba.peodlc.com/live/202_4373747_1.m3u8
-Getafe vs Real Sociedad	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Getafe vs Real Sociedad	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 08:00 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs FC Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322885/mazatlan-fc-vs-fc-juarez.html
