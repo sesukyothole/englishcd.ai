@@ -114,6 +114,9 @@ Port FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-43203
 19:00 Liga 1	^-
 Madura United vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229737/madura-united-vs-psim-yogyakarta.html
 
+19:00 [g]Thai League 1[z]	^-
+Bangkok United vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320741/bangkok-united-fc-vs-kanchanaburi-power-fc.html
+
 19:00 Liga 2	^-
 Garudayaksa FC vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323728/garudayaksa-fc-vs-fc-bekasi-city.html
 
@@ -143,13 +146,58 @@ Como vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194918/
 Iran vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298102/iran-u23-vs-uzbekistan-u23.html
 
 21:30 [y]Bundesliga[z]	^-
-Werder Bremen vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199855/sv-werder-bremen-vs-tsg-hoffenheim.html
 SC Freiburg vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199856/sc-freiburg-vs-hamburger-sv.html
 1. FC Heidenheim vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199860/1-fc-heidenheim-1846-vs-fc-kln.html
 Union Berlin vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199871/1-fc-union-berlin-vs-1-fsv-mainz-05.html
 
 21:30 [g]Coupe de France[z]	^-
 Orleans US 45 vs Monaco	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325700/us-orlans-vs-as-monaco.html
+
+22:00 [g]FA Cup[z]	^-
+Boreham Wood vs Burton Albion	`Fhttps://www.fctv33.net/football/fa-cup-match-4325110/boreham-wood-vs-burton.html
+Sheffield Wednesday vs Brentford	`Fhttps://www.fctv33.net/football/fa-cup-match-4325279/sheffield-wednesday-vs-brentford.html
+Stoke City vs Coventry City	`Fhttps://www.fctv33.net/football/fa-cup-match-4325280/stoke-city-vs-coventry-city.html
+Doncaster Rovers vs Southampton	`Fhttps://www.fctv33.net/football/fa-cup-match-4325282/doncaster-rovers-vs-southampton.html
+Burnley vs Millwall	`Fhttps://www.fctv33.net/football/fa-cup-match-4325283/burnley-vs-millwall.html
+Fulham vs Middlesbrough	`Fhttps://www.fctv33.net/football/fa-cup-match-4325284/fulham-vs-middlesbrough.html
+Ipswich Town vs Blackpool	`Fhttps://www.fctv33.net/football/fa-cup-match-4325295/ipswich-town-vs-blackpool.html
+Newcastle Utd vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/fa-cup-match-4326025/newcastle-united-vs-bournemouth-afc.html
+Manchester City vs Exeter City	`Fhttps://www.fctv33.net/football/fa-cup-match-4326031/manchester-city-vs-exeter-city.html
+
+22:15 [y]Spanish La Liga[z]	^-
+Villarreal vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209917/villarreal-cf-vs-deportivo-alavs.html
+
+22:30 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199112/az-alkmaar-vs-volendam.html
+
+23:00 [l]CAF Africa Cup of Nations[z]	^-
+Algeria vs Nigeria	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324615/algeria-vs-nigeria.html
+
+23:30 [l]AFC U23 Asian Cup[z]	^-
+Syria vs Qatar	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298361/syria-u23-vs-qatar-u23.html
+
+11.01.2026	^-
+
+00:00 [y]Italian Serie A[z]	^-
+AS Roma vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194738/as-roma-vs-sassuolo.html
+
+00:00 [g]Coupe de France[z]	^-
+Avranches vs Strasbourg	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326051/avranches-vs-rc-strasbourg-alsace.html
+
+00:30 [y]Bundesliga[z]	^-
+Bayer Leverkusen vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199857/bayer-04-leverkusen-vs-vfb-stuttgart.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Girona vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209916/girona-fc-vs-ca-osasuna.html
+
+00:45 [y]Netherlands Eredivisie[z]	^-
+FC Twente Enschede vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199393/fc-twente-enschede-vs-pec-zwolle.html
+
+00:45 [g]FA Cup[z]	^-
+Grimsby Town vs Weston Super Mare	`Fhttps://www.fctv33.net/football/fa-cup-match-4325011/grimsby-town-vs-weston-super-mare.html
+Cambridge Utd vs Birmingham City	`Fhttps://www.fctv33.net/football/fa-cup-match-4325268/cambridge-united-vs-birmingham-city.html
+Bristol City vs Watford	`Fhttps://www.fctv33.net/football/fa-cup-match-4325276/bristol-city-vs-watford.html
+Tottenham Hotspur vs Aston Villa	`Fhttps://www.fctv33.net/football/fa-cup-match-4325680/tottenham-hotspur-vs-aston-villa.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
