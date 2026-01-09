@@ -26,15 +26,6 @@
 
 09.01.2026	^-
 
-15:30 Liga 1	^-
-Persita Tangerang vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229736/persita-tangerang-vs-borneo-fc.html
-Persita Tangerang vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3942663
-
-15:35 [g]Australia A-League[z]	^-
-Brisbane Roar vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282169/brisbane-roar-vs-auckland-fc.html
-Brisbane Roar vs Auckland FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4003667
-Brisbane Roar vs Auckland FC	https://play7ba.peodlc.com/live/202_4364960_1.m3u8
-
 19:00 Liga 1	^-
 PSM Makassar vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229734/persatuan-sepakbola-makassar-vs-bali-united.html
 PSM Makassar vs Bali United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4054742
@@ -49,15 +40,19 @@ Sabah vs Kuala Lumpur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 
 20:00 Malaysian Super League	^-
 Negeri Sembilan vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220894/negeri-sembilan-vs-johor-darul-tazim-fc.html
+Negeri Sembilan vs Johor Darul Takzim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038796
 
 20:10 [g]Saudi Professional League[z]	^-
 Al Khaleej Club vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256149/al-khaleej-club-vs-damac.html
+Al Khaleej Club vs Dhamk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3798111
 
 21:00 [l]AFC U23 Asian Cup[z]	^-
 Kyrgyzstan vs Vietnam	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298095/kyrgyzstan-u23-vs-vietnam-u23.html
+Kyrgyzstan vs Vietnam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074898
 
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Mali vs Senegal	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324617/mali-vs-senegal.html
+Mali vs Senegal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4061009
 
 23:30 [l]AFC U23 Asian Cup[z]	^-
 Jordan vs Saudi Arabia	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298092/jordan-u23-vs-saudi-arabia-u23.html
