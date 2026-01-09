@@ -75,9 +75,11 @@ Getafe vs Real Sociedad	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/f
 
 08:00 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs FC Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322885/mazatlan-fc-vs-fc-juarez.html
+Mazatlan FC vs FC Juarez	https://play7ba.peodlc.com/live/202_4777063_1.m3u8
 
 10:00 [g]Mexico Liga MX[z]	^-
 Club Tijuana vs Club America	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324978/club-tijuana-vs-club-america.html
+Club Tijuana vs Club America	https://play7ba.peodlc.com/live/202_4777062_1.m3u8
 
 13:00 [g]Australia A-League[z]	^-
 Melbourne Victory vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282124/melbourne-victory-vs-western-sydney.html
