@@ -73,6 +73,7 @@ DPMM FC vs Selangor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&m
 Macclesfield Town vs Crystal Palace	`Fhttps://www.fctv33.net/football/fa-cup-match-4325006/macclesfield-town-vs-crystal-palace.html
 Macclesfield Town vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004812
 Macclesfield Town vs Crystal Palace	https://play7ba.peodlc.com/live/202_4742443_1.m3u8
+Macclesfield Town vs Crystal Palace	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd!!0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704
 Cheltenham Town vs Leicester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4325264/cheltenham-town-vs-leicester-city.html
 Cheltenham Town vs Leicester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004774
 Cheltenham Town vs Leicester City	https://play7ba.peodlc.com/live/202_4742450_1.m3u8
@@ -82,6 +83,7 @@ Wolves vs Shrewsbury Town	https://play7ba.peodlc.com/live/202_4742425_1.m3u8
 Everton vs Sunderland AFC	`Fhttps://www.fctv33.net/football/fa-cup-match-4326024/everton-vs-sunderland.html
 Everton vs Sunderland AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004780
 Everton vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4742448_1.m3u8
+Everton vs Sunderland AFC	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 
 19:30 [g]Thai League 1[z]	^-
 Prachuap Khiri vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320363/pt-prachuap-fc-vs-chiangrai-united.html
@@ -282,7 +284,8 @@ Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manife
 Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
 SportDigital Fussball https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-Sport Networld 🇨🇦	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
+Sport Networld 🇨🇦 West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd!!0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704
+Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
