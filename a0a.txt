@@ -34,16 +34,20 @@ Perth Glory vs Coast Mariners	https://play7ba.peodlc.com/live/202_4369340_1.m3u8
 18:00 [g]Thai League 1[z]	^-
 Lamphun Warrior vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319760/lamphun-warriors-vs-bg-pathum-united.html
 Lamphun Warrior vs BG Pathum Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038800
+Lamphun Warrior vs BG Pathum Utd	https://play7ba.peodlc.com/live/202_4750390_1.m3u8
 
 18:30 [l]AFC U23 Asian Cup[z]	^-
 Lebanon vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298093/lebanon-u23-vs-south-korea-u23.html
 Lebanon vs South Korea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074901
+Lebanon vs South Korea	https://live5.msrktz.app/live/97885009.m3u8
 United Arab Emirates vs Japan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298359/united-arab-emirates-u23-vs-japan-u23.html
 United Arab Emirates vs Japan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4081973
+United Arab Emirates vs Japan	https://live5.msrktz.app/live/41943555.m3u8
 
 18:30 [g]Thai League 1[z]	^-
 Port FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320366/port-fc-vs-sukhothai.html
 Port FC vs Sukhothai	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987960
+Port FC vs Sukhothai	https://play7ba.peodlc.com/live/202_4750391_1.m3u8
 
 19:00 Liga 1	^-
 Madura United vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229737/madura-united-vs-psim-yogyakarta.html
