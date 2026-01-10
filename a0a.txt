@@ -53,6 +53,7 @@ Port FC vs Sukhothai	https://play7ba.peodlc.com/live/202_4750391_1.m3u8
 Madura United vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229737/madura-united-vs-psim-yogyakarta.html
 Madura United vs PSIM Yogyakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4059103
 Madura United vs PSIM Yogyakarta	https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+Madura United vs PSIM Yogyakarta	https://live.vivo200.com/live/sd-1-4379399.m3u8?txSecret=a0ea21324a47d6e1a6c329f234d92250&txTime=696285A9
 
 19:00 [g]Thai League 1[z]	^-
 Bangkok United vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320741/bangkok-united-fc-vs-kanchanaburi-power-fc.html
@@ -62,6 +63,7 @@ Bangkok United vs Singha GB	https://play7ba.peodlc.com/live/202_4750392_1.m3u8
 19:00 Liga 2	^-
 Garudayaksa FC vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323728/garudayaksa-fc-vs-fc-bekasi-city.html
 Garudayaksa FC vs FC Bekasi City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4059096
+Garudayaksa FC vs FC Bekasi City	https://bf.jlbflive.cc/live/322672_hd01.m3u8?txSecret=0799191389ad8c12662910139c2ca949&txTime=69623fb0
 
 19:15 Malaysian Super League	^-
 DPMM FC vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220932/dpmm-fc-vs-selangor-fc.html
