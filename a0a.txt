@@ -56,6 +56,7 @@ Madura United vs PSIM Yogyakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embe
 19:00 [g]Thai League 1[z]	^-
 Bangkok United vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320741/bangkok-united-fc-vs-kanchanaburi-power-fc.html
 Bangkok United vs Singha GB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987966
+Bangkok United vs Singha GB	https://play7ba.peodlc.com/live/202_4750392_1.m3u8
 
 19:00 Liga 2	^-
 Garudayaksa FC vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323728/garudayaksa-fc-vs-fc-bekasi-city.html
@@ -68,19 +69,25 @@ DPMM FC vs Selangor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&m
 19:15 [g]FA Cup[z]	^-
 Macclesfield Town vs Crystal Palace	`Fhttps://www.fctv33.net/football/fa-cup-match-4325006/macclesfield-town-vs-crystal-palace.html
 Macclesfield Town vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004812
+Macclesfield Town vs Crystal Palace	https://play7ba.peodlc.com/live/202_4742443_1.m3u8
 Cheltenham Town vs Leicester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4325264/cheltenham-town-vs-leicester-city.html
 Cheltenham Town vs Leicester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004774
+Cheltenham Town vs Leicester City	https://play7ba.peodlc.com/live/202_4742450_1.m3u8
 Wolves vs Shrewsbury Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4325266/wolverhampton-wanderers-vs-shrewsbury-town.html
 Wolves vs Shrewsbury Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004810
+Wolves vs Shrewsbury Town	https://play7ba.peodlc.com/live/202_4742425_1.m3u8
 Everton vs Sunderland AFC	`Fhttps://www.fctv33.net/football/fa-cup-match-4326024/everton-vs-sunderland.html
 Everton vs Sunderland AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004780
+Everton vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4742448_1.m3u8
 
 19:30 [g]Thai League 1[z]	^-
 Prachuap Khiri vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320363/pt-prachuap-fc-vs-chiangrai-united.html
 Prachuap Khiri vs Chiangrai Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038801
+Prachuap Khiri vs Chiangrai Utd	https://play7ba.peodlc.com/live/202_4750393_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209918/real-oviedo-vs-real-betis.html
+Real Oviedo vs Real Betis	https://play7ba.peodlc.com/live/202_4373741_1.m3u8
 
 20:00 Malaysian Super League	^-
 PDRM vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221327/pdrm-fc-vs-terengganu-fc.html
