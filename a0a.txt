@@ -28,6 +28,7 @@
 
 13:00 [g]Australia A-League[z]	^-
 Melbourne Victory vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282124/melbourne-victory-vs-western-sydney.html
+Melbourne Victory vs Western Sydney	https://play7ba.peodlc.com/live/202_4369322_1.m3u8
 Melbourne Victory vs Western Sydney	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 
 15:30 Liga 1	^-
