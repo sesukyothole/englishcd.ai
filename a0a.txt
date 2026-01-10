@@ -26,29 +26,11 @@
 
 11.01.2026	^-
 
-00:45 [y]Netherlands Eredivisie[z]	^-
-FC Twente Enschede vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199393/fc-twente-enschede-vs-pec-zwolle.html
-FC Twente Enschede vs PEC Zwolle	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946647
-FC Twente Enschede vs PEC Zwolle	https://play7ba.peodlc.com/live/202_4373746_1.m3u8
-
-00:45 [g]FA Cup[z]	^-
-Grimsby Town vs Weston Super Mare	`Fhttps://www.fctv33.net/football/fa-cup-match-4325011/grimsby-town-vs-weston-super-mare.html
-Grimsby Town vs Weston Super Mare	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004796
-Grimsby Town vs Weston Super Mare	https://play7ba.peodlc.com/live/202_4742445_1.m3u8
-Cambridge Utd vs Birmingham City	`Fhttps://www.fctv33.net/football/fa-cup-match-4325268/cambridge-united-vs-birmingham-city.html
-Cambridge Utd vs Birmingham City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004814
-Cambridge Utd vs Birmingham City	https://play7ba.peodlc.com/live/202_4742452_1.m3u8
-Bristol City vs Watford	`Fhttps://www.fctv33.net/football/fa-cup-match-4325276/bristol-city-vs-watford.html
-Bristol City vs Watford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004777
-Bristol City vs Watford	https://play7ba.peodlc.com/live/202_4742454_1.m3u8
-Tottenham Hotspur vs Aston Villa	`Fhttps://www.fctv33.net/football/fa-cup-match-4325680/tottenham-hotspur-vs-aston-villa.html
-Tottenham Hotspur vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004790
-Tottenham Hotspur vs Aston Villa	https://play7ba.peodlc.com/live/202_4742428_1.m3u8
-
 02:00 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199217/psv-eindhoven-vs-excelsior-sbv.html
 PSV Eindhoven vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3946645
 PSV Eindhoven vs Excelsior SBV	https://play7ba.peodlc.com/live/202_4373753_1.m3u8
+PSV Eindhoven vs Excelsior SBV	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 02:00 [l]CAF Africa Cup of Nations[z]	^-
 Egypt vs Ivory Coast	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324614/egypt-vs-cote-divoire.html
@@ -59,6 +41,7 @@ Egypt vs Ivory Coast	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live
 Atalanta vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194615/atalanta-vs-torino.html
 Atalanta vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038339
 Atalanta vs Torino	https://play7ba.peodlc.com/live/202_4373975_1.m3u8
+Atalanta vs Torino	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 Groningen vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199283/groningen-vs-nac-breda.html
