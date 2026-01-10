@@ -26,60 +26,54 @@
 
 10.01.2026	^-
 
-13:00 [g]Australia A-League[z]	^-
-Melbourne Victory vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282124/melbourne-victory-vs-western-sydney.html
-Melbourne Victory vs Western Sydney	https://play7ba.peodlc.com/live/202_4369322_1.m3u8
-Melbourne Victory vs Western Sydney	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-
-15:30 Liga 1	^-
-Persebaya Surabaya vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229735/persebaya-surabaya-vs-malut-united.html
-
-15:30 Liga 2	^-
-Persekat Tegal vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323705/persekat-tegal-vs-sriwijaya-fc.html
-PSS Sleman vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323715/pss-sleman-vs-psis-semarang.html
-Sumsel United vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323734/sumsel-united-vs-psps-riau.html
-
-15:35 [g]Australia A-League[z]	^-
-FC Macarthur vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282123/macarthur-fc-vs-sydney-fc.html
-FC Macarthur vs Sydney FC	https://play7ba.peodlc.com/live/202_4369326_1.m3u8
-
-16:00 Malaysian Super League	^-
-Imigresen FC vs Kelantan Utd	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221325/imigresen-fc-vs-kelantan-the-real-warriors.html
-
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282151/perth-glory-vs-central-coast-mariners.html
+Perth Glory vs Coast Mariners	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006457
 Perth Glory vs Coast Mariners	https://play7ba.peodlc.com/live/202_4369340_1.m3u8
 
 18:00 [g]Thai League 1[z]	^-
 Lamphun Warrior vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319760/lamphun-warriors-vs-bg-pathum-united.html
+Lamphun Warrior vs BG Pathum Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038800
 
 18:30 [l]AFC U23 Asian Cup[z]	^-
 Lebanon vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298093/lebanon-u23-vs-south-korea-u23.html
+Lebanon vs South Korea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074901
 United Arab Emirates vs Japan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298359/united-arab-emirates-u23-vs-japan-u23.html
+United Arab Emirates vs Japan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4081973
 
 18:30 [g]Thai League 1[z]	^-
 Port FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320366/port-fc-vs-sukhothai.html
+Port FC vs Sukhothai	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987960
 
 19:00 Liga 1	^-
 Madura United vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229737/madura-united-vs-psim-yogyakarta.html
+Madura United vs PSIM Yogyakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4059103
 
 19:00 [g]Thai League 1[z]	^-
 Bangkok United vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320741/bangkok-united-fc-vs-kanchanaburi-power-fc.html
+Bangkok United vs Singha GB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987966
 
 19:00 Liga 2	^-
 Garudayaksa FC vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323728/garudayaksa-fc-vs-fc-bekasi-city.html
+Garudayaksa FC vs FC Bekasi City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4059096
 
 19:15 Malaysian Super League	^-
 DPMM FC vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220932/dpmm-fc-vs-selangor-fc.html
+DPMM FC vs Selangor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038799
 
 19:15 [g]FA Cup[z]	^-
 Macclesfield Town vs Crystal Palace	`Fhttps://www.fctv33.net/football/fa-cup-match-4325006/macclesfield-town-vs-crystal-palace.html
+Macclesfield Town vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004812
 Cheltenham Town vs Leicester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4325264/cheltenham-town-vs-leicester-city.html
+Cheltenham Town vs Leicester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004774
 Wolves vs Shrewsbury Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4325266/wolverhampton-wanderers-vs-shrewsbury-town.html
+Wolves vs Shrewsbury Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004810
 Everton vs Sunderland AFC	`Fhttps://www.fctv33.net/football/fa-cup-match-4326024/everton-vs-sunderland.html
+Everton vs Sunderland AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004780
 
 19:30 [g]Thai League 1[z]	^-
 Prachuap Khiri vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320363/pt-prachuap-fc-vs-chiangrai-united.html
+Prachuap Khiri vs Chiangrai Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038801
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209918/real-oviedo-vs-real-betis.html
