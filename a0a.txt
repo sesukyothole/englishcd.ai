@@ -87,10 +87,12 @@ Prachuap Khiri vs Chiangrai Utd	https://play7ba.peodlc.com/live/202_4750393_1.m3
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209918/real-oviedo-vs-real-betis.html
+Real Oviedo vs Real Betis	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809755
 Real Oviedo vs Real Betis	https://play7ba.peodlc.com/live/202_4373741_1.m3u8
 
 20:00 Malaysian Super League	^-
 PDRM vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221327/pdrm-fc-vs-terengganu-fc.html
+PDRM vs Terengganu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038794
 
 21:00 [y]Italian Serie A[z]	^-
 Udinese vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194586/udinese-vs-pisa.html
@@ -108,6 +110,8 @@ Union Berlin vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-
 
 21:30 [g]Coupe de France[z]	^-
 Orleans US 45 vs Monaco	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325700/us-orlans-vs-as-monaco.html
+Orleans US 45 vs Monaco	https://play7ba.peodlc.com/live/202_4796069_1.m3u8
+Angers vs Toulouse	https://ddkanq.vip/zhibo/29756.html
 
 22:00 [g]FA Cup[z]	^-
 Boreham Wood vs Burton Albion	`Fhttps://www.fctv33.net/football/fa-cup-match-4325110/boreham-wood-vs-burton.html
