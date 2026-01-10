@@ -52,6 +52,7 @@ Port FC vs Sukhothai	https://play7ba.peodlc.com/live/202_4750391_1.m3u8
 19:00 Liga 1	^-
 Madura United vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229737/madura-united-vs-psim-yogyakarta.html
 Madura United vs PSIM Yogyakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4059103
+Madura United vs PSIM Yogyakarta	https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 19:00 [g]Thai League 1[z]	^-
 Bangkok United vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320741/bangkok-united-fc-vs-kanchanaburi-power-fc.html
