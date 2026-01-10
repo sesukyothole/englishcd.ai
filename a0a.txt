@@ -42,6 +42,7 @@ Atalanta vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-41946
 Atalanta vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038339
 Atalanta vs Torino	https://play7ba.peodlc.com/live/202_4373975_1.m3u8
 Atalanta vs Torino	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Atalanta vs Torino	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 Groningen vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199283/groningen-vs-nac-breda.html
