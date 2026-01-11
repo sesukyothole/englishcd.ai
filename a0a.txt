@@ -26,14 +26,6 @@
 
 12.01.2026	^-
 
-02:00 [g]Supercopa de España[z]	^-
-FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4328168/fc-barcelona-vs-real-madrid.html
-FC Barcelona vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4081475
-FC Barcelona vs Real Madrid	https://play7ba.peodlc.com/live/202_4857525_1.m3u8
-TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-TNT Sports 4	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194722/inter-milan-vs-napoli.html
 Inter Milan vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038372
@@ -86,6 +78,12 @@ Juventus vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-41
 
 02:45 [g]FA Cup[z]	^-
 Liverpool vs Barnsley	`Fhttps://www.fctv33.net/football/fa-cup-match-4326026/liverpool-vs-barnsley.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Sevilla vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209922/sevilla-fc-vs-rc-celta-01-2026.html
+
+03:10 [g]Coupe de France[z]	^-
+Paris Saint Germain vs Paris FC	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326062/paris-saint-germain-vs-paris-fc-01-2026.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
