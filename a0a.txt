@@ -26,6 +26,9 @@
 
 12.01.2026	^-
 
+08:00 [g]Mexico Liga MX[z]	^-
+Atletico San Luis vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322884/atletico-san-luis-vs-tigres-uanl.html
+
 14:30 Liga 2	^-
 Persipal Palu vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323745/persipal-palu-vs-persiku-kudus.html
 
@@ -61,10 +64,10 @@ Juventus vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-41
 Liverpool vs Barnsley	`Fhttps://www.fctv33.net/football/fa-cup-match-4326026/liverpool-vs-barnsley.html
 
 03:00 [y]Spanish La Liga[z]	^-
-Sevilla vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209922/sevilla-fc-vs-rc-celta-01-2026.html
+Sevilla vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209922/sevilla-fc-vs-rc-celta.html
 
 03:10 [g]Coupe de France[z]	^-
-Paris Saint Germain vs Paris FC	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326062/paris-saint-germain-vs-paris-fc-01-2026.html
+Paris Saint Germain vs Paris FC	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326062/paris-saint-germain-vs-paris-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
