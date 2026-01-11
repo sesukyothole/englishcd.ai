@@ -82,6 +82,7 @@ Verona vs Lazio	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&match
 
 00:00 [g]Coupe de France[z]	^-
 Nantes vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326050/fc-nantes-vs-ogc-nice.html
+Nantes vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016024
 
 02:00 [g]Supercopa de España[z]	^-
 FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4328168/fc-barcelona-vs-real-madrid.html
