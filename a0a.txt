@@ -66,8 +66,19 @@ Verona vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194917/
 Verona vs Lazio	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038354
 
 00:00 [g]Coupe de France[z]	^-
+Le Mans vs Nancy	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325715/le-mans-vs-nancy.html
+Le Mans vs Nancy	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4018416
+Chantilly vs Rennes	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325716/chantilly-vs-stade-rennais-fc.html
+Chantilly vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4060999
+Metz vs Montpellier	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326039/metz-vs-montpellier-hrault-sc.html
+Metz vs Montpellier	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4060998
 Nantes vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326050/fc-nantes-vs-ogc-nice.html
 Nantes vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016024
+Nantes vs Nice	https://play7ba.peodlc.com/live/202_4796073_1.m3u8
+
+01:00 [g]Mexico Liga MX[z]	^-
+Pumas UNAM vs Queretaro FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4327719/pumas-unam-vs-queretaro-fc.html
+Pumas UNAM vs Queretaro FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006769
 
 02:00 [g]Supercopa de España[z]	^-
 FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4328168/fc-barcelona-vs-real-madrid.html
