@@ -38,11 +38,16 @@ Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-62
 Inter Milan vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194722/inter-milan-vs-napoli.html
 Inter Milan vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038372
 Inter Milan vs Napoli	https://play7ba.peodlc.com/live/202_4373970_1.m3u8
+Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 03:00 [g]Coupe de France[z]	^-
 Lille vs Lyon	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325701/losc-lille-vs-lyon.html
 Lille vs Lyon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4018414
 Lille vs Lyon	https://play7ba.peodlc.com/live/202_4796063_1.m3u8
+Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 
 03:15 [g]Portuguese Cup[z]	^-
 SCU Torreense vs Uniao Leiria	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4324271/scu-torreense-vs-uniao-leiria.html
