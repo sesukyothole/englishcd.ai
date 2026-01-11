@@ -26,11 +26,6 @@
 
 11.01.2026	^-
 
-13:00 [g]Australia A-League[z]	^-
-Melbourne City vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282158/melbourne-city-vs-newcastle-jets.html
-Melbourne City vs Newcastle Jets	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4034837
-Melbourne City vs Newcastle Jets	https://play7ba.peodlc.com/live/202_4373933_1.m3u8
-
 15:30 Liga 1	^-
 Arema FC vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229738/arema-fc-vs-persatuan-sepak-bola-indonesia-kediri.html
 Arema FC vs Persik Kediri	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038653
@@ -51,6 +46,7 @@ Penang vs Melaka FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&m
 
 18:00 [g]Thai League 1[z]	^-
 Muang Thong Utd vs Ayutthaya Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320349/muangthong-united-vs-ayutthaya-united.html
+Muang Thong Utd vs Ayutthaya Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987961
 
 18:15 [y]Netherlands Eredivisie[z]	^-
 SC Heerenveen vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199325/sc-heerenveen-vs-feyenoord.html
