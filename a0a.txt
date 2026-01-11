@@ -24,25 +24,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-11.01.2026	^-
-
-23:30 [y]Bundesliga[z]	^-
-Bayern Munchen vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199866/fc-bayern-munich-vs-vfl-wolfsburg.html
-Bayern Munchen vs VfL Wolfsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949993
-Bayern Munchen vs VfL Wolfsburg	https://play7ba.peodlc.com/live/202_4369441_1.m3u8
-Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-SporTV 1 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
-
-23:30 [g]FA Cup[z]	^-
-Manchester Utd vs Brighton Hove	`Fhttps://www.fctv33.net/football/fa-cup-match-4325695/manchester-united-vs-brighton-hove-albion.html
-Manchester Utd vs Brighton Hove	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004798
-Manchester Utd vs Brighton Hove	https://play7ba.peodlc.com/live/202_4742440_1.m3u8
-TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
-PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-
 12.01.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
@@ -112,6 +93,15 @@ Al-Hazm vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-lea
 23:30 [g]AFC U23 Asian Cup[z]	^-
 Saudi Arabia vs Vietnam	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298096/saudi-arabia-u23-vs-vietnam-u23.html
 Jordan vs Kyrgyzstan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298100/jordan-u23-vs-kyrgyzstan-u23.html
+
+13.01.2026	^-
+
+00:30 [y]Italian Serie A[z]	^-
+Genoa vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194865/genoa-vs-cagliari.html
+
+00:30 [g]Saudi Professional League[z]	^-
+Al Ettifaq vs Al Khaleej Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256208/al-ettifaq-fc-vs-al-khaleej-club.html
+Al Hilal SFC vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256210/al-hilal-vs-al-nassr-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
