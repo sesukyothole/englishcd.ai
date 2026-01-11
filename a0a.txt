@@ -26,60 +26,47 @@
 
 11.01.2026	^-
 
-16:00 Malaysian Super League	^-
-Penang vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221326/penang-fc-vs-melaka.html
-Penang vs Melaka FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038798
-
-18:00 [g]Thai League 1[z]	^-
-Muang Thong Utd vs Ayutthaya Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320349/muangthong-united-vs-ayutthaya-united.html
-Muang Thong Utd vs Ayutthaya Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987961
-
-18:15 [y]Netherlands Eredivisie[z]	^-
-SC Heerenveen vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199325/sc-heerenveen-vs-feyenoord.html
-
-18:30 [y]Italian Serie A[z]	^-
-Lecce vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194714/lecce-vs-parma.html
-
-18:30 [l]AFC U23 Asian Cup[z]	^-
-China vs Australia	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298057/china-u23-vs-australia-u23.html
-
-19:00 [g]Thai League 1[z]	^-
-Ratchaburi FC vs Chonburi Shark	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319747/ratchaburi-fc-vs-chonburi-fc.html
-
-19:00 Liga 2	^-
-Deltras Sidoarjo vs Kendal Tornado	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323738/deltras-sidoarjo-vs-kendal-tornado-fc.html
-
-19:00 [g]FA Cup[z]	^-
-Derby County vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4325285/derby-county-vs-leeds-united.html
-
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209921/rayo-vallecano-vs-rcd-mallorca.html
+Rayo Vallecano vs Mallorca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809768
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199394/go-ahead-eagles-vs-fortuna-sittard.html
+Go Ahead Eagles vs Fortuna Sittard	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950270
 SC Telstar vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199395/sc-telstar-vs-afc-ajax.html
+SC Telstar vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950271
 
 20:30 Liga 2	^-
 Persiraja Aceh vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323740/persiraja-aceh-vs-persikad-depok.html
+Persiraja Aceh vs Persikad Depok	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4086811
 
 21:00 [y]Italian Serie A[z]	^-
 Fiorentina vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194735/fiorentina-vs-ac-milan.html
+Fiorentina vs AC Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038347
 
 21:00 [l]AFC U23 Asian Cup[z]	^-
 Thailand vs Iraq	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298058/thailand-u23-vs-iraq-u23.html
+Thailand vs Iraq	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4084110
 
 21:00 [y]FA Cup[z]	^-
 Portsmouth vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4325277/portsmouth-vs-arsenal.html
+Portsmouth vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004783
 
 21:30 [y]Bundesliga[z]	^-
 Br Monchengladbach vs Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199865/borussia-monchengladbach-vs-fc-augsburg.html
+Br Monchengladbach vs Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949994
 
 21:30 [g]FA Cup[z]	^-
 Hull City vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/fa-cup-match-4325253/hull-city-vs-blackburn-rovers.html
+Hull City vs Blackburn Rovers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004813
 Norwich City vs Walsall	`Fhttps://www.fctv33.net/football/fa-cup-match-4325267/norwich-city-vs-walsall.html
+Norwich City vs Walsall	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004781
 Swansea City vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/fa-cup-match-4325278/swansea-city-vs-west-bromwich-albion.html
+Swansea City vs West Bromwich WBA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004786
 West Ham Utd vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/fa-cup-match-4325281/west-ham-united-vs-queens-park-rangers.html
+West Ham Utd vs Queens Park Rangers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004791
 Sheffield Utd vs Mansfield Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4325306/sheffield-united-vs-mansfield-town.html
+Sheffield Utd vs Mansfield Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004800
 
 22:15 [y]Spanish La Liga[z]	^-
 Levante vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209914/levante-vs-rcd-espanyol-de-barcelona.html
