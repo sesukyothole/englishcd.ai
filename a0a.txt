@@ -28,6 +28,8 @@
 
 08:00 [g]Mexico Liga MX[z]	^-
 Atletico San Luis vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322884/atletico-san-luis-vs-tigres-uanl.html
+Atletico San Luis vs Tigres UANL	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006770
+Atletico San Luis vs Tigres UANL	https://play7ba.peodlc.com/live/202_4777070_1.m3u8
 
 14:30 Liga 2	^-
 Persipal Palu vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323745/persipal-palu-vs-persiku-kudus.html
@@ -44,7 +46,7 @@ Persi Balikpapan vs Persi Jayapura	`Fhttps://www.fctv33.net/football/indonesian-
 22:10 [g]Saudi Professional League[z]	^-
 Al-Hazm vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256204/al-hazem-vs-al-najmaksa.html
 
-23:30 [g]AFC U23 Asian Cup[z]	^-
+23:30 [l]AFC U23 Asian Cup[z]	^-
 Saudi Arabia vs Vietnam	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298096/saudi-arabia-u23-vs-vietnam-u23.html
 Jordan vs Kyrgyzstan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298100/jordan-u23-vs-kyrgyzstan-u23.html
 
