@@ -26,29 +26,6 @@
 
 12.01.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Verona vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194917/hellas-verona-vs-lazio.html
-Verona vs Lazio	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038354
-Verona vs Lazio	https://play7ba.peodlc.com/live/202_4373966_1.m3u8
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-
-00:00 [g]Coupe de France[z]	^-
-Le Mans vs Nancy	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325715/le-mans-vs-nancy.html
-Le Mans vs Nancy	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4018416
-Le Mans vs Nancy	https://play7ba.peodlc.com/live/202_4796068_1.m3u8
-Chantilly vs Rennes	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325716/chantilly-vs-stade-rennais-fc.html
-Chantilly vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4060999
-Chantilly vs Rennes	https://play7ba.peodlc.com/live/202_4796074_1.m3u8
-Metz vs Montpellier	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326039/metz-vs-montpellier-hrault-sc.html
-Metz vs Montpellier	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4060998
-Metz vs Montpellier	https://play7ba.peodlc.com/live/202_4796064_1.m3u8
-Nantes vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326050/fc-nantes-vs-ogc-nice.html
-Nantes vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016024
-Nantes vs Nice	https://play7ba.peodlc.com/live/202_4796073_1.m3u8
-Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-
 01:00 [g]Mexico Liga MX[z]	^-
 Pumas UNAM vs Queretaro FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4327719/pumas-unam-vs-queretaro-fc.html
 Pumas UNAM vs Queretaro FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006769
@@ -59,6 +36,9 @@ FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espan
 FC Barcelona vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4081475
 FC Barcelona vs Real Madrid	https://play7ba.peodlc.com/live/202_4857525_1.m3u8
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+TNT Sports 4	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 02:45 [y]Italian Serie A[z]	^-
