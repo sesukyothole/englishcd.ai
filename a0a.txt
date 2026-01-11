@@ -51,6 +51,7 @@ Verona vs Lazio	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&match
 Verona vs Lazio	https://play7ba.peodlc.com/live/202_4373966_1.m3u8
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
 00:00 [g]Coupe de France[z]	^-
 Le Mans vs Nancy	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4325715/le-mans-vs-nancy.html
@@ -65,6 +66,7 @@ Metz vs Montpellier	https://play7ba.peodlc.com/live/202_4796064_1.m3u8
 Nantes vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326050/fc-nantes-vs-ogc-nice.html
 Nantes vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4016024
 Nantes vs Nice	https://play7ba.peodlc.com/live/202_4796073_1.m3u8
+Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 
 01:00 [g]Mexico Liga MX[z]	^-
 Pumas UNAM vs Queretaro FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4327719/pumas-unam-vs-queretaro-fc.html
