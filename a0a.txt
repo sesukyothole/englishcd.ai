@@ -26,29 +26,6 @@
 
 11.01.2026	^-
 
-21:30 [y]Bundesliga[z]	^-
-Br Monchengladbach vs Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199865/borussia-monchengladbach-vs-fc-augsburg.html
-Br Monchengladbach vs Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949994
-Br Monchengladbach vs Augsburg	https://play7ba.peodlc.com/live/202_4369445_1.m3u8
-Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
-21:30 [g]FA Cup[z]	^-
-Hull City vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/fa-cup-match-4325253/hull-city-vs-blackburn-rovers.html
-Hull City vs Blackburn Rovers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004813
-Hull City vs Blackburn Rovers	https://play7ba.peodlc.com/live/202_4742444_1.m3u8
-Norwich City vs Walsall	`Fhttps://www.fctv33.net/football/fa-cup-match-4325267/norwich-city-vs-walsall.html
-Norwich City vs Walsall	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004781
-Norwich City vs Walsall	https://play7ba.peodlc.com/live/202_4742436_1.m3u8
-Swansea City vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/fa-cup-match-4325278/swansea-city-vs-west-bromwich-albion.html
-Swansea City vs West Bromwich WBA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004786
-Swansea City vs West Bromwich WBA	https://play7ba.peodlc.com/live/202_4742427_1.m3u8
-West Ham Utd vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/fa-cup-match-4325281/west-ham-united-vs-queens-park-rangers.html
-West Ham Utd vs Queens Park Rangers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004791
-West Ham Utd vs Queens Park Rangers	https://play7ba.peodlc.com/live/202_4742426_1.m3u8
-Sheffield Utd vs Mansfield Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4325306/sheffield-united-vs-mansfield-town.html
-Sheffield Utd vs Mansfield Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004800
-Sheffield Utd vs Mansfield Town	https://play7ba.peodlc.com/live/202_4742431_1.m3u8
-
 22:15 [y]Spanish La Liga[z]	^-
 Levante vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209914/levante-vs-rcd-espanyol-de-barcelona.html
 Levante vs RCD Espanyol	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809756
@@ -68,11 +45,13 @@ Sparta Rotterdam vs Heracles Almelo	https://play7ba.peodlc.com/live/202_4373751_
 23:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199866/fc-bayern-munich-vs-vfl-wolfsburg.html
 Bayern Munchen vs VfL Wolfsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3949993
+Bayern Munchen vs VfL Wolfsburg	https://play7ba.peodlc.com/live/202_4369441_1.m3u8
 Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 23:30 [g]FA Cup[z]	^-
 Manchester Utd vs Brighton Hove	`Fhttps://www.fctv33.net/football/fa-cup-match-4325695/manchester-united-vs-brighton-hove-albion.html
 Manchester Utd vs Brighton Hove	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004798
+Manchester Utd vs Brighton Hove	https://play7ba.peodlc.com/live/202_4742440_1.m3u8
 
 12.01.2026	^-
 
@@ -86,6 +65,7 @@ Nantes vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchI
 
 02:00 [g]Supercopa de España[z]	^-
 FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4328168/fc-barcelona-vs-real-madrid.html
+FC Barcelona vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4081475
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
