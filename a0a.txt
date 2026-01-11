@@ -26,11 +26,6 @@
 
 12.01.2026	^-
 
-01:00 [g]Mexico Liga MX[z]	^-
-Pumas UNAM vs Queretaro FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4327719/pumas-unam-vs-queretaro-fc.html
-Pumas UNAM vs Queretaro FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006769
-Pumas UNAM vs Queretaro FC	https://play7ba.peodlc.com/live/202_4777069_1.m3u8
-
 02:00 [g]Supercopa de España[z]	^-
 FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/supercopa-de-espana-match-4328168/fc-barcelona-vs-real-madrid.html
 FC Barcelona vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4081475
