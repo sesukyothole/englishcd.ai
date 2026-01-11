@@ -34,6 +34,7 @@ Fiorentina vs AC Milan	https://play7ba.peodlc.com/live/202_4373973_1.m3u8
 21:00 [l]AFC U23 Asian Cup[z]	^-
 Thailand vs Iraq	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298058/thailand-u23-vs-iraq-u23.html
 Thailand vs Iraq	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4084110
+Thailand vs Iraq	https://stream.jsgxje.com/202_4374839_1.m3u8?txSecret=efed67e6dc9312b98f4c49f4e3149e0d&txTime=1768140606
 
 21:00 [y]FA Cup[z]	^-
 Portsmouth vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4325277/portsmouth-vs-arsenal.html
