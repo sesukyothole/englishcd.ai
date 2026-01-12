@@ -27,42 +27,33 @@
 
 13.01.2026	^-
 
-00:30 [y]Italian Serie A[z]	^-
-Genoa vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194865/genoa-vs-cagliari.html
-Genoa vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038371
-Genoa vs Cagliari	https://play7ba.peodlc.com/live/202_4373971_1.m3u8
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
-00:30 [g]Saudi Professional League[z]	^-
-Al Ettifaq vs Al Khaleej Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256208/al-ettifaq-fc-vs-al-khaleej-club.html
-Al Ettifaq vs Al Khaleej Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3812000
-Al Ettifaq vs Al Khaleej Club	https://play7ba.peodlc.com/live/202_4378823_1.m3u8
-Al Hilal SFC vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256210/al-hilal-vs-al-nassr-fc.html
-Al Hilal SFC vs Al Nassr FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811993
-Al Hilal SFC vs Al Nassr FC	https://play7ba.peodlc.com/live/202_4378822_1.m3u8
-Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-
 02:45 [y]Italian Serie A[z]	^-
 Juventus vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194804/juventus-vs-cremonese.html
 Juventus vs Cremonese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038370
 Juventus vs Cremonese	https://play7ba.peodlc.com/live/202_4373969_1.m3u8
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 02:45 [g]FA Cup[z]	^-
 Liverpool vs Barnsley	`Fhttps://www.fctv33.net/football/fa-cup-match-4326026/liverpool-vs-barnsley.html
 Liverpool vs Barnsley	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004787
 Liverpool vs Barnsley	https://play7ba.peodlc.com/live/202_4742441_1.m3u8
+TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 
 03:00 [y]Spanish La Liga[z]	^-
 Sevilla vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209922/sevilla-fc-vs-rc-celta.html
 Sevilla vs Real Celta Vigo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809777
 Sevilla vs Real Celta Vigo	https://play7ba.peodlc.com/live/202_4373742_1.m3u8
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 03:10 [g]Coupe de France[z]	^-
 Paris Saint Germain vs Paris FC	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326062/paris-saint-germain-vs-paris-fc.html
 Paris Saint Germain vs Paris FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4021262
 Paris Saint Germain vs Paris FC	https://play7ba.peodlc.com/live/202_4796076_1.m3u8
+beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -160,8 +151,8 @@ Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manife
 Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
 SportDigital Fussball https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-Sport Networld 🇨🇦 West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd!!0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704
 Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
+Sport Networld 🇨🇦 West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd!!0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
