@@ -9,6 +9,7 @@
 
 	^-
 [l]{s} 👉Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
+[l]{s} Ⓜa1 🤹Multi Drama Dubbing Indonesia[z]	^^sa1
 
 	^-
 	^-
@@ -72,9 +73,6 @@ Paris Saint Germain vs Paris FC	`Fhttps://www.fctv33.net/football/coupe-de-franc
 ^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
-
-	^-
-[l]{s} Ⓜa1 🤹Multi Drama 🇨🇳 🇰🇷 Dub 🆔[z]	^^sa1
 
 	^-
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
