@@ -49,10 +49,13 @@ Jordan vs Kyrgyzstan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 
 00:30 [y]Italian Serie A[z]	^-
 Genoa vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194865/genoa-vs-cagliari.html
+Genoa vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4038371
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Ettifaq vs Al Khaleej Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256208/al-ettifaq-fc-vs-al-khaleej-club.html
+Al Ettifaq vs Al Khaleej Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3812000
 Al Hilal SFC vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256210/al-hilal-vs-al-nassr-fc.html
+Al Hilal SFC vs Al Nassr FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811993
 
 02:45 [y]Italian Serie A[z]	^-
 Juventus vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194804/juventus-vs-cremonese.html
