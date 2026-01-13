@@ -31,9 +31,11 @@
 Japan vs Qatar	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298360/japan-u23-vs-qatar-u23.html
 Japan vs Qatar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093188
 Japan vs Qatar	`0https://www.marza12.shop/football/2884904-japan-u23-vs-qatar-u23.html
+Japan vs Qatar	https://live5.msrktz.app/live/24561735.m3u8
 United Arab Emirates vs Syria	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298362/united-arab-emirates-u23-vs-syria-u23.html
 United Arab Emirates vs Syria	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074914
 United Arab Emirates vs Syria	`0https://www.marza12.shop/football/2884905-united-arab-emirates-u23-vs-syria-u23.html
+United Arab Emirates vs Syria	https://live5.msrktz.app/live/79665343.m3u8
 
 14.01.2026	^-
 
@@ -54,6 +56,12 @@ Borussia Dortmund vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 FSV Mainz 05 vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199883/1-fsv-mainz-05-vs-1-fc-heidenheim-1846.html
 FSV Mainz 05 vs 1. FC Heidenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013506
 
+02:30 [g]Belgian Cup[z]	^-
+Charleroi vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-cup-match-4322323/rc-sporting-charleroi-vs-club-brugge.html
+Charleroi vs Club Brugge	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4069145
+Royal Antwerp vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-cup-match-4322413/royal-antwerp-vs-raal-la-louvire.html
+Royal Antwerp vs LaLouviere	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4069146
+
 03:00 [g]Coppa Italia[z]	^-
 AS Roma vs Torino	`Fhttps://www.fctv33.net/football/coppa-italia-match-4313880/as-roma-vs-torino.html
 AS Roma vs Torino	`0https://www.marza12.shop/football/2882540-as-roma-vs-torino.html
@@ -66,6 +74,9 @@ Newcastle United vs Manchester City	`0https://www.marza12.shop/football/2911010-
 FC Bayeux vs Marseille	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4326411/fc-bayeux-vs-marseille.html
 FC Bayeux vs Marseille	`0https://www.marza12.shop/football/2919638-fc-bayeux-vs-marseille.html
 
+03:00 [g]Netherlands KNVB Cup[z]	^-
+FC Utrecht vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4327849/fc-utrecht-vs-fc-twente-enschede.html
+
 03:00 [g]Copa del Rey[z]	^-
 Real Sociedad vs Osasuna	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328098/real-sociedad-vs-ca-osasuna.html
 Real Sociedad vs Osasuna	`0https://www.marza12.shop/football/2918904-real-sociedad-vs-osasuna.html
@@ -74,8 +85,35 @@ Deportivo Coruna vs Atletico Madrid	`0https://www.marza12.shop/football/2918906-
 Cultural Leonesa vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328772/cultural-leonesa-vs-athletic-club.html
 Cultural Leonesa vs Athletic Bilbao	`0https://www.marza12.shop/football/2918901-cultural-leonesa-vs-athletic-bilbao.html
 
+06:00 [g]Mexico Liga MX[z]	^-
+Puebla vs Mazatlan FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322886/puebla-vs-mazatlan-fc.html
+
+08:06 [g]Mexico Liga MX[z]	^-
+Pachuca vs Club Leon	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324219/pachuca-vs-club-leon.html
+
 10:10 [g]Mexico Liga MX[z]	^-
 FC Juarez vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322889/fc-juarez-vs-club-deportivo-guadalajara.html
+FC Juarez vs Chivas Guadalajara	`0https://www.marza12.shop/football/2911706-fc-juarez-vs-chivas-guadalajara.html
+
+17:00 [g]Thai FA Cup[z]	^-
+Prime Bangkok FC vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4327832/prime-bangkok-fc-vs-chiangrai-united.html
+
+18:00 [g]Thai FA Cup[z]	^-
+Buriram Utd vs Pattani	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4325815/buriram-united-vs-pattani.html
+Sisaket Utd vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4328027/sisaket-united-vs-ratchaburi-fc.html
+Bangkok Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4328201/bangkok-united-fc-vs-kanchanaburi-power-fc.html
+
+18:30 [l]AFC U23 Asian Cup[z]	^-
+Thailand vs China	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298053/thailand-u23-vs-china-u23.html
+Iraq vs Australia	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298056/iraq-u23-vs-australia-u23.html
+
+18:30 [g]Thai FA Cup[z]	^-
+Lamphun Warrior vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4327944/lamphun-warriors-vs-sukhothai.html
+Khonkaen Utd vs Nakhon Pathom	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4327951/khonkaen-united-vs-nakhon-pathom-fc.html
+
+19:00 [g]Thai FA Cup[z]	^-
+Prachuap Khiri vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4325814/pt-prachuap-fc-vs-bg-pathum-united.html
+Ayutthaya Utd vs Uttaradit	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4328202/ayutthaya-united-vs-tpf-uttaradit.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
