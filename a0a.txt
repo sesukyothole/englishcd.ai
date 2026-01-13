@@ -27,22 +27,6 @@
 
 13.01.2026	^-
 
-18:30 [l]Asian Cup U23[z]	^-
-Uzbekistan vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298097/uzbekistan-u23-vs-south-korea-u23.html
-Uzbekistan vs South Korea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074911
-Uzbekistan vs South Korea	`0https://www.marza12.shop/football/2884910-uzbekistan-u23-vs-south-korea-u23.html
-Iran vs Lebanon	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298098/iran-u23-vs-lebanon-u23.html
-Iran vs Lebanon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074912
-Iran vs Lebanon	`0https://www.marza12.shop/football/2884911-iran-u23-vs-lebanon-u23.html
-
-20:00 Malaysia Super League	^-
-Terengganu vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221013/terengganu-fc-vs-dpmm-fc.html
-Terengganu vs DPMM FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4071776
-Terengganu vs DPMM FC	`0https://www.marza12.shop/football/2822381-terengganu-vs-dpmm-fc.html
-Kelantan United vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221349/kelantan-the-real-warriors-vs-sabah-fc.html
-Kelantan United vs Sabah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4071790
-Kelantan United vs Sabah	`0https://www.marza12.shop/football/2822380-kelantan-united-vs-sabah.html
-
 23:30 [l]Asian Cup U23[z]	^-
 Japan vs Qatar	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298360/japan-u23-vs-qatar-u23.html
 Japan vs Qatar	`0https://www.marza12.shop/football/2884904-japan-u23-vs-qatar-u23.html
@@ -53,15 +37,20 @@ United Arab Emirates vs Syria	`0https://www.marza12.shop/football/2884905-united
 
 00:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199876/vfb-stuttgart-vs-eintracht-frankfurt.html
+VfB Stuttgart vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013454
 
 00:30 [g]Saudi Professional League[z]	^-
 Dhamk vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256209/damac-vs-al-ittihad-club.html
+Dhamk vs Al Ittihad Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811997
 Dhamk vs Al Ittihad Club	`0https://www.marza12.shop/football/2852189-damac-fc-vs-alittihad.html
 
 02:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199874/hamburger-sv-vs-bayer-04-leverkusen.html
+Hamburger SV vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013456
 Borussia Dortmund vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199881/borussia-dortmund-vs-sv-werder-bremen.html
+Borussia Dortmund vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013455
 FSV Mainz 05 vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199883/1-fsv-mainz-05-vs-1-fc-heidenheim-1846.html
+FSV Mainz 05 vs 1. FC Heidenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013506
 
 03:00 [g]Coppa Italia[z]	^-
 AS Roma vs Torino	`Fhttps://www.fctv33.net/football/coppa-italia-match-4313880/as-roma-vs-torino.html
