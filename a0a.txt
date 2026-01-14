@@ -8,6 +8,7 @@
 ^=	^-
 
 	^-
+👉Playlist [l]Main Menu[z]👈	^^szz
 [l]{s} 👉Ⓜa1 🤹Multi Drama Dubbing Indonesia👈[z]	^^sa1
 [l]{s} 👉Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
@@ -27,15 +28,8 @@
 
 14.01.2026	^-
 
-20:00 Malaysia Super League	^-
-Selangor vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220908/selangor-fc-vs-negeri-sembilan.html
-Selangor vs Negeri Sembilan	`0https://www.marza12.shop/football/2822384-selangor-vs-negeri-sembilan.html
-Selangor vs Negeri Sembilan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4075873
-Melaka FC vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221348/melaka-fc-vs-pdrm-fc.html
-Melaka FC vs PDRM	`0https://www.marza12.shop/football/2822383-melaka-fc-vs-pdrm.html
-Melaka FC vs PDRM	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4075882
-
 21:45 [g]Saudi Professional League[z]	^-
+AL Qadisiyah vs AL Fayha	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256205/al-qadsiah-vs-al-fayha.html
 AL Qadisiyah vs AL Fayha	`0https://www.marza12.shop/football/2852187-al-qadsiah-vs-alfeiha.html
 AL Qadisiyah vs AL Fayha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811996
 
@@ -59,6 +53,7 @@ VfL Wolfsburg vs FC St. Pauli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 Al Ahli Jeddah vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256211/al-ahli-sfc-vs-al-taawoun.html
 Al Ahli Jeddah vs Al-Taawon	`0https://www.marza12.shop/football/2852181-alahli-sfc-vs-altaawoun.html
 Al Ahli Jeddah vs Al-Taawon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3812001
+AL Shabab vs NEOM SC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256203/al-shabab-fc-vs-neom-sports-club.html
 AL Shabab vs NEOM SC	`0https://www.marza12.shop/football/2852188-alshabab-vs-neom-sc.html
 AL Shabab vs NEOM SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811994
 
@@ -108,6 +103,10 @@ Deportivo Alavés vs Rayo Vallecano	`0https://www.marza12.shop/football/2918908-
 03:45 [g]Portuguese Cup[z]	^-
 FC Porto vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4325013/fc-porto-vs-benfica.html
 FC Porto vs Benfica	`0https://www.marza12.shop/football/2915509-fc-porto-vs-benfica.html
+
+06:00 [g]Mexico Liga MX[z]	^-
+CDSyC Cruz Azul vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324216/cruz-azul-vs-atlas.html
+CDSyC Cruz Azul vs Atlas	`0https://www.marza12.shop/football/2911705-cdsyc-cruz-azul-vs-atlas.html
 
 10:06 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322888/tigres-uanl-vs-pumas-unam.html
@@ -1190,7 +1189,6 @@ Playlist [y]Main Menu[z]	^^szz
 [l]{h} Ⓟc1 Pluto[z]	^^h1
 [l]{h} *12 Movies Film VOD 1[z]	^^h12
 [l]{h} *13 Movies Film VOD 2 Mobile[z]	^^h13
-[l]{h} * Action Movies Film VOD[z]	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
 [l]{h} Ⓨ4 Movies Film 1[z]	^^h4
 [l]{h} Ⓩ5 Movies Film 2[z]	^^h5
 [l]{h} Ⓣ6 Movies Film 3[z]	^^h6
