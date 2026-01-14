@@ -66,39 +66,51 @@ Go Ahead Eagles vs Heracles Almelo	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 
 02:30 [y]Bundesliga[z]	^-
 RB Leipzig vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199872/rb-leipzig-vs-sc-freiburg.html
+RB Leipzig vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013515
 FC Koln vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199882/fc-kln-vs-fc-bayern-munich.html
+FC Koln vs Bayern Munchen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013497
 TSG Hoffenheim vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199890/tsg-hoffenheim-vs-borussia-monchengladbach.html
+TSG Hoffenheim vs Br Monchengladbach	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013518
 
 02:30 [g]Switzerland Super League[z]	^-
 FC Sion vs Winterthur	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207175/fc-sion-vs-winterthur.html
+FC Sion vs Winterthur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4057174
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194885/inter-milan-vs-lecce.html
 Inter Milan vs Lecce	`0https://www.marza12.shop/football/2784636-inter-milan-vs-lecce.html
+Inter Milan vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006265
 
 02:45 [g]Scottish Premiership[z]	^-
 Falkirk vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206294/falkirk-vs-celtic-fc.html
 Falkirk vs Celtic FC	`0https://www.marza12.shop/football/2791595-falkirk-vs-celtic-fc.html
+Falkirk vs Celtic FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4039557
 
 03:00 [g]English Football League Cup[z]	^-
 Chelsea vs Arsenal	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4324274/chelsea-vs-arsenal.html
 Chelsea vs Arsenal	`0https://www.marza12.shop/football/2914871-chelsea-vs-arsenal.html
+Chelsea vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020507
 
 03:00 [l]CAF Africa Cup of Nations[z]	^-
 Nigeria vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324612/nigeria-vs-morocco.html
 Nigeria vs Morocco	`0https://www.marza12.shop/football/2912520-nigeria-vs-morocco.html
+Nigeria vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4090145
 Nigeria vs Morocco	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 03:00 [y]Netherlands KNVB Cup[z]	^-
 AZ Alkmaar vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4326970/az-alkmaar-vs-afc-ajax.html
+AZ Alkmaar vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073138
 
 03:00 [g]Copa del Rey[z]	^-
 Real Betis vs Elche	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328070/real-betis-vs-elche.html
 Real Betis vs Elche	`0https://www.marza12.shop/football/2918903-real-betis-vs-elche.html
+Real Betis vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076030
 Albacete Balompié vs Real Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328104/albacete-balompi-sad-vs-real-madrid.html
 Albacete Balompié vs Real Madrid	`0https://www.marza12.shop/football/2918907-albacete-vs-real-madrid.html
+Albacete Balompié vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076029
 Deportivo Alavés vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328456/deportivo-alavs-vs-rayo-vallecano.html
 Deportivo Alavés vs Rayo Vallecano	`0https://www.marza12.shop/football/2918908-alaves-vs-rayo-vallecano.html
+Deportivo Alavés vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076031
 
 03:45 [g]Portuguese Cup[z]	^-
 FC Porto vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4325013/fc-porto-vs-benfica.html
