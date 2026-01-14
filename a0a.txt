@@ -27,22 +27,6 @@
 
 14.01.2026	^-
 
-18:30 [l]AFC U23 Asian Cup[z]	^-
-Thailand vs China	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298053/thailand-u23-vs-china-u23.html
-Thailand vs China	`0https://www.marza12.shop/football/2884917-thailand-u23-vs-china-u23.html
-Thailand vs China	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4074916
-Iraq vs Australia	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298056/iraq-u23-vs-australia-u23.html
-Iraq vs Australia	`0https://www.marza12.shop/football/2884916-iraq-u23-vs-australia-u23.html
-Iraq vs Australia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4096192
-
-18:30 [g]Thai FA Cup[z]	^-
-Lamphun Warrior vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4327944/lamphun-warriors-vs-sukhothai.html
-Lamphun Warrior vs Sukhothai	`0https://www.marza12.shop/football/2916810-lamphun-warrior-vs-sukhothai.html
-Lamphun Warrior vs Sukhothai	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073003
-Khonkaen Utd vs Nakhon Pathom	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4327951/khonkaen-united-vs-nakhon-pathom-fc.html
-Khonkaen Utd vs Nakhon Pathom	`0https://www.marza12.shop/football/2916811-khonkaen-united-vs-nakhon-pathom-fc.html
-Khonkaen Utd vs Nakhon Pathom	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073004
-
 19:00 [g]Thai FA Cup[z]	^-
 Prachuap Khiri vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4325814/pt-prachuap-fc-vs-bg-pathum-united.html
 Prachuap Khiri vs BG Pathum Utd	`0https://www.marza12.shop/football/2916809-prachuap-khiri-khan-vs-bg-pathum-united.html
@@ -66,22 +50,32 @@ Melaka FC vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match
 Melaka FC vs PDRM	`0https://www.marza12.shop/football/2822383-melaka-fc-vs-pdrm.html
 Melaka FC vs PDRM	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4075882
 
+21:45 [g]Saudi Professional League[z]	^-
+AL Qadisiyah vs AL Fayha	`0https://www.marza12.shop/football/2852187-al-qadsiah-vs-alfeiha.html
+AL Qadisiyah vs AL Fayha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811996
+
 15.01.2026	^-
 
 00:00 [g]CAF Africa Cup of Nations[z]	^-
 Senegal vs Egypt	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324613/senegal-vs-egypt.html
 Senegal vs Egypt	`0https://www.marza12.shop/football/2912521-senegal-vs-egypt.html
+Senegal vs Egypt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4090496
 
 00:30 [y]Italian Serie A[z]	^-
 Napoli vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194881/napoli-vs-parma.html
 Napoli vs Parma	`0https://www.marza12.shop/football/2784639-napoli-vs-parma.html
+Napoli vs Parma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006264
 
 00:30 [y]Bundesliga[z]	^-
 VfL Wolfsburg vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199884/vfl-wolfsburg-vs-fc-st-pauli.html
+VfL Wolfsburg vs FC St. Pauli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013459
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Ahli Jeddah vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256211/al-ahli-sfc-vs-al-taawoun.html
 Al Ahli Jeddah vs Al-Taawon	`0https://www.marza12.shop/football/2852181-alahli-sfc-vs-altaawoun.html
+Al Ahli Jeddah vs Al-Taawon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3812001
+AL Shabab vs NEOM SC	`0https://www.marza12.shop/football/2852188-alshabab-vs-neom-sc.html
+AL Shabab vs NEOM SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811994
 
 00:45 [y]Netherlands KNVB Cup[z]	^-
 Den Bosch vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4328105/den-bosch-vs-psv-eindhoven.html
@@ -132,6 +126,7 @@ FC Porto vs Benfica	`0https://www.marza12.shop/football/2915509-fc-porto-vs-benf
 10:06 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322888/tigres-uanl-vs-pumas-unam.html
 Tigres UANL vs Pumas UNAM	`0https://www.marza12.shop/football/2911709-tigres-uanl-vs-pumas-unam.html
+Toluca vs Santos	`0https://www.marza12.shop/football/2911710-toluca-vs-santos-laguna.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
