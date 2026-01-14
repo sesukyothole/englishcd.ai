@@ -71,21 +71,31 @@ Go Ahead Eagles vs Heracles Almelo	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 02:30 [y]Bundesliga[z]	^-
 RB Leipzig vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199872/rb-leipzig-vs-sc-freiburg.html
 RB Leipzig vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013515
+RB Leipzig vs SC Freiburg	https://play7ba.peodlc.com/live/202_4381859_1.m3u8
 FC Koln vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199882/fc-kln-vs-fc-bayern-munich.html
 FC Koln vs Bayern Munchen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013497
+FC Koln vs Bayern Munchen	https://play7ba.peodlc.com/live/202_4381865_1.m3u8
 TSG Hoffenheim vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199890/tsg-hoffenheim-vs-borussia-monchengladbach.html
 TSG Hoffenheim vs Br Monchengladbach	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013518
+TSG Hoffenheim vs Br Monchengladbach	https://play7ba.peodlc.com/live/202_4381862_1.m3u8
 
 02:30 [g]Switzerland Super League[z]	^-
+Servette vs Lausanne Sports	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207171/servette-vs-lausanne-sports.html
 FC Sion vs Winterthur	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207175/fc-sion-vs-winterthur.html
 FC Sion vs Winterthur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4057174
+FC Sion vs Winterthur	https://play7ba.peodlc.com/live/202_4317510_1.m3u8
+
+02:30 [g]Belgian Cup[z]	^-
+FCV Dender EH vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-cup-match-4322404/fcv-dender-eh-vs-union-saint-gilloise.html
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194885/inter-milan-vs-lecce.html
 Inter Milan vs Lecce	`0https://www.marza12.shop/football/2784636-inter-milan-vs-lecce.html
 Inter Milan vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006265
+Inter Milan vs Lecce	https://play7ba.peodlc.com/live/202_4317613_1.m3u8
 
 02:45 [g]Scottish Premiership[z]	^-
+Heart of Midlothian vs Saint Mirren	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206288/heart-of-midlothian-vs-saint-mirren.html
 Falkirk vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206294/falkirk-vs-celtic-fc.html
 Falkirk vs Celtic FC	`0https://www.marza12.shop/football/2791595-falkirk-vs-celtic-fc.html
 Falkirk vs Celtic FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4039557
@@ -94,6 +104,7 @@ Falkirk vs Celtic FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 Chelsea vs Arsenal	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4324274/chelsea-vs-arsenal.html
 Chelsea vs Arsenal	`0https://www.marza12.shop/football/2914871-chelsea-vs-arsenal.html
 Chelsea vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020507
+Chelsea vs Arsenal	https://play7ba.peodlc.com/live/202_4800995_1.m3u8
 
 03:00 [l]CAF Africa Cup of Nations[z]	^-
 Nigeria vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324612/nigeria-vs-morocco.html
@@ -109,12 +120,15 @@ AZ Alkmaar vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=
 Real Betis vs Elche	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328070/real-betis-vs-elche.html
 Real Betis vs Elche	`0https://www.marza12.shop/football/2918903-real-betis-vs-elche.html
 Real Betis vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076030
+Real Betis vs Elche	https://play7ba.peodlc.com/live/202_4853781_1.m3u8
 Albacete Balompié vs Real Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328104/albacete-balompi-sad-vs-real-madrid.html
 Albacete Balompié vs Real Madrid	`0https://www.marza12.shop/football/2918907-albacete-vs-real-madrid.html
 Albacete Balompié vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076029
+Albacete Balompié vs Real Madrid	https://play7ba.peodlc.com/live/202_4853784_1.m3u8
 Deportivo Alavés vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328456/deportivo-alavs-vs-rayo-vallecano.html
 Deportivo Alavés vs Rayo Vallecano	`0https://www.marza12.shop/football/2918908-alaves-vs-rayo-vallecano.html
 Deportivo Alavés vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076031
+Deportivo Alavés vs Rayo Vallecano	https://play7ba.peodlc.com/live/202_4853783_1.m3u8
 
 03:45 [g]Portuguese Cup[z]	^-
 FC Porto vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4325013/fc-porto-vs-benfica.html
@@ -123,17 +137,22 @@ FC Porto vs Benfica	`0https://www.marza12.shop/football/2915509-fc-porto-vs-benf
 06:00 [g]Mexico Liga MX[z]	^-
 CDSyC Cruz Azul vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324216/cruz-azul-vs-atlas.html
 CDSyC Cruz Azul vs Atlas	`0https://www.marza12.shop/football/2911705-cdsyc-cruz-azul-vs-atlas.html
+CDSyC Cruz Azul vs Atlas	https://play7ba.peodlc.com/live/202_4777075_1.m3u8
 
 08:00 [g]Mexico Liga MX[z]	^-
 Queretaro FC vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324979/queretaro-fc-vs-club-tijuana.html
+Queretaro FC vs Club Tijuana	https://play7ba.peodlc.com/live/202_4777077_1.m3u8
 
 08:05 [g]Mexico Liga MX[z]	^-
 Club America vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322887/club-america-vs-atletico-san-luis.html
+Club America vs Atletico San Luis	https://play7ba.peodlc.com/live/202_4777078_1.m3u8
 
 10:06 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322888/tigres-uanl-vs-pumas-unam.html
 Tigres UANL vs Pumas UNAM	`0https://www.marza12.shop/football/2911709-tigres-uanl-vs-pumas-unam.html
+Tigres UANL vs Pumas UNAM	https://play7ba.peodlc.com/live/202_4777079_1.m3u8
 Toluca vs Santos	`0https://www.marza12.shop/football/2911710-toluca-vs-santos-laguna.html
+Toluca vs Santos	https://play7ba.peodlc.com/live/202_4777080_1.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
