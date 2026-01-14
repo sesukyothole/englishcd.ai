@@ -26,13 +26,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-14.01.2026	^-
-
-21:45 [g]Saudi Professional League[z]	^-
-AL Qadisiyah vs AL Fayha	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256205/al-qadsiah-vs-al-fayha.html
-AL Qadisiyah vs AL Fayha	`0https://www.marza12.shop/football/2852187-al-qadsiah-vs-alfeiha.html
-AL Qadisiyah vs AL Fayha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811996
-
 15.01.2026	^-
 
 00:00 [g]CAF Africa Cup of Nations[z]	^-
@@ -65,6 +58,11 @@ Den Bosch vs PSV Eindhoven	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 01:45 [g]Portuguese Cup[z]	^-
 Fafe vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4326033/ad-fafe-vs-sporting-braga.html
 Fafe vs Sporting Braga	`0https://www.marza12.shop/football/2915508-fafe-vs-sporting-braga.html
+Fafe vs Sporting Braga	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4042389
+
+02:00 [y]Netherlands KNVB Cup[z]	^-
+Almere City FC vs SC Telstar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4021269
+Go Ahead Eagles vs Heracles Almelo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073133
 
 02:30 [y]Bundesliga[z]	^-
 RB Leipzig vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199872/rb-leipzig-vs-sc-freiburg.html
