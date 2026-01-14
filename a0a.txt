@@ -39,6 +39,7 @@ AL Qadisiyah vs AL Fayha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportI
 Senegal vs Egypt	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324613/senegal-vs-egypt.html
 Senegal vs Egypt	`0https://www.marza12.shop/football/2912521-senegal-vs-egypt.html
 Senegal vs Egypt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4090496
+Senegal vs Egypt	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 00:30 [y]Italian Serie A[z]	^-
 Napoli vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194881/napoli-vs-parma.html
@@ -50,12 +51,12 @@ VfL Wolfsburg vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match
 VfL Wolfsburg vs FC St. Pauli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013459
 
 00:30 [g]Saudi Professional League[z]	^-
-Al Ahli Jeddah vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256211/al-ahli-sfc-vs-al-taawoun.html
-Al Ahli Jeddah vs Al-Taawon	`0https://www.marza12.shop/football/2852181-alahli-sfc-vs-altaawoun.html
-Al Ahli Jeddah vs Al-Taawon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3812001
 AL Shabab vs NEOM SC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256203/al-shabab-fc-vs-neom-sports-club.html
 AL Shabab vs NEOM SC	`0https://www.marza12.shop/football/2852188-alshabab-vs-neom-sc.html
 AL Shabab vs NEOM SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811994
+Al Ahli Jeddah vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256211/al-ahli-sfc-vs-al-taawoun.html
+Al Ahli Jeddah vs Al-Taawon	`0https://www.marza12.shop/football/2852181-alahli-sfc-vs-altaawoun.html
+Al Ahli Jeddah vs Al-Taawon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3812001
 
 00:45 [y]Netherlands KNVB Cup[z]	^-
 Den Bosch vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4328105/den-bosch-vs-psv-eindhoven.html
@@ -88,6 +89,7 @@ Chelsea vs Arsenal	`0https://www.marza12.shop/football/2914871-chelsea-vs-arsena
 03:00 [l]CAF Africa Cup of Nations[z]	^-
 Nigeria vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324612/nigeria-vs-morocco.html
 Nigeria vs Morocco	`0https://www.marza12.shop/football/2912520-nigeria-vs-morocco.html
+Nigeria vs Morocco	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 03:00 [y]Netherlands KNVB Cup[z]	^-
 AZ Alkmaar vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4326970/az-alkmaar-vs-afc-ajax.html
@@ -107,6 +109,12 @@ FC Porto vs Benfica	`0https://www.marza12.shop/football/2915509-fc-porto-vs-benf
 06:00 [g]Mexico Liga MX[z]	^-
 CDSyC Cruz Azul vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324216/cruz-azul-vs-atlas.html
 CDSyC Cruz Azul vs Atlas	`0https://www.marza12.shop/football/2911705-cdsyc-cruz-azul-vs-atlas.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Queretaro FC vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324979/queretaro-fc-vs-club-tijuana.html
+
+08:05 [g]Mexico Liga MX[z]	^-
+Club America vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322887/club-america-vs-atletico-san-luis.html
 
 10:06 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322888/tigres-uanl-vs-pumas-unam.html
