@@ -28,35 +28,17 @@
 
 15.01.2026	^-
 
-03:00 [g]English Football League Cup[z]	^-
-Chelsea vs Arsenal	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4324274/chelsea-vs-arsenal.html
-Chelsea vs Arsenal	`0https://www.marza12.shop/football/2914871-chelsea-vs-arsenal.html
-Chelsea vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020507
-Chelsea vs Arsenal	https://play7ba.peodlc.com/live/202_4800995_1.m3u8
-
 03:00 [l]CAF Africa Cup of Nations[z]	^-
 Nigeria vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324612/nigeria-vs-morocco.html
 Nigeria vs Morocco	`0https://www.marza12.shop/football/2912520-nigeria-vs-morocco.html
 Nigeria vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4090145
 Nigeria vs Morocco	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
-03:00 [y]Netherlands KNVB Cup[z]	^-
-AZ Alkmaar vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4326970/az-alkmaar-vs-afc-ajax.html
-AZ Alkmaar vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073138
-
 03:00 [g]Copa del Rey[z]	^-
-Real Betis vs Elche	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328070/real-betis-vs-elche.html
-Real Betis vs Elche	`0https://www.marza12.shop/football/2918903-real-betis-vs-elche.html
-Real Betis vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076030
-Real Betis vs Elche	https://play7ba.peodlc.com/live/202_4853781_1.m3u8
 Albacete Balompié vs Real Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328104/albacete-balompi-sad-vs-real-madrid.html
 Albacete Balompié vs Real Madrid	`0https://www.marza12.shop/football/2918907-albacete-vs-real-madrid.html
 Albacete Balompié vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076029
 Albacete Balompié vs Real Madrid	https://play7ba.peodlc.com/live/202_4853784_1.m3u8
-Deportivo Alavés vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328456/deportivo-alavs-vs-rayo-vallecano.html
-Deportivo Alavés vs Rayo Vallecano	`0https://www.marza12.shop/football/2918908-alaves-vs-rayo-vallecano.html
-Deportivo Alavés vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076031
-Deportivo Alavés vs Rayo Vallecano	https://play7ba.peodlc.com/live/202_4853783_1.m3u8
 
 03:45 [g]Portuguese Cup[z]	^-
 FC Porto vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4325013/fc-porto-vs-benfica.html
