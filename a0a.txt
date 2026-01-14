@@ -81,12 +81,14 @@ TSG Hoffenheim vs Br Monchengladbach	https://play7ba.peodlc.com/live/202_4381862
 
 02:30 [g]Switzerland Super League[z]	^-
 Servette vs Lausanne Sports	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207171/servette-vs-lausanne-sports.html
+Servette vs Lausanne Sports	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3868970
 FC Sion vs Winterthur	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207175/fc-sion-vs-winterthur.html
 FC Sion vs Winterthur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4057174
 FC Sion vs Winterthur	https://play7ba.peodlc.com/live/202_4317510_1.m3u8
 
 02:30 [g]Belgian Cup[z]	^-
 FCV Dender EH vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-cup-match-4322404/fcv-dender-eh-vs-union-saint-gilloise.html
+FCV Dender EH vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073135
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194885/inter-milan-vs-lecce.html
@@ -96,6 +98,7 @@ Inter Milan vs Lecce	https://play7ba.peodlc.com/live/202_4317613_1.m3u8
 
 02:45 [g]Scottish Premiership[z]	^-
 Heart of Midlothian vs Saint Mirren	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206288/heart-of-midlothian-vs-saint-mirren.html
+Heart of Midlothian vs Saint Mirren	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4039556
 Falkirk vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206294/falkirk-vs-celtic-fc.html
 Falkirk vs Celtic FC	`0https://www.marza12.shop/football/2791595-falkirk-vs-celtic-fc.html
 Falkirk vs Celtic FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4039557
