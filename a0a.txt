@@ -27,22 +27,6 @@
 
 14.01.2026	^-
 
-17:00 [g]Thai FA Cup[z]	^-
-Prime Bangkok FC vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4327832/prime-bangkok-fc-vs-chiangrai-united.html
-Prime Bangkok FC vs Chiangrai Utd	`0https://www.marza12.shop/football/2916812-prime-bangkok-fc-vs-chiangrai-united.html
-Prime Bangkok FC vs Chiangrai Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4101147
-
-18:00 [g]Thai FA Cup[z]	^-
-Buriram Utd vs Pattani	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4325815/buriram-united-vs-pattani.html
-Buriram Utd vs Pattani	`0https://www.marza12.shop/football/2916807-buriram-united-vs-pattani.html
-Buriram Utd vs Pattani	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073001
-Sisaket Utd vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4328027/sisaket-united-vs-ratchaburi-fc.html
-Sisaket Utd vs Ratchaburi FC	`0https://www.marza12.shop/football/2916813-sisaket-united-vs-ratchaburi-fc.html
-Sisaket Utd vs Ratchaburi FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4073002
-Bangkok Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4328201/bangkok-united-fc-vs-kanchanaburi-power-fc.html
-Bangkok Utd vs Singha GB	`0https://www.marza12.shop/football/2916808-bangkok-united-fc-vs-dp-kanchanaburi.html
-Bangkok Utd vs Singha GB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4072994
-
 18:30 [l]AFC U23 Asian Cup[z]	^-
 Thailand vs China	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4298053/thailand-u23-vs-china-u23.html
 Thailand vs China	`0https://www.marza12.shop/football/2884917-thailand-u23-vs-china-u23.html
@@ -71,6 +55,8 @@ Ayutthaya Utd vs Uttaradit	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 Johor Darul Takzim vs Kuching	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220907/johor-darul-tazim-fc-vs-kuching-city-fc.html
 Johor Darul Takzim vs Kuching	`0https://www.marza12.shop/football/2822379-johor-darul-takzim-vs-kuching-fa.html
 Johor Darul Takzim vs Kuching	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4071779
+Kuala Lumpur vs Penang	`0https://www.marza12.shop/football/2822382-kuala-lumpur-city-fc-vs-penang.html
+Kuala Lumpur vs Penang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4075870
 
 20:00 Malaysia Super League	^-
 Selangor vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220908/selangor-fc-vs-negeri-sembilan.html
@@ -78,8 +64,7 @@ Selangor vs Negeri Sembilan	`0https://www.marza12.shop/football/2822384-selangor
 Selangor vs Negeri Sembilan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4075873
 Melaka FC vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221348/melaka-fc-vs-pdrm-fc.html
 Melaka FC vs PDRM	`0https://www.marza12.shop/football/2822383-melaka-fc-vs-pdrm.html
-Kuala Lumpur vs Penang	`0https://www.marza12.shop/football/2822382-kuala-lumpur-city-fc-vs-penang.html
-Kuala Lumpur vs Penang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4075870
+Melaka FC vs PDRM	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4075882
 
 15.01.2026	^-
 
