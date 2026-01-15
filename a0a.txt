@@ -26,50 +26,36 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-15.01.2026	^-
-
-15:00 [g]International Club Friendly[z]	^-
-CSKA 1948 Sofia vs LASK Linz	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4331631/cska-1948-sofia-vs-lask-linz.html
-CSKA 1948 Sofia vs LASK Linz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4102314
-
-17:00 [g]International Club Friendly[z]	^-
-Pardubice vs Vysocina jihlava	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4330697/pardubice-vs-vysocina-jihlava.html
-Pardubice vs Vysocina jihlava	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4102317
-
-19:30 [g]International Club Friendly[z]	^-
-LASK Linz vs Jagiellonia Bialystok	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4332845/lask-linz-vs-jagiellonia-bialystok.html
-LASK Linz vs Jagiellonia Bialystok	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4103788
-
-20:00 [g]International Club Friendly[z]	^-
-Ferencvarosi TC vs Midtjylland	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4328843/ferencvarosi-tc-vs-midtjylland.html
-Ferencvarosi TC vs Midtjylland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4102320
-Red Bull Salzburg vs Crvena Zvezda	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4328844/red-bull-salzburg-vs-crvena-zvezda.html
-Red Bull Salzburg vs Crvena Zvezda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4105677
-
 16.01.2026	^-
 
 00:30 [y]Italian Serie A[z]	^-
 Verona vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194878/hellas-verona-vs-bologna.html
 Verona vs Bologna	`0https://www.marza12.shop/football/2784641-verona-vs-bologna.html
+Verona vs Bologna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006266
 
 00:30 [y]KNVB Cup[z]	^-
 Heerenveen vs Waalwijk	`3https://www.marza12.shop/football/2914227-sc-heerenveen-vs-rkc-waalwijk.html
 
 02:30 [y]Bundesliga[z]	^-
 FC Augsburg vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199880/fc-augsburg-vs-1-fc-union-berlin.html
+FC Augsburg vs Union Berlin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013512
 
 02:45 [y]Italian Serie A[z]	^-
 Como vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194886/como-vs-ac-milan.html
 Como vs AC Milan	`0https://www.marza12.shop/football/2784633-como-vs-ac-milan.html
+Como vs AC Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4006267
 
 03:00 [y]KNVB Cup[z]	^-
 Sparta vs Volendam	`0https://www.marza12.shop/football/2914228-sparta-rotterdam-vs-volendam.html
+Sparta vs Volendam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4021270
 
 03:00 [g]Copa del Rey[z]	^-
 Burgos CF vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328099/burgos-cf-vs-valencia-cf.html
 Burgos CF vs Valencia	`0https://www.marza12.shop/football/2918902-burgos-vs-valencia.html
+Burgos CF vs Valencia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076034
 Racing Santander vs FC Barcelona	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4328107/racing-santander-vs-fc-barcelona.html
 Racing Santander vs FC Barcelona	`0https://www.marza12.shop/football/2918905-racing-santander-vs-fc-barcelona.html
+Racing Santander vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4076028
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
