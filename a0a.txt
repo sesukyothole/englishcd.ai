@@ -28,16 +28,6 @@
 
 15.01.2026	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-Queretaro FC vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4324979/queretaro-fc-vs-club-tijuana.html
-Queretaro FC vs Club Tijuana	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4067094
-Queretaro FC vs Club Tijuana	https://play7ba.peodlc.com/live/202_4777077_1.m3u8
-
-08:05 [g]Mexico Liga MX[z]	^-
-Club America vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322887/club-america-vs-atletico-san-luis.html
-Club America vs Atletico San Luis	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4067083
-Club America vs Atletico San Luis	https://play7ba.peodlc.com/live/202_4777078_1.m3u8
-
 10:06 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322888/tigres-uanl-vs-pumas-unam.html
 Tigres UANL vs Pumas UNAM	`0https://www.marza12.shop/football/2911709-tigres-uanl-vs-pumas-unam.html
@@ -48,6 +38,15 @@ Toluca vs Santos	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322434/
 Toluca vs Santos	`0https://www.marza12.shop/football/2911710-toluca-vs-santos-laguna.html
 Toluca vs Santos	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4067093
 Toluca vs Santos	https://play7ba.peodlc.com/live/202_4777080_1.m3u8
+
+15:00 [g]International Club Friendly[z]	^-
+CSKA 1948 Sofia vs LASK Linz	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4331631/cska-1948-sofia-vs-lask-linz.html
+
+17:00 [g]International Club Friendly[z]	^-
+Pardubice vs Vysocina jihlava	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4330697/pardubice-vs-vysocina-jihlava.html
+
+19:30 [g]International Club Friendly[z]	^-
+LASK Linz vs Jagiellonia Bialystok	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4332845/lask-linz-vs-jagiellonia-bialystok.html
 
 20:00 [g]International Club Friendly[z]	^-
 Ferencvarosi TC vs Midtjylland	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4328843/ferencvarosi-tc-vs-midtjylland.html
