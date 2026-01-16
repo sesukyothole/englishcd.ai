@@ -28,37 +28,6 @@
 
 17.01.2026	^-
 
-02:30 [y]Bundesliga[z]	^-
-Werder Bremen vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199895/sv-werder-bremen-vs-eintracht-frankfurt.html
-Werder Bremen vs Eintracht Frankfurt	https://play7ba.peodlc.com/live/202_4392186_1.m3u8
-
-02:45 [y]Italian Serie A[z]	^-
-Pisa vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194645/pisa-vs-atalanta.html
-Pisa vs Atalanta	`0https://www.marza12.shop/football/2784689-pisa-vs-atalanta.html
-Pisa vs Atalanta	https://play7ba.peodlc.com/live/202_4392072_1.m3u8
-
-02:45 [g]Belgian Pro League[z]	^-
-Club Brugge vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198955/club-brugge-vs-raal-la-louvire.html
-Club Brugge vs LaLouviere	https://play7ba.peodlc.com/live/202_4392208_1.m3u8
-
-02:45 [g]Scottish Cup[z]	^-
-Glasgow Rangers vs Annan Athletic	`Fhttps://www.fctv33.net/football/scottish-cup-match-4319678/rangers-vs-annan-athletic-fc.html
-
-03:00 [y]French Ligue 1[z]	^-
-Paris Saint Germain vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200258/paris-saint-germain-vs-losc-lille.html
-Paris Saint Germain vs Lille	`0https://www.marza12.shop/football/2800177-paris-saint-germain-psg-vs-lille.html
-Paris Saint Germain vs Lille	https://play7ba.peodlc.com/live/202_4398373_1.m3u8
-
-03:00 [g]English Football League[z]	^-
-West Bromwich WBA vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203519/west-bromwich-albion-vs-middlesbrough.html
-West Bromwich WBA vs Middlesbrough	`0https://www.marza12.shop/football/2798328-west-bromwichwba-vs-middlesbrough.html
-West Bromwich WBA vs Middlesbrough	https://play7ba.peodlc.com/live/202_4392196_1.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-RCD Espanyol vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209700/rcd-espanyol-de-barcelona-vs-girona-fc.html
-RCD Espanyol vs Girona	`0https://www.marza12.shop/football/2804488-rcd-espanyol-vs-girona.html
-RCD Espanyol vs Girona	https://play7ba.peodlc.com/live/202_4395031_1.m3u8
-
 03:15 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216236/sporting-cp-vs-casa-pia-ac.html
 Sporting CP vs Casa Pia AC	`0https://www.marza12.shop/football/2814882-sporting-cp-vs-casa-pia-ac.html
