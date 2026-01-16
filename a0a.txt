@@ -26,13 +26,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-16.01.2026	^-
-
-22:30 [l]AFC U23 Asian Cup[z]	^-
-Vietnam vs United Arab Emirates	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327462/vietnam-u23-vs-united-arab-emirates-u23.html
-Vietnam vs United Arab Emirates	`0https://www.marza12.shop/football/2852193-alkhaleej-vs-alokhdood.html
-Vietnam vs United Arab Emirates	https://live5.msrktz.app/live/97312754.m3u8
-
 17.01.2026	^-
 
 00:30 [g]Saudi Professional League[z]	^-
@@ -52,6 +45,9 @@ Werder Bremen vs Eintracht Frankfurt	https://play7ba.peodlc.com/live/202_4392186
 Pisa vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194645/pisa-vs-atalanta.html
 Pisa vs Atalanta	`0https://www.marza12.shop/football/2784689-pisa-vs-atalanta.html
 Pisa vs Atalanta	https://play7ba.peodlc.com/live/202_4392072_1.m3u8
+
+02:45 [g]Belgian Pro League[z]	^-
+Club Brugge vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198955/club-brugge-vs-raal-la-louvire.html
 
 02:45 [g]Scottish Cup[z]	^-
 Glasgow Rangers vs Annan Athletic	`Fhttps://www.fctv33.net/football/scottish-cup-match-4319678/rangers-vs-annan-athletic-fc.html
@@ -119,6 +115,12 @@ Melaka FC vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329552
 19:30 [y]English Premier League[z]	^-
 Manchester United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193894/manchester-united-vs-manchester-city.html
 
+19:30 [g]English Football League[z]	^-
+Coventry City vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203889/coventry-city-vs-leicester-city.html
+
+19:30 [g]English National League[z]	^-
+Hartlepool United vs Altrincham	`Fhttps://www.fctv33.net/football/english-national-league-match-4219443/hartlepool-united-vs-altrincham.html
+
 19:30 [g]Thai League 1[z]	^-
 Singha GB vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320350/kanchanaburi-power-fc-vs-muangthong-united.html
 
@@ -148,6 +150,9 @@ Leeds United vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-
 22:00 [g]Belgian Pro League[z]	^-
 Zulte-Waregem vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198933/zulte-waregem-vs-racing-genk.html
 
+22:00 [g]English Football League[z]	^-
+Oxford United vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203745/oxford-united-vs-bristol-city.html
+
 22:15 [y]Spanish La Liga[z]	^-
 Mallorca vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209748/rcd-mallorca-vs-athletic-club.html
 
@@ -165,6 +170,39 @@ Lens vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-420023
 
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Egypt vs Nigeria	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324611/egypt-vs-nigeria.html
+
+18.01.2026	^-
+
+00:00 [y]Italian Serie A[z]	^-
+Napoli vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194811/napoli-vs-sassuolo.html
+
+00:30 [y]English Premier League[z]	^-
+Nottingham Forest vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194184/nottingham-forest-vs-arsenal.html
+
+00:30 [y]Bundesliga[z]	^-
+RB Leipzig vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199905/rb-leipzig-vs-fc-bayern-munich.html
+
+00:30 [g]English Football League[z]	^-
+Swansea City vs Birmingham City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203560/swansea-city-vs-birmingham-city.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Osasuna vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209855/ca-osasuna-vs-real-oviedo.html
+
+00:30 [g]English National League[z]	^-
+York City vs Southend United	`Fhttps://www.fctv33.net/football/english-national-league-match-4219376/york-city-vs-southend-united.html
+
+00:30 [g]Saudi Professional League[z]	^-
+Al Nassr FC vs Al Shabab Riyadh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256242/al-nassr-fc-vs-al-shabab-fc.html
+
+00:45 [y]Netherlands Eredivisie[z]	^-
+PEC Zwolle vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199129/pec-zwolle-vs-az-alkmaar.html
+
+01:00 [y]French Ligue 1[z]	^-
+Toulouse vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200388/toulouse-fc-vs-ogc-nice.html
+
+01:00 [g]Portuguese Primera Liga[z]	^-
+Alverca vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216230/alverca-vs-moreirense.html
+AVS Futebol SAD vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216237/avs-futebol-sad-vs-fc-arouca.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
