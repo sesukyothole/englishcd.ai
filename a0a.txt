@@ -43,6 +43,7 @@ Vietnam vs United Arab Emirates	https://live5.msrktz.app/live/97312754.m3u8
 00:30 [g]Saudi Professional League[z]	^-
 Al Ittihad Club vs Al Ettifaq	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256218/al-ittihad-club-vs-al-ettifaq-fc.html
 Al Ittihad Club vs Al Ettifaq	`0https://www.marza12.shop/football/2852192-alittihad-vs-alettifaq.html
+Al Ittihad Club vs Al Ettifaq	https://play7ba.peodlc.com/live/202_4392030_1.m3u8
 
 01:00 [y]French Ligue 1[z]	^-
 Monaco vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200208/as-monaco-vs-lorient.html
@@ -50,10 +51,12 @@ Monaco vs Lorient	`0https://www.marza12.shop/football/2800175-monaco-vs-lorient.
 
 02:30 [y]Bundesliga[z]	^-
 Werder Bremen vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199895/sv-werder-bremen-vs-eintracht-frankfurt.html
+Werder Bremen vs Eintracht Frankfurt	https://play7ba.peodlc.com/live/202_4392186_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Pisa vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194645/pisa-vs-atalanta.html
 Pisa vs Atalanta	`0https://www.marza12.shop/football/2784689-pisa-vs-atalanta.html
+Pisa vs Atalanta	https://play7ba.peodlc.com/live/202_4392072_1.m3u8
 
 02:45 [g]Scottish Cup[z]	^-
 Glasgow Rangers vs Annan Athletic	`Fhttps://www.fctv33.net/football/scottish-cup-match-4319678/rangers-vs-annan-athletic-fc.html
@@ -61,22 +64,27 @@ Glasgow Rangers vs Annan Athletic	`Fhttps://www.fctv33.net/football/scottish-cup
 03:00 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200258/paris-saint-germain-vs-losc-lille.html
 Paris Saint Germain vs Lille	`0https://www.marza12.shop/football/2800177-paris-saint-germain-psg-vs-lille.html
+Paris Saint Germain vs Lille	https://play7ba.peodlc.com/live/202_4398373_1.m3u8
 
 03:00 [g]English Football League[z]	^-
 West Bromwich WBA vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203519/west-bromwich-albion-vs-middlesbrough.html
 West Bromwich WBA vs Middlesbrough	`0https://www.marza12.shop/football/2798328-west-bromwichwba-vs-middlesbrough.html
+West Bromwich WBA vs Middlesbrough	https://play7ba.peodlc.com/live/202_4392196_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209700/rcd-espanyol-de-barcelona-vs-girona-fc.html
 RCD Espanyol vs Girona	`0https://www.marza12.shop/football/2804488-rcd-espanyol-vs-girona.html
+RCD Espanyol vs Girona	https://play7ba.peodlc.com/live/202_4395031_1.m3u8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216236/sporting-cp-vs-casa-pia-ac.html
 Sporting CP vs Casa Pia AC	`0https://www.marza12.shop/football/2814882-sporting-cp-vs-casa-pia-ac.html
+Sporting CP vs Casa Pia AC	https://play7ba.peodlc.com/live/202_4398490_1.m3u8
 
 10:00 [g]Mexico Liga MX[z]	^-
 Mazatlán vs Monterrey	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322431/mazatlan-fc-vs-monterrey.html
 Mazatlán vs Monterrey	`0https://www.marza12.shop/football/2911711-mazatlan-fc-vs-monterrey.html
+Mazatlán vs Monterrey	https://play7ba.peodlc.com/live/202_4777081_1.m3u8
 
 13:00 [g]Australia A-League[z]	^-
 Western Sydney vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282125/western-sydney-vs-newcastle-jets.html
