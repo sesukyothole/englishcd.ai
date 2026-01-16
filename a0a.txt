@@ -28,28 +28,6 @@
 
 16.01.2026	^-
 
-15:30 Liga 2	^-
-FC Bekasi City vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323732/fc-bekasi-city-vs-sriwijaya-fc.html
-FC Bekasi City vs Sriwijaya FC	`0https://www.marza12.shop/football/2903886-fc-bekasi-city-vs-sriwijaya-fc.html
-
-15:35 [g]Australia A-League[z]	^-
-Melbourne City vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282171/melbourne-city-vs-auckland-fc.html
-Melbourne City vs Auckland FC	`0https://www.marza12.shop/football/2871721-melbourne-city-vs-auckland-fc.html
-Melbourne City vs Auckland FC	https://play7ba.peodlc.com/live/202_4388377_1.m3u8
-
-17:45 [g]Australia A-League[z]	^-
-Perth Glory vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282209/perth-glory-vs-brisbane-roar.html
-Perth Glory vs Brisbane Roar	`0https://www.marza12.shop/football/2871722-perth-glory-vs-brisbane-roar.html
-Perth Glory vs Brisbane Roar	https://play7ba.peodlc.com/live/202_4388378_1.m3u8
-
-18:30 [l]AFC U23 Asian Cup[z]	^-
-Japan vs Jordan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327463/japan-u23-vs-jordan-u23.html
-Japan vs Jordan	`0https://www.marza12.shop/football/2921425-japan-u23-vs-jordan-u23.html
-
-19:00 Liga 2	^-
-PSPS Riau vs Persekat Tegal	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323731/psps-riau-vs-persekat-tegal.html
-PSPS Riau vs Persekat Tegal	`0https://www.marza12.shop/football/2903887-psps-pekanbaru-vs-persekat-tegal.html
-
 20:40 [g]Saudi Professional League[z]	^-
 Al Najma KSA vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256217/al-najmaksa-vs-al-fateh-sc.html
 Al Najma KSA vs Al-Fateh	`0https://www.marza12.shop/football/2852195-al-najmaksa-vs-alfateh.html
