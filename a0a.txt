@@ -28,10 +28,6 @@
 
 16.01.2026	^-
 
-20:40 [g]Saudi Professional League[z]	^-
-Al Najma KSA vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256217/al-najmaksa-vs-al-fateh-sc.html
-Al Najma KSA vs Al-Fateh	`0https://www.marza12.shop/football/2852195-al-najmaksa-vs-alfateh.html
-
 21:45 [g]Saudi Professional League[z]	^-
 Al-Khaleej vs Al-Okhdood	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256212/al-khaleej-club-vs-al-okhdood.html
 Al-Khaleej vs Al-Okhdood	`0https://www.marza12.shop/football/2852193-alkhaleej-vs-alokhdood.html
@@ -138,6 +134,28 @@ TSG Hoffenheim vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-
 Hamburger SV vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199898/hamburger-sv-vs-borussia-monchengladbach.html
 FC Koln vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199900/fc-kln-vs-1-fsv-mainz-05.html
 VfL Wolfsburg vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199902/vfl-wolfsburg-vs-1-fc-heidenheim-1846.html
+
+22:00 [y]English Premier League[z]	^-
+Liverpool vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193856/liverpool-vs-burnley.html
+Tottenham Hotspur vs West Ham Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193869/tottenham-hotspur-vs-west-ham-united.html
+Sunderland AFC vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193877/sunderland-vs-crystal-palace.html
+Chelsea vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193941/chelsea-vs-brentford.html
+Leeds United vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194188/leeds-united-vs-fulham.html
+
+22:00 [g]Belgian Pro League[z]	^-
+Zulte-Waregem vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198933/zulte-waregem-vs-racing-genk.html
+
+22:15 [y]Spanish La Liga[z]	^-
+Mallorca vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209748/rcd-mallorca-vs-athletic-club.html
+
+22:30 [y]Netherlands Eredivisie[z]	^-
+AFC Ajax vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199396/afc-ajax-vs-go-ahead-eagles.html
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+Gil Vicente vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216235/gil-vicente-vs-nacional-da-madeira.html
+
+22:30 [l]AFC U23 Asian Cup[z]	^-
+Australia vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327460/australia-u23-vs-south-korea-u23.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
