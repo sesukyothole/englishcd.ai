@@ -30,53 +30,75 @@
 
 15:30 Liga 2	^-
 FC Bekasi City vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323732/fc-bekasi-city-vs-sriwijaya-fc.html
+FC Bekasi City vs Sriwijaya FC	`0https://www.marza12.shop/football/2903886-fc-bekasi-city-vs-sriwijaya-fc.html
 
 15:35 [g]Australia A-League[z]	^-
 Melbourne City vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282171/melbourne-city-vs-auckland-fc.html
+Melbourne City vs Auckland FC	`0https://www.marza12.shop/football/2871721-melbourne-city-vs-auckland-fc.html
+Melbourne City vs Auckland FC	https://play7ba.peodlc.com/live/202_4388377_1.m3u8
 
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282209/perth-glory-vs-brisbane-roar.html
+Perth Glory vs Brisbane Roar	`0https://www.marza12.shop/football/2871722-perth-glory-vs-brisbane-roar.html
+Perth Glory vs Brisbane Roar	https://play7ba.peodlc.com/live/202_4388378_1.m3u8
 
 18:30 [l]AFC U23 Asian Cup[z]	^-
 Japan vs Jordan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327463/japan-u23-vs-jordan-u23.html
+Japan vs Jordan	`0https://www.marza12.shop/football/2921425-japan-u23-vs-jordan-u23.html
 
 19:00 Liga 2	^-
 PSPS Riau vs Persekat Tegal	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323731/psps-riau-vs-persekat-tegal.html
+PSPS Riau vs Persekat Tegal	`0https://www.marza12.shop/football/2903887-psps-pekanbaru-vs-persekat-tegal.html
 
 20:40 [g]Saudi Professional League[z]	^-
 Al Najma KSA vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256217/al-najmaksa-vs-al-fateh-sc.html
+Al Najma KSA vs Al-Fateh	`0https://www.marza12.shop/football/2852195-al-najmaksa-vs-alfateh.html
+
+21:45 [g]Saudi Professional League[z]	^-
+Al-Khaleej vs Al-Okhdood	`0https://www.marza12.shop/football/2852193-alkhaleej-vs-alokhdood.html
 
 22:30 [l]AFC U23 Asian Cup[z]	^-
 Vietnam vs United Arab Emirates	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327462/vietnam-u23-vs-united-arab-emirates-u23.html
+Vietnam vs United Arab Emirates	`0https://www.marza12.shop/football/2852193-alkhaleej-vs-alokhdood.html
 
 17.01.2026	^-
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Ittihad Club vs Al Ettifaq	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256218/al-ittihad-club-vs-al-ettifaq-fc.html
+Al Ittihad Club vs Al Ettifaq	`0https://www.marza12.shop/football/2852192-alittihad-vs-alettifaq.html
 
 01:00 [y]French Ligue 1[z]	^-
 Monaco vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200208/as-monaco-vs-lorient.html
+Monaco vs Lorient	`0https://www.marza12.shop/football/2800175-monaco-vs-lorient.html
 
 02:30 [y]Bundesliga[z]	^-
 Werder Bremen vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199895/sv-werder-bremen-vs-eintracht-frankfurt.html
 
 02:45 [y]Italian Serie A[z]	^-
 Pisa vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194645/pisa-vs-atalanta.html
+Pisa vs Atalanta	`0https://www.marza12.shop/football/2784689-pisa-vs-atalanta.html
 
 02:45 [g]Scottish Cup[z]	^-
 Glasgow Rangers vs Annan Athletic	`Fhttps://www.fctv33.net/football/scottish-cup-match-4319678/rangers-vs-annan-athletic-fc.html
 
 03:00 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200258/paris-saint-germain-vs-losc-lille.html
+Paris Saint Germain vs Lille	`0https://www.marza12.shop/football/2800177-paris-saint-germain-psg-vs-lille.html
 
 03:00 [g]English Football League[z]	^-
 West Bromwich WBA vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203519/west-bromwich-albion-vs-middlesbrough.html
+West Bromwich WBA vs Middlesbrough	`0https://www.marza12.shop/football/2798328-west-bromwichwba-vs-middlesbrough.html
 
 03:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209700/rcd-espanyol-de-barcelona-vs-girona-fc.html
+RCD Espanyol vs Girona	`0https://www.marza12.shop/football/2804488-rcd-espanyol-vs-girona.html
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216236/sporting-cp-vs-casa-pia-ac.html
+Sporting CP vs Casa Pia AC	`0https://www.marza12.shop/football/2814882-sporting-cp-vs-casa-pia-ac.html
+
+10:00 [g]Mexico Liga MX[z]	^-
+Mazatlán vs Monterrey	`0https://www.marza12.shop/football/2911711-mazatlan-fc-vs-monterrey.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
