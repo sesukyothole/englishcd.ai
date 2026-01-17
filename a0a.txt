@@ -32,18 +32,27 @@
 Udinese vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194567/udinese-vs-inter-milan.html
 Udinese vs Inter Milan	`0https://www.marza12.shop/football/2784691-udinese-vs-inter-milan.html
 Udinese vs Inter Milan	https://play7ba.peodlc.com/live/202_4392172_1.m3u8
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 21:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199644/borussia-dortmund-vs-fc-st-pauli.html
 Borussia Dortmund vs FC St. Pauli	https://play7ba.peodlc.com/live/202_4392191_1.m3u8
+Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 TSG Hoffenheim vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199894/tsg-hoffenheim-vs-bayer-04-leverkusen.html
 TSG Hoffenheim vs Bayer Leverkusen	https://play7ba.peodlc.com/live/202_4392192_1.m3u8
+SporTV 1 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 Hamburger SV vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199898/hamburger-sv-vs-borussia-monchengladbach.html
 Hamburger SV vs Br Monchengladbach	https://play7ba.peodlc.com/live/202_4392188_1.m3u8
+Sky Live Event 3	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 FC Koln vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199900/fc-kln-vs-1-fsv-mainz-05.html
 FC Koln vs FSV Mainz 05	https://play7ba.peodlc.com/live/202_4392194_1.m3u8
+Sky Live Event 2	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 VfL Wolfsburg vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199902/vfl-wolfsburg-vs-1-fc-heidenheim-1846.html
 VfL Wolfsburg vs 1. FC Heidenheim	https://play7ba.peodlc.com/live/202_4392185_1.m3u8
+Sky Live Event 4	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 
 22:00 [y]English Premier League[z]	^-
 Liverpool vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193856/liverpool-vs-burnley.html
@@ -76,6 +85,8 @@ Oxford United vs Bristol City	https://play7ba.peodlc.com/live/202_4392203_1.m3u8
 Mallorca vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209748/rcd-mallorca-vs-athletic-club.html
 Mallorca vs Athletic Bilbao	`0https://www.marza12.shop/football/2804490-mallorca-vs-athletic-bilbao.html
 Mallorca vs Athletic Bilbao	https://play7ba.peodlc.com/live/202_4395027_1.m3u8
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199396/afc-ajax-vs-go-ahead-eagles.html
@@ -119,6 +130,8 @@ Swansea City vs Birmingham City	`0https://www.marza12.shop/football/2798329-swan
 00:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209855/ca-osasuna-vs-real-oviedo.html
 Osasuna vs Real Oviedo	`0https://www.marza12.shop/football/2804491-osasuna-vs-real-oviedo.html
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 00:30 [g]English National League[z]	^-
 York City vs Southend United	`Fhttps://www.fctv33.net/football/english-national-league-match-4219376/york-city-vs-southend-united.html
@@ -161,6 +174,8 @@ NAC Breda vs NEC Nijmegen	`0https://www.marza12.shop/football/2790872-nac-breda-
 03:00 [y]Spanish La Liga[z]	^-
 Real Betis vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209803/real-betis-vs-villarreal-cf.html
 Real Betis vs Villarreal	`0https://www.marza12.shop/football/2804485-real-betis-vs-villarreal.html
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 03:00 [g]Scottish Cup[z]	^-
 Heart of Midlothian vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-cup-match-4319672/heart-of-midlothian-vs-falkirk.html
