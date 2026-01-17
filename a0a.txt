@@ -28,13 +28,6 @@
 
 17.01.2026	^-
 
-21:00 [y]Italian Serie A[z]	^-
-Udinese vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194567/udinese-vs-inter-milan.html
-Udinese vs Inter Milan	`0https://www.marza12.shop/football/2784691-udinese-vs-inter-milan.html
-Udinese vs Inter Milan	https://play7ba.peodlc.com/live/202_4392172_1.m3u8
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
 21:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199644/borussia-dortmund-vs-fc-st-pauli.html
 Borussia Dortmund vs FC St. Pauli	https://play7ba.peodlc.com/live/202_4392191_1.m3u8
@@ -58,15 +51,19 @@ Sky Live Event 4	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a93
 Liverpool vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193856/liverpool-vs-burnley.html
 Liverpool vs Burnley	`0https://www.marza12.shop/football/2789343-liverpool-vs-burnley.html
 Liverpool vs Burnley	https://play7ba.peodlc.com/live/202_4392161_1.m3u8
+PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
 Tottenham Hotspur vs West Ham Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193869/tottenham-hotspur-vs-west-ham-united.html
 Tottenham Hotspur vs West Ham Utd	`0https://www.marza12.shop/football/2789347-tottenham-hotspur-vs-west-ham-united.html
 Tottenham Hotspur vs West Ham Utd	https://play7ba.peodlc.com/live/202_4392159_1.m3u8
+PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 Sunderland AFC vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193877/sunderland-vs-crystal-palace.html
 Sunderland AFC vs Crystal Palace	`0https://www.marza12.shop/football/2789346-sunderland-afc-vs-crystal-palace.html
 Sunderland AFC vs Crystal Palace	https://play7ba.peodlc.com/live/202_4392160_1.m3u8
 Chelsea vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193941/chelsea-vs-brentford.html
 Chelsea vs Brentford	`0https://www.marza12.shop/football/2789341-chelsea-vs-brentford.html
 Chelsea vs Brentford	https://play7ba.peodlc.com/live/202_4392166_1.m3u8
+PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 Leeds United vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194188/leeds-united-vs-fulham.html
 Leeds United vs Fulham	`0https://www.marza12.shop/football/2789342-leeds-united-vs-fulham.html
 Leeds United vs Fulham	https://play7ba.peodlc.com/live/202_4392164_1.m3u8
