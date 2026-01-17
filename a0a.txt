@@ -28,16 +28,6 @@
 
 18.01.2026	^-
 
-02:45 [y]Italian Serie A[z]	^-
-Cagliari vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194853/cagliari-vs-juventus.html
-Cagliari vs Juventus	`0https://www.marza12.shop/football/2784683-cagliari-vs-juventus.html
-Cagliari vs Juventus	https://play7ba.peodlc.com/live/202_4395182_1.m3u8
-
-02:45 [y]Belgian Pro League[z]	^-
-Saint Gilloise vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199079/union-saint-gilloise-vs-kv-mechelen.html
-Saint Gilloise vs Mechelen	`0https://www.marza12.shop/football/2791884-saint-gilloise-vs-mechelen.html
-Saint Gilloise vs Mechelen	https://play7ba.peodlc.com/live/202_4392212_1.m3u8
-
 03:00 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199346/nac-breda-vs-nec-nijmegen.html
 NAC Breda vs NEC Nijmegen	`0https://www.marza12.shop/football/2790872-nac-breda-vs-nec-nijmegen.html
@@ -188,6 +178,9 @@ Lyon vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-42
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209746/real-sociedad-vs-fc-barcelona.html
+
+03:30 [g]Belgian Pro League[z]	^-
+Vitoria Guimaraes vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216117/vitoria-guimaraes-vs-fc-porto.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
