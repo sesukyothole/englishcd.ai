@@ -28,62 +28,6 @@
 
 17.01.2026	^-
 
-18:00 [g]Thai League 1[z]	^-
-Ayutthaya Utd vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320352/ayutthaya-united-vs-uthai-thani-forest.html
-Ayutthaya Utd vs Uthai Thani Forest	`0https://www.marza12.shop/football/2910309-ayutthaya-united-vs-uthai-thani-fc.html
-Ayutthaya Utd vs Uthai Thani Forest	https://play7ba.peodlc.com/live/202_4750434_1.m3u8
-
-18:30 [g]Thai League 1[z]	^-
-Chonburi Shark vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319748/chonburi-fc-vs-lamphun-warriors.html
-Chonburi Shark vs Lamphun Warrior	`0https://www.marza12.shop/football/2910310-chonburi-shark-fc-vs-lamphun-warrior.html
-Chonburi Shark vs Lamphun Warrior	https://play7ba.peodlc.com/live/202_4750436_1.m3u8
-
-18:30 [l]AFC U23 Asian Cup[z]	^-
-Uzbekistan vs China	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327461/uzbekistan-u23-vs-china-u23.html
-Uzbekistan vs China	`0https://www.marza12.shop/football/2922475-uzbekistan-u23-vs-china-u23.html
-Uzbekistan vs China	https://live5.msrktz.app/live/02456966.m3u8
-Uzbekistan vs China	https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-Uzbekistan vs China	https://play7ba.peodlc.com/live/202_4839398_1.m3u8?txSecret=ce34450805e0d955a50f11d32043215c&txTime=1768650058
-Uzbekistan vs China	https://live.uuzb1.live/rrty/hd-zh-1-4472830_gqzm.m3u8?txSecret=f02ad35ff4b47cbb46d2841d454c5090&txTime=696BC89D
-
-19:00 [g]Thai League 1[z]	^-
-Sukhothai vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320362/sukhothai-vs-pt-prachuap-fc.html
-Sukhothai vs Prachuap Khiri Khan	`0https://www.marza12.shop/football/2910311-sukhothai-vs-prachuap-khiri-khan.html
-Sukhothai vs Prachuap Khiri Khan	https://play7ba.peodlc.com/live/202_4750437_1.m3u8
-
-19:00 Liga 2	^-
-PSIS Semarang vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323739/psis-semarang-vs-deltras-sidoarjo.html
-
-19:15 Malaysian Cup	^-
-Melaka FC vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329552/melaka-fc-vs-sabah-fc.html
-Melaka FC vs Sabah	`0https://www.marza12.shop/football/2920213-melaka-fc-vs-sabah.html
-
-19:30 [y]English Premier League[z]	^-
-Manchester United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193894/manchester-united-vs-manchester-city.html
-Manchester United vs Manchester City	`0https://www.marza12.shop/football/2789344-manchester-united-vs-manchester-city.html
-Manchester United vs Manchester City	https://play7ba.peodlc.com/live/202_4392163_1.m3u8
-
-19:30 [g]English Football League[z]	^-
-Coventry City vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203889/coventry-city-vs-leicester-city.html
-Coventry City vs Leicester City	`0https://www.marza12.shop/football/2798320-coventry-city-vs-leicester-city.html
-Coventry City vs Leicester City	https://play7ba.peodlc.com/live/202_4392205_1.m3u8
-
-19:30 [g]English National League[z]	^-
-Hartlepool United vs Altrincham	`Fhttps://www.fctv33.net/football/english-national-league-match-4219443/hartlepool-united-vs-altrincham.html
-
-19:30 [g]Thai League 1[z]	^-
-Singha GB vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320350/kanchanaburi-power-fc-vs-muangthong-united.html
-Singha GB vs Muang Thong Utd	`0https://www.marza12.shop/football/2910312-dp-kanchanaburi-vs-muang-thong-united.html
-Singha GB vs Muang Thong Utd	https://play7ba.peodlc.com/live/202_4750438_1.m3u8
-
-20:00 [y]Spanish La Liga[z]	^-
-Real Madrid vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209651/real-madrid-vs-levante.html
-Real Madrid vs Levante	`0https://www.marza12.shop/football/2804492-real-madrid-vs-levante.html
-Real Madrid vs Levante	https://play7ba.peodlc.com/live/202_4395025_1.m3u8
-
-20:00 Malaysian Cup	^-
-Kelantan Warrior vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329265/kelantan-red-warrior-vs-dpmm-fc.html
-
 21:00 [y]Italian Serie A[z]	^-
 Udinese vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194567/udinese-vs-inter-milan.html
 Udinese vs Inter Milan	`0https://www.marza12.shop/football/2784691-udinese-vs-inter-milan.html
