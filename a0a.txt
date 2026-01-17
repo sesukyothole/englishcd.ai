@@ -182,8 +182,11 @@ Heart of Midlothian vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-cup-ma
 03:05 [y]French Ligue 1[z]	^-
 Angers vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200326/angers-sco-vs-marseille.html
 
-03:30 [y]Portuguese Primera Liga[z]	^-
+03:30 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216229/rio-ave-vs-benfica.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Tigres UANL vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322446/tigres-uanl-vs-toluca.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
