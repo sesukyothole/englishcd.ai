@@ -91,41 +91,56 @@ Udinese vs Inter Milan	https://play7ba.peodlc.com/live/202_4392172_1.m3u8
 
 21:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199644/borussia-dortmund-vs-fc-st-pauli.html
+Borussia Dortmund vs FC St. Pauli	https://play7ba.peodlc.com/live/202_4392191_1.m3u8
 TSG Hoffenheim vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199894/tsg-hoffenheim-vs-bayer-04-leverkusen.html
+TSG Hoffenheim vs Bayer Leverkusen	https://play7ba.peodlc.com/live/202_4392192_1.m3u8
 Hamburger SV vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199898/hamburger-sv-vs-borussia-monchengladbach.html
+Hamburger SV vs Br Monchengladbach	https://play7ba.peodlc.com/live/202_4392188_1.m3u8
 FC Koln vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199900/fc-kln-vs-1-fsv-mainz-05.html
+FC Koln vs FSV Mainz 05	https://play7ba.peodlc.com/live/202_4392194_1.m3u8
 VfL Wolfsburg vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199902/vfl-wolfsburg-vs-1-fc-heidenheim-1846.html
+VfL Wolfsburg vs 1. FC Heidenheim	https://play7ba.peodlc.com/live/202_4392185_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 Liverpool vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193856/liverpool-vs-burnley.html
 Liverpool vs Burnley	`0https://www.marza12.shop/football/2789343-liverpool-vs-burnley.html
+Liverpool vs Burnley	https://play7ba.peodlc.com/live/202_4392161_1.m3u8
 Tottenham Hotspur vs West Ham Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193869/tottenham-hotspur-vs-west-ham-united.html
 Tottenham Hotspur vs West Ham Utd	`0https://www.marza12.shop/football/2789347-tottenham-hotspur-vs-west-ham-united.html
+Tottenham Hotspur vs West Ham Utd	https://play7ba.peodlc.com/live/202_4392159_1.m3u8
 Sunderland AFC vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193877/sunderland-vs-crystal-palace.html
 Sunderland AFC vs Crystal Palace	`0https://www.marza12.shop/football/2789346-sunderland-afc-vs-crystal-palace.html
+Sunderland AFC vs Crystal Palace	https://play7ba.peodlc.com/live/202_4392160_1.m3u8
 Chelsea vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193941/chelsea-vs-brentford.html
 Chelsea vs Brentford	`0https://www.marza12.shop/football/2789341-chelsea-vs-brentford.html
+Chelsea vs Brentford	https://play7ba.peodlc.com/live/202_4392166_1.m3u8
 Leeds United vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194188/leeds-united-vs-fulham.html
 Leeds United vs Fulham	`0https://www.marza12.shop/football/2789342-leeds-united-vs-fulham.html
+Leeds United vs Fulham	https://play7ba.peodlc.com/live/202_4392164_1.m3u8
 
 22:00 [g]Belgian Pro League[z]	^-
 Zulte-Waregem vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198933/zulte-waregem-vs-racing-genk.html
 Zulte-Waregem vs Racing Genk	`0https://www.marza12.shop/football/2791880-zultewaregem-vs-racing-genk.html
+Zulte-Waregem vs Racing Genk	https://play7ba.peodlc.com/live/202_4392213_1.m3u8
 
 22:00 [g]English Football League[z]	^-
 Oxford United vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203745/oxford-united-vs-bristol-city.html
 Oxford United vs Bristol City	`0https://www.marza12.shop/football/2798322-oxford-united-vs-bristol-city.html
+Oxford United vs Bristol City	https://play7ba.peodlc.com/live/202_4392203_1.m3u8
 
 22:15 [y]Spanish La Liga[z]	^-
 Mallorca vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209748/rcd-mallorca-vs-athletic-club.html
 Mallorca vs Athletic Bilbao	`0https://www.marza12.shop/football/2804490-mallorca-vs-athletic-bilbao.html
+Mallorca vs Athletic Bilbao	https://play7ba.peodlc.com/live/202_4395027_1.m3u8
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199396/afc-ajax-vs-go-ahead-eagles.html
 AFC Ajax vs Go Ahead Eagles	`0https://www.marza12.shop/football/2790866-afc-ajax-vs-go-ahead-eagles.html
+AFC Ajax vs Go Ahead Eagles	https://play7ba.peodlc.com/live/202_4395040_1.m3u8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216235/gil-vicente-vs-nacional-da-madeira.html
+Gil Vicente vs Nacional da Madeira	https://play7ba.peodlc.com/live/202_4398493_1.m3u8
 
 22:30 [l]AFC U23 Asian Cup[z]	^-
 Australia vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327460/australia-u23-vs-south-korea-u23.html
@@ -138,6 +153,7 @@ Lens vs AJ Auxerre	`0https://www.marza12.shop/football/2800173-lens-vs-aj-auxerr
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Egypt vs Nigeria	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324611/egypt-vs-nigeria.html
 Egypt vs Nigeria	`0https://www.marza12.shop/football/2912522-egypt-vs-nigeria.html
+Egypt vs Nigeria	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 18.01.2026	^-
 
