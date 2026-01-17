@@ -28,37 +28,6 @@
 
 17.01.2026	^-
 
-22:00 [y]English Premier League[z]	^-
-Liverpool vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193856/liverpool-vs-burnley.html
-Liverpool vs Burnley	`0https://www.marza12.shop/football/2789343-liverpool-vs-burnley.html
-Liverpool vs Burnley	https://play7ba.peodlc.com/live/202_4392161_1.m3u8
-PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-Tottenham Hotspur vs West Ham Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193869/tottenham-hotspur-vs-west-ham-united.html
-Tottenham Hotspur vs West Ham Utd	`0https://www.marza12.shop/football/2789347-tottenham-hotspur-vs-west-ham-united.html
-Tottenham Hotspur vs West Ham Utd	https://play7ba.peodlc.com/live/202_4392159_1.m3u8
-PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
-Sunderland AFC vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193877/sunderland-vs-crystal-palace.html
-Sunderland AFC vs Crystal Palace	`0https://www.marza12.shop/football/2789346-sunderland-afc-vs-crystal-palace.html
-Sunderland AFC vs Crystal Palace	https://play7ba.peodlc.com/live/202_4392160_1.m3u8
-Chelsea vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193941/chelsea-vs-brentford.html
-Chelsea vs Brentford	`0https://www.marza12.shop/football/2789341-chelsea-vs-brentford.html
-Chelsea vs Brentford	https://play7ba.peodlc.com/live/202_4392166_1.m3u8
-PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-Leeds United vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194188/leeds-united-vs-fulham.html
-Leeds United vs Fulham	`0https://www.marza12.shop/football/2789342-leeds-united-vs-fulham.html
-Leeds United vs Fulham	https://play7ba.peodlc.com/live/202_4392164_1.m3u8
-
-22:00 [g]Belgian Pro League[z]	^-
-Zulte-Waregem vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198933/zulte-waregem-vs-racing-genk.html
-Zulte-Waregem vs Racing Genk	`0https://www.marza12.shop/football/2791880-zultewaregem-vs-racing-genk.html
-Zulte-Waregem vs Racing Genk	https://play7ba.peodlc.com/live/202_4392213_1.m3u8
-
-22:00 [g]English Football League[z]	^-
-Oxford United vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203745/oxford-united-vs-bristol-city.html
-Oxford United vs Bristol City	`0https://www.marza12.shop/football/2798322-oxford-united-vs-bristol-city.html
-Oxford United vs Bristol City	https://play7ba.peodlc.com/live/202_4392203_1.m3u8
-
 22:15 [y]Spanish La Liga[z]	^-
 Mallorca vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209748/rcd-mallorca-vs-athletic-club.html
 Mallorca vs Athletic Bilbao	`0https://www.marza12.shop/football/2804490-mallorca-vs-athletic-bilbao.html
@@ -97,6 +66,7 @@ Egypt vs Nigeria	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/cli
 00:00 [y]Italian Serie A[z]	^-
 Napoli vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194811/napoli-vs-sassuolo.html
 Napoli vs Sassuolo	`0https://www.marza12.shop/football/2784687-napoli-vs-sassuolo.html
+Napoli vs Sassuolo	https://live.vivo200.com/live/hd-en-1-4339720.flv?txSecret=79f9a88432ca56362f2918a548008631&txTime=696C06A6
 
 00:00 [g]Switzerland Super League[z]	^-
 Winterthur vs St. Gallen	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207197/winterthur-vs-st-gallen.html
