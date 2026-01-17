@@ -116,12 +116,18 @@ Egypt vs Nigeria	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/cli
 Napoli vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194811/napoli-vs-sassuolo.html
 Napoli vs Sassuolo	`0https://www.marza12.shop/football/2784687-napoli-vs-sassuolo.html
 
+00:00 [g]Switzerland Super League[z]	^-
+Winterthur vs St. Gallen	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207197/winterthur-vs-st-gallen.html
+Luzern vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207198/luzern-vs-lugano.html
+
 00:30 [y]English Premier League[z]	^-
 Nottingham Forest vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194184/nottingham-forest-vs-arsenal.html
 Nottingham Forest vs Arsenal	`0https://www.marza12.shop/football/2789345-nottingham-forest-vs-arsenal.html
+Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 00:30 [y]Bundesliga[z]	^-
 RB Leipzig vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199905/rb-leipzig-vs-fc-bayern-munich.html
+Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 
 00:30 [g]English Football League[z]	^-
 Swansea City vs Birmingham City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203560/swansea-city-vs-birmingham-city.html
