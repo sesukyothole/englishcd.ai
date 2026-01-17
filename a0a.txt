@@ -69,16 +69,20 @@ SportDigital Fussball https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/liv
 00:00 [y]Italian Serie A[z]	^-
 Napoli vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194811/napoli-vs-sassuolo.html
 Napoli vs Sassuolo	`0https://www.marza12.shop/football/2784687-napoli-vs-sassuolo.html
+Napoli vs Sassuolo	https://play7ba.peodlc.com/live/202_4395108_1.m3u8
 Napoli vs Sassuolo	https://live.vivo200.com/live/hd-en-1-4339720.flv?txSecret=79f9a88432ca56362f2918a548008631&txTime=696C06A6
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 00:00 [g]Switzerland Super League[z]	^-
 Winterthur vs St. Gallen	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207197/winterthur-vs-st-gallen.html
+Winterthur vs St. Gallen	https://play7ba.peodlc.com/live/202_4395107_1.m3u8
 Luzern vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207198/luzern-vs-lugano.html
+Luzern vs Lugano	https://play7ba.peodlc.com/live/202_4395110_1.m3u8
 
 00:15 [g]Belgian Pro League[z]	^-
 Westerlo vs Cercle Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198906/kvc-westerlo-vs-cercle-brugge.html
+Westerlo vs Cercle Brugge	https://play7ba.peodlc.com/live/202_4392209_1.m3u8
 
 00:30 [y]English Premier League[z]	^-
 Nottingham Forest vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194184/nottingham-forest-vs-arsenal.html
