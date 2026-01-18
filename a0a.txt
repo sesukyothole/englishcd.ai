@@ -38,6 +38,7 @@ Heracles Almelo vs Twente Enschede	https://play7ba.peodlc.com/live/202_4395036_1
 
 20:30 Liga 2	^-
 Persiraja Aceh vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323741/persiraja-aceh-vs-psms-medan.html
+Persiraja Aceh vs PSMS Medan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4118791
 Persiraja Aceh vs PSMS Medan	`0https://www.marza12.shop/football/2903894-persiraja-aceh-vs-psms-medan.html
 Persiraja Aceh vs PSMS Medan	https://bf.jlbflive.cc/live/322813_hd01.m3u8?txSecret=a1da0a808f8e1aaa18a6730476dc90ce&txTime=696cd351
 
@@ -75,11 +76,13 @@ Dende vs Antwerp	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matc
 Dende vs Antwerp	https://play7ba.peodlc.com/live/202_4392210_1.m3u8
 
 22:15 [g]Saudi Professional League[z]	^-
-Al Hazem vs Al-Qadsiah	`0https://www.marza12.shop/football/2852191-alhazm-vs-al-qadsiah.html
-Al Hazem vs Al-Qadsiah	https://play7ba.peodlc.com/live/202_4392024_1.m3u8
+Al Hazem vs Al-Qadisiyah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4091124
+Al Hazem vs Al-Qadisiyah	`0https://www.marza12.shop/football/2852191-alhazm-vs-al-qadsiah.html
+Al Hazem vs Al-Qadisiyah	https://play7ba.peodlc.com/live/202_4392024_1.m3u8
 
 22:15 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209924/atletico-madrid-vs-deportivo-alavs.html
+Atletico Madrid vs Deportivo Alavés	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4064602
 Atletico Madrid vs Deportivo Alavés	`0https://www.marza12.shop/football/2804484-atletico-madrid-vs-alaves.html
 Atletico Madrid vs Deportivo Alavés	https://play7ba.peodlc.com/live/202_4395029_1.m3u8
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
@@ -87,15 +90,19 @@ TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmz
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Santa Clara vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216234/santa-clara-vs-fc-famalicao.html
+Santa Clara vs FC Famalicao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4041461
 Santa Clara vs FC Famalicao	`0https://www.marza12.shop/football/2814881-santa-clara-vs-fc-famalicao.html
 Santa Clara vs FC Famalicao	https://play7ba.peodlc.com/live/202_4398491_1.m3u8
 
 22:30 [g]Switzerland Super League[z]	^-
+Grasshopper vs Thun	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4050813
 Grasshopper vs Thun	https://play7ba.peodlc.com/live/202_4395111_1.m3u8
-Basel vs Xiyong	https://play7ba.peodlc.com/live/202_4395112_1.m3u8
+Basel vs Sion	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4050814
+Basel vs Sion	https://play7ba.peodlc.com/live/202_4395112_1.m3u8
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 Feyenoord vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199341/feyenoord-vs-sparta-rotterdam.html
+Feyenoord vs Sparta Rotterdam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013662
 Feyenoord vs Sparta Rotterdam	`0https://www.marza12.shop/football/2790869-feyenoord-vs-sparta-rotterdam.html
 Feyenoord vs Sparta Rotterdam	https://play7ba.peodlc.com/live/202_4395043_1.m3u8
 
