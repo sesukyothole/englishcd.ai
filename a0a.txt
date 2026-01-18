@@ -28,27 +28,6 @@
 
 18.01.2026	^-
 
-18:15 [y]Netherlands Eredivisie[z]	^-
-SC Heerenveen vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199156/sc-heerenveen-vs-groningen.html
-SC Heerenveen vs Groningen	`0https://www.marza12.shop/football/2790870-sc-heerenveen-vs-groningen.html
-SC Heerenveen vs Groningen	https://play7ba.peodlc.com/live/202_4395034_1.m3u8
-
-18:30 [y]Italian Serie A[z]	^-
-Parma vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194706/parma-vs-genoa.html
-Parma vs Genoa	`0https://www.marza12.shop/football/2784688-parma-vs-genoa.html
-Parma vs Genoa	https://play7ba.peodlc.com/live/202_4395202_1.m3u8
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-
-18:30 [g]Thai League 1[z]	^-
-Ratchaburi FC vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319751/ratchaburi-fc-vs-nakhon-ratchasima-mazda-fc.html
-Ratchaburi FC vs Nakhon Ratchasima	`0https://www.marza12.shop/football/2910314-ratchaburi-fc-vs-nakhon-ratchasima.html
-Ratchaburi FC vs Nakhon Ratchasima	https://play7ba.peodlc.com/live/202_4750447_1.m3u8
-Rayong FC vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320268/rayong-fc-vs-port-fc.html
-Rayong FC vs Port FC	`0https://www.marza12.shop/football/2910315-rayong-fc-vs-port-fc.html
-Rayong FC vs Port FC	https://play7ba.peodlc.com/live/202_4750446_1.m3u8
-
 19:00 [g]Thai League 1[z]	^-
 BG Pathum Utd vs Bangkok Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319761/bg-pathum-united-vs-bangkok-united-fc.html
 BG Pathum Utd vs Bangkok Utd	`0https://www.marza12.shop/football/2910316-bg-pathum-united-vs-bangkok-united-fc.html
