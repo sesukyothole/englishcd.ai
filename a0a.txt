@@ -28,41 +28,6 @@
 
 18.01.2026	^-
 
-22:00 [g]Belgian Pro League[z]	^-
-Dende vs Antwerp	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4045769
-Dende vs Antwerp	https://play7ba.peodlc.com/live/202_4392210_1.m3u8
-
-22:15 [g]Saudi Professional League[z]	^-
-Al Hazem vs Al-Qadisiyah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4091124
-Al Hazem vs Al-Qadisiyah	`0https://www.marza12.shop/football/2852191-alhazm-vs-al-qadsiah.html
-Al Hazem vs Al-Qadisiyah	https://play7ba.peodlc.com/live/202_4392024_1.m3u8
-
-22:15 [y]Spanish La Liga[z]	^-
-Atletico Madrid vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209924/atletico-madrid-vs-deportivo-alavs.html
-Atletico Madrid vs Deportivo Alavés	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4064602
-Atletico Madrid vs Deportivo Alavés	`0https://www.marza12.shop/football/2804484-atletico-madrid-vs-alaves.html
-Atletico Madrid vs Deportivo Alavés	https://play7ba.peodlc.com/live/202_4395029_1.m3u8
-Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-Santa Clara vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216234/santa-clara-vs-fc-famalicao.html
-Santa Clara vs FC Famalicao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4041461
-Santa Clara vs FC Famalicao	`0https://www.marza12.shop/football/2814881-santa-clara-vs-fc-famalicao.html
-Santa Clara vs FC Famalicao	https://play7ba.peodlc.com/live/202_4398491_1.m3u8
-
-22:30 [g]Switzerland Super League[z]	^-
-Grasshopper vs Thun	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4050813
-Grasshopper vs Thun	https://play7ba.peodlc.com/live/202_4395111_1.m3u8
-Basel vs Sion	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4050814
-Basel vs Sion	https://play7ba.peodlc.com/live/202_4395112_1.m3u8
-
-22:45 [y]Netherlands Eredivisie[z]	^-
-Feyenoord vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199341/feyenoord-vs-sparta-rotterdam.html
-Feyenoord vs Sparta Rotterdam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013662
-Feyenoord vs Sparta Rotterdam	`0https://www.marza12.shop/football/2790869-feyenoord-vs-sparta-rotterdam.html
-Feyenoord vs Sparta Rotterdam	https://play7ba.peodlc.com/live/202_4395043_1.m3u8
-
 23:15 [y]French Ligue 1[z]	^-
 Rennes vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200236/stade-rennais-fc-vs-havre-athletic-club.html
 Rennes vs Le Havre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013068
@@ -135,12 +100,14 @@ Sint-Truidense vs Oud Heverlee	`0https://www.marza12.shop/football/2791879-sintt
 
 02:00 [l]CAF Africa Cup of Nations[z]	^-
 Senegal vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324610/senegal-vs-morocco.html
+Senegal vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4105612
 Senegal vs Morocco	`0https://www.marza12.shop/football/2912523-senegal-vs-morocco.html
 Senegal vs Morocco	https://play7ba.peodlc.com/live/202_4804092_1.m3u8
 beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 02:45 [y]Italian Serie A[z]	^-
 AC Milan vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194800/ac-milan-vs-lecce.html
+AC Milan vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4087841
 AC Milan vs Lecce	`0https://www.marza12.shop/football/2784686-ac-milan-vs-lecce.html
 AC Milan vs Lecce	https://play7ba.peodlc.com/live/202_4398675_1.m3u8
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -149,11 +116,13 @@ CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wm
 
 02:45 [y]French Ligue 1[z]	^-
 Lyon vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200343/lyon-vs-stade-brestois-29.html
+Lyon vs Stade Brestois	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4013074
 Lyon vs Stade Brestois	`0https://www.marza12.shop/football/2800174-lyon-vs-stade-brestois.html
 Lyon vs Stade Brestois	https://play7ba.peodlc.com/live/202_4398377_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209746/real-sociedad-vs-fc-barcelona.html
+Real Sociedad vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4064613
 Real Sociedad vs FC Barcelona	`0https://www.marza12.shop/football/2804493-real-sociedad-vs-fc-barcelona.html
 Real Sociedad vs FC Barcelona	https://play7ba.peodlc.com/live/202_4395026_1.m3u8
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
@@ -161,6 +130,7 @@ TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmz
 
 03:30 [g]Belgian Pro League[z]	^-
 Vitoria Guimaraes vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216117/vitoria-guimaraes-vs-fc-porto.html
+Vitoria Guimaraes vs FC Porto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4041465
 Vitoria Guimaraes vs FC Porto	`0https://www.marza12.shop/football/2814884-vitoria-guimaraes-vs-fc-porto.html
 Vitoria Guimaraes vs FC Porto	https://play7ba.peodlc.com/live/202_4398488_1.m3u8
 
