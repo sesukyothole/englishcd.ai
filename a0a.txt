@@ -87,6 +87,8 @@ KAA Gent vs Anderlecht	`0https://www.marza12.shop/football/2791883-kaa-gent-vs-a
 20:00 [y]Spanish La Liga[z]	^-
 Getafe vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209624/getafe-vs-valencia-cf.html
 Getafe vs Valencia	`0https://www.marza12.shop/football/2804489-getafe-vs-valencia.html
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 Volendam vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199124/volendam-vs-fc-utrecht.html
@@ -114,6 +116,8 @@ VfB Stuttgart vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match
 22:15 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209924/atletico-madrid-vs-deportivo-alavs.html
 Atletico Madrid vs Deportivo Alavés	`0https://www.marza12.shop/football/2804484-atletico-madrid-vs-alaves.html
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Santa Clara vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216234/santa-clara-vs-fc-famalicao.html
@@ -149,6 +153,8 @@ Charleroi vs Standard Liege	`0https://www.marza12.shop/football/2791878-charlero
 00:30 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209681/rc-celta-vs-rayo-vallecano.html
 Real Celta Vigo vs Rayo Vallecano	`0https://www.marza12.shop/football/2804486-celta-vigo-vs-rayo-vallecano.html
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 00:30 [g]Saudi Professional League[z]	^-
 NEOM Sports Club vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256216/neom-sports-club-vs-al-hilal.html
@@ -169,6 +175,7 @@ Sint-Truidense vs Oud Heverlee	`0https://www.marza12.shop/football/2791879-sintt
 02:00 [l]CAF Africa Cup of Nations[z]	^-
 Senegal vs Morocco	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4324610/senegal-vs-morocco.html
 Senegal vs Morocco	`0https://www.marza12.shop/football/2912523-senegal-vs-morocco.html
+beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 02:45 [y]Italian Serie A[z]	^-
 AC Milan vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194800/ac-milan-vs-lecce.html
@@ -181,6 +188,8 @@ Lyon vs Stade Brestois	`0https://www.marza12.shop/football/2800174-lyon-vs-stade
 03:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209746/real-sociedad-vs-fc-barcelona.html
 Real Sociedad vs FC Barcelona	`0https://www.marza12.shop/football/2804493-real-sociedad-vs-fc-barcelona.html
+Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 03:30 [g]Belgian Pro League[z]	^-
 Vitoria Guimaraes vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216117/vitoria-guimaraes-vs-fc-porto.html
