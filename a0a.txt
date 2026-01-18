@@ -43,6 +43,7 @@ Persiraja Aceh vs PSMS Medan	https://bf.jlbflive.cc/live/322813_hd01.m3u8?txSecr
 Wolves vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194186/wolverhampton-wanderers-vs-newcastle-united.html
 Wolves vs Newcastle United	`0https://www.marza12.shop/football/2789348-wolves-vs-newcastle-united.html
 Wolves vs Newcastle United	https://play7ba.peodlc.com/live/202_4392158_1.m3u8
+Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 21:00 [y]Italian Serie A[z]	^-
 Bologna vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194774/bologna-vs-fiorentina.html
@@ -95,6 +96,7 @@ Nantes vs Paris FC	`0https://www.marza12.shop/football/2800176-nantes-vs-paris-f
 23:30 [y]English Premier League[z]	^-
 Aston Villa vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194183/aston-villa-vs-everton.html
 Aston Villa vs Everton	`0https://www.marza12.shop/football/2789339-aston-villa-vs-everton.html
+Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 
 23:30 [y]Bundesliga[z]	^-
 FC Augsburg vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199896/fc-augsburg-vs-sc-freiburg.html
