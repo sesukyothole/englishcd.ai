@@ -28,11 +28,6 @@
 
 18.01.2026	^-
 
-18:00 [g]Thai League 1[z]	^-
-Buriram Utd vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320361/buriram-united-vs-chiangrai-united.html
-Buriram Utd vs Chiangrai Utd	`0https://www.marza12.shop/football/2910313-buriram-united-vs-chiangrai-united.html
-Buriram Utd vs Chiangrai Utd	https://play7ba.peodlc.com/live/202_4750445_1.m3u8
-
 18:15 [y]Netherlands Eredivisie[z]	^-
 SC Heerenveen vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199156/sc-heerenveen-vs-groningen.html
 SC Heerenveen vs Groningen	`0https://www.marza12.shop/football/2790870-sc-heerenveen-vs-groningen.html
@@ -44,6 +39,7 @@ Parma vs Genoa	`0https://www.marza12.shop/football/2784688-parma-vs-genoa.html
 Parma vs Genoa	https://play7ba.peodlc.com/live/202_4395202_1.m3u8
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 18:30 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319751/ratchaburi-fc-vs-nakhon-ratchasima-mazda-fc.html
@@ -68,7 +64,7 @@ KAA Gent vs Anderlecht	`0https://www.marza12.shop/football/2791883-kaa-gent-vs-a
 KAA Gent vs Anderlecht	https://play7ba.peodlc.com/live/202_4392211_1.m3u8
 
 20:00 [g]Switzerland Super League[z]	^-
-Servette vs Zurich	https://www.fctv33.net/football/switzerland-super-league-match-4207166/servette-vs-fc-zurich-01-2026.html
+Servette vs Zurich	https://www.fctv33.net/football/switzerland-super-league-match-4207166/servette-vs-fc-zurich.html
 Servette vs Zurich	https://play7ba.peodlc.com/live/202_4395109_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
@@ -203,8 +199,14 @@ TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmz
 Vitoria Guimaraes vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216117/vitoria-guimaraes-vs-fc-porto.html
 Vitoria Guimaraes vs FC Porto	`0https://www.marza12.shop/football/2814884-vitoria-guimaraes-vs-fc-porto.html
 
+06:00 [g]Mexico Liga MX[z]	^-
+Santos Laguna vs FC Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322433/santos-laguna-vs-fc-juarez.html
+
 16:00 Malaysian Cup	^-
-UM-Damansara United vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329326/um-damansara-united-vs-terengganu-fc.html
+UM-Damansara Ut vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329326/um-damansara-united-vs-terengganu-fc.html
+
+19:00 Liga 2	^-
+Kendal Tornado vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323746/kendal-tornado-fc-vs-persipal-palu.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
