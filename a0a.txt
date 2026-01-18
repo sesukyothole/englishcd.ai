@@ -105,6 +105,13 @@ Strasbourg vs Metz	https://play7ba.peodlc.com/live/202_4398372_1.m3u8
 VfB Stuttgart vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199897/vfb-stuttgart-vs-1-fc-union-berlin.html
 VfB Stuttgart vs Union Berlin	https://play7ba.peodlc.com/live/202_4392187_1.m3u8
 
+22:00 [g]Belgian Pro League[z]	^-
+Dende vs Antwerp	https://play7ba.peodlc.com/live/202_4392210_1.m3u8
+
+22:15 [g]Saudi Professional League[z]	^-
+Al Hazem vs Al-Qadsiah	`0https://www.marza12.shop/football/2852191-alhazm-vs-al-qadsiah.html
+Al Hazem vs Al-Qadsiah	https://play7ba.peodlc.com/live/202_4392024_1.m3u8
+
 22:15 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209924/atletico-madrid-vs-deportivo-alavs.html
 Atletico Madrid vs Deportivo Alavés	`0https://www.marza12.shop/football/2804484-atletico-madrid-vs-alaves.html
@@ -115,10 +122,16 @@ TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmz
 22:30 [g]Portuguese Primera Liga[z]	^-
 Santa Clara vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216234/santa-clara-vs-fc-famalicao.html
 Santa Clara vs FC Famalicao	`0https://www.marza12.shop/football/2814881-santa-clara-vs-fc-famalicao.html
+Santa Clara vs FC Famalicao	https://play7ba.peodlc.com/live/202_4398491_1.m3u8
+
+22:30 [g]Switzerland Super League[z]	^-
+Grasshopper vs Thun	https://play7ba.peodlc.com/live/202_4395111_1.m3u8
+Basel vs Xiyong	https://play7ba.peodlc.com/live/202_4395112_1.m3u8
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 Feyenoord vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199341/feyenoord-vs-sparta-rotterdam.html
 Feyenoord vs Sparta Rotterdam	`0https://www.marza12.shop/football/2790869-feyenoord-vs-sparta-rotterdam.html
+Feyenoord vs Sparta Rotterdam	https://play7ba.peodlc.com/live/202_4395043_1.m3u8
 
 23:15 [y]French Ligue 1[z]	^-
 Rennes vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200236/stade-rennais-fc-vs-havre-athletic-club.html
