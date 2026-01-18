@@ -28,16 +28,13 @@
 
 18.01.2026	^-
 
-13:00 [g]Australia A-League[z]	^-
-Sydney FC vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282180/sydney-fc-vs-wellington-phoenix.html
-Sydney FC vs Wellington Phoenix	`0https://www.marza12.shop/football/2871726-sydney-fc-vs-wellington-phoenix.html
-Sydney FC vs Wellington Phoenix	https://play7ba.peodlc.com/live/202_4395180_1.m3u8
-
 15:30 Liga 2	^-
 Persiku Kudus vs Persiba Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323717/persiku-kudus-vs-persiba-balikpapan.html
 Persiku Kudus vs Persiba Balikpapan	`0https://www.marza12.shop/football/2903892-persiku-kudus-vs-persiba-balikpapan.html
+Persiku Kudus vs Persiba Balikpapan	https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=3e284ead575625bf28c42914959a6fee&txTime=696c8f9d
 PSS Sleman vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323736/pss-sleman-vs-persela-lamongan.html
 PSS Sleman vs Persela Lamongan	`0https://www.marza12.shop/football/2903893-pss-sleman-vs-persela-lamongan.html
+PSS Sleman vs Persela Lamongan	https://live5.msrktz.app/live/99121525.m3u8
 
 16:00 Malaysian Cup	^-
 Penang vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329551/penang-fc-vs-kuching-city-fc.html
