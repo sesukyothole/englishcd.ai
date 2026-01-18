@@ -28,44 +28,6 @@
 
 19.01.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Torino vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194576/torino-vs-as-roma.html
-Torino vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4087630
-Torino vs AS Roma	`0https://www.marza12.shop/football/2784690-torino-vs-as-roma.html
-Torino vs AS Roma	https://play7ba.peodlc.com/live/202_4398477_1.m3u8
-CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-
-00:30 [g]Belgian Pro League[z]	^-
-Charleroi vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199060/rc-sporting-charleroi-vs-standard-liege.html
-Charleroi vs Standard Liege	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4045760
-Charleroi vs Standard Liege	`0https://www.marza12.shop/football/2791878-charleroi-vs-standard-liege.html
-Charleroi vs Standard Liege	https://play7ba.peodlc.com/live/202_4392214_1.m3u8
-
-00:30 [y]Spanish La Liga[z]	^-
-Real Celta Vigo vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209681/rc-celta-vs-rayo-vallecano.html
-Real Celta Vigo vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4064605
-Real Celta Vigo vs Rayo Vallecano	`0https://www.marza12.shop/football/2804486-celta-vigo-vs-rayo-vallecano.html
-Real Celta Vigo vs Rayo Vallecano	https://play7ba.peodlc.com/live/202_4395033_1.m3u8
-Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
-00:30 [g]Saudi Professional League[z]	^-
-NEOM Sports Club vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256216/neom-sports-club-vs-al-hilal.html
-NEOM Sports Club vs Al Hilal SFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4091236
-NEOM Sports Club vs Al Hilal SFC	`0https://www.marza12.shop/football/2852198-neom-sc-vs-al-hilal.html
-NEOM Sports Club vs Al Hilal SFC	https://play7ba.peodlc.com/live/202_4392025_1.m3u8
-
-00:30 [g]Scottish Cup[z]	^-
-Auchinleck Talbot vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-cup-match-4319668/auchinleck-talbot-vs-celtic-fc.html
-Auchinleck Talbot vs Celtic FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4066433
-Auchinleck Talbot vs Celtic FC	`0https://www.marza12.shop/football/2905441-auchinleck-talbot-vs-celtic-fc.html
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-CD Tondela vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215973/cd-tondela-vs-sporting-braga.html
-CD Tondela vs Sporting Braga	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4041464
-CD Tondela vs Sporting Braga	`0https://www.marza12.shop/football/2814883-cd-tondela-vs-sporting-braga.html
-CD Tondela vs Sporting Braga	https://play7ba.peodlc.com/live/202_4398489_1.m3u8
-
 01:15 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199051/sint-truidense-vs-oud-heverlee-leuven.html
 Sint-Truidense vs Oud Heverlee	``3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4045765
