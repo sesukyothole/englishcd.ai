@@ -28,53 +28,42 @@
 
 19.01.2026	^-
 
-05:00 [g]Copa Argentina[z]	^-
-Indep Rivadavia vs Estudiantes Caseros	`Fhttps://www.fctv33.net/football/copa-argentina-match-4330781/independiente-rivadavia-vs-estudiantes-de-caseros.html
-Indep Rivadavia vs Estudiantes Caseros	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4069004
-Indep Rivadavia vs Estudiantes Caseros	`0https://www.marza12.shop/football/2918499-independiente-rivadavia-vs-estudiantes-de-caseros.html
-
-06:00 [g]Mexico Liga MX[z]	^-
-Santos Laguna vs FC Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322433/santos-laguna-vs-fc-juarez.html
-Santos Laguna vs FC Juarez	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4091308
-Santos Laguna vs FC Juarez	`0https://www.marza12.shop/football/2911718-santos-laguna-vs-fc-juarez.html
-Santos Laguna vs FC Juarez	https://play7ba.peodlc.com/live/202_4777088_1.m3u8
-
-07:15 [g]Copa Argentina[z]	^-
-Lanus vs Sarmiento de La Banda	`Fhttps://www.fctv33.net/football/copa-argentina-match-4330782/club-atltico-lans-vs-sarmiento-de-la-banda.html
-Lanus vs Sarmiento de La Banda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4070622
-Lanus vs Sarmiento de La Banda	`0https://www.marza12.shop/football/2918500-lanus-vs-sarmiento-de-la-banda.html
-
-08:06 [g]Mexico Liga MX[z]	^-
-Pachuca vs Club America	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322893/pachuca-vs-club-america.html
-Pachuca vs Club America	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093666
-Pachuca vs Club America	`0https://www.marza12.shop/football/2911719-pachuca-vs-club-america.html
-Pachuca vs Club America	https://play7ba.peodlc.com/live/202_4777089_1.m3u8
-
 16:00 Malaysian Cup	^-
 UM-Damansara Ut vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329326/um-damansara-united-vs-terengganu-fc.html
+UM-Damansara Ut vs Terengganu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4106824
+UM-Damansara Ut vs Terengganu	`0https://www.marza12.shop/football/2920218-umdamansara-united-vs-terengganu.html
 
 19:00 Liga 2	^-
 Kendal Tornado vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323746/kendal-tornado-fc-vs-persipal-palu.html
+Kendal Tornado vs Persipal Palu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4094812
+Kendal Tornado vs Persipal Palu	`0https://www.marza12.shop/football/2903895-beigan-baru-tornado-vs-persipal-palu.html
 
 20:00 Malaysian Cup	^-
 Kelantan United vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329264/kelantan-the-real-warriors-vs-selangor-fc.html
+Kelantan United vs Selangor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4106828
+Kelantan United vs Selangor	`0https://www.marza12.shop/football/2920219-kelantan-united-vs-selangor.html
 
 20.01.2026	^-
 
 00:30 [y]Italian Serie A[z]	^-
 Cremonese vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194854/cremonese-vs-hellas-verona.html
+Cremonese vs Verona	`0https://www.marza12.shop/football/2784684-cremonese-vs-verona.html
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194919/lazio-vs-como.html
+Lazio vs Como	`0https://www.marza12.shop/football/2784685-lazio-vs-como.html
 
 03:00 [y]English Premier League[z]	^-
 Brighton Hove vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193879/brighton-hove-albion-vs-bournemouth-afc.html
+Brighton Hove vs Bournemouth AFC	`0https://www.marza12.shop/football/2789340-brighton-hove-albion-vs-afc-bournemouth.html
 
 03:00 [y]Spanish La Liga[z]	^-
 Elche vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209923/elche-vs-sevilla-fc.html
+Elche vs Sevilla	`0https://www.marza12.shop/football/2804487-elche-vs-sevilla.html
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216245/cf-estrela-amadora-sad-vs-estoril.html
+Estrela da Amadora vs Estoril	`0https://www.marza12.shop/football/2814878-estrela-da-amadora-vs-estoril.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
