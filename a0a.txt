@@ -31,22 +31,27 @@
 00:30 [y]Italian Serie A[z]	^-
 Cremonese vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194854/cremonese-vs-hellas-verona.html
 Cremonese vs Verona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4092764
+Cremonese vs Verona	https://play7ba.peodlc.com/live/202_4401868_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194919/lazio-vs-como.html
 Lazio vs Como	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4092766
+Lazio vs Como	https://play7ba.peodlc.com/live/202_4401872_1.m3u8
 
 03:00 [y]English Premier League[z]	^-
 Brighton Hove vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193879/brighton-hove-albion-vs-bournemouth-afc.html
 Brighton Hove vs Bournemouth AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4059943
+Brighton Hove vs Bournemouth AFC	https://play7ba.peodlc.com/live/202_4392165_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Elche vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209923/elche-vs-sevilla-fc.html
 Elche vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4064614
+Elche vs Sevilla	https://play7ba.peodlc.com/live/202_4395032_1.m3u8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216245/cf-estrela-amadora-sad-vs-estoril.html
 Estrela da Amadora vs Estoril	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4040514
+Estrela da Amadora vs Estoril	https://play7ba.peodlc.com/live/202_4398494_1.m3u8
 
 18:30 [l]AFC U23 Asian Cup[z]	^-
 Japan vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327459/japan-u23-vs-south-korea-u23.html
