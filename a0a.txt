@@ -369,42 +369,26 @@ Eleven Sports 1 🇵🇹	`0https://sportsonline.si/channels/pt/eleven1.php
 Eleven Sports 2 🇵🇹	`0https://sportsonline.si/channels/pt/eleven2.php
 Eleven Sports 3 🇵🇹	`0https://sportsonline.si/channels/pt/eleven3.php
 
-Sports 1 🇬🇧	`0https://sportzonline.si/channels/hd/hd1.php
-Sports 2 🇬🇧	`0https://sportzonline.si/channels/hd/hd2.php
-Sports 3 🇩🇪	`0https://sportzonline.si/channels/hd/hd3.php
-Sports 4 🇬🇧	`0https://sportzonline.si/channels/hd/hd4.php
-Sports 5 🇬🇧	`0https://sportzonline.si/channels/hd/hd5.php
-Sports 6 🇪🇸	`0https://sportzonline.si/channels/hd/hd6.php
-Sports 7 🇮🇹	`0https://sportzonline.si/channels/hd/hd7.php
-Sports 8 🇬🇧	`0https://sportzonline.si/channels/hd/hd8.php
-Sports 9 🇬🇧	`0https://sportzonline.si/channels/hd/hd9.php
-Sports 10 🇫🇷	`0https://sportzonline.si/channels/hd/hd10.php
-Sports 11 🇬🇧	`0https://sportzonline.si/channels/hd/hd11.php
+Sports 1 🇬🇧	`0https://sportsonline.si/channels/hd/hd1.php
+Sports 2 🇬🇧	`0https://sportsonline.si/channels/hd/hd2.php
+Sports 3 🇩🇪	`0https://sportsonline.si/channels/hd/hd3.php
+Sports 4 🇬🇧	`0https://sportsonline.si/channels/hd/hd4.php
+Sports 5 🇬🇧	`0https://sportsonline.si/channels/hd/hd5.php
+Sports 6 🇪🇸	`0https://sportsonline.si/channels/hd/hd6.php
+Sports 7 🇮🇹	`0https://sportsonline.si/channels/hd/hd7.php
+Sports 8 🇬🇧	`0https://sportsonline.si/channels/hd/hd8.php
+Sports 9 🇬🇧	`0https://sportsonline.si/channels/hd/hd9.php
+Sports 10 🇫🇷	`0https://sportsonline.si/channels/hd/hd10.php
+Sports 11 🇬🇧	`0https://sportsonline.si/channels/hd/hd11.php
 
-Sports 1 🇧🇷	`0https://sportzonline.si/channels/bra/br1.php
-Sports 2 🇧🇷	`0https://sportzonline.si/channels/bra/br2.php
-Sports 3 🇧🇷	`0https://sportzonline.si/channels/bra/br3.php
-Sports 4 🇧🇷	`0https://sportzonline.si/channels/bra/br4.php
-Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
-Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
-Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
-Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
-
-	^-
-🇺🇸 Fox Soccer Plus 👇	00!0!1/50616?zyy
-[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
-
-^=	^-
-^=Fox Sports USA 1 👇	!zb!39
-^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
-
-^=	^-
-^=stream-east	`0https://stream-east.soccer/
-^=soccer-100	`0https://soccer-100.net/
-^=Live Day	`0https://dlhd.click/
-^=Jala Live	`0https://hanamas.com/
-^=Huhu.To	`0https://huhu.to/
-^=espn	`1https://streamtp11.com/global1.php?stream=espn
+Sports 1 🇧🇷	`0https://sportsonline.si/channels/bra/br1.php
+Sports 2 🇧🇷	`0https://sportsonline.si/channels/bra/br2.php
+Sports 3 🇧🇷	`0https://sportsonline.si/channels/bra/br3.php
+Sports 4 🇧🇷	`0https://sportsonline.si/channels/bra/br4.php
+Sports 5 🇧🇷	`0https://sportsonline.si/channels/bra/br5.php
+Sports 6 🇧🇷	`0https://sportsonline.si/channels/bra/br6.php
+Sports 7 🇧🇷	`0https://sportsonline.si/channels/bra/br7.php
+Sports 8 🇧🇷	`0https://sportsonline.si/channels/bra/br8.php
 
 	^-
 LaLiga TV	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
@@ -1024,6 +1008,22 @@ ESPN 🇺🇸	09!08b00!00/40000011?zyy
 NBA TV 🇺🇸	09!08b00!00/40000031?zyy
 TSN 1 🇨🇦	09!08b00!00/6000001?zyy
 TSN 3 🇨🇦	09!08b00!00/6000003?zyy
+
+	^-
+🇺🇸 Fox Soccer Plus 👇	00!0!1/50616?zyy
+[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
+
+^=	^-
+^=Fox Sports USA 1 👇	!zb!39
+^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
+
+^=	^-
+^=stream-east	`0https://stream-east.soccer/
+^=soccer-100	`0https://soccer-100.net/
+^=Live Day	`0https://dlhd.click/
+^=Jala Live	`0https://hanamas.com/
+^=Huhu.To	`0https://huhu.to/
+^=espn	`1https://streamtp11.com/global1.php?stream=espn
 
 	^-
 ^#[]👇Non SSL http (Mixed Mode) Streaming!👇[z]	^-
