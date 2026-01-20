@@ -58,6 +58,24 @@ Sporting CP vs Paris Saint Germain	https://play7ba.peodlc.com/live/202_3960683_1
 Villarreal vs AFC Ajax	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283690/villarreal-cf-vs-afc-ajax.html
 Villarreal vs AFC Ajax	https://play7ba.peodlc.com/live/202_3960678_1.m3u8
 
+18:00 [g]Thai League Cup[z]	^-
+Buriram Utd vs Prachuap Khiri	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4329968/buriram-united-vs-pt-prachuap-fc.html
+
+19:00 [g]Thai League Cup[z]	^-
+Muang Thong Utd vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4329825/muangthong-united-vs-bg-pathum-united.html
+
+22.01.2026	^-
+
+00:30 [g]Saudi Professional League[z]	^-
+Dhamk vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256252/damac-vs-al-nassr-fc.html
+
+00:45 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199374/az-alkmaar-vs-excelsior-sbv.html
+
+00:45 [y]UEFA Champions League[z]	^-
+Qarabag vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268400/qarabag-vs-eintracht-frankfurt.html
+Galatasaray vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283686/galatasaray-vs-atletico-madrid.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
