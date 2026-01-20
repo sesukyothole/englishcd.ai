@@ -46,6 +46,15 @@ AZ Alkmaar vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-erediv
 Qarabag vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268400/qarabag-vs-eintracht-frankfurt.html
 Galatasaray vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283686/galatasaray-vs-atletico-madrid.html
 
+03:00 [y]UEFA Champions League[z]	^-
+Atalanta vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268474/atalanta-vs-athletic-club.html
+Bayern Munchen vs Saint Gilloise	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283680/fc-bayern-munich-vs-union-saint-gilloise.html
+Chelsea vs Pafos FC	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283681/chelsea-vs-pafos-fc.html
+Juventus vs Benfica	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283682/juventus-vs-benfica.html
+Marseille vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283683/marseille-vs-liverpool.html
+Newcastle United vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283684/newcastle-united-vs-psv-eindhoven.html
+Slavia Praha vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283685/slavia-praha-vs-fc-barcelona.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
