@@ -28,15 +28,14 @@
 
 21.01.2026	^-
 
-18:00 [g]Thai League Cup[z]	^-
-Buriram Utd vs Prachuap Khiri	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4329968/buriram-united-vs-pt-prachuap-fc.html
-Buriram Utd vs Prachuap Khiri	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4126149
-Buriram Utd vs Prachuap Khiri	https://live.vivo200.com/live/sd-1-4475965.m3u8?txSecret=189f5921f9ac0a46f378faa8ceb02d6c&txTime=6970F817
-
 19:00 [g]Thai League Cup[z]	^-
 Muang Thong Utd vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4329825/muangthong-united-vs-bg-pathum-united.html
 Muang Thong Utd vs BG Pathum Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4126148
 Muang Thong Utd vs BG Pathum Utd	https://live.vivo200.com/live/sd-1-4475966.m3u8?txSecret=c60e5042b545e2c02040b64427aa1433&txTime=69710623
+
+22:30 [g]Saudi Professional League[z]	^-
+Al-Akhdoud vs Al-Riyadh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256250/al-okhdood-vs-al-riyadh.html
+Al-Akhdoud vs Al-Riyadh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4102031
 
 22.01.2026	^-
 
