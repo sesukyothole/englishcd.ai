@@ -26,17 +26,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-21.01.2026	^-
-
-22:30 [g]Saudi Professional League[z]	^-
-Al-Akhdoud vs Al-Riyadh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256250/al-okhdood-vs-al-riyadh.html
-Al-Akhdoud vs Al-Riyadh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4102031
-
 22.01.2026	^-
-
-00:30 [g]Saudi Professional League[z]	^-
-Dhamk vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256252/damac-vs-al-nassr-fc.html
-Dhamk vs Al Nassr FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4102082
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199374/az-alkmaar-vs-excelsior-sbv.html
@@ -50,12 +40,19 @@ Galatasaray vs Atletico Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?
 
 03:00 [y]UEFA Champions League[z]	^-
 Atalanta vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268474/atalanta-vs-athletic-club.html
+Atalanta vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981208
 Bayern Munchen vs Saint Gilloise	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283680/fc-bayern-munich-vs-union-saint-gilloise.html
+Bayern Munchen vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981211
 Chelsea vs Pafos FC	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283681/chelsea-vs-pafos-fc.html
+Chelsea vs Pafos FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981218
 Juventus vs Benfica	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283682/juventus-vs-benfica.html
+Juventus vs Benfica	`https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981219
 Marseille vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283683/marseille-vs-liverpool.html
+Marseille vs Liverpool	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981225
 Newcastle United vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283684/newcastle-united-vs-psv-eindhoven.html
+Newcastle United vs PSV Eindhoven	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981222
 Slavia Praha vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283685/slavia-praha-vs-fc-barcelona.html
+Slavia Praha vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981230
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
