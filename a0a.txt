@@ -315,6 +315,7 @@ FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 DAZN 1 🇮🇹	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 ESPN 🇦🇷 1	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+ESPN 🇦🇷 2	`0https://live.samuraitv.biz.id/p/espn2_31.html
 ESPN 🇦🇷 2	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd!!6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 ESPN 🇦🇷 3	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd!!8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
 ESPN 🇦🇷 4	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd!!034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
