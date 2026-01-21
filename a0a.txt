@@ -28,19 +28,6 @@
 
 22.01.2026	^-
 
-00:45 [y]Netherlands Eredivisie[z]	^-
-AZ Alkmaar vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199374/az-alkmaar-vs-excelsior-sbv.html
-AZ Alkmaar vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4023879
-AZ Alkmaar vs Excelsior SBV	https://play7ba.peodlc.com/live/202_4316281_1.m3u8
-
-00:45 [y]UEFA Champions League[z]	^-
-Qarabag vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268400/qarabag-vs-eintracht-frankfurt.html
-Qarabag vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981206
-Qarabag vs Eintracht Frankfurt	https://play7ba.peodlc.com/live/202_3960700_1.m3u8
-Galatasaray vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283686/galatasaray-vs-atletico-madrid.html
-Galatasaray vs Atletico Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981202
-Galatasaray vs Atletico Madrid	https://play7ba.peodlc.com/live/202_3960758_1.m3u8
-
 03:00 [y]UEFA Champions League[z]	^-
 Atalanta vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268474/atalanta-vs-athletic-club.html
 Atalanta vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981208
@@ -63,6 +50,35 @@ Newcastle United vs PSV Eindhoven	https://play7ba.peodlc.com/live/202_3960718_1.
 Slavia Praha vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283685/slavia-praha-vs-fc-barcelona.html
 Slavia Praha vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3981230
 Slavia Praha vs FC Barcelona	https://play7ba.peodlc.com/live/202_3960688_1.m3u8
+
+18:30 Malaysian Cup	^-
+Sabah vs Melaka FC	`F
+
+23.01.2026	^-
+
+00:30 [g]Saudi Professional League[z]	^-
+Al-Qadasiya vs Al Ittihad Club	`F
+
+00:45 [y]UEFA Europa League[z]	^-
+FC Viktoria Plzen vs FC Porto	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4280153/fc-viktoria-plzen-vs-fc-porto.html
+Brann vs Midtjylland	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287291/brann-vs-midtjylland.html
+PAOK Saloniki vs Real Betis	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287292/paok-saloniki-vs-real-betis.html
+Bologna vs Celtic FC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287294/bologna-vs-celtic-fc.html
+Fenerbahce vs Aston Villa	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287295/fenerbahce-vs-aston-villa.html
+Malmo FF vs Crvena Zvezda	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287296/malmo-ff-vs-crvena-zvezda.html
+Young Boys vs Lyon	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287297/young-boys-vs-lyon.html
+Feyenoord vs Sturm Graz	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287298/feyenoord-vs-sturm-graz.html
+
+03:00 [y]UEFA Europa League[z]	^-
+Ferencvarosi TC vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4269157/ferencvarosi-tc-vs-panathinaikos.html
+Glasgow Rangers vs Ludogorets Razgrad	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270183/rangers-vs-ludogorets-razgrad.html
+Dinamo Zagreb vs Fotbal Club FCSB	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287284/dinamo-zagreb-vs-fotbal-club-fcsb.html
+FC Utrecht vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287285/fc-utrecht-vs-racing-genk.html
+AS Roma vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287286/as-roma-vs-vfb-stuttgart.html
+Real Celta Vigo vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287287/rc-celta-vs-losc-lille.html
+Sporting Braga vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287288/sporting-braga-vs-nottingham-forest.html
+Nice vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287289/ogc-nice-vs-go-ahead-eagles.html
+Red Bull Salzburg vs Basel	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287290/red-bull-salzburg-vs-fc-basel-1893.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
