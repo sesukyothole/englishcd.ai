@@ -123,6 +123,10 @@ beIN Sports X	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 beIN Sports 1	https://stream.ayas.ir/hls2/bein1.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+ESPN 🇦🇷 1	`0https://live.samuraitv.biz.id/p/espn1.html
+ESPN 🇦🇷 2	`0https://live.samuraitv.biz.id/p/espn2_31.html
+ESPN 🇦🇷 3	`0https://live.samuraitv.biz.id/p/espn3_31.html
+ESPN 🇦🇷 4	`0https://live.samuraitv.biz.id/p/espn4_31.html
 EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
@@ -314,11 +318,6 @@ FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 ^=Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 DAZN 1 🇮🇹	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-ESPN 🇦🇷 1	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-ESPN 🇦🇷 2	`0https://live.samuraitv.biz.id/p/espn2_31.html
-ESPN 🇦🇷 2	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd!!6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-ESPN 🇦🇷 3	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd!!8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-ESPN 🇦🇷 4	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd!!034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
 ESPN 🇲🇽 1	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 ESPN 🇲🇽 2	https://a.00/1/out/u/dash/ESPN-2-HD/default.mpd!!90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
 ESPN 🇲🇽 3	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
@@ -328,11 +327,6 @@ Arena Sport 1 Premium	`0https://streaming.sportsnews.id/p/arena1p.html
 Arena Sport 2 Premium	`0https://streaming.sportsnews.id/p/arena2p.html
 Arena Sport 1	`0https://zeeplayer2.pages.dev/arena1sp
 Arena Sport RS 1	`0https://streaming.sportsnews.id/p/arena1ser.html
-Sony Sports 1	https://dtvxtream.com/sonyliv2/300256.m3u8
-Sony Sports 2	https://dtvxtream.com/sonyliv2/300273.m3u8
-Sony Sports 3	https://dtvxtream.com/sonyliv2/300255.m3u8
-Sony Sports 4	https://dtvxtream.com/sonyliv2/301738.m3u8
-Sony Sports 5	https://dtvxtream.com/sonyliv2/300258.m3u8
 SportsNet East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
 ^=SportsNet West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
