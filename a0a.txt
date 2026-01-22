@@ -211,37 +211,6 @@ FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 	^-
 [w]SMTV[z]	^-
 
-ch1	`0https://live.samuraitv.biz.id/p/ch1.html
-ch2	`0https://live.samuraitv.biz.id/p/ch2.html
-ch3	`0https://live.samuraitv.biz.id/p/blog-page_11.html
-ch4	`0https://live.samuraitv.biz.id/p/ch4.html
-ch5	`0https://live.samuraitv.biz.id/p/ch5_9.html
-ch6	`0https://live.samuraitv.biz.id/p/ch6.html
-ch7	`0https://live.samuraitv.biz.id/p/samuraitv-body-margin-0px_11.html
-ch8	`0https://live.samuraitv.biz.id/p/ch8.html
-ch9	`0https://live.samuraitv.biz.id/p/ch9.html
-ch10	`0https://live.samuraitv.biz.id/p/ch10.html
-ch11	`0https://live.samuraitv.biz.id/p/ch11.html
-ch12	`0https://live.samuraitv.biz.id/p/ch12.html
-ch13	`0https://live.samuraitv.biz.id/p/ch13.html
-ch14	`0https://live.samuraitv.biz.id/p/ch14.html
-ch15	`0https://live.samuraitv.biz.id/p/ch15.html
-ch16	`0https://live.samuraitv.biz.id/p/ch16.html
-ch17	`0https://live.samuraitv.biz.id/p/ch17.html
-ch18	`0https://live.samuraitv.biz.id/p/ch18.html
-ch19	`0https://live.samuraitv.biz.id/p/ch19_15.html
-ch20	`0https://live.samuraitv.biz.id/p/ch20_21.html
-ch21	`0https://live.samuraitv.biz.id/p/ch21.html
-ch22	`0https://live.samuraitv.biz.id/p/ch22.html
-ch23	`0https://live.samuraitv.biz.id/p/ch23.html
-ch24	`0https://live.samuraitv.biz.id/p/ch24.html
-ch25	`0https://live.samuraitv.biz.id/p/ch25.html
-ch26	`0https://live.samuraitv.biz.id/p/ch26.html
-ch27	`0https://live.samuraitv.biz.id/p/ch27.html
-ch28	`0https://live.samuraitv.biz.id/p/ch28.html
-ch29	`0https://live.samuraitv.biz.id/p/ch29.html
-ch30	`0https://live.samuraitv.biz.id/p/ch30.html
-
 sctv	`0https://live.samuraitv.biz.id/p/sctv.html
 nettv	`0https://live.samuraitv.biz.id/p/nettv.html
 tvone	`0https://live.samuraitv.biz.id/p/tvone.html
@@ -652,29 +621,39 @@ ssc1ar	`0https://live.samuraitv.biz.id/p/ssc1.html
 space	`0https://live.samuraitv.biz.id/p/space.html
 bela5	`0https://live.samuraitv.biz.id/p/bela5.html
 
+ch1	`0https://live.samuraitv.biz.id/p/ch1.html
+ch2	`0https://live.samuraitv.biz.id/p/ch2.html
+ch3	`0https://live.samuraitv.biz.id/p/blog-page_11.html
+ch4	`0https://live.samuraitv.biz.id/p/ch4.html
+ch5	`0https://live.samuraitv.biz.id/p/ch5_9.html
+ch6	`0https://live.samuraitv.biz.id/p/ch6.html
+ch7	`0https://live.samuraitv.biz.id/p/samuraitv-body-margin-0px_11.html
+ch8	`0https://live.samuraitv.biz.id/p/ch8.html
+ch9	`0https://live.samuraitv.biz.id/p/ch9.html
+ch10	`0https://live.samuraitv.biz.id/p/ch10.html
+ch11	`0https://live.samuraitv.biz.id/p/ch11.html
+ch12	`0https://live.samuraitv.biz.id/p/ch12.html
+ch13	`0https://live.samuraitv.biz.id/p/ch13.html
+ch14	`0https://live.samuraitv.biz.id/p/ch14.html
+ch15	`0https://live.samuraitv.biz.id/p/ch15.html
+ch16	`0https://live.samuraitv.biz.id/p/ch16.html
+ch17	`0https://live.samuraitv.biz.id/p/ch17.html
+ch18	`0https://live.samuraitv.biz.id/p/ch18.html
+ch19	`0https://live.samuraitv.biz.id/p/ch19_15.html
+ch20	`0https://live.samuraitv.biz.id/p/ch20_21.html
+ch21	`0https://live.samuraitv.biz.id/p/ch21.html
+ch22	`0https://live.samuraitv.biz.id/p/ch22.html
+ch23	`0https://live.samuraitv.biz.id/p/ch23.html
+ch24	`0https://live.samuraitv.biz.id/p/ch24.html
+ch25	`0https://live.samuraitv.biz.id/p/ch25.html
+ch26	`0https://live.samuraitv.biz.id/p/ch26.html
+ch27	`0https://live.samuraitv.biz.id/p/ch27.html
+ch28	`0https://live.samuraitv.biz.id/p/ch28.html
+ch29	`0https://live.samuraitv.biz.id/p/ch29.html
+ch30	`0https://live.samuraitv.biz.id/p/ch30.html
+
 	^-
 [w]RMTV[z]	^-
-
-ch1	`0https://streaming.sportsnews.id/p/ch1.html
-ch2	`0https://streaming.sportsnews.id/p/ch2.html
-ch3	`0https://streaming.sportsnews.id/p/ch3.html
-ch4	`0https://streaming.sportsnews.id/p/ch4.html
-ch5	`0https://streaming.sportsnews.id/p/ch5.html
-ch6	`0https://streaming.sportsnews.id/p/ch6.html
-ch7	`0https://streaming.sportsnews.id/p/ch7.html
-ch8	`0https://streaming.sportsnews.id/p/ch8.html
-ch9	`0https://streaming.sportsnews.id/p/ch9.html
-ch10	`0https://streaming.sportsnews.id/p/ch10.html
-ch11	`0https://streaming.sportsnews.id/p/ch11.html
-ch12	`0https://streaming.sportsnews.id/p/ch12.html
-ch13	`0https://streaming.sportsnews.id/p/ch13.html
-ch14	`0https://streaming.sportsnews.id/p/ch14.html
-ch15	`0https://streaming.sportsnews.id/p/ch15.html
-ch16	`0https://streaming.sportsnews.id/p/ch16.html
-ch17	`0https://streaming.sportsnews.id/p/ch17.html
-ch18	`0https://streaming.sportsnews.id/p/ch18.html
-ch19	`0https://streaming.sportsnews.id/p/ch19.html
-ch20	`0https://streaming.sportsnews.id/p/ch20.html
 
 bein1	`0https://streaming.sportsnews.id/p/bein1.html
 bein2	`0https://streaming.sportsnews.id/p/bein2.html
@@ -986,6 +965,27 @@ nova6	`0https://streaming.sportsnews.id/p/nova6.html
 sporttv1bra	`0https://streaming.sportsnews.id/p/sporttv1bra.html
 sporttv3bra	`0https://streaming.sportsnews.id/p/sporttv3bra.html
 ch21	`0https://streaming.sportsnews.id/p/ch21.html
+
+ch1	`0https://streaming.sportsnews.id/p/ch1.html
+ch2	`0https://streaming.sportsnews.id/p/ch2.html
+ch3	`0https://streaming.sportsnews.id/p/ch3.html
+ch4	`0https://streaming.sportsnews.id/p/ch4.html
+ch5	`0https://streaming.sportsnews.id/p/ch5.html
+ch6	`0https://streaming.sportsnews.id/p/ch6.html
+ch7	`0https://streaming.sportsnews.id/p/ch7.html
+ch8	`0https://streaming.sportsnews.id/p/ch8.html
+ch9	`0https://streaming.sportsnews.id/p/ch9.html
+ch10	`0https://streaming.sportsnews.id/p/ch10.html
+ch11	`0https://streaming.sportsnews.id/p/ch11.html
+ch12	`0https://streaming.sportsnews.id/p/ch12.html
+ch13	`0https://streaming.sportsnews.id/p/ch13.html
+ch14	`0https://streaming.sportsnews.id/p/ch14.html
+ch15	`0https://streaming.sportsnews.id/p/ch15.html
+ch16	`0https://streaming.sportsnews.id/p/ch16.html
+ch17	`0https://streaming.sportsnews.id/p/ch17.html
+ch18	`0https://streaming.sportsnews.id/p/ch18.html
+ch19	`0https://streaming.sportsnews.id/p/ch19.html
+ch20	`0https://streaming.sportsnews.id/p/ch20.html
 
 	^-
 [w]Live Sport & TV Channels[z]	^-
