@@ -63,6 +63,43 @@ Sporting Braga vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europ
 Nice vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287289/ogc-nice-vs-go-ahead-eagles.html
 Red Bull Salzburg vs Basel	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287290/red-bull-salzburg-vs-fc-basel-1893.html
 
+03:00 [g]Argentine Division 1[z]	^-
+Aldosivi Plata vs Defensa Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327464/aldosivi-mar-del-plata-vs-defensa-y-justicia.html
+
+06:00 [g]Argentine Division 1[z]	^-
+Club Atlético Unión vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321852/club-atltico-unin-vs-ca-platense.html
+
+08:00 [l]International Friendly[z]	^-
+Panama vs Mexico	`Fhttps://www.fctv33.net/football/international-friendly-match-4334951/panama-vs-mexico.html
+
+15:30 Liga 1	^-
+Persis Solo FC vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229540/persis-solo-fc-vs-borneo-fc.html
+
+15:30 Liga 2	^-
+Persikad Depok vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323751/persikad-depok-vs-fc-bekasi-city.html
+
+15:35 [g]Australia A-League[z]	^-
+Newcastle Jets vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282184/newcastle-jets-vs-wellington-phoenix.html
+
+19:00 Liga 1	^-
+Persija Jakarta vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229676/persatuan-sepakbola-indonesia-jakarta-vs-madura-united.html
+
+19:00 Liga 2	^-
+PSPS Riau vs Adhyaksa FC Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323743/psps-riau-vs-adhyaksa-fc-banten.html
+
+19:15 Malaysian Cup	^-
+Selangor vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329267/selangor-fc-vs-kelantan-the-real-warriors.html
+
+20:00 Malaysian Cup	^-
+Terengganu vs UM-Damansara United	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329328/terengganu-fc-vs-um-damansara-united.html
+
+22:00 [l]AFC U23 Asian Cup[z]	^-
+Vietnam vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327457/vietnam-u23-vs-south-korea-u23.html
+
+23:00 [g]CAF Champions League[z]	^-
+Mamelodi Sundowns vs Al-Hilal Omdurman	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311147/mamelodi-sundowns-vs-al-hilal-omdurman.html
+Al Ahly SC vs Young Africans	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4313140/al-ahly-fc-vs-young-africans.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
