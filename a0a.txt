@@ -29,46 +29,24 @@
 23.01.2026	^-
 
 03:00 [y]UEFA Europa League[z]	^-
-Ferencvarosi TC vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4269157/ferencvarosi-tc-vs-panathinaikos.html
-Ferencvarosi TC vs Panathinaikos	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985637
-Ferencvarosi TC vs Panathinaikos	https://play7ba.peodlc.com/live/202_3964022_1.m3u8
-Glasgow Rangers vs Ludogorets Razgrad	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270183/rangers-vs-ludogorets-razgrad.html
-Glasgow Rangers vs Ludogorets Razgrad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985652
-Glasgow Rangers vs Ludogorets Razgrad	https://play7ba.peodlc.com/live/202_3964038_1.m3u8
-Dinamo Zagreb vs Fotbal Club FCSB	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287284/dinamo-zagreb-vs-fotbal-club-fcsb.html
-Dinamo Zagreb vs Fotbal Club FCSB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985647
-Dinamo Zagreb vs Fotbal Club FCSB	https://play7ba.peodlc.com/live/202_3964070_1.m3u8
 FC Utrecht vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287285/fc-utrecht-vs-racing-genk.html
 FC Utrecht vs Racing Genk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985662
 FC Utrecht vs Racing Genk	https://play7ba.peodlc.com/live/202_3964028_1.m3u8
-AS Roma vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287286/as-roma-vs-vfb-stuttgart.html
-AS Roma vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985656
-AS Roma vs VfB Stuttgart	https://play7ba.peodlc.com/live/202_3964026_1.m3u8
-Real Celta Vigo vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287287/rc-celta-vs-losc-lille.html
-Real Celta Vigo vs Lille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985636
-Real Celta Vigo vs Lille	https://play7ba.peodlc.com/live/202_3964025_1.m3u8
-Sporting Braga vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287288/sporting-braga-vs-nottingham-forest.html
-Sporting Braga vs Nottingham Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985626
-Sporting Braga vs Nottingham Forest	https://play7ba.peodlc.com/live/202_3964141_1.m3u8
-Nice vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287289/ogc-nice-vs-go-ahead-eagles.html
-Nice vs Go Ahead Eagles	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985645
-Nice vs Go Ahead Eagles	https://play7ba.peodlc.com/live/202_3964111_1.m3u8
-Red Bull Salzburg vs Basel	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287290/red-bull-salzburg-vs-fc-basel-1893.html
-Red Bull Salzburg vs Basel	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985627
-Red Bull Salzburg vs Basel	https://play7ba.peodlc.com/live/202_3964082_1.m3u8
-
-03:00 [g]Argentine Division 1[z]	^-
-Aldosivi Plata vs Defensa Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327464/aldosivi-mar-del-plata-vs-defensa-y-justicia.html
-Aldosivi Plata vs Defensa Justicia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020296
-Aldosivi Plata vs Defensa Justicia	https://play7ba.peodlc.com/live/202_4766269_1.m3u8
 
 06:00 [g]Argentine Division 1[z]	^-
 Club Atlético Unión vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321852/club-atltico-unin-vs-ca-platense.html
 Club Atlético Unión vs CA Platense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020294
 Club Atlético Unión vs CA Platense	https://play7ba.peodlc.com/live/202_4766257_1.m3u8
+Banfield vs CA Huracan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328798/banfield-vs-ca-huracan.html
+Banfield vs CA Huracan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020307
+Banfield vs CA Huracan	https://play7ba.peodlc.com/live/202_4766259_1.m3u8
 
 08:00 [l]International Friendly[z]	^-
 Panama vs Mexico	`Fhttps://www.fctv33.net/football/international-friendly-match-4334951/panama-vs-mexico.html
+
+08:15 [g]Argentine Division 1[z]	^-
+Central Cordoba SDE vs Gimnasia Mendoza	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335547/central-cordoba-sde-vs-gimnasia-y-esgrima-de-mendoza.html
+Instituto vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335548/instituto-de-crdoba-vs-velez-sarsfield.html
 
 15:30 Liga 1	^-
 Persis Solo FC vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229540/persis-solo-fc-vs-borneo-fc.html
@@ -97,6 +75,29 @@ Vietnam vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match
 23:00 [g]CAF Champions League[z]	^-
 Mamelodi Sundowns vs Al-Hilal Omdurman	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311147/mamelodi-sundowns-vs-al-hilal-omdurman.html
 Al Ahly SC vs Young Africans	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4313140/al-ahly-fc-vs-young-africans.html
+
+24.01.2026	^-
+
+02:00 [y]French Ligue 1[z]	^-
+AJ Auxerre vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200180/aj-auxerre-vs-paris-saint-germain.html
+
+02:30 [y]Bundesliga[z]	^-
+FC St. Pauli vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199654/fc-st-pauli-vs-hamburger-sv.html
+
+02:45 [y]Italian Serie A[z]	^-
+Inter Milan vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194596/inter-milan-vs-pisa.html
+
+02:45 [g]Belgian Pro League[z]	^-
+Standard Liege vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198984/standard-liege-vs-kaa-gent.html
+
+03:00 [g]English Football League[z]	^-
+Derby County vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203502/derby-county-vs-west-bromwich-albion.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Levante vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209744/levante-vs-elche.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+Casa Pia AC vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216244/casa-pia-ac-vs-avs-futebol-sad.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
