@@ -157,10 +157,10 @@ SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
-iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-RCTI	https://rcti-cutv.rctiplus.id/index.m3u8
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?4
+iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?4
+MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8?4
+RCTI	https://rcti-cutv.rctiplus.id/index.m3u8?4
 
 [l]For Desktop[z]	^-
 HBO ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
@@ -448,7 +448,7 @@ wowprime	`0https://live.samuraitv.biz.id/p/wowowprime.html
 ^=.ch15	`0https://live.samuraitv.biz.id/p/ch15.html
 ^=.ch16	`0https://live.samuraitv.biz.id/p/ch16.html
 ^=.ch17	`0https://live.samuraitv.biz.id/p/ch17.html
-ch18.x	`0https://live.samuraitv.biz.id/p/ch18.html
+^=.ch18	`0https://live.samuraitv.biz.id/p/ch18.html
 ^=.ch19	`0https://live.samuraitv.biz.id/p/ch19_15.html
 ^=.ch20	`0https://live.samuraitv.biz.id/p/ch20_21.html
 ^=.ch21	`0https://live.samuraitv.biz.id/p/ch21.html
@@ -715,40 +715,40 @@ bein1	`0https://streaming.sportsnews.id/p/bein1.html
 bein2	`0https://streaming.sportsnews.id/p/bein2.html
 bein3	`0https://streaming.sportsnews.id/p/bein3.html
 bein4	`0https://streaming.sportsnews.id/p/bein4.html
-bein5	`0https://streaming.sportsnews.id/p/bein5.html
-beinusa	`0https://streaming.sportsnews.id/p/bein-sports-hd.html
-bein1my	`0https://streaming.sportsnews.id/p/bein-sports.html
-bein2my	`0https://streaming.sportsnews.id/p/bein2my.html
-bein3my	`0https://streaming.sportsnews.id/p/bein-sports-3.html
+^=.bein5	`0https://streaming.sportsnews.id/p/bein5.html
+^=.beinusa	`0https://streaming.sportsnews.id/p/bein-sports-hd.html
+^=.bein1my	`0https://streaming.sportsnews.id/p/bein-sports.html
+bein2my.h	`0https://streaming.sportsnews.id/p/bein2my.html
+^=.bein3my	`0https://streaming.sportsnews.id/p/bein-sports-3.html
 
-setanta1	`0https://streaming.sportsnews.id/p/setanta1.html
+^=.setanta1	`0https://streaming.sportsnews.id/p/setanta1.html
 
 bt1	`0https://streaming.sportsnews.id/p/bt1.html
 bt2	`0https://streaming.sportsnews.id/p/bt2.html
 bt3	`0https://streaming.sportsnews.id/p/bt3.html
 bt4	`0https://streaming.sportsnews.id/p/bt4.html
-bt5	`0https://streaming.sportsnews.id/p/bt5.html
+^=.bt5	`0https://streaming.sportsnews.id/p/bt5.html
 
-premier1	`0https://streaming.sportsnews.id/p/premier1.html
-premier2	`0https://streaming.sportsnews.id/p/premier2.html
+^=.premier1	`0https://streaming.sportsnews.id/p/premier1.html
+^=.premier2	`0https://streaming.sportsnews.id/p/premier2.html
 
-canal4sla	`0https://streaming.sportsnews.id/p/canal4uk.html
-tv2no	`0https://streaming.sportsnews.id/p/tv2-sport1.html.html
+^=.canal4sla	`0https://streaming.sportsnews.id/p/canal4uk.html
+^=.tv2no	`0https://streaming.sportsnews.id/p/tv2-sport1.html.html
 
 indosiar	`0https://streaming.sportsnews.id/p/indosiar.html
-rtl	`0https://streaming.sportsnews.id/p/rtl-de.html
+^=.rtl	`0https://streaming.sportsnews.id/p/rtl-de.html
 
-fifa1	`0https://streaming.sportsnews.id/p/fifa1.html
-fifa2	`0https://streaming.sportsnews.id/p/fifa2.html
+^=.fifa1	`0https://streaming.sportsnews.id/p/fifa1.html
+^=.fifa2	`0https://streaming.sportsnews.id/p/fifa2.html
 
-skyfbl	`0https://streaming.sportsnews.id/p/sky-football.html
-skypl	`0https://streaming.sportsnews.id/p/skypremier.html
-skyme	`0https://streaming.sportsnews.id/p/skyme.html
-skygp	`0https://streaming.sportsnews.id/p/skygp.html
-skycalcio	`0https://streaming.sportsnews.id/p/skycalcio.html
-skyarena	`0https://streaming.sportsnews.id/p/skyarena.html
-skyuno	`0https://streaming.sportsnews.id/p/skyuno.html
-sky24	`0https://streaming.sportsnews.id/p/skysport24.html
+^=.skyfbl	`0https://streaming.sportsnews.id/p/sky-football.html
+^=.skypl	`0https://streaming.sportsnews.id/p/skypremier.html
+^=.skyme	`0https://streaming.sportsnews.id/p/skyme.html
+^=.skygp	`0https://streaming.sportsnews.id/p/skygp.html
+^=.skycalcio	`0https://streaming.sportsnews.id/p/skycalcio.html
+skyarena.b	`0https://streaming.sportsnews.id/p/skyarena.html
+^=.skyuno	`0https://streaming.sportsnews.id/p/skyuno.html
+^=.sky24	`0https://streaming.sportsnews.id/p/skysport24.html
 italia1	`0https://streaming.sportsnews.id/p/italia1.html
 sky1	`0https://streaming.sportsnews.id/p/sky1.html
 sky2	`0https://streaming.sportsnews.id/p/sky2.html
@@ -756,69 +756,69 @@ sky3	`0https://streaming.sportsnews.id/p/sky3.html
 sky4	`0https://streaming.sportsnews.id/p/sky4.html
 sky5	`0https://streaming.sportsnews.id/p/sky5.html
 sky6	`0https://streaming.sportsnews.id/p/sky6.html
-sky7	`0https://streaming.sportsnews.id/p/sky7.html
-sky8	`0https://streaming.sportsnews.id/p/sky8.html
-sky9	`0https://streaming.sportsnews.id/p/sky9.html
+^=.sky7	`0https://streaming.sportsnews.id/p/sky7.html
+^=.sky8	`0https://streaming.sportsnews.id/p/sky8.html
+^=.sky9	`0https://streaming.sportsnews.id/p/sky9.html
 
 skymex	`0https://streaming.sportsnews.id/p/sky253.html
-skylive1	`0https://streaming.sportsnews.id/p/skylive1.html
-skylive2	`0https://streaming.sportsnews.id/p/skylive2.html
+skylive1.bx	`0https://streaming.sportsnews.id/p/skylive1.html
+^=.skylive2	`0https://streaming.sportsnews.id/p/skylive2.html
 
-mbc2	`0https://streaming.sportsnews.id/p/mbc2.html
-mbca	`0https://streaming.sportsnews.id/p/mbca.html
+^=.mbc2	`0https://streaming.sportsnews.id/p/mbc2.html
+^=.mbca	`0https://streaming.sportsnews.id/p/mbca.html
 
 persiana1	`0https://streaming.sportsnews.id/p/persiana1.html
 
-arena1p	`0https://streaming.sportsnews.id/p/arena1p.html
-arena2p	`0https://streaming.sportsnews.id/p/arena2p.html
-arena3p	`0https://streaming.sportsnews.id/p/arena3p.html
+^=.arena1p	`0https://streaming.sportsnews.id/p/arena1p.html
+^=.arena2p	`0https://streaming.sportsnews.id/p/arena2p.html
+^=.arena3p	`0https://streaming.sportsnews.id/p/arena3p.html
 
-arena1ser	`0https://streaming.sportsnews.id/p/arena1ser.html
-arena2ser	`0https://streaming.sportsnews.id/p/arena2ser.html
-arena3ser	`0https://streaming.sportsnews.id/p/arena3ser.html
-arena4ser	`0https://streaming.sportsnews.id/p/arena4ser.html
-arena5ser	`0https://streaming.sportsnews.id/p/arena5ser.html
-arena6ser	`0https://streaming.sportsnews.id/p/arena6ser.html
+^=.arena1ser	`0https://streaming.sportsnews.id/p/arena1ser.html
+^=.arena2ser	`0https://streaming.sportsnews.id/p/arena2ser.html
+^=.arena3ser	`0https://streaming.sportsnews.id/p/arena3ser.html
+^=.arena4ser	`0https://streaming.sportsnews.id/p/arena4ser.html
+^=.arena5ser	`0https://streaming.sportsnews.id/p/arena5ser.html
+^=.arena6ser	`0https://streaming.sportsnews.id/p/arena6ser.html
 
-arena1cro	`0https://streaming.sportsnews.id/p/arena1cro.html
-arena2cro	`0https://streaming.sportsnews.id/p/arena2cro.html
-arena3cro	`0https://streaming.sportsnews.id/p/arena3cro.html
-arena4cro	`0https://streaming.sportsnews.id/p/arena4cro.html
-arena5cro	`0https://streaming.sportsnews.id/p/arena5cro.html
-arena6cro	`0https://streaming.sportsnews.id/p/arena6cro.html
-arena7cro	`0https://streaming.sportsnews.id/p/arena7cro.html
-arena8cro	`0https://streaming.sportsnews.id/p/arena8cro.html
-arena9cro	`0https://streaming.sportsnews.id/p/arena9cro.html
-arena10cro	`0https://streaming.sportsnews.id/p/arena10cro.html
+^=.arena1cro	`0https://streaming.sportsnews.id/p/arena1cro.html
+^=.arena2cro	`0https://streaming.sportsnews.id/p/arena2cro.html
+^=.arena3cro	`0https://streaming.sportsnews.id/p/arena3cro.html
+^=.arena4cro	`0https://streaming.sportsnews.id/p/arena4cro.html
+^=.arena5cro	`0https://streaming.sportsnews.id/p/arena5cro.html
+^=.arena6cro	`0https://streaming.sportsnews.id/p/arena6cro.html
+^=.arena7cro	`0https://streaming.sportsnews.id/p/arena7cro.html
+^=.arena8cro	`0https://streaming.sportsnews.id/p/arena8cro.html
+^=.arena9cro	`0https://streaming.sportsnews.id/p/arena9cro.html
+arena10cro.3sat	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 arena1sk	`0https://streaming.sportsnews.id/p/arena1sk.html
 arena2sk	`0https://streaming.sportsnews.id/p/arena2sk.html
 
-ssc1	`0https://streaming.sportsnews.id/p/ssc1.html
-ssc2	`0https://streaming.sportsnews.id/p/ssc2.html
-ssc3	`0https://streaming.sportsnews.id/p/ssc3.html
-ssc4	`0https://streaming.sportsnews.id/p/ssc4.html
-ssc5	`0https://streaming.sportsnews.id/p/ssc5.html
+^=.ssc1	`0https://streaming.sportsnews.id/p/ssc1.html
+^=.ssc2	`0https://streaming.sportsnews.id/p/ssc2.html
+^=.ssc3	`0https://streaming.sportsnews.id/p/ssc3.html
+^=.ssc4	`0https://streaming.sportsnews.id/p/ssc4.html
+^=.ssc5	`0https://streaming.sportsnews.id/p/ssc5.html
 
-sscextra1	`0https://streaming.sportsnews.id/p/sscextra1.html
-sscextra2	`0https://streaming.sportsnews.id/p/sscextra2.html
-sscextra3	`0https://streaming.sportsnews.id/p/sscextra3.html
-sscn	`0https://streaming.sportsnews.id/p/sscn.html
+^=.sscextra1	`0https://streaming.sportsnews.id/p/sscextra1.html
+^=.sscextra2	`0https://streaming.sportsnews.id/p/sscextra2.html
+^=.sscextra3	`0https://streaming.sportsnews.id/p/sscextra3.html
+^=.sscn	`0https://streaming.sportsnews.id/p/sscn.html
 
-ept1	`0https://streaming.sportsnews.id/p/ept1.html
-ept2	`0https://streaming.sportsnews.id/p/ept2.html
-ept3	`0https://streaming.sportsnews.id/p/ept3.html
-ept4	`0https://streaming.sportsnews.id/p/ept4.html
-ept5	`0https://streaming.sportsnews.id/p/ept5.html
-ept6	`0https://streaming.sportsnews.id/p/ept6.html
+^=.ept1	`0https://streaming.sportsnews.id/p/ept1.html
+^=.ept2	`0https://streaming.sportsnews.id/p/ept2.html
+^=.ept3	`0https://streaming.sportsnews.id/p/ept3.html
+^=.ept4	`0https://streaming.sportsnews.id/p/ept4.html
+^=.ept5	`0https://streaming.sportsnews.id/p/ept5.html
+^=.ept6	`0https://streaming.sportsnews.id/p/ept6.html
 
-plays1	`0https://streaming.sportsnews.id/p/plays1.html
-plays2	`0https://streaming.sportsnews.id/p/plays2.html
+^=.plays1	`0https://streaming.sportsnews.id/p/plays1.html
+^=.plays2	`0https://streaming.sportsnews.id/p/plays2.html
 
-eleven1	`0https://streaming.sportsnews.id/p/eleven1.html
-eleven2	`0https://streaming.sportsnews.id/p/eleven2.html
-eleven3	`0https://streaming.sportsnews.id/p/eleven3.html
-eleven4	`0https://streaming.sportsnews.id/p/eleven4.html
+^=.eleven1	`0https://streaming.sportsnews.id/p/eleven1.html
+^=.eleven2	`0https://streaming.sportsnews.id/p/eleven2.html
+^=.eleven3	`0https://streaming.sportsnews.id/p/eleven3.html
+^=.eleven4	`0https://streaming.sportsnews.id/p/eleven4.html
 
 tsn1	`0https://streaming.sportsnews.id/p/tsn1.html
 tsn2	`0https://streaming.sportsnews.id/p/tsn2.html
