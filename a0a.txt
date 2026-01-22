@@ -54,17 +54,27 @@ Feyenoord vs Sturm Graz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 
 03:00 [y]UEFA Europa League[z]	^-
 Ferencvarosi TC vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4269157/ferencvarosi-tc-vs-panathinaikos.html
+Ferencvarosi TC vs Panathinaikos	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985637
 Glasgow Rangers vs Ludogorets Razgrad	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270183/rangers-vs-ludogorets-razgrad.html
+Glasgow Rangers vs Ludogorets Razgrad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985652
 Dinamo Zagreb vs Fotbal Club FCSB	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287284/dinamo-zagreb-vs-fotbal-club-fcsb.html
+Dinamo Zagreb vs Fotbal Club FCSB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985647
 FC Utrecht vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287285/fc-utrecht-vs-racing-genk.html
+FC Utrecht vs Racing Genk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985662
 AS Roma vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287286/as-roma-vs-vfb-stuttgart.html
+AS Roma vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985656
 Real Celta Vigo vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287287/rc-celta-vs-losc-lille.html
+Real Celta Vigo vs Lille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985636
 Sporting Braga vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287288/sporting-braga-vs-nottingham-forest.html
+Sporting Braga vs Nottingham Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985626
 Nice vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287289/ogc-nice-vs-go-ahead-eagles.html
+Nice vs Go Ahead Eagles	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985645
 Red Bull Salzburg vs Basel	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287290/red-bull-salzburg-vs-fc-basel-1893.html
+Red Bull Salzburg vs Basel	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3985627
 
 03:00 [g]Argentine Division 1[z]	^-
 Aldosivi Plata vs Defensa Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327464/aldosivi-mar-del-plata-vs-defensa-y-justicia.html
+Aldosivi Plata vs Defensa Justicia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020296
 
 06:00 [g]Argentine Division 1[z]	^-
 Club Atlético Unión vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321852/club-atltico-unin-vs-ca-platense.html
