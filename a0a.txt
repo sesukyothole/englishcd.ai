@@ -4,6 +4,7 @@
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=Watching	`0https://ddkanq.vip/
+^=rcti	`0https://www.rctiplus.com/tv/rcti[]`0https://m.rctiplus.com/tv/rcti
 ^=Blank	
 ^=	^-
 
