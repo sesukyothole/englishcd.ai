@@ -4,7 +4,6 @@
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=Watching	`0https://ddkanq.vip/
-^=rcti	`0https://www.rctiplus.com/tv/rcti[]`0https://m.rctiplus.com/tv/rcti
 ^=Blank	
 ^=	^-
 
@@ -28,18 +27,6 @@
 ^#	^-
 
 23.01.2026	^-
-
-08:00 [l]International Friendly[z]	^-
-Panama vs Mexico	`Fhttps://www.fctv33.net/football/international-friendly-match-4334951/panama-vs-mexico.html
-Panama vs Mexico	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107880
-
-08:15 [g]Argentine Division 1[z]	^-
-Central Cordoba SDE vs Gimnasia Mendoza	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335547/central-cordoba-sde-vs-gimnasia-y-esgrima-de-mendoza.html
-Central Cordoba SDE vs Gimnasia Mendoza	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020295
-Central Cordoba SDE vs Gimnasia Mendoza	https://play7ba.peodlc.com/live/202_4766267_1.m3u8
-Instituto vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335548/instituto-de-crdoba-vs-velez-sarsfield.html
-Instituto vs Velez Sarsfield	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020297
-Instituto vs Velez Sarsfield	https://play7ba.peodlc.com/live/202_4766263_1.m3u8
 
 15:30 Liga 1	^-
 Persis Solo FC vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229540/persis-solo-fc-vs-borneo-fc.html
