@@ -31,10 +31,12 @@
 15:30 Liga 1	^-
 Persis Solo FC vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229540/persis-solo-fc-vs-borneo-fc.html
 Persis Solo FC vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109360
+Persis Solo FC vs Borneo FC	https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=70943c4aeef2d590e50d7446c0ed7dff&txTime=69736EB2
 
 15:30 Liga 2	^-
 Persikad Depok vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323751/persikad-depok-vs-fc-bekasi-city.html
 Persikad Depok vs FC Bekasi City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109036
+Persikad Depok vs FC Bekasi City	https://play7ba.peodlc.com/live/202_3964111_1.m3u8
 
 15:35 [g]Australia A-League[z]	^-
 Newcastle Jets vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282184/newcastle-jets-vs-wellington-phoenix.html
@@ -368,7 +370,7 @@ tudnvix	`0https://live.samuraitv.biz.id/p/tudnvix.html
 tv2premium	`0https://live.samuraitv.biz.id/p/tv2_13.html
 tv5monde	`0https://live.samuraitv.biz.id/p/tv5monde.html
 tvris	`0https://live.samuraitv.biz.id/p/tvrisport.html
-vivoplay2	`0https://live.samuraitv.biz.id/p/vivoplay2.html
+vivoplay2.cazetv	`0https://live.samuraitv.biz.id/p/vivoplay2.html
 vsport1	`0https://live.samuraitv.biz.id/p/ppsm1.html
 vsport2	`0https://live.samuraitv.biz.id/p/ppsm2.html
 vsport3	`0https://live.samuraitv.biz.id/p/ppsm3.html
