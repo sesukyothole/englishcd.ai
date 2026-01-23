@@ -62,14 +62,17 @@ Standard Liege vs KAA Gent	https://play7ba.peodlc.com/live/202_4414706_1.m3u8
 
 03:00 [g]English Football League[z]	^-
 Derby County vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203502/derby-county-vs-west-bromwich-albion.html
+Derby County vs West Bromwich WBA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109586
 Derby County vs West Bromwich WBA	https://play7ba.peodlc.com/live/202_4414692_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Levante vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209744/levante-vs-elche.html
+Levante vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093340
 Levante vs Elche	https://play7ba.peodlc.com/live/202_4418074_1.m3u8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216244/casa-pia-ac-vs-avs-futebol-sad.html
+Casa Pia AC vs AVS Futebol	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109592
 Casa Pia AC vs AVS Futebol	https://play7ba.peodlc.com/live/202_4423384_1.m3u8
 
 05:00 [g]Argentine Division 1[z]	^-
@@ -78,10 +81,13 @@ San Lorenzo vs Lanus	https://play7ba.peodlc.com/live/202_4766268_1.m3u8
 
 06:00 [g]Argentine Division 1[z]	^-
 Independiente vs Estudiantes Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321850/ca-independiente-vs-estudiantes-la-plata.html
+Independiente vs Estudiantes Plata	https://play7ba.peodlc.com/live/202_4879859_1.m3u8
 
 08:15 [g]Argentine Division 1[z]	^-
 Indep Rivadavia vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4329315/independiente-rivadavia-vs-atletico-tucuman.html
+Indep Rivadavia vs Atletico Tucuman	https://play7ba.peodlc.com/live/202_4766264_1.m3u8
 Talleres Cordoba vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335826/talleres-cordoba-vs-club-atltico-newells-old-boys.html
+Talleres Cordoba vs Newells Old Boys	https://play7ba.peodlc.com/live/202_4766261_1.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
