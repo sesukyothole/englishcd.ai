@@ -31,10 +31,12 @@
 19:00 Liga 1	^-
 Persija Jakarta vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229676/persatuan-sepakbola-indonesia-jakarta-vs-madura-united.html
 Persija Jakarta vs Madura United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109379
+Persija Jakarta vs Madura United	https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 
 19:00 Liga 2	^-
 PSPS Riau vs Adhyaksa FC Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323743/psps-riau-vs-adhyaksa-fc-banten.html
 PSPS Riau vs Adhyaksa FC Banten	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132495
+PSPS Riau vs Adhyaksa FC Banten	https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
 19:15 Malaysian Cup	^-
 Selangor vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329267/selangor-fc-vs-kelantan-the-real-warriors.html
