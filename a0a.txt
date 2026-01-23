@@ -107,10 +107,13 @@ Persipura Jayapura vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-li
 
 	^-
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+tvN Movies	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
+HBO Cinemax	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+HBO Hits	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
 HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
 HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
@@ -271,7 +274,6 @@ fancode1	`0https://live.samuraitv.biz.id/p/samuraitv-body-margin-0px_12.html
 fancode2	`0https://live.samuraitv.biz.id/p/fancode_22.html
 fancode3	`0https://live.samuraitv.biz.id/p/disneyglobal.html
 fifa1.onesportsplus	`0https://live.samuraitv.biz.id/p/1sport_8.html
-fifa2.tvnmovies	`0https://live.samuraitv.biz.id/p/1sportph_16.html
 fishingtv	`0https://live.samuraitv.biz.id/p/fishingtv.html
 fox2usa	`0https://live.samuraitv.biz.id/p/foxsportusa2.html
 foxdeportes	`0https://live.samuraitv.biz.id/p/foxdeportes.html
@@ -280,8 +282,6 @@ foxs2ar	`0https://live.samuraitv.biz.id/p/foxsport.html
 foxs3ar	`0https://live.samuraitv.biz.id/p/foxsport_18.html
 fub1	`0https://live.samuraitv.biz.id/p/fubo.html
 fub2	`0https://live.samuraitv.biz.id/p/fubotv.html
-hbocinemax	`0https://live.samuraitv.biz.id/p/hbocinemax.html
-hbohits	`0https://live.samuraitv.biz.id/p/hbohits.html
 hrt1	`0https://live.samuraitv.biz.id/p/hrt1.html
 itv2	`0https://live.samuraitv.biz.id/p/itv2.html
 itv3	`0https://live.samuraitv.biz.id/p/itv3.html
@@ -521,7 +521,6 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.go3s3	`0https://live.samuraitv.biz.id/p/go3sport3.html
 ^=.go3sopen	`0https://live.samuraitv.biz.id/p/go3open.html
 ^=.go3sport3lt	`0https://live.samuraitv.biz.id/p/go3sport3lt.html
-^=.gtvv	`0https://live.samuraitv.biz.id/p/gtvios.html
 ^=.hrt2	`0https://live.samuraitv.biz.id/p/hrt2.html
 ^=.idazer	`0https://live.samuraitv.biz.id/p/id.html
 ^=.iklan	`0https://live.samuraitv.biz.id/p/iklan.html
@@ -655,7 +654,11 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.ziggo6anj	`0https://live.samuraitv.biz.id/p/ziggo6anj.html
 ^=.ziggos	`0https://live.samuraitv.biz.id/p/ziggo.html
 ^=.zona24	`0https://live.samuraitv.biz.id/p/starsplayarab.html
+^=fifa2.tvnmovies	`0https://live.samuraitv.biz.id/p/1sportph_16.html
 ^=gtv	`0https://live.samuraitv.biz.id/p/gtv-ios.html
+^=gtvv	`0https://live.samuraitv.biz.id/p/gtvios.html
+^=hbocinemax	`0https://live.samuraitv.biz.id/p/hbocinemax.html
+^=hbohits	`0https://live.samuraitv.biz.id/p/hbohits.html
 ^=indosiar	`0https://live.samuraitv.biz.id/p/indosiar_7.html
 ^=inews	`0https://live.samuraitv.biz.id/p/inews.html
 ^=kompastv	`0https://live.samuraitv.biz.id/p/kompastv.html
@@ -681,7 +684,6 @@ bein1	`0https://streaming.sportsnews.id/p/bein1.html
 bein1aus	`0https://streaming.sportsnews.id/p/bein1aus.html
 bein2	`0https://streaming.sportsnews.id/p/bein2.html
 bein2aus	`0https://streaming.sportsnews.id/p/bein2aus.html
-bein2my.h	`0https://streaming.sportsnews.id/p/bein2my.html
 bein3	`0https://streaming.sportsnews.id/p/bein3.html
 bein3aus	`0https://streaming.sportsnews.id/p/bein3aus.html
 bein4	`0https://streaming.sportsnews.id/p/bein4.html
@@ -939,6 +941,7 @@ ch21	`0https://streaming.sportsnews.id/p/ch21.html
 ^=.ziggo4	`0https://streaming.sportsnews.id/p/ziggo4.html
 ^=antv	`0https://streaming.sportsnews.id/p/antv.html
 ^=gtv	`0https://streaming.sportsnews.id/p/gtv.html
+^=bein2my.hbohits	`0https://streaming.sportsnews.id/p/bein2my.html
 ^=indosiar	`0https://streaming.sportsnews.id/p/indosiar.html
 ^=inewstv	`0https://streaming.sportsnews.id/p/inews.html
 ^=kompastv	`0https://streaming.sportsnews.id/p/kompastv.html
