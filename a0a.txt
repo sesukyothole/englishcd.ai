@@ -28,32 +28,21 @@
 
 23.01.2026	^-
 
-15:30 Liga 1	^-
-Persis Solo FC vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229540/persis-solo-fc-vs-borneo-fc.html
-Persis Solo FC vs Borneo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109360
-Persis Solo FC vs Borneo FC	https://live.vivo200.com/live/sd-1-4379331.m3u8?txSecret=70943c4aeef2d590e50d7446c0ed7dff&txTime=69736EB2
-
-15:30 Liga 2	^-
-Persikad Depok vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323751/persikad-depok-vs-fc-bekasi-city.html
-Persikad Depok vs FC Bekasi City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109036
-Persikad Depok vs FC Bekasi City	https://play7ba.peodlc.com/live/202_3964111_1.m3u8
-
-15:35 [g]Australia A-League[z]	^-
-Newcastle Jets vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282184/newcastle-jets-vs-wellington-phoenix.html
-Newcastle Jets vs Wellington Phoenix	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4096216
-Newcastle Jets vs Wellington Phoenix	https://play7ba.peodlc.com/live/202_4411247_1.m3u8
-
 19:00 Liga 1	^-
 Persija Jakarta vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229676/persatuan-sepakbola-indonesia-jakarta-vs-madura-united.html
+Persija Jakarta vs Madura United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109379
 
 19:00 Liga 2	^-
 PSPS Riau vs Adhyaksa FC Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323743/psps-riau-vs-adhyaksa-fc-banten.html
+PSPS Riau vs Adhyaksa FC Banten	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132495
 
 19:15 Malaysian Cup	^-
 Selangor vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329267/selangor-fc-vs-kelantan-the-real-warriors.html
+Selangor vs Kelantan United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109388
 
 20:00 Malaysian Cup	^-
 Terengganu vs UM-Damansara United	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329328/terengganu-fc-vs-um-damansara-united.html
+Terengganu vs UM-Damansara United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109396
 
 22:00 [l]AFC U23 Asian Cup[z]	^-
 Vietnam vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327457/vietnam-u23-vs-south-korea-u23.html
