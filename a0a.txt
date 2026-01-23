@@ -261,8 +261,6 @@ ch2ph	`0https://live.samuraitv.biz.id/p/ch2ph.html
 ch3ph	`0https://live.samuraitv.biz.id/p/ch3ph.html
 ctssk	`0https://live.samuraitv.biz.id/p/ctssk.html
 daznes1	`0https://live.samuraitv.biz.id/p/daznes1.html
-dubais2	`0https://live.samuraitv.biz.id/p/dubaisporthd1.html
-dubais3	`0https://live.samuraitv.biz.id/p/dubaisporthd2.html
 espn1	`0https://live.samuraitv.biz.id/p/espn1.html
 espn1ar	`0https://live.samuraitv.biz.id/p/espn1.html
 espn2ar	`0https://live.samuraitv.biz.id/p/espn2_31.html
@@ -273,8 +271,8 @@ euros2sk	`0https://live.samuraitv.biz.id/p/eurosport2.html
 fancode1	`0https://live.samuraitv.biz.id/p/samuraitv-body-margin-0px_12.html
 fancode2	`0https://live.samuraitv.biz.id/p/fancode_22.html
 fancode3	`0https://live.samuraitv.biz.id/p/disneyglobal.html
-fifa1	`0https://live.samuraitv.biz.id/p/1sport_8.html
-fifa2	`0https://live.samuraitv.biz.id/p/1sportph_16.html
+fifa1.onesportsplus	`0https://live.samuraitv.biz.id/p/1sport_8.html
+fifa2.tvnmovies	`0https://live.samuraitv.biz.id/p/1sportph_16.html
 fishingtv	`0https://live.samuraitv.biz.id/p/fishingtv.html
 fox2usa	`0https://live.samuraitv.biz.id/p/foxsportusa2.html
 foxdeportes	`0https://live.samuraitv.biz.id/p/foxdeportes.html
@@ -487,6 +485,8 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.digi3	`0https://live.samuraitv.biz.id/p/digi3.html
 ^=.dubairacing	`0https://live.samuraitv.biz.id/p/dubairacing.html
 ^=.dubais1	`0https://live.samuraitv.biz.id/p/dubaisporthd1_18.html
+^=.dubais2	`0https://live.samuraitv.biz.id/p/dubaisporthd1.html
+^=.dubais3	`0https://live.samuraitv.biz.id/p/dubaisporthd2.html
 ^=.eleven1	`0https://live.samuraitv.biz.id/p/eleven1.html
 ^=.eleven2	`0https://live.samuraitv.biz.id/p/eleven2.html
 ^=.eleven2pt	`0https://live.samuraitv.biz.id/p/dazn2.html
@@ -528,7 +528,6 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.iklan	`0https://live.samuraitv.biz.id/p/iklan.html
 ^=.iribvarzhes	`0https://live.samuraitv.biz.id/p/iribvarzhes.html
 ^=.itv1	`0https://live.samuraitv.biz.id/p/itv1.html
-^=.kompastv	`0https://live.samuraitv.biz.id/p/kompastv.html
 ^=.ktv	`0https://live.samuraitv.biz.id/p/kidstv.html
 ^=.la1esp	`0https://live.samuraitv.biz.id/p/la1.html
 ^=.la2esp	`0https://live.samuraitv.biz.id/p/la2esp.html
@@ -554,7 +553,6 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.mligade6	`0https://live.samuraitv.biz.id/p/diema3.html
 ^=.mncsport2	`0https://live.samuraitv.biz.id/p/sportstar2_15.html
 ^=.mncsport3	`0https://live.samuraitv.biz.id/p/mncsp3.html
-^=.mnctv	`0https://live.samuraitv.biz.id/p/tester.html
 ^=.movistar	`0https://live.samuraitv.biz.id/p/moviestar.html
 ^=.mutv	`0https://live.samuraitv.biz.id/p/mutv.html
 ^=.nbcsport	`0https://live.samuraitv.biz.id/p/nbcusa.html
@@ -626,8 +624,6 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.tntmx	`0https://live.samuraitv.biz.id/p/tntmx.html
 ^=.tnts5	`0https://live.samuraitv.biz.id/p/tntsport5-uk.html
 ^=.tnts6	`0https://live.samuraitv.biz.id/p/tnts6-ios.html
-^=.trans7	`0https://live.samuraitv.biz.id/p/trans7.html
-^=.transtv	`0https://live.samuraitv.biz.id/p/transtv.html
 ^=.truepl1	`0https://live.samuraitv.biz.id/p/truepl1.html
 ^=.truepl2	`0https://live.samuraitv.biz.id/p/truepl2.html
 ^=.truepl3	`0https://live.samuraitv.biz.id/p/truepl3.html
@@ -647,7 +643,6 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.tv2sdk	`0https://live.samuraitv.biz.id/p/tv2dk.html
 ^=.tv2sxdk	`0https://live.samuraitv.biz.id/p/tv2xdk.html
 ^=.tvnsport	`0https://live.samuraitv.biz.id/p/tvnsport.html
-^=.tvone	`0https://live.samuraitv.biz.id/p/tvone.html
 ^=.tycsar	`0https://live.samuraitv.biz.id/p/tycsar.html
 ^=.universoe	`0https://live.samuraitv.biz.id/p/universoeast.html
 ^=.universow	`0https://live.samuraitv.biz.id/p/universowest.html
@@ -664,12 +659,17 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=gtv	`0https://live.samuraitv.biz.id/p/gtv-ios.html
 ^=indosiar	`0https://live.samuraitv.biz.id/p/indosiar_7.html
 ^=inews	`0https://live.samuraitv.biz.id/p/inews.html
+^=kompastv	`0https://live.samuraitv.biz.id/p/kompastv.html
 ^=kompastvv	`0https://live.samuraitv.biz.id/p/kompastv-ios.html
 ^=metrotv	`0https://live.samuraitv.biz.id/p/metrotv.html
+^=mnctv	`0https://live.samuraitv.biz.id/p/tester.html
 ^=mojitv	`0https://live.samuraitv.biz.id/p/mojitv.html
 ^=rctihd	`0https://live.samuraitv.biz.id/p/rcti.html
 ^=rtv	`0https://live.samuraitv.biz.id/p/rtv.html
 ^=sctv	`0https://live.samuraitv.biz.id/p/sctv.html
+^=trans7	`0https://live.samuraitv.biz.id/p/trans7.html
+^=transtv	`0https://live.samuraitv.biz.id/p/transtv.html
+^=tvone	`0https://live.samuraitv.biz.id/p/tvone.html
 
 	^-
 [w]RMTV[z]	^-
