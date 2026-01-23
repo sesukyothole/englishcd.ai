@@ -26,17 +26,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-23.01.2026	^-
-
-22:00 [l]AFC U23 Asian Cup[z]	^-
-Vietnam vs South Korea	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327457/vietnam-u23-vs-south-korea-u23.html
-Vietnam vs South Korea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129281
-Vietnam vs South Korea	https://live.vivo200.com/live/hd-en-1-4472833.m3u8?txSecret=712afa8b141ff02303ac71a3c93cd6cc&txTime=6973D651
-
-23:00 [g]CAF Champions League[z]	^-
-Al Ahly SC vs Young Africans	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4313140/al-ahly-fc-vs-young-africans.html
-Al Ahly SC vs Young Africans	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109430
-
 24.01.2026	^-
 
 01:00 [g]CAF Champions League[z]	^-
@@ -45,27 +34,37 @@ Mamelodi Sundowns vs Al-Hilal Omdurman	`3https://embed-10-08-12-51.linkzhe.eu.or
 
 02:00 [y]French Ligue 1[z]	^-
 AJ Auxerre vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200180/aj-auxerre-vs-paris-saint-germain.html
+AJ Auxerre vs Paris Saint Germain	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4063127
+AJ Auxerre vs Paris Saint Germain	https://play7ba.peodlc.com/live/202_4423280_1.m3u8
 
 02:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199654/fc-st-pauli-vs-hamburger-sv.html
+FC St. Pauli vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107573
+FC St. Pauli vs Hamburger SV	https://play7ba.peodlc.com/live/202_4414675_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194596/inter-milan-vs-pisa.html
+Inter Milan vs Pisa	https://play7ba.peodlc.com/live/202_4414530_1.m3u8
 
 02:45 [g]Belgian Pro League[z]	^-
 Standard Liege vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198984/standard-liege-vs-kaa-gent.html
+Standard Liege vs KAA Gent	https://play7ba.peodlc.com/live/202_4414706_1.m3u8
 
 03:00 [g]English Football League[z]	^-
 Derby County vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203502/derby-county-vs-west-bromwich-albion.html
+Derby County vs West Bromwich WBA	https://play7ba.peodlc.com/live/202_4414692_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Levante vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209744/levante-vs-elche.html
+Levante vs Elche	https://play7ba.peodlc.com/live/202_4418074_1.m3u8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216244/casa-pia-ac-vs-avs-futebol-sad.html
+Casa Pia AC vs AVS Futebol	https://play7ba.peodlc.com/live/202_4423384_1.m3u8
 
 05:00 [g]Argentine Division 1[z]	^-
 San Lorenzo vs Lanus	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4329347/san-lorenzo-vs-club-atltico-lans.html
+San Lorenzo vs Lanus	https://play7ba.peodlc.com/live/202_4766268_1.m3u8
 
 08:15 [g]Argentine Division 1[z]	^-
 Indep Rivadavia vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4329315/independiente-rivadavia-vs-atletico-tucuman.html
