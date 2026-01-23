@@ -28,21 +28,6 @@
 
 23.01.2026	^-
 
-19:00 Liga 1	^-
-Persija Jakarta vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229676/persatuan-sepakbola-indonesia-jakarta-vs-madura-united.html
-Persija Jakarta vs Madura United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109379
-Persija Jakarta vs Madura United	https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-Persija Jakarta vs Madura United	https://live.vivo200.com/live/sd-1-4379365.m3u8?txSecret=d66b5969d5969851bb13b0812a3ae732&txTime=6973AA09
-
-19:00 Liga 2	^-
-PSPS Riau vs Adhyaksa FC Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323743/psps-riau-vs-adhyaksa-fc-banten.html
-PSPS Riau vs Adhyaksa FC Banten	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132495
-PSPS Riau vs Adhyaksa FC Banten	https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-19:15 Malaysian Cup	^-
-Selangor vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329267/selangor-fc-vs-kelantan-the-real-warriors.html
-Selangor vs Kelantan United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109388
-
 20:00 Malaysian Cup	^-
 Terengganu vs UM-Damansara United	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329328/terengganu-fc-vs-um-damansara-united.html
 Terengganu vs UM-Damansara United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109396
@@ -59,6 +44,7 @@ Al Ahly SC vs Young Africans	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 
 01:00 [g]CAF Champions League[z]	^-
 Mamelodi Sundowns vs Al-Hilal Omdurman	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311147/mamelodi-sundowns-vs-al-hilal-omdurman.html
+Mamelodi Sundowns vs Al-Hilal Omdurman	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109503
 
 02:00 [y]French Ligue 1[z]	^-
 AJ Auxerre vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200180/aj-auxerre-vs-paris-saint-germain.html
