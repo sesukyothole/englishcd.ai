@@ -32,10 +32,18 @@
 Mamelodi Sundowns vs Al-Hilal Omdurman	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311147/mamelodi-sundowns-vs-al-hilal-omdurman.html
 Mamelodi Sundowns vs Al-Hilal Omdurman	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109503
 
+01:30 [g]Switzerland Challenge League[z]	^-
+Stade Nyonnais vs Etoile Carouge	`Fhttps://www.fctv33.net/football/switzerland-challenge-league-match-4319503/stade-nyonnais-vs-etoile-carouge.html
+Stade Nyonnais vs Etoile Carouge	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987981
+
 02:00 [y]French Ligue 1[z]	^-
 AJ Auxerre vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200180/aj-auxerre-vs-paris-saint-germain.html
 AJ Auxerre vs Paris Saint Germain	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4063127
 AJ Auxerre vs Paris Saint Germain	https://play7ba.peodlc.com/live/202_4423280_1.m3u8
+
+02:15 [g]Switzerland Challenge League[z]	^-
+Vaduz vs FC Wil 1900	`Fhttps://www.fctv33.net/football/switzerland-challenge-league-match-4319482/vaduz-vs-fc-wil-1900.html
+Vaduz vs FC Wil 1900	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3987980
 
 02:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199654/fc-st-pauli-vs-hamburger-sv.html
@@ -44,10 +52,12 @@ FC St. Pauli vs Hamburger SV	https://play7ba.peodlc.com/live/202_4414675_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194596/inter-milan-vs-pisa.html
+Inter Milan vs Pisa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107558
 Inter Milan vs Pisa	https://play7ba.peodlc.com/live/202_4414530_1.m3u8
 
 02:45 [g]Belgian Pro League[z]	^-
 Standard Liege vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198984/standard-liege-vs-kaa-gent.html
+Standard Liege vs KAA Gent	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4109582
 Standard Liege vs KAA Gent	https://play7ba.peodlc.com/live/202_4414706_1.m3u8
 
 03:00 [g]English Football League[z]	^-
@@ -65,6 +75,9 @@ Casa Pia AC vs AVS Futebol	https://play7ba.peodlc.com/live/202_4423384_1.m3u8
 05:00 [g]Argentine Division 1[z]	^-
 San Lorenzo vs Lanus	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4329347/san-lorenzo-vs-club-atltico-lans.html
 San Lorenzo vs Lanus	https://play7ba.peodlc.com/live/202_4766268_1.m3u8
+
+06:00 [g]Argentine Division 1[z]	^-
+Independiente vs Estudiantes Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321850/ca-independiente-vs-estudiantes-la-plata.html
 
 08:15 [g]Argentine Division 1[z]	^-
 Indep Rivadavia vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4329315/independiente-rivadavia-vs-atletico-tucuman.html
