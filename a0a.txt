@@ -143,11 +143,6 @@ RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
 iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
 
 	^-
-FIFA World Cup	`0https://xstalk.com/profile/FIFAWorldCup
-Asian Football Confederation	`0https://xstalk.com/profile/theafcdotcom
-Timnas Indonesia	`0https://xstalk.com/profile/TimnasIndonesia
-
-	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
@@ -1156,6 +1151,11 @@ Sports 5 🇧🇷	`0https://sportsonline.si/channels/bra/br5.php
 Sports 6 🇧🇷	`0https://sportsonline.si/channels/bra/br6.php
 Sports 7 🇧🇷	`0https://sportsonline.si/channels/bra/br7.php
 Sports 8 🇧🇷	`0https://sportsonline.si/channels/bra/br8.php
+
+	^-
+FIFA World Cup	`0https://xstalk.com/profile/FIFAWorldCup
+Asian Football Confederation	`0https://xstalk.com/profile/theafcdotcom
+Timnas Indonesia	`0https://xstalk.com/profile/TimnasIndonesia
 
 	^-
 LaLiga TV	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
