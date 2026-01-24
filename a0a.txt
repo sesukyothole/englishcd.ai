@@ -28,11 +28,19 @@
 
 25.01.2026	^-
 
+05:30 [g]Argentine Division 1[z]	^-
+Gimnasia La Plata vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335540/gimnasia-la-plata-vs-racing-club-de-avellaneda.html
+Gimnasia La Plata vs Racing Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020298
+Gimnasia La Plata vs Racing Club	https://play7ba.peodlc.com/live/202_4766265_1.m3u8
+
 08:00 [g]Argentine Division 1[z]	^-
 Rosario Central vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4336364/rosario-central-vs-belgrano.html
+Rosario Central vs Belgrano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020299
+Rosario Central vs Belgrano	https://play7ba.peodlc.com/live/202_4766260_1.m3u8
 
 15:00 [g]Australia A-League[z]	^-
 Western Sydney vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282174/western-sydney-vs-perth-glory.html
+Western Sydney vs Perth Glory	https://play7ba.peodlc.com/live/202_4418252_1.m3u8
 
 15:30 Liga 1	^-
 PSIM Yogyakarta vs Perse Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229451/psim-yogyakarta-vs-persebaya-surabaya.html
