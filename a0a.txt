@@ -59,9 +59,11 @@ PSIS Semarang vs Persela Lamongan	`3https://embed-10-08-12-51.linkzhe.eu.org/emb
 
 19:00 Malaysian Cup	^-
 DPMM FC vs Kelantan Red Warrior	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329266/dpmm-fc-vs-kelantan-red-warrior.html
+DPMM FC vs Kelantan Red Warrior	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113135
 
 19:30 [y]English Premier League[z]	^-
 West Ham United vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193936/west-ham-united-vs-sunderland.html
+West Ham United vs Sunderland AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4083140
 West Ham United vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4414636_1.m3u8
 
 19:30 [g]Thai League 1[z]	^-
@@ -90,23 +92,30 @@ FSV Mainz 05 vs VfL Wolfsburg	https://play7ba.peodlc.com/live/202_4414679_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193837/burnley-vs-tottenham-hotspur.html
+Burnley vs Tottenham Hotspur	https://play7ba.peodlc.com/live/202_4414644_1.m3u8
 Fulham vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193953/fulham-vs-brighton-hove-albion.html
+Fulham vs Brighton Hove Albion	https://play7ba.peodlc.com/live/202_4414639_1.m3u8
 Manchester City vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193974/manchester-city-vs-wolverhampton-wanderers.html
+Manchester City vs Wolves	https://play7ba.peodlc.com/live/202_4414638_1.m3u8
 
 22:00 [g]Belgian Pro League[z]	^-
 LaLouviere vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199017/raal-la-louvire-vs-sint-truidense.html
+LaLouviere vs Sint-Truidense	https://play7ba.peodlc.com/live/202_4414704_1.m3u8
 
 22:00 [l]AFC U23 Asian Cup[z]	^-
 China vs Japan	`Fhttps://www.fctv33.net/football/afc-u23-asian-cup-match-4327456/china-u23-vs-japan-u23.html
 
 22:15 [y]Spanish La Liga[z]	^-
 Valencia vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209688/valencia-cf-vs-rcd-espanyol-de-barcelona.html
+Valencia vs RCD Espanyol	https://play7ba.peodlc.com/live/202_4418075_1.m3u8
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199123/afc-ajax-vs-volendam.html
+AFC Ajax vs Volendam	https://play7ba.peodlc.com/live/202_4418083_1.m3u8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Moreirense vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216249/moreirense-vs-santa-clara.html
+Moreirense vs Santa Clara	https://play7ba.peodlc.com/live/202_4423379_1.m3u8
 
 23:00 [y]French Ligue 1[z]	^-
 Rennes vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200280/stade-rennais-fc-vs-lorient.html
