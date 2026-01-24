@@ -233,12 +233,12 @@ Jak TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=25
 JTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=24
 TVRI	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=16
 
-[l]For Desktop[z]	^-
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
-MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
-RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
-iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7[]`Fhttps://m.rctiplus.com/tv/gtv
+MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7[]`Fhttps://m.rctiplus.com/tv/mnctv
+RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7[]`Fhttps://m.rctiplus.com/tv/rcti
+iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7[]`Fhttps://m.rctiplus.com/tv/inews
 
+[l]For Desktop[z]	^-
 HBO ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 HBO Family ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 HBO Hits ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
