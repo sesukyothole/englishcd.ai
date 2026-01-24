@@ -84,26 +84,34 @@ Renaissance Sportive vs Pyramids FC	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 
 02:45 [y]Italian Serie A[z]	^-
 Lecce vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194801/lecce-vs-lazio.html
+Lecce vs Lazio	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107579
 Lecce vs Lazio	https://play7ba.peodlc.com/live/202_4418246_1.m3u8
 
 02:45 [g]Belgian Pro League[z]	^-
 Oud Heverlee vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199052/oud-heverlee-leuven-vs-union-saint-gilloise.html
+Oud Heverlee vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113761
 Oud Heverlee vs Saint Gilloise	https://play7ba.peodlc.com/live/202_4414708_1.m3u8
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 Twente Enschede vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199313/fc-twente-enschede-vs-excelsior-sbv.html
+Twente Enschede vs Excelsior SBV	https://play7ba.peodlc.com/live/202_4418085_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Villarreal vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209737/villarreal-cf-vs-real-madrid.html
+Villarreal vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093344
+Villarreal vs Real Madrid	https://play7ba.peodlc.com/live/202_4418071_1.m3u8
 
 03:00 [g]Argentine Division 1[z]	^-
 Barracas Central vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328438/barracas-central-vs-river-plate.html
+Barracas Central vs River Plate	https://play7ba.peodlc.com/live/202_4766262_1.m3u8
 
 03:05 [y]French Ligue 1[z]	^-
 Marseille vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200301/marseille-vs-rc-lens.html
+Marseille vs Lens	https://play7ba.peodlc.com/live/202_4423278_1.m3u8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216167/estoril-vs-vitoria-guimaraes.html
+Estoril vs Vitoria Guimaraes	https://play7ba.peodlc.com/live/202_4423383_1.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
