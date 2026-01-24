@@ -36,6 +36,7 @@ Johor Darul Takzim vs PDRM	https://live5.msrktz.app/live/99121525.m3u8
 18:30 [g]Thai League 1[z]	^-
 Bangkok Utd vs Chonburi Shark	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319750/bangkok-united-fc-vs-chonburi-fc.html
 Bangkok Utd vs Chonburi Shark	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3991601
+Bangkok Utd vs Chonburi Shark	https://play7ba.peodlc.com/live/202_4751470_1.m3u8
 
 18:30 Malaysian Cup	^-
 Kuching FA vs Penang	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329553/kuching-city-fc-vs-penang-fc.html
@@ -43,35 +44,49 @@ Kuching FA vs Penang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 
 19:00 Liga 1	^-
 Persijap Jepara vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229742/persatuan-sepakbola-indonesia-jepara-vs-persatuan-sepakbola-makassar.html
+Persijap Jepara vs PSM Makassar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113115
 
 19:00 [g]Thai League 1[z]	^-
 Chiangrai Utd vs Ayutthaya Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320351/chiangrai-united-vs-ayutthaya-united.html
+Chiangrai Utd vs Ayutthaya Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113129
+Chiangrai Utd vs Ayutthaya Utd	https://play7ba.peodlc.com/live/202_4751471_1.m3u8
 
 19:00 Liga 2	^-
 Persiba Balikpapan vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323720/persiba-balikpapan-vs-barito-putera.html
+Persiba Balikpapan vs Barito Putera	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4112686
 PSIS Semarang vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323737/psis-semarang-vs-persela-lamongan.html
+PSIS Semarang vs Persela Lamongan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4112687
 
 19:00 Malaysian Cup	^-
 DPMM FC vs Kelantan Red Warrior	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329266/dpmm-fc-vs-kelantan-red-warrior.html
 
 19:30 [y]English Premier League[z]	^-
 West Ham United vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193936/west-ham-united-vs-sunderland.html
+West Ham United vs Sunderland AFC	https://play7ba.peodlc.com/live/202_4414636_1.m3u8
 
 19:30 [g]Thai League 1[z]	^-
 Port FC vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319752/port-fc-vs-ratchaburi-fc.html
+Port FC vs Ratchaburi FC	https://play7ba.peodlc.com/live/202_4750491_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209617/rayo-vallecano-vs-ca-osasuna.html
+Rayo Vallecano vs Osasuna	https://play7ba.peodlc.com/live/202_4418072_1.m3u8
 
 21:00 [y]Italian Serie A[z]	^-
 Como vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194621/como-vs-torino.html
+Como vs Torino	https://play7ba.peodlc.com/live/202_4414648_1.m3u8
 
 21:30 [y]Bundesliga[z]	^-
 1. FC Heidenheim vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199909/1-fc-heidenheim-1846-vs-rb-leipzig.html
+1. FC Heidenheim vs RB Leipzig	https://play7ba.peodlc.com/live/202_4414680_1.m3u8
 Bayer Leverkusen vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199912/bayer-04-leverkusen-vs-sv-werder-bremen.html
+Bayer Leverkusen vs Werder Bremen	https://play7ba.peodlc.com/live/202_4414686_1.m3u8
 Eintracht Frankfurt vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199917/eintracht-frankfurt-vs-tsg-hoffenheim.html
+Eintracht Frankfurt vs TSG Hoffenheim	https://play7ba.peodlc.com/live/202_4414678_1.m3u8
 Bayern Munchen vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199921/fc-bayern-munich-vs-fc-augsburg.html
+Bayern Munchen vs FC Augsburg	https://play7ba.peodlc.com/live/202_4414688_1.m3u8
 FSV Mainz 05 vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199922/1-fsv-mainz-05-vs-vfl-wolfsburg.html
+FSV Mainz 05 vs VfL Wolfsburg	https://play7ba.peodlc.com/live/202_4414679_1.m3u8
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193837/burnley-vs-tottenham-hotspur.html
