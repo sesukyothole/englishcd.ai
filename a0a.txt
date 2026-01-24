@@ -28,21 +28,6 @@
 
 25.01.2026	^-
 
-00:45 [y]Netherlands Eredivisie[z]	^-
-NEC Nijmegen vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199171/nec-nijmegen-vs-pec-zwolle.html
-NEC Nijmegen vs PEC Zwolle	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093487
-NEC Nijmegen vs PEC Zwolle	https://play7ba.peodlc.com/live/202_4418084_1.m3u8
-
-01:00 [y]French Ligue 1[z]	^-
-Le Havre vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200277/havre-athletic-club-vs-as-monaco.html
-Le Havre vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4063136
-Le Havre vs Monaco	https://play7ba.peodlc.com/live/202_4423282_1.m3u8
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-FC Arouca vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216241/fc-arouca-vs-sporting-cp.html
-FC Arouca vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113636
-FC Arouca vs Sporting CP	https://play7ba.peodlc.com/live/202_4423386_1.m3u8
-
 02:00 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199312/psv-eindhoven-vs-nac-breda.html
 PSV Eindhoven vs NAC Breda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093488
@@ -94,6 +79,116 @@ Estoril vs Vitoria Guimaraes	https://play7ba.peodlc.com/live/202_4423383_1.m3u8
 
 08:00 [g]Argentine Division 1[z]	^-
 Rosario Central vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4336364/rosario-central-vs-belgrano.html
+
+15:00 [g]Australia A-League[z]	^-
+Western Sydney vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282174/western-sydney-vs-perth-glory.html
+
+15:30 Liga 1	^-
+PSIM Yogyakarta vs Perse Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229451/psim-yogyakarta-vs-persebaya-surabaya.html
+
+15:30 Liga 2	^-
+Garudayaksa FC vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323744/garudayaksa-fc-vs-psms-medan.html
+Deltras Sidoarjo vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323759/deltras-sidoarjo-vs-persipal-palu.html
+
+16:00 Malaysian Cup	^-
+Kuala Lumpur vs Perak	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329322/kuala-lumpur-city-fc-vs-perak-fc.html
+
+18:00 [g]Thai League 1[z]	^-
+Lamphun Warrior vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319753/lamphun-warriors-vs-sukhothai.html
+Nakhon Ratchasima vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319756/nakhon-ratchasima-mazda-fc-vs-kanchanaburi-power-fc.html
+
+18:15 [y]Netherlands Eredivisie[z]	^-
+SC Telstar vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199127/sc-telstar-vs-az-alkmaar.html
+
+18:30 [y]Italian Serie A[z]	^-
+Sassuolo vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194826/sassuolo-vs-cremonese.html
+
+18:30 [g]Thai League 1[z]	^-
+BG Pathum Utd vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319762/bg-pathum-united-vs-uthai-thani-forest.html
+
+19:00 [g]English Football League[z]	^-
+Portsmouth vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203509/portsmouth-vs-southampton.html
+
+19:00 Liga 1	^-
+Persib Bandung vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229662/persib-bandung-vs-psbs-biak-numfor.html
+
+19:00 [g]Thai League 1[z]	^-
+Muang Thong United vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320269/muangthong-united-vs-rayong-fc.html
+
+19:00 Liga 2	^-
+Kendal Tornado vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323747/kendal-tornado-fc-vs-persiku-kudus.html
+
+20:00 [y]Spanish La Liga[z]	^-
+Atletico Madrid vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209636/atletico-madrid-vs-rcd-mallorca.html
+
+20:00 [g]CAF Champions League[z]	^-
+Saint Eloi Lupopo vs MC Alger	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311151/saint-eloi-lupopo-vs-mc-alger.html
+
+20:00 Malaysian Cup	^-
+Negeri Sembilan vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329360/negeri-sembilan-vs-imigresen-fc.html
+
+20:30 [y]Netherlands Eredivisie[z]	^-
+Groningen vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199235/groningen-vs-fortuna-sittard.html
+
+21:00 [y]English Premier League[z]	^-
+Brentford vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193946/brentford-vs-nottingham-forest.html
+Crystal Palace vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193950/crystal-palace-vs-chelsea.html
+Newcastle United vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194187/newcastle-united-vs-aston-villa.html
+
+21:00 [y]Italian Serie A[z]	^-
+Atalanta vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194684/atalanta-vs-parma.html
+Genoa vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194795/genoa-vs-bologna.html
+
+21:00 [y]French Ligue 1[z]	^-
+Nantes vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200160/fc-nantes-vs-ogc-nice.html
+
+21:30 [y]Bundesliga[z]	^-
+Br Monchengladbach vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199914/borussia-monchengladbach-vs-vfb-stuttgart.html
+
+22:00 [g]Belgian Pro League[z]	^-
+Racing Genk vs Cercle Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198952/racing-genk-vs-cercle-brugge.html
+
+22:00 [g]Scottish Premiership[z]	^-
+Heart of Midlothian vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206266/heart-of-midlothian-vs-celtic-fc.html
+
+22:15 [y]Spanish La Liga[z]	^-
+FC Barcelona vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209671/fc-barcelona-vs-real-oviedo.html
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+Nacional da Madeira vs Rio Ave	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216243/nacional-da-madeira-vs-rio-ave.html
+
+22:45 [y]Netherlands Eredivisie[z]	^-
+FC Utrecht vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199158/fc-utrecht-vs-sparta-rotterdam.html
+Feyenoord vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199342/feyenoord-vs-heracles-almelo.html
+
+23:00 [g]CAF Champions League[z]	^-
+Stade Malien vs Petro Atletico	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311367/stade-malien-vs-petro-atletico-de-luanda.html
+
+23:15 [y]French Ligue 1[z]	^-
+Paris FC vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200346/paris-fc-vs-angers-sco.html
+Stade Brestois vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200368/stade-brestois-29-vs-toulouse-fc.html
+Metz vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200369/metz-vs-lyon.html
+
+23:30 [y]English Premier League[z]	^-
+Arsenal vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193895/arsenal-vs-manchester-united.html
+
+23:30 [y]Bundesliga[z]	^-
+SC Freiburg vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199908/sc-freiburg-vs-fc-kln.html
+
+26.01.2026	^-
+
+00:00 [y]Italian Serie A[z]	^-
+Juventus vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194812/juventus-vs-napoli.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Real Sociedad vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209777/real-sociedad-vs-rc-celta.html
+
+00:30 [g]Saudi Professional League[z]	^-
+Al-Riyadh vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256257/al-riyadh-vs-al-hilal.html
+
+01:00 [g]Portuguese Primera Liga[z]	^-
+FC Famalicao vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215996/fc-famalicao-vs-cd-tondela.html
+Benfica vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216254/benfica-vs-cf-estrela-amadora-sad.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
