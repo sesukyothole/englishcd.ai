@@ -28,11 +28,6 @@
 
 25.01.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Fiorentina vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194822/fiorentina-vs-cagliari.html
-Fiorentina vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107556
-Fiorentina vs Cagliari	https://play7ba.peodlc.com/live/202_4418178_1.m3u8
-
 00:15 [g]Belgian Pro League[z]	^-
 Club Brugge vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198898/club-brugge-vs-zulte-waregem.html
 Club Brugge vs Zulte-Waregem	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113615
@@ -114,10 +109,12 @@ Barracas Central vs River Plate	https://play7ba.peodlc.com/live/202_4766262_1.m3
 
 03:05 [y]French Ligue 1[z]	^-
 Marseille vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200301/marseille-vs-rc-lens.html
+Marseille vs Lens	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4063137
 Marseille vs Lens	https://play7ba.peodlc.com/live/202_4423278_1.m3u8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216167/estoril-vs-vitoria-guimaraes.html
+Estoril vs Vitoria Guimaraes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113773
 Estoril vs Vitoria Guimaraes	https://play7ba.peodlc.com/live/202_4423383_1.m3u8
 
 08:00 [g]Argentine Division 1[z]	^-
