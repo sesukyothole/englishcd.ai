@@ -28,26 +28,6 @@
 
 25.01.2026	^-
 
-03:00 [y]Netherlands Eredivisie[z]	^-
-Twente Enschede vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199313/fc-twente-enschede-vs-excelsior-sbv.html
-Twente Enschede vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093483
-Twente Enschede vs Excelsior SBV	https://play7ba.peodlc.com/live/202_4418085_1.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-Villarreal vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209737/villarreal-cf-vs-real-madrid.html
-Villarreal vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093344
-Villarreal vs Real Madrid	https://play7ba.peodlc.com/live/202_4418071_1.m3u8
-
-03:00 [g]Argentine Division 1[z]	^-
-Barracas Central vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328438/barracas-central-vs-river-plate.html
-Barracas Central vs River Plate	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020293
-Barracas Central vs River Plate	https://play7ba.peodlc.com/live/202_4766262_1.m3u8
-
-03:05 [y]French Ligue 1[z]	^-
-Marseille vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200301/marseille-vs-rc-lens.html
-Marseille vs Lens	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4063137
-Marseille vs Lens	https://play7ba.peodlc.com/live/202_4423278_1.m3u8
-
 03:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216167/estoril-vs-vitoria-guimaraes.html
 Estoril vs Vitoria Guimaraes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113773
