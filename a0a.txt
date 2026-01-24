@@ -69,6 +69,7 @@ Port FC vs Ratchaburi FC	https://play7ba.peodlc.com/live/202_4750491_1.m3u8
 
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209617/rayo-vallecano-vs-ca-osasuna.html
+Rayo Vallecano vs Osasuna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093351
 Rayo Vallecano vs Osasuna	https://play7ba.peodlc.com/live/202_4418072_1.m3u8
 
 21:00 [y]Italian Serie A[z]	^-
