@@ -36,10 +36,12 @@ Brisbane Roar vs Adelaide United	https://live.vivo200.com/live/sd-1-4426648.m3u8
 13:30 Liga 1	^-
 Malut United vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229562/malut-united-vs-persatuan-sepak-bola-indonesia-kediri.html
 Malut United vs Persik Kediri	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4113020
+Malut United vs Persik Kediri	https://live.vivo200.com/live/sd-1-4379410.m3u8?txSecret=a3600b78361374126167d0bc6820c1d2&txTime=6974AD4B
 
 13:30 Liga 2	^-
 Persipura Jayapura vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323719/persipura-jayapura-vs-pss-sleman.html
 Persipura Jayapura vs PSS Sleman	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138244
+Persipura Jayapura vs PSS Sleman	https://bf.jlbflive.cc/live/5005016_hd01.m3u8?txSecret=b8f4ae5a956d51dfe737a6f035281681&txTime=69745d72
 
 15:30 Liga 1	^-
 Bali United vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229570/bali-united-vs-semen-padang.html
