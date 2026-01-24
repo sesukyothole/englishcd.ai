@@ -94,6 +94,7 @@ Oud Heverlee vs Saint Gilloise	https://play7ba.peodlc.com/live/202_4414708_1.m3u
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 Twente Enschede vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199313/fc-twente-enschede-vs-excelsior-sbv.html
+Twente Enschede vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093483
 Twente Enschede vs Excelsior SBV	https://play7ba.peodlc.com/live/202_4418085_1.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
@@ -103,6 +104,7 @@ Villarreal vs Real Madrid	https://play7ba.peodlc.com/live/202_4418071_1.m3u8
 
 03:00 [g]Argentine Division 1[z]	^-
 Barracas Central vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328438/barracas-central-vs-river-plate.html
+Barracas Central vs River Plate	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020293
 Barracas Central vs River Plate	https://play7ba.peodlc.com/live/202_4766262_1.m3u8
 
 03:05 [y]French Ligue 1[z]	^-
