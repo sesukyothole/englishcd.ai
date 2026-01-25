@@ -28,18 +28,6 @@
 
 26.01.2026	^-
 
-01:00 [g]Romanian Super Liga[z]	^-
-Fotbal Club FCSB vs CFR Cluj	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4201036/fotbal-club-fcsb-vs-cfr-cluj.html
-Fotbal Club FCSB vs CFR Cluj	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4115549
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-FC Famalicao vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215996/fc-famalicao-vs-cd-tondela.html
-FC Famalicao vs CD Tondela	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4118311
-FC Famalicao vs CD Tondela	https://play7ba.peodlc.com/live/202_4423382_1.m3u8
-Benfica vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216254/benfica-vs-cf-estrela-amadora-sad.html
-Benfica vs Estrela da Amadora	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4118309
-Benfica vs Estrela da Amadora	https://play7ba.peodlc.com/live/202_4423388_1.m3u8
-
 01:15 [g]Belgian Pro League[z]	^-
 Mechelen vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198887/kv-mechelen-vs-kvc-westerlo.html
 Mechelen vs Westerlo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117292
