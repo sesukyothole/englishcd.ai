@@ -28,9 +28,6 @@
 
 25.01.2026	^-
 
-23:00 [g]CAF Champions League[z]	^-
-Stade Malien vs Petro Atletico	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311367/stade-malien-vs-petro-atletico-de-luanda.html
-
 23:15 [y]French Ligue 1[z]	^-
 Paris FC vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200346/paris-fc-vs-angers-sco.html
 Paris FC vs Angers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4063170
@@ -89,6 +86,10 @@ FC Famalicao vs CD Tondela	https://play7ba.peodlc.com/live/202_4423382_1.m3u8
 Benfica vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216254/benfica-vs-cf-estrela-amadora-sad.html
 Benfica vs Estrela da Amadora	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4118309
 Benfica vs Estrela da Amadora	https://play7ba.peodlc.com/live/202_4423388_1.m3u8
+
+01:15 [g]Belgian Pro League[z]	^-
+Mechelen vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198887/kv-mechelen-vs-kvc-westerlo.html
+Mechelen vs Westerlo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117292
 
 02:30 [l]International Friendly[z]	^-
 Bolivia vs Mexico	`Fhttps://www.fctv33.net/football/international-friendly-match-4339597/bolivia-vs-mexico.html
