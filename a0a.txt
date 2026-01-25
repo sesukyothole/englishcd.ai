@@ -41,8 +41,10 @@ PSIM Yogyakarta vs Perse Surabaya	https://live.vivo200.com/live/sd-1-4379352.m3u
 15:30 Liga 2	^-
 Garudayaksa FC vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323744/garudayaksa-fc-vs-psms-medan.html
 Garudayaksa FC vs PSMS Medan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117417
+Garudayaksa FC vs PSMS Medan	https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
 Deltras Sidoarjo vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323759/deltras-sidoarjo-vs-persipal-palu.html
 Deltras Sidoarjo vs Persipal Palu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117412
+Deltras Sidoarjo vs Persipal Palu	https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
 16:00 Malaysian Cup	^-
 Kuala Lumpur vs Perak	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4329322/kuala-lumpur-city-fc-vs-perak-fc.html
