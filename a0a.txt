@@ -38,6 +38,10 @@ Boca Juniors vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/argentine-di
 Boca Juniors vs Deportivo Riestra	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020289
 Boca Juniors vs Deportivo Riestra	https://play7ba.peodlc.com/live/202_4766258_1.m3u8
 
+07:00 [g]Argentine Division 1[z]	^-
+Argentinos Jr vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4334062/argentinos-juniors-vs-sarmiento-junin.html
+Atletico Tigre vs Estudiantes Rio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4336967/club-atletico-tigre-vs-estudiantes-rio-cuarto.html
+
 13:40 [g]Australia A-League[z]	^-
 Melbourne Victory vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282179/melbourne-victory-vs-sydney-fc.html
 
@@ -51,6 +55,24 @@ Al-Hazm vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-mat
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256000/al-nassr-fc-vs-al-taawoun.html
+
+02:45 [y]Italian Serie A[z]	^-
+Verona vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194594/hellas-verona-vs-udinese.html
+
+03:00 [y]English Premier League[z]	^-
+Everton vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194185/everton-vs-leeds-united.html
+
+03:00 [g]English Football League[z]	^-
+Norwich City vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203900/norwich-city-vs-coventry-city.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Girona vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209695/girona-fc-vs-getafe.html
+
+03:00 [g]Argentine Division 1[z]	^-
+CA Platense vs Instituto	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321849/ca-platense-vs-instituto-de-crdoba.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+FC Porto vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216168/fc-porto-vs-gil-vicente.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
