@@ -52,18 +52,21 @@ BG Pathum Utd vs Uthai Thani Forest	https://play7ba.peodlc.com/live/202_4750490_
 
 19:00 [g]English Football League[z]	^-
 Portsmouth vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203509/portsmouth-vs-southampton.html
+Portsmouth vs Southampton	https://play7ba.peodlc.com/live/202_4414687_1.m3u8
 
 19:00 Liga 1	^-
 Persib Bandung vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229662/persib-bandung-vs-psbs-biak-numfor.html
 
 19:00 [g]Thai League 1[z]	^-
 Muang Thong United vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320269/muangthong-united-vs-rayong-fc.html
+Muang Thong United vs Rayong FC	https://play7ba.peodlc.com/live/202_4750470_1.m3u8
 
 19:00 Liga 2	^-
 Kendal Tornado vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323747/kendal-tornado-fc-vs-persiku-kudus.html
 
 20:00 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209636/atletico-madrid-vs-rcd-mallorca.html
+Atletico Madrid vs Mallorca	https://play7ba.peodlc.com/live/202_4418080_1.m3u8
 
 20:00 [g]CAF Champions League[z]	^-
 Saint Eloi Lupopo vs MC Alger	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311151/saint-eloi-lupopo-vs-mc-alger.html
@@ -73,18 +76,25 @@ Negeri Sembilan vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-cup-
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 Groningen vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199235/groningen-vs-fortuna-sittard.html
+Groningen vs Fortuna Sittard	https://play7ba.peodlc.com/live/202_4418088_1.m3u8
 
 21:00 [y]English Premier League[z]	^-
 Brentford vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193946/brentford-vs-nottingham-forest.html
+Brentford vs Nottingham Forest	https://play7ba.peodlc.com/live/202_4414643_1.m3u8
 Crystal Palace vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193950/crystal-palace-vs-chelsea.html
+Crystal Palace vs Chelsea	https://play7ba.peodlc.com/live/202_4414641_1.m3u8
 Newcastle United vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194187/newcastle-united-vs-aston-villa.html
+Newcastle United vs Aston Villa	https://play7ba.peodlc.com/live/202_4414637_1.m3u8
 
 21:00 [y]Italian Serie A[z]	^-
 Atalanta vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194684/atalanta-vs-parma.html
+Atalanta vs Parma	https://play7ba.peodlc.com/live/202_4418334_1.m3u8
 Genoa vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194795/genoa-vs-bologna.html
+Genoa vs Bologna	https://play7ba.peodlc.com/live/202_4418336_1.m3u8
 
 21:00 [y]French Ligue 1[z]	^-
 Nantes vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200160/fc-nantes-vs-ogc-nice.html
+Nantes vs Nice	https://play7ba.peodlc.com/live/202_4423276_1.m3u8
 
 21:30 [y]Bundesliga[z]	^-
 Br Monchengladbach vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199914/borussia-monchengladbach-vs-vfb-stuttgart.html
