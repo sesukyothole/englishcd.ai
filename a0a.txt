@@ -36,6 +36,7 @@ Western Sydney vs Perth Glory	https://play7ba.peodlc.com/live/202_4418252_1.m3u8
 15:30 Liga 1	^-
 PSIM Yogyakarta vs Perse Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229451/psim-yogyakarta-vs-persebaya-surabaya.html
 PSIM Yogyakarta vs Perse Surabaya	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117846
+PSIM Yogyakarta vs Perse Surabaya	https://live.vivo200.com/live/sd-1-4379352.m3u8?txSecret=19ee553dbeaa70e9d0670770e3a46ab4&txTime=69761AEC
 
 15:30 Liga 2	^-
 Garudayaksa FC vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323744/garudayaksa-fc-vs-psms-medan.html
