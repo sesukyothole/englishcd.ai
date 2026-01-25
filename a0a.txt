@@ -211,10 +211,6 @@ HBO ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 HBO Family ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 HBO Hits ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 HBO Signature ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-^=GTV	`0https://m.rctiplus.com/tv/gtv
-^=MNC TV	`0https://m.rctiplus.com/tv/mnctv
-^=RCTI	`0https://m.rctiplus.com/tv/rcti
-^=iNews	`0https://m.rctiplus.com/tv/inews
 
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
