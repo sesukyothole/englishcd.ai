@@ -206,12 +206,6 @@ MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
 RCTI	`Fhttps://m.rctiplus.com/tv/rcti
 iNews	`Fhttps://m.rctiplus.com/tv/inews
 
-[l]For Desktop[z]	^-
-HBO ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-HBO Family ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-HBO Hits ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-HBO Signature ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
@@ -1516,6 +1510,12 @@ FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8?7
 FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8?7
 FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8?7
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8?7
+
+[l]For Desktop[z]	^-
+HBO ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+HBO Family ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+HBO Hits ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+HBO Signature ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 	^-
 [l]Sports & TV Channels[z] [w]for Desktop[z]	^-
