@@ -44,6 +44,7 @@ Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v
 Sassuolo vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194826/sassuolo-vs-cremonese.html
 Sassuolo vs Cremonese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107570
 Sassuolo vs Cremonese	https://play7ba.peodlc.com/live/202_4418279_1.m3u8
+beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 18:30 [g]Thai League 1[z]	^-
 BG Pathum Utd vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319762/bg-pathum-united-vs-uthai-thani-forest.html
@@ -58,6 +59,7 @@ Portsmouth vs Southampton	https://play7ba.peodlc.com/live/202_4414687_1.m3u8
 19:00 Liga 1	^-
 Persib Bandung vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229662/persib-bandung-vs-psbs-biak-numfor.html
 Persib Bandung vs PSBS Biak Numfor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117948
+Persib Bandung vs PSBS Biak Numfor	https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
 19:00 [g]Thai League 1[z]	^-
 Muang Thong United vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320269/muangthong-united-vs-rayong-fc.html
