@@ -26,39 +26,35 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-26.01.2026	^-
-
-19:00 Liga 1	^-
-Dewa United FC vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229673/dewa-united-fc-vs-arema-fc.html
-Dewa United FC vs Arema FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4122045
-Dewa United FC vs Arema FC	https://live5.msrktz.app/live/43612277.m3u8
-
-22:20 [g]Saudi Professional League[z]	^-
-Al-Hazm vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256258/al-hazem-vs-damac.html
-Al-Hazm vs Dhamk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4122080
-
 27.01.2026	^-
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256000/al-nassr-fc-vs-al-taawoun.html
+Al Nassr FC vs Al-Taawon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4122097
 
 02:45 [y]Italian Serie A[z]	^-
 Verona vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194594/hellas-verona-vs-udinese.html
+Verona vs Udinese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107569
 
 03:00 [y]English Premier League[z]	^-
 Everton vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194185/everton-vs-leeds-united.html
+Everton vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4083172
 
 03:00 [g]English Football League[z]	^-
 Norwich City vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203900/norwich-city-vs-coventry-city.html
+Norwich City vs Coventry City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116684
 
 03:00 [y]Spanish La Liga[z]	^-
 Girona vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209695/girona-fc-vs-getafe.html
+Girona vs Getafe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093350
 
 03:00 [g]Argentine Division 1[z]	^-
 CA Platense vs Instituto	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321849/ca-platense-vs-instituto-de-crdoba.html
+CA Platense vs Instituto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020305
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216168/fc-porto-vs-gil-vicente.html
+FC Porto vs Gil Vicente	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121861
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
