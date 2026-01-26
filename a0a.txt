@@ -28,25 +28,6 @@
 
 27.01.2026	^-
 
-03:00 [y]English Premier League[z]	^-
-Everton vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194185/everton-vs-leeds-united.html
-Everton vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4083172
-Everton vs Leeds United	https://play7ba.peodlc.com/live/202_4414640_1.m3u8
-
-03:00 [g]English Football League[z]	^-
-Norwich City vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203900/norwich-city-vs-coventry-city.html
-Norwich City vs Coventry City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116684
-Norwich City vs Coventry City	https://play7ba.peodlc.com/live/202_4414690_1.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-Girona vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209695/girona-fc-vs-getafe.html
-Girona vs Getafe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4093350
-Girona vs Getafe	https://play7ba.peodlc.com/live/202_4418073_1.m3u8
-
-03:00 [g]Argentine Division 1[z]	^-
-CA Platense vs Instituto	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321849/ca-platense-vs-instituto-de-crdoba.html
-CA Platense vs Instituto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020305
-
 03:15 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216168/fc-porto-vs-gil-vicente.html
 FC Porto vs Gil Vicente	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121861
