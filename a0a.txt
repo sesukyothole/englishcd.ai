@@ -31,10 +31,12 @@
 00:30 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256000/al-nassr-fc-vs-al-taawoun.html
 Al Nassr FC vs Al-Taawon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4122097
+Al Nassr FC vs Al-Taawon	https://play7ba.peodlc.com/live/202_4418188_1.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Verona vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194594/hellas-verona-vs-udinese.html
 Verona vs Udinese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4107569
+Verona vs Udinese	https://play7ba.peodlc.com/live/202_4425040_1.m3u8
 
 03:00 [y]English Premier League[z]	^-
 Everton vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194185/everton-vs-leeds-united.html
