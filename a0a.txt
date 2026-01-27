@@ -28,14 +28,6 @@
 
 28.01.2026	^-
 
-02:30 [y]Bundesliga[z]	^-
-Werder Bremen vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199855/sv-werder-bremen-vs-tsg-hoffenheim.html
-Werder Bremen vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121696
-Werder Bremen vs TSG Hoffenheim	https://play7ba.peodlc.com/live/202_4369434_1.m3u8
-FC St. Pauli vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199870/fc-st-pauli-vs-rb-leipzig.html
-FC St. Pauli vs RB Leipzig	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121695
-FC St. Pauli vs RB Leipzig	https://play7ba.peodlc.com/live/202_4369436_1.m3u8
-
 03:00 [g]Coppa Italia[z]	^-
 Fiorentina vs Como	`Fhttps://www.fctv33.net/football/coppa-italia-match-4313881/fiorentina-vs-como.html
 Fiorentina vs Como	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3950961
@@ -45,6 +37,62 @@ Fiorentina vs Como	https://play7ba.peodlc.com/live/202_4358293_1.m3u8
 Velez Sarsfield vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335555/velez-sarsfield-vs-talleres-cordoba.html
 Velez Sarsfield vs Talleres Cordoba	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020309
 Velez Sarsfield vs Talleres Cordoba	https://play7ba.peodlc.com/live/202_4766276_1.m3u8
+
+06:00 [g]Argentine Division 1[z]	^-
+CA Huracan vs Indep Rivadavia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328791/ca-huracan-vs-independiente-rivadavia.html
+Gimnasia Mendoza vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4329348/gimnasia-y-esgrima-de-mendoza-vs-san-lorenzo.html
+
+08:15 [g]Argentine Division 1[z]	^-
+Newells Old Boys vs Independiente	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321860/club-atltico-newells-old-boys-vs-ca-independiente.html
+Atletico Tucuman vs Central Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4329317/atletico-tucuman-vs-central-cordoba-sde.html
+
+18:00 [g]Thai League Cup[z]	^-
+Thap Luang United vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4329826/thap-luang-united-vs-sukhothai.html
+Lamphun Warrior vs Chonburi Shark FC	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4332886/lamphun-warriors-vs-chonburi-fc.html
+
+18:30 [g]Asean Club Championship[z]	^-
+Tampines Rovers FC vs Buriram Utd	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261086/tampines-rovers-fc-vs-buriram-united.html
+
+18:30 [g]Thai League Cup[z]	^-
+Mahasarakham Utd vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4332888/mahasarakham-sbt-fc-vs-nakhon-ratchasima-mazda-fc.html
+
+19:00 [g]Asean Club Championship[z]	^-
+BG Pathum Utd vs Dynamic Herb Cebu	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4260379/bg-pathum-united-vs-dynamic-herb-cebu.html
+
+19:00 [g]Thai League Cup[z]	^-
+Port FC vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4332884/port-fc-vs-ayutthaya-united.html
+Pattani vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4332885/pattani-vs-uthai-thani-forest.html
+
+20:00 [g]Asean Club Championship[z]	^-
+Selangor vs Cong An Nhan Dan	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261085/selangor-fc-vs-cong-an-ha-noi-fc.html
+
+29.01.2026	^-
+
+00:30 [g]Saudi Professional League[z]	^-
+Al Ahli Jeddah vs Al Ettifaq	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256271/al-ahli-sfc-vs-al-ettifaq-fc.html
+
+03:00 [y]UEFA Champions League[z]	^-
+Bayer Leverkusen vs Villarreal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268428/bayer-04-leverkusen-vs-villarreal-cf.html
+Saint Gilloise vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268464/union-saint-gilloise-vs-atalanta.html
+PSV Eindhoven vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268465/psv-eindhoven-vs-fc-bayern-munich.html
+Club Brugge vs Marseille	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268506/club-brugge-vs-marseille.html
+Benfica vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268514/benfica-vs-real-madrid.html
+Athletic Bilbao vs Sporting CP	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268515/athletic-club-vs-sporting-cp.html
+Atletico Madrid vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269247/atletico-madrid-vs-bodo-glimt.html
+Pafos FC vs Slavia Praha	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269337/pafos-fc-vs-slavia-praha.html
+Liverpool vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269422/liverpool-vs-qarabag.html
+Arsenal vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4273554/arsenal-vs-fc-kairat-almaty.html
+Manchester City vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283018/manchester-city-vs-galatasaray.html
+AFC Ajax vs Olympiakos Piraeus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283019/afc-ajax-vs-olympiakos-piraeus.html
+Eintracht Frankfurt vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283020/eintracht-frankfurt-vs-tottenham-hotspur.html
+Borussia Dortmund vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283021/borussia-dortmund-vs-inter-milan.html
+FC Barcelona vs FC Copenhagen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283026/fc-barcelona-vs-fc-copenhagen.html
+Napoli vs Chelsea	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283027/napoli-vs-chelsea.html
+Monaco vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283678/as-monaco-vs-juventus.html
+Paris Saint Germain vs Newcastle Utd	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283679/paris-saint-germain-vs-newcastle-united.html
+
+03:00 [g]Argentine Division 1[z]	^-
+Aldosivi Plata vs Barracas Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327467/aldosivi-mar-del-plata-vs-barracas-central.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
