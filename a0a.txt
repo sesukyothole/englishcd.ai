@@ -30,13 +30,19 @@
 
 02:30 [y]Bundesliga[z]	^-
 Werder Bremen vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199855/sv-werder-bremen-vs-tsg-hoffenheim.html
+Werder Bremen vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121696
+Werder Bremen vs TSG Hoffenheim	https://play7ba.peodlc.com/live/202_4369434_1.m3u8
 FC St. Pauli vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199870/fc-st-pauli-vs-rb-leipzig.html
+FC St. Pauli vs RB Leipzig	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121695
+FC St. Pauli vs RB Leipzig	https://play7ba.peodlc.com/live/202_4369436_1.m3u8
 
 03:00 [g]Coppa Italia[z]	^-
 Fiorentina vs Como	`Fhttps://www.fctv33.net/football/coppa-italia-match-4313881/fiorentina-vs-como.html
+Fiorentina vs Como	https://play7ba.peodlc.com/live/202_4358293_1.m3u8
 
 03:45 [g]Argentine Division 1[z]	^-
 Velez Sarsfield vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335555/velez-sarsfield-vs-talleres-cordoba.html
+Velez Sarsfield vs Talleres Cordoba	https://play7ba.peodlc.com/live/202_4766276_1.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
