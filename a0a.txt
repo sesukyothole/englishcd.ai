@@ -88,6 +88,11 @@ MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
 RCTI	`Fhttps://m.rctiplus.com/tv/rcti
 iNews	`Fhttps://m.rctiplus.com/tv/inews
 
+^=GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
+^=MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
+^=RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
+^=iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
+
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
