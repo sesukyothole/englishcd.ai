@@ -31,40 +31,58 @@
 03:00 [y]UEFA Champions League[z]	^-
 AFC Ajax vs Olympiakos Piraeus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283019/afc-ajax-vs-olympiakos-piraeus.html
 AFC Ajax vs Olympiakos Piraeus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998000
+AFC Ajax vs Olympiakos Piraeus	https://play7ba.peodlc.com/live/202_3960813_1.m3u8
 Arsenal vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4273554/arsenal-vs-fc-kairat-almaty.html
 Arsenal vs FC Kairat Almaty	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997996
+Arsenal vs FC Kairat Almaty	https://play7ba.peodlc.com/live/202_3960811_1.m3u8
 Athletic Bilbao vs Sporting CP	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268515/athletic-club-vs-sporting-cp.html
 Athletic Bilbao vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997995
+Athletic Bilbao vs Sporting CP	https://play7ba.peodlc.com/live/202_3960800_1.m3u8
 Atletico Madrid vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269247/atletico-madrid-vs-bodo-glimt.html
 Atletico Madrid vs Bodo Glimt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997999
+Atletico Madrid vs Bodo Glimt	https://play7ba.peodlc.com/live/202_3960802_1.m3u8
+Barcelona vs FC Copenhagen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283026/fc-barcelona-vs-fc-copenhagen.html
+Barcelona vs FC Copenhagen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997998
+Barcelona vs FC Copenhagen	https://play7ba.peodlc.com/live/202_3960794_1.m3u8
 Bayer Leverkusen vs Villarreal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268428/bayer-04-leverkusen-vs-villarreal-cf.html
 Bayer Leverkusen vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998002
+Bayer Leverkusen vs Villarreal	https://play7ba.peodlc.com/live/202_3960793_1.m3u8
 Benfica vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268514/benfica-vs-real-madrid.html
 Benfica vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997986
+Benfica vs Real Madrid	https://play7ba.peodlc.com/live/202_3960783_1.m3u8
 Borussia Dortmund vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283021/borussia-dortmund-vs-inter-milan.html
 Borussia Dortmund vs Inter Milan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997997
+Borussia Dortmund vs Inter Milan	https://play7ba.peodlc.com/live/202_3960770_1.m3u8
 Club Brugge vs Marseille	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268506/club-brugge-vs-marseille.html
 Club Brugge vs Marseille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997994
+Club Brugge vs Marseille	https://play7ba.peodlc.com/live/202_3960773_1.m3u8
 Eintracht Frankfurt vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283020/eintracht-frankfurt-vs-tottenham-hotspur.html
 Eintracht Frankfurt vs Tottenham Spur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997991
-FC Barcelona vs FC Copenhagen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283026/fc-barcelona-vs-fc-copenhagen.html
-FC Barcelona vs FC Copenhagen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997998
+Eintracht Frankfurt vs Tottenham Spur	https://play7ba.peodlc.com/live/202_3960763_1.m3u8
 Liverpool vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269422/liverpool-vs-qarabag.html
 Liverpool vs Qarabag	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997990
+Liverpool vs Qarabag	https://play7ba.peodlc.com/live/202_3960743_1.m3u8
 Manchester City vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283018/manchester-city-vs-galatasaray.html
 Manchester City vs Galatasaray	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997993
+Manchester City vs Galatasaray	https://play7ba.peodlc.com/live/202_3960736_1.m3u8
 Monaco vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283678/as-monaco-vs-juventus.html
 Monaco vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998001
+Monaco vs Juventus	https://play7ba.peodlc.com/live/202_3960729_1.m3u8
 Napoli vs Chelsea	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283027/napoli-vs-chelsea.html
 Napoli vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997989
+Napoli vs Chelsea	https://play7ba.peodlc.com/live/202_3960726_1.m3u8
 Pafos FC vs Slavia Praha	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269337/pafos-fc-vs-slavia-praha.html
 Pafos FC vs Slavia Praha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997992
+Pafos FC vs Slavia Praha	https://play7ba.peodlc.com/live/202_3960709_1.m3u8
 Paris Saint Germain vs Newcastle Utd	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283679/paris-saint-germain-vs-newcastle-united.html
 Paris Saint Germain vs Newcastle Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997985
+Paris Saint Germain vs Newcastle Utd	https://play7ba.peodlc.com/live/202_3960708_1.m3u8
 PSV Eindhoven vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268465/psv-eindhoven-vs-fc-bayern-munich.html
 PSV Eindhoven vs Bayern Munchen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997987
+PSV Eindhoven vs Bayern Munchen	https://play7ba.peodlc.com/live/202_3960705_1.m3u8
 Saint Gilloise vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268464/union-saint-gilloise-vs-atalanta.html
 Saint Gilloise vs Atalanta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997988
+Saint Gilloise vs Atalanta	https://play7ba.peodlc.com/live/202_3960694_1.m3u8
 
 03:00 [g]Argentine Division 1[z]	^-
 Aldosivi Plata vs Barracas Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327467/aldosivi-mar-del-plata-vs-barracas-central.html
