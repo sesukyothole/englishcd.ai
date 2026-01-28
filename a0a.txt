@@ -87,6 +87,15 @@ Aldosivi Plata vs Barracas Central	`Fhttps://www.fctv33.net/football/argentine-d
 05:00 [g]Argentine Division 1[z]	^-
 Racing Club vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335542/racing-club-de-avellaneda-vs-rosario-central.html
 
+05:00 [g]Brazilian Serie A[z]	^-
+Atletico Mineiro vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4336003/atletico-mineiro-vs-palmeiras.html
+
+06:00 [g]Argentine Division 1[z]	^-
+River Plate vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328436/river-plate-vs-gimnasia-la-plata.html
+
+08:15 [g]Argentine Division 1[z]	^-
+Estudiantes La Plata vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321851/estudiantes-la-plata-vs-boca-juniors.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
