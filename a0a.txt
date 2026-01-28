@@ -116,13 +116,17 @@ Atletico Mineiro vs Palmeiras	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 
 06:00 [g]Argentine Division 1[z]	^-
 River Plate vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328436/river-plate-vs-gimnasia-la-plata.html
+River Plate vs Gimnasia La Plata	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020329
 River Plate vs Gimnasia La Plata	https://play7ba.peodlc.com/live/202_4766275_1.m3u8
 
 07:30 [g]Brazilian Serie A[z]	^-
 Sao Paulo vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4333042/sao-paulo-vs-cr-flamengo.html
+Sao Paulo vs Flamengo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004462
+Sao Paulo vs Flamengo	https://play7ba.peodlc.com/live/202_4777097_1.m3u8
 
 08:15 [g]Argentine Division 1[z]	^-
 Estudiantes La Plata vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321851/estudiantes-la-plata-vs-boca-juniors.html
+Estudiantes La Plata vs Boca Juniors	https://play7ba.peodlc.com/live/202_4766278_1.m3u8
 
 15:30 Liga 2	^-
 Persekat Tegal vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323752/persekat-tegal-vs-persikad-depok.html
