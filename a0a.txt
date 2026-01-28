@@ -36,9 +36,11 @@ espn4ar	`0https://live.samuraitv.biz.id/p/espn4_31.html
 Arsenal vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4273554/arsenal-vs-fc-kairat-almaty.html
 Arsenal vs FC Kairat Almaty	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997996
 Arsenal vs FC Kairat Almaty	https://play7ba.peodlc.com/live/202_3960811_1.m3u8
+Arsenal vs FC Kairat Almaty	https://live5.msrktz.app/live/43612277.m3u8
 Athletic Bilbao vs Sporting CP	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268515/athletic-club-vs-sporting-cp.html
 Athletic Bilbao vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997995
 Athletic Bilbao vs Sporting CP	https://play7ba.peodlc.com/live/202_3960800_1.m3u8
+
 Atletico Madrid vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269247/atletico-madrid-vs-bodo-glimt.html
 Atletico Madrid vs Bodo Glimt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997999
 Atletico Madrid vs Bodo Glimt	https://play7ba.peodlc.com/live/202_3960802_1.m3u8
@@ -66,6 +68,7 @@ Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738
 Eintracht Frankfurt vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283020/eintracht-frankfurt-vs-tottenham-hotspur.html
 Eintracht Frankfurt vs Tottenham Spur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997991
 Eintracht Frankfurt vs Tottenham Spur	https://play7ba.peodlc.com/live/202_3960763_1.m3u8
+Eintracht Frankfurt vs Tottenham Spur	https://live5.msrktz.app/live/87379114.m3u8
 Liverpool vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269422/liverpool-vs-qarabag.html
 Liverpool vs Qarabag	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997990
 Liverpool vs Qarabag	https://play7ba.peodlc.com/live/202_3960743_1.m3u8
@@ -85,6 +88,7 @@ TNT Sports 4	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/en
 Pafos FC vs Slavia Praha	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269337/pafos-fc-vs-slavia-praha.html
 Pafos FC vs Slavia Praha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997992
 Pafos FC vs Slavia Praha	https://play7ba.peodlc.com/live/202_3960709_1.m3u8
+
 Paris Saint Germain vs Newcastle Utd	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283679/paris-saint-germain-vs-newcastle-united.html
 Paris Saint Germain vs Newcastle Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997985
 Paris Saint Germain vs Newcastle Utd	https://play7ba.peodlc.com/live/202_3960708_1.m3u8
