@@ -91,6 +91,7 @@ Aldosivi Plata vs Barracas Central	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 05:00 [g]Argentine Division 1[z]	^-
 Racing Club vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335542/racing-club-de-avellaneda-vs-rosario-central.html
 Racing Club vs Rosario Central	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020314
+Racing Club vs Rosario Central	https://play7ba.peodlc.com/live/202_4766272_1.m3u8
 
 05:00 [g]Brazilian Serie A[z]	^-
 Atletico Mineiro vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4336003/atletico-mineiro-vs-palmeiras.html
@@ -98,6 +99,7 @@ Atletico Mineiro vs Palmeiras	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 
 06:00 [g]Argentine Division 1[z]	^-
 River Plate vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328436/river-plate-vs-gimnasia-la-plata.html
+River Plate vs Gimnasia La Plata	https://play7ba.peodlc.com/live/202_4766275_1.m3u8
 
 07:30 [g]Brazilian Serie A[z]	^-
 Sao Paulo vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4333042/sao-paulo-vs-cr-flamengo.html
