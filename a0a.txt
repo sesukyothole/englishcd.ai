@@ -33,24 +33,25 @@ Al Ahli Jeddah vs Al Ettifaq	`Fhttps://www.fctv33.net/football/saudi-professiona
 Al Ahli Jeddah vs Al Ettifaq	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129181
 
 03:00 [y]UEFA Champions League[z]	^-
-Bayer Leverkusen vs Villarreal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268428/bayer-04-leverkusen-vs-villarreal-cf.html
-Saint Gilloise vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268464/union-saint-gilloise-vs-atalanta.html
-PSV Eindhoven vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268465/psv-eindhoven-vs-fc-bayern-munich.html
-Club Brugge vs Marseille	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268506/club-brugge-vs-marseille.html
-Benfica vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268514/benfica-vs-real-madrid.html
+AFC Ajax vs Olympiakos Piraeus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283019/afc-ajax-vs-olympiakos-piraeus.html
+Arsenal vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4273554/arsenal-vs-fc-kairat-almaty.html
 Athletic Bilbao vs Sporting CP	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268515/athletic-club-vs-sporting-cp.html
 Atletico Madrid vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269247/atletico-madrid-vs-bodo-glimt.html
-Pafos FC vs Slavia Praha	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269337/pafos-fc-vs-slavia-praha.html
-Liverpool vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269422/liverpool-vs-qarabag.html
-Arsenal vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4273554/arsenal-vs-fc-kairat-almaty.html
-Manchester City vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283018/manchester-city-vs-galatasaray.html
-AFC Ajax vs Olympiakos Piraeus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283019/afc-ajax-vs-olympiakos-piraeus.html
-Eintracht Frankfurt vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283020/eintracht-frankfurt-vs-tottenham-hotspur.html
+Bayer Leverkusen vs Villarreal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268428/bayer-04-leverkusen-vs-villarreal-cf.html
+Benfica vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268514/benfica-vs-real-madrid.html
 Borussia Dortmund vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283021/borussia-dortmund-vs-inter-milan.html
+Club Brugge vs Marseille	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268506/club-brugge-vs-marseille.html
+Eintracht Frankfurt vs Tottenham Spur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283020/eintracht-frankfurt-vs-tottenham-hotspur.html
 FC Barcelona vs FC Copenhagen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283026/fc-barcelona-vs-fc-copenhagen.html
-Napoli vs Chelsea	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283027/napoli-vs-chelsea.html
+Liverpool vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269422/liverpool-vs-qarabag.html
+Manchester City vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283018/manchester-city-vs-galatasaray.html
 Monaco vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283678/as-monaco-vs-juventus.html
+Napoli vs Chelsea	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283027/napoli-vs-chelsea.html
+Pafos FC vs Slavia Praha	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269337/pafos-fc-vs-slavia-praha.html
 Paris Saint Germain vs Newcastle Utd	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283679/paris-saint-germain-vs-newcastle-united.html
+Paris Saint Germain vs Newcastle Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3997985
+PSV Eindhoven vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268465/psv-eindhoven-vs-fc-bayern-munich.html
+Saint Gilloise vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268464/union-saint-gilloise-vs-atalanta.html
 
 03:00 [g]Argentine Division 1[z]	^-
 Aldosivi Plata vs Barracas Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327467/aldosivi-mar-del-plata-vs-barracas-central.html
