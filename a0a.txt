@@ -28,15 +28,6 @@
 
 28.01.2026	^-
 
-18:30 [g]Asean Club Championship[z]	^-
-Tampines Rovers FC vs Buriram Utd	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261086/tampines-rovers-fc-vs-buriram-united.html
-Tampines Rovers FC vs Buriram Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129061
-MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-
-18:30 [g]Thai League Cup[z]	^-
-Mahasarakham Utd vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4332888/mahasarakham-sbt-fc-vs-nakhon-ratchasima-mazda-fc.html
-Mahasarakham Utd vs Nakhon Ratchasima	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4153306
-
 19:00 [g]Asean Club Championship[z]	^-
 BG Pathum Utd vs Dynamic Herb Cebu	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4260379/bg-pathum-united-vs-dynamic-herb-cebu.html
 BG Pathum Utd vs Dynamic Herb Cebu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129078
@@ -99,6 +90,15 @@ Persekat Tegal vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-li
 
 16:30 [g]Asean Club Championship[z]	^-
 Johor Darul Takzim vs Shan United	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261083/johor-darul-tazim-fc-vs-shan-united.html
+
+19:00 Liga 2	^-
+Adhyaksa FC Banten vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323755/adhyaksa-fc-banten-vs-sriwijaya-fc.html
+
+19:00 [l]AFC Futsal Asian Cup[z]	^-
+Kyrgyzstan vs Indonesia	`Fhttps://www.fctv33.net/football/afc-futsal-asian-cup-match-4340264/kyrgyzstan-futsal-vs-indonesia-futsal.html
+
+19:30 [g]Asean Club Championship[z]	^-
+Nam Dinh FC vs Lion City Sailors	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261082/thep-xanh-nam-dinh-fc-vs-lion-city-sailors.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
