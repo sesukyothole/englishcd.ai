@@ -135,6 +135,14 @@ iNews	`Fhttps://m.rctiplus.com/tv/inews
 ^=RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
 ^=iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
 
+^=Johor 0	`0https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132674
+^=Johor 1	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132674
+^=Johor 2	`2https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132674
+^=Johor 4	`4https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132674
+^=Johor 5	`5https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132674
+^=Johor 6	`6https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132674
+^=Johor 7	`7https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4132674
+
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
