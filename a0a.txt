@@ -31,7 +31,7 @@
 03:00 [y]UEFA Europa League[z]	^-
 Aston Villa vs Red Bull Salzburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287278/aston-villa-vs-red-bull-salzburg.html
 Aston Villa vs Red Bull Salzburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998007
-CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+beIN Sports 1 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
 Basel vs FC Viktoria Plzen	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4280154/fc-basel-1893-vs-fc-viktoria-plzen.html
 Basel vs FC Viktoria Plzen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998010
 Celtic FC vs FC Utrecht	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287275/celtic-fc-vs-fc-utrecht.html
@@ -57,6 +57,7 @@ Midtjylland vs Dinamo Zagreb	`Fhttps://www.fctv33.net/football/uefa-europa-leagu
 Midtjylland vs Dinamo Zagreb	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998016
 Nottingham Forest vs Ferencvarosi	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4286540/nottingham-forest-vs-ferencvarosi-tc.html
 Nottingham Forest vs Ferencvarosi	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998014
+beIN Sports 3 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
 Panathinaikos vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4286541/panathinaikos-vs-as-roma.html
 Panathinaikos vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998015
 beIN Sports 2 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
@@ -972,8 +973,10 @@ beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/e
 beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 beIN Sports X	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-beIN Sports 1	https://stream.ayas.ir/hls2/bein1.m3u8
+beIN Sports 1 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
 beIN Sports 2 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+beIN Sports 3 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+beIN Sports 1	https://stream.ayas.ir/hls2/bein1.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 ESPN 🇦🇷 1	`0https://live.samuraitv.biz.id/p/espn1.html
