@@ -32,6 +32,7 @@
 Sao Paulo vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4333042/sao-paulo-vs-cr-flamengo.html
 Sao Paulo vs Flamengo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004462
 Sao Paulo vs Flamengo	https://play7ba.peodlc.com/live/202_4777097_1.m3u8
+go3s1.premiere1	`0https://live.samuraitv.biz.id/p/premiere1.html
 
 08:15 [g]Argentine Division 1[z]	^-
 Estudiantes La Plata vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321851/estudiantes-la-plata-vs-boca-juniors.html
@@ -246,6 +247,7 @@ foxs2ar	`0https://live.samuraitv.biz.id/p/foxsport.html
 foxs3ar	`0https://live.samuraitv.biz.id/p/foxsport_18.html
 fub1	`0https://live.samuraitv.biz.id/p/fubo.html
 fub2	`0https://live.samuraitv.biz.id/p/fubotv.html
+go3s1.premiere1	`0https://live.samuraitv.biz.id/p/premiere1.html
 hrt1	`0https://live.samuraitv.biz.id/p/hrt1.html
 itv2	`0https://live.samuraitv.biz.id/p/itv2.html
 itv3	`0https://live.samuraitv.biz.id/p/itv3.html
@@ -480,7 +482,6 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=.foxsport2mx	`0https://live.samuraitv.biz.id/p/foxsport2mx.html
 ^=.foxsport3mx	`0https://live.samuraitv.biz.id/p/foxsport3mx.html
 ^=.fspremiummx	`0https://live.samuraitv.biz.id/p/fspremium.html
-^=.go3s1	`0https://live.samuraitv.biz.id/p/go3sport1.html
 ^=.go3s2	`0https://live.samuraitv.biz.id/p/go3sport2.html
 ^=.go3s3	`0https://live.samuraitv.biz.id/p/go3sport3.html
 ^=.go3sopen	`0https://live.samuraitv.biz.id/p/go3open.html
