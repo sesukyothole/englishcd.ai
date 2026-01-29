@@ -84,6 +84,7 @@ PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 03:00 [g]Argentine Division 1[z]	^-
 Deportivo Riestra vs Defensa Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327465/deportivo-riestra-vs-defensa-y-justicia.html
 Deportivo Riestra vs Defensa Justicia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020308
+Deportivo Riestra vs Defensa Justicia	https://live.vivo200.com/live/sd-1-4465086.m3u8?txSecret=7adc3d0dddee0feab90e08483d62b069&txTime=697C035A
 
 05:15 [g]Argentine Division 1[z]	^-
 Lanus vs Club Atlético Unión	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321868/club-atltico-lans-vs-club-atltico-unin.html
