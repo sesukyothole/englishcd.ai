@@ -29,23 +29,40 @@
 30.01.2026	^-
 
 03:00 [y]UEFA Europa League[z]	^-
-Ludogorets Razgrad vs Nice	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270184/ludogorets-razgrad-vs-ogc-nice.html
-FC Porto vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270185/fc-porto-vs-rangers.html
-Basel vs FC Viktoria Plzen	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4280154/fc-basel-1893-vs-fc-viktoria-plzen.html
-Nottingham Forest vs Ferencvarosi	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4286540/nottingham-forest-vs-ferencvarosi-tc.html
-Panathinaikos vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4286541/panathinaikos-vs-as-roma.html
-Real Betis vs Feyenoord	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287271/real-betis-vs-feyenoord.html
-Midtjylland vs Dinamo Zagreb	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287272/midtjylland-vs-dinamo-zagreb.html
-Crvena Zvezda vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287273/crvena-zvezda-vs-rc-celta.html
-Celtic FC vs FC Utrecht	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287275/celtic-fc-vs-fc-utrecht.html
-VfB Stuttgart vs Young Boys	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287276/vfb-stuttgart-vs-young-boys.html
-Sturm Graz vs Brann	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287277/sturm-graz-vs-brann.html
 Aston Villa vs Red Bull Salzburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287278/aston-villa-vs-red-bull-salzburg.html
-Go Ahead Eagles vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287279/go-ahead-eagles-vs-sporting-braga.html
-Lille vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287280/losc-lille-vs-sc-freiburg.html
-Racing Genk vs Malmo FF	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287281/racing-genk-vs-malmo-ff.html
-Lyon vs PAOK Saloniki	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287282/lyon-vs-paok-saloniki.html
+Aston Villa vs Red Bull Salzburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998007
+Basel vs FC Viktoria Plzen	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4280154/fc-basel-1893-vs-fc-viktoria-plzen.html
+Basel vs FC Viktoria Plzen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998010
+Celtic FC vs FC Utrecht	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287275/celtic-fc-vs-fc-utrecht.html
+Celtic FC vs FC Utrecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998008
+Crvena Zvezda vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287273/crvena-zvezda-vs-rc-celta.html
+Crvena Zvezda vs Real Celta Vigo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998004
+FC Porto vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270185/fc-porto-vs-rangers.html
+FC Porto vs Glasgow Rangers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998005
 Fotbal Club FCSB vs Fenerbahce	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287283/fotbal-club-fcsb-vs-fenerbahce.html
+Fotbal Club FCSB vs Fenerbahce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998003
+Go Ahead Eagles vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287279/go-ahead-eagles-vs-sporting-braga.html
+Go Ahead Eagles vs Sporting Braga	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998020
+Lille vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287280/losc-lille-vs-sc-freiburg.html
+Lille vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998011
+Ludogorets Razgrad vs Nice	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4270184/ludogorets-razgrad-vs-ogc-nice.html
+Ludogorets Razgrad vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998013
+Lyon vs PAOK Saloniki	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287282/lyon-vs-paok-saloniki.html
+Lyon vs PAOK Saloniki	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998012
+Midtjylland vs Dinamo Zagreb	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287272/midtjylland-vs-dinamo-zagreb.html
+Midtjylland vs Dinamo Zagreb	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998016
+Nottingham Forest vs Ferencvarosi	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4286540/nottingham-forest-vs-ferencvarosi-tc.html
+Nottingham Forest vs Ferencvarosi	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998014
+Panathinaikos vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4286541/panathinaikos-vs-as-roma.html
+Panathinaikos vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998015
+Racing Genk vs Malmo FF	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287281/racing-genk-vs-malmo-ff.html
+Racing Genk vs Malmo FF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998006
+Real Betis vs Feyenoord	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287271/real-betis-vs-feyenoord.html
+Real Betis vs Feyenoord	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998009
+Sturm Graz vs Brann	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287277/sturm-graz-vs-brann.html
+Sturm Graz vs Brann	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998017
+VfB Stuttgart vs Young Boys	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4287276/vfb-stuttgart-vs-young-boys.html
+VfB Stuttgart vs Young Boys	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3998018
 
 03:00 [g]Argentine Division 1[z]	^-
 Deportivo Riestra vs Defensa Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327465/deportivo-riestra-vs-defensa-y-justicia.html
