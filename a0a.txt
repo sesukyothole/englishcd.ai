@@ -31,6 +31,7 @@
 02:00 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199199/nac-breda-vs-fc-twente-enschede.html
 NAC Breda vs FC Twente Enschede	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121149
+NAC Breda vs FC Twente Enschede	https://live.vivo200.com/live/sd-1-4344675.m3u8?txSecret=911f8bf1e2881f66e8dea8c36f7aa371&txTime=697D4693
 
 02:00 [g]CAF Champions League[z]	^-
 Al-Hilal Omdurman vs Mamelodi Sundowns	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311150/al-hilal-omdurman-vs-mamelodi-sundowns.html
@@ -43,6 +44,7 @@ FC Koln vs VfL Wolfsburg	https://live.vivo200.com/live/sd-1-4347530.m3u8?txSecre
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194693/lazio-vs-genoa.html
 Lazio vs Genoa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119006
+beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 02:45 [y]French Ligue 1[z]	^-
 Lens vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200300/rc-lens-vs-havre-athletic-club.html
@@ -57,6 +59,7 @@ Bristol City vs Derby County	https://live.vivo200.com/live/sd-1-4351412.m3u8?txS
 03:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209789/rcd-espanyol-de-barcelona-vs-deportivo-alavs.html
 RCD Espanyol vs Deportivo Alavés	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120275
+beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Vitoria Guimaraes vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216170/vitoria-guimaraes-vs-moreirense.html
