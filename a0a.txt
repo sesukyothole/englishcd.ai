@@ -47,10 +47,12 @@ Lazio vs Genoa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchI
 02:45 [y]French Ligue 1[z]	^-
 Lens vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200300/rc-lens-vs-havre-athletic-club.html
 Lens vs Le Havre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4070220
+Lens vs Le Havre	https://live.vivo200.com/live/hd-en-1-4347849.m3u8?txSecret=e823cd8571ef729ea6f11d089ff21aad&txTime=697D50AC
 
 03:00 [g]English Football League[z]	^-
 Bristol City vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203713/bristol-city-vs-derby-county.html
 Bristol City vs Derby County	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4136505
+Bristol City vs Derby County	https://live.vivo200.com/live/sd-1-4351412.m3u8?txSecret=deb39e8a686dff40f6321445b5463dd8&txTime=697D5430
 
 03:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209789/rcd-espanyol-de-barcelona-vs-deportivo-alavs.html
