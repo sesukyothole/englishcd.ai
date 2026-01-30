@@ -31,8 +31,10 @@
 19:00 Liga 2	^-
 Sumsel United vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323753/sumsel-united-vs-garudayaksa-fc.html
 Sumsel United vs Garudayaksa FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4147946
+Sumsel United vs Garudayaksa FC	https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 PSMS Medan vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323756/psms-medan-vs-fc-bekasi-city.html
 PSMS Medan vs FC Bekasi City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4157494
+PSMS Medan vs FC Bekasi City	https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
 
 31.01.2026	^-
 
