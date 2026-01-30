@@ -28,15 +28,13 @@
 
 30.01.2026	^-
 
-13:00 [g]Australia A-League[z]	^-
-Wellington Phoenix vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282221/wellington-phoenix-vs-melbourne-city.html
-Wellington Phoenix vs Melbourne City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129534
-
 15:30 Liga 1	^-
 Persik Kediri vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229652/persatuan-sepak-bola-indonesia-kediri-vs-bali-united.html
 Persik Kediri vs Bali United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4136204
+Persik Kediri vs Bali United	https://live.vivo200.com/live/sd-1-4379391.m3u8?txSecret=6d4383fecb8978db5a9af59ba0e2cc2a&txTime=697CB27E
 Persita Tangerang vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229705/persita-tangerang-vs-persatuan-sepakbola-indonesia-jakarta.html
 Persita Tangerang vs Persija Jakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4136205
+Persita Tangerang vs Persija Jakarta	https://live.vivo200.com/live/sd-1-4379363.m3u8?txSecret=7e8e13fe013f1aafae1ebeac79fbe7d7&txTime=697CB284
 
 15:30 Liga 2	^-
 Persiku Kudus vs Persipura Jayapura	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323748/persiku-kudus-vs-persipura-jayapura.html
