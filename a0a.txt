@@ -868,7 +868,7 @@ ch21	`0https://streaming.sportsnews.id/p/ch21.html
 ^=.skyme	`0https://streaming.sportsnews.id/p/skyme.html
 ^=.skymix	`0https://streaming.sportsnews.id/p/sky-sport-bundesliga.html
 ^=.skypl	`0https://streaming.sportsnews.id/p/skypremier.html
-^=.skyuno	`0https://streaming.sportsnews.id/p/skyuno.html
+^=.skyuno.topevent	`0https://streaming.sportsnews.id/p/skyuno.html
 ^=.soccerhd	`0https://streaming.sportsnews.id/p/soccerhd.html
 ^=.sportdigital	`0https://streaming.sportsnews.id/p/sportdigital.html
 ^=.sporttv1bra	`0https://streaming.sportsnews.id/p/sporttv1bra.html
