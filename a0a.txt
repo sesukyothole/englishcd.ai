@@ -46,6 +46,7 @@ beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/client
 00:30 [y]English Premier League[z]	^-
 Chelsea vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193937/chelsea-vs-west-ham-united-02-2026.html
 Chelsea vs West Ham United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116801
+Chelsea vs West Ham United	https://live.vivo200.com/live/sd-1-4343154.m3u8?txSecret=b703ca17d0487b28bc41042bdbd6f6c2&txTime=697E82B1
 Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 
