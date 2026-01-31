@@ -28,20 +28,6 @@
 
 31.01.2026	^-
 
-19:30 [g]English Football League[z]	^-
-Stoke City vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203275/stoke-city-vs-southampton.html
-Stoke City vs Southampton	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138240
-beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-Leicester City vs Charlton Athletic	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203772/leicester-city-vs-charlton-athletic.html
-Leicester City vs Charlton Athletic	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138234
-CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-Sheffield Wednesday vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203779/sheffield-wednesday-vs-wrexham.html
-Sheffield Wednesday vs Wrexham	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138238
-
-19:30 [g]Thai League 1[z]	^-
-Ayutthaya United vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320270/ayutthaya-united-vs-rayong-fc.html
-Ayutthaya United vs Rayong FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4012581
-
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209772/real-oviedo-vs-girona-fc.html
 Real Oviedo vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120284
@@ -63,14 +49,19 @@ beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/client
 21:30 [y]Bundesliga[z]	^-
 FC Augsburg vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199656/fc-augsburg-vs-fc-st-pauli.html
 FC Augsburg vs FC St. Pauli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121697
+Sky Live Event 4	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 TSG Hoffenheim vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199681/tsg-hoffenheim-vs-1-fc-union-berlin.html
 TSG Hoffenheim vs Union Berlin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121703
+Sky Live Event 2	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 Eintracht Frankfurt vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199924/eintracht-frankfurt-vs-bayer-04-leverkusen.html
 Eintracht Frankfurt vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121702
+Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Werder Bremen vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199925/sv-werder-bremen-vs-borussia-monchengladbach.html
 Werder Bremen vs Br Monchengladbach	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121699
+Sky Live Event 3	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 RB Leipzig vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199927/rb-leipzig-vs-1-fsv-mainz-05.html
 RB Leipzig vs FSV Mainz 05	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121700
+Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 
 22:00 [y]English Premier League[z]	^-
 Wolves vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193948/wolverhampton-wanderers-vs-bournemouth-afc.html
