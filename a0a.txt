@@ -28,29 +28,33 @@
 
 31.01.2026	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-Puebla vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322451/puebla-vs-toluca.html
-
 10:00 [g]Mexico Liga MX[z]	^-
 Pumas UNAM vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322445/pumas-unam-vs-santos-laguna.html
+Pumas UNAM vs Santos Laguna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121099
 
 10:06 [g]Mexico Liga MX[z]	^-
 FC Juarez vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322444/fc-juarez-vs-cruz-azul.html
+FC Juarez vs CDSyC Cruz Azul	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121096
 
 13:00 [g]Australia A-League[z]	^-
 Newcastle Jets vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282183/newcastle-jets-vs-brisbane-roar.html
+Newcastle Jets vs Brisbane Roar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129535
 
 13:30 Liga 1	^-
 Malut United vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229650/malut-united-vs-bhayangkara-presisi-indonesia-fc.html
+Malut United vs Bhayangkara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4140208
 
 14:30 Liga 2	^-
 Persipal Palu vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323757/persipal-palu-vs-persela-lamongan.html
+Persipal Palu vs Persela Lamongan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4163507
 
 15:30 Liga 1	^-
 Persis Solo FC vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229635/persis-solo-fc-vs-persib-bandung.html
+Persis Solo FC vs Persib Bandung	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4152099
 
 15:35 [g]Australia A-League[z]	^-
 Sydney FC vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282165/sydney-fc-vs-western-sydney.html
+Sydney FC vs Western Sydney	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129537
 
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282222/perth-glory-vs-auckland-fc.html
