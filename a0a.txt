@@ -28,14 +28,6 @@
 
 31.01.2026	^-
 
-20:00 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209772/real-oviedo-vs-girona-fc.html
-Real Oviedo vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120284
-beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-
-20:00 [g]CAF Champions League[z]	^-
-Young Africans vs Al Ahly SC	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4313139/young-africans-vs-al-ahly-fc.html
-
 20:30 Liga 2	^-
 Persiraja Aceh vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323754/persiraja-aceh-vs-psps-riau.html
 Persiraja Aceh vs PSPS Riau	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4163508
@@ -66,10 +58,15 @@ Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a36
 22:00 [y]English Premier League[z]	^-
 Wolves vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193948/wolverhampton-wanderers-vs-bournemouth-afc.html
 Wolves vs Bournemouth AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116799
+PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 Brighton Hove Albion vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193952/brighton-hove-albion-vs-everton.html
 Brighton Hove Albion vs Everton	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116787
+PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+Sky Sports Top Mix	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd!!3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
 Leeds United vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193976/leeds-united-vs-arsenal.html
 Leeds United vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116776
+PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+Fubo Sports 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 
 22:00 [g]Belgian Pro League[z]	^-
 Cercle Brugge vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198953/cercle-brugge-vs-royal-antwerp.html
