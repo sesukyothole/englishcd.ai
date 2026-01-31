@@ -28,11 +28,6 @@
 
 31.01.2026	^-
 
-14:30 Liga 2	^-
-Persipal Palu vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323757/persipal-palu-vs-persela-lamongan.html
-Persipal Palu vs Persela Lamongan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4163507
-Persipal Palu vs Persela Lamongan	https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=6d38b8f0520a9647f9cedef7fd1dd032&txTime=697da036
-
 15:30 Liga 1	^-
 Persis Solo FC vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229635/persis-solo-fc-vs-persib-bandung.html
 Persis Solo FC vs Persib Bandung	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4152099
@@ -53,6 +48,7 @@ BG Pathum Utd vs Chiangrai Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?
 
 18:30 [g]Thai League 1[z]	^-
 Singha GB vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319759/kanchanaburi-power-fc-vs-pt-prachuap-fc.html
+Singha GB vs Prachuap Khiri Khan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4140283
 
 19:00 Liga 1	^-
 Madura United vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229572/madura-united-vs-psbs-biak-numfor.html
