@@ -31,10 +31,12 @@
 13:00 [g]Australia A-League[z]	^-
 Newcastle Jets vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282183/newcastle-jets-vs-brisbane-roar.html
 Newcastle Jets vs Brisbane Roar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129535
+Newcastle Jets vs Brisbane Roar	https://live.vivo200.com/live/sd-1-4426654.m3u8?txSecret=916902cc2ecc198c46f6119c3c8a7be8&txTime=697DD04D
 
 13:30 Liga 1	^-
 Malut United vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229650/malut-united-vs-bhayangkara-presisi-indonesia-fc.html
 Malut United vs Bhayangkara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4140208
+Malut United vs Bhayangkara	https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 
 14:30 Liga 2	^-
 Persipal Palu vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323757/persipal-palu-vs-persela-lamongan.html
