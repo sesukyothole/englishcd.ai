@@ -28,27 +28,6 @@
 
 31.01.2026	^-
 
-19:00 [l]AFC Futsal Asian Cup[z]	^-
-Indonesia vs Iraq Futsal	`Fhttps://www.fctv33.net/football/afc-futsal-asian-cup-match-4341050/indonesia-futsal-vs-iraq-futsal.html
-Indonesia vs Iraq Futsal	https://tft03gr4ugmtwgczdcqjqgrhuemmrpfagacbage41h3mrc71s4amacp1gh.100ycdn.com/dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=d7b62d3d480c6c3aa7c5fee5-176986062292605&wsIPSercert=73a190308cd39f83bbe1ceedef90b15f&wsiphost=local&wsBindIP=1
-
-19:00 Liga 1	^-
-Madura United vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229572/madura-united-vs-psbs-biak-numfor.html
-Madura United vs PSBS Biak Numfor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4140299
-Madura United vs PSBS Biak Numfor	https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-19:00 [g]Thai League 1[z]	^-
-Chonburi Shark FC vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319749/chonburi-fc-vs-port-fc.html
-Chonburi Shark FC vs Port FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4012579
-
-19:00 Liga 2	^-
-Persi Balikpapan vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323749/persiba-balikpapan-vs-deltras-sidoarjo.html
-Persi Balikpapan vs Deltras Sidoarjo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4139923
-Persi Balikpapan vs Deltras Sidoarjo	https://bf.jlbflive.cc/live/5005037_hd01.m3u8?txSecret=b1174a06762e9d40ee9ce0b774c0faa3&txTime=697de58a
-PSS Sleman vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323750/pss-sleman-vs-barito-putera.html
-PSS Sleman vs Barito Putera	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4139922
-PSS Sleman vs Barito Putera	https://live.vivo200.com/live/sd-1-4457804.m3u8?txSecret=9160f88f17cf53d22b0e29e2929d8f36&txTime=697E40B1
-
 19:15 Malaysian Super League	^-
 Kuching FA vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220943/kuching-city-fc-vs-negeri-sembilan.html
 Kuching FA vs Negeri Sembilan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4140321
@@ -87,6 +66,7 @@ Persiraja Aceh vs PSPS Riau	https://bf.jlbflive.cc/live/5005031_hd01.m3u8?txSecr
 21:00 [y]Italian Serie A[z]	^-
 Pisa vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194660/pisa-vs-sassuolo.html
 Pisa vs Sassuolo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119005
+beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 21:30 [y]Bundesliga[z]	^-
 FC Augsburg vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199656/fc-augsburg-vs-fc-st-pauli.html
