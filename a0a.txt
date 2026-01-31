@@ -58,8 +58,10 @@ Chonburi Shark FC vs Port FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 19:00 Liga 2	^-
 Persi Balikpapan vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323749/persiba-balikpapan-vs-deltras-sidoarjo.html
 Persi Balikpapan vs Deltras Sidoarjo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4139923
+Persi Balikpapan vs Deltras Sidoarjo	https://bf.jlbflive.cc/live/5005037_hd01.m3u8?txSecret=b1174a06762e9d40ee9ce0b774c0faa3&txTime=697de58a
 PSS Sleman vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323750/pss-sleman-vs-barito-putera.html
 PSS Sleman vs Barito Putera	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4139922
+PSS Sleman vs Barito Putera	https://live.vivo200.com/live/sd-1-4457804.m3u8?txSecret=9160f88f17cf53d22b0e29e2929d8f36&txTime=697E40B1
 
 19:15 Malaysian Super League	^-
 Kuching FA vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220943/kuching-city-fc-vs-negeri-sembilan.html
