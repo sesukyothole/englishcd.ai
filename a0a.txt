@@ -28,29 +28,6 @@
 
 01.02.2026	^-
 
-03:00 [y]English Premier League[z]	^-
-Liverpool vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193904/liverpool-vs-newcastle-united.html
-Liverpool vs Newcastle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116775
-PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-
-03:00 [y]Netherlands Eredivisie[z]	^-
-Sparta Rotterdam vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199233/sparta-rotterdam-vs-groningen.html
-Sparta Rotterdam vs Groningen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121148
-SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
-
-03:00 [y]Spanish La Liga[z]	^-
-Elche vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209770/elche-vs-fc-barcelona.html
-Elche vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120285
-beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-
-03:05 [y]French Ligue 1[z]	^-
-Monaco vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200279/as-monaco-vs-stade-rennais-fc.html
-Monaco vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4070218
-TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
-
 03:30 [g]Portuguese Primera Liga[z]	^-
 Alverca vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215974/alverca-vs-cf-estrela-amadora-sad.html
 Alverca vs Estrela da Amadora	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4141004
