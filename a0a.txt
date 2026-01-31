@@ -28,10 +28,6 @@
 
 31.01.2026	^-
 
-18:30 [g]Thai League 1[z]	^-
-Singha GB vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319759/kanchanaburi-power-fc-vs-pt-prachuap-fc.html
-Singha GB vs Prachuap Khiri Khan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4140283
-
 19:00 [l]AFC Futsal Asian Cup[z]	^-
 Indonesia vs Iraq Futsal	`Fhttps://www.fctv33.net/football/afc-futsal-asian-cup-match-4341050/indonesia-futsal-vs-iraq-futsal.html
 Indonesia vs Iraq Futsal	https://tft03gr4ugmtwgczdcqjqgrhuemmrpfagacbage41h3mrc71s4amacp1gh.100ycdn.com/dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=d7b62d3d480c6c3aa7c5fee5-176986062292605&wsIPSercert=73a190308cd39f83bbe1ceedef90b15f&wsiphost=local&wsBindIP=1
@@ -86,6 +82,7 @@ Young Africans vs Al Ahly SC	`Fhttps://www.fctv33.net/football/caf-champions-lea
 20:30 Liga 2	^-
 Persiraja Aceh vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4323754/persiraja-aceh-vs-psps-riau.html
 Persiraja Aceh vs PSPS Riau	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4163508
+Persiraja Aceh vs PSPS Riau	https://bf.jlbflive.cc/live/5005031_hd01.m3u8?txSecret=d571fa09d8be35df967bf835fe193d59&txTime=697df553
 
 21:00 [y]Italian Serie A[z]	^-
 Pisa vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194660/pisa-vs-sassuolo.html
