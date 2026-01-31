@@ -41,12 +41,15 @@ Persis Solo FC vs Persib Bandung	https://live.vivo200.com/live/sd-1-4379339.m3u8
 15:35 [g]Australia A-League[z]	^-
 Sydney FC vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282165/sydney-fc-vs-western-sydney.html
 Sydney FC vs Western Sydney	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4129537
+TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282222/perth-glory-vs-auckland-fc.html
+Perth Glory vs Auckland FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4069316
 
 18:00 [g]Thai League 1[z]	^-
 BG Pathum Utd vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319763/bg-pathum-united-vs-chiangrai-united.html
+BG Pathum Utd vs Chiangrai Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4012577
 
 18:30 [g]Thai League 1[z]	^-
 Singha GB vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319759/kanchanaburi-power-fc-vs-pt-prachuap-fc.html
