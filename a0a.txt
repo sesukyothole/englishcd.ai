@@ -28,10 +28,6 @@
 
 31.01.2026	^-
 
-18:00 [g]Thai League 1[z]	^-
-BG Pathum Utd vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319763/bg-pathum-united-vs-chiangrai-united.html
-BG Pathum Utd vs Chiangrai Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4012577
-
 18:30 [g]Thai League 1[z]	^-
 Singha GB vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319759/kanchanaburi-power-fc-vs-pt-prachuap-fc.html
 Singha GB vs Prachuap Khiri Khan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4140283
@@ -82,6 +78,7 @@ Ayutthaya United vs Rayong FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209772/real-oviedo-vs-girona-fc.html
 Real Oviedo vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120284
+beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 
 20:00 [g]CAF Champions League[z]	^-
 Young Africans vs Al Ahly SC	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4313139/young-africans-vs-al-ahly-fc.html
