@@ -28,33 +28,34 @@
 
 01.02.2026	^-
 
-15:30 Liga 1	^-
-Borneo FC vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229468/borneo-fc-vs-psim-yogyakarta.html
-Borneo FC vs PSIM Yogyakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144393
-Borneo FC vs PSIM Yogyakarta	https://live.vivo200.com/live/sd-1-4379346.m3u8?txSecret=c53a3c02be7316c1a77786f42a3c12ff&txTime=697F3248
-
 18:00 [g]Thai League 1[z]	^-
 Nakhon Ratchasima vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319754/nakhon-ratchasima-mazda-fc-vs-lamphun-warriors.html
 Nakhon Ratchasima vs Lamphun Warrior	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4015367
 
 18:15 [y]Netherlands Eredivisie[z]	^-
 Excelsior SBV vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199163/excelsior-sbv-vs-afc-ajax.html
+Excelsior SBV vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121146
 
 18:30 [y]Italian Serie A[z]	^-
 Torino vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194622/torino-vs-lecce.html
+Torino vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119549
 
 18:30 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319757/ratchaburi-fc-vs-muangthong-united.html
+Ratchaburi FC vs Muang Thong Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144470
 Sukhothai vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319758/sukhothai-vs-uthai-thani-forest.html
+Sukhothai vs Uthai Thani Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144469
 
 19:00 Liga 1[z]	^-
 Persebaya Surabaya vs Dewa Utd	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229471/persebaya-surabaya-vs-dewa-united-fc.html
+Persebaya Surabaya vs Dewa Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144494
 
 19:00 [g]CAF Confederation Cup[z]	^-
 Maniema Union vs Wydad Casablanca	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312359/maniema-union-vs-wydad-casablanca.html
 
 19:00 [g]Thai League 1[z]	^-
 Buriram United vs Bangkok United FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319755/buriram-united-vs-bangkok-united-fc.html
+Buriram United vs Bangkok United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4015368
 
 19:15 Malaysian Super League	^-
 Johor Darul Takzim vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220945/johor-darul-tazim-fc-vs-imigresen-fc.html
