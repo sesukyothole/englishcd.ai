@@ -28,10 +28,6 @@
 
 01.02.2026	^-
 
-19:30 [g]Belgian Pro League[z]	^-
-Standard Liege vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198981/standard-liege-vs-anderlecht.html
-Standard Liege vs Anderlecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138259
-
 20:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209687/real-madrid-vs-rayo-vallecano.html
 Real Madrid vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120279
@@ -94,11 +90,13 @@ FCV Dender EH vs Racing Genk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 
 22:15 [y]Spanish La Liga[z]	^-
 Real Betis vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209696/real-betis-vs-valencia-cf.html
+Real Betis vs Valencia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120287
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216034/gil-vicente-vs-fc-famalicao.html
+Gil Vicente vs FC Famalicao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144747
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 SC Heerenveen vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199160/sc-heerenveen-vs-fc-utrecht.html
