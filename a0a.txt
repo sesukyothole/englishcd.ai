@@ -40,6 +40,7 @@ Maniema Union vs Wydad Casablanca	`3https://embed-10-08-12-51.linkzhe.eu.org/emb
 19:00 [g]Thai League 1[z]	^-
 Buriram United vs Bangkok United FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319755/buriram-united-vs-bangkok-united-fc.html
 Buriram United vs Bangkok United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4015368
+Buriram United vs Bangkok United FC	https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
 19:15 Malaysian Super League	^-
 Johor Darul Takzim vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220945/johor-darul-tazim-fc-vs-imigresen-fc.html
@@ -67,6 +68,7 @@ Simba SC vs Esperance Sportive Tunis	`Fhttps://www.fctv33.net/football/caf-champ
 20:30 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199327/heracles-almelo-vs-fortuna-sittard.html
 Heracles Almelo vs Fortuna Sittard	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121143
+Heracles Almelo vs Fortuna Sittard	https://live.vivo200.com/live/sd-1-4344637.m3u8?txSecret=36b0fc0b839bda0ff6e4dfa3aa7a4bd8&txTime=697F9FE6
 PSV Eindhoven vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199332/psv-eindhoven-vs-feyenoord.html
 PSV Eindhoven vs Feyenoord	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121154
 SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
