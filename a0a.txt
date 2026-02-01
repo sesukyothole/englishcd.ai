@@ -82,7 +82,9 @@ SC Heerenveen vs FC Utrecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 
 23:00 [g]CAF Champions League[z]	^-
 Pyramids FC vs Renaissance Sportive	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4339507/pyramids-fc-vs-renaissance-de-berkane.html
+Pyramids FC vs Renaissance Sportive	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4136337
 Rivers United vs Power Dynamos	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4341369/rivers-united-vs-power-dynamos.html
+Rivers United vs Power Dynamos	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4136333
 
 23:15 [y]French Ligue 1[z]	^-
 Angers vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200127/angers-sco-vs-metz.html
