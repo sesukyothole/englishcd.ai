@@ -40,6 +40,7 @@ Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v
 18:30 [y]Italian Serie A[z]	^-
 Torino vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194622/torino-vs-lecce.html
 Torino vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119549
+beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 18:30 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319757/ratchaburi-fc-vs-muangthong-united.html
