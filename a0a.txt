@@ -28,17 +28,6 @@
 
 01.02.2026	^-
 
-18:30 [y]Italian Serie A[z]	^-
-Torino vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194622/torino-vs-lecce.html
-Torino vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119549
-beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
-18:30 [g]Thai League 1[z]	^-
-Ratchaburi FC vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319757/ratchaburi-fc-vs-muangthong-united.html
-Ratchaburi FC vs Muang Thong Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144470
-Sukhothai vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319758/sukhothai-vs-uthai-thani-forest.html
-Sukhothai vs Uthai Thani Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144469
-
 19:00 Liga 1[z]	^-
 Persebaya Surabaya vs Dewa Utd	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229471/persebaya-surabaya-vs-dewa-united-fc.html
 Persebaya Surabaya vs Dewa Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144494
@@ -80,6 +69,8 @@ Heracles Almelo vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands
 Heracles Almelo vs Fortuna Sittard	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121143
 PSV Eindhoven vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199332/psv-eindhoven-vs-feyenoord.html
 PSV Eindhoven vs Feyenoord	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121154
+ESPN 🇦🇷 2	`0https://live.samuraitv.biz.id/p/espn2_31.html
+Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 
 21:00 [y]English Premier League[z]	^-
 Nottingham Forest vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193949/nottingham-forest-vs-crystal-palace.html
