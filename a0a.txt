@@ -26,122 +26,42 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-01.02.2026	^-
-
-21:00 [y]English Premier League[z]	^-
-Nottingham Forest vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193949/nottingham-forest-vs-crystal-palace.html
-Nottingham Forest vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116802
-Nottingham Forest vs Crystal Palace	https://live.vivo200.com/live/hd-en-1-4343160.m3u8?txSecret=b953eafa69e04edab15d91141df22e5a&txTime=697FA2D0
-Nottingham Forest vs Crystal Palace	https://live.vivo200.com/live/sd-1-4343160.m3u8?txSecret=65481ba7a80b8a82f5a01eebf238c055&txTime=697FA2D0
-Manchester United vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193975/manchester-united-vs-fulham.html
-Manchester United vs Fulham	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116797
-Manchester United vs Fulham	https://live.vivo200.com/live/hd-en-1-4343158.m3u8?txSecret=3aa0815e7570317b06afad59c77de777&txTime=697FA2D4
-Manchester United vs Fulham	https://live.vivo200.com/live/sd-1-4343158.m3u8?txSecret=122ce2a439e219a26a96939e82c62ece&txTime=697FA2D4
-Aston Villa vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194033/aston-villa-vs-brentford.html
-Aston Villa vs Brentford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116790
-Aston Villa vs Brentford	https://live.vivo200.com/live/hd-en-1-4343150.m3u8?txSecret=06294e5f41daf0e6e2ec4c04cad3017b&txTime=697FA2CA
-Aston Villa vs Brentford	https://live.vivo200.com/live/sd-1-4343150.m3u8?txSecret=02688243001ec24bf3ab2295e5982731&txTime=697FA2CA
-
-21:00 [y]Italian Serie A[z]	^-
-Como vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194687/como-vs-atalanta.html
-Como vs Atalanta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119568
-beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
-21:00 [y]French Ligue 1[z]	^-
-Lyon vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200262/lyon-vs-losc-lille.html
-Lyon vs Lille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120453
-Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-
-21:00 [g]Scottish Premiership[z]	^-
-Hibernian vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206214/hibernian-vs-rangers.html
-Hibernian vs Glasgow Rangers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4089995
-
-21:30 [y]Bundesliga[z]	^-
-VfB Stuttgart vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199926/vfb-stuttgart-vs-sc-freiburg.html
-VfB Stuttgart vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121706
-Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
-22:00 [g]Belgian Pro League[z]	^-
-FCV Dender EH vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198980/fcv-dender-eh-vs-racing-genk.html
-FCV Dender EH vs Racing Genk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138261
-
-22:15 [y]Spanish La Liga[z]	^-
-Real Betis vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209696/real-betis-vs-valencia-cf.html
-Real Betis vs Valencia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120287
-Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-beIN Sports 1 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-Gil Vicente vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216034/gil-vicente-vs-fc-famalicao.html
-Gil Vicente vs FC Famalicao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144747
-
-22:45 [y]Netherlands Eredivisie[z]	^-
-SC Heerenveen vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199160/sc-heerenveen-vs-fc-utrecht.html
-SC Heerenveen vs FC Utrecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4147779
-
-23:00 [g]CAF Champions League[z]	^-
-Pyramids FC vs Renaissance Sportive	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4339507/pyramids-fc-vs-renaissance-de-berkane.html
-Pyramids FC vs Renaissance Sportive	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4136337
-Rivers United vs Power Dynamos	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4341369/rivers-united-vs-power-dynamos.html
-Rivers United vs Power Dynamos	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4136333
-
-23:15 [y]French Ligue 1[z]	^-
-Angers vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200127/angers-sco-vs-metz.html
-Angers vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4070221
-Toulouse vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200161/toulouse-fc-vs-aj-auxerre.html
-Nice vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200224/ogc-nice-vs-stade-brestois-29.html
-
-23:30 [y]English Premier League[z]	^-
-Tottenham Hotspur vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193850/tottenham-hotspur-vs-manchester-city.html
-
-23:30 [y]Bundesliga[z]	^-
-Borussia Dortmund vs FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199653/borussia-dortmund-vs-1-fc-heidenheim-1846.html
-Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-
 02.02.2026	^-
-
-00:00 [y]Italian Serie A[z]	^-
-Cremonese vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194598/cremonese-vs-inter-milan.html
-
-00:30 [g]Belgian Pro League[z]	^-
-Saint Gilloise vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198935/union-saint-gilloise-vs-club-brugge.html
-
-00:30 [y]Spanish La Liga[z]	^-
-Getafe vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209697/getafe-vs-rc-celta.html
-Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-beIN Sports 1 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-
-00:30 [g]Saudi Professional League[z]	^-
-Al Ittihad Club vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256083/al-ittihad-club-vs-al-najmaksa.html
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216261/sporting-cp-vs-nacional-da-madeira.html
+Sporting CP vs Nacional da Madeira	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144886
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Volendam vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199159/volendam-vs-go-ahead-eagles.html
+Volendam vs Go Ahead Eagles	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121150
 
 02:00 [g]CAF Champions League[z]	^-
 MC Alger vs Saint Eloi Lupopo	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311152/mc-alger-vs-saint-eloi-lupopo.html
+MC Alger vs Saint Eloi Lupopo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4154895
 
 02:45 [y]Italian Serie A[z]	^-
 Parma vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194771/parma-vs-juventus.html
+Parma vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119570
 
 02:45 [y]French Ligue 1[z]	^-
 Strasbourg vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200260/rc-strasbourg-alsace-vs-paris-saint-germain.html
+Strasbourg vs Paris Saint Germain	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4070213
 
 03:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209834/athletic-club-vs-real-sociedad.html
+Athletic Bilbao vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120278
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 beIN Sports 1 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
 
 03:00 [g]Argentine Division 1[z]	^-
 Barracas Central vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327466/barracas-central-vs-deportivo-riestra.html
+Barracas Central vs Deportivo Riestra	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020316
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215992/cd-tondela-vs-benfica.html
+CD Tondela vs Benfica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144998
 
 05:15 [g]Argentine Division 1[z]	^-
 Boca Juniors vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321857/boca-juniors-vs-club-atltico-newells-old-boys.html
