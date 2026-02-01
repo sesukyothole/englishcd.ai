@@ -55,6 +55,7 @@ Persebaya Surabaya vs Dewa Utd	https://live.vivo200.com/live/sd-1-4379398.m3u8?t
 
 19:00 [g]CAF Confederation Cup[z]	^-
 Maniema Union vs Wydad Casablanca	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312359/maniema-union-vs-wydad-casablanca.html
+Maniema Union vs Wydad Casablanca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144804
 
 19:00 [g]Thai League 1[z]	^-
 Buriram United vs Bangkok United FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4319755/buriram-united-vs-bangkok-united-fc.html
@@ -70,11 +71,13 @@ Standard Liege vs Anderlecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209687/real-madrid-vs-rayo-vallecano.html
+Real Madrid vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120279
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 20:00 Malaysian Super League[z]	^-
 Terengganu vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220961/terengganu-fc-vs-selangor-fc.html
+Terengganu vs Selangor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144535
 
 20:00 [g]CAF Champions League[z]	^-
 Simba SC vs Esperance Sportive Tunis	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311375/simba-sports-club-vs-esperance-sportive-de-tunis.html
