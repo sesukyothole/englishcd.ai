@@ -28,16 +28,6 @@
 
 01.02.2026	^-
 
-05:45 [g]Argentine Division 1[z]	^-
-Independiente vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321862/ca-independiente-vs-velez-sarsfield.html
-Independiente vs Velez Sarsfield	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020317
-
-06:00 [g]Mexico Liga MX[z]	^-
-Atlas vs Mazatlan FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322435/atlas-vs-mazatlan-fc.html
-Atlas vs Mazatlan FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121098
-Atletico San Luis vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322892/atletico-san-luis-vs-club-deportivo-guadalajara.html
-Atletico San Luis vs Chivas Guadalajara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121104
-
 08:00 [g]Argentine Division 1[z]	^-
 Talleres Cordoba vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321859/talleres-cordoba-vs-ca-platense.html
 Talleres Cordoba vs CA Platense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020326
@@ -81,10 +71,49 @@ TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
+	^-
+Makkah TV	`Fhttps://www.indihometv.com/livetv/alquran
+Antara TV	`Fhttps://www.indihometv.com/livetv/antara
+ANTV	`Fhttps://www.indihometv.com/livetv/antv
+ATV	`Fhttps://www.indihometv.com/livetv/atv
+Bali TV	`Fhttps://www.indihometv.com/livetv/balitv
+Berita Satu	`Fhttps://www.indihometv.com/livetv/idtv
+BTV	`Fhttps://www.indihometv.com/livetv/beritasatu
+CCTV4	`Fhttps://www.indihometv.com/livetv/cctv4
+Chinese Drama	`Fhttps://www.indihometv.com/livetv/chinesedrama
+DAAI TV	`Fhttps://www.indihometv.com/livetv/daaitv
+DMI TV	`Fhttps://www.indihometv.com/livetv/tawaftv
+DW TV	`Fhttps://www.indihometv.com/livetv/dwtv
+Euro News	`Fhttps://www.indihometv.com/livetv/euronews
+iNews	`Fhttps://www.indihometv.com/livetv/inews
+Jak TV	`Fhttps://www.indihometv.com/livetv/jaktv
+Jawapos	`Fhttps://www.indihometv.com/livetv/jawapos
+JTV	`Fhttps://www.indihometv.com/livetv/jtv
+Kompas TV	`Fhttps://www.indihometv.com/livetv/kompastv
+MAXreels	`Fhttps://www.indihometv.com/livetv/useeprime
+MAXstream	`Fhttps://www.indihometv.com/livetv/maxstream
+MDTV	`Fhttps://www.indihometv.com/livetv/net
+Metro TV	`Fhttps://www.indihometv.com/livetv/metrotv
+MQTV	`Fhttps://www.indihometv.com/livetv/mqtv
+Muhammadiyah TV	`Fhttps://www.indihometv.com/livetv/muhammadiyahtv
+MUI TV	`Fhttps://www.indihometv.com/livetv/muitv
+Nusantara TV	`Fhttps://www.indihometv.com/livetv/nusantaratv
+Prambors TV	`Fhttps://www.indihometv.com/livetv/pramborstv
+Rodja TV	`Fhttps://www.indihometv.com/livetv/rodjatv
+RT Rusia TV	`Fhttps://www.indihometv.com/livetv/rusiatv
+RTV	`Fhttps://www.indihometv.com/livetv/rtv
+Sindo News TV	`Fhttps://www.indihometv.com/livetv/mncnews
+Trans 7	`Fhttps://www.indihometv.com/livetv/trans7
+Trans TV	`Fhttps://www.indihometv.com/livetv/transtv
+TV One	`Fhttps://www.indihometv.com/livetv/tvone
+TVRI	`Fhttps://www.indihometv.com/livetv/tvri
+TVRI World	`Fhttps://www.indihometv.com/livetv/tvriworld
+
+	^-
 ANTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=10
 Bali TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=26
 Bandung TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=27
-Daai TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=18
+DAAI TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=18
 IDX	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=134
 Jak TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=25
 JTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=24
@@ -1950,15 +1979,5 @@ Dragon Ball Super 24/7	`0https://www.telegratishd.com/dragon-ball-super-24-horas
 Chespirito 24/7	`0https://www.telegratishd.com/chespirito-24-horas-en-vivo.html
 FM Hot Movies	`0https://www.telegratishd.com/fm-hot-movies-en-vivo.html
 FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
-
-^=maxstream F	`Fhttps://www.indihometv.com/livetv/maxstream
-^=maxstream 0	`0https://www.indihometv.com/livetv/maxstream
-^=maxstream 1	`1https://www.indihometv.com/livetv/maxstream
-^=maxstream 2	`2https://www.indihometv.com/livetv/maxstream
-^=maxstream 3	`3https://www.indihometv.com/livetv/maxstream
-^=maxstream 4	`4https://www.indihometv.com/livetv/maxstream
-^=maxstream 5	`5https://www.indihometv.com/livetv/maxstream
-^=maxstream 6	`6https://www.indihometv.com/livetv/maxstream
-^=maxstream 7	`7https://www.indihometv.com/livetv/maxstream
 
 	^-
