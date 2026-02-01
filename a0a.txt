@@ -95,10 +95,6 @@ MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
 RCTI	`Fhttps://m.rctiplus.com/tv/rcti
 iNews	`Fhttps://m.rctiplus.com/tv/inews
 
-^=maxstream F	`Fhttps://www.indihometv.com/livetv/maxstream
-^=maxstream 0	`0https://www.indihometv.com/livetv/maxstream
-^=maxstream 3	`3https://www.indihometv.com/livetv/maxstream
-
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
@@ -1954,5 +1950,15 @@ Dragon Ball Super 24/7	`0https://www.telegratishd.com/dragon-ball-super-24-horas
 Chespirito 24/7	`0https://www.telegratishd.com/chespirito-24-horas-en-vivo.html
 FM Hot Movies	`0https://www.telegratishd.com/fm-hot-movies-en-vivo.html
 FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
+
+^=maxstream F	`Fhttps://www.indihometv.com/livetv/maxstream
+^=maxstream 0	`0https://www.indihometv.com/livetv/maxstream
+^=maxstream 1	`1https://www.indihometv.com/livetv/maxstream
+^=maxstream 2	`2https://www.indihometv.com/livetv/maxstream
+^=maxstream 3	`3https://www.indihometv.com/livetv/maxstream
+^=maxstream 4	`4https://www.indihometv.com/livetv/maxstream
+^=maxstream 5	`5https://www.indihometv.com/livetv/maxstream
+^=maxstream 6	`6https://www.indihometv.com/livetv/maxstream
+^=maxstream 7	`7https://www.indihometv.com/livetv/maxstream
 
 	^-
