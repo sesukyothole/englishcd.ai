@@ -95,6 +95,10 @@ MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
 RCTI	`Fhttps://m.rctiplus.com/tv/rcti
 iNews	`Fhttps://m.rctiplus.com/tv/inews
 
+^=maxstream F	`Fhttps://www.indihometv.com/livetv/maxstream
+^=maxstream 0	`0https://www.indihometv.com/livetv/maxstream
+^=maxstream 3	`3https://www.indihometv.com/livetv/maxstream
+
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
