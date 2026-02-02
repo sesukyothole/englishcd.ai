@@ -26,41 +26,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-02.02.2026	^-
-
-22:15 [g]Saudi Professional League[z]	^-
-Al-Riyadh vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256045/al-riyadh-vs-al-nassr-fc.html
-Al-Riyadh vs Al Nassr FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4148954
-SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-
 03.02.2026	^-
-
-00:30 [g]Saudi Professional League[z]	^-
-Al Hilal SFC vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256275/al-hilal-vs-al-ahli-sfc.html
-Al Hilal SFC vs Al Ahli Jeddah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4148970
-AL Akhdood vs NEOM SC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256039/al-okhdood-vs-neom-sports-club.html
-AL Akhdood vs NEOM SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4148971
-
-01:45 [g]Portuguese Primera Liga[z]	^-
-AVS Futebol SAD vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215976/avs-futebol-sad-vs-sporting-braga.html
-AVS Futebol SAD vs Sporting Braga	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4145915
-
-02:45 [y]Italian Serie A[z]	^-
-Udinese vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194595/udinese-vs-as-roma.html
-Udinese vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119571
-
-03:00 [y]English Premier League[z]	^-
-Sunderland A.F.C vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193841/sunderland-vs-burnley.html
-Sunderland A.F.C vs Burnley	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4116795
-
-03:00 [y]Spanish La Liga[z]	^-
-Mallorca vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209726/rcd-mallorca-vs-sevilla-fc.html
-Mallorca vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120276
-
-03:30 [g]Argentine Division 1[z]	^-
-Gimnasia Plata vs Aldosivi Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327468/gimnasia-la-plata-vs-aldosivi-mar-del-plata.html
-Gimnasia Plata vs Aldosivi Plata	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020335
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216169/casa-pia-ac-vs-fc-porto.html
