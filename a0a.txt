@@ -98,63 +98,6 @@ Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 	^-
-Makkah TV	`Fhttps://www.indihometv.com/livetv/alquran
-Antara TV	`Fhttps://www.indihometv.com/livetv/antara
-ANTV	`Fhttps://www.indihometv.com/livetv/antv
-ATV	`Fhttps://www.indihometv.com/livetv/atv
-Bali TV	`Fhttps://www.indihometv.com/livetv/balitv
-Berita Satu	`Fhttps://www.indihometv.com/livetv/idtv
-BTV	`Fhttps://www.indihometv.com/livetv/beritasatu
-CCTV4	`Fhttps://www.indihometv.com/livetv/cctv4
-Chinese Drama	`Fhttps://www.indihometv.com/livetv/chinesedrama
-DAAI TV	`Fhttps://www.indihometv.com/livetv/daaitv
-DMI TV	`Fhttps://www.indihometv.com/livetv/tawaftv
-DW TV	`Fhttps://www.indihometv.com/livetv/dwtv
-Euro News	`Fhttps://www.indihometv.com/livetv/euronews
-iNews	`Fhttps://www.indihometv.com/livetv/inews
-Jak TV	`Fhttps://www.indihometv.com/livetv/jaktv
-Jawapos	`Fhttps://www.indihometv.com/livetv/jawapos
-JTV	`Fhttps://www.indihometv.com/livetv/jtv
-Kompas TV	`Fhttps://www.indihometv.com/livetv/kompastv
-MAXreels	`Fhttps://www.indihometv.com/livetv/useeprime
-MAXstream	`Fhttps://www.indihometv.com/livetv/maxstream
-MDTV	`Fhttps://www.indihometv.com/livetv/net
-Metro TV	`Fhttps://www.indihometv.com/livetv/metrotv
-MQTV	`Fhttps://www.indihometv.com/livetv/mqtv
-Muhammadiyah TV	`Fhttps://www.indihometv.com/livetv/muhammadiyahtv
-MUI TV	`Fhttps://www.indihometv.com/livetv/muitv
-Nusantara TV	`Fhttps://www.indihometv.com/livetv/nusantaratv
-Prambors TV	`Fhttps://www.indihometv.com/livetv/pramborstv
-Rodja TV	`Fhttps://www.indihometv.com/livetv/rodjatv
-RT Rusia TV	`Fhttps://www.indihometv.com/livetv/rusiatv
-RTV	`Fhttps://www.indihometv.com/livetv/rtv
-Sindo News TV	`Fhttps://www.indihometv.com/livetv/mncnews
-Trans 7	`Fhttps://www.indihometv.com/livetv/trans7
-Trans TV	`Fhttps://www.indihometv.com/livetv/transtv
-TV One	`Fhttps://www.indihometv.com/livetv/tvone
-TVRI	`Fhttps://www.indihometv.com/livetv/tvri
-TVRI World	`Fhttps://www.indihometv.com/livetv/tvriworld
-
-	^-
-ANTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=10
-Bali TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=26
-Bandung TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=27
-DAAI TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=18
-IDX	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=134
-Jak TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=25
-JTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=24
-TVRI	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=16
-
-GTV	`Fhttps://m.rctiplus.com/tv/gtv
-MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
-RCTI	`Fhttps://m.rctiplus.com/tv/rcti
-iNews	`Fhttps://m.rctiplus.com/tv/inews
-
-	^-
-Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
-
-	^-
 [w]Live Sport & TV Channels[z]	^-
 
 	^-
@@ -318,6 +261,65 @@ Sport 1 🇩🇪	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc
 Sport 4 🇱🇹	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
 TUDN 🇲🇽	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 TUDN 🇺🇸	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+
+	^-
+Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
+Live Soccer TV Guide	`0https://www.livesoccertv.com/
+
+	^-
+[w]Linked TV Channels[z]	^-
+
+Makkah TV	`Fhttps://www.indihometv.com/livetv/alquran
+Antara TV	`Fhttps://www.indihometv.com/livetv/antara
+ANTV	`Fhttps://www.indihometv.com/livetv/antv
+ATV	`Fhttps://www.indihometv.com/livetv/atv
+Bali TV	`Fhttps://www.indihometv.com/livetv/balitv
+Berita Satu	`Fhttps://www.indihometv.com/livetv/idtv
+BTV	`Fhttps://www.indihometv.com/livetv/beritasatu
+CCTV4	`Fhttps://www.indihometv.com/livetv/cctv4
+Chinese Drama	`Fhttps://www.indihometv.com/livetv/chinesedrama
+DAAI TV	`Fhttps://www.indihometv.com/livetv/daaitv
+DMI TV	`Fhttps://www.indihometv.com/livetv/tawaftv
+DW TV	`Fhttps://www.indihometv.com/livetv/dwtv
+Euro News	`Fhttps://www.indihometv.com/livetv/euronews
+iNews	`Fhttps://www.indihometv.com/livetv/inews
+Jak TV	`Fhttps://www.indihometv.com/livetv/jaktv
+Jawapos	`Fhttps://www.indihometv.com/livetv/jawapos
+JTV	`Fhttps://www.indihometv.com/livetv/jtv
+Kompas TV	`Fhttps://www.indihometv.com/livetv/kompastv
+MAXreels	`Fhttps://www.indihometv.com/livetv/useeprime
+MAXstream	`Fhttps://www.indihometv.com/livetv/maxstream
+MDTV	`Fhttps://www.indihometv.com/livetv/net
+Metro TV	`Fhttps://www.indihometv.com/livetv/metrotv
+MQTV	`Fhttps://www.indihometv.com/livetv/mqtv
+Muhammadiyah TV	`Fhttps://www.indihometv.com/livetv/muhammadiyahtv
+MUI TV	`Fhttps://www.indihometv.com/livetv/muitv
+Nusantara TV	`Fhttps://www.indihometv.com/livetv/nusantaratv
+Prambors TV	`Fhttps://www.indihometv.com/livetv/pramborstv
+Rodja TV	`Fhttps://www.indihometv.com/livetv/rodjatv
+RT Rusia TV	`Fhttps://www.indihometv.com/livetv/rusiatv
+RTV	`Fhttps://www.indihometv.com/livetv/rtv
+Sindo News TV	`Fhttps://www.indihometv.com/livetv/mncnews
+Trans 7	`Fhttps://www.indihometv.com/livetv/trans7
+Trans TV	`Fhttps://www.indihometv.com/livetv/transtv
+TV One	`Fhttps://www.indihometv.com/livetv/tvone
+TVRI	`Fhttps://www.indihometv.com/livetv/tvri
+TVRI World	`Fhttps://www.indihometv.com/livetv/tvriworld
+
+	^-
+ANTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=10
+Bali TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=26
+Bandung TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=27
+DAAI TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=18
+IDX	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=134
+Jak TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=25
+JTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=24
+TVRI	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=16
+
+GTV	`Fhttps://m.rctiplus.com/tv/gtv
+MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
+RCTI	`Fhttps://m.rctiplus.com/tv/rcti
+iNews	`Fhttps://m.rctiplus.com/tv/inews
 
 	^-
 [w]Sports TV Channels[z]	^-
