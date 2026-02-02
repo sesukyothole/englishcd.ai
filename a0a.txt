@@ -31,6 +31,42 @@
 07:30 [g]Argentine Division 1[z]	^-
 Rosario Central vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328440/rosario-central-vs-river-plate.html
 
+15:30 Liga 1	^-
+Arema FC vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229594/arema-fc-vs-persatuan-sepakbola-indonesia-jepara.html
+
+19:00 Liga 1	^-
+PSM Makassar vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229658/persatuan-sepakbola-makassar-vs-semen-padang.html
+
+22:15 [g]Saudi Professional League[z]	^-
+Al-Riyadh vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256045/al-riyadh-vs-al-nassr-fc.html
+
+03.02.2026	^-
+
+00:30 [g]Saudi Professional League[z]	^-
+Al Hilal SFC vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256275/al-hilal-vs-al-ahli-sfc.html
+
+01:45 [g]Portuguese Primera Liga[z]	^-
+AVS Futebol SAD vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215976/avs-futebol-sad-vs-sporting-braga.html
+
+02:45 [y]Italian Serie A[z]	^-
+Udinese vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194595/udinese-vs-as-roma.html
+
+03:00 [y]English Premier League[z]	^-
+Sunderland A.F.C vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193841/sunderland-vs-burnley.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Mallorca vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209726/rcd-mallorca-vs-sevilla-fc.html
+
+03:30 [g]Argentine Division 1[z]	^-
+Gimnasia Plata vs Aldosivi Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327468/gimnasia-la-plata-vs-aldosivi-mar-del-plata.html
+
+03:45 [g]Portuguese Primera Liga[z]	^-
+Casa Pia AC vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216169/casa-pia-ac-vs-fc-porto.html
+
+05:45 [g]Argentine Division 1[z]	^-
+Defensa Justicia vs Estudiantes Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321861/defensa-y-justicia-vs-estudiantes-la-plata.html
+Club Atletico Tigre vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4335543/club-atletico-tigre-vs-racing-club-de-avellaneda.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
