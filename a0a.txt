@@ -28,44 +28,6 @@
 
 02.02.2026	^-
 
-01:00 [g]Portuguese Primera Liga[z]	^-
-Sporting CP vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216261/sporting-cp-vs-nacional-da-madeira.html
-Sporting CP vs Nacional da Madeira	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144886
-
-02:00 [y]Netherlands Eredivisie[z]	^-
-Volendam vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199159/volendam-vs-go-ahead-eagles.html
-Volendam vs Go Ahead Eagles	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4121150
-
-02:00 [g]CAF Champions League[z]	^-
-MC Alger vs Saint Eloi Lupopo	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311152/mc-alger-vs-saint-eloi-lupopo.html
-MC Alger vs Saint Eloi Lupopo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4154895
-
-02:45 [y]Italian Serie A[z]	^-
-Parma vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194771/parma-vs-juventus.html
-Parma vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4119570
-
-02:45 [y]French Ligue 1[z]	^-
-Strasbourg vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200260/rc-strasbourg-alsace-vs-paris-saint-germain.html
-Strasbourg vs Paris Saint Germain	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4070213
-
-03:00 [y]Spanish La Liga[z]	^-
-Athletic Bilbao vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209834/athletic-club-vs-real-sociedad.html
-Athletic Bilbao vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4120278
-Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-TNT Sports LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-beIN Sports 1 MY	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-
-03:00 [g]Argentine Division 1[z]	^-
-Barracas Central vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327466/barracas-central-vs-deportivo-riestra.html
-Barracas Central vs Deportivo Riestra	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4020316
-
-03:30 [g]Portuguese Primera Liga[z]	^-
-CD Tondela vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4215992/cd-tondela-vs-benfica.html
-CD Tondela vs Benfica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4144998
-
-05:15 [g]Argentine Division 1[z]	^-
-Boca Juniors vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321857/boca-juniors-vs-club-atltico-newells-old-boys.html
-
 07:30 [g]Argentine Division 1[z]	^-
 Rosario Central vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4328440/rosario-central-vs-river-plate.html
 
