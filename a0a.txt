@@ -28,10 +28,6 @@
 
 04.02.2026	^-
 
-12:00 [g]OFC Pro League[z]	^-
-Bula FC vs South Melbourne	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4335003/bula-fc-vs-south-melbourne.html
-Bula FC vs South Melbourne	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4152589
-
 19:30 [g]Asean Club Championship[z]	^-
 Buriram United vs Dynamic Herb Cebu	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4260380/buriram-united-vs-dynamic-herb-cebu.html
 Buriram United vs Dynamic Herb Cebu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155861
@@ -2022,5 +2018,9 @@ Dragon Ball Super 24/7	`0https://www.telegratishd.com/dragon-ball-super-24-horas
 Chespirito 24/7	`0https://www.telegratishd.com/chespirito-24-horas-en-vivo.html
 FM Hot Movies	`0https://www.telegratishd.com/fm-hot-movies-en-vivo.html
 FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
+
+^=embed 1	`1https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 4	`4https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 5	`5https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
 
 	^-
