@@ -30,24 +30,32 @@
 
 00:45 [g]Netherlands KNVB Cup[z]	^-
 NEC Nijmegen vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4343223/nec-nijmegen-vs-volendam.html
+NEC Nijmegen vs Volendam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4161373
 
 02:30 [g]Belgian Cup[z]	^-
 Charleroi vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-cup-match-4333198/rc-sporting-charleroi-vs-union-saint-gilloise.html
+Charleroi vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4156006
 
 02:30 [g]Coupe de France[z]	^-
 Nice vs Montpellier	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4337273/ogc-nice-vs-montpellier-hrault-sc.html
+Nice vs Montpellier	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155470
 Toulouse vs Amiens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4337274/toulouse-fc-vs-amiens.html
+Toulouse vs Amiens	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155468
 Lyon vs Stade Lavallois MFC	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4337275/lyon-vs-stade-lavallois-mfc.html
+Lyon vs Stade Lavallois MFC	`https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155467
 Lorient vs Paris FC	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4338316/lorient-vs-paris-fc.html
+Lorient vs Paris FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155462
 
 02:45 [g]DFB Pokal[z]	^-
 Holstein Kiel vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4337097/holstein-kiel-vs-vfb-stuttgart.html
+Holstein Kiel vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3973512
 
 03:00 [g]Scottish Premiership[z]	^-
 Aberdeen vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206327/aberdeen-vs-celtic-fc.html
 
 03:00 [g]English Football League Cup[z]	^-
 Manchester City vs Newcastle United	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4322372/manchester-city-vs-newcastle-united.html
+Manchester City vs Newcastle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004918
 
 03:00 [g]Coupe de France[z]	^-
 Troyes vs Lens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4338186/troyes-vs-rc-lens.html
@@ -55,12 +63,14 @@ Troyes vs Lens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4338186/t
 03:00 [g]Copa del Rey[z]	^-
 Deportivo Alavés vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4339555/deportivo-alavs-vs-real-sociedad.html
 Valencia vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4340902/valencia-cf-vs-athletic-club.html
+Valencia vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4127531
 
 03:00 [g]Netherlands KNVB Cup[z]	^-
 PSV Eindhoven vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4341527/psv-eindhoven-vs-sc-heerenveen.html
 
 03:00 [g]Coppa Italia[z]	^-
 Inter Milan vs Torino	`Fhttps://www.fctv33.net/football/coppa-italia-match-4341530/inter-milan-vs-torino.html
+Inter Milan vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117749
 
 03:15 [g]Portuguese Cup[z]	^-
 Fafe vs SCU Torreense	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4340555/ad-fafe-vs-scu-torreense.html
