@@ -28,32 +28,6 @@
 
 05.02.2026	^-
 
-03:00 [g]English Football League Cup[z]	^-
-Manchester City vs Newcastle United	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4322372/manchester-city-vs-newcastle-united.html
-Manchester City vs Newcastle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4004918
-
-03:00 [g]Coupe de France[z]	^-
-Troyes vs Lens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4338186/troyes-vs-rc-lens.html
-Troyes vs Lens	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155466
-
-03:00 [g]Copa del Rey[z]	^-
-Deportivo Alavés vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4339555/deportivo-alavs-vs-real-sociedad.html
-Deportivo Alavés vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4127533
-Valencia vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4340902/valencia-cf-vs-athletic-club.html
-Valencia vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4127531
-
-03:00 [g]Netherlands KNVB Cup[z]	^-
-PSV Eindhoven vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4341527/psv-eindhoven-vs-sc-heerenveen.html
-PSV Eindhoven vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155465
-
-03:00 [g]Coppa Italia[z]	^-
-Inter Milan vs Torino	`Fhttps://www.fctv33.net/football/coppa-italia-match-4341530/inter-milan-vs-torino.html
-Inter Milan vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4117749
-
-03:15 [g]Portuguese Cup[z]	^-
-Fafe vs SCU Torreense	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4340555/ad-fafe-vs-scu-torreense.html
-Fafe vs SCU Torreense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4156025
-
 05:00 [g]Copa Argentina[z]	^-
 Talleres Cordoba vs Argentino Merlo	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335564/talleres-cordoba-vs-argentino-de-merlo.html
 Talleres Cordoba vs Argentino Merlo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4149263
