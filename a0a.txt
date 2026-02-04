@@ -59,14 +59,17 @@ Manchester City vs Newcastle United	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 
 03:00 [g]Coupe de France[z]	^-
 Troyes vs Lens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4338186/troyes-vs-rc-lens.html
+Troyes vs Lens	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155466
 
 03:00 [g]Copa del Rey[z]	^-
 Deportivo Alavés vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4339555/deportivo-alavs-vs-real-sociedad.html
+Deportivo Alavés vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4127533
 Valencia vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4340902/valencia-cf-vs-athletic-club.html
 Valencia vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4127531
 
 03:00 [g]Netherlands KNVB Cup[z]	^-
 PSV Eindhoven vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4341527/psv-eindhoven-vs-sc-heerenveen.html
+PSV Eindhoven vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4155465
 
 03:00 [g]Coppa Italia[z]	^-
 Inter Milan vs Torino	`Fhttps://www.fctv33.net/football/coppa-italia-match-4341530/inter-milan-vs-torino.html
@@ -77,6 +80,35 @@ Fafe vs SCU Torreense	`Fhttps://www.fctv33.net/football/portuguese-cup-match-434
 
 05:00 [g]Copa Argentina[z]	^-
 Talleres Cordoba vs Argentino Merlo	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335564/talleres-cordoba-vs-argentino-de-merlo.html
+
+06:00 [g]Brazilian Serie A[z]	^-
+Santos vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4325799/santos-vs-sao-paulo.html
+
+07:15 [g]Copa Argentina[z]	^-
+CA Platense vs CDA Monte Miaz	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335935/ca-platense-vs-cda-monte-miaz.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+2 de Mayo PJC vs Alianza Lima	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4327928/club-sportivo-2-de-mayo-vs-alianza-lima.html
+
+07:30 [g]Brazilian Serie A[z]	^-
+Palmeiras vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4335651/palmeiras-vs-vitoria-ba.html
+
+08:00 [g]CNCF CHL[z]	^-
+Xelaju MC vs Monterrey	`Fhttps://www.fctv33.net/football/cncf-chl-match-4319600/xelaju-mc-vs-monterrey.html
+
+10:00 [g]CNCF CHL[z]	^-
+Vancouver FC vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/cncf-chl-match-4319416/vancouver-fc-vs-cruz-azul.html
+
+19:00 [l]AFC Futsal Asian Cup[z]	^-
+Indonesia vs Japan	`Fhttps://www.fctv33.net/football/afc-futsal-asian-cup-indonesia-2026-match-4348391/indonesia-vs-japan---semifinal-2.html
+
+19:30 [g]Asean Club Championship[z]	^-
+Bangkok United FC vs Shan United	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261078/bangkok-united-fc-vs-shan-united.html
+Lion City Sailors vs Svay Rieng FC	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261079/lion-city-sailors-vs-preah-khan-reach-svay-rieng-fc.html
+Nam Dinh FC vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261080/thep-xanh-nam-dinh-fc-vs-johor-darul-tazim-fc.html
+
+22:20 [g]Saudi Professional League[z]	^-
+Al-Feiha vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256031/al-fayha-vs-al-najmaksa.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
