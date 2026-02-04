@@ -2023,4 +2023,13 @@ Chespirito 24/7	`0https://www.telegratishd.com/chespirito-24-horas-en-vivo.html
 FM Hot Movies	`0https://www.telegratishd.com/fm-hot-movies-en-vivo.html
 FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 
+^=embed 0	`0https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 1	`1https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 2	`2https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 3	`3https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 4	`4https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 5	`5https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 6	`6https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=embed 7	`7https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+
 	^-
