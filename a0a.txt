@@ -52,27 +52,35 @@ Inter Milan vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 
 03:15 [g]Portuguese Cup[z]	^-
 Fafe vs SCU Torreense	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4340555/ad-fafe-vs-scu-torreense.html
+Fafe vs SCU Torreense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4156025
 
 05:00 [g]Copa Argentina[z]	^-
 Talleres Cordoba vs Argentino Merlo	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335564/talleres-cordoba-vs-argentino-de-merlo.html
+Talleres Cordoba vs Argentino Merlo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4149263
 
 06:00 [g]Brazilian Serie A[z]	^-
 Santos vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4325799/santos-vs-sao-paulo.html
+Santos vs Sao Paulo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138012
 
 07:15 [g]Copa Argentina[z]	^-
 CA Platense vs CDA Monte Miaz	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335935/ca-platense-vs-cda-monte-miaz.html
+CA Platense vs CDA Monte Miaz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4149264
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 2 de Mayo PJC vs Alianza Lima	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4327928/club-sportivo-2-de-mayo-vs-alianza-lima.html
+2 de Mayo PJC vs Alianza Lima	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4007686
 
 07:30 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4335651/palmeiras-vs-vitoria-ba.html
+Palmeiras vs Vitoria BA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4138010
 
 08:00 [g]CNCF CHL[z]	^-
 Xelaju MC vs Monterrey	`Fhttps://www.fctv33.net/football/cncf-chl-match-4319600/xelaju-mc-vs-monterrey.html
+Xelaju MC vs Monterrey	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4159325
 
 10:00 [g]CNCF CHL[z]	^-
 Vancouver FC vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/cncf-chl-match-4319416/vancouver-fc-vs-cruz-azul.html
+Vancouver FC vs CDSyC Cruz Azul	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4159335
 
 19:00 [l]AFC Futsal Asian Cup[z]	^-
 Indonesia vs Japan	`Fhttps://www.fctv33.net/football/afc-futsal-asian-cup-indonesia-2026-match-4348391/indonesia-vs-japan---semifinal-2.html
