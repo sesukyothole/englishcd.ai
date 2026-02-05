@@ -2,8 +2,8 @@
 	^-
 ^=	^-
 ^=fctvlive	`0https://www.fctv33.net/football.html
-^=Live Sports	`0https://www.marza12.shop/football.html
-^=Watching	`0https://ddkanq.vip/
+^=Live Shop	`0https://www.marza12.shop/football.html
+^=Watching CN	`0https://ddkanq.vip/
 ^=Blank	
 ^=	^-
 
@@ -41,6 +41,10 @@ Bahia vs Fluminense RJ	`1https://dovkembed.pw/event/bahia_fluminense_1770328800
 05:00 [g]Copa Argentina[z]	^-
 Deportivo Riestra vs Deportivo Maipu	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335933/deportivo-riestra-vs-deportivo-maipu.html
 Deportivo Riestra vs Deportivo Maipu	`1https://dovkembed.pw/event/deportivo-rieastra_cd-maipu_1770328800
+
+06:00 [g]Brazilian Serie A[z]	^-
+Vasco da Gama vs Chapecoense SC	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4325798/clube-de-regatas-vasco-da-gama-vs-chapecoense-sc.html
+Vasco da Gama vs Chapecoense SC	`1https://dovkembed.pw/event/vasco_chapecoense-sc_1770332400
 
 07:15 [g]Copa Argentina[z]	^-
 Barracas Central vs Temperley	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335934/barracas-central-vs-temperley.html
@@ -97,10 +101,6 @@ SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-
-	^-
-Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 	^-
 [l]Embedded Sports Channels[z]	^-
@@ -340,6 +340,10 @@ ZiggoSport1[Netherlands]	`1https://dovkembed.pw/channel/ZiggoSport[Netherlands]
 ZiggoSport2[Netherlands]	`1https://dovkembed.pw/channel/ZiggoSport2[Netherlands]
 ZiggoSport3[Netherlands]	`1https://dovkembed.pw/channel/ZiggoSport3[Netherlands]
 ZiggoSport4[Netherlands]	`1https://dovkembed.pw/channel/ZiggoSport4[Netherlands]
+
+	^-
+Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
+Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 	^-
 [l]Embedded TV Channels[z]	^-
