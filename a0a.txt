@@ -133,6 +133,7 @@ Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 	^-
 Soccer	`0https://live.samuraitv.biz.id/p/soccer.html
+^=Soccer	https://geogersr.itilstrem.workers.dev/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 Wowow Live	https://nl.utako.moe/wlive/index.m3u8
 Wowow Prime	https://nl.utako.moe/wprime/index.m3u8
 Wowow Cinema	https://nl.utako.moe/wcinema/index.m3u8
@@ -2282,5 +2283,7 @@ ch28.l	`0https://live.samuraitv.biz.id/p/ch28.html
 ^=embed 1	`1https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
 ^=embed 4	`4https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
 ^=embed 5	`5https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
+^=Soccer D	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+^=Soccer P	https://geogersr.itilstrem.workers.dev/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 
 	^-
