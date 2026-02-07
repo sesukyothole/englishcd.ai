@@ -28,29 +28,27 @@
 
 07.02.2026	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-Necaxa vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322439/necaxa-vs-atletico-san-luis.html
-Necaxa vs Atletico San Luis	`1https://dovkembed.pw/event/necaxa_atl-tico-san-luis_1770424200
-Tigres UANL vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322448/tigres-uanl-vs-santos-laguna.html
-Tigres UANL vs Santos Laguna	`1https://dovkembed.pw/event/tigres-uanl_santos-laguna_1770426000
-
 10:06 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322441/mazatlan-fc-vs-club-deportivo-guadalajara.html
-Mazatlan FC vs Chivas Guadalajara	`1https://dovkembed.pw/event/mazatlan-fc_guadalajara-chivas_1770433560
+Mazatlan FC vs Chivas Guadalajara	`1https://dovkembed.pw/channel/scfw_9008dd8a
+Mazatlan FC vs Chivas Guadalajara	`1https://dovkembed.pw/channel/bet11865643
 Club Tijuana vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322442/club-tijuana-vs-puebla.html
-Club Tijuana vs Puebla	`1https://dovkembed.pw/event/club-tijuana_puebla_1770433200
+Club Tijuana vs Puebla	`1https://dovkembed.pw/channel/scfw_bb635ab2
+Club Tijuana vs Puebla	`1https://dovkembed.pw/channel/bet11865642
+Club Tijuana vs Puebla	`1https://dovkembed.pw/channel/TUDN%5BMexico%5D
 
 11:00 [g]Australia A-League[z]	^-
 Auckland FC vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282172/auckland-fc-vs-sydney-fc.html
-Auckland FC vs Sydney FC	`1https://dovkembed.pw/event/auckland-fc_sydney-fc_1770436500
+Auckland FC vs Sydney FC	`1https://dovkembed.pw/channel/bet11865651
+Auckland FC vs Sydney FC	`1https://dovkembed.pw/channel/SkySport2%5BNewZealand%5D
 
 11:00 [g]Japanese J1 League[z]	^-
 JEF Utd Chiba vs Urawa Red Diamonds	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4343786/jef-united-ichihara-chiba-vs-urawa-red-diamonds.html
-JEF Utd Chiba vs Urawa Red Diamonds	`1https://dovkembed.pw/event/jef-united-chiba_urawa-red-diamonds_1770436800
+JEF Utd Chiba vs Urawa Red Diamonds	`1https://dovkembed.pw/channel/bet11865655
 
 11:30 [g]Japanese J1 League[z]	^-
 FC Tokyo vs Kashima Antlers	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4346253/fc-tokyo-vs-kashima-antlers.html
-FC Tokyo vs Kashima Antlers	`1https://dovkembed.pw/event/fc-tokyo_kashima-antlers_1770438600
+FC Tokyo vs Kashima Antlers	`1https://dovkembed.pw/channel/bet11865661
 
 13:00 [g]Australia A-League[z]	^-
 Brisbane Roar vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282230/brisbane-roar-vs-central-coast-mariners.html
@@ -78,6 +76,8 @@ Persijap Jepara vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-li
 
 19:00 [l]Final 🏆 – AFC Futsal Asian Cup™ 2026[z]	^-
 Indonesia vs Iran	`Fhttps://www.fctv33.net/football/final---afc-futsal-asian-cup-2026-match-4349182/live--indonesia-vs-ir-iran.html
+Indonesia vs Iran	`1https://dovkembed.pw/channel/bet11994199
+Indonesia vs Iran	`1https://dovkembed.pw/channel/Sportklub3[Serbia]
 Indonesia vs Iran	`1https://dovkembed.pw/event/indonesia_iran_1770465000
 
 19:15 Malaysian Cup[z]	^-
@@ -86,6 +86,8 @@ DPMM FC vs Kuching FA	`1https://dovkembed.pw/event/brunei-dpmm_kuching-city_1770
 
 19:30 [y]English Premier League[z]	^-
 Manchester Utd vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193849/manchester-united-vs-tottenham-hotspur.html
+Manchester Utd vs Tottenham Hotspur	`1https://dovkembed.pw/channel/TNTSports1%5BUK%5D
+Manchester Utd vs Tottenham Hotspur	`1https://dovkembed.pw/channel/USANetwork%5BUSA%5D
 Manchester Utd vs Tottenham Hotspur	`1https://dovkembed.pw/event/manchester-united_tottenham_1770467100
 
 19:31 [g]English Football League Champ[z]	^-
