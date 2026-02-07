@@ -137,11 +137,10 @@ HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f
 HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
-Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 Garuda TV	https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
-Indonesiana	https://tvstreamcast.com/indonesiana.m3u8
+Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 LifeStyle	https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -153,9 +152,9 @@ My Kidz	https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 	^-
