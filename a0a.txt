@@ -34,14 +34,19 @@ Central Cordoba vs Atlético Unión	`1https://dovkembed.pw/event/central-cordoba
 
 08:00 [g]Mexico Liga MX[z]	^-
 Necaxa vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322439/necaxa-vs-atletico-san-luis.html
+Necaxa vs Atletico San Luis	`1https://dovkembed.pw/event/necaxa_atl-tico-san-luis_1770424200
 Tigres UANL vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322448/tigres-uanl-vs-santos-laguna.html
+Tigres UANL vs Santos Laguna	`1https://dovkembed.pw/event/tigres-uanl_santos-laguna_1770426000
 
 10:06 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322441/mazatlan-fc-vs-club-deportivo-guadalajara.html
+Mazatlan FC vs Chivas Guadalajara	`1https://dovkembed.pw/event/mazatlan-fc_guadalajara-chivas_1770433560
 Club Tijuana vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322442/club-tijuana-vs-puebla.html
+Club Tijuana vs Puebla	`1https://dovkembed.pw/event/club-tijuana_puebla_1770433200
 
 11:00 [g]Australia A-League[z]	^-
 Auckland FC vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282172/auckland-fc-vs-sydney-fc.html
+Auckland FC vs Sydney FC	`1https://dovkembed.pw/event/auckland-fc_sydney-fc_1770436500
 
 11:00 [g]Japanese J1 League[z]	^-
 JEF Utd Chiba vs Urawa Red Diamonds	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4343786/jef-united-ichihara-chiba-vs-urawa-red-diamonds.html
@@ -51,6 +56,7 @@ FC Tokyo vs Kashima Antlers	`Fhttps://www.fctv33.net/football/japanese-j1-league
 
 13:00 [g]Australia A-League[z]	^-
 Brisbane Roar vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282230/brisbane-roar-vs-central-coast-mariners.html
+Brisbane Roar vs Coast Mariners	`1https://dovkembed.pw/event/brisbane-roar_central-coast-mariners_1770443700
 
 14:00 [g]Japanese J1 League[z]	^-
 Cerezo Osaka vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331684/cerezo-osaka-vs-gamba-osaka.html
@@ -61,12 +67,14 @@ Persik Kediri vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-lig
 
 15:35 [g]Australia A-League[z]	^-
 Western Sydney vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282091/western-sydney-vs-melbourne-city.html
+Western Sydney vs Melbourne City	`1https://dovkembed.pw/event/western-sydney-wanderers_melbourne-city_1770453000
 
 16:00 Malaysian Challenge Cup[z]	^-
 Imigresen FC vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4344631/imigresen-fc-vs-kelantan-the-real-warriors.html
 
 19:00 Liga 1[z]	^-
 Bali United vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229469/bali-united-vs-persebaya-surabaya.html
+Bali United vs Persebaya Surabaya	`1https://dovkembed.pw/event/bali-united_persebaya_1770462000
 Persijap Jepara vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229660/persatuan-sepakbola-indonesia-jepara-vs-madura-united.html
 
 19:00 [l]Final 🏆 – AFC Futsal Asian Cup™ 2026[z]	^-
@@ -77,12 +85,15 @@ DPMM FC vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344
 
 19:30 [y]English Premier League[z]	^-
 Manchester Utd vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193849/manchester-united-vs-tottenham-hotspur.html
+Manchester Utd vs Tottenham Hotspur	`1https://dovkembed.pw/event/manchester-united_tottenham_1770467100
 
 19:31 [g]English Football League Champ[z]	^-
 Derby County vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203266/derby-county-vs-ipswich-town.html
+Derby County vs Ipswich Town	`1https://dovkembed.pw/event/derby-county_ipswich_1770467400
 
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209686/rayo-vallecano-vs-real-oviedo.html
+Rayo Vallecano vs Real Oviedo	`1https://dovkembed.pw/event/rayo-vallecano_real-oviedo_1770468900
 
 20:00 [g]CAF Champions League[z]	^-
 Power Dynamos vs Sportive Berkane	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311326/power-dynamos-vs-renaissance-de-berkane.html
@@ -92,33 +103,50 @@ Kelantan Red Warrior vs Penang	`Fhttps://www.fctv33.net/football/malaysian-chall
 
 21:30 [y]Bundesliga[z]	^-
 1. FC Heidenheim vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199657/1-fc-heidenheim-1846-vs-hamburger-sv.html
+1. FC Heidenheim vs Hamburger SV	`1https://dovkembed.pw/event/heidenheim_hamburger-sv_1770474600
 FC St. Pauli vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199662/fc-st-pauli-vs-vfb-stuttgart.html
+FC St. Pauli vs VfB Stuttgart	`1https://dovkembed.pw/event/st-pauli_stuttgart_1770474600
 VfL Wolfsburg vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199675/vfl-wolfsburg-vs-borussia-dortmund.html
+VfL Wolfsburg vs Borussia Dortmund	`1https://dovkembed.pw/event/wolfsburg_dortmund_1770474600
+VfL Wolfsburg vs Borussia Dortmund	`1https://dovkembed.pw/event/vfl-wolfsburg_borussia-dortmund_1770474600
 FSV Mainz 05 vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199684/1-fsv-mainz-05-vs-fc-augsburg.html
+FSV Mainz 05 vs FC Augsburg	`1https://dovkembed.pw/event/mainz_augsburg_1770474600
 SC Freiburg vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199929/sc-freiburg-vs-sv-werder-bremen.html
+SC Freiburg vs Werder Bremen	`1https://dovkembed.pw/event/freiburg_bremen_1770474600
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193851/burnley-vs-west-ham-united.html
+Burnley vs West Ham United	`1https://dovkembed.pw/event/burnley_west-ham-united_1770475800
 Arsenal vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193863/arsenal-vs-sunderland.html
+Arsenal vs Sunderland AFC	`1https://dovkembed.pw/event/arsenal_sunderland_1770474600
 Bournemouth AFC vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193947/bournemouth-afc-vs-aston-villa.html
+Bournemouth AFC vs Aston Villa	`1https://dovkembed.pw/event/bournemouth_aston-villa_1770475800
 Wolves vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194030/wolverhampton-wanderers-vs-chelsea.html
+Wolves vs Chelsea	`1https://dovkembed.pw/event/wolverhampton-wanderers_chelsea_1770475800
 Fulham vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194045/fulham-vs-everton.html
+Fulham vs Everton	`1https://dovkembed.pw/event/fulham_everton_1770475800
 
 22:01 [g]English Football League Champ[z]	^-
 Coventry City vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203903/coventry-city-vs-oxford-united.html
+Coventry City vs Oxford United	`1https://dovkembed.pw/event/coventry_oxford-utd_1770476400
 
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209723/fc-barcelona-vs-rcd-mallorca.html
+FC Barcelona vs Mallorca	`1https://dovkembed.pw/event/barcelona_mallorca_1770476400
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199257/nec-nijmegen-vs-heracles-almelo.html
+NEC Nijmegen vs Heracles Almelo	`1https://dovkembed.pw/event/nijmegen_heracles_1770478200
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216000/cf-estrela-amadora-sad-vs-santa-clara.html
+Estrela da Amadora vs Santa Clara	`1https://dovkembed.pw/event/amadora_santa-clara_1770477600
 Moreirense vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216086/moreirense-vs-gil-vicente.html
 
 23:00 [y]French Ligue 1[z]	^-
 Lens vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200173/rc-lens-vs-stade-rennais-fc.html
+Lens vs Rennes	`1https://dovkembed.pw/event/lens_rennes_1770479400
+Lens vs Rennes	`1https://dovkembed.pw/event/rc-lens_stade-rennais_1770480000
 
 23:00 [g]CAF Champions League[z]	^-
 Petro Atl Luanda vs Simba Sports Club	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311370/petro-atletico-de-luanda-vs-simba-sports-club.html
@@ -127,58 +155,75 @@ Petro Atl Luanda vs Simba Sports Club	`Fhttps://www.fctv33.net/football/caf-cham
 
 00:00 [y]Italian Serie A[z]	^-
 Genoa vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194690/genoa-vs-napoli.html
+Genoa vs Napoli	`1https://dovkembed.pw/event/genoa_napoli_1770483600
 
 00:30 [y]English Premier League[z]	^-
 Newcastle United vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193988/newcastle-united-vs-brentford.html
+Newcastle United vs Brentford	`1https://dovkembed.pw/event/newcastle-utd_brentford_1770483600
 
 00:30 [y]Bundesliga[z]	^-
 Br Monchengladbach vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199931/borussia-monchengladbach-vs-bayer-04-leverkusen.html
+Br Monchengladbach vs Bayer Leverkusen	`1https://dovkembed.pw/event/borussia-monchengladbach_bayer-leverkusen_1770484800
 
 00:30 [y]Spanish La Liga[z]	^-
 Sevilla vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209794/sevilla-fc-vs-girona-fc.html
+Sevilla vs Girona	`1https://dovkembed.pw/event/sevilla_girona_1770484500
 
 00:30 [g]English National League[z]	^-
 Eastleigh vs Wealdstone FC	`Fhttps://www.fctv33.net/football/english-national-league-match-4219603/eastleigh-vs-wealdstone-fc.html
 
 00:30 [g]Saudi Professional League[z]	^-
 Al-Qadasiya vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256087/al-qadsiah-vs-al-fateh-sc.html
+Al-Qadasiya vs Al-Fateh	`1https://dovkembed.pw/event/al-qadisiya_al-fateh_1770484500
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 PEC Zwolle vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199161/pec-zwolle-vs-volendam.html
+PEC Zwolle vs Volendam	`1https://dovkembed.pw/event/zwolle_fc-volendam_1770485100
 
 01:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200273/stade-brestois-29-vs-lorient.html
+Stade Brestois vs Lorient	`1https://dovkembed.pw/event/brest_lorient_1770486900
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Estoril vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216028/estoril-vs-cd-tondela.html
+Estoril vs CD Tondela	`1https://dovkembed.pw/event/estoril_tondela_1770486600
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 FC Twente Enschede vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199231/fc-twente-enschede-vs-sc-heerenveen.html
+FC Twente Enschede vs SC Heerenveen	`1https://dovkembed.pw/event/twente_heerenveen_1770490500
 
 02:00 [g]CAF Champions League[z]	^-
 JS kabylie vs Al Ahly SC	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311156/js-kabylie-vs-al-ahly-fc.html
 Forces Armee Royales vs Young Africans	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311163/as-far-rabat-vs-young-africans.html
+Forces Armee Royales vs Young Africans	`1https://dovkembed.pw/event/far-rabat_young-africans_1770490800
 
 02:45 [y]Italian Serie A[z]	^-
 Fiorentina vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194570/fiorentina-vs-torino.html
+Fiorentina vs Torino	`1https://dovkembed.pw/event/fiorentina_torino_1770493500
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 Fortuna Sittard vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199236/fortuna-sittard-vs-sparta-rotterdam.html
+Fortuna Sittard vs Sparta Rotterdam	`1https://dovkembed.pw/event/sittard_sparta-rotterdam_1770492600
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209833/real-sociedad-vs-elche.html
+Real Sociedad vs Elche	`1https://dovkembed.pw/event/real-sociedad_elche_1770492600
 
 03:00 [g]Argentine Division 1[z]	^-
 Aldosivi Mar Plata vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4327471/aldosivi-mar-del-plata-vs-rosario-central.html
 
 03:05 [y]French Ligue 1[z]	^-
 Nantes vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200226/fc-nantes-vs-lyon.html
+Nantes vs Lyon	`1https://dovkembed.pw/event/real-sociedad_elche_1770492600
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Arouca vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216216/fc-arouca-vs-vitoria-guimaraes.html
+FC Arouca vs Vitoria Guimaraes	`1https://dovkembed.pw/event/arouca_guimaraes_1770495900
+FC Arouca vs Vitoria Guimaraes	`1https://dovkembed.pw/event/arouca_vitoria-guimaraes_1770496200
 
 04:00 [g]Argentine Division 1[z]	^-
 Racing Club vs Argentinos Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4334069/racing-club-de-avellaneda-vs-argentinos-juniors.html
+Racing Club vs Argentinos Juniors	`1https://dovkembed.pw/event/racing-club_argentinos-jrs_1770498000
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
