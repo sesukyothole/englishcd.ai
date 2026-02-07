@@ -101,37 +101,47 @@ SC Freiburg vs Werder Bremen	`1https://dovkembed.pw/channel/SkyBundesliga5%5BGer
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193851/burnley-vs-west-ham-united.html
+Burnley vs West Ham United	`1https://dovkembed.pw/channel/ArenaSport2%5BSerbia%5D
 Burnley vs West Ham United	`1https://dovkembed.pw/event/burnley_west-ham-united_1770475800
 Arsenal vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193863/arsenal-vs-sunderland.html
+Arsenal vs Sunderland AFC	`1https://dovkembed.pw/channel/Premiersport1%5BIreland%5D
 Arsenal vs Sunderland AFC	`1https://dovkembed.pw/event/arsenal_sunderland_1770474600
 Bournemouth AFC vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193947/bournemouth-afc-vs-aston-villa.html
+Bournemouth AFC vs Aston Villa	`1https://dovkembed.pw/channel/ArenaSport3%5BSerbia%5D
 Bournemouth AFC vs Aston Villa	`1https://dovkembed.pw/event/bournemouth_aston-villa_1770475800
 Wolves vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194030/wolverhampton-wanderers-vs-chelsea.html
+Wolves vs Chelsea	`1https://dovkembed.pw/channel/NovaSports4%5BGreece%5D
 Wolves vs Chelsea	`1https://dovkembed.pw/event/wolverhampton-wanderers_chelsea_1770475800
 Fulham vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194045/fulham-vs-everton.html
+Fulham vs Everton	`1https://dovkembed.pw/channel/SuperSportFootball%5BSouthAfrica%5D
 Fulham vs Everton	`1https://dovkembed.pw/event/fulham_everton_1770475800
 
 22:01 [g]English Football League Champ[z]	^-
 Coventry City vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203903/coventry-city-vs-oxford-united.html
-Coventry City vs Oxford United	`1https://dovkembed.pw/event/coventry_oxford-utd_1770476400
+Coventry City vs Oxford United	`1https://dovkembed.pw/channel/bet8972316
+Coventry City vs Oxford United	`1https://dovkembed.pw/channel/CosmoteSport3%5BGreece%5D
 
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209723/fc-barcelona-vs-rcd-mallorca.html
-FC Barcelona vs Mallorca	`1https://dovkembed.pw/event/barcelona_mallorca_1770476400
+FC Barcelona vs Mallorca	`1https://dovkembed.pw/channel/LaLigaTV%5BUK%5D
+FC Barcelona vs Mallorca	`1https://dovkembed.pw/channel/ESPNDeportes%5BUSA%5D
+FC Barcelona vs Mallorca	`1https://dovkembed.pw/channel/ElevenSports1%5BPoland%5D
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199257/nec-nijmegen-vs-heracles-almelo.html
-NEC Nijmegen vs Heracles Almelo	`1https://dovkembed.pw/event/nijmegen_heracles_1770478200
+NEC Nijmegen vs Heracles Almelo	`1https://dovkembed.pw/channel/bet8972351
+NEC Nijmegen vs Heracles Almelo	`1https://dovkembed.pw/channel/ESPN2%5BNetherlands%5D
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216000/cf-estrela-amadora-sad-vs-santa-clara.html
-Estrela da Amadora vs Santa Clara	`1https://dovkembed.pw/event/amadora_santa-clara_1770477600
+Estrela da Amadora vs Santa Clara	`1https://dovkembed.pw/channel/bet11353355
+Estrela da Amadora vs Santa Clara	`1https://dovkembed.pw/channel/SportTV1%5BPortugal%5D
 Moreirense vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216086/moreirense-vs-gil-vicente.html
 
 23:00 [y]French Ligue 1[z]	^-
 Lens vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200173/rc-lens-vs-stade-rennais-fc.html
-Lens vs Rennes	`1https://dovkembed.pw/event/lens_rennes_1770479400
-Lens vs Rennes	`1https://dovkembed.pw/event/rc-lens_stade-rennais_1770480000
+Lens vs Rennes	`1https://dovkembed.pw/channel/bet11353386
+Lens vs Rennes	`1https://dovkembed.pw/channel/BeINSport1%5BFrance%5D
 
 23:00 [g]CAF Champions League[z]	^-
 Petro Atl Luanda vs Simba Sports Club	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311370/petro-atletico-de-luanda-vs-simba-sports-club.html
