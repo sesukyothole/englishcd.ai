@@ -161,11 +161,13 @@ Sevilla vs Girona	`1https://dovkembed.pw/channel/LaLigaTV%5BUK%5D
 
 00:30 [g]Saudi Professional League[z]	^-
 Al-Qadasiya vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256087/al-qadsiah-vs-al-fateh-sc.html
-Al-Qadasiya vs Al-Fateh	`1https://dovkembed.pw/event/al-qadisiya_al-fateh_1770484500
+Al-Qadasiya vs Al-Fateh	`1https://dovkembed.pw/channel/FoxSoccerPlus%5BUSA%5D
+Al-Qadasiya vs Al-Fateh	`1https://dovkembed.pw/channel/CosmoteSport8%5BGreece%5D
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 PEC Zwolle vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199161/pec-zwolle-vs-volendam.html
-PEC Zwolle vs Volendam	`1https://dovkembed.pw/event/zwolle_fc-volendam_1770485100
+PEC Zwolle vs Volendam	`1https://dovkembed.pw/channel/bet8972349
+PEC Zwolle vs Volendam	`1https://dovkembed.pw/channel/ESPN3%5BNetherlands%5D
 
 01:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200273/stade-brestois-29-vs-lorient.html
