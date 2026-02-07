@@ -28,33 +28,6 @@
 
 07.02.2026	^-
 
-10:06 [g]Mexico Liga MX[z]	^-
-Mazatlan FC vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322441/mazatlan-fc-vs-club-deportivo-guadalajara.html
-Mazatlan FC vs Chivas Guadalajara	`1https://dovkembed.pw/channel/scfw_9008dd8a
-Mazatlan FC vs Chivas Guadalajara	`1https://dovkembed.pw/channel/bet11865643
-Club Tijuana vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322442/club-tijuana-vs-puebla.html
-Club Tijuana vs Puebla	`1https://dovkembed.pw/channel/scfw_bb635ab2
-Club Tijuana vs Puebla	`1https://dovkembed.pw/channel/bet11865642
-Club Tijuana vs Puebla	`1https://dovkembed.pw/channel/TUDN[Mexico]
-
-11:00 [g]Australia A-League[z]	^-
-Auckland FC vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282172/auckland-fc-vs-sydney-fc.html
-Auckland FC vs Sydney FC	`1https://dovkembed.pw/channel/bet11865651
-Auckland FC vs Sydney FC	`1https://dovkembed.pw/channel/SkySport2[NewZealand]
-
-11:00 [g]Japanese J1 League[z]	^-
-JEF Utd Chiba vs Urawa Red Diamonds	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4343786/jef-united-ichihara-chiba-vs-urawa-red-diamonds.html
-JEF Utd Chiba vs Urawa Red Diamonds	`1https://dovkembed.pw/channel/bet11865655
-
-11:30 [g]Japanese J1 League[z]	^-
-FC Tokyo vs Kashima Antlers	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4346253/fc-tokyo-vs-kashima-antlers.html
-FC Tokyo vs Kashima Antlers	`1https://dovkembed.pw/channel/bet11865661
-
-13:00 [g]Australia A-League[z]	^-
-Brisbane Roar vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282230/brisbane-roar-vs-central-coast-mariners.html
-Brisbane Roar vs Coast Mariners	`1https://dovkembed.pw/channel/bet11729812
-Brisbane Roar vs Coast Mariners	`1https://dovkembed.pw/channel/SkySport5[NewZealand]
-
 14:00 [g]Japanese J1 League[z]	^-
 Cerezo Osaka vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331684/cerezo-osaka-vs-gamba-osaka.html
 Cerezo Osaka vs Gamba Osaka	`1https://dovkembed.pw/channel/bet11865719
@@ -110,16 +83,18 @@ Kelantan Red Warrior vs Penang	`Fhttps://www.fctv33.net/football/malaysian-chall
 
 21:30 [y]Bundesliga[z]	^-
 1. FC Heidenheim vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199657/1-fc-heidenheim-1846-vs-hamburger-sv.html
-1. FC Heidenheim vs Hamburger SV	`1https://dovkembed.pw/event/heidenheim_hamburger-sv_1770474600
+1. FC Heidenheim vs Hamburger SV	`1https://dovkembed.pw/channel/bet8972303
+1. FC Heidenheim vs Hamburger SV	`1https://dovkembed.pw/channel/Sportklub3%5BSerbia%5D
 FC St. Pauli vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199662/fc-st-pauli-vs-vfb-stuttgart.html
-FC St. Pauli vs VfB Stuttgart	`1https://dovkembed.pw/event/st-pauli_stuttgart_1770474600
+FC St. Pauli vs VfB Stuttgart	`1https://dovkembed.pw/channel/bet8972302
 VfL Wolfsburg vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199675/vfl-wolfsburg-vs-borussia-dortmund.html
-VfL Wolfsburg vs Borussia Dortmund	`1https://dovkembed.pw/event/wolfsburg_dortmund_1770474600
-VfL Wolfsburg vs Borussia Dortmund	`1https://dovkembed.pw/event/vfl-wolfsburg_borussia-dortmund_1770474600
+VfL Wolfsburg vs Borussia Dortmund	`1https://dovkembed.pw/channel/bet8972300
+VfL Wolfsburg vs Borussia Dortmund	`1https://dovkembed.pw/channel/NovaSports3%5BGreece%5D
 FSV Mainz 05 vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199684/1-fsv-mainz-05-vs-fc-augsburg.html
-FSV Mainz 05 vs FC Augsburg	`1https://dovkembed.pw/event/mainz_augsburg_1770474600
+FSV Mainz 05 vs FC Augsburg	`1https://dovkembed.pw/channel/bet8972298
 SC Freiburg vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199929/sc-freiburg-vs-sv-werder-bremen.html
-SC Freiburg vs Werder Bremen	`1https://dovkembed.pw/event/freiburg_bremen_1770474600
+SC Freiburg vs Werder Bremen	`1https://dovkembed.pw/channel/bet8972297
+SC Freiburg vs Werder Bremen	`1https://dovkembed.pw/channel/SkyBundesliga5%5BGermany%5D
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193851/burnley-vs-west-ham-united.html
