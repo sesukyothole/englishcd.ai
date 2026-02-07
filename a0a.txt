@@ -46,14 +46,19 @@ SC Freiburg vs Werder Bremen	`1https://dovkembed.pw/channel/SkyBundesliga5[Germa
 22:00 [y]English Premier League[z]	^-
 Burnley vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193851/burnley-vs-west-ham-united.html
 Burnley vs West Ham United	`1https://dovkembed.pw/channel/ArenaSport2[Serbia]
+Burnley vs West Ham United.	https://live.vivo200.com/live/hd-en-1-4347539.m3u8?txSecret=f81cb796c387ffc257f82fa541696d5a&txTime=69879A00
 Arsenal vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193863/arsenal-vs-sunderland.html
 Arsenal vs Sunderland AFC	`1https://dovkembed.pw/channel/Premiersport1[Ireland]
+Arsenal vs Sunderland AFC	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 Bournemouth AFC vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193947/bournemouth-afc-vs-aston-villa.html
 Bournemouth AFC vs Aston Villa	`1https://dovkembed.pw/channel/ArenaSport3[Serbia]
+Bournemouth AFC vs Aston Villa	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 Wolves vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194030/wolverhampton-wanderers-vs-chelsea.html
 Wolves vs Chelsea	`1https://dovkembed.pw/channel/NovaSports4[Greece]
+Wolves vs Chelsea	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
 Fulham vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194045/fulham-vs-everton.html
 Fulham vs Everton	`1https://dovkembed.pw/channel/SuperSportFootball[SouthAfrica]
+Fulham vs Everton	https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
 
 22:01 [g]English Football League Champ[z]	^-
 Coventry City vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203903/coventry-city-vs-oxford-united.html
