@@ -35,6 +35,7 @@ Indonesia vs Iran	`1https://dovkembed.pw/channel/Sportklub3[Serbia]
 Indonesia vs Iran	https://live10.watchsoccerlivenews.net/live/meobeo_key.m3u8
 Indonesia vs Iran.	https://tft74gr3uomttgr31hcjtgezdrpjtfisg17ufgray.100ycdn.com/live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8?wsSession=81cb7b0d25a7a4d032169edc-177046510867433&wsIPSercert=aa7dc7b3521d5c8eab36b7da127d6c6b&wsiphost=local&wsBindIP=1
 Indonesia vs Iran	`0https://live.samuraitv.biz.id/p/soccer.html
+Indonesia vs Iran	`0https://live.samuraitv.biz.id/p/sportstar13.html
 
 19:00 Liga 1[z]	^-
 Bali United vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229469/bali-united-vs-persebaya-surabaya.html
