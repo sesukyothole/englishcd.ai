@@ -28,10 +28,6 @@
 
 07.02.2026	^-
 
-07:00 [g]Argentine Division 1[z]	^-
-Central Cordoba vs Atlético Unión	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321898/central-cordoba-sde-vs-club-atltico-unin.html
-Central Cordoba vs Atlético Unión	`1https://dovkembed.pw/event/central-cordoba_union-de-santa-fe_1770422400
-
 08:00 [g]Mexico Liga MX[z]	^-
 Necaxa vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322439/necaxa-vs-atletico-san-luis.html
 Necaxa vs Atletico San Luis	`1https://dovkembed.pw/event/necaxa_atl-tico-san-luis_1770424200
@@ -50,9 +46,11 @@ Auckland FC vs Sydney FC	`1https://dovkembed.pw/event/auckland-fc_sydney-fc_1770
 
 11:00 [g]Japanese J1 League[z]	^-
 JEF Utd Chiba vs Urawa Red Diamonds	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4343786/jef-united-ichihara-chiba-vs-urawa-red-diamonds.html
+JEF Utd Chiba vs Urawa Red Diamonds	`1https://dovkembed.pw/event/jef-united-chiba_urawa-red-diamonds_1770436800
 
 11:30 [g]Japanese J1 League[z]	^-
 FC Tokyo vs Kashima Antlers	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4346253/fc-tokyo-vs-kashima-antlers.html
+FC Tokyo vs Kashima Antlers	`1https://dovkembed.pw/event/fc-tokyo_kashima-antlers_1770438600
 
 13:00 [g]Australia A-League[z]	^-
 Brisbane Roar vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282230/brisbane-roar-vs-central-coast-mariners.html
@@ -60,6 +58,7 @@ Brisbane Roar vs Coast Mariners	`1https://dovkembed.pw/event/brisbane-roar_centr
 
 14:00 [g]Japanese J1 League[z]	^-
 Cerezo Osaka vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331684/cerezo-osaka-vs-gamba-osaka.html
+Cerezo Osaka vs Gamba Osaka	`1https://dovkembed.pw/event/cerezo-osaka_gamba-osaka_1770447600
 
 15:30 Liga 1[z]	^-
 Bhayangkara Solo FC vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229516/bhayangkara-presisi-indonesia-fc-vs-borneo-fc.html
@@ -79,9 +78,11 @@ Persijap Jepara vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-li
 
 19:00 [l]Final 🏆 – AFC Futsal Asian Cup™ 2026[z]	^-
 Indonesia vs Iran	`Fhttps://www.fctv33.net/football/final---afc-futsal-asian-cup-2026-match-4349182/live--indonesia-vs-ir-iran.html
+Indonesia vs Iran	`1https://dovkembed.pw/event/indonesia_iran_1770465000
 
 19:15 Malaysian Cup[z]	^-
 DPMM FC vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344628/dpmm-fc-vs-kuching-city-fc.html
+DPMM FC vs Kuching FA	`1https://dovkembed.pw/event/brunei-dpmm_kuching-city_1770466500
 
 19:30 [y]English Premier League[z]	^-
 Manchester Utd vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193849/manchester-united-vs-tottenham-hotspur.html
