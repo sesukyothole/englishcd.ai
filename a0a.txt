@@ -4,7 +4,6 @@
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Shop	`0https://www.marza12.shop/football.html
 ^=Watching CN	`0https://ddkanq.vip/
-^=Blonk	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4172228
 ^=Blank	
 ^=	^-
 
@@ -43,9 +42,9 @@ Tokyo Verdy vs Mito Hollyhock.	`1https://dovkembed.pw/channel/bet11877285
 
 15:30 Liga 1	^-
 Semen Padang vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229463/semen-padang-vs-persita-tangerang.html
-Semen Padang vs Persita Tangerang.	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4172253
+Semen Padang vs Persita Tangerang,	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4172253
 PSBS Biak Numfor vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229659/psbs-biak-numfor-vs-persatuan-sepakbola-makassar.html
-PSBS Biak Numfor vs PSM Makassar.	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4172254
+PSBS Biak Numfor vs PSM Makassar,	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4172254
 
 18:00 Malaysian Challenge Cup	^-
 Sabah vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4346321/sabah-fc-vs-pdrm-fc.html
