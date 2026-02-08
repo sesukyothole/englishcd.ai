@@ -230,15 +230,21 @@ HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+Dens ShowBiz	https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 Garuda TV	https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+Indonesiana	https://tvstreamcast.com/indonesiana.m3u8
 Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 LifeStyle	https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 MDTV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 Moji TV	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 MoonBug	https://moonbug-rokuus.amagi.tv/playlist.m3u8
+My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+My Cinema	https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+My Family Channel	https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 My Kidz	https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
