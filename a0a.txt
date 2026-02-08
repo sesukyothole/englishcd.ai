@@ -28,18 +28,6 @@
 
 08.02.2026	^-
 
-19:00 Liga 1	^-
-Persija Jakarta vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229674/persatuan-sepakbola-indonesia-jakarta-vs-arema-fc.html
-Persija Jakarta vs Arema FC.	`1https://dovkembed.pw/channel/scfw_feaeb73b
-Persija Jakarta vs Arema FC	https://live.vivo200.com/live/sd-1-4379349.m3u8?txSecret=2bc61b0bc3935ce6cfdf6a5530426400&txTime=6988C12B
-Persija Jakarta vs Arema FC	https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-Persija Jakarta vs Arema FC,	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4172411
-
-19:01 [g]English Football League Champ[z]	^-
-Swansea City vs Sheffield Wednesday	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203316/swansea-city-vs-sheffield-wednesday.html
-Swansea City vs Sheffield Wednesday	`1https://dovkembed.pw/channel/SkySportsFootball[UK]
-Swansea City vs Sheffield Wednesday	`1https://dovkembed.pw/channel/SportTV4[Portugal]
-
 19:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198979/racing-genk-vs-anderlecht.html
 Racing Genk vs Anderlecht.	`1https://dovkembed.pw/channel/bet8972325
@@ -68,6 +56,9 @@ AZ Alkmaar vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-
 AZ Alkmaar vs AFC Ajax	`1https://dovkembed.pw/channel/ESPN3[Netherlands]
 AZ Alkmaar vs AFC Ajax	`1https://dovkembed.pw/channel/ViaplaySports2[UK]
 
+21:00 [l]International Friendly Match Timnas U-17[z]	^-
+Indonesia vs China	`Fhttps://www.fctv33.net/football/international-friendly-match-timnas-u-17-match-4350032/indonesia-vs--china.html
+
 21:00 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194044/brighton-hove-albion-vs-crystal-palace.html
 Brighton Hove Albion vs Crystal Palace	`1https://dovkembed.pw/channel/SkySportsPremierLeague[UK]
@@ -82,9 +73,6 @@ Lecce vs Udinese	`1https://dovkembed.pw/channel/ZiggoSport2[Netherlands]
 Nice vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200225/ogc-nice-vs-as-monaco.html
 Nice vs Monaco	`1https://dovkembed.pw/channel/beINSPORTSUSA[USA]
 Nice vs Monaco	`1https://dovkembed.pw/channel/NovaSports1[Greece]
-
-21:00 [l]International Friendly Match Timnas U-17[z]	^-
-Indonesia vs China	`Fhttps://www.fctv33.net/football/international-friendly-match-timnas-u-17-match-4350032/indonesia-vs--china.html
 
 21:30 [y]Bundesliga[z]	^-
 FC Koln vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199930/fc-kln-vs-rb-leipzig.html
