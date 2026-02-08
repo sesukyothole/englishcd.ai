@@ -28,10 +28,6 @@
 
 08.02.2026	^-
 
-10:10 [g]Mexico Liga MX[z]	^-
-Club America vs Monterrey	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322437/club-america-vs-monterrey.html
-Club America vs Monterrey.	`1https://dovkembed.pw/channel/bet11877188
-
 11:05 [g]Japanese J1 League[z]	^-
 Avispa Fukuoka vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4347282/avispa-fukuoka-vs-fagiano-okayama.html
 Avispa Fukuoka vs Fagiano Okayama.	`1https://dovkembed.pw/channel/bet11877225
@@ -242,16 +238,21 @@ MDTV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 Moji TV	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 MoonBug	https://moonbug-rokuus.amagi.tv/playlist.m3u8
+MotorVision	https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
+MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 My Cinema	https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 My Family Channel	https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 My Kidz	https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 	^-
