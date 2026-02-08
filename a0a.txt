@@ -5,6 +5,7 @@
 ^=Live Shop	`0https://www.marza12.shop/football.html
 ^=Watching CN	`0https://ddkanq.vip/
 ^=Blank	
+^=Blonk	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4172228
 ^=	^-
 
 	^-
