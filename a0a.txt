@@ -28,25 +28,6 @@
 
 08.02.2026	^-
 
-20:00 [y]Spanish La Liga[z]	^-
-Deportivo Alavés vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209665/deportivo-alavs-vs-getafe.html
-Deportivo Alavés vs Getafe	`1https://dovkembed.pw/channel/ESPNDeportes[USA]
-Deportivo Alavés vs Getafe	`1https://dovkembed.pw/channel/PrimaSport3[Romania]
-
-20:00 [g]CAF Champions League[z]	^-
-St Eloi Lupopo vs Mamelodi Sundowns	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4311154/saint-eloi-lupopo-vs-mamelodi-sundowns.html
-St Eloi Lupopo vs Mamelodi Sundowns	`1https://dovkembed.pw/channel/SuperSportFootball[SouthAfrica]
-
-20:00 [g]CAF Confederation Cup[z]	^-
-Kaizer Chiefs vs Al Masry	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312548/kaizer-chiefs-vs-al-masry.html
-Kaizer Chiefs vs Al Masry	`1https://dovkembed.pw/channel/SuperSportVariety4[SouthAfrica]
-ZESCO United Ndola vs Zamalek	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4312561/zesco-united-ndola-vs-zamalek-sc.html
-ZESCO United Ndola vs Zamalek	`1https://dovkembed.pw/channel/SuperSportVariety2[SouthAfrica]
-
-20:00 Malaysian Cup	^-
-Negeri Sembilan vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344627/negeri-sembilan-vs-selangor-fc.html
-Negeri Sembilan vs Selangor.	`1https://dovkembed.pw/channel/bet11902525
-
 20:30 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199162/az-alkmaar-vs-afc-ajax.html
 AZ Alkmaar vs AFC Ajax	`1https://dovkembed.pw/channel/ESPN3[Netherlands]
