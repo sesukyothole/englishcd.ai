@@ -28,31 +28,15 @@
 
 11.02.2026	^-
 
-02:30 [y]English Premier League[z]	^-
-Tottenham Hotspur vs Newcastle Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193885/tottenham-hotspur-vs-newcastle-united.html
-Tottenham Hotspur vs Newcastle Utd	`1https://dovkembed.pw/channel/TNTSports3%5BUK%5D
-Tottenham Hotspur vs Newcastle Utd	`1https://dovkembed.pw/channel/ArenaPremium2%5BSerbia%5D
-Chelsea vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194031/chelsea-vs-leeds-united.html
-Chelsea vs Leeds United	`1https://dovkembed.pw/channel/TNTSports4%5BUK%5D
-Chelsea vs Leeds United	`1https://dovkembed.pw/channel/SkySport1%5BGermany%5D
-Everton vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194040/everton-vs-bournemouth-afc.html
-Everton vs Bournemouth AFC	`1https://dovkembed.pw/channel/ArenaSport1%5BSerbia%5D
-Everton vs Bournemouth AFC	`1https://dovkembed.pw/channel/NovaSports4%5BGreece%5D
+17:00 [g]AFC Champions League Elite[z]	^-
+Ulsan Hyundai FC vs Melbourne City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258392/ulsan-hd-fc-vs-melbourne-city.html
+Gangwon FC vs Shanghai Port	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258402/gangwon-football-club-vs-shanghai-port-fc.html
 
-02:45 [g]DFB Pokal[z]	^-
-Hertha Berlin vs SC Freiburg	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4343714/hertha-berlin-vs-sc-freiburg.html
-Hertha Berlin vs SC Freiburg	`1https://dovkembed.pw/channel/ElevenSports1%5BPoland%5D
-Hertha Berlin vs SC Freiburg	`1https://dovkembed.pw/channel/SkySportTennis%5BGermany%5D
+18:30 [l]International Friendly U17[z]	^-
+Indonesia vs China	`Fhttps://www.fctv33.net/football/international-friendly-match-4348229/indonesia-u17-vs-china-u17.html
 
-03:00 [g]Coppa Italia[z]	^-
-Napoli vs Como	`Fhttps://www.fctv33.net/football/coppa-italia-match-4343238/napoli-vs-como.html
-Napoli vs Como	`1https://dovkembed.pw/channel/ViaplaySports2%5BUK%5D
-Napoli vs Como	`1https://dovkembed.pw/channel/ArenaPremium1%5BSerbia%5D
-
-03:15 [y]English Premier League[z]	^-
-West Ham Utd vs Manchester Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193889/west-ham-united-vs-manchester-united.html
-West Ham Utd vs Manchester Utd	`1https://dovkembed.pw/channel/TNTSports1%5BUK%5D
-West Ham Utd vs Manchester Utd	`1https://dovkembed.pw/channel/TNTSportsUltimate%5BUK%5D
+19:15 [g]AFC Champions League 2[z]	^-
+Ratchaburi FC vs Persib Bandung	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4343100/ratchaburi-fc-vs-persib-bandung.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
