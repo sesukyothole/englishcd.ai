@@ -28,19 +28,54 @@
 
 11.02.2026	^-
 
-19:15 [g]AFC Champions League 2[z]	^-
-Ratchaburi FC vs Persib Bandung	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4343100/ratchaburi-fc-vs-persib-bandung.html
-Ratchaburi FC vs Persib Bandung	`1https://viewembed.ru/channel/ESPN1[Netherlands]
-Ratchaburi FC vs Persib Bandung	https://live.alilicloud.com/live/1c8ca9042419a097f624936d8a7b79c0/playlist.m3u8
-Ratchaburi FC vs Persib Bandung	https://live5.msrktz.app/live/59444581.m3u8
-Ratchaburi FC vs Persib Bandung,	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4043542
-Cong An Nhan Dan vs Tampines Rovers	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4346530/cong-an-ha-noi-fc-vs-tampines-rovers-fc.html
-Cong An Nhan Dan vs Tampines Rovers	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-
 20:45 [g]AFC Champions League 2[z]	^-
 Arkadag FK vs Al Nassr FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4339942/arkadag-fk-vs-al-nassr-fc.html
 Arkadag FK vs Al Nassr FC	`1https://viewembed.ru/channel/ESPN3[Argentina]
 Arkadag FK vs Al Nassr FC	`1https://viewembed.ru/channel/ESPN3[Netherlands]
+
+12.02.2026	^-
+
+00:45 [y]Netherlands Eredivisie[z]	^-
+Go Ahead Eagles vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199234/go-ahead-eagles-vs-sc-heerenveen.html
+Go Ahead Eagles vs SC Heerenveen	`1https://dovkembed.pw/channel/ESPN1[Netherlands]
+
+02:30 [y]English Premier League[z]	^-
+Crystal Palace vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193862/crystal-palace-vs-burnley.html
+Crystal Palace vs Burnley	`1https://dovkembed.pw/channel/SuperSportAction[SouthAfrica]
+Crystal Palace vs Burnley	`1https://dovkembed.pw/channel/SkySport2[NewZealand]
+Manchester City vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193886/manchester-city-vs-fulham.html
+Manchester City vs Fulham	`1https://dovkembed.pw/channel/TNTSports4[UK]
+Manchester City vs Fulham	`1https://dovkembed.pw/channel/SuperSportPremierLeague[SouthAfrica]
+Nottingham Forest vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194042/nottingham-forest-vs-wolverhampton-wanderers.html
+Nottingham Forest vs Wolves	`1https://dovkembed.pw/channel/SuperSportFootball[SouthAfrica]
+Nottingham Forest vs Wolves	`1https://dovkembed.pw/channel/SkySport9[NewZealand]
+Aston Villa vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194043/aston-villa-vs-brighton-hove-albion.html
+Aston Villa vs Brighton Hove Albion	`1https://dovkembed.pw/channel/TNTSports3[UK]
+Aston Villa vs Brighton Hove Albion	`1https://dovkembed.pw/channel/SuperSportPSL[SouthAfrica]
+
+02:45 [g]DFB Pokal[z]	^-
+Bayern Munchen vs RB Leipzig	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4332996/fc-bayern-munich-vs-rb-leipzig.html
+Bayern Munchen vs RB Leipzig	`1https://dovkembed.pw/channel/SkySportTopEvent[Germany]
+Bayern Munchen vs RB Leipzig	`1https://dovkembed.pw/channel/ViaplaySports1[UK]
+
+03:00 [y]Netherlands Eredivisie[z]	^-
+NEC Nijmegen vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199362/nec-nijmegen-vs-fc-utrecht.html
+NEC Nijmegen vs FC Utrecht	`1https://dovkembed.pw/channel/ESPN1[Netherlands]
+
+03:00 [g]Coppa Italia[z]	^-
+Bologna vs Lazio	`Fhttps://www.fctv33.net/football/coppa-italia-match-4342312/bologna-vs-lazio.html
+Bologna vs Lazio	`1https://dovkembed.pw/channel/ViaplaySports2[UK]
+Bologna vs Lazio	`1https://dovkembed.pw/channel/ZiggoSport3[Netherlands]
+
+03:00 [g]Copa del Rey[z]	^-
+Athletic Bilbao vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4349948/athletic-club-vs-real-sociedad.html
+Athletic Bilbao vs Real Sociedad.	`1https://dovkembed.pw/channel/bet12001842
+Athletic Bilbao vs Real Sociedad	`1https://dovkembed.pw/channel/ZiggoSport[Netherlands]
+
+03:15 [y]English Premier League[z]	^-
+Sunderland AFC vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193861/sunderland-vs-liverpool.html
+Sunderland AFC vs Liverpool	`1https://dovkembed.pw/channel/TNTSportsUltimate[UK]
+Sunderland AFC vs Liverpool	`1https://dovkembed.pw/channel/TNTSports1[UK]
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
