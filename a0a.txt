@@ -28,47 +28,8 @@
 
 12.02.2026	^-
 
-00:45 [y]Netherlands Eredivisie[z]	^-
-Go Ahead Eagles vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199234/go-ahead-eagles-vs-sc-heerenveen.html
-Go Ahead Eagles vs SC Heerenveen	`1https://viewembed.ru/channel/ESPN1[Netherlands]
-
-02:30 [y]English Premier League[z]	^-
-Crystal Palace vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193862/crystal-palace-vs-burnley.html
-Crystal Palace vs Burnley	`1https://viewembed.ru/channel/SuperSportAction[SouthAfrica]
-Crystal Palace vs Burnley	`1https://viewembed.ru/channel/SkySport2[NewZealand]
-Manchester City vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193886/manchester-city-vs-fulham.html
-Manchester City vs Fulham	`1https://viewembed.ru/channel/TNTSports4[UK]
-Manchester City vs Fulham	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
-Nottingham Forest vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194042/nottingham-forest-vs-wolverhampton-wanderers.html
-Nottingham Forest vs Wolves	`1https://viewembed.ru/channel/SuperSportFootball[SouthAfrica]
-Nottingham Forest vs Wolves	`1https://viewembed.ru/channel/SkySport9[NewZealand]
-Aston Villa vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194043/aston-villa-vs-brighton-hove-albion.html
-Aston Villa vs Brighton Hove Albion	`1https://viewembed.ru/channel/TNTSports3[UK]
-Aston Villa vs Brighton Hove Albion	`1https://viewembed.ru/channel/SuperSportPSL[SouthAfrica]
-
-02:45 [g]DFB Pokal[z]	^-
-Bayern Munchen vs RB Leipzig	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4332996/fc-bayern-munich-vs-rb-leipzig.html
-Bayern Munchen vs RB Leipzig	`1https://viewembed.ru/channel/SkySportTopEvent[Germany]
-Bayern Munchen vs RB Leipzig	`1https://viewembed.ru/channel/ViaplaySports1[UK]
-
-03:00 [y]Netherlands Eredivisie[z]	^-
-NEC Nijmegen vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199362/nec-nijmegen-vs-fc-utrecht.html
-NEC Nijmegen vs FC Utrecht	`1https://viewembed.ru/channel/ESPN1[Netherlands]
-
-03:00 [g]Coppa Italia[z]	^-
-Bologna vs Lazio	`Fhttps://www.fctv33.net/football/coppa-italia-match-4342312/bologna-vs-lazio.html
-Bologna vs Lazio	`1https://viewembed.ru/channel/ViaplaySports2[UK]
-Bologna vs Lazio	`1https://viewembed.ru/channel/ZiggoSport3[Netherlands]
-
-03:00 [g]Copa del Rey[z]	^-
-Athletic Bilbao vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4349948/athletic-club-vs-real-sociedad.html
-Athletic Bilbao vs Real Sociedad.	`1https://viewembed.ru/channel/bet12001842
-Athletic Bilbao vs Real Sociedad	`1https://viewembed.ru/channel/ZiggoSport[Netherlands]
-
-03:15 [y]English Premier League[z]	^-
-Sunderland AFC vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193861/sunderland-vs-liverpool.html
-Sunderland AFC vs Liverpool	`1https://viewembed.ru/channel/TNTSportsUltimate[UK]
-Sunderland AFC vs Liverpool	`1https://viewembed.ru/channel/TNTSports1[UK]
+17:00 [g]AFC Champions League 2[z]	^-
+Pohang Steelers vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4331685/pohang-steelers-vs-gamba-osaka.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
