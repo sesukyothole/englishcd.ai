@@ -30,6 +30,10 @@
 
 17:00 [g]AFC Champions League 2[z]	^-
 Pohang Steelers vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4331685/pohang-steelers-vs-gamba-osaka.html
+Pohang Steelers vs Gamba Osaka	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
+
+19:15 [g]AFC Champions League 2[z]	^-
+Bangkok United FC vs FC Macarthur	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4342321/bangkok-united-fc-vs-macarthur-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -129,6 +133,8 @@ Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d
 Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 Sky Sports Top Event	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd!!04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
 Sky Sports Top Mix	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd!!3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+Sporsmart 1	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
+Sporsmart 2	https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 Sport Networld 🇨🇦 East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 Sport Networld 🇨🇦 West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd!!0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
