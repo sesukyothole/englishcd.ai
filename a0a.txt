@@ -34,32 +34,33 @@ Al Hilal SFC vs Al Ettifaq	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2ae.
 
 14.02.2026	^-
 
-00:30 [g]Saudi Professional League[z]	^-
-Al Ittihad Club vs Al-Feiha	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256085/al-ittihad-club-vs-al-fayha.html
-Al Ittihad Club vs Al-Feiha	https://live.vivo200.com/live/sd-1-4404546.m3u8?txSecret=8707c01e60304e9ff587ca4e72b8fb63&txTime=698F7CA2
-Al Ittihad Club vs Al-Feiha	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2ab.m3u8?auth_key=1771014354-0-0-9cf89d19c4b232692b2c86d5f11e3ca1
-
-01:00 [y]French Ligue 1[z]	^-
-Rennes vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200247/stade-rennais-fc-vs-paris-saint-germain.html
-Rennes vs Paris Saint Germain	https://live.vivo200.com/live/sd-1-4347877.m3u8?txSecret=bfee60469e4978813959dc9f1b6c08cd&txTime=698F7CA3
-Rennes vs Paris Saint Germain	https://live.vivo200.com/live/hd-en-1-4347877.m3u8?txSecret=a7e1c4d1c6c1f3951c9824a0fce09db7&txTime=698F7CA3
-Rennes vs Paris Saint Germain	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43a.m3u8?auth_key=1771014354-0-0-e8492753fe857a3a33b4ea104f0a2b3c
-
 02:00 [y]Netherlands Eredivisie[z]	^-
 Volendam vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199219/volendam-vs-psv-eindhoven.html
+Volendam vs PSV Eindhoven	`1https://viewembed.ru/channel/ArenaSport5%5BSerbia%5D
+Volendam vs PSV Eindhoven	`1https://viewembed.ru/channel/PrimaSport3%5BRomania%5D
 
 02:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199673/borussia-dortmund-vs-1-fsv-mainz-05.html
+Borussia Dortmund vs FSV Mainz 05	`1https://viewembed.ru/channel/DAZN1%5BPortugal%5D
+Borussia Dortmund vs FSV Mainz 05	`1https://viewembed.ru/channel/DigiSport3%5BRomania%5D
 
 02:45 [y]Italian Serie A[z]	^-
 Pisa vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194743/pisa-vs-ac-milan.html
+Pisa vs AC Milan	https://viewembed.ru/channel/ArenaPremium2%5BSerbia%5D
+Pisa vs AC Milan	https://viewembed.ru/channel/ElevenSports1%5BPoland%5D
 
 02:45 [g]FA Cup[z]	^-
 Wrexham vs Ipswich Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4330061/wrexham-vs-ipswich-town.html
+Wrexham vs Ipswich Town	`1https://viewembed.ru/channel/NovaSports2%5BGreece%5D
+Wrexham vs Ipswich Town	`1https://viewembed.ru/channel/SuperSportVariety3%5BSouthAfrica%5D
 Hull City vs Chelsea	`Fhttps://www.fctv33.net/football/fa-cup-match-4330063/hull-city-vs-chelsea.html
+Hull City vs Chelsea	`1https://viewembed.ru/channel/CanalSport3%5BFrance%5D
+Hull City vs Chelsea	`1https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D
 
 03:00 [y]Spanish La Liga[z]	^-
 Elche vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209682/elche-vs-ca-osasuna.html
+Elche vs Osasuna	`1https://viewembed.ru/channel/NovaSports5%5BGreece%5D
+Elche vs Osasuna	`1https://viewembed.ru/channel/ArenaPremium3%5BSerbia%5D
 
 03:05 [y]French Ligue 1[z]	^-
 Monaco vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200295/as-monaco-vs-fc-nantes.html
