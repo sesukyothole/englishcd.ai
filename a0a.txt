@@ -41,6 +41,9 @@ Al Ittihad Club vs Al-Feiha	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2ab
 
 01:00 [y]French Ligue 1[z]	^-
 Rennes vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200247/stade-rennais-fc-vs-paris-saint-germain.html
+Rennes vs Paris Saint Germain	https://live.vivo200.com/live/sd-1-4347877.m3u8?txSecret=bfee60469e4978813959dc9f1b6c08cd&txTime=698F7CA3
+Rennes vs Paris Saint Germain	https://live.vivo200.com/live/hd-en-1-4347877.m3u8?txSecret=a7e1c4d1c6c1f3951c9824a0fce09db7&txTime=698F7CA3
+Rennes vs Paris Saint Germain	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43a.m3u8?auth_key=1771014354-0-0-e8492753fe857a3a33b4ea104f0a2b3c
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Volendam vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199219/volendam-vs-psv-eindhoven.html
