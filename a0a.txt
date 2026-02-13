@@ -31,7 +31,7 @@
 17:00 [g]Japanese J1 League[z]	^-
 Vissel Kobe vs V-Varen Nagasaki	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331636/vissel-kobe-vs-v-varen-nagasaki.html
 Vissel Kobe vs V-Varen Nagasaki	https://live.vivo200.com/live/sd-1-4470740.m3u8?txSecret=37ce531cb71d180c64d306798ee7e3ed&txTime=698F336B
-Vissel Kobe vs V-Varen Nagasaki	http://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980d6.m3u8?auth_key=1770995548-0-0-6bcb8b5df2c083b78d16c1b284230592
+Vissel Kobe vs V-Varen Nagasaki	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980d6.m3u8?auth_key=1770995548-0-0-6bcb8b5df2c083b78d16c1b284230592
 
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282208/perth-glory-vs-newcastle-jets.html
