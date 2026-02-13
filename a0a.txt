@@ -43,9 +43,17 @@ Western Sydney vs Wellington Phoenix	http://bo2.qiuxun.tv/sla/1-6970d4e59f151a19
 
 17:00 [g]Japanese J1 League[z]	^-
 Vissel Kobe vs V-Varen Nagasaki	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331636/vissel-kobe-vs-v-varen-nagasaki.html
+Vissel Kobe vs V-Varen Nagasaki	https://live.vivo200.com/live/sd-1-4470740.m3u8?txSecret=37ce531cb71d180c64d306798ee7e3ed&txTime=698F336B
+^=Vissel Kobe vs V-Varen Nagasaki	http://hls.suanzsd6.com/sd-6MvYqo1KZteFEBG9gs.m3u8?txSecret=8f5793f9d5207a84e0ff5bbc51b5e790&txTime=69903B62
+Vissel Kobe vs V-Varen Nagasaki	http://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980d6.m3u8?auth_key=1770995548-0-0-6bcb8b5df2c083b78d16c1b284230592
+^=Vissel Kobe vs V-Varen Nagasaki	http://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980d6.m3u8?auth_key=1770995548-0-0-68127bed81f295d1459ecfeb898c7ad8
 
 17:45 [g]Australia A-League[z]	^-
 Perth Glory vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282208/perth-glory-vs-newcastle-jets.html
+Perth Glory vs Newcastle Jets	https://live.vivo200.com/live/sd-1-4426669.m3u8?txSecret=bc045b7b6e527ab0e46036110b3b4517&txTime=698F336B
+^=Perth Glory vs Newcastle Jets	https://hls.suanzsd6.com/sd-6MvY6kwwJSDDN3PTJF.m3u8?txSecret=fb2eebc4c8ec76792140f8dced0ee9b1&txTime=69903B62
+Perth Glory vs Newcastle Jets	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2e4.m3u8?auth_key=1770995548-0-0-229a7178e5888fd78b1a97f4b80c70d7
+^=Perth Glory vs Newcastle Jets	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2e4.m3u8?auth_key=1770995548-0-0-0f85ff783f53995df25bf2ed3f1a8489
 
 19:00 Liga 1	^-
 Malut United vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229675/malut-united-vs-persatuan-sepakbola-indonesia-jepara.html
