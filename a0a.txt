@@ -28,23 +28,6 @@
 
 13.02.2026	^-
 
-19:00 Liga 1	^-
-Malut United vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229675/malut-united-vs-persatuan-sepakbola-indonesia-jepara.html
-Malut United vs Persijap Jepara	https://live.vivo200.com/live/sd-1-4379405.m3u8?txSecret=b11b075868ad1232774dc2ef1c551339&txTime=698F336B
-Malut United vs Persijap Jepara	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2e9.m3u8?auth_key=1770995548-0-0-d94f405649344fe650b9d5e1d018a9fe
-
-19:00 [g]Thai League 1[z]	^-
-Chonburi Shark vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320278/chonburi-fc-vs-uthai-thani-forest.html
-Chonburi Shark vs Uthai Thani Forest	https://live.vivo200.com/live/sd-1-4463882.m3u8?txSecret=b919c7343d66149c837778c0eed60aa8&txTime=698F336B
-Chonburi Shark vs Uthai Thani Forest	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2e8.m3u8?auth_key=1770995548-0-0-c2de0b2a1fb3a253831a8416d0b9daa7
-
-19:15 Malaysian Cup	^-
-Johor Darul Takzim vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344629/johor-darul-tazim-fc-vs-melaka-fc.html
-Johor Darul Takzim vs Melaka FC	https://bo2.qiuxun.tv/sla/1-697d7749b693b936d0bac3b6.m3u8?auth_key=1770995548-0-0-3e0d2683f2f7c36c788cc7e445ed7224
-
-19:15 Malaysian Challenge Cup	^-
-Perak vs UM-Damansara United	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4344648/perak-fc-vs-um-damansara-united.html
-
 22:25 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs Al Ettifaq	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256124/al-hilal-vs-al-ettifaq-fc.html
 Al Hilal SFC vs Al Ettifaq	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2ae.m3u8?auth_key=1771004950-0-0-181189c638327960d2db10ec5f0853e3
