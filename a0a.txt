@@ -53,8 +53,8 @@ Hull City vs Chelsea	`1https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D
 
 03:00 [y]Spanish La Liga[z]	^-
 Elche vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209682/elche-vs-ca-osasuna.html
-Elche vs Osasuna	`1https://viewembed.ru/channel/NovaSports5%5BGreece%5D
 Elche vs Osasuna	`1https://viewembed.ru/channel/ArenaPremium3%5BSerbia%5D
+Elche vs Osasuna	`1https://viewembed.ru/channel/ViaplaySports1%5BUK%5D
 
 03:05 [y]French Ligue 1[z]	^-
 Monaco vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200295/as-monaco-vs-fc-nantes.html
