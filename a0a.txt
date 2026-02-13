@@ -53,6 +53,8 @@ Pisa vs AC Milan	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc529818a.m3u8?auth_
 Wrexham vs Ipswich Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4330061/wrexham-vs-ipswich-town.html
 Wrexham vs Ipswich Town	`1https://viewembed.ru/channel/NovaSports2%5BGreece%5D
 Wrexham vs Ipswich Town	`1https://viewembed.ru/channel/SuperSportVariety3%5BSouthAfrica%5D
+Wrexham vs Ipswich Town	https://live.vivo200.com/live/sd-1-4476656.m3u8?txSecret=406536ca22c95702bc64dae542a525ab&txTime=698FD43D
+Wrexham vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc2ef.m3u8?auth_key=1771036783-0-0-668b865408b4c83bb34d69b5228af001
 Hull City vs Chelsea	`Fhttps://www.fctv33.net/football/fa-cup-match-4330063/hull-city-vs-chelsea.html
 Hull City vs Chelsea	`1https://viewembed.ru/channel/CanalSport3%5BFrance%5D
 Hull City vs Chelsea	`1https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D
@@ -63,11 +65,15 @@ Hull City vs Chelsea	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc2ee.m3u8?a
 Elche vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209682/elche-vs-ca-osasuna.html
 Elche vs Osasuna	`1https://viewembed.ru/channel/ArenaPremium3%5BSerbia%5D
 Elche vs Osasuna	`1https://viewembed.ru/channel/ViaplaySports1%5BUK%5D
+Elche vs Osasuna	https://live.vivo200.com/live/sd-1-4358902.m3u8?txSecret=98930eb7ea73bacec0e2b50d72f5e4bb&txTime=698FD441
+Elche vs Osasuna	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fda.m3u8?auth_key=1771036783-0-0-28c07a38d98d83e75d4f5651ffbc70e6
 
 03:05 [y]French Ligue 1[z]	^-
 Monaco vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200295/as-monaco-vs-fc-nantes.html
 Monaco vs Nantes	`1https://viewembed.ru/channel/NovaSports6%5BGreece%5D
 Monaco vs Nantes	`1https://viewembed.ru/channel/ArenaSport2%5BSerbia%5D
+Monaco vs Nantes	https://live.vivo200.com/live/sd-1-4347875.m3u8?txSecret=20a2adafb5876881b1bb999611cbb47c&txTime=698FD441
+Monaco vs Nantes	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43c.m3u8?auth_key=1771036783-0-0-2ab0eb287851ece60baaccf9f5c98fbc
 
 08:00 [g]International Club Friendly[z]	^-
 Indep Jose Teran vs Inter Miami CF	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4353086/independiente-del-valle-vs-inter-miami-cf.html
