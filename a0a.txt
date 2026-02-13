@@ -75,10 +75,6 @@ Monaco vs Nantes	`1https://viewembed.ru/channel/ArenaSport2%5BSerbia%5D
 Monaco vs Nantes	https://live.vivo200.com/live/sd-1-4347875.m3u8?txSecret=20a2adafb5876881b1bb999611cbb47c&txTime=698FD441
 Monaco vs Nantes	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43c.m3u8?auth_key=1771036783-0-0-2ab0eb287851ece60baaccf9f5c98fbc
 
-08:00 [g]International Club Friendly[z]	^-
-Indep Jose Teran vs Inter Miami CF	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4353086/independiente-del-valle-vs-inter-miami-cf.html
-Indep Jose Teran vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-698cae9aa6c61b22069e842f.m3u8?auth_key=1771035626-0-0-99dbada8c9e1f14a099a36f0c6cd9224
-
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
