@@ -36,6 +36,8 @@ Al Hilal SFC vs Al Ettifaq	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2ae.
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Ittihad Club vs Al-Feiha	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256085/al-ittihad-club-vs-al-fayha.html
+Al Ittihad Club vs Al-Feiha	https://live.vivo200.com/live/sd-1-4404546.m3u8?txSecret=8707c01e60304e9ff587ca4e72b8fb63&txTime=698F7CA2
+Al Ittihad Club vs Al-Feiha	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2ab.m3u8?auth_key=1771014354-0-0-9cf89d19c4b232692b2c86d5f11e3ca1
 
 01:00 [y]French Ligue 1[z]	^-
 Rennes vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200247/stade-rennais-fc-vs-paris-saint-germain.html
