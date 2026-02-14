@@ -28,19 +28,6 @@
 
 14.02.2026	^-
 
-19:00 Liga 1	^-
-Persebaya Surabaya vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229519/persebaya-surabaya-vs-bhayangkara-presisi-indonesia-fc.html
-Persebaya Surabaya vs Bhayangkara	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601ef.m3u8?auth_key=1771063611-0-0-c86c78b95a003483ea0828e6d34fd889
-
-19:00 [g]Thai League 1[z]	^-
-BG Pathum United vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320284/bg-pathum-united-vs-buriram-united.html
-BG Pathum United vs Buriram United.	`1https://viewembed.ru/channel/bet11649726
-BG Pathum United vs Buriram United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601ee.m3u8?auth_key=1771063611-0-0-c238c462da10f2cca0efaa140452d5e6
-
-19:00 Liga 2	^-
-PSMS Medan vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352224/psms-medan-vs-sumsel-united.html
-PSMS Medan vs Sumsel United	https://live5.msrktz.app/live/99121525.m3u8
-
 19:15 [g]FA Cup[z]	^-
 Burton Albion vs West Ham United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330064/burton-vs-west-ham-united.html
 Burton Albion vs West Ham United	`1https://viewembed.ru/channel/TNTSports1[UK]
