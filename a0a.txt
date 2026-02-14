@@ -28,16 +28,6 @@
 
 14.02.2026	^-
 
-18:00 [g]Thai League 1[z]	^-
-Ratchaburi vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320365/ratchaburi-fc-vs-pt-prachuap-fc.html
-Ratchaburi vs Prachuap Khiri Khan.	`1https://viewembed.ru/channel/bet11930885
-Ratchaburi vs Prachuap Khiri Khan	https://live.vivo200.com/live/sd-1-4463887.m3u8?txSecret=611fa3859dfab3f549fe101b76e8d744&txTime=6990B62F
-Ratchaburi vs Prachuap Khiri Khan	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980fc.m3u8?auth_key=1771063611-0-0-d35454e8db3f78568fe87ed19578c014
-Singha GB Kanchanaburi vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320737/kanchanaburi-power-fc-vs-port-fc.html
-Singha GB Kanchanaburi vs Port FC.	`1https://viewembed.ru/channel/bet11930884
-Singha GB Kanchanaburi vs Port FC	https://live.vivo200.com/live/sd-1-4463883.m3u8?txSecret=fdfb3010af0a9301352e93a76851a61f&txTime=6990B62F
-Singha GB Kanchanaburi vs Port FC	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601e1.m3u8?auth_key=1771063611-0-0-0d53db4f0986e0f86350e7285ba4e903
-
 18:30 [g]Thai League 1[z]	^-
 Sukhothai vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320274/sukhothai-vs-ayutthaya-united.html
 Sukhothai vs Ayutthaya United	`1https://viewembed.ru/channel/bet11930905
@@ -88,17 +78,17 @@ Como vs Fiorentina	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298190.m3u8?aut
 
 21:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199683/bayer-04-leverkusen-vs-fc-st-pauli.html
-Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
 Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/SkyBundesliga5[Germany]
+Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
 Hamburger SV vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199688/hamburger-sv-vs-1-fc-union-berlin.html
 Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/SkyBundesliga4[Germany]
 Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/NovaSports5[Greece]
 Werder Bremen vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199702/sv-werder-bremen-vs-fc-bayern-munich.html
+Werder Bremen vs Bayern Munchen	`1https://viewembed.ru/channel/SkyBundesliga1[Germany]
 Werder Bremen vs Bayern Munchen	`1https://viewembed.ru/channel/DigiSport2[Romania]
-Werder Bremen vs Bayern Munchen	`1https://viewembed.ru/channel/ElevenSports1[Poland]
 TSG Hoffenheim vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199723/tsg-hoffenheim-vs-sc-freiburg.html
-TSG Hoffenheim vs SC Freiburg	`1https://viewembed.ru/channel/ArenaSport4[Serbia]
 TSG Hoffenheim vs SC Freiburg	`1https://viewembed.ru/channel/SkyBundesliga2[Germany]
+TSG Hoffenheim vs SC Freiburg	`1https://viewembed.ru/channel/ArenaSport4[Serbia]
 Eintracht Frankfurt vs Br M'gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199724/eintracht-frankfurt-vs-borussia-monchengladbach.html
 Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/SkyBundesliga3[Germany]
 Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
@@ -123,16 +113,16 @@ Norwich City vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/fa-cup-match
 Norwich City vs West Bromwich WBA	`1https://viewembed.ru/channel/CosmoteSport8[Greece]
 Manchester City vs Salford City	`Fhttps://www.fctv33.net/football/fa-cup-match-4330073/manchester-city-vs-salford-city.html
 Manchester City vs Salford City	`1https://viewembed.ru/channel/ESPNDeportes[USA]
-Manchester City vs Salford City	`1https://viewembed.ru/channel/SportTV6[Portugal]
+Manchester City vs Salford City	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
 
 22:15 [y]Spanish La Liga[z]	^-
 Getafe vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209716/getafe-vs-villarreal-cf.html
-Getafe vs Villarreal	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
+Getafe vs Villarreal	`1https://viewembed.ru/channel/DAZNLaliga[Spain]
 Getafe vs Villarreal	`1https://viewembed.ru/channel/LaLigaTV[UK]
 
 23:00 [y]French Ligue 1[z]	^-
 Marseille vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200211/marseille-vs-rc-strasbourg-alsace.html
-Marseille vs Strasbourg	`1https://viewembed.ru/channel/SportTV3[Portugal]
+Marseille vs Strasbourg	`1https://viewembed.ru/channel/BeINSport1[France]
 Marseille vs Strasbourg	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 
 15.02.2026	^-
