@@ -28,35 +28,10 @@
 
 14.02.2026	^-
 
-22:00 [g]English Football League Champ[z]	^-
-Preston North End vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203291/preston-north-end-vs-watford.html
-Preston North End vs Watford.	`1https://viewembed.ru/channel/bet11389428
-Preston North End vs Watford	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760217.m3u8?auth_key=1771097498-0-0-46b31d0b464075288907bf7f0b6f39c2
-Derby County vs Swansea City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203320/derby-county-vs-swansea-city.html
-Derby County vs Swansea City	`1https://viewembed.ru/channel/SportTV6[Portugal]
-Derby County vs Swansea City	`1https://viewembed.ru/channel/ArenaSport6[Serbia]
-Derby County vs Swansea City	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc369.m3u8?auth_key=1771097498-0-0-1e4dd088be75a2171a5c16135041e198
-Portsmouth vs Sheffield United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203536/portsmouth-vs-sheffield-united.html
-Portsmouth vs Sheffield United.	`1https://viewembed.ru/channel/bet11389427
-Portsmouth vs Sheffield United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760218.m3u8?auth_key=1771105965-0-0-0b520d3c0096e1c4d9fccc6ecce18579
-QPR vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203785/queens-park-rangers-vs-blackburn-rovers.html
-QPR vs Blackburn Rovers.	`1https://viewembed.ru/channel/bet11389429
-QPR vs Blackburn Rovers	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760216.m3u8?auth_key=1771105965-0-0-d2b3d678265bc1fde488766db7c7f9b4
-
 22:00 [g]FA Cup[z]	^-
 Southampton vs Leicester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4330060/southampton-vs-leicester-city.html
 Southampton vs Leicester City	`1https://viewembed.ru/channel/CosmoteSport4[Greece]
 Southampton vs Leicester City	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760222.m3u8?auth_key=1771097498-0-0-c2d68b95521a2e352106213dc27fd5ae
-Burnley vs Mansfield Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4330065/burnley-vs-mansfield-town.html
-Burnley vs Mansfield Town	`1https://viewembed.ru/channel/SuperSportVariety3[SouthAfrica]
-Burnley vs Mansfield Town	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760221.m3u8?auth_key=1771105965-0-0-59242854c1b66c352e36551c7c12d885
-Norwich City vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/fa-cup-match-4330066/norwich-city-vs-west-bromwich-albion.html
-Norwich City vs West Bromwich WBA	`1https://viewembed.ru/channel/CosmoteSport8[Greece]
-Norwich City vs West Bromwich WBA	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760220.m3u8?auth_key=1771105965-0-0-d0dda52ed12ccc8aae8374e79fb269e0
-Manchester City vs Salford City	`Fhttps://www.fctv33.net/football/fa-cup-match-4330073/manchester-city-vs-salford-city.html
-Manchester City vs Salford City	`1https://viewembed.ru/channel/ESPNDeportes[USA]
-Manchester City vs Salford City	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
-Manchester City vs Salford City	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f181876021e.m3u8?auth_key=1771097498-0-0-6646d78d0c83fbf213c650420a56eaa1	
 
 22:15 [y]Spanish La Liga[z]	^-
 Getafe vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209716/getafe-vs-villarreal-cf.html
