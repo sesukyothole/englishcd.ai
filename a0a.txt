@@ -28,20 +28,16 @@
 
 14.02.2026	^-
 
-20:30 Liga 2	^-
-Persiraja Aceh vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352234/persiraja-aceh-vs-psps-riau.html
-Persiraja Aceh vs PSPS Riau	https://bf.jlbflive.cc/live/322717_hd01.m3u8?txSecret=c262fcca38c7f78990ea8c1e4d7657f0&txTime=6990725e
-
 21:00 [y]Italian Serie A[z]	^-
 Como vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194611/como-vs-fiorentina.html
 Como vs Fiorentina	`1https://viewembed.ru/channel/SportTV3[Portugal]
-Como vs Fiorentina	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298190.m3u8?auth_key=1771063611-0-0-27e7671b7e6920f12951f2deb0ab002e
+Como vs Fiorentina	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298190.m3u8?auth_key=1771105965-0-0-2657cb0661b384c30010be4edc626e57
 
 21:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199683/bayer-04-leverkusen-vs-fc-st-pauli.html
 Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/SkyBundesliga5[Germany]
 Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
-Bayer Leverkusen vs FC St. Pauli	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc364.m3u8?auth_key=1771097498-0-0-c2c976c17d35cd101593bd427eff5042
+Bayer Leverkusen vs FC St. Pauli	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc364.m3u8?auth_key=1771105965-0-0-2e185e84817f519dd3b5bbed3fa50e5d
 Hamburger SV vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199688/hamburger-sv-vs-1-fc-union-berlin.html
 Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/SkyBundesliga4[Germany]
 Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/NovaSports5[Greece]
@@ -57,7 +53,7 @@ TSG Hoffenheim vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc3
 Eintracht Frankfurt vs Br M'gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199724/eintracht-frankfurt-vs-borussia-monchengladbach.html
 Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/SkyBundesliga3[Germany]
 Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
-Eintracht Frankfurt vs Br M'gladbach	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc363.m3u8?auth_key=1771097498-0-0-3bb56c1522cccac40c4291efdb1d8ef4
+Eintracht Frankfurt vs Br M'gladbach	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc363.m3u8?auth_key=1771105965-0-0-4a48b58f24e1eec9df37af49bba25cd5
 
 22:00 [g]English Football League Champ[z]	^-
 Preston North End vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203291/preston-north-end-vs-watford.html
