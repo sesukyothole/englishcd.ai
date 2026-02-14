@@ -76,18 +76,23 @@ Como vs Fiorentina	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298190.m3u8?aut
 Bayer Leverkusen vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199683/bayer-04-leverkusen-vs-fc-st-pauli.html
 Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/SkyBundesliga5[Germany]
 Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
+Bayer Leverkusen vs FC St. Pauli	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc364.m3u8?auth_key=1771097498-0-0-c2c976c17d35cd101593bd427eff5042
 Hamburger SV vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199688/hamburger-sv-vs-1-fc-union-berlin.html
 Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/SkyBundesliga4[Germany]
 Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/NovaSports5[Greece]
+Hamburger SV vs Union Berlin	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc362.m3u8?auth_key=1771097498-0-0-b0775cb322471546371324f2e6a281e2
 Werder Bremen vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199702/sv-werder-bremen-vs-fc-bayern-munich.html
 Werder Bremen vs Bayern Munchen	`1https://viewembed.ru/channel/SkyBundesliga1[Germany]
 Werder Bremen vs Bayern Munchen	`1https://viewembed.ru/channel/DigiSport2[Romania]
+Werder Bremen vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc360.m3u8?auth_key=1771097498-0-0-836d9d7a908cff20edd78fef0466d329
 TSG Hoffenheim vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199723/tsg-hoffenheim-vs-sc-freiburg.html
 TSG Hoffenheim vs SC Freiburg	`1https://viewembed.ru/channel/SkyBundesliga2[Germany]
 TSG Hoffenheim vs SC Freiburg	`1https://viewembed.ru/channel/ArenaSport4[Serbia]
+TSG Hoffenheim vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc361.m3u8?auth_key=1771097498-0-0-d3a09538e47ccd5c3eb2300f919f302d
 Eintracht Frankfurt vs Br M'gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199724/eintracht-frankfurt-vs-borussia-monchengladbach.html
 Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/SkyBundesliga3[Germany]
 Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
+Eintracht Frankfurt vs Br M'gladbach	https://bo2.qiuxun.tv/sla/1-6970e2fa952272c52cfcc363.m3u8?auth_key=1771097498-0-0-3bb56c1522cccac40c4291efdb1d8ef4
 
 22:00 [g]English Football League Champ[z]	^-
 Preston North End vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203291/preston-north-end-vs-watford.html
