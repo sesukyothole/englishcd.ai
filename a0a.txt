@@ -33,12 +33,6 @@ Southampton vs Leicester City	`Fhttps://www.fctv33.net/football/fa-cup-match-433
 Southampton vs Leicester City	`1https://viewembed.ru/channel/CosmoteSport4[Greece]
 Southampton vs Leicester City	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760222.m3u8?auth_key=1771097498-0-0-c2d68b95521a2e352106213dc27fd5ae
 
-22:15 [y]Spanish La Liga[z]	^-
-Getafe vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209716/getafe-vs-villarreal-cf.html
-Getafe vs Villarreal	`1https://viewembed.ru/channel/DAZNLaliga[Spain]
-Getafe vs Villarreal	`1https://viewembed.ru/channel/LaLigaTV[UK]
-Getafe vs Villarreal	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fd9.m3u8?auth_key=1771097498-0-0-a2f5f1074ab1ff8ed919047e99a04999		
-
 23:00 [y]French Ligue 1[z]	^-
 Marseille vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200211/marseille-vs-rc-strasbourg-alsace.html
 Marseille vs Strasbourg	`1https://viewembed.ru/channel/BeINSport1[France]
