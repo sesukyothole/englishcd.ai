@@ -58,8 +58,8 @@ PSMS Medan vs Sumsel United	https://live5.msrktz.app/live/99121525.m3u8
 
 19:15 [g]FA Cup[z]	^-
 Burton Albion vs West Ham United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330064/burton-vs-west-ham-united.html
-Burton Albion vs West Ham United	`1https://viewembed.ru/channel/SportTV2[Portugal]
 Burton Albion vs West Ham United	`1https://viewembed.ru/channel/TNTSports1[UK]
+Burton Albion vs West Ham United	`1https://viewembed.ru/channel/SportTV2[Portugal]
 Burton Albion vs West Ham United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601f6.m3u8?auth_key=1771063611-0-0-085ba0180c18e3be2859264fdd95d76f
 
 19:15 Malaysian Cup	^-
@@ -70,7 +70,7 @@ Kuching FA vs DPMM FC	https://bo2.qiuxun.tv/sla/1-697d8555952272c52c95ed8a.m3u8?
 20:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209786/rcd-espanyol-de-barcelona-vs-rc-celta.html
 RCD Espanyol vs Real Celta Vigo	`1https://viewembed.ru/channel/ESPNDeportes[USA]
-RCD Espanyol vs Real Celta Vigo	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
+RCD Espanyol vs Real Celta Vigo	`1https://viewembed.ru/channel/SuperSportLaLiga[SouthAfrica]
 RCD Espanyol vs Real Celta Vigo	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fd1.m3u8?auth_key=1771063611-0-0-574662645dc741092a3daf02da101ad1
 
 20:00 Malaysian Cup	^-
@@ -139,13 +139,13 @@ Marseille vs Strasbourg	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 
 00:00 [y]Italian Serie A[z]	^-
 Lazio vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194728/lazio-vs-atalanta.html
-Lazio vs Atalanta	`1https://viewembed.ru/channel/ArenaPremium2%5BSerbia%5D
-Lazio vs Atalanta	`1https://viewembed.ru/channel/ArenaPremium3%5BSerbia%5D
+Lazio vs Atalanta	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
+Lazio vs Atalanta	`1https://viewembed.ru/channel/ArenaPremium3[Serbia]
 
 00:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199698/vfb-stuttgart-vs-fc-kln.html
-VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkyBundesliga1%5BGermany%5D
-VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkyBundesliga%5BGermany%5D
+VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkyBundesliga1[Germany]
+VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkyBundesliga[Germany]
 
 00:30 [y]Spanish La Liga[z]	^-
 Sevilla vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209761/sevilla-fc-vs-deportivo-alavs.html
@@ -153,48 +153,48 @@ Sevilla vs Deportivo Alavés.	`1https://viewembed.ru/channel/bet11394672
 
 00:30 [g]Saudi Professional League[z]	^-
 Al-Fateh vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256091/al-fateh-sc-vs-al-nassr-fc.html
-Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/SportTV5%5BPortugal%5D
-Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/FoxSoccerPlus%5BUSA%5D
+Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/SportTV5[Portugal]
+Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/FoxSoccerPlus[USA]
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 Excelsior SBV vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199240/excelsior-sbv-vs-az-alkmaar.html
-Excelsior SBV vs AZ Alkmaar	`1https://viewembed.ru/channel/ESPN3%5BNetherlands%5D
-Excelsior SBV vs AZ Alkmaar	`1https://viewembed.ru/channel/ESPN3%5BArgentina%5D
+Excelsior SBV vs AZ Alkmaar	`1https://viewembed.ru/channel/ESPN3[Netherlands]
+Excelsior SBV vs AZ Alkmaar	`1https://viewembed.ru/channel/ESPN3[Argentina]
 
 00:45 [g]FA Cup[z]	^-
 Aston Villa vs Newcastle United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330069/aston-villa-vs-newcastle-united.html
-Aston Villa vs Newcastle United	`1https://viewembed.ru/channel/TNTSports3%5BUK%5D
-Aston Villa vs Newcastle United	`1https://viewembed.ru/channel/SuperSportPremierLeague%5BSouthAfrica%5D
+Aston Villa vs Newcastle United	`1https://viewembed.ru/channel/TNTSports3[UK]
+Aston Villa vs Newcastle United	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
 
 01:00 [y]French Ligue 1[z]	^-
 Lille vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200251/losc-lille-vs-stade-brestois-29.html
-Lille vs Stade Brestois	`1https://viewembed.ru/channel/SportTV3%5BPortugal%5D
-Lille vs Stade Brestois	`1https://viewembed.ru/channel/beINSPORTSUSA%5BUSA%5D
+Lille vs Stade Brestois	`1https://viewembed.ru/channel/SportTV3[Portugal]
+Lille vs Stade Brestois	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199245/afc-ajax-vs-fortuna-sittard.html
-AFC Ajax vs Fortuna Sittard	`1https://viewembed.ru/channel/ESPN1%5BNetherlands%5D
-AFC Ajax vs Fortuna Sittard	`1https://viewembed.ru/channel/ArenaSport3%5BSerbia%5D
+AFC Ajax vs Fortuna Sittard	`1https://viewembed.ru/channel/ESPN1[Netherlands]
+AFC Ajax vs Fortuna Sittard	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194588/inter-milan-vs-juventus.html
-Inter Milan vs Juventus	`1https://viewembed.ru/channel/ElevenSports1%5BPoland%5D
-Inter Milan vs Juventus	`1https://viewembed.ru/channel/ArenaPremium1%5BSerbia%5D
+Inter Milan vs Juventus	`1https://viewembed.ru/channel/ElevenSports1[Poland]
+Inter Milan vs Juventus	`1https://viewembed.ru/channel/ArenaPremium1[Serbia]
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209603/real-madrid-vs-real-sociedad.html
-Real Madrid vs Real Sociedad	`1https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D
-Real Madrid vs Real Sociedad	`1https://viewembed.ru/channel/DigiSport1%5BRomania%5D
+Real Madrid vs Real Sociedad	`1https://viewembed.ru/channel/ESPNDeportes[USA]
+Real Madrid vs Real Sociedad	`1https://viewembed.ru/channel/DigiSport1[Romania]
 
 03:00 [g]FA Cup[z]	^-
 Liverpool vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/fa-cup-match-4330072/liverpool-vs-brighton-hove-albion.html
-Liverpool vs Brighton Hove Albion	`1https://viewembed.ru/channel/TNTSports1%5BUK%5D
-Liverpool vs Brighton Hove Albion	`1https://viewembed.ru/channel/TNTSportsUltimate%5BUK%5D
+Liverpool vs Brighton Hove Albion	`1https://viewembed.ru/channel/TNTSports1[UK]
+Liverpool vs Brighton Hove Albion	`1https://viewembed.ru/channel/TNTSportsUltimate[UK]
 
 03:05 [y]French Ligue 1[z]	^-
 Paris FC vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200243/paris-fc-vs-rc-lens.html
-Paris FC vs Lens	`1https://viewembed.ru/channel/beINSPORTSUSA%5BUSA%5D
-Paris FC vs Lens	`1https://viewembed.ru/channel/SportTV3%5BPortugal%5D
+Paris FC vs Lens	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
+Paris FC vs Lens	`1https://viewembed.ru/channel/SportTV3[Portugal]
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
