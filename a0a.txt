@@ -28,37 +28,6 @@
 
 14.02.2026	^-
 
-12:00 [g]Japanese J1 League[z]	^-
-Hiroshima Sanfrecce vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331643/sanfrecce-hiroshima-vs-fagiano-okayama.html
-Hiroshima Sanfrecce vs Fagiano Okayama.	`1https://viewembed.ru/channel/bet11921885
-Hiroshima Sanfrecce vs Fagiano Okayama	https://live.vivo200.com/live/sd-1-4470738.m3u8?txSecret=2983b8fcedf21a779666be9d6c879065&txTime=69903D32
-Hiroshima Sanfrecce vs Fagiano Okayama	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980d8.m3u8?auth_key=1771063611-0-0-8ac90eca9375a10bff1374eaabf697fb
-Machida Zelvia vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331722/machida-zelvia-vs-mito-hollyhock.html
-Machida Zelvia vs Mito Hollyhock.	`1https://viewembed.ru/channel/bet11921933
-Machida Zelvia vs Mito Hollyhock	https://live.vivo200.com/live/sd-1-4470650.m3u8?txSecret=42d9f2cec1c63b4aad099a6b05c0c2c8&txTime=69903D32
-Machida Zelvia vs Mito Hollyhock	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980db.m3u8?auth_key=1771063611-0-0-a056ac6585f281c93217abed264b35c8
-Shimizu S-Pulse vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4345437/shimizu-s-pulse-vs-kyoto-sanga.html
-Shimizu S-Pulse vs Kyoto Sanga.	`1https://viewembed.ru/channel/bet11921951
-Shimizu S-Pulse vs Kyoto Sanga	https://live.vivo200.com/live/sd-1-4470739.m3u8?txSecret=d7a8ead777a8c248c14c8bd77088a8a5&txTime=69903D32
-Shimizu S-Pulse vs Kyoto Sanga	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980d7.m3u8?auth_key=1771063611-0-0-5cfb978ab3a695abd2b2758e5e5df205
-
-13:00 [g]Australia A-League[z]	^-
-Melbourne Victory vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282229/melbourne-victory-vs-brisbane-roar.html
-Melbourne Victory vs Brisbane Roar	`1https://viewembed.ru/channel/TNTSports4[UK]
-Melbourne Victory vs Brisbane Roar	`1https://viewembed.ru/channel/SkySport6[NewZealand]
-Melbourne Victory vs Brisbane Roar	https://live.vivo200.com/live/sd-1-4426670.m3u8?txSecret=540db5bc3d25d7b4ac6dbf587ae25092&txTime=69903D32
-Melbourne Victory vs Brisbane Roar	http://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601c2.m3u8?auth_key=1771063611-0-0-a2cc21bddeac702ac35770eb6d579529
-
-13:00 [g]Japanese J1 League[z]	^-
-Kashima Antlers vs Yokohama Marinos	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331724/kashima-antlers-vs-yokohama-f-marinos.html
-Kashima Antlers vs Yokohama Marinos	`1https://viewembed.ru/channel/bet11921934
-Kashima Antlers vs Yokohama Marinos	https://live.vivo200.com/live/sd-1-4470646.m3u8?txSecret=2bb3a3541f98a64b8152cfa4905bccd4&txTime=69903D32
-Kashima Antlers vs Yokohama Marinos	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601b8.m3u8?auth_key=1771063611-0-0-0e2ee256f5cf6c72301f8f5b7116fd2a
-FC Tokyo vs Urawa Red Diamonds	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4343802/fc-tokyo-vs-urawa-red-diamonds.html
-FC Tokyo vs Urawa Red Diamonds	`1https://viewembed.ru/channel/bet11921912
-FC Tokyo vs Urawa Red Diamonds	https://live.vivo200.com/live/sd-1-4470647.m3u8?txSecret=6c9f745fde43ac9314e1e62f1e3ba2f0&txTime=69903D32
-FC Tokyo vs Urawa Red Diamonds	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980de.m3u8?auth_key=1771063611-0-0-80fa16e6939ea8f8246d31318decb98b
-
 15:30 Liga 1	^-
 PSM Makassar vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229523/persatuan-sepakbola-makassar-vs-dewa-united-fc.html
 PSM Makassar vs Dewa United FC	https://live.vivo200.com/live/sd-1-4379332.m3u8?txSecret=799408991e08e35b9a89327719c60c4a&txTime=69903D36
