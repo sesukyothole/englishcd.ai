@@ -28,17 +28,6 @@
 
 14.02.2026	^-
 
-19:15 [g]FA Cup[z]	^-
-Burton Albion vs West Ham United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330064/burton-vs-west-ham-united.html
-Burton Albion vs West Ham United	`1https://viewembed.ru/channel/TNTSports1[UK]
-Burton Albion vs West Ham United	`1https://viewembed.ru/channel/SportTV2[Portugal]
-Burton Albion vs West Ham United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601f6.m3u8?auth_key=1771063611-0-0-085ba0180c18e3be2859264fdd95d76f
-
-19:15 Malaysian Cup	^-
-Kuching FA vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344625/kuching-city-fc-vs-dpmm-fc.html
-Kuching FA vs DPMM FC.	`1https://viewembed.ru/channel/bet11903179
-Kuching FA vs DPMM FC	https://bo2.qiuxun.tv/sla/1-697d8555952272c52c95ed8a.m3u8?auth_key=1771063611-0-0-ba55874fe6cdf9683441e810f1e54914
-
 20:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209786/rcd-espanyol-de-barcelona-vs-rc-celta.html
 RCD Espanyol vs Real Celta Vigo	`1https://viewembed.ru/channel/ESPNDeportes[USA]
@@ -129,20 +118,24 @@ Marseille vs Strasbourg	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43d.m3u
 Lazio vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194728/lazio-vs-atalanta.html
 Lazio vs Atalanta	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
 Lazio vs Atalanta	`1https://viewembed.ru/channel/PrimaSport3[Romania]
+Lazio vs Atalanta	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc529818d.m3u8?auth_key=1771097498-0-0-1dd60a93c33d777015d129fb067986ae
 
 00:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199698/vfb-stuttgart-vs-fc-kln.html
 VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkyBundesliga1[Germany]
 VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkySportsFootball[UK]
+VfB Stuttgart vs FC Koln	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298081.m3u8?auth_key=1771097498-0-0-098fe9d4451a4b90a8a4f9ed01459eed
 
 00:30 [y]Spanish La Liga[z]	^-
 Sevilla vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209761/sevilla-fc-vs-deportivo-alavs.html
 Sevilla vs Deportivo Alavés.	`1https://viewembed.ru/channel/bet11394672
+Sevilla vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fd6.m3u8?auth_key=1771097498-0-0-71046700ced24faf4c3151ecea17f788
 
 00:30 [g]Saudi Professional League[z]	^-
 Al-Fateh vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256091/al-fateh-sc-vs-al-nassr-fc.html
 Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/FoxSoccerPlus[USA]
 Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/SportTV5[Portugal]
+Al-Fateh vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2a7.m3u8?auth_key=1771097498-0-0-f2ede4623a4b978503fab5f019e3685f
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 Excelsior SBV vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199240/excelsior-sbv-vs-az-alkmaar.html
