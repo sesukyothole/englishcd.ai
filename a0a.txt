@@ -28,11 +28,6 @@
 
 14.02.2026	^-
 
-22:00 [g]FA Cup[z]	^-
-Southampton vs Leicester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4330060/southampton-vs-leicester-city.html
-Southampton vs Leicester City	`1https://viewembed.ru/channel/CosmoteSport4[Greece]
-Southampton vs Leicester City	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f1818760222.m3u8?auth_key=1771097498-0-0-c2d68b95521a2e352106213dc27fd5ae
-
 23:00 [y]French Ligue 1[z]	^-
 Marseille vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200211/marseille-vs-rc-strasbourg-alsace.html
 Marseille vs Strasbourg	`1https://viewembed.ru/channel/BeINSport1[France]
