@@ -1456,10 +1456,10 @@ Golf TV	https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c
 Shoq	https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd!!a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
 
 ^=Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Arena Sport 1 Premium	`0https://streaming.sportsnews.id/p/arena1p.html
-Arena Sport 2 Premium	`0https://streaming.sportsnews.id/p/arena2p.html
+Arena Sport 1 Premium	`0https://tv.sportsnews.id/p/arena1p.html
+Arena Sport 2 Premium	`0https://tv.sportsnews.id/p/arena2p.html
 Arena Sport 1	`0https://zeeplayer2.pages.dev/arena1sp
-Arena Sport RS 1	`0https://streaming.sportsnews.id/p/arena1ser.html
+Arena Sport RS 1	`0https://tv.sportsnews.id/p/arena1ser.html
 SportsNet East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
 ^=SportsNet West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
@@ -1741,127 +1741,127 @@ wowprime	`0https://live.samuraitv.biz.id/p/wowowprime.html
 	^-
 [w]RMTV[z]	^-
 
-ads1	`0https://streaming.sportsnews.id/p/ads1.html
-arena10cro.3sat	`0https://streaming.sportsnews.id/p/arena10cro.html
-arena1sk	`0https://streaming.sportsnews.id/p/arena1sk.html
-arena2sk	`0https://streaming.sportsnews.id/p/arena2sk.html
-bein1	`0https://streaming.sportsnews.id/p/bein1.html
-bein1aus	`0https://streaming.sportsnews.id/p/bein1aus.html
-bein2	`0https://streaming.sportsnews.id/p/bein2.html
-bein2aus	`0https://streaming.sportsnews.id/p/bein2aus.html
-bein3	`0https://streaming.sportsnews.id/p/bein3.html
-bein3aus	`0https://streaming.sportsnews.id/p/bein3aus.html
-bein4	`0https://streaming.sportsnews.id/p/bein4.html
-bt1	`0https://streaming.sportsnews.id/p/bt1.html
-bt2	`0https://streaming.sportsnews.id/p/bt2.html
-bt3	`0https://streaming.sportsnews.id/p/bt3.html
-bt4	`0https://streaming.sportsnews.id/p/bt4.html
-canale5	`0https://streaming.sportsnews.id/p/canale5.html
-cbs	`0https://streaming.sportsnews.id/p/cbssports.html
-cts	`0https://streaming.sportsnews.id/p/ct-sport.html
-daznf	`0https://streaming.sportsnews.id/p/daznfast.html
-daznitali	`0https://streaming.sportsnews.id/p/daznitali.html
-daznlaliga	`0https://streaming.sportsnews.id/p/daznlaliga.html
-espndps	`0https://streaming.sportsnews.id/p/espndps.html
-fox1	`0https://streaming.sportsnews.id/p/fox1.html
-fox2	`0https://streaming.sportsnews.id/p/fox2.html
-fox3	`0https://streaming.sportsnews.id/p/fox3.html
-fubo1	`0https://streaming.sportsnews.id/p/fubo.html
-fubo2	`0https://streaming.sportsnews.id/p/fubo2.html
-hrt2	`0https://streaming.sportsnews.id/p/hrt2.html
-indo1	`0https://streaming.sportsnews.id/p/indo.html
-indo2	`0https://streaming.sportsnews.id/p/indo2.html
-italia1	`0https://streaming.sportsnews.id/p/italia1.html
-itv1	`0https://streaming.sportsnews.id/p/itv1.html
-itv2	`0https://streaming.sportsnews.id/p/itv2.html
-itv3	`0https://streaming.sportsnews.id/p/itv3.html
-itv4	`0https://streaming.sportsnews.id/p/itv4.html
-jojsk	`0https://streaming.sportsnews.id/p/jojsk.html
-laliga	`0https://streaming.sportsnews.id/p/laliga.html
-mlive2	`0https://streaming.sportsnews.id/p/tringsport2.html
-mlive5	`0https://streaming.sportsnews.id/p/mlive5.html
-mlive6	`0https://streaming.sportsnews.id/p/mlive6.html
-mncsport1	`0https://streaming.sportsnews.id/p/mncsport1.html
-nbcusa	`0https://streaming.sportsnews.id/p/nbcusa.html
-nova1	`0https://streaming.sportsnews.id/p/nova1.html
-nova2	`0https://streaming.sportsnews.id/p/nova2.html
-nova3y	`0https://streaming.sportsnews.id/p/nova3.html
-nova4y	`0https://streaming.sportsnews.id/p/nova3.html
-nova6	`0https://streaming.sportsnews.id/p/nova6.html
-peacock1	`0https://streaming.sportsnews.id/p/peacock1.html
-peacockpl	`0https://streaming.sportsnews.id/p/peacock.html
-persiana1	`0https://streaming.sportsnews.id/p/persiana1.html
-psn5	`0https://streaming.sportsnews.id/p/psn5.html
-rtls	`0https://streaming.sportsnews.id/p/rtlsport.html
-rtp1	`0https://streaming.sportsnews.id/p/rtp1.html
-sharjah	`0https://streaming.sportsnews.id/p/sharjah-sports.html
-sky1	`0https://streaming.sportsnews.id/p/sky1.html
-sky2	`0https://streaming.sportsnews.id/p/sky2.html
-sky3	`0https://streaming.sportsnews.id/p/sky3.html
-sky4	`0https://streaming.sportsnews.id/p/sky4.html
-sky5	`0https://streaming.sportsnews.id/p/sky5.html
-sky6	`0https://streaming.sportsnews.id/p/sky6.html
-skyarena.b	`0https://streaming.sportsnews.id/p/skyarena.html
-skybundes	`0https://streaming.sportsnews.id/p/skybundesliga.html
-skyf1	`0https://streaming.sportsnews.id/p/sky-sports-f1.html
-skylaliga	`0https://streaming.sportsnews.id/p/skylaliga.html
-skylive1.bx	`0https://streaming.sportsnews.id/p/skylive1.html
-skymex	`0https://streaming.sportsnews.id/p/sky253.html
-sony1	`0https://streaming.sportsnews.id/p/sony-ten-1.html
-sony2	`0https://streaming.sportsnews.id/p/sony2.html
-sony3	`0https://streaming.sportsnews.id/p/sony3.html
-sony4	`0https://streaming.sportsnews.id/p/sony4.html
-sony5	`0https://streaming.sportsnews.id/p/sony5.html
-sport1es	`0https://streaming.sportsnews.id/p/sport1es.html
-sport2es	`0https://streaming.sportsnews.id/p/sport2es.html
-sportnet360	`0https://streaming.sportsnews.id/p/sportnet360.html
-sports1de	`0https://streaming.sportsnews.id/p/sports1de.html
-sports1sk	`0https://streaming.sportsnews.id/p/sports1sk.html
-sports2sk	`0https://streaming.sportsnews.id/p/sports2sk.html
-sportsnet	`0https://streaming.sportsnews.id/p/sportsnet.html
-sportsneteast	`0https://streaming.sportsnews.id/p/sportsnet-east.html
-spotv1	`0https://streaming.sportsnews.id/p/spotv1.html
-spotv2	`0https://streaming.sportsnews.id/p/spotv2.html
-spotv2bra	`0https://streaming.sportsnews.id/p/spotv2bra.html
-telemundo	`0https://streaming.sportsnews.id/p/telemundo.html
-tring1	`0https://streaming.sportsnews.id/p/tringsport1.html
-tv2de	`0https://streaming.sportsnews.id/p/tv2-sport-x.html
-tv2xde	`0https://streaming.sportsnews.id/p/champions-league.html
-tv4l2	`0https://streaming.sportsnews.id/p/tv4l2.html
-tv5monde	`0https://streaming.sportsnews.id/p/tv5monde.html
-tvri	`0https://streaming.sportsnews.id/p/tvri.html
-tvrisport	`0https://streaming.sportsnews.id/p/tvrisport.html
-vsport1	`0https://streaming.sportsnews.id/p/vsport1.html
-vsport2	`0https://streaming.sportsnews.id/p/vsport-fball.html
-vsport3	`0https://streaming.sportsnews.id/p/vsportprem.html
-vsportplus	`0https://streaming.sportsnews.id/p/vxtra.html
-ziggo2fbl	`0https://streaming.sportsnews.id/p/ziggofbl.html
-ziggo3g	`0https://streaming.sportsnews.id/p/ziggogolf.html
-ziggo5	`0https://streaming.sportsnews.id/p/ziggo5.html
-ziggo6	`0https://streaming.sportsnews.id/p/ziggo6.html
-ziggos	`0https://streaming.sportsnews.id/p/ziggosport.html
+ads1	`0https://tv.sportsnews.id/p/ads1.html
+arena10cro.3sat	`0https://tv.sportsnews.id/p/arena10cro.html
+arena1sk	`0https://tv.sportsnews.id/p/arena1sk.html
+arena2sk	`0https://tv.sportsnews.id/p/arena2sk.html
+bein1	`0https://tv.sportsnews.id/p/bein1.html
+bein1aus	`0https://tv.sportsnews.id/p/bein1aus.html
+bein2	`0https://tv.sportsnews.id/p/bein2.html
+bein2aus	`0https://tv.sportsnews.id/p/bein2aus.html
+bein3	`0https://tv.sportsnews.id/p/bein3.html
+bein3aus	`0https://tv.sportsnews.id/p/bein3aus.html
+bein4	`0https://tv.sportsnews.id/p/bein4.html
+bt1	`0https://tv.sportsnews.id/p/bt1.html
+bt2	`0https://tv.sportsnews.id/p/bt2.html
+bt3	`0https://tv.sportsnews.id/p/bt3.html
+bt4	`0https://tv.sportsnews.id/p/bt4.html
+canale5	`0https://tv.sportsnews.id/p/canale5.html
+cbs	`0https://tv.sportsnews.id/p/cbssports.html
+cts	`0https://tv.sportsnews.id/p/ct-sport.html
+daznf	`0https://tv.sportsnews.id/p/daznfast.html
+daznitali	`0https://tv.sportsnews.id/p/daznitali.html
+daznlaliga	`0https://tv.sportsnews.id/p/daznlaliga.html
+espndps	`0https://tv.sportsnews.id/p/espndps.html
+fox1	`0https://tv.sportsnews.id/p/fox1.html
+fox2	`0https://tv.sportsnews.id/p/fox2.html
+fox3	`0https://tv.sportsnews.id/p/fox3.html
+fubo1	`0https://tv.sportsnews.id/p/fubo.html
+fubo2	`0https://tv.sportsnews.id/p/fubo2.html
+hrt2	`0https://tv.sportsnews.id/p/hrt2.html
+indo1	`0https://tv.sportsnews.id/p/indo.html
+indo2	`0https://tv.sportsnews.id/p/indo2.html
+italia1	`0https://tv.sportsnews.id/p/italia1.html
+itv1	`0https://tv.sportsnews.id/p/itv1.html
+itv2	`0https://tv.sportsnews.id/p/itv2.html
+itv3	`0https://tv.sportsnews.id/p/itv3.html
+itv4	`0https://tv.sportsnews.id/p/itv4.html
+jojsk	`0https://tv.sportsnews.id/p/jojsk.html
+laliga	`0https://tv.sportsnews.id/p/laliga.html
+mlive2	`0https://tv.sportsnews.id/p/tringsport2.html
+mlive5	`0https://tv.sportsnews.id/p/mlive5.html
+mlive6	`0https://tv.sportsnews.id/p/mlive6.html
+mncsport1	`0https://tv.sportsnews.id/p/mncsport1.html
+nbcusa	`0https://tv.sportsnews.id/p/nbcusa.html
+nova1	`0https://tv.sportsnews.id/p/nova1.html
+nova2	`0https://tv.sportsnews.id/p/nova2.html
+nova3y	`0https://tv.sportsnews.id/p/nova3.html
+nova4y	`0https://tv.sportsnews.id/p/nova3.html
+nova6	`0https://tv.sportsnews.id/p/nova6.html
+peacock1	`0https://tv.sportsnews.id/p/peacock1.html
+peacockpl	`0https://tv.sportsnews.id/p/peacock.html
+persiana1	`0https://tv.sportsnews.id/p/persiana1.html
+psn5	`0https://tv.sportsnews.id/p/psn5.html
+rtls	`0https://tv.sportsnews.id/p/rtlsport.html
+rtp1	`0https://tv.sportsnews.id/p/rtp1.html
+sharjah	`0https://tv.sportsnews.id/p/sharjah-sports.html
+sky1	`0https://tv.sportsnews.id/p/sky1.html
+sky2	`0https://tv.sportsnews.id/p/sky2.html
+sky3	`0https://tv.sportsnews.id/p/sky3.html
+sky4	`0https://tv.sportsnews.id/p/sky4.html
+sky5	`0https://tv.sportsnews.id/p/sky5.html
+sky6	`0https://tv.sportsnews.id/p/sky6.html
+skyarena.b	`0https://tv.sportsnews.id/p/skyarena.html
+skybundes	`0https://tv.sportsnews.id/p/skybundesliga.html
+skyf1	`0https://tv.sportsnews.id/p/sky-sports-f1.html
+skylaliga	`0https://tv.sportsnews.id/p/skylaliga.html
+skylive1.bx	`0https://tv.sportsnews.id/p/skylive1.html
+skymex	`0https://tv.sportsnews.id/p/sky253.html
+sony1	`0https://tv.sportsnews.id/p/sony-ten-1.html
+sony2	`0https://tv.sportsnews.id/p/sony2.html
+sony3	`0https://tv.sportsnews.id/p/sony3.html
+sony4	`0https://tv.sportsnews.id/p/sony4.html
+sony5	`0https://tv.sportsnews.id/p/sony5.html
+sport1es	`0https://tv.sportsnews.id/p/sport1es.html
+sport2es	`0https://tv.sportsnews.id/p/sport2es.html
+sportnet360	`0https://tv.sportsnews.id/p/sportnet360.html
+sports1de	`0https://tv.sportsnews.id/p/sports1de.html
+sports1sk	`0https://tv.sportsnews.id/p/sports1sk.html
+sports2sk	`0https://tv.sportsnews.id/p/sports2sk.html
+sportsnet	`0https://tv.sportsnews.id/p/sportsnet.html
+sportsneteast	`0https://tv.sportsnews.id/p/sportsnet-east.html
+spotv1	`0https://tv.sportsnews.id/p/spotv1.html
+spotv2	`0https://tv.sportsnews.id/p/spotv2.html
+spotv2bra	`0https://tv.sportsnews.id/p/spotv2bra.html
+telemundo	`0https://tv.sportsnews.id/p/telemundo.html
+tring1	`0https://tv.sportsnews.id/p/tringsport1.html
+tv2de	`0https://tv.sportsnews.id/p/tv2-sport-x.html
+tv2xde	`0https://tv.sportsnews.id/p/champions-league.html
+tv4l2	`0https://tv.sportsnews.id/p/tv4l2.html
+tv5monde	`0https://tv.sportsnews.id/p/tv5monde.html
+tvri	`0https://tv.sportsnews.id/p/tvri.html
+tvrisport	`0https://tv.sportsnews.id/p/tvrisport.html
+vsport1	`0https://tv.sportsnews.id/p/vsport1.html
+vsport2	`0https://tv.sportsnews.id/p/vsport-fball.html
+vsport3	`0https://tv.sportsnews.id/p/vsportprem.html
+vsportplus	`0https://tv.sportsnews.id/p/vxtra.html
+ziggo2fbl	`0https://tv.sportsnews.id/p/ziggofbl.html
+ziggo3g	`0https://tv.sportsnews.id/p/ziggogolf.html
+ziggo5	`0https://tv.sportsnews.id/p/ziggo5.html
+ziggo6	`0https://tv.sportsnews.id/p/ziggo6.html
+ziggos	`0https://tv.sportsnews.id/p/ziggosport.html
 
-ch1	`0https://streaming.sportsnews.id/p/ch1.html
-ch2	`0https://streaming.sportsnews.id/p/ch2.html
-ch3	`0https://streaming.sportsnews.id/p/ch3.html
-ch4	`0https://streaming.sportsnews.id/p/ch4.html
-ch5	`0https://streaming.sportsnews.id/p/ch5.html
-ch6	`0https://streaming.sportsnews.id/p/ch6.html
-ch7	`0https://streaming.sportsnews.id/p/ch7.html
-ch8	`0https://streaming.sportsnews.id/p/ch8.html
-ch9	`0https://streaming.sportsnews.id/p/ch9.html
-ch10	`0https://streaming.sportsnews.id/p/ch10.html
-ch11	`0https://streaming.sportsnews.id/p/ch11.html
-ch12	`0https://streaming.sportsnews.id/p/ch12.html
-ch13	`0https://streaming.sportsnews.id/p/ch13.html
-ch14	`0https://streaming.sportsnews.id/p/ch14.html
-ch15	`0https://streaming.sportsnews.id/p/ch15.html
-ch16	`0https://streaming.sportsnews.id/p/ch16.html
-ch17	`0https://streaming.sportsnews.id/p/ch17.html
-ch18	`0https://streaming.sportsnews.id/p/ch18.html
-ch19	`0https://streaming.sportsnews.id/p/ch19.html
-ch20	`0https://streaming.sportsnews.id/p/ch20.html
-ch21	`0https://streaming.sportsnews.id/p/ch21.html
+ch1	`0https://tv.sportsnews.id/p/ch1.html
+ch2	`0https://tv.sportsnews.id/p/ch2.html
+ch3	`0https://tv.sportsnews.id/p/ch3.html
+ch4	`0https://tv.sportsnews.id/p/ch4.html
+ch5	`0https://tv.sportsnews.id/p/ch5.html
+ch6	`0https://tv.sportsnews.id/p/ch6.html
+ch7	`0https://tv.sportsnews.id/p/ch7.html
+ch8	`0https://tv.sportsnews.id/p/ch8.html
+ch9	`0https://tv.sportsnews.id/p/ch9.html
+ch10	`0https://tv.sportsnews.id/p/ch10.html
+ch11	`0https://tv.sportsnews.id/p/ch11.html
+ch12	`0https://tv.sportsnews.id/p/ch12.html
+ch13	`0https://tv.sportsnews.id/p/ch13.html
+ch14	`0https://tv.sportsnews.id/p/ch14.html
+ch15	`0https://tv.sportsnews.id/p/ch15.html
+ch16	`0https://tv.sportsnews.id/p/ch16.html
+ch17	`0https://tv.sportsnews.id/p/ch17.html
+ch18	`0https://tv.sportsnews.id/p/ch18.html
+ch19	`0https://tv.sportsnews.id/p/ch19.html
+ch20	`0https://tv.sportsnews.id/p/ch20.html
+ch21	`0https://tv.sportsnews.id/p/ch21.html
 
 	^-
 ESPN 🇳🇱 1	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
@@ -1949,7 +1949,7 @@ RTK1	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/t
 RTP 3 🇵🇹	https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 RTP Madeira 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
-^=Sat 1 🇩🇪	`0https://streaming.sportsnews.id/p/ch11.html
+^=Sat 1 🇩🇪	`0https://tv.sportsnews.id/p/ch11.html
 Shahid Bab Al Hara	https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 Shahid Drama	https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
 Shahid Elkabeer	https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
