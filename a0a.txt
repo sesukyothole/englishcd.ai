@@ -26,86 +26,10 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-14.02.2026	^-
-
-23:00 [y]French Ligue 1[z]	^-
-Marseille vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200211/marseille-vs-rc-strasbourg-alsace.html
-Marseille vs Strasbourg	`1https://viewembed.ru/channel/BeINSport1[France]
-Marseille vs Strasbourg	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
-Marseille vs Strasbourg	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43d.m3u8?auth_key=1771097498-0-0-72bbefc01642b83242ac4f1486b178f0
-
 15.02.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Lazio vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194728/lazio-vs-atalanta.html
-Lazio vs Atalanta	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
-Lazio vs Atalanta	`1https://viewembed.ru/channel/PrimaSport3[Romania]
-Lazio vs Atalanta	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc529818d.m3u8?auth_key=1771097498-0-0-1dd60a93c33d777015d129fb067986ae
-
-00:30 [y]Bundesliga[z]	^-
-VfB Stuttgart vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199698/vfb-stuttgart-vs-fc-kln.html
-VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkyBundesliga1[Germany]
-VfB Stuttgart vs FC Koln	`1https://viewembed.ru/channel/SkySportsFootball[UK]
-VfB Stuttgart vs FC Koln	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298081.m3u8?auth_key=1771097498-0-0-098fe9d4451a4b90a8a4f9ed01459eed
-
-00:30 [y]Spanish La Liga[z]	^-
-Sevilla vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209761/sevilla-fc-vs-deportivo-alavs.html
-Sevilla vs Deportivo Alavés.	`1https://viewembed.ru/channel/bet11394672
-Sevilla vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fd6.m3u8?auth_key=1771097498-0-0-71046700ced24faf4c3151ecea17f788
-
-00:30 [g]Saudi Professional League[z]	^-
-Al-Fateh vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256091/al-fateh-sc-vs-al-nassr-fc.html
-Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/FoxSoccerPlus[USA]
-Al-Fateh vs Al Nassr FC	`1https://viewembed.ru/channel/CosmoteSport3[Greece]
-Al-Fateh vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-6970d4e59f151a19a619e2a7.m3u8?auth_key=1771111781-0-0-42df02c38893961cf9ffddf9da5045d2
-
-00:45 [y]Netherlands Eredivisie[z]	^-
-Excelsior SBV vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199240/excelsior-sbv-vs-az-alkmaar.html
-Excelsior SBV vs AZ Alkmaar	`1https://viewembed.ru/channel/ESPN3[Netherlands]
-Excelsior SBV vs AZ Alkmaar	`1https://viewembed.ru/channel/ArenaSport7[Serbia]
-Excelsior SBV vs AZ Alkmaar	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fdf.m3u8?auth_key=1771097498-0-0-a6d6217aa87d9e5fc91dfce389627395
-
-00:45 [g]FA Cup[z]	^-
-Aston Villa vs Newcastle United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330069/aston-villa-vs-newcastle-united.html
-Aston Villa vs Newcastle United	`1https://viewembed.ru/channel/TNTSports3[UK]
-Aston Villa vs Newcastle United	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
-Aston Villa vs Newcastle United	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298084.m3u8?auth_key=1771097498-0-0-5dca84809e2e19efe45e06f10b281ce3
-
-01:00 [y]French Ligue 1[z]	^-
-Lille vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200251/losc-lille-vs-stade-brestois-29.html
-Lille vs Stade Brestois	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
-Lille vs Stade Brestois	`1https://viewembed.ru/channel/NovaSports5[Greece]
-Lille vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43f.m3u8?auth_key=1771097498-0-0-90540fc4a35c3e67ce0d5b1e58db19a0
-
-02:00 [y]Netherlands Eredivisie[z]	^-
-AFC Ajax vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199245/afc-ajax-vs-fortuna-sittard.html
-AFC Ajax vs Fortuna Sittard	`1https://viewembed.ru/channel/ESPN1[Netherlands]
-AFC Ajax vs Fortuna Sittard	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
-AFC Ajax vs Fortuna Sittard	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fdd.m3u8?auth_key=1771097498-0-0-ba2b49e462039473aa009b08e8489e23
-
-02:45 [y]Italian Serie A[z]	^-
-Inter Milan vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194588/inter-milan-vs-juventus.html
-Inter Milan vs Juventus	`1https://viewembed.ru/channel/TNTSports3[UK]
-Inter Milan vs Juventus	`1https://viewembed.ru/channel/ElevenSports1[Poland]
-Inter Milan vs Juventus	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc529818e.m3u8?auth_key=1771097498-0-0-119ead8fc8bcf7315b1a079489c3f713
-
-03:00 [y]Spanish La Liga[z]	^-
-Real Madrid vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209603/real-madrid-vs-real-sociedad.html
-Real Madrid vs Real Sociedad	`1https://viewembed.ru/channel/SuperSportLaLiga[SouthAfrica]
-Real Madrid vs Real Sociedad	`1https://viewembed.ru/channel/ESPNDeportes[USA]
-Real Madrid vs Real Sociedad	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fd7.m3u8?auth_key=1771097498-0-0-abd7d111c17ff2fc5166f7e33bf3e0db
-
-03:00 [g]FA Cup[z]	^-
-Liverpool vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/fa-cup-match-4330072/liverpool-vs-brighton-hove-albion.html
-Liverpool vs Brighton Hove Albion	`1https://viewembed.ru/channel/TNTSports1[UK]
-Liverpool vs Brighton Hove Albion	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
-Liverpool vs Brighton Hove Albion	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc529809c.m3u8?auth_key=1771097498-0-0-093cb0bb2dda812cf2c693b9f7b4e759
-
-03:05 [y]French Ligue 1[z]	^-
-Paris FC vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200243/paris-fc-vs-rc-lens.html
-Paris FC vs Lens	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
-Paris FC vs Lens	`1https://viewembed.ru/channel/SportTV3[Portugal]
-Paris FC vs Lens	https://bo2.qiuxun.tv/sla/1-6972427e2d9d4df4720fa43b.m3u8?auth_key=1771097498-0-0-e55ba1e826cc3388776b2aea322043bc
+13:30 Liga 2	^-
+Persipura Jayapura vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352354/persipura-jayapura-vs-barito-putera.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
