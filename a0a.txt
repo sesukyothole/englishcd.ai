@@ -71,43 +71,57 @@ PSS Sleman vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga
 
 15:35 [g]Australia A-League[z]	^-
 Sydney FC vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282219/sydney-fc-vs-adelaide-united.html
+Sydney FC vs Adelaide United	https://live.vivo200.com/live/sd-1-4426671.m3u8?txSecret=a41e232855d4a842f2ccd61ecc23aca9&txTime=69903D36
+Sydney FC vs Adelaide United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601d0.m3u8?auth_key=1771063611-0-0-5912da491d778fcc1eae7a8bcd300639
 
 15:45 Malaysian Challenge Cup	^-
 Penang vs Kelantan Red Warrior	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4344647/penang-fc-vs-kelantan-red-warrior.html
 
 18:00 [g]Thai League 1[z]	^-
 Ratchaburi vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320365/ratchaburi-fc-vs-pt-prachuap-fc.html
+Ratchaburi vs Prachuap Khiri Khan	https://live.vivo200.com/live/sd-1-4463887.m3u8?txSecret=92496aa1ea26f13145de81448ff0b279&txTime=69903D38
+Ratchaburi vs Prachuap Khiri Khan	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980fc.m3u8?auth_key=1771063611-0-0-d35454e8db3f78568fe87ed19578c014
 Singha GB Kanchanaburi vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320737/kanchanaburi-power-fc-vs-port-fc.html
+Singha GB Kanchanaburi vs Port FC	https://live.vivo200.com/live/sd-1-4463883.m3u8?txSecret=f6a133be6bdd618e6197a180f2e9c8f6&txTime=69903D38
+Singha GB Kanchanaburi vs Port FC	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601e1.m3u8?auth_key=1771063611-0-0-0d53db4f0986e0f86350e7285ba4e903
 
 18:30 [g]Thai League 1[z]	^-
 Sukhothai vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320274/sukhothai-vs-ayutthaya-united.html
+Sukhothai vs Ayutthaya United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601e7.flv?auth_key=1771063611-0-0-e15b9dc5ebb94ced8b277d6a168d8c5b
 
 19:00 Liga 1	^-
 Persebaya Surabaya vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229519/persebaya-surabaya-vs-bhayangkara-presisi-indonesia-fc.html
+Persebaya Surabaya vs Bhayangkara	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601ef.m3u8?auth_key=1771063611-0-0-c86c78b95a003483ea0828e6d34fd889
 
 19:00 [g]Thai League 1[z]	^-
 BG Pathum United vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320284/bg-pathum-united-vs-buriram-united.html
+BG Pathum United vs Buriram United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601ee.m3u8?auth_key=1771063611-0-0-c238c462da10f2cca0efaa140452d5e6
 
 19:00 Liga 2	^-
 PSMS Medan vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352224/psms-medan-vs-sumsel-united.html
 
 19:15 [g]FA Cup[z]	^-
 Burton Albion vs West Ham United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330064/burton-vs-west-ham-united.html
+Burton Albion vs West Ham United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601f6.m3u8?auth_key=1771063611-0-0-085ba0180c18e3be2859264fdd95d76f
 
 19:15 Malaysian Cup	^-
 Kuching FA vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344625/kuching-city-fc-vs-dpmm-fc.html
+Kuching FA vs DPMM FC	https://bo2.qiuxun.tv/sla/1-697d8555952272c52c95ed8a.m3u8?auth_key=1771063611-0-0-ba55874fe6cdf9683441e810f1e54914
 
 20:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209786/rcd-espanyol-de-barcelona-vs-rc-celta.html
+RCD Espanyol vs Real Celta Vigo	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fd1.m3u8?auth_key=1771063611-0-0-574662645dc741092a3daf02da101ad1
 
 20:00 Malaysian Cup	^-
 Selangor vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344626/selangor-fc-vs-negeri-sembilan.html
+Selangor vs Negeri Sembilan	https://bo2.qiuxun.tv/sla/1-697d8555952272c52c95ed8b.m3u8?auth_key=1771063611-0-0-0f06d4078da2f83150e9237ff0ee0c17
 
 20:30 Liga 2	^-
 Persiraja Aceh vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352234/persiraja-aceh-vs-psps-riau.html
 
 21:00 [y]Italian Serie A[z]	^-
 Como vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194611/como-vs-fiorentina.html
+Como vs Fiorentina	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298190.m3u8?auth_key=1771063611-0-0-27e7671b7e6920f12951f2deb0ab002e
 
 21:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199683/bayer-04-leverkusen-vs-fc-st-pauli.html
