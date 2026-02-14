@@ -31,11 +31,11 @@
 18:00 [g]Thai League 1[z]	^-
 Ratchaburi vs Prachuap Khiri Khan	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320365/ratchaburi-fc-vs-pt-prachuap-fc.html
 Ratchaburi vs Prachuap Khiri Khan.	`1https://viewembed.ru/channel/bet11930885
-Ratchaburi vs Prachuap Khiri Khan	https://live.vivo200.com/live/sd-1-4463887.m3u8?txSecret=92496aa1ea26f13145de81448ff0b279&txTime=69903D38
+Ratchaburi vs Prachuap Khiri Khan	https://live.vivo200.com/live/sd-1-4463887.m3u8?txSecret=611fa3859dfab3f549fe101b76e8d744&txTime=6990B62F
 Ratchaburi vs Prachuap Khiri Khan	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc52980fc.m3u8?auth_key=1771063611-0-0-d35454e8db3f78568fe87ed19578c014
 Singha GB Kanchanaburi vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320737/kanchanaburi-power-fc-vs-port-fc.html
 Singha GB Kanchanaburi vs Port FC.	`1https://viewembed.ru/channel/bet11930884
-Singha GB Kanchanaburi vs Port FC	https://live.vivo200.com/live/sd-1-4463883.m3u8?txSecret=f6a133be6bdd618e6197a180f2e9c8f6&txTime=69903D38
+Singha GB Kanchanaburi vs Port FC	https://live.vivo200.com/live/sd-1-4463883.m3u8?txSecret=fdfb3010af0a9301352e93a76851a61f&txTime=6990B62F
 Singha GB Kanchanaburi vs Port FC	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f18187601e1.m3u8?auth_key=1771063611-0-0-0d53db4f0986e0f86350e7285ba4e903
 
 18:30 [g]Thai League 1[z]	^-
@@ -54,6 +54,7 @@ BG Pathum United vs Buriram United	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f181
 
 19:00 Liga 2	^-
 PSMS Medan vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352224/psms-medan-vs-sumsel-united.html
+PSMS Medan vs Sumsel United	https://live5.msrktz.app/live/99121525.m3u8
 
 19:15 [g]FA Cup[z]	^-
 Burton Albion vs West Ham United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330064/burton-vs-west-ham-united.html
