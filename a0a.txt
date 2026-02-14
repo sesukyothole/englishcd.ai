@@ -138,29 +138,52 @@ Como vs Fiorentina	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298190.m3u8?aut
 
 21:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199683/bayer-04-leverkusen-vs-fc-st-pauli.html
+Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
+Bayer Leverkusen vs FC St. Pauli	`1https://viewembed.ru/channel/SkyBundesliga5[Germany]
 Hamburger SV vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199688/hamburger-sv-vs-1-fc-union-berlin.html
+Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/SkyBundesliga4[Germany]
+Hamburger SV vs Union Berlin	`1https://viewembed.ru/channel/NovaSports5[Greece]
 Werder Bremen vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199702/sv-werder-bremen-vs-fc-bayern-munich.html
+Werder Bremen vs Bayern Munchen	`1https://viewembed.ru/channel/DigiSport2[Romania]
+Werder Bremen vs Bayern Munchen	`1https://viewembed.ru/channel/ElevenSports1[Poland]
 TSG Hoffenheim vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199723/tsg-hoffenheim-vs-sc-freiburg.html
+TSG Hoffenheim vs SC Freiburg	`1https://viewembed.ru/channel/ArenaSport4[Serbia]
+TSG Hoffenheim vs SC Freiburg	`1https://viewembed.ru/channel/SkyBundesliga2[Germany]
 Eintracht Frankfurt vs Br M'gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199724/eintracht-frankfurt-vs-borussia-monchengladbach.html
+Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/SkyBundesliga3[Germany]
+Eintracht Frankfurt vs Br M'gladbach	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
 
 22:00 [g]English Football League Champ[z]	^-
 Preston North End vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203291/preston-north-end-vs-watford.html
+Preston North End vs Watford.	`1https://viewembed.ru/channel/bet11389428
 Derby County vs Swansea City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203320/derby-county-vs-swansea-city.html
+Derby County vs Swansea City	`1https://viewembed.ru/channel/SportTV6[Portugal]
+Derby County vs Swansea City	`1https://viewembed.ru/channel/ArenaSport6[Serbia]
 Portsmouth vs Sheffield United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203536/portsmouth-vs-sheffield-united.html
+Portsmouth vs Sheffield United.	`1https://viewembed.ru/channel/bet11389427
 QPR vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203785/queens-park-rangers-vs-blackburn-rovers.html
+QPR vs Blackburn Rovers.	`1https://viewembed.ru/channel/bet11389429
 
 22:00 [g]FA Cup[z]	^-
 Southampton vs Leicester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4330060/southampton-vs-leicester-city.html
+Southampton vs Leicester City	`1https://viewembed.ru/channel/CosmoteSport4[Greece]
 Burnley vs Mansfield Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4330065/burnley-vs-mansfield-town.html
+Burnley vs Mansfield Town	`1https://viewembed.ru/channel/SuperSportVariety3[SouthAfrica]
 Norwich City vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/fa-cup-match-4330066/norwich-city-vs-west-bromwich-albion.html
-Port Vale vs Bristol City	`F
+Norwich City vs West Bromwich WBA	`1https://viewembed.ru/channel/CosmoteSport8[Greece]
 Manchester City vs Salford City	`Fhttps://www.fctv33.net/football/fa-cup-match-4330073/manchester-city-vs-salford-city.html
+Manchester City vs Salford City	`1https://viewembed.ru/channel/ESPNDeportes[USA]
+Manchester City vs Salford City	`1https://viewembed.ru/channel/SportTV6[Portugal]
 
 22:15 [y]Spanish La Liga[z]	^-
 Getafe vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209716/getafe-vs-villarreal-cf.html
+Getafe vs Villarreal	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
+Getafe vs Villarreal	`1https://viewembed.ru/channel/LaLigaTV[UK]
 
 23:00 [y]French Ligue 1[z]	^-
 Marseille vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200211/marseille-vs-rc-strasbourg-alsace.html
+Marseille vs Strasbourg	`1https://viewembed.ru/channel/SportTV3[Portugal]
+Marseille vs Strasbourg	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 
 15.02.2026	^-
 
