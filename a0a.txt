@@ -39,18 +39,25 @@ PSIS Semarang vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-l
 
 16:00 Malaysian Cup	^-
 Kuala Lumpur vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344651/kuala-lumpur-city-fc-vs-terengganu-fc.html
+Kuala Lumpur vs Terengganu.	`1https://viewembed.ru/channel/bet11903176
 
 18:15 [y]Netherlands Eredivisie[z]	^-
 Feyenoord vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199238/feyenoord-vs-go-ahead-eagles.html
+Feyenoord vs Go Ahead Eagles.	`1https://viewembed.ru/channel/bet11389462
+Feyenoord vs Go Ahead Eagles	`1https://viewembed.ru/channel/ESPN2[Netherlands]
 
 18:30 [y]Italian Serie A[z]	^-
 Udinese vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194633/udinese-vs-sassuolo.html
+Udinese vs Sassuolo	`1https://viewembed.ru/channel/SuperSportFootball[SouthAfrica]
+Udinese vs Sassuolo	`1https://viewembed.ru/channel/ElevenSports1[Poland]
 
 19:00 Liga 1	^-
 Bali United vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229517/bali-united-vs-persatuan-sepakbola-indonesia-jakarta.html
 
 19:00 [g]FA Cup[z]	^-
 Birmingham City vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330071/birmingham-city-vs-leeds-united.html
+Birmingham City vs Leeds United	`1https://viewembed.ru/channel/TNTSports3[UK]
+Birmingham City vs Leeds United	`1https://viewembed.ru/channel/ESPN2[USA]
 
 19:00 Liga 2	^-
 Kendal Tornado FC vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352368/kendal-tornado-fc-vs-persipal-palu.html
@@ -58,59 +65,96 @@ Persiba Balikpapan vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209787/real-oviedo-vs-athletic-club.html
+Real Oviedo vs Athletic Bilbao.	`1https://viewembed.ru/channel/bet11394673
+Real Oviedo vs Athletic Bilbao	`1https://viewembed.ru/channel/ESPNDeportes[USA]
 
 20:00 Malaysian Challenge Cup	^-
 PDRM vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4349161/pdrm-fc-vs-sabah-fc.html
 
 20:30 [g]FA Cup[z]	^-
 Grimsby Town vs Wolves	`Fhttps://www.fctv33.net/football/fa-cup-match-4330068/grimsby-town-vs-wolverhampton-wanderers.html
+Grimsby Town vs Wolves	`1https://viewembed.ru/channel/TNTSports1[UK]
+Grimsby Town vs Wolves	`1https://viewembed.ru/channel/ArenaPremium3[Serbia]
 
 21:00 [y]Italian Serie A[z]	^-
 Cremonese vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194662/cremonese-vs-genoa.html
+Cremonese vs Genoa	`1https://viewembed.ru/channel/SuperSportFootball[SouthAfrica]
+Cremonese vs Genoa	`1https://viewembed.ru/channel/SportTV4[Portugal]
 Parma vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194744/parma-vs-hellas-verona.html
+Parma vs Verona	`1https://viewembed.ru/channel/FoxSoccerPlus[USA]
+Parma vs Verona	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
 
 21:00 [y]French Ligue 1[z]	^-
 Le Havre vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200212/havre-athletic-club-vs-toulouse-fc.html
+Le Havre vs Toulouse.	`1https://viewembed.ru/channel/bet11394643
+Le Havre vs Toulouse	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 
 21:00 [g]FA Cup[z]	^-
 Stoke City vs Fulham	`Fhttps://www.fctv33.net/football/fa-cup-match-4330058/stoke-city-vs-fulham.html
+Stoke City vs Fulham	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
+Stoke City vs Fulham	`1https://viewembed.ru/channel/SportTV2[Portugal]
 Oxford United vs Sunderland AFC	`Fhttps://www.fctv33.net/football/fa-cup-match-4330059/oxford-united-vs-sunderland.html
+Oxford United vs Sunderland AFC	`1https://viewembed.ru/channel/SuperSportVariety3[SouthAfrica]
 
 21:30 [y]Bundesliga[z]	^-
 FC Augsburg vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199671/fc-augsburg-vs-1-fc-heidenheim-1846.html
+FC Augsburg vs 1. FC Heidenheim.	`1https://viewembed.ru/channel/bet11389421
+FC Augsburg vs 1. FC Heidenheim	`1https://viewembed.ru/channel/DAZN2Deutschland[Germany]
 
 22:15 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209684/rayo-vallecano-vs-atletico-madrid.html
+Rayo Vallecano vs Atletico Madrid.	`1https://viewembed.ru/channel/bet11394674
+Rayo Vallecano vs Atletico Madrid	`1https://viewembed.ru/channel/DAZNLaliga[Spain]
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 Sparta Rotterdam vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199256/sparta-rotterdam-vs-nec-nijmegen.html
+Sparta Rotterdam vs NEC Nijmegen.	`1https://viewembed.ru/channel/bet11389457
+Sparta Rotterdam vs NEC Nijmegen	`1https://viewembed.ru/channel/ESPN2[Netherlands]
 
 23:15 [y]French Ligue 1[z]	^-
 Lorient vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200176/lorient-vs-angers-sco.html
+Lorient vs Angers.	`1https://viewembed.ru/channel/bet11394645
+Lorient vs Angers	`1https://viewembed.ru/channel/ArenaSport8[Serbia]
 Metz vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200177/metz-vs-aj-auxerre.html
+Metz vs AJ Auxerre.	`1https://viewembed.ru/channel/bet11394644
+Metz vs AJ Auxerre	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 
 23:30 [y]Bundesliga[z]	^-
 RB Leipzig vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199718/rb-leipzig-vs-vfl-wolfsburg.html
+RB Leipzig vs VfL Wolfsburg.	`1https://viewembed.ru/channel/bet11389418
+RB Leipzig vs VfL Wolfsburg	`1https://viewembed.ru/channel/DAZN1Deutschland[Germany]
 
 23:30 [g]FA Cup[z]	^-
 Arsenal vs Wigan Athletic	`Fhttps://www.fctv33.net/football/fa-cup-match-4330062/arsenal-vs-wigan-athletic.html
+Arsenal vs Wigan Athletic	`1https://viewembed.ru/channel/TNTSports1[UK]
+Arsenal vs Wigan Athletic	`1https://viewembed.ru/channel/CanalSport3[France]
 
 16.02.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
 Torino vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194605/torino-vs-bologna.html
+Torino vs Bologna	`1https://viewembed.ru/channel/SuperSportFootball[SouthAfrica]
+Torino vs Bologna	`1https://viewembed.ru/channel/SportTV4[Portugal]
 
 00:30 [y]Spanish La Liga[z]	^-
 Levante vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209796/levante-vs-valencia-cf.html
+Levante vs Valencia	`1https://viewembed.ru/channel/ESPNDeportes[USA]
+Levante vs Valencia	`1https://viewembed.ru/channel/ViaplaySports2[UK]
 
 02:45 [y]Italian Serie A[z]	^-
 Napoli vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194658/napoli-vs-as-roma.html
+Napoli vs AS Roma	`1https://viewembed.ru/channel/TNTSports1[UK]
+Napoli vs AS Roma	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
 
 02:45 [y]French Ligue 1[z]	^-
 Lyon vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200293/lyon-vs-ogc-nice.html
+Lyon vs Nice.	`1https://viewembed.ru/channel/bet11394640
+Lyon vs Nice	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 
 03:00 [y]Spanish La Liga[z]	^-
 Mallorca vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209795/rcd-mallorca-vs-real-betis.html
+Mallorca vs Real Betis	`1https://viewembed.ru/channel/ESPNDeportes[USA]
+Mallorca vs Real Betis	`1https://viewembed.ru/channel/DAZNLaliga[Spain]
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
