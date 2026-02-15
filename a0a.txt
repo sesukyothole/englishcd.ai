@@ -28,22 +28,6 @@
 
 15.02.2026	^-
 
-19:00 Liga 1	^-
-Bali United vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229517/bali-united-vs-persatuan-sepakbola-indonesia-jakarta.html
-Bali United vs Persija Jakarta	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298119.m3u8?auth_key=1771152002-0-0-74b221554837464064dd1f4a6be05803
-Bali United vs Persija Jakarta	`0https://www.marza12.shop/football/2826333-bali-united-vs-persija-jakarta.html
-
-19:00 [g]FA Cup[z]	^-
-Birmingham City vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4330071/birmingham-city-vs-leeds-united.html
-Birmingham City vs Leeds United	`1https://viewembed.ru/channel/TNTSports3[UK]
-Birmingham City vs Leeds United	`1https://viewembed.ru/channel/ESPN2[USA]
-
-19:00 Liga 2	^-
-Kendal Tornado FC vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352368/kendal-tornado-fc-vs-persipal-palu.html
-Kendal Tornado FC vs Persipal Palu	`0https://www.marza12.shop/football/2941547-beigan-baru-tornado-vs-persipal-palu.html
-Persiba Balikpapan vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352369/persiba-balikpapan-vs-persiku-kudus.html
-Persiba Balikpapan vs Persiku Kudus	`0https://www.marza12.shop/football/2941548-persiba-balikpapan-vs-persiku-kudus.html
-
 20:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209787/real-oviedo-vs-athletic-club.html
 Real Oviedo vs Athletic Bilbao.	`1https://viewembed.ru/channel/bet11394673
