@@ -26,51 +26,10 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-16.02.2026	^-
-
-23:00 [g]AFC Champions League Elite[z]	^-
-Al-Sharjah vs Nasaf Qarshi	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258456/al-sharjah-vs-nasaf-qarshi.html
-Al-Sharjah vs Nasaf Qarshi.	`1https://viewembed.ru/channel/bet11887088
-Al-Sharjah vs Nasaf Qarshi	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733c3.m3u8?auth_key=1771233565-0-0-c16e3625a9b3a5a5d7213c01f623752e
-Al Ahli Jeddah vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258457/al-ahli-sfc-vs-shabab-al-ahli.html
-Al Ahli Jeddah vs Al Ahli UAE.	`1https://viewembed.ru/channel/bet11887076
-Al Ahli Jeddah vs Al Ahli UAE	`1https://viewembed.ru/channel/ESPN2[USA]
-Al Ahli Jeddah vs Al Ahli UAE	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733c4.m3u8?auth_key=1771233565-0-0-3a7ca9230ccbb943899813c56ca2f1cf
-
 17.02.2026	^-
 
-01:15 [g]AFC Champions League Elite[z]	^-
-Al Shorta vs Al Duhail	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258459/al-shorta-vs-al-duhail.html
-Al Shorta vs Al Duhail	`1https://viewembed.ru/channel/bet11887091
-Al Shorta vs Al Duhail	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733cc.m3u8?auth_key=1771233565-0-0-1bdb1ecb3e28e7ba51d72ce526e913d4
-Al Hilal SFC vs Al Wehda UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258463/al-hilal-vs-al-wahdauae.html
-Al Hilal SFC vs Al Wehda UAE.	`1https://viewembed.ru/channel/bet11887083
-Al Hilal SFC vs Al Wehda UAE	`1https://viewembed.ru/channel/ESPN3[Argentina]
-Al Hilal SFC vs Al Wehda UAE	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733cb.m3u8?auth_key=1771233565-0-0-584312a777673442961c54cce8c97620
-
-02:30 [g]FA Cup[z]	^-
-Macclesfield Town vs Brentford	`Fhttps://www.fctv33.net/football/fa-cup-match-4330070/macclesfield-town-vs-brentford.html
-Macclesfield Town vs Brentford	`1https://viewembed.ru/channel/TNTSports1[UK]
-Macclesfield Town vs Brentford	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
-Macclesfield Town vs Brentford	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733dc.m3u8?auth_key=1771233565-0-0-f522e0ce15ad01b63a369335a2d71470
-
-02:45 [y]Italian Serie A[z]	^-
-Cagliari vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194692/cagliari-vs-lecce.html
-Cagliari vs Lecce	`1https://viewembed.ru/channel/SkySports251[Italy]
-Cagliari vs Lecce	`1https://viewembed.ru/channel/SuperSportFootball[SouthAfrica]
-Cagliari vs Lecce	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5298191.m3u8?auth_key=1771233565-0-0-2408ff029ec50e058149e3caed72d23b
-
-03:00 [g]English Football League Champ[z]	^-
-Coventry City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203563/coventry-city-vs-middlesbrough.html
-Coventry City vs Middlesbrough.	`1https://viewembed.ru/channel/bet11400730
-Coventry City vs Middlesbrough	`1https://viewembed.ru/channel/SkySportsFootball[UK]
-Coventry City vs Middlesbrough	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f181876021b.m3u8?auth_key=1771233565-0-0-cfe8a1270e0439c14bbe4caff05030bc
-
-03:00 [y]Spanish La Liga[z]	^-
-Girona vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209799/girona-fc-vs-fc-barcelona.html
-Girona vs FC Barcelona	`1https://viewembed.ru/channel/ESPNDeportes[USA]
-Girona vs FC Barcelona	`1https://viewembed.ru/channel/ViaplaySports1[UK]
-Girona vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-6970f102c07d618fc5297fd3.m3u8?auth_key=1771233565-0-0-e2ae23cdeca4c0e37323d2186b8d84be
+17:00 [g]AFC Champions League Elite[z]	^-
+Machida Zelvia vs Chengdu City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258399/machida-zelvia-vs-chengdu-rongcheng-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
