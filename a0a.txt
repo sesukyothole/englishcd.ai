@@ -28,20 +28,10 @@
 
 17.02.2026	^-
 
-23:00 [g]AFC Champions League Elite[z]	^-
-Al-Garrafa vs Tractor SC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258461/al-gharafa-vs-tractor-sc.html
-Al-Garrafa vs Tractor SC.	`1https://viewembed.ru/channel/bet11887086
-Al-Garrafa vs Tractor SC	`1https://viewembed.ru/channel/DiemaSport2[Bulgaria]
-Al-Garrafa vs Tractor SC	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba281.m3u8?auth_key=1771320751-0-0-dba51941044ad950bd912a49fcc21668
-Al-Sadd vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258462/al-sadd-vs-al-ittihad-club.html
-Al-Sadd vs Al Ittihad Club.	`1https://viewembed.ru/channel/bet11887093
-Al-Sadd vs Al Ittihad Club	`1https://viewembed.ru/channel/ESPN1[Netherlands]
-Al-Sadd vs Al Ittihad Club	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba282.m3u8?auth_key=1771320751-0-0-5a0309bdc2aa310fa626fe43ab667df8
-
 23:00 [g]AFC Champions League 2[z]	^-
 Al-Wasl vs Al Zawraa	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4325540/al-wasl-sc-vs-al-zawraa.html
 Al-Wasl vs Al Zawraa.	`1https://viewembed.ru/channel/bet11623196
-Al-Wasl vs Al Zawraa	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba283.m3u8?auth_key=1771320751-0-0-7d996a5679690e861a684ab2b7301b59
+Al-Wasl vs Al Zawraa	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba283.m3u8?auth_key=1771373509-0-0-2dba331f6718f2bc6bfe8bbc424874bb
 
 18.02.2026	^-
 
