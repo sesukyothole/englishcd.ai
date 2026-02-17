@@ -55,15 +55,15 @@ Galatasaray vs Juventus	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6f.m3u
 Borussia Dortmund vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4348635/borussia-dortmund-vs-atalanta.html
 Borussia Dortmund vs Atalanta	`1https://viewembed.ru/channel/TNTSports3[UK]
 Borussia Dortmund vs Atalanta	`1https://viewembed.ru/channel/NovaSports4[Greece]
-Borussia Dortmund vs Atalanta	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6d.m3u8?auth_key=1771320751-0-0-e648d8200cd85835e96017f8a4016882
+Borussia Dortmund vs Atalanta	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6d.m3u8?auth_key=1771369843-0-0-2f59797b52c03c5e3534d2a6d6f915b6
 Monaco vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349635/as-monaco-vs-paris-saint-germain.html
 Monaco vs Paris Saint Germain	`1https://viewembed.ru/channel/SuperSportPSL[SouthAfrica]
 Monaco vs Paris Saint Germain	`1https://viewembed.ru/channel/DAZN1[Portugal]
-Monaco vs Paris Saint Germain	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce70.m3u8?auth_key=1771320751-0-0-25dd4e77ccbbba22ab8da02e469524a1
+Monaco vs Paris Saint Germain	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce70.m3u8?auth_key=1771369843-0-0-908f3a226766477b5c1412dec6f0d5c0
 Benfica vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349644/benfica-vs-real-madrid.html
 Benfica vs Real Madrid	`1https://viewembed.ru/channel/MovistarLigadeCampeones1[Spain]
 Benfica vs Real Madrid	`1https://viewembed.ru/channel/TUDN[USA]
-Benfica vs Real Madrid	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992712.m3u8?auth_key=1771320751-0-0-a814307ead4d56df2b7a49b95b79ffd2
+Benfica vs Real Madrid	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992712.m3u8?auth_key=1771369843-0-0-8affa2c26f0429ca7935712d9f4e4a30
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
