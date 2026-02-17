@@ -31,13 +31,13 @@
 17:00 [g]AFC Champions League Elite[z]	^-
 Machida Zelvia vs Chengdu City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258399/machida-zelvia-vs-chengdu-rongcheng-fc.html
 Machida Zelvia vs Chengdu City.	`1https://viewembed.ru/channel/bet11887082
-Machida Zelvia vs Chengdu City	https://live.vivo200.com/live/sd-1-4405777.m3u8?txSecret=45decd8f7a683acad11de12d0a69a7ae&txTime=699429BB
-Machida Zelvia vs Chengdu City	https://live.vivo200.com/live/hd-en-1-4405777.m3u8?txSecret=2d3b6a8344cc6f46b2ad074fcbe9fb69&txTime=699429BB
+Machida Zelvia vs Chengdu City	https://live.vivo200.com/live/sd-1-4405777.m3u8?txSecret=5ffd09aea29a70487726811d1176ad21&txTime=69948C34
+Machida Zelvia vs Chengdu City	https://live.vivo200.com/live/hd-en-1-4405777.m3u8?txSecret=d3b07ef903d01a90564843d2000e131b&txTime=69948C34
 Machida Zelvia vs Chengdu City	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733ef.m3u8?auth_key=1771320751-0-0-3ca1ad210ab7e193c2d1baf55a11c012
 FC Seoul vs Hiroshima Sanfrecce	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258401/football-club-seoul-vs-sanfrecce-hiroshima.html
 FC Seoul vs Hiroshima Sanfrecce.	`1https://viewembed.ru/channel/bet11887077
-FC Seoul vs Hiroshima Sanfrecce	https://live.vivo200.com/live/sd-1-4405764.m3u8?txSecret=e93e7d6e7340309032dde5b1b4dc3955&txTime=699429BB
-FC Seoul vs Hiroshima Sanfrecce	https://live.vivo200.com/live/hd-en-1-4405764.m3u8?txSecret=5a2ba19031b072193e9251447cff85b9&txTime=699429BB
+FC Seoul vs Hiroshima Sanfrecce	https://live.vivo200.com/live/sd-1-4405764.m3u8?txSecret=ec0b5dde24d63005438974f44a4dd138&txTime=69948C34
+FC Seoul vs Hiroshima Sanfrecce	https://live.vivo200.com/live/hd-en-1-4405764.m3u8?txSecret=60be8f57b0fff9fa7ffb26871ccb89a1&txTime=69948C34
 FC Seoul vs Hiroshima Sanfrecce	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f0.m3u8?auth_key=1771320751-0-0-c031ecf8a2b38e6a56ae2247862a940d
 
 19:15 [g]AFC Champions League Elite[z]	^-
