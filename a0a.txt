@@ -30,47 +30,47 @@
 
 17:00 [g]AFC Champions League Elite[z]	^-
 Machida Zelvia vs Chengdu City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258399/machida-zelvia-vs-chengdu-rongcheng-fc.html
-Machida Zelvia vs Chengdu City	`1https://live.vivo200.com/live/sd-1-4405777.m3u8?txSecret=45decd8f7a683acad11de12d0a69a7ae&txTime=699429BB
-Machida Zelvia vs Chengdu City	`1https://live.vivo200.com/live/hd-en-1-4405777.m3u8?txSecret=2d3b6a8344cc6f46b2ad074fcbe9fb69&txTime=699429BB
-Machida Zelvia vs Chengdu City	`1https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733ef.m3u8?auth_key=1771320751-0-0-3ca1ad210ab7e193c2d1baf55a11c012
+Machida Zelvia vs Chengdu City	https://live.vivo200.com/live/sd-1-4405777.m3u8?txSecret=45decd8f7a683acad11de12d0a69a7ae&txTime=699429BB
+Machida Zelvia vs Chengdu City	https://live.vivo200.com/live/hd-en-1-4405777.m3u8?txSecret=2d3b6a8344cc6f46b2ad074fcbe9fb69&txTime=699429BB
+Machida Zelvia vs Chengdu City	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733ef.m3u8?auth_key=1771320751-0-0-3ca1ad210ab7e193c2d1baf55a11c012
 FC Seoul vs Hiroshima Sanfrecce	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258401/football-club-seoul-vs-sanfrecce-hiroshima.html
-FC Seoul vs Hiroshima Sanfrecce	`1https://live.vivo200.com/live/sd-1-4405764.m3u8?txSecret=e93e7d6e7340309032dde5b1b4dc3955&txTime=699429BB
-FC Seoul vs Hiroshima Sanfrecce	`1https://live.vivo200.com/live/hd-en-1-4405764.m3u8?txSecret=5a2ba19031b072193e9251447cff85b9&txTime=699429BB
-FC Seoul vs Hiroshima Sanfrecce	`1https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f0.m3u8?auth_key=1771320751-0-0-c031ecf8a2b38e6a56ae2247862a940d
+FC Seoul vs Hiroshima Sanfrecce	https://live.vivo200.com/live/sd-1-4405764.m3u8?txSecret=e93e7d6e7340309032dde5b1b4dc3955&txTime=699429BB
+FC Seoul vs Hiroshima Sanfrecce	https://live.vivo200.com/live/hd-en-1-4405764.m3u8?txSecret=5a2ba19031b072193e9251447cff85b9&txTime=699429BB
+FC Seoul vs Hiroshima Sanfrecce	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f0.m3u8?auth_key=1771320751-0-0-c031ecf8a2b38e6a56ae2247862a940d
 
 19:15 [g]AFC Champions League Elite[z]	^-
 Buriram United vs Shanghai Shenhua	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258400/buriram-united-vs-shanghai-shenhua-fc.html
-Buriram United vs Shanghai Shenhua	`1https://live.vivo200.com/live/sd-1-4405746.m3u8?txSecret=34368c1d3f05c37d98ea1ffebce3a16f&txTime=699429BB
-Buriram United vs Shanghai Shenhua	`1https://live.vivo200.com/live/hd-en-1-4405746.m3u8?txSecret=726756f2a86d712c6a97c4d5e5ac8804&txTime=699429BB
-Buriram United vs Shanghai Shenhua	`1https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f6.m3u8?auth_key=1771320751-0-0-9aa76c2cb678546419b2fccaa08c4c53
+Buriram United vs Shanghai Shenhua	https://live.vivo200.com/live/sd-1-4405746.m3u8?txSecret=34368c1d3f05c37d98ea1ffebce3a16f&txTime=699429BB
+Buriram United vs Shanghai Shenhua	https://live.vivo200.com/live/hd-en-1-4405746.m3u8?txSecret=726756f2a86d712c6a97c4d5e5ac8804&txTime=699429BB
+Buriram United vs Shanghai Shenhua	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f6.m3u8?auth_key=1771320751-0-0-9aa76c2cb678546419b2fccaa08c4c53
 Johor Darul Takzim vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258405/johor-darul-tazim-fc-vs-vissel-kobe.html
-Johor Darul Takzim vs Vissel Kobe	`1https://live.vivo200.com/live/sd-1-4405753.m3u8?txSecret=4dad0525430a2c92fe2e50a7790b9671&txTime=699429BB
-Johor Darul Takzim vs Vissel Kobe	`1https://live.vivo200.com/live/hd-en-1-4405753.m3u8?txSecret=f2e95d7f2d3d11bef33cc26d250ca70c&txTime=699429BB
-Johor Darul Takzim vs Vissel Kobe	`1https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f5.m3u8?auth_key=1771320751-0-0-52b745fefd730a354d5047c7088e92d0
+Johor Darul Takzim vs Vissel Kobe	https://live.vivo200.com/live/sd-1-4405753.m3u8?txSecret=4dad0525430a2c92fe2e50a7790b9671&txTime=699429BB
+Johor Darul Takzim vs Vissel Kobe	https://live.vivo200.com/live/hd-en-1-4405753.m3u8?txSecret=f2e95d7f2d3d11bef33cc26d250ca70c&txTime=699429BB
+Johor Darul Takzim vs Vissel Kobe	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f5.m3u8?auth_key=1771320751-0-0-52b745fefd730a354d5047c7088e92d0
 
 23:00 [g]AFC Champions League Elite[z]	^-
 Al-Garrafa vs Tractor SC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258461/al-gharafa-vs-tractor-sc.html
-Al-Garrafa vs Tractor SC	`1https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba281.m3u8?auth_key=1771320751-0-0-dba51941044ad950bd912a49fcc21668
+Al-Garrafa vs Tractor SC	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba281.m3u8?auth_key=1771320751-0-0-dba51941044ad950bd912a49fcc21668
 Al-Sadd vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258462/al-sadd-vs-al-ittihad-club.html
-Al-Sadd vs Al Ittihad Club	`1https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba282.m3u8?auth_key=1771320751-0-0-5a0309bdc2aa310fa626fe43ab667df8
+Al-Sadd vs Al Ittihad Club	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba282.m3u8?auth_key=1771320751-0-0-5a0309bdc2aa310fa626fe43ab667df8
 
 23:00 [g]AFC Champions League 2[z]	^-
 Al-Wasl vs Al Zawraa	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4325540/al-wasl-sc-vs-al-zawraa.html
-Al-Wasl vs Al Zawraa	`1https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba283.m3u8?auth_key=1771320751-0-0-7d996a5679690e861a684ab2b7301b59
+Al-Wasl vs Al Zawraa	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba283.m3u8?auth_key=1771320751-0-0-7d996a5679690e861a684ab2b7301b59
 
 18.02.2026	^-
 
 00:45 [y]UEFA Champions League[z]	^-
 Galatasaray vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349633/galatasaray-vs-juventus.html
-Galatasaray vs Juventus	`1https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6f.m3u8?auth_key=1771320751-0-0-69dcba7418451e5d17ef6e06b747d823
+Galatasaray vs Juventus	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6f.m3u8?auth_key=1771320751-0-0-69dcba7418451e5d17ef6e06b747d823
 
 03:00 [y]UEFA Champions League[z]	^-
 Borussia Dortmund vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4348635/borussia-dortmund-vs-atalanta.html
-Borussia Dortmund vs Atalanta	`1https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6d.m3u8?auth_key=1771320751-0-0-e648d8200cd85835e96017f8a4016882
+Borussia Dortmund vs Atalanta	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6d.m3u8?auth_key=1771320751-0-0-e648d8200cd85835e96017f8a4016882
 Monaco vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349635/as-monaco-vs-paris-saint-germain.html
-Monaco vs Paris Saint Germain	`1https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce70.m3u8?auth_key=1771320751-0-0-25dd4e77ccbbba22ab8da02e469524a1
+Monaco vs Paris Saint Germain	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce70.m3u8?auth_key=1771320751-0-0-25dd4e77ccbbba22ab8da02e469524a1
 Benfica vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349644/benfica-vs-real-madrid.html
-Benfica vs Real Madrid	`1https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992712.m3u8?auth_key=1771320751-0-0-a814307ead4d56df2b7a49b95b79ffd2
+Benfica vs Real Madrid	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992712.m3u8?auth_key=1771320751-0-0-a814307ead4d56df2b7a49b95b79ffd2
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
