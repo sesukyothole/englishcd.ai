@@ -44,13 +44,13 @@ FC Seoul vs Hiroshima Sanfrecce	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d7
 Buriram United vs Shanghai Shenhua	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258400/buriram-united-vs-shanghai-shenhua-fc.html
 Buriram United vs Shanghai Shenhua.	`1https://viewembed.ru/channel/bet11887078
 Buriram United vs Shanghai Shenhua	`1https://viewembed.ru/channel/Sportklub3[Serbia]
-Buriram United vs Shanghai Shenhua	https://live.vivo200.com/live/sd-1-4405746.m3u8?txSecret=34368c1d3f05c37d98ea1ffebce3a16f&txTime=699429BB
-Buriram United vs Shanghai Shenhua	https://live.vivo200.com/live/hd-en-1-4405746.m3u8?txSecret=726756f2a86d712c6a97c4d5e5ac8804&txTime=699429BB
+Buriram United vs Shanghai Shenhua	https://live.vivo200.com/live/sd-1-4405746.m3u8?txSecret=1e6f6ebcec85138eaffc9c2dd26544d9&txTime=69948C2B
+Buriram United vs Shanghai Shenhua	https://live.vivo200.com/live/hd-en-1-4405746.m3u8?txSecret=0993d545c3ef3379f6669e2096ce7237&txTime=69948C2B
 Buriram United vs Shanghai Shenhua	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f6.m3u8?auth_key=1771320751-0-0-9aa76c2cb678546419b2fccaa08c4c53
 Johor Darul Takzim vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258405/johor-darul-tazim-fc-vs-vissel-kobe.html
 Johor Darul Takzim vs Vissel Kobe.	`1https://viewembed.ru/channel/bet11887089
-Johor Darul Takzim vs Vissel Kobe	https://live.vivo200.com/live/sd-1-4405753.m3u8?txSecret=4dad0525430a2c92fe2e50a7790b9671&txTime=699429BB
-Johor Darul Takzim vs Vissel Kobe	https://live.vivo200.com/live/hd-en-1-4405753.m3u8?txSecret=f2e95d7f2d3d11bef33cc26d250ca70c&txTime=699429BB
+Johor Darul Takzim vs Vissel Kobe	https://live.vivo200.com/live/sd-1-4405753.m3u8?txSecret=5ba0375d5b5462f630aee64dc5e61230&txTime=69948C2B
+Johor Darul Takzim vs Vissel Kobe	https://live.vivo200.com/live/hd-en-1-4405753.m3u8?txSecret=6f602d9efcb675c300037d5e7858595e&txTime=69948C2B
 Johor Darul Takzim vs Vissel Kobe	https://bo2.qiuxun.tv/sla/1-697393ff14caa75d72d733f5.m3u8?auth_key=1771320751-0-0-52b745fefd730a354d5047c7088e92d0
 
 23:00 [g]AFC Champions League Elite[z]	^-
