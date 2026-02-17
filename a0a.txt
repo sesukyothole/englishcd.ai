@@ -49,7 +49,7 @@ Al-Wasl vs Al Zawraa	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba283.m3u8?a
 Galatasaray vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349633/galatasaray-vs-juventus.html
 Galatasaray vs Juventus	`1https://viewembed.ru/channel/SkySports251[Italy]
 Galatasaray vs Juventus	`1https://viewembed.ru/channel/ZiggoSport[Netherlands]
-Galatasaray vs Juventus	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6f.m3u8?auth_key=1771320751-0-0-69dcba7418451e5d17ef6e06b747d823
+Galatasaray vs Juventus	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6f.m3u8?auth_key=1771369843-0-0-1e2101babbfbabbd18234837fb01ea4f
 
 03:00 [y]UEFA Champions League[z]	^-
 Borussia Dortmund vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4348635/borussia-dortmund-vs-atalanta.html
