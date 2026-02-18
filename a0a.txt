@@ -53,44 +53,54 @@ Tampines Rovers vs Cong An Nhan Dan	https://bo2.qiuxun.tv/sla/1-6974e582680a13ca
 Qarabag vs Newcastle United	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4350659/qarabag-vs-newcastle-united.html
 Qarabag vs Newcastle United	`1https://viewembed.ru/channel/DAZN1%5BPortugal%5D
 Qarabag vs Newcastle United	`1https://viewembed.ru/channel/DigiSport1%5BRomania%5D
+Qarabag vs Newcastle United	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992714.m3u8?auth_key=1771427159-0-0-3a40e375d1edba0a285493d8ae27956d
 
 01:00 [g]Switzerland Super League[z]	^-
 Winterthur vs St. Gallen	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4207197/winterthur-vs-st-gallen.html
 Winterthur vs St. Gallen.	`1https://viewembed.ru/channel/bet12033147
+Winterthur vs St. Gallen	https://bo2.qiuxun.tv/sla/1-69691623952272c52c9eb8e2.m3u8?auth_key=1771427159-0-0-3f62b035c68000e8e031189bff0c6b97
 
 01:15 [g]AFC Champions League 2[z]	^-
 Al-Ahli Doha vs Sepahan	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4325622/al-ahli-doha-vs-sepahan.html
 Al-Ahli Doha vs Sepahan.	`1https://viewembed.ru/channel/bet11623198
 Al-Ahli Doha vs Sepahan	`1https://viewembed.ru/channel/ESPN2%5BUSA%5D
+Al-Ahli Doha vs Sepahan	https://bo2.qiuxun.tv/sla/1-69763700b693b936d05c3eb6.m3u8?auth_key=1771427159-0-0-9c34a3f27b166fd8d68d3995d4237fe8
 Al Nassr FC vs Arkadag FK	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4339943/al-nassr-fc-vs-arkadag-fk.html
 Al Nassr FC vs Arkadag FK.	`1https://viewembed.ru/channel/bet11623194
 Al Nassr FC vs Arkadag FK	`1https://viewembed.ru/channel/ESPN1%5BNetherlands%5D
+Al Nassr FC vs Arkadag FK	https://bo2.qiuxun.tv/sla/1-69763700b693b936d05c3eb5.m3u8?auth_key=1771427159-0-0-1b89f0b490e43efd9eaf3fa3d83a74c7
 
 02:00 [y]Spanish La Liga[z]	^-
 Levante vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209888/levante-vs-villarreal-cf.html
 Levante vs Villarreal.	`1https://viewembed.ru/channel/bet11838572
 Levante vs Villarreal	`1https://viewembed.ru/channel/ArenaSport4%5BSerbia%5D
+Levante vs Villarreal	https://bo2.qiuxun.tv/sla/1-693c4311b693b936d0593fdf.m3u8?auth_key=1771427159-0-0-fa6b3d0f5a77c5bf3559b98e94f4135f
 
 02:45 [y]Italian Serie A[z]	^-
 AC Milan vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194691/ac-milan-vs-como.html
 AC Milan vs Como	`1https://viewembed.ru/channel/CosmoteSport9%5BGreece%5D
 AC Milan vs Como	`1https://viewembed.ru/channel/ArenaSport2%5BSerbia%5D
+AC Milan vs Como	https://bo2.qiuxun.tv/sla/1-69708e9fb90519b461807cd9.m3u8?auth_key=1771427159-0-0-fb089f27f59ac254f787ba151385685f
 
 03:00 [y]English Premier League[z]	^-
 Wolves vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194063/wolverhampton-wanderers-vs-arsenal.html
 Wolves vs Arsenal	`1https://viewembed.ru/channel/CanalSport3%5BFrance%5D
 Wolves vs Arsenal	`1https://viewembed.ru/channel/SkySportsPremierLeague%5BUK%5D
+Wolves vs Arsenal	https://bo2.qiuxun.tv/sla/1-69841ccc02bc90c280ea5eb3.m3u8?auth_key=1771427159-0-0-2797eaad38e777c3fd2a26d1f2b0a028
 
 03:00 [y]UEFA Champions League[z]	^-
 Olympiakos Piraeus vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4348672/olympiacos-piraeus-vs-bayer-04-leverkusen.html
 Olympiakos Piraeus vs Bayer Leverkusen	`1https://viewembed.ru/channel/SportTV5%5BPortugal%5D
 Olympiakos Piraeus vs Bayer Leverkusen	`1https://viewembed.ru/channel/TNTSports4%5BUK%5D
+Olympiakos Piraeus vs Bayer Leverkusen	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992711.m3u8?auth_key=1771427159-0-0-73bec88ea9600e936ed54000a8b88d9d
 Bodo Glimt vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349514/bodo-glimt-vs-inter-milan.html
 Bodo Glimt vs Inter Milan	`1https://viewembed.ru/channel/DigiSport1%5BRomania%5D
 Bodo Glimt vs Inter Milan	`1https://viewembed.ru/channel/ZiggoSport2%5BNetherlands%5D
+Bodo Glimt vs Inter Milan	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6e.m3u8?auth_key=1771427159-0-0-9f148a2481b33edc05efd4ba3588eecf
 Club Brugge vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349520/club-brugge-vs-atletico-madrid.html
 Club Brugge vs Atletico Madrid	`1https://viewembed.ru/channel/PrimaSport2%5BRomania%5D
 Club Brugge vs Atletico Madrid	`1https://viewembed.ru/channel/DigiSport2%5BRomania%5D
+Club Brugge vs Atletico Madrid	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992713.m3u8?auth_key=1771427159-0-0-b986f1b9ce98216471753e5979bb22e7
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
