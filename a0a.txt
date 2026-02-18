@@ -28,38 +28,6 @@
 
 19.02.2026	^-
 
-02:00 [y]Spanish La Liga[z]	^-
-Levante vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209888/levante-vs-villarreal-cf.html
-Levante vs Villarreal.	`1https://viewembed.ru/channel/bet11838572
-Levante vs Villarreal	`1https://viewembed.ru/channel/ArenaSport4[Serbia]
-Levante vs Villarreal	https://bo2.qiuxun.tv/sla/1-693c4311b693b936d0593fdf.m3u8?auth_key=1771427159-0-0-fa6b3d0f5a77c5bf3559b98e94f4135f
-
-02:45 [y]Italian Serie A[z]	^-
-AC Milan vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194691/ac-milan-vs-como.html
-AC Milan vs Como	`1https://viewembed.ru/channel/CosmoteSport9[Greece]
-AC Milan vs Como	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
-AC Milan vs Como	https://bo2.qiuxun.tv/sla/1-69708e9fb90519b461807cd9.m3u8?auth_key=1771427159-0-0-fb089f27f59ac254f787ba151385685f
-
-03:00 [y]English Premier League[z]	^-
-Wolves vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194063/wolverhampton-wanderers-vs-arsenal.html
-Wolves vs Arsenal	`1https://viewembed.ru/channel/CanalSport3[France]
-Wolves vs Arsenal	`1https://viewembed.ru/channel/SkySportsPremierLeague[UK]
-Wolves vs Arsenal	https://bo2.qiuxun.tv/sla/1-69841ccc02bc90c280ea5eb3.m3u8?auth_key=1771427159-0-0-2797eaad38e777c3fd2a26d1f2b0a028
-
-03:00 [y]UEFA Champions League[z]	^-
-Olympiakos Piraeus vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4348672/olympiacos-piraeus-vs-bayer-04-leverkusen.html
-Olympiakos Piraeus vs Bayer Leverkusen	`1https://viewembed.ru/channel/SportTV5[Portugal]
-Olympiakos Piraeus vs Bayer Leverkusen	`1https://viewembed.ru/channel/TNTSports4[UK]
-Olympiakos Piraeus vs Bayer Leverkusen	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992711.m3u8?auth_key=1771427159-0-0-73bec88ea9600e936ed54000a8b88d9d
-Bodo Glimt vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349514/bodo-glimt-vs-inter-milan.html
-Bodo Glimt vs Inter Milan	`1https://viewembed.ru/channel/DigiSport1[Romania]
-Bodo Glimt vs Inter Milan	`1https://viewembed.ru/channel/ZiggoSport2[Netherlands]
-Bodo Glimt vs Inter Milan	https://bo2.qiuxun.tv/sla/1-697b36ae2d9d4df47276ce6e.m3u8?auth_key=1771427159-0-0-9f148a2481b33edc05efd4ba3588eecf
-Club Brugge vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349520/club-brugge-vs-atletico-madrid.html
-Club Brugge vs Atletico Madrid	`1https://viewembed.ru/channel/PrimaSport2[Romania]
-Club Brugge vs Atletico Madrid	`1https://viewembed.ru/channel/DigiSport2[Romania]
-Club Brugge vs Atletico Madrid	https://bo2.qiuxun.tv/sla/1-697b289f9f151a19a6992713.m3u8?auth_key=1771427159-0-0-b986f1b9ce98216471753e5979bb22e7
-
 14:45 [g]AFC Champions League 2[z]	^-
 FC Macarthur vs Bangkok United	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4342322/macarthur-fc-vs-bangkok-united-fc.html
 
