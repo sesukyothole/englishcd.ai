@@ -30,9 +30,16 @@
 
 14:45 [g]AFC Champions League 2[z]	^-
 FC Macarthur vs Bangkok United	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4342322/macarthur-fc-vs-bangkok-united-fc.html
+FC Macarthur vs Bangkok United.	`1https://viewembed.ru/channel/scfw_31abe7e8
+FC Macarthur vs Bangkok United.	`1https://viewembed.ru/channel/bet11623200
+FC Macarthur vs Bangkok United	`1https://viewembed.ru/channel/Sportklub3[Serbia]
+FC Macarthur vs Bangkok United	https://bo2.qiuxun.tv/sla/1-69763700b693b936d05c3edb.m3u8?auth_key=1771496972-0-0-671db6f92a3b932fb307c9ce1c278afd
 
 17:00 [g]AFC Champions League 2[z]	^-
 Gamba Osaka vs Pohang Steelers	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4331719/gamba-osaka-vs-pohang-steelers.html
+Gamba Osaka vs Pohang Steelers.	`1https://viewembed.ru/channel/bet11623197
+Gamba Osaka vs Pohang Steelers	`1https://viewembed.ru/channel/Canal11[Portugal]
+Gamba Osaka vs Pohang Steelers	https://bo2.qiuxun.tv/sla/1-6974e582680a13cadafba2b4.m3u8?auth_key=1771496972-0-0-fd8a51166c9fdbb33485a125bb7c01fd
 
 20.02.2026	^-
 
@@ -51,21 +58,17 @@ Brann vs Bologna	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4351
 02:00 [g]Saudi Professional League[z]	^-
 Al Ahli Jeddah vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256111/al-ahli-sfc-vs-al-najmaksa.html
 
-03:00 [y]UEFA Europa Conference League[z]	^-
-KF Drita Gjilan vs NK Publikum Celje	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4335963/fc-drita-vs-nk-publikum-celje.html
-FK Shkendija 79 vs Samsunspor	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4347596/shkendija-tetovo-vs-samsunspor.html
-
 03:00 [y]UEFA Europa League[z]	^-
 Lille vs Crvena Zvezda	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348316/losc-lille-vs-crvena-zvezda.html
 Celtic FC vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348633/celtic-fc-vs-vfb-stuttgart.html
-
-03:00 [y]UEFA Europa Conference League[z]	^-
-Jagiellonia Bialystok vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4348664/jagiellonia-bialystok-vs-fiorentina.html
-Omonia Nicosia FC vs Rijeka	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4349506/omonia-nicosia-fc-vs-rijeka.html
-
-03:00 [y]UEFA Europa League[z]	^-
 Panathinaikos vs FC Viktoria Plzen	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4349518/panathinaikos-vs-fc-viktoria-plzen.html
 Ludogorets Razgrad vs Ferencvarosi	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4351871/ludogorets-razgrad-vs-ferencvarosi-tc.html
+
+03:00 [y]UEFA Europa Conference League[z]	^-
+KF Drita Gjilan vs NK Publikum Celje	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4335963/fc-drita-vs-nk-publikum-celje.html
+FK Shkendija 79 vs Samsunspor	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4347596/shkendija-tetovo-vs-samsunspor.html
+Jagiellonia Bialystok vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4348664/jagiellonia-bialystok-vs-fiorentina.html
+Omonia Nicosia FC vs Rijeka	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4349506/omonia-nicosia-fc-vs-rijeka.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
