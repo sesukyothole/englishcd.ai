@@ -28,37 +28,6 @@
 
 20.02.2026	^-
 
-00:45 [y]UEFA Europa League[z]	^-
-Brann vs Bologna	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4351908/brann-vs-bologna.html
-Brann vs Bologna	`1https://viewembed.ru/channel/CosmoteSport7%5BGreece%5D
-Brann vs Bologna	`1https://viewembed.ru/channel/ArenaSport2%5BSerbia%5D
-Brann vs Bologna	https://bo2.qiuxun.tv/sla/1-697c9646b90519b461228e19.m3u8?auth_key=1771513023-0-0-9a9de32cbf79a04696bc34ed9d85d0f7
-Dinamo Zagreb vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4349507/dinamo-zagreb-vs-racing-genk.html
-Dinamo Zagreb vs Racing Genk	`1https://viewembed.ru/channel/ArenaPremium1%5BSerbia%5D
-Dinamo Zagreb vs Racing Genk	`1https://viewembed.ru/channel/CosmoteSport8%5BGreece%5D
-Dinamo Zagreb vs Racing Genk	https://bo2.qiuxun.tv/sla/1-697c9646b90519b461228e1d.m3u8?auth_key=1771513023-0-0-bfce7f0ae04d4375a51626ab989ed00f
-Fenerbahce vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348349/fenerbahce-vs-nottingham-forest.html
-Fenerbahce vs Nottingham Forest	`1https://viewembed.ru/channel/TNTSports1%5BUK%5D
-Fenerbahce vs Nottingham Forest	`1https://viewembed.ru/channel/TUDN%5BUSA%5D
-Fenerbahce vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-697c9646b90519b461228e1a.m3u8?auth_key=1771513023-0-0-39c9e835a7d2e695f38e4d19df994eef
-PAOK Saloniki vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348368/paok-saloniki-vs-rc-celta.html
-PAOK Saloniki vs Real Celta Vigo	`1https://viewembed.ru/channel/CosmoteSport3%5BGreece%5D
-PAOK Saloniki vs Real Celta Vigo	`1https://viewembed.ru/channel/PrimaSport1%5BRomania%5D
-PAOK Saloniki vs Real Celta Vigo	https://bo2.qiuxun.tv/sla/1-697c9646b90519b461228e1c.flv?auth_key=1771513023-0-0-6d25ad902ba58d29cc1a15afe1cbf5bb
-
-00:45 [y]UEFA Europa Conference League[z]	^-
-Zrinjski Mostar vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4343469/hsk-zrinjski-mostar-vs-crystal-palace.html
-Zrinjski Mostar vs Crystal Palace	`1https://viewembed.ru/channel/TNTSports3%5BUK%5D
-Zrinjski Mostar vs Crystal Palace	`1https://viewembed.ru/channel/ArenaSport8%5BSerbia%5D
-Zrinjski Mostar vs Crystal Palace	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725d1f.m3u8?auth_key=1771513023-0-0-1997138d940953e8ae0e6d5d5417bbd4
-FC Noah vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4339290/fc-noah-vs-az-alkmaar.html
-FC Noah vs AZ Alkmaar	`1https://viewembed.ru/channel/ZiggoSport%5BNetherlands%5D
-FC Noah vs AZ Alkmaar	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725d23.m3u8?auth_key=1771513023-0-0-1b6033d495f09746ca4ecc4e058757c1
-KuPs vs Lech Poznan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4334445/kups-vs-lech-poznan.html
-KuPs vs Lech Poznan	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725d24.m3u8?auth_key=1771513023-0-0-7eb6a8e3af9d65c1105788aac4a5bdcc
-Sigma Olomouc vs Lausanne Sports	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4338329/sigma-olomouc-vs-lausanne-sports.html
-Sigma Olomouc vs Lausanne Sports	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725d20.m3u8?auth_key=1771513023-0-0-92d8d02acfcec411977c60074ee1da4d
-
 02:00 [g]Saudi Professional League[z]	^-
 Al Ahli Jeddah vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256111/al-ahli-sfc-vs-al-najmaksa.html
 Al Ahli Jeddah vs Al Najma KSA	`1https://viewembed.ru/channel/FoxSoccerPlus%5BUSA%5D
