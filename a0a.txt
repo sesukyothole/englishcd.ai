@@ -46,6 +46,13 @@ Blackburn Rovers vs Preston North End	`Fhttps://www.fctv33.net/football/english-
 03:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209778/athletic-club-vs-elche.html
 
+19:30 [g]English Football League Champ[z]	^-
+Stoke City vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203715/stoke-city-vs-leicester-city.html
+West Bromwich WBA vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203735/west-bromwich-albion-vs-coventry-city.html
+
+20:00 [y]Spanish La Liga[z]	^-
+Real Sociedad vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209606/real-sociedad-vs-real-oviedo.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
