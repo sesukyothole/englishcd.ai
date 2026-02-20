@@ -30,10 +30,10 @@
 
 20:30 Liga 1	^-
 Persija Jakarta vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229568/persatuan-sepakbola-indonesia-jakarta-vs-persatuan-sepakbola-makassar.html
-Persija Jakarta vs PSM Makassar	https://live.vivo200.com/live/sd-1-4379408.m3u8?txSecret=032e64df49b9e4de57d0201de6a63b95&txTime=69982457
+Persija Jakarta vs PSM Makassar	https://live.vivo200.com/live/sd-1-4379408.m3u8?txSecret=b3fee9ce49294b7b3f6eb96d3cc22dd9&txTime=6998AF1D
 Persija Jakarta vs PSM Makassar	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725d5f.m3u8?auth_key=1771581474-0-0-8fca6de99dd9b86fa0871289df137571
 Persik Kediri vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229606/persatuan-sepak-bola-indonesia-kediri-vs-bhayangkara-presisi-indonesia-fc.html
-Persik Kediri vs Bhayangkara	https://live.vivo200.com/live/sd-1-4379400.m3u8?txSecret=bed5ad7e06c0fd4c77bdb98797d7e229&txTime=69982457
+Persik Kediri vs Bhayangkara	https://live.vivo200.com/live/sd-1-4379400.m3u8?txSecret=fc66492d6dd8397f6ba078cb40ff7e86&txTime=6998AF1D
 Persik Kediri vs Bhayangkara	https://bo2.qiuxun.tv/sla/1-697788802d9d4df4724f263d.m3u8?auth_key=1771581474-0-0-b029dde6b97538a34c82b84516f08a93
 
 20:30 Liga 2	^-
