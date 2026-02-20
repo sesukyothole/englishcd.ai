@@ -152,7 +152,6 @@ Sky Live Event 5	https://a.00/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c8
 Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 Sky Sports 2	https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/manifest.mpd!!99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
 Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
 Sky Sports LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 Sky Sports Premier League	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd!!ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
@@ -179,7 +178,6 @@ Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s
 Wowow Cinema	https://nl.utako.moe/wcinema/index.m3u8
 Wowow Live	https://nl.utako.moe/wlive/index.m3u8
 Wowow Prime	https://nl.utako.moe/wprime/index.m3u8
-WWE Network	`Shttps://embedstreams.top/embed/alpha/wwe-network/1
 
 	^-
 [l]Embedded Sports Channels[z]	^-
@@ -1064,10 +1062,6 @@ HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd!!bc
 ID Man	https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 KBSN Sports	https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fun1zkwv0ka56xo61pj85hqlq2amyh9ibynp/1080.stream/hdntl=exp=1769027299~acl=*%2ffun1zkwv0ka56xo61pj85hqlq2amyh9ibynp%2f*~data=hdntl~hmac=4480a4dea33798210d953dee7ea580896e121f061926816603e02eea5979addf/chunklist.m3u8
-MLB Network	`Shttps://embedstreams.top/embed/alpha/mlb-network/1
-NBA TV	`Shttps://embedsports.top/embed/alpha/nba-tv/1
-NFL Network	`Shttps://embedsports.top/embed/alpha/nfl-network/1
-NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
 One Sports Plus	https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd!!322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Setanta LT 1	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd!!8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
@@ -1077,7 +1071,6 @@ Sport2 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mp
 SporTV 1 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 SporTV 2 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd!!9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
-Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 Varzhes	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
