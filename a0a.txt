@@ -116,9 +116,13 @@ Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 GTV	`Fhttps://m.rctiplus.com/tv/gtv
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
 MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
+MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
 RCTI	`Fhttps://m.rctiplus.com/tv/rcti
+RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
 iNews	`Fhttps://m.rctiplus.com/tv/inews
+iNews	https://allcutv.rctiplus.id/inews2023.m3u8?7
 
 beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 beIN Sports 1	https://stream.ayas.ir/hls2/bein1.m3u8
@@ -239,11 +243,6 @@ IDX	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=134
 Jak TV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=25
 JTV	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=24
 TVRI	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=16
-
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
-MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
-RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
-iNews	https://allcutv.rctiplus.id/inews2023.m3u8?7
 
 	^-
 [l]Embedded Sports Channels[z]	^-
