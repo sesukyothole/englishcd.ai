@@ -28,53 +28,6 @@
 
 21.02.2026	^-
 
-22:00 [y]English Premier League[z]	^-
-Chelsea vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193893/chelsea-vs-burnley.html
-Chelsea vs Burnley	`1https://viewembed.ru/channel/SkySport6[NewZealand]
-Chelsea vs Burnley	`1https://viewembed.ru/channel/SuperSportVariety3[SouthAfrica]
-Chelsea vs Burnley	`1https://viewembed.ru/channel/ArenaPremium2[Serbia]
-Chelsea vs Burnley	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aa9.m3u8?auth_key=1771707743-0-0-8ef73f2927f8e7b824fdd82ffddc7375
-Chelsea vs Burnley SD	https://live.vivo200.com/live/sd-1-4343231.m3u8?txSecret=72546a0fc5cfd9ab3cfa5f0f3aa0a27a&txTime=699A10FD
-Chelsea vs Burnley HD	https://live.vivo200.com/live/hd-en-1-4343231.m3u8?txSecret=98e0db1e97493bcaaa1959237fce0879&txTime=699A10FD
-Brentford vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194012/brentford-vs-brighton-hove-albion.html
-Brentford vs Brighton Hove Albion	`1https://viewembed.ru/channel/SkySport9[NewZealand]
-Brentford vs Brighton Hove Albion	`1https://viewembed.ru/channel/SuperSportAction[SouthAfrica]
-Brentford vs Brighton Hove Albion	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
-Brentford vs Brighton Hove Albion	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aaa.m3u8?auth_key=1771707743-0-0-741bf28a565d68c2722ec69a2b06984e
-Brentford vs Brighton Hove Albion SD	https://live.vivo200.com/live/sd-1-4343230.m3u8?txSecret=7d12f33885c9855e62d588002929c58b&txTime=699A10FD
-Brentford vs Brighton Hove Albion HD	https://live.vivo200.com/live/hd-en-1-4343230.m3u8?txSecret=99d14c1e88bdb33eb0e6ed61f6a08966&txTime=699A10FD
-Aston Villa vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194039/aston-villa-vs-leeds-united.html
-Aston Villa vs Leeds United	`1https://viewembed.ru/channel/Premiersport1[Ireland]
-Aston Villa vs Leeds United	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
-Aston Villa vs Leeds United	`1https://viewembed.ru/channel/SkySport7[NewZealand]
-Aston Villa vs Leeds United	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aab.m3u8?auth_key=1771707743-0-0-5b64bcb0d5997eb7ae5da27ffe3442ff
-Aston Villa vs Leeds United SD	https://live.vivo200.com/live/sd-1-4343229.m3u8?txSecret=b50f08608df62b7349f45c57dce0f77d&txTime=699A1173
-Aston Villa vs Leeds United HD	https://live.vivo200.com/live/hd-en-1-4343229.m3u8?txSecret=9d4bc9faf07fe4ed2bdda17d6da5dfc4&txTime=699A1173
-
-22:00 [g]English Football League Champ[z]	^-
-Wrexham vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203495/wrexham-vs-ipswich-town.html
-Wrexham vs Ipswich Town.	`1https://viewembed.ru/channel/bet11430175
-Wrexham vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aac.m3u8?auth_key=1771707743-0-0-de1e2827f02ac5e514954192a253dc2b
-Wrexham vs Ipswich Town SD	https://live.vivo200.com/live/sd-1-4351497.m3u8?txSecret=58b1b7134b0ade2803b1ca67ed0fe9be&txTime=699A10FD
-Southampton vs Charlton Athletic	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203505/southampton-vs-charlton-athletic.html
-Southampton vs Charlton Athletic	`1https://viewembed.ru/channel/SportTV6[Portugal]
-Southampton vs Charlton Athletic.	`1https://viewembed.ru/channel/bet11430173
-Southampton vs Charlton Athletic	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d721419d2.m3u8?auth_key=1771707743-0-0-31da32f3dab482f3754613e695184c3d
-Southampton vs Charlton Athletic SD	https://live.vivo200.com/live/sd-1-4351486.m3u8?txSecret=ff728bb7635d5439c1966defa68a45bc&txTime=699A10FD
-Middlesbrough vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203564/middlesbrough-vs-oxford-united.html
-Middlesbrough vs Oxford United	`1https://viewembed.ru/channel/bet11430169
-Middlesbrough vs Oxford United	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d721419d6.m3u8?auth_key=1771707743-0-0-f74036b4d1c38ed35a45920ca64828a1
-Middlesbrough vs Oxford United SD	https://live.vivo200.com/live/sd-1-4351478.m3u8?txSecret=10afa5cb91581b60bee89b5f1dbf0367&txTime=699A10FD
-
-22:15 [y]Spanish La Liga[z]	^-
-Real Betis vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209783/real-betis-vs-rayo-vallecano.html
-Real Betis vs Rayo Vallecano	`1https://viewembed.ru/channel/DaznLaLiga2[Spain]
-Real Betis vs Rayo Vallecano	`1https://viewembed.ru/channel/LaLigaTV[UK]
-Real Betis vs Rayo Vallecano	`1https://viewembed.ru/channel/ESPNDeportes[USA]
-Real Betis vs Rayo Vallecano	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d56.m3u8?auth_key=1771708579-0-0-29eec6cbadcc3697dd90831914f0ae1a
-Real Betis vs Rayo Vallecano SD	https://live.vivo200.com/live/sd-1-4358929.m3u8?txSecret=9c3734539845be9119ecab8220ae8f54&txTime=699A14C1
-Real Betis vs Rayo Vallecano HD	https://live.vivo200.com/live/hd-en-1-4358929.m3u8?txSecret=4cbef8570e15d82b2de37550fbb0e05b&txTime=699A14C1
-
 23:00 [y]French Ligue 1[z]	^-
 Lens vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200244/rc-lens-vs-as-monaco.html
 Lens vs Monaco	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
