@@ -136,26 +136,31 @@ Lens vs Monaco HD	https://live.vivo200.com/live/hd-en-1-4347881.m3u8?txSecret=df
 Lecce vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194635/lecce-vs-inter-milan.html
 Lecce vs Inter Milan	`1https://viewembed.ru/channel/TNTSports1[UK]
 Lecce vs Inter Milan	`1https://viewembed.ru/channel/ArenaPremium1[Serbia]
+Lecce vs Inter Milan	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e3d.m3u8?auth_key=1771710208-0-0-3f9f948a2200cd84854eb6404ca9d4c3
 
 00:30 [y]English Premier League[z]	^-
 West Ham United vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193892/west-ham-united-vs-bournemouth-afc.html
 West Ham United vs Bournemouth AFC	`1https://viewembed.ru/channel/SkySportsPremierLeague[UK]
 West Ham United vs Bournemouth AFC	`1https://viewembed.ru/channel/SkySportsMainEvent[UK]
+West Ham United vs Bournemouth AFC	https://bo2.qiuxun.tv/sla/1-697a2b89cbe5c88a552d882b.m3u8?auth_key=1771710208-0-0-725b768a3964fc5e46c17415bbffc9be
 
 00:30 [y]Bundesliga[z]	^-
 RB Leipzig vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199715/rb-leipzig-vs-borussia-dortmund.html
 RB Leipzig vs Borussia Dortmund	`1https://viewembed.ru/channel/SkySportsFootball[UK]
 RB Leipzig vs Borussia Dortmund.	`1https://viewembed.ru/channel/bet11430153
+RB Leipzig vs Borussia Dortmund	`https://bo2.qiuxun.tv/sla/1-697a2b89cbe5c88a552d882c.m3u8?auth_key=1771710208-0-0-c3c3493b4315579ac279d80c5c332161
 
 00:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209579/ca-osasuna-vs-real-madrid.html
 Osasuna vs Real Madrid	`1https://viewembed.ru/channel/DaznLaLiga2[Spain]
 Osasuna vs Real Madrid	`1https://viewembed.ru/channel/ESPNDeportes[USA]
+Osasuna vs Real Madrid	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d53.m3u8?auth_key=1771710208-0-0-db5f88140ef01188d50d6bb4d65203fe
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199220/psv-eindhoven-vs-sc-heerenveen.html
 PSV Eindhoven vs SC Heerenveen	`1https://viewembed.ru/channel/ESPN2[Netherlands]
 PSV Eindhoven vs SC Heerenveen.	`1https://viewembed.ru/channel/bet11430208
+PSV Eindhoven vs SC Heerenveen	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5e.m3u8?auth_key=1771710208-0-0-74315203de8366c57928b766c9d6a116
 
 01:00 [y]French Ligue 1[z]	^-
 Toulouse vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200253/toulouse-fc-vs-paris-fc.html
