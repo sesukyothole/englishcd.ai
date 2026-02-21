@@ -157,49 +157,80 @@ Lens vs Monaco HD	https://live.vivo200.com/live/hd-en-1-4347881.m3u8?txSecret=df
 
 00:00 [y]Italian Serie A[z]	^-
 Lecce vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194635/lecce-vs-inter-milan.html
+Lecce vs Inter Milan	`1https://viewembed.ru/channel/TNTSports1[UK]
+Lecce vs Inter Milan	`1https://viewembed.ru/channel/ArenaPremium1[Serbia]
 
 00:30 [y]English Premier League[z]	^-
 West Ham United vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193892/west-ham-united-vs-bournemouth-afc.html
+West Ham United vs Bournemouth AFC	`1https://viewembed.ru/channel/SkySportsPremierLeague[UK]
+West Ham United vs Bournemouth AFC	`1https://viewembed.ru/channel/SkySportsMainEvent[UK]
 
 00:30 [y]Bundesliga[z]	^-
 RB Leipzig vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199715/rb-leipzig-vs-borussia-dortmund.html
+RB Leipzig vs Borussia Dortmund	`1https://viewembed.ru/channel/SkySportsFootball[UK]
+RB Leipzig vs Borussia Dortmund.	`1https://viewembed.ru/channel/bet11430153
 
 00:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209579/ca-osasuna-vs-real-madrid.html
+Osasuna vs Real Madrid	`1https://viewembed.ru/channel/DaznLaLiga2[Spain]
+Osasuna vs Real Madrid	`1https://viewembed.ru/channel/ESPNDeportes[USA]
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199220/psv-eindhoven-vs-sc-heerenveen.html
+PSV Eindhoven vs SC Heerenveen	`1https://viewembed.ru/channel/ESPN2[Netherlands]
+PSV Eindhoven vs SC Heerenveen.	`1https://viewembed.ru/channel/bet11430208
 
 01:00 [y]French Ligue 1[z]	^-
 Toulouse vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200253/toulouse-fc-vs-paris-fc.html
+Toulouse vs Paris FC	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
+Toulouse vs Paris FC	`1https://viewembed.ru/channel/bet11436378
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199242/nac-breda-vs-volendam.html
+NAC Breda vs Volendam	`1https://viewembed.ru/channel/ESPN1[Netherlands]
+NAC Breda vs Volendam.	`1https://viewembed.ru/channel/bet11430206
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256128/al-hilal-vs-al-ittihad-club.html
+Al Hilal SFC vs Al Ittihad Club	`1https://viewembed.ru/channel/SportTV5[Portugal]
+Al Hilal SFC vs Al Ittihad Club	`1https://viewembed.ru/channel/CosmoteSport4[Greece]
 Al Nassr FC vs Al-Hazm	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256176/al-nassr-fc-vs-al-hazem.html
+Al Nassr FC vs Al-Hazm	`1https://viewembed.ru/channel/FoxSoccerPlus[USA]
+Al Nassr FC vs Al-Hazm	`1https://viewembed.ru/channel/ESPN[USA]
 
 02:30 [g]US Major League Soccer[z]	^-
 St. Louis City SC vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4337715/st-louis-city-sc-vs-charlotte-fc.html
+St. Louis City SC vs Charlotte FC	`1https://viewembed.ru/channel/bet11430209
 
 02:45 [y]Italian Serie A[z]	^-
 Cagliari vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194747/cagliari-vs-lazio.html
+Cagliari vs Lazio	`1https://viewembed.ru/channel/SkySports251[Italy]
+Cagliari vs Lazio	`1https://viewembed.ru/channel/ZiggoSport2[Netherlands]
 
 03:00 [y]English Premier League[z]	^-
 Manchester City vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193964/manchester-city-vs-newcastle-united.html
+Manchester City vs Newcastle United	`1https://viewembed.ru/channel/TNTSports1[UK]
+Manchester City vs Newcastle United	`1https://viewembed.ru/channel/TNTSportsUltimate[UK]
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199243/afc-ajax-vs-nec-nijmegen.html
+AFC Ajax vs NEC Nijmegen	`1https://viewembed.ru/channel/ESPN2[Netherlands]
+AFC Ajax vs NEC Nijmegen.	`1https://viewembed.ru/channel/bet11430204
 
 03:00 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209782/atletico-madrid-vs-rcd-espanyol-de-barcelona.html
+Atletico Madrid vs RCD Espanyol	`1https://viewembed.ru/channel/ESPNDeportes[USA]
+Atletico Madrid vs RCD Espanyol	`1https://viewembed.ru/channel/ZiggoSport[Netherlands]
 
 03:05 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200250/paris-saint-germain-vs-metz.html
+Paris Saint Germain vs Metz	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
+Paris Saint Germain vs Metz.	`1https://viewembed.ru/channel/bet11436374
 
 04:45 [g]US Major League Soccer[z]	^-
 FC Cincinnati vs Atlanta United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4321441/fc-cincinnati-vs-atlanta-united.html
+FC Cincinnati vs Atlanta United	`1https://viewembed.ru/channel/Fox[USA]
+FC Cincinnati vs Atlanta United	`1https://viewembed.ru/channel/bet11430220
 
 10:30 [g]US Major League Soccer[z]	^-
 Portland Timbers vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4337349/portland-timbers-vs-columbus-crew.html
