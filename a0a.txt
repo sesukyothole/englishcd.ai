@@ -109,10 +109,16 @@ Brentford vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-prem
 Brentford vs Brighton Hove Albion	`1https://viewembed.ru/channel/SkySport9[NewZealand]
 Brentford vs Brighton Hove Albion	`1https://viewembed.ru/channel/SuperSportAction[SouthAfrica]
 Brentford vs Brighton Hove Albion	`1https://viewembed.ru/channel/ArenaSport2[Serbia]
+Brentford vs Brighton Hove Albion	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aaa.m3u8?auth_key=1771707743-0-0-741bf28a565d68c2722ec69a2b06984e
+Brentford vs Brighton Hove Albion SD	https://live.vivo200.com/live/sd-1-4343230.m3u8?txSecret=7d12f33885c9855e62d588002929c58b&txTime=699A10FD
+Brentford vs Brighton Hove Albion HD	https://live.vivo200.com/live/hd-en-1-4343230.m3u8?txSecret=99d14c1e88bdb33eb0e6ed61f6a08966&txTime=699A10FD
 Aston Villa vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194039/aston-villa-vs-leeds-united.html
 Aston Villa vs Leeds United	`1https://viewembed.ru/channel/Premiersport1[Ireland]
 Aston Villa vs Leeds United	`1https://viewembed.ru/channel/SuperSportPremierLeague[SouthAfrica]
 Aston Villa vs Leeds United	`1https://viewembed.ru/channel/SkySport7[NewZealand]
+Aston Villa vs Leeds United	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aab.m3u8?auth_key=1771707743-0-0-5b64bcb0d5997eb7ae5da27ffe3442ff
+Aston Villa vs Leeds United SD	https://live.vivo200.com/live/sd-1-4343229.m3u8?txSecret=b50f08608df62b7349f45c57dce0f77d&txTime=699A1173
+Aston Villa vs Leeds United HD	https://live.vivo200.com/live/hd-en-1-4343229.m3u8?txSecret=9d4bc9faf07fe4ed2bdda17d6da5dfc4&txTime=699A1173
 
 22:00 [g]English Football League Champ[z]	^-
 Wrexham vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203495/wrexham-vs-ipswich-town.html
