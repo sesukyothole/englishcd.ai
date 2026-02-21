@@ -28,14 +28,6 @@
 
 22.02.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Lecce vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194635/lecce-vs-inter-milan.html
-Lecce vs Inter Milan	`1https://viewembed.ru/channel/TNTSports1[UK]
-Lecce vs Inter Milan	`1https://viewembed.ru/channel/ArenaPremium1[Serbia]
-Lecce vs Inter Milan	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e3d.m3u8?auth_key=1771710208-0-0-3f9f948a2200cd84854eb6404ca9d4c3
-Lecce vs Inter Milan SD	https://live.vivo200.com/live/sd-1-4339829.m3u8?txSecret=14b72a01925f073a0ffb8c3e26629e1d&txTime=699A2F0A
-Lecce vs Inter Milan HD	https://live.vivo200.com/live/hd-en-1-4339829.m3u8?txSecret=067529543823b597b8914778b41739f4&txTime=699A2F0A
-
 00:30 [y]English Premier League[z]	^-
 West Ham United vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193892/west-ham-united-vs-bournemouth-afc.html
 West Ham United vs Bournemouth AFC	`1https://viewembed.ru/channel/SkySportsPremierLeague[UK]
@@ -79,7 +71,7 @@ Toulouse vs Paris FC HD	https://live.vivo200.com/live/hd-en-1-4347886.m3u8?txSec
 NAC Breda vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199242/nac-breda-vs-volendam.html
 NAC Breda vs Volendam	`1https://viewembed.ru/channel/ESPN1[Netherlands]
 NAC Breda vs Volendam.	`1https://viewembed.ru/channel/bet11430206
-NAC Breda vs Volendam	`https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5b.m3u8?auth_key=1771718549-0-0-1460122b51b15ee6348d3d24a27c836f
+NAC Breda vs Volendam	`https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5b.m3u8?auth_key=1771721808-0-0-1fcd09fe12be500d6c25b3ccb47f6665
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256128/al-hilal-vs-al-ittihad-club.html
@@ -102,30 +94,39 @@ Cagliari vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-419474
 Cagliari vs Lazio	`1https://viewembed.ru/channel/SkySports251[Italy]
 Cagliari vs Lazio	`1https://viewembed.ru/channel/ZiggoSport2[Netherlands]
 Cagliari vs Lazio	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e41.m3u8?auth_key=1771713216-0-0-5ea3feca74f5af86acbc487166848149
+Cagliari vs Lazio SD	https://live.vivo200.com/live/sd-1-4339821.m3u8?txSecret=e71514b3cf419d0100894eee8f854155&txTime=699A484A
+Cagliari vs Lazio HD	https://live.vivo200.com/live/hd-en-1-4339821.m3u8?txSecret=64a71d5df0a5effd4bfc4253101cc5f8&txTime=699A484A
 
 03:00 [y]English Premier League[z]	^-
 Manchester City vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193964/manchester-city-vs-newcastle-united.html
 Manchester City vs Newcastle United	`1https://viewembed.ru/channel/TNTSports1[UK]
 Manchester City vs Newcastle United	`1https://viewembed.ru/channel/TNTSportsUltimate[UK]
 Manchester City vs Newcastle United	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d72141984.m3u8?auth_key=1771713216-0-0-d9b9acc374769d9cb9c4a6437f746f66
+Manchester City vs Newcastle United SD	https://live.vivo200.com/live/sd-1-4343237.m3u8?txSecret=ee3602251eb536966c7c9b9fd4c6702b&txTime=699A484A
+Manchester City vs Newcastle United HD	https://live.vivo200.com/live/hd-en-1-4343237.m3u8?txSecret=a951d71e4236f99e4b587f0a1045cb13&txTime=699A484A
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199243/afc-ajax-vs-nec-nijmegen.html
 AFC Ajax vs NEC Nijmegen	`1https://viewembed.ru/channel/ESPN2[Netherlands]
 AFC Ajax vs NEC Nijmegen.	`1https://viewembed.ru/channel/bet11430204
 AFC Ajax vs NEC Nijmegen	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d60.m3u8?auth_key=1771713216-0-0-a1fe1625fce80fcda49779a5aadb65dd
+AFC Ajax vs NEC Nijmegen SD	https://live.vivo200.com/live/sd-1-4344717.m3u8?txSecret=9868e11e754ef01cde0858cae4f9b477&txTime=699A484E
 
 03:00 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209782/atletico-madrid-vs-rcd-espanyol-de-barcelona.html
 Atletico Madrid vs RCD Espanyol	`1https://viewembed.ru/channel/ESPNDeportes[USA]
 Atletico Madrid vs RCD Espanyol	`1https://viewembed.ru/channel/ZiggoSport[Netherlands]
 Atletico Madrid vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d58.m3u8?auth_key=1771713216-0-0-e5a1276173d22b1e13853a6e812923de
+Atletico Madrid vs RCD Espanyol SD	https://live.vivo200.com/live/sd-1-4358927.m3u8?txSecret=7da5faa29b0055017540d82ccb9a7de2&txTime=699A484E
+Atletico Madrid vs RCD Espanyol HD	https://live.vivo200.com/live/hd-en-1-4358927.m3u8?txSecret=55b860048a04e4e2dfc6df836aebc835&txTime=699A484E
 
 03:05 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200250/paris-saint-germain-vs-metz.html
 Paris Saint Germain vs Metz	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 Paris Saint Germain vs Metz.	`1https://viewembed.ru/channel/bet11436374
 Paris Saint Germain vs Metz	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0667.m3u8?auth_key=1771713216-0-0-481336a9d9317f7fa25e66b99687b4d1
+Paris Saint Germain vs Metz SD	https://live.vivo200.com/live/sd-1-4347884.m3u8?txSecret=50f4b7039f892b00a8e3d6126de82a24&txTime=699A484E
+Paris Saint Germain vs Metz HD	https://live.vivo200.com/live/hd-en-1-4347884.m3u8?txSecret=7efc49101cdc1969c93c525ae51ac631&txTime=699A484E
 
 04:45 [g]US Major League Soccer[z]	^-
 FC Cincinnati vs Atlanta United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4321441/fc-cincinnati-vs-atlanta-united.html
