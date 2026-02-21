@@ -28,36 +28,6 @@
 
 22.02.2026	^-
 
-02:00 [y]Netherlands Eredivisie[z]	^-
-NAC Breda vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199242/nac-breda-vs-volendam.html
-NAC Breda vs Volendam	`1https://viewembed.ru/channel/ESPN1[Netherlands]
-NAC Breda vs Volendam.	`1https://viewembed.ru/channel/bet11430206
-NAC Breda vs Volendam	`https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5b.m3u8?auth_key=1771721808-0-0-1fcd09fe12be500d6c25b3ccb47f6665
-
-02:00 [g]Saudi Professional League[z]	^-
-Al Hilal SFC vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256128/al-hilal-vs-al-ittihad-club.html
-Al Hilal SFC vs Al Ittihad Club	`1https://viewembed.ru/channel/SportTV5[Portugal]
-Al Hilal SFC vs Al Ittihad Club	`1https://viewembed.ru/channel/CosmoteSport4[Greece]
-Al Hilal SFC vs Al Ittihad Club	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725cfe.m3u8?auth_key=1771718549-0-0-28db07ec99fb761de07dc9d39040190c
-Al Hilal SFC vs Al Ittihad Club SD	https://live.vivo200.com/live/sd-1-4404600.m3u8?txSecret=25c77da28866d02f0e039d5947cdc502&txTime=699A3BA8
-Al Nassr FC vs Al-Hazm	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256176/al-nassr-fc-vs-al-hazem.html
-Al Nassr FC vs Al-Hazm	`1https://viewembed.ru/channel/FoxSoccerPlus[USA]
-Al Nassr FC vs Al-Hazm	`1https://viewembed.ru/channel/ESPN[USA]
-Al Nassr FC vs Al-Hazm	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725cfd.m3u8?auth_key=1771718549-0-0-e671782f90451506a5a105bbaf74ed95
-Al Nassr FC vs Al-Hazm SD	https://live.vivo200.com/live/sd-1-4404601.m3u8?txSecret=14a5bf50c24479b98739d1c8528d4e03&txTime=699A3BA8
-
-02:30 [g]US Major League Soccer[z]	^-
-St. Louis City SC vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4337715/st-louis-city-sc-vs-charlotte-fc.html
-St. Louis City SC vs Charlotte FC	`1https://viewembed.ru/channel/bet11430209
-
-02:45 [y]Italian Serie A[z]	^-
-Cagliari vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194747/cagliari-vs-lazio.html
-Cagliari vs Lazio	`1https://viewembed.ru/channel/SkySports251[Italy]
-Cagliari vs Lazio	`1https://viewembed.ru/channel/ZiggoSport2[Netherlands]
-Cagliari vs Lazio	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e41.m3u8?auth_key=1771713216-0-0-5ea3feca74f5af86acbc487166848149
-Cagliari vs Lazio SD	https://live.vivo200.com/live/sd-1-4339821.m3u8?txSecret=e71514b3cf419d0100894eee8f854155&txTime=699A484A
-Cagliari vs Lazio HD	https://live.vivo200.com/live/hd-en-1-4339821.m3u8?txSecret=64a71d5df0a5effd4bfc4253101cc5f8&txTime=699A484A
-
 03:00 [y]English Premier League[z]	^-
 Manchester City vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193964/manchester-city-vs-newcastle-united.html
 Manchester City vs Newcastle United	`1https://viewembed.ru/channel/TNTSports1[UK]
