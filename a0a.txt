@@ -72,22 +72,26 @@ Toulouse vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200
 Toulouse vs Paris FC	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
 Toulouse vs Paris FC	`1https://viewembed.ru/channel/bet11436378
 Toulouse vs Paris FC	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0665.m3u8?auth_key=1771713216-0-0-5bf4dc53979b128d04bfb97c4105f4e3
+Toulouse vs Paris FC SD	https://live.vivo200.com/live/sd-1-4347886.m3u8?txSecret=5ef3011b8c6b12031fa0fec544962b09&txTime=699A3BBB
+Toulouse vs Paris FC HD	https://live.vivo200.com/live/hd-en-1-4347886.m3u8?txSecret=c7f9f63fa12dfb3bdb0dce89f28a7486&txTime=699A3BBB
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199242/nac-breda-vs-volendam.html
 NAC Breda vs Volendam	`1https://viewembed.ru/channel/ESPN1[Netherlands]
 NAC Breda vs Volendam.	`1https://viewembed.ru/channel/bet11430206
-NAC Breda vs Volendam	`https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5b.m3u8?auth_key=1771713216-0-0-4659dfe31ac567673bbd74146a38c5c1
+NAC Breda vs Volendam	`https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5b.m3u8?auth_key=1771718549-0-0-1460122b51b15ee6348d3d24a27c836f
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256128/al-hilal-vs-al-ittihad-club.html
 Al Hilal SFC vs Al Ittihad Club	`1https://viewembed.ru/channel/SportTV5[Portugal]
 Al Hilal SFC vs Al Ittihad Club	`1https://viewembed.ru/channel/CosmoteSport4[Greece]
-Al Hilal SFC vs Al Ittihad Club	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725cfe.m3u8?auth_key=1771713216-0-0-784270a36e6a8d290e9698c4cbc78676
+Al Hilal SFC vs Al Ittihad Club	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725cfe.m3u8?auth_key=1771718549-0-0-28db07ec99fb761de07dc9d39040190c
+Al Hilal SFC vs Al Ittihad Club SD	https://live.vivo200.com/live/sd-1-4404600.m3u8?txSecret=25c77da28866d02f0e039d5947cdc502&txTime=699A3BA8
 Al Nassr FC vs Al-Hazm	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256176/al-nassr-fc-vs-al-hazem.html
 Al Nassr FC vs Al-Hazm	`1https://viewembed.ru/channel/FoxSoccerPlus[USA]
 Al Nassr FC vs Al-Hazm	`1https://viewembed.ru/channel/ESPN[USA]
-Al Nassr FC vs Al-Hazm	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725cfd.m3u8?auth_key=1771713216-0-0-02e5c7c39e3d4b902f2e39dd20441132
+Al Nassr FC vs Al-Hazm	https://bo2.qiuxun.tv/sla/1-697788809f151a19a6725cfd.m3u8?auth_key=1771718549-0-0-e671782f90451506a5a105bbaf74ed95
+Al Nassr FC vs Al-Hazm SD	https://live.vivo200.com/live/sd-1-4404601.m3u8?txSecret=14a5bf50c24479b98739d1c8528d4e03&txTime=699A3BA8
 
 02:30 [g]US Major League Soccer[z]	^-
 St. Louis City SC vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4337715/st-louis-city-sc-vs-charlotte-fc.html
