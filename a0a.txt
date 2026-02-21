@@ -28,13 +28,6 @@
 
 22.02.2026	^-
 
-00:45 [y]Netherlands Eredivisie[z]	^-
-PSV Eindhoven vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199220/psv-eindhoven-vs-sc-heerenveen.html
-PSV Eindhoven vs SC Heerenveen	`1https://viewembed.ru/channel/ESPN2[Netherlands]
-PSV Eindhoven vs SC Heerenveen.	`1https://viewembed.ru/channel/bet11430208
-PSV Eindhoven vs SC Heerenveen	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5e.m3u8?auth_key=1771710208-0-0-74315203de8366c57928b766c9d6a116
-PSV Eindhoven vs SC Heerenveen SD	https://live.vivo200.com/live/sd-1-4344756.m3u8?txSecret=fc86f2205d9ff1ff915f0b74e5d64cfd&txTime=699A2F08
-
 01:00 [y]French Ligue 1[z]	^-
 Toulouse vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200253/toulouse-fc-vs-paris-fc.html
 Toulouse vs Paris FC	`1https://viewembed.ru/channel/beINSPORTSUSA[USA]
