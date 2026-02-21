@@ -28,29 +28,6 @@
 
 21.02.2026	^-
 
-20:00 [y]Spanish La Liga[z]	^-
-Real Sociedad vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209606/real-sociedad-vs-real-oviedo.html
-Real Sociedad vs Real Oviedo	`1https://viewembed.ru/channel/ESPNDeportes[USA]
-Real Sociedad vs Real Oviedo.	`1https://viewembed.ru/channel/bet11436410
-Real Sociedad vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d51.m3u8?auth_key=1771695313-0-0-10f96958a60282c57335bd6c89f9c8c9
-Real Sociedad vs Real Oviedo	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-
-20:30 Liga 1	^-
-Persijap Jepara vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229520/persatuan-sepakbola-indonesia-jepara-vs-persebaya-surabaya.html
-Persijap Jepara vs Persebaya Surabaya	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d721419c6.m3u8?auth_key=1771695313-0-0-3d78dd6902274b4d742ac07ffedc394c
-Madura United vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229586/madura-united-vs-arema-fc.html
-Madura United vs Arema FC	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d721419c7.m3u8?auth_key=1771695313-0-0-41318f5295a3e59fed08dad468a48d23
-Persis Solo FC vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229522/persis-solo-fc-vs-psbs-biak-numfor.html
-Persis Solo FC vs PSBS Biak Numfor	https://bo2.qiuxun.tv/sla/1-68a919a0d3f484b4dd6ecea6.m3u8?auth_key=1771706590-0-0-349db8c81b75de8937eb8320a6361577
-
-20:30 Liga 2	^-
-Persekat Tegal vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352228/persekat-tegal-vs-psms-medan.html
-Persekat Tegal vs PSMS Medan	`0https://www.marza12.shop/football/2941552-persekat-tegal-vs-psms-medan.html
-PSS Sleman vs Persipura Jayapura	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352231/pss-sleman-vs-persipura-jayapura.html
-PSS Sleman vs Persipura Jayapura	`0https://www.marza12.shop/football/2941553-pss-sleman-vs-persipura-jayapura.html
-Persiku Kudus vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352475/persiku-kudus-vs-persela-lamongan.html
-Persiku Kudus vs Persela Lamongan	`0https://www.marza12.shop/football/2941554-persiku-kudus-vs-persela-lamongan.html
-
 21:00 [y]Italian Serie A[z]	^-
 Juventus vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194651/juventus-vs-como.html
 Juventus vs Como	`1https://viewembed.ru/channel/ArenaPremium3[Serbia]
