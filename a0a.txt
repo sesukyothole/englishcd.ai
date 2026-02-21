@@ -65,6 +65,7 @@ Persiku Kudus vs Persela Lamongan	`0https://www.marza12.shop/football/2941554-pe
 Juventus vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194651/juventus-vs-como.html
 Juventus vs Como	`1https://viewembed.ru/channel/ArenaPremium3[Serbia]
 Juventus vs Como	`1https://viewembed.ru/channel/SportTV2[Portugal]
+Juventus vs Como	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e3e.m3u8?auth_key=1771696743-0-0-652aea736558dc7172013ad3113513c7
 
 21:00 Malaysian Super League	^-
 Negeri Sembilan vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220959/negeri-sembilan-vs-imigresen-fc.html
@@ -79,18 +80,22 @@ VfL Wolfsburg vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-
 VfL Wolfsburg vs FC Augsburg	`1https://viewembed.ru/channel/SkyBundesliga4[Germany]
 VfL Wolfsburg vs FC Augsburg	`1https://viewembed.ru/channel/ArenaSport5[Serbia]
 VfL Wolfsburg vs FC Augsburg.	`1https://viewembed.ru/channel/bet11430154
+VfL Wolfsburg vs FC Augsburg	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114a9a.m3u8?auth_key=1771696743-0-0-499f68409c3b2f55de058decfb8c726c
 Union Berlin vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199725/1-fc-union-berlin-vs-bayer-04-leverkusen.html
 Union Berlin vs Bayer Leverkusen	`1https://viewembed.ru/channel/SkyBundesliga3[Germany]
 Union Berlin vs Bayer Leverkusen	`1https://viewembed.ru/channel/ArenaSport4[Serbia]
 Union Berlin vs Bayer Leverkusen.	`1https://viewembed.ru/channel/bet11430155
+Union Berlin vs Bayer Leverkusen	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114a9b.m3u8?auth_key=1771696743-0-0-8c5664a63ea71b28de0edb8d61dc2310
 Bayern Munchen vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199731/fc-bayern-munich-vs-eintracht-frankfurt.html
 Bayern Munchen vs Eintracht Frankfurt	`1https://viewembed.ru/channel/SkyBundesliga[Germany]
 Bayern Munchen vs Eintracht Frankfurt	`1https://viewembed.ru/channel/SkyBundesliga1[Germany]
 Bayern Munchen vs Eintracht Frankfurt.	`1https://viewembed.ru/channel/bet11430150
+Bayern Munchen vs Eintracht Frankfurt	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114a9d.m3u8?auth_key=1771696743-0-0-24082475998688eb0ab254c878780262
 FC Koln vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199750/fc-kln-vs-tsg-hoffenheim.html
 FC Koln vs TSG Hoffenheim	`1https://viewembed.ru/channel/SkyBundesliga2[Germany]
 FC Koln vs TSG Hoffenheim	`1https://viewembed.ru/channel/ArenaSport3[Serbia]
 FC Koln vs TSG Hoffenheim.	`1https://viewembed.ru/channel/bet11430158
+FC Koln vs TSG Hoffenheim	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114a9c.m3u8?auth_key=1771696743-0-0-c5474f7edce351459ba2b0df972e85a5
 
 22:00 [y]English Premier League[z]	^-
 Chelsea vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193893/chelsea-vs-burnley.html
