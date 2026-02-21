@@ -36,12 +36,14 @@ West Bromwich WBA vs Coventry City	`Fhttps://www.fctv33.net/football/english-foo
 West Bromwich WBA vs Coventry City	`1https://viewembed.ru/channel/SkySportsFootball[UK]
 West Bromwich WBA vs Coventry City.	`1https://viewembed.ru/channel/bet11430149
 West Bromwich WBA vs Coventry City	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d721419cf.m3u8?auth_key=1771695313-0-0-19198b6631d669caade3ee692385d0cb
+West Bromwich WBA vs Coventry City	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 20:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209606/real-sociedad-vs-real-oviedo.html
 Real Sociedad vs Real Oviedo	`1https://viewembed.ru/channel/ESPNDeportes[USA]
 Real Sociedad vs Real Oviedo.	`1https://viewembed.ru/channel/bet11436410
 Real Sociedad vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d51.m3u8?auth_key=1771695313-0-0-10f96958a60282c57335bd6c89f9c8c9
+Real Sociedad vs Real Oviedo	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 
 20:30 Liga 1	^-
 Persijap Jepara vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229520/persatuan-sepakbola-indonesia-jepara-vs-persebaya-surabaya.html
@@ -237,7 +239,6 @@ RCTI	`Fhttps://m.rctiplus.com/tv/rcti
 iNews	`Fhttps://m.rctiplus.com/tv/inews
 
 beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-beIN Sports 1	https://stream.ayas.ir/hls2/bein1.m3u8
 beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 beIN Sports MY 1	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
