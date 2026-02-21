@@ -123,11 +123,17 @@ Aston Villa vs Leeds United HD	https://live.vivo200.com/live/hd-en-1-4343229.m3u
 22:00 [g]English Football League Champ[z]	^-
 Wrexham vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203495/wrexham-vs-ipswich-town.html
 Wrexham vs Ipswich Town.	`1https://viewembed.ru/channel/bet11430175
+Wrexham vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aac.m3u8?auth_key=1771707743-0-0-de1e2827f02ac5e514954192a253dc2b
+Wrexham vs Ipswich Town SD	https://live.vivo200.com/live/sd-1-4351497.m3u8?txSecret=58b1b7134b0ade2803b1ca67ed0fe9be&txTime=699A10FD
 Southampton vs Charlton Athletic	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203505/southampton-vs-charlton-athletic.html
 Southampton vs Charlton Athletic	`1https://viewembed.ru/channel/SportTV6[Portugal]
 Southampton vs Charlton Athletic.	`1https://viewembed.ru/channel/bet11430173
+Southampton vs Charlton Athletic	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d721419d2.m3u8?auth_key=1771707743-0-0-31da32f3dab482f3754613e695184c3d
+Southampton vs Charlton Athletic SD	https://live.vivo200.com/live/sd-1-4351486.m3u8?txSecret=ff728bb7635d5439c1966defa68a45bc&txTime=699A10FD
 Middlesbrough vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203564/middlesbrough-vs-oxford-united.html
 Middlesbrough vs Oxford United	`1https://viewembed.ru/channel/bet11430169
+Middlesbrough vs Oxford United	https://bo2.qiuxun.tv/sla/1-6978da0714caa75d721419d6.m3u8?auth_key=1771707743-0-0-f74036b4d1c38ed35a45920ca64828a1
+Middlesbrough vs Oxford United SD	https://live.vivo200.com/live/sd-1-4351478.m3u8?txSecret=10afa5cb91581b60bee89b5f1dbf0367&txTime=699A10FD
 
 22:15 [y]Spanish La Liga[z]	^-
 Real Betis vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209783/real-betis-vs-rayo-vallecano.html
