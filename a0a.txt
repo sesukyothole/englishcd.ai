@@ -107,18 +107,23 @@ RB Leipzig vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-mat
 RB Leipzig vs Borussia Dortmund	`1https://viewembed.ru/channel/SkySportsFootball[UK]
 RB Leipzig vs Borussia Dortmund.	`1https://viewembed.ru/channel/bet11430153
 RB Leipzig vs Borussia Dortmund	`https://bo2.qiuxun.tv/sla/1-697a2b89cbe5c88a552d882c.m3u8?auth_key=1771710208-0-0-c3c3493b4315579ac279d80c5c332161
+RB Leipzig vs Borussia Dortmund SD	https://live.vivo200.com/live/sd-1-4347562.m3u8?txSecret=a2075155722deea688ea286fdb70acb9&txTime=699A2F08
+RB Leipzig vs Borussia Dortmund HD	https://live.vivo200.com/live/hd-en-1-4347562.m3u8?txSecret=fa21ca51420bc10926d7206762b93da4&txTime=699A2F08
 
 00:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209579/ca-osasuna-vs-real-madrid.html
 Osasuna vs Real Madrid	`1https://viewembed.ru/channel/DaznLaLiga2[Spain]
 Osasuna vs Real Madrid	`1https://viewembed.ru/channel/ESPNDeportes[USA]
 Osasuna vs Real Madrid	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d53.m3u8?auth_key=1771710208-0-0-db5f88140ef01188d50d6bb4d65203fe
+Osasuna vs Real Madrid SD	https://live.vivo200.com/live/sd-1-4358936.m3u8?txSecret=1f41f81e06a087e6a26f6179d31e296b&txTime=699A2F08
+Osasuna vs Real Madrid HD	https://live.vivo200.com/live/hd-en-1-4358936.m3u8?txSecret=d62fc55445a8215cc7f82e079c2460d3&txTime=699A2F08
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199220/psv-eindhoven-vs-sc-heerenveen.html
 PSV Eindhoven vs SC Heerenveen	`1https://viewembed.ru/channel/ESPN2[Netherlands]
 PSV Eindhoven vs SC Heerenveen.	`1https://viewembed.ru/channel/bet11430208
 PSV Eindhoven vs SC Heerenveen	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5e.m3u8?auth_key=1771710208-0-0-74315203de8366c57928b766c9d6a116
+PSV Eindhoven vs SC Heerenveen SD	https://live.vivo200.com/live/sd-1-4344756.m3u8?txSecret=fc86f2205d9ff1ff915f0b74e5d64cfd&txTime=699A2F08
 
 01:00 [y]French Ligue 1[z]	^-
 Toulouse vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200253/toulouse-fc-vs-paris-fc.html
