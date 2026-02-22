@@ -70,7 +70,7 @@ AJ Auxerre vs Rennes	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b066c.m3u8?a
 
 21:00 Malaysian Super League	^-
 Selangor vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220956/selangor-fc-vs-kuching-city-fc.html
-Selangor vs Kuching FA	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e5b.m3u8?auth_key=1771763524-0-0-654be0ff359effa522d76426fb398f2e
+Selangor vs Kuching FA	https://live.vivo200.com/live/sd-1-4374056.m3u8?txSecret=a3c1f5c704993e78251a39b3dd3ecf92&txTime=699B5DDA
 Kuala Lumpur vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221139/kuala-lumpur-city-fc-vs-dpmm-fc.html
 Kuala Lumpur vs DPMM FC	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e5c.m3u8?auth_key=1771763524-0-0-91c347c2ed4b1d4ac08ce5b32ee474ac
 
