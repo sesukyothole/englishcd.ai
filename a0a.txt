@@ -88,40 +88,53 @@ FC Barcelona vs Levante	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d57.m3u
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199241/az-alkmaar-vs-sparta-rotterdam.html
+AZ Alkmaar vs Sparta Rotterdam	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d61.m3u8?auth_key=1771763524-0-0-8c9ec3c41760ae1f5fb97de29a963b42
 
 23:15 [y]French Ligue 1[z]	^-
 Nantes vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200214/fc-nantes-vs-havre-athletic-club.html
+Nantes vs Le Havre	http://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0669.m3u8?auth_key=1771763524-0-0-6caba809e9c0ebd7248c11352ab2dc86
 Angers vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200252/angers-sco-vs-losc-lille.html
+Angers vs Lille	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b066d.m3u8?auth_key=1771763524-0-0-7244dc3282a08cfa4d72023c6ea95c47
 Nice vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200256/ogc-nice-vs-lorient.html
+Nice vs Lorient	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0668.m3u8?auth_key=1771763524-0-0-53e1bb3af00bb8dfff17a50030941d47
 
 23:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193891/tottenham-hotspur-vs-arsenal.html
+Tottenham Hotspur vs Arsenal	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6b1.m3u8?auth_key=1771763524-0-0-7c7aaba584c1dc71b80e48648aba6c4e
 
 23:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199695/fc-st-pauli-vs-sv-werder-bremen.html
+FC St. Pauli vs Werder Bremen	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6b2.m3u8?auth_key=1771763524-0-0-f7f60fe236d04a77267085c538103534
 
 23.02.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
 AC Milan vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194776/ac-milan-vs-parma.html
+AC Milan vs Parma	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e45.m3u8?auth_key=1771763524-0-0-81609b6e90ded1a62c30a1755983b318
 
 00:30 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209785/rc-celta-vs-rcd-mallorca.html
+Real Celta Vigo vs Mallorca	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d55.m3u8?auth_key=1771763524-0-0-87b4caca4766fbbe9f1b28136c44b7ad
 
 01:30 [y]Bundesliga[z]	^-
 1. FC Heidenheim vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199687/1-fc-heidenheim-1846-vs-vfb-stuttgart.html
+1. FC Heidenheim vs VfB Stuttgart	https://bo2.qiuxun.tv/sla/1-697b7cff7b64db8e758bc6fd.m3u8?auth_key=1771763524-0-0-98b0c4c134ec47be7b096d0f4ee2ddcc
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Feyenoord vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199258/feyenoord-vs-sc-telstar.html
+Feyenoord vs SC Telstar	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5f.m3u8?auth_key=1771763524-0-0-7b927f94e1ef286c1a6b993684c1ca5a
 
 02:45 [y]Italian Serie A[z]	^-
 AS Roma vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194746/as-roma-vs-cremonese.html
+AS Roma vs Cremonese	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e44.m3u8?auth_key=1771763524-0-0-676b2991b1f05161e1e80febcfff6fb3
 
 02:45 [y]French Ligue 1[z]	^-
 Strasbourg vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200213/rc-strasbourg-alsace-vs-lyon.html
+Strasbourg vs Lyon	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0666.m3u8?auth_key=1771763524-0-0-9d8d9fc0529978fdd8ea8a890bd282d3
 
 03:00 [y]Spanish La Liga[z]	^-
 Villarreal vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209814/villarreal-cf-vs-valencia-cf.html
+Villarreal vs Valencia	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d52.m3u8?auth_key=1771763524-0-0-49821687fff531a0bd3d3b557ca08ecc
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
