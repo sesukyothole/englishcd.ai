@@ -132,6 +132,12 @@ Strasbourg vs Lyon	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0666.m3u8?aut
 Villarreal vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209814/villarreal-cf-vs-valencia-cf.html
 Villarreal vs Valencia	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d52.m3u8?auth_key=1771763524-0-0-49821687fff531a0bd3d3b557ca08ecc
 
+19:30 Liga 2	^-
+Persipal Palu vs Persiba Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352518/persipal-palu-vs-persiba-balikpapan.html
+
+20:30 Liga 1	^-
+PSIM Yogyakarta vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229518/psim-yogyakarta-vs-bali-united.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
