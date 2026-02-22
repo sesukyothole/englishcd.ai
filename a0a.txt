@@ -28,22 +28,6 @@
 
 22.02.2026	^-
 
-20:30 Liga 1	^-
-Persib Bandung vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229498/persib-bandung-vs-persita-tangerang.html
-Persib Bandung vs Persita Tangerang	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e33.m3u8?auth_key=1771779690-0-0-628b59d0f3864304614235fbee76e0b3
-Dewa United FC vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229605/dewa-united-fc-vs-borneo-fc.html
-Dewa United FC vs Borneo FC	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e32.m3u8?auth_key=1771763524-0-0-11828f830b9e12a7a28203b9596a15be
-
-20:30 Liga 2	^-
-Sumsel United vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352229/sumsel-united-vs-garudayaksa-fc.html
-Sumsel United vs Garudayaksa FC	`0https://www.marza12.shop/football/2941555-sumsel-united-vs-garudayaksa.html
-Deltras Sidoarjo vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352233/deltras-sidoarjo-vs-psis-semarang.html
-Deltras Sidoarjo vs PSIS Semarang	`0https://www.marza12.shop/football/2941557-deltras-sidoarjo-vs-psis-semarang.html
-FC Bekasi City vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352263/fc-bekasi-city-vs-persiraja-aceh.html
-FC Bekasi City vs Persiraja Aceh	`0https://www.marza12.shop/football/2941556-fc-bekasi-city-vs-persiraja-aceh.html
-Barito Putera vs Kendal Tornado FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352474/barito-putera-vs-kendal-tornado-fc.html
-Barito Putera vs Kendal Tornado FC	`0https://www.marza12.shop/football/2941558-barito-putera-vs-beigan-baru-tornado.html
-
 21:00 [y]English Premier League[z]	^-
 Sunderland AFC vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193914/sunderland-vs-fulham.html
 Sunderland AFC vs Fulham	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e3a.m3u8?auth_key=1771763524-0-0-38e39c4d7a1997560169114e234ce7d2
