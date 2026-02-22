@@ -54,11 +54,13 @@ Nice vs Lorient	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0668.m3u8?auth_k
 
 23:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193891/tottenham-hotspur-vs-arsenal.html
-Tottenham Hotspur vs Arsenal	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6b1.m3u8?auth_key=1771763524-0-0-7c7aaba584c1dc71b80e48648aba6c4e
+Tottenham Hotspur vs Arsenal	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6b1.m3u8?auth_key=1771798779-0-0-902137a7358d7b61ed66e3bf43d01006
+Tottenham Hotspur vs Arsenal SD	https://live.vivo200.com/live/sd-1-4343242.m3u8?txSecret=76bfe15ee991a211906e91d93cbfc97a&txTime=699B74C2
+Tottenham Hotspur vs Arsenal HD	https://live.vivo200.com/live/hd-en-1-4343242.m3u8?txSecret=fb2b7c10b18b4b636018f4c4096589d6&txTime=699B74C2
 
 23:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199695/fc-st-pauli-vs-sv-werder-bremen.html
-FC St. Pauli vs Werder Bremen	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6b2.m3u8?auth_key=1771763524-0-0-f7f60fe236d04a77267085c538103534
+FC St. Pauli vs Werder Bremen	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6b2.m3u8?auth_key=1771798779-0-0-cacc18ab3b405b3c8bc75399aeb04af8
 
 23.02.2026	^-
 
