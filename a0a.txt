@@ -28,12 +28,6 @@
 
 22.02.2026	^-
 
-22:15 [y]Spanish La Liga[z]	^-
-FC Barcelona vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209821/fc-barcelona-vs-levante.html
-FC Barcelona vs Levante	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d57.m3u8?auth_key=1771794773-0-0-59e316edfe339aa9d6768360ac14fb41
-FC Barcelona vs Levante SD	https://live.vivo200.com/live/sd-1-4358928.m3u8?txSecret=7651de3e69533eda88e39987ed524291&txTime=699B654A
-FC Barcelona vs Levante HD	https://live.vivo200.com/live/hd-en-1-4358928.m3u8?txSecret=c0f2ed6e0d6635e594a18dbaf86271d9&txTime=699B654A
-
 22:45 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199241/az-alkmaar-vs-sparta-rotterdam.html
 AZ Alkmaar vs Sparta Rotterdam	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d61.m3u8?auth_key=1771763524-0-0-8c9ec3c41760ae1f5fb97de29a963b42
