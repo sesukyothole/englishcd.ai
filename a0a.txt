@@ -28,22 +28,6 @@
 
 23.02.2026	^-
 
-02:00 [y]Netherlands Eredivisie[z]	^-
-Feyenoord vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199258/feyenoord-vs-sc-telstar.html
-Feyenoord vs SC Telstar	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d5f.m3u8?auth_key=1771763524-0-0-7b927f94e1ef286c1a6b993684c1ca5a
-
-02:45 [y]Italian Serie A[z]	^-
-AS Roma vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194746/as-roma-vs-cremonese.html
-AS Roma vs Cremonese	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e44.m3u8?auth_key=1771763524-0-0-676b2991b1f05161e1e80febcfff6fb3
-
-02:45 [y]French Ligue 1[z]	^-
-Strasbourg vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200213/rc-strasbourg-alsace-vs-lyon.html
-Strasbourg vs Lyon	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b0666.m3u8?auth_key=1771763524-0-0-9d8d9fc0529978fdd8ea8a890bd282d3
-
-03:00 [y]Spanish La Liga[z]	^-
-Villarreal vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209814/villarreal-cf-vs-valencia-cf.html
-Villarreal vs Valencia	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3d52.m3u8?auth_key=1771763524-0-0-49821687fff531a0bd3d3b557ca08ecc
-
 19:30 Liga 2	^-
 Persipal Palu vs Persiba Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352518/persipal-palu-vs-persiba-balikpapan.html
 
