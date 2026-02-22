@@ -28,28 +28,6 @@
 
 22.02.2026	^-
 
-21:00 [y]English Premier League[z]	^-
-Sunderland AFC vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193914/sunderland-vs-fulham.html
-Sunderland AFC vs Fulham	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e3a.m3u8?auth_key=1771763524-0-0-38e39c4d7a1997560169114e234ce7d2
-Nottingham Forest vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193915/nottingham-forest-vs-liverpool.html
-Nottingham Forest vs Liverpool	https://bo2.qiuxun.tv/sla/1-6978da077c280e407b114aa8.m3u8?auth_key=1771763524-0-0-bd644c8d2ef77996ed10094ad62bbe81
-Crystal Palace vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193918/crystal-palace-vs-wolverhampton-wanderers.html
-Crystal Palace vs Wolves	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e3b.m3u8?auth_key=1771763524-0-0-3e194ed1d5bb13f1231d52cc0c442a01
-
-21:00 [y]Italian Serie A[z]	^-
-Atalanta vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194745/atalanta-vs-napoli.html
-Atalanta vs Napoli	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e43.m3u8?auth_key=1771763524-0-0-20fd471235175b21efee2c5bdd8c5ccf
-
-21:00 [y]French Ligue 1[z]	^-
-AJ Auxerre vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200242/aj-auxerre-vs-stade-rennais-fc.html
-AJ Auxerre vs Rennes	https://bo2.qiuxun.tv/sla/1-697b7cfe7c280e407b3b066c.m3u8?auth_key=1771763524-0-0-c0266411135bdf08ef4939eaa3a32414
-
-21:00 Malaysian Super League	^-
-Selangor vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220956/selangor-fc-vs-kuching-city-fc.html
-Selangor vs Kuching FA	https://live.vivo200.com/live/sd-1-4374056.m3u8?txSecret=a3c1f5c704993e78251a39b3dd3ecf92&txTime=699B5DDA
-Kuala Lumpur vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221139/kuala-lumpur-city-fc-vs-dpmm-fc.html
-Kuala Lumpur vs DPMM FC	https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e5c.m3u8?auth_key=1771763524-0-0-91c347c2ed4b1d4ac08ce5b32ee474ac
-
 21:30 [y]Bundesliga[z]	^-
 SC Freiburg vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199772/sc-freiburg-vs-borussia-monchengladbach.html
 SC Freiburg vs Br Monchengladbach	https://bo2.qiuxun.tv/sla/1-697a2b89cbe5c88a552d88a9.m3u8?auth_key=1771794773-0-0-0729543e6e86d545503c0afb40caa921
