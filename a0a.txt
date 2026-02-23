@@ -4,6 +4,7 @@
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Shop	`0https://www.marza12.shop/football.html
 ^=Watching CN	`0https://ddkanq.vip/
+^=Test	`0https://lyalive.com/yalla-live-matche/fenerbahce-vs-kasimpasa-turquie---super-lig/28593
 ^=Blank	
 ^=	^-
 
