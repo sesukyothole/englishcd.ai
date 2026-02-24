@@ -28,14 +28,6 @@
 
 24.02.2026	^-
 
-18:30 [l]ASEAN Women's Futsal Championship[z]	^-
-Thailand vs Indonesia	`Fhttps://www.fctv33.net/football/asean-womens-futsal-championship-2026-match-4360242/thailand-vs-indonesia.html
-
-19:00 Liga 1	^-
-Malut United vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229585/malut-united-vs-persatuan-sepakbola-indonesia-jakarta.html
-Malut United vs Persija Jakarta	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1e7.m3u8?auth_key=1771954222-0-0-40ffd172e1e41e39e957f9415985dc83
-Malut United vs Persija Jakarta SD	https://live.vivo200.com/live/sd-1-4379392.m3u8?txSecret=b1deb0dc72c77d9f8bdda4c3059c9091&txTime=699DD443
-
 20:30 Liga 1	^-
 Bhayangkara vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229583/bhayangkara-presisi-indonesia-fc-vs-semen-padang.html
 Bhayangkara vs Semen Padang	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1f0.m3u8?auth_key=1771954222-0-0-018e94771c773d5a15ab0119f01eb50a
@@ -59,6 +51,9 @@ Inter Milan vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-leagu
 Inter Milan vs Bodo Glimt	https://bo2.qiuxun.tv/sla/1-6980a6dbb693b936d0e26d25.m3u8?auth_key=1771954222-0-0-adcf0ce278e1193040df01ca90dc53ff
 Newcastle United vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4356295/newcastle-united-vs-qarabag.html
 Newcastle United vs Qarabag	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1d3.m3u8?auth_key=1771954222-0-0-77625fd66ae0fa0c163f663a2eada009
+
+20:30 Liga 1	^-
+Persebaya Surabaya vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229490/persebaya-surabaya-vs-persatuan-sepakbola-makassar.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
