@@ -28,10 +28,6 @@
 
 25.02.2026	^-
 
-00:45 [y]UEFA Champions League[z]	^-
-Atletico Madrid vs Club Brugge	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349521/atletico-madrid-vs-club-brugge.html
-Atletico Madrid vs Club Brugge	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1d4.m3u8?auth_key=1771954222-0-0-9086f1fc325bbef9c5ddc203cd7be6d6
-
 02:00 [g]Saudi Professional League[z]	^-
 Al-Taawon vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256022/al-taawoun-vs-al-hilal.html
 Al-Taawon vs Al Hilal SFC	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6ce.m3u8?auth_key=1771954222-0-0-44cedced923f9e32cf0a41efdaaa3951
