@@ -37,33 +37,33 @@ Persebaya Surabaya vs PSM Makassar	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c28
 
 21:00 Malaysian Cup	^-
 Melaka FC vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4344630/melaka-fc-vs-johor-darul-tazim-fc.html
-Melaka FC vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b413.m3u8?auth_key=1772032480-0-0-29bb3410ccb703fbd2f2b529d8ffc5c3
+Melaka FC vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b413.m3u8?auth_key=1772047913-0-0-aea0366eb85549f18e4c8c9ae5fa5c00
 
 26.02.2026	^-
 
 00:45 [y]UEFA Champions League[z]	^-
 Atalanta vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4348636/atalanta-vs-borussia-dortmund.html
-Atalanta vs Borussia Dortmund	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b400.m3u8?auth_key=1772032480-0-0-b24184bf6cf6b9bea05348a184abd603
+Atalanta vs Borussia Dortmund	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b400.m3u8?auth_key=1772047913-0-0-60312cab4c3a34dd2c8e6e6f77aedb06
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Najma KSA vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256053/al-najmaksa-vs-al-nassr-fc.html
-Al Najma KSA vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6d1.m3u8?auth_key=1772032480-0-0-c14356dea999c305b035d217e7c53e57
+Al Najma KSA vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6d1.m3u8?auth_key=1772047913-0-0-7fa456adefa6509a9ee87888e2581b76
 
 03:00 [g]English Football League Champ[z]	^-
 Stoke City vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203731/stoke-city-vs-oxford-united.html
-Stoke City vs Oxford United	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3dd.m3u8?auth_key=1772032480-0-0-ad7000810c0de7fb58a7e9a3a333a3ab
+Stoke City vs Oxford United	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3dd.m3u8?auth_key=1772047913-0-0-3c6323c0b462d97be115daeb56862657
 
 03:00 [y]UEFA Champions League[z]	^-
 Juventus vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349634/juventus-vs-galatasaray.html
-Juventus vs Galatasaray	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3ff.m3u8?auth_key=1772032480-0-0-da17aa7b885ab481ed26af7849d1bf07
+Juventus vs Galatasaray	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3ff.m3u8?auth_key=1772047913-0-0-e78ea7ecfec8ffe3f4151f1c0ae222a2
 Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349636/paris-saint-germain-vs-as-monaco.html
-Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3fe.m3u8?auth_key=1772032480-0-0-c5c71acd544aa8854da9489097595eed
+Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3fe.m3u8?auth_key=1772047913-0-0-e71955f0b1604d404e938a34d015e603
 Real Madrid vs Benfica	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349645/real-madrid-vs-benfica.html
-Real Madrid vs Benfica	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1d6.m3u8?auth_key=1772032480-0-0-ceb78fe632e333ba555bc49fd6c3bfe1
+Real Madrid vs Benfica	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1d6.m3u8?auth_key=1772047913-0-0-51fda1e18c2fb93693cf2daedf0cbbd3
 
 09:00 [l]International Friendly[z]	^-
 Mexico vs Iceland	`Fhttps://www.fctv33.net/football/international-friendly-match-4360179/mexico-vs-iceland.html
-Mexico vs Iceland	https://bo2.qiuxun.tv/sla/1-699c808da6c61b22064235cc.m3u8?auth_key=1772032480-0-0-344fbe53c0800214b9f390100c5147bb
+Mexico vs Iceland	https://bo2.qiuxun.tv/sla/1-699c808da6c61b22064235cc.m3u8?auth_key=1772047913-0-0-ac38498376c46b9b0903defb0b60da6e
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
