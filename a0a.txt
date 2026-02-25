@@ -41,15 +41,22 @@ Al Najma KSA vs Al Nassr FC SD	https://live.vivo200.com/live/sd-1-4404375.m3u8?t
 
 03:00 [g]English Football League Champ[z]	^-
 Stoke City vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203731/stoke-city-vs-oxford-united.html
-Stoke City vs Oxford United	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3dd.m3u8?auth_key=1772047913-0-0-3c6323c0b462d97be115daeb56862657
+Stoke City vs Oxford United	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3dd.m3u8?auth_key=1772067553-0-0-4c87110b04d14925abc47044ad585857
+Stoke City vs Oxford United SD	https://live.vivo200.com/live/sd-1-4351505.m3u8?txSecret=5ab015d985aaadb6a1d99ce0a7181985&txTime=699F8EC3
 
 03:00 [y]UEFA Champions League[z]	^-
 Juventus vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349634/juventus-vs-galatasaray.html
-Juventus vs Galatasaray	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3ff.m3u8?auth_key=1772047913-0-0-e78ea7ecfec8ffe3f4151f1c0ae222a2
+Juventus vs Galatasaray	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3ff.m3u8?auth_key=1772067553-0-0-2a0221112b0a392dcd9853be1439f4bd
+Juventus vs Galatasaray SD	https://live.vivo200.com/live/sd-1-4486940.m3u8?txSecret=7b4ff92f9b523ef4c047fa238811070e&txTime=699F8EC3
+Juventus vs Galatasaray HD	https://live.vivo200.com/live/hd-en-1-4486940.m3u8?txSecret=1bd0b472d07c095e7cec9a4c589fe88d&txTime=699F8EC3
 Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349636/paris-saint-germain-vs-as-monaco.html
-Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3fe.m3u8?auth_key=1772047913-0-0-e71955f0b1604d404e938a34d015e603
+Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b3fe.m3u8?auth_key=1772067553-0-0-871a06cec0da11206e2339c2030abcbc
+Paris Saint Germain vs Monaco SD	https://live.vivo200.com/live/sd-1-4486941.m3u8?txSecret=6d1d8251ec241ef75ca8d0cf1a175070&txTime=699F8EC3
+Paris Saint Germain vs Monaco HD	https://live.vivo200.com/live/hd-en-1-4486941.m3u8?txSecret=e583c5b9b9552c8dcbf4871341f8f454&txTime=699F8EC3
 Real Madrid vs Benfica	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4349645/real-madrid-vs-benfica.html
-Real Madrid vs Benfica	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1d6.m3u8?auth_key=1772047913-0-0-51fda1e18c2fb93693cf2daedf0cbbd3
+Real Madrid vs Benfica	https://bo2.qiuxun.tv/sla/1-697cce8163990f1818f4d1d6.m3u8?auth_key=1772067553-0-0-705c7a872665a1c325e949193bd1c672
+Real Madrid vs Benfica SD	https://live.vivo200.com/live/sd-1-4486948.m3u8?txSecret=5c3c17ac689440dbe566d2ffb23ad540&txTime=699F8EC3
+Real Madrid vs Benfica HD	https://live.vivo200.com/live/hd-en-1-4486948.m3u8?txSecret=301f1f6f704f07201da8ed4ae24cfb62&txTime=699F8EC3
 
 09:00 [l]International Friendly[z]	^-
 Mexico vs Iceland	`Fhttps://www.fctv33.net/football/international-friendly-match-4360179/mexico-vs-iceland.html
