@@ -30,11 +30,14 @@
 
 00:45 [y]UEFA Champions League[z]	^-
 Atalanta vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4348636/atalanta-vs-borussia-dortmund.html
-Atalanta vs Borussia Dortmund	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b400.m3u8?auth_key=1772047913-0-0-60312cab4c3a34dd2c8e6e6f77aedb06
+Atalanta vs Borussia Dortmund	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b400.m3u8?auth_key=1772067553-0-0-0aa5db341657bf2eb81e86a39b4b0c14
+Atalanta vs Borussia Dortmund SD	https://live.vivo200.com/live/sd-1-4486938.m3u8?txSecret=7707bd859c5e968eec1ff502cf9cb240&txTime=699F8EDB
+Atalanta vs Borussia Dortmund HD	https://live.vivo200.com/live/hd-en-1-4486938.m3u8?txSecret=d19782e5fe62558e3990f11814c1049f&txTime=699F8EDB
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Najma KSA vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256053/al-najmaksa-vs-al-nassr-fc.html
-Al Najma KSA vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6d1.m3u8?auth_key=1772047913-0-0-7fa456adefa6509a9ee87888e2581b76
+Al Najma KSA vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-697b7cfe7b64db8e758bc6d1.m3u8?auth_key=1772067553-0-0-a06dbc3496fbd2d115b1b12db7a199c7
+Al Najma KSA vs Al Nassr FC SD	https://live.vivo200.com/live/sd-1-4404375.m3u8?txSecret=42531a94d01cd8674081bd2967a769d0&txTime=699F8EC3
 
 03:00 [g]English Football League Champ[z]	^-
 Stoke City vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203731/stoke-city-vs-oxford-united.html
