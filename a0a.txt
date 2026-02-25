@@ -51,6 +51,11 @@ Real Madrid vs Benfica HD	https://live.vivo200.com/live/hd-en-1-4486948.m3u8?txS
 Mexico vs Iceland	`Fhttps://www.fctv33.net/football/international-friendly-match-4360179/mexico-vs-iceland.html
 Mexico vs Iceland	https://bo2.qiuxun.tv/sla/1-699c808da6c61b22064235cc.m3u8?auth_key=1772076497-0-0-0c356b86b53a67c0ee55708a7bb5c9d4
 
+20:30 Liga 1	^-
+Persib Bandung vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229581/persib-bandung-vs-madura-united.html
+Persita Tangerang vs Dewa United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229582/persita-tangerang-vs-dewa-united-fc.html
+Borneo FC vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229587/borneo-fc-vs-arema-fc.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
