@@ -30,12 +30,14 @@
 
 20:30 Liga 1	^-
 Persib Bandung vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229581/persib-bandung-vs-madura-united.html
-Persib Bandung vs Madura United	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6a.m3u8?auth_key=1772134146-0-0-65b0f1815eb6df1459b54ddff7f7d992
-Persib Bandung vs Madura United	https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4879947.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=92d47cdb381839129a06c0c5a698baf9
+Persib Bandung vs Madura United	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6a.m3u8?auth_key=1772136767-0-0-bc0722425f7d7ef58b7583209df6929d
+Persib Bandung vs Madura United SD	https://live.vivo200.com/live/sd-1-4379471.m3u8?txSecret=2f7461eb6a318059f81dfaf3154913a4&txTime=69A09D4A
 Persita Tangerang vs Dewa United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229582/persita-tangerang-vs-dewa-united-fc.html
 Persita Tangerang vs Dewa United	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6b.m3u8?auth_key=1772134146-0-0-eaf661777e4f6cfff2f9cec0b4410a27
+Persita Tangerang vs Dewa United SD	https://live.vivo200.com/live/sd-1-4379440.m3u8?txSecret=55dc7c60fcb163039f5cafe26b24887e&txTime=69A09D4A
 Borneo FC vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229587/borneo-fc-vs-arema-fc.html
 Borneo FC vs Arema FC	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6c.m3u8?auth_key=1772134146-0-0-fc1a52424ade35762b3b9c6c759a92be
+Borneo FC vs Arema FC SD	https://live.vivo200.com/live/sd-1-4379423.m3u8?txSecret=43a488b53155e8b6c3f17f437f60ce32&txTime=69A09D4A
 
 27.02.2026	^-
 
