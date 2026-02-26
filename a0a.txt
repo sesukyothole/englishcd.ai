@@ -28,43 +28,6 @@
 
 27.02.2026	^-
 
-00:45 [y]UEFA Europa League[z]	^-
-Crvena Zvezda vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348317/crvena-zvezda-vs-losc-lillea.html
-Crvena Zvezda vs Lille	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19d6.m3u8?auth_key=1772148975-0-0-4110a4bc4fbbd95ad8a41ce86750ed25
-Crvena Zvezda vs Lille SD	https://live.vivo200.com/live/sd-1-4487152.m3u8?txSecret=f05f465073c917c68526fdff2a488331&txTime=69A0CDFA
-Crvena Zvezda vs Lille HD	https://live.vivo200.com/live/hd-en-1-4487152.m3u8?txSecret=e0aa36762123d6575d9dd873ea675fc7&txTime=69A0CDFA
-VfB Stuttgart vs Celtic FC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348634/vfb-stuttgart-vs-celtic-fca.html
-VfB Stuttgart vs Celtic FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c1.m3u8?auth_key=1772148975-0-0-6c90ed762e78d3eb1cf533d277443fa9
-VfB Stuttgart vs Celtic FC SD	https://live.vivo200.com/live/sd-1-4487149.m3u8?txSecret=aef07e172c3d266a51d8c57dc17dd629&txTime=69A0CDFA
-VfB Stuttgart vs Celtic FC HD	https://live.vivo200.com/live/hd-en-1-4487149.m3u8?txSecret=86428809e6f870d2f072ed0e43635683&txTime=69A0CDFA
-FC Viktoria Plzen vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4349519/fc-viktoria-plzen-vs-panathinaikosa.html
-FC Viktoria Plzen vs Panathinaikos	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c2.m3u8?auth_key=1772148975-0-0-9bf4cec208f44d9385bdf58a114d20a4
-FC Viktoria Plzen vs Panathinaikos SD	https://live.vivo200.com/live/sd-1-4487146.m3u8?txSecret=58878f3393451eb4654597b9e10e749e&txTime=69A0CDFA
-FC Viktoria Plzen vs Panathinaikos HD	https://live.vivo200.com/live/hd-en-1-4487146.m3u8?txSecret=2144af5c15d66f30e9f8b858964df5fb&txTime=69A0CDFA
-Ferencvarosi vs Ludogorets Razgrad	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4351872/ferencvarosi-tc-vs-ludogorets-razgrada.html
-Ferencvarosi vs Ludogorets Razgrad	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c3.m3u8?auth_key=1772148975-0-0-045807990453d5a7d963fca2b2f0b8ff
-Ferencvarosi vs Ludogorets Razgrad SD	https://live.vivo200.com/live/sd-1-4487145.m3u8?txSecret=82bd328851c00fec95e119dd9242e354&txTime=69A0CDFA
-Ferencvarosi vs Ludogorets Razgrad HD	https://live.vivo200.com/live/hd-en-1-4487145.m3u8?txSecret=a880827bf4daadab0166af16ead668b5&txTime=69A0CDFA
-
-00:45 [y]UEFA Europa Conference League[z]	^-
-Publikum Celje vs Drita Gjilan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4335962/nk-publikum-celje-vs-fc-dritaa.html
-Publikum Celje vs Drita Gjilan	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c7.m3u8?auth_key=1772148975-0-0-9e1ef5e37f9be7f9d8eccbbe561210b9
-Publikum Celje vs Drita Gjilan SD	https://live.vivo200.com/live/sd-1-4478583.m3u8?txSecret=c13012f89ad67e76da96e748f1716345&txTime=69A0CDFA
-Samsunspor vs FK Shkendija 79	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4347595/samsunspor-vs-shkendija-tetovoa.html
-Samsunspor vs FK Shkendija 79	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c4.m3u8?auth_key=1772148975-0-0-aaaf8412778b4cb2fecdc672b19f7236
-Samsunspor vs FK Shkendija 79 SD	https://live.vivo200.com/live/sd-1-4478588.m3u8?txSecret=9e79e3865356f4702da97e7fb7576ad3&txTime=69A0CDFA
-Fiorentina vs Jagiellonia Bialystok	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4348665/fiorentina-vs-jagiellonia-bialystoka.html
-Fiorentina vs Jagiellonia Bialystok	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c6.m3u8?auth_key=1772148975-0-0-203fed219a7115a1a0259b629bc599d0
-Fiorentina vs Jagiellonia Bialystok SD	https://live.vivo200.com/live/sd-1-4478584.m3u8?txSecret=1f94f39fb99bd0a50c796d21b24bc728&txTime=69A0CDFA
-Rijeka vs Omonia Nicosia FC	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4349508/rijeka-vs-omonia-nicosia-fca.html
-Rijeka vs Omonia Nicosia FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c5.m3u8?auth_key=1772148975-0-0-b8f3fb490258c9747a1afb9981701a6b
-Rijeka vs Omonia Nicosia FC SD	https://live.vivo200.com/live/sd-1-4478587.m3u8?txSecret=6de4bc2a09fadccfe7473a0d190c7b75&txTime=69A0CDFA
-
-02:00 [g]Saudi Professional League[z]	^-
-Al-Riyadh vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256173/al-riyadh-vs-al-ahli-sfca.html
-Al-Riyadh vs Al Ahli Jeddah	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19b8.m3u8?auth_key=1772152746-0-0-28d7d52f59958923b802272e12cd2cd9
-Al-Riyadh vs Al Ahli Jeddah SD	https://live.vivo200.com/live/sd-1-4404650.m3u8?txSecret=e3031fcb53125b058d0cac87197b7d75&txTime=69A0DB93
-
 03:00 [y]UEFA Europa League[z]	^-
 Nottingham Forest vs Fenerbahce	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348350/nottingham-forest-vs-fenerbahcea.html
 Nottingham Forest vs Fenerbahce	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19d7.m3u8?auth_key=1772156035-0-0-5eba841abdd231f28b1a9b6962e81fd5
