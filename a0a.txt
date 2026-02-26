@@ -28,29 +28,25 @@
 
 27.02.2026	^-
 
-00:45 [y]UEFA Europa Conference League[z]	^-
-NK Publikum Celje vs KF Drita Gjilan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4335962/nk-publikum-celje-vs-fc-dritaa.html
-NK Publikum Celje vs KF Drita Gjilan	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c7.m3u8?auth_key=1772110517-0-0-0b1ff2d8967939e989d64a4bb971f9fb
-Samsunspor vs FK Shkendija 79	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4347595/samsunspor-vs-shkendija-tetovoa.html
-Samsunspor vs FK Shkendija 79	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c4.m3u8?auth_key=1772110517-0-0-a363ba980cc7842207c860d3cb4ed490
-
 00:45 [y]UEFA Europa League[z]	^-
 Crvena Zvezda vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348317/crvena-zvezda-vs-losc-lillea.html
-Crvena Zvezda vs Lille	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19d6.m3u8?auth_key=1772110517-0-0-cdbd345679853ad4a19be77ba897958a
+Crvena Zvezda vs Lille	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19d6.m3u8?auth_key=1772148975-0-0-4110a4bc4fbbd95ad8a41ce86750ed25
 VfB Stuttgart vs Celtic FC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348634/vfb-stuttgart-vs-celtic-fca.html
-VfB Stuttgart vs Celtic FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c1.m3u8?auth_key=1772110517-0-0-da04a18985fc095a50ad11967c016065
+VfB Stuttgart vs Celtic FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c1.m3u8?auth_key=1772148975-0-0-6c90ed762e78d3eb1cf533d277443fa9
+FC Viktoria Plzen vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4349519/fc-viktoria-plzen-vs-panathinaikosa.html
+FC Viktoria Plzen vs Panathinaikos	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c2.m3u8?auth_key=1772148975-0-0-9bf4cec208f44d9385bdf58a114d20a4
+Ferencvarosi TC vs Ludogorets Razgrad	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4351872/ferencvarosi-tc-vs-ludogorets-razgrada.html
+Ferencvarosi TC vs Ludogorets Razgrad	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c3.m3u8?auth_key=1772148975-0-0-045807990453d5a7d963fca2b2f0b8ff
 
 00:45 [y]UEFA Europa Conference League[z]	^-
+NK Publikum Celje vs KF Drita Gjilan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4335962/nk-publikum-celje-vs-fc-dritaa.html
+NK Publikum Celje vs KF Drita Gjilan	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c7.m3u8?auth_key=1772148975-0-0-9e1ef5e37f9be7f9d8eccbbe561210b9
+Samsunspor vs FK Shkendija 79	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4347595/samsunspor-vs-shkendija-tetovoa.html
+Samsunspor vs FK Shkendija 79	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c4.m3u8?auth_key=1772148975-0-0-aaaf8412778b4cb2fecdc672b19f7236
 Fiorentina vs Jagiellonia Bialystok	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4348665/fiorentina-vs-jagiellonia-bialystoka.html
-Fiorentina vs Jagiellonia Bialystok	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c6.m3u8?auth_key=1772110517-0-0-638ed750661c94556623827a97707a4f
+Fiorentina vs Jagiellonia Bialystok	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c6.m3u8?auth_key=1772148975-0-0-203fed219a7115a1a0259b629bc599d0
 Rijeka vs Omonia Nicosia FC	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4349508/rijeka-vs-omonia-nicosia-fca.html
-Rijeka vs Omonia Nicosia FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c5.m3u8?auth_key=1772110517-0-0-f48b6c5ea65f06fc5f58828e02326fb8
-
-00:45 [y]UEFA Europa League[z]	^-
-FC Viktoria Plzen vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4349519/fc-viktoria-plzen-vs-panathinaikosa.html
-FC Viktoria Plzen vs Panathinaikos	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c2.m3u8?auth_key=1772110517-0-0-8daaf058d8c218425ae9e41ef5d9557a
-Ferencvarosi TC vs Ludogorets Razgrad	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4351872/ferencvarosi-tc-vs-ludogorets-razgrada.html
-Ferencvarosi TC vs Ludogorets Razgrad	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c3.m3u8?auth_key=1772110517-0-0-7578815f2610872ee24a0416b406feb4
+Rijeka vs Omonia Nicosia FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c5.m3u8?auth_key=1772148975-0-0-b8f3fb490258c9747a1afb9981701a6b
 
 02:00 [g]Saudi Professional League[z]	^-
 Al-Riyadh vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256173/al-riyadh-vs-al-ahli-sfca.html
