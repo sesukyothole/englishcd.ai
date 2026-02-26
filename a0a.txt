@@ -80,12 +80,6 @@ Indep Jose Teran vs Inter Miami	`Fhttps://www.fctv33.net/football/international-
 	^-
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-tvN Movies	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
-HBO Cinemax	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
-HBO Hits	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -188,20 +182,9 @@ beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/client
 beIN Sports X	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-ESPN 🇦🇷 1	`0https://live.samuraitv.biz.id/p/espn1.html
-ESPN 🇦🇷 2	`0https://live.samuraitv.biz.id/p/espn2_31.html
-ESPN 🇦🇷 3	`0https://live.samuraitv.biz.id/p/espn3_31.html
-ESPN 🇦🇷 3	`0https://live1.jettv.biz.id/p/espn3.html
-ESPN 🇦🇷 4	`0https://live.samuraitv.biz.id/p/espn4_31.html
-ESPN 🇲🇽 1	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-ESPN 🇲🇽 2	https://a.00/1/out/u/dash/ESPN-2-HD/default.mpd!!90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
-ESPN 🇲🇽 3	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-Fox Sports 🇦🇷 1	`0https://live.samuraitv.biz.id/p/foxsport1ar.html
-Fox Sports 🇦🇷 2	`0https://live.samuraitv.biz.id/p/foxsport.html
-Fox Sports 🇦🇷 3	`0https://live.samuraitv.biz.id/p/foxsport_18.html
 Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
