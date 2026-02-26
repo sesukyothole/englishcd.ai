@@ -47,14 +47,18 @@ Ferencvarosi vs Ludogorets Razgrad SD	https://live.vivo200.com/live/sd-1-4487145
 Ferencvarosi vs Ludogorets Razgrad HD	https://live.vivo200.com/live/hd-en-1-4487145.m3u8?txSecret=a880827bf4daadab0166af16ead668b5&txTime=69A0CDFA
 
 00:45 [y]UEFA Europa Conference League[z]	^-
-NK Publikum Celje vs KF Drita Gjilan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4335962/nk-publikum-celje-vs-fc-dritaa.html
-NK Publikum Celje vs KF Drita Gjilan	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c7.m3u8?auth_key=1772148975-0-0-9e1ef5e37f9be7f9d8eccbbe561210b9
+Publikum Celje vs KF Drita Gjilan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4335962/nk-publikum-celje-vs-fc-dritaa.html
+Publikum Celje vs Drita Gjilan	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c7.m3u8?auth_key=1772148975-0-0-9e1ef5e37f9be7f9d8eccbbe561210b9
+Publikum Celje vs Drita Gjilan SD	https://live.vivo200.com/live/sd-1-4478583.m3u8?txSecret=c13012f89ad67e76da96e748f1716345&txTime=69A0CDFA
 Samsunspor vs FK Shkendija 79	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4347595/samsunspor-vs-shkendija-tetovoa.html
 Samsunspor vs FK Shkendija 79	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c4.m3u8?auth_key=1772148975-0-0-aaaf8412778b4cb2fecdc672b19f7236
+Samsunspor vs FK Shkendija 79 SD	https://live.vivo200.com/live/sd-1-4478588.m3u8?txSecret=9e79e3865356f4702da97e7fb7576ad3&txTime=69A0CDFA
 Fiorentina vs Jagiellonia Bialystok	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4348665/fiorentina-vs-jagiellonia-bialystoka.html
 Fiorentina vs Jagiellonia Bialystok	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c6.m3u8?auth_key=1772148975-0-0-203fed219a7115a1a0259b629bc599d0
+Fiorentina vs Jagiellonia Bialystok SD	https://live.vivo200.com/live/sd-1-4478584.m3u8?txSecret=1f94f39fb99bd0a50c796d21b24bc728&txTime=69A0CDFA
 Rijeka vs Omonia Nicosia FC	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4349508/rijeka-vs-omonia-nicosia-fca.html
 Rijeka vs Omonia Nicosia FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c5.m3u8?auth_key=1772148975-0-0-b8f3fb490258c9747a1afb9981701a6b
+Rijeka vs Omonia Nicosia FC SD	https://live.vivo200.com/live/sd-1-4478587.m3u8?txSecret=6de4bc2a09fadccfe7473a0d190c7b75&txTime=69A0CDFA
 
 02:00 [g]Saudi Professional League[z]	^-
 Al-Riyadh vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256173/al-riyadh-vs-al-ahli-sfca.html
