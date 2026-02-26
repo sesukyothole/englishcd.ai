@@ -30,11 +30,11 @@
 
 20:30 Liga 1	^-
 Persib Bandung vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229581/persib-bandung-vs-madura-united.html
-Persib Bandung vs Madura United	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6a.m3u8?auth_key=1772110517-0-0-b3ef23a232cecfbcdba0a94de174159d
+Persib Bandung vs Madura United	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6a.m3u8?auth_key=1772127786-0-0-e2d06c758b89755b160e7e6c004edeab
 Persita Tangerang vs Dewa United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229582/persita-tangerang-vs-dewa-united-fc.html
-Persita Tangerang vs Dewa United	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6b.m3u8?auth_key=1772110517-0-0-ea95b675168f483123043f3a09195728
+Persita Tangerang vs Dewa United	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6b.m3u8?auth_key=1772127786-0-0-5cf740f56c7bcd2ee183b624078c0844
 Borneo FC vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229587/borneo-fc-vs-arema-fc.html
-Borneo FC vs Arema FC	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6c.m3u8?auth_key=1772110517-0-0-1eaef9668a9791dd83eb34573730bdfd
+Borneo FC vs Arema FC	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d6c.m3u8?auth_key=1772127786-0-0-9a433bc67aa61b9d1dc17d96c0287d29
 
 27.02.2026	^-
 
