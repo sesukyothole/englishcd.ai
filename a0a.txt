@@ -28,39 +28,6 @@
 
 27.02.2026	^-
 
-03:00 [y]UEFA Europa League[z]	^-
-Nottingham Forest vs Fenerbahce	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348350/nottingham-forest-vs-fenerbahcea.html
-Nottingham Forest vs Fenerbahce	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19d7.m3u8?auth_key=1772156035-0-0-5eba841abdd231f28b1a9b6962e81fd5
-Nottingham Forest vs Fenerbahce SD	https://live.vivo200.com/live/sd-1-4487150.m3u8?txSecret=d235535f31bf8dba9a03e2de41d1c9b8&txTime=69A0E847
-Nottingham Forest vs Fenerbahce HD	https://live.vivo200.com/live/hd-en-1-4487150.m3u8?txSecret=7b6c0360fdef2b4c58507ca4368926b1&txTime=69A0E847
-Real Celta Vigo vs PAOK Saloniki	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4348369/rc-celta-vs-paok-salonikia.html
-Real Celta Vigo vs PAOK Saloniki	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19d8.m3u8?auth_key=1772156035-0-0-8f499c2227be2b88d35572e9340f75a0
-Real Celta Vigo vs PAOK Saloniki SD	https://live.vivo200.com/live/sd-1-4487148.m3u8?txSecret=4cdf19b88f558818e1a8cd6484aeed0c&txTime=69A0E847
-Real Celta Vigo vs PAOK Saloniki HD	https://live.vivo200.com/live/hd-en-1-4487148.m3u8?txSecret=59edfa7d11ef6c7a20b2d3fcc67bbe9f&txTime=69A0E847
-Racing Genk vs Dinamo Zagreb	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4349509/racing-genk-vs-dinamo-zagreba.html
-Racing Genk vs Dinamo Zagreb	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19d9.m3u8?auth_key=1772156035-0-0-a53dfe6d2b51a8196296551ef015f4f4
-Racing Genk vs Dinamo Zagreb SD	https://live.vivo200.com/live/sd-1-4487147.m3u8?txSecret=cdcb1bf9a9bd1d2bf52f799f9d906fe7&txTime=69A0E847
-Racing Genk vs Dinamo Zagreb HD	https://live.vivo200.com/live/hd-en-1-4487147.m3u8?txSecret=28852f514b401158a1d4fd2629e4bc4e&txTime=69A0E847
-Bologna vs Brann	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4351909/bologna-vs-branna.html
-Bologna vs Brann	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19c0.m3u8?auth_key=1772156035-0-0-ff52867caefbdae33245ad446ffb32fe
-Bologna vs Brann SD	https://live.vivo200.com/live/sd-1-4487151.m3u8?txSecret=b2e4efa3f058b5ddfc7a774a056105c0&txTime=69A0E847
-Bologna vs Brann HD	https://live.vivo200.com/live/hd-en-1-4487151.m3u8?txSecret=48c8613b49e835206a82b010d59860af&txTime=69A0E847
-
-03:00 [y]UEFA Europa Conference League[z]	^-
-Crystal Palace vs Zrinjski Mostar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4343470/crystal-palace-vs-hsk-zrinjski-mostara.html
-Crystal Palace vs Zrinjski Mostar	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19da.m3u8?auth_key=1772156035-0-0-9d5e59b7529c6fea75feb17bfa6e1b6a
-Crystal Palace vs Zrinjski Mostar SD	https://live.vivo200.com/live/sd-1-4478590.m3u8?txSecret=25d1cd0e50a8da17c889afee67b1a654&txTime=69A0E847
-Crystal Palace vs Zrinjski Mostar HD	https://live.vivo200.com/live/hd-en-1-4478590.m3u8?txSecret=421460b6e4f65410e11eeed44ee97571&txTime=69A0E847
-Lech Poznan vs KuPs	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4334452/lech-poznan-vs-kupsa.html
-Lech Poznan vs KuPs	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19dd.m3u8?auth_key=1772156035-0-0-5c54684eb8e392f5ea62b4913d9a00ea
-Lech Poznan vs KuPs SD	https://live.vivo200.com/live/sd-1-4478585.m3u8?txSecret=ff810f1c32a87223cc07ff2e8b3b1dca&txTime=69A0E847
-Lausanne Sports vs Sigma Olomouc	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4338330/lausanne-sports-vs-sigma-olomouca.html
-Lausanne Sports vs Sigma Olomouc	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19db.m3u8?auth_key=1772156035-0-0-f110653a9457faa0c0bd2eb6588acd85
-Lausanne Sports vs Sigma Olomouc SD	https://live.vivo200.com/live/sd-1-4478589.m3u8?txSecret=40028aa5ff74ebf0276209bdd3d7c488&txTime=69A0E847
-AZ Alkmaar vs FC Noah	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4339291/az-alkmaar-vs-fc-noaha.html
-AZ Alkmaar vs FC Noah	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19dc.m3u8?auth_key=1772156035-0-0-3cf1f15fc5c180c98560a95dbcce95e5
-AZ Alkmaar vs FC Noah SD	https://live.vivo200.com/live/sd-1-4478586.m3u8?txSecret=8d190095172b630814b486a89f2610a4&txTime=69A0E847
-
 08:00 [g]International Club Friendly[z]	^-
 Indep Jose Teran vs Inter Miami	`Fhttps://www.fctv33.net/football/international-club-friendly-match-4360225/independiente-del-valle-vs-inter-miami-cfa.html
 Indep Jose Teran vs Inter Miami	https://bo2.qiuxun.tv/sla/1-699c8e9c2d9d4df472d2c134.m3u8?auth_key=1772163579-0-0-28c970285d3735555dcda19376a10748
