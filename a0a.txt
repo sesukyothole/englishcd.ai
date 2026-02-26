@@ -62,7 +62,8 @@ Rijeka vs Omonia Nicosia FC SD	https://live.vivo200.com/live/sd-1-4478587.m3u8?t
 
 02:00 [g]Saudi Professional League[z]	^-
 Al-Riyadh vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256173/al-riyadh-vs-al-ahli-sfca.html
-Al-Riyadh vs Al Ahli Jeddah	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19b8.m3u8?auth_key=1772110517-0-0-3f6d72b0dee31902baa214d0126cbb97
+Al-Riyadh vs Al Ahli Jeddah	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19b8.m3u8?auth_key=1772152746-0-0-28d7d52f59958923b802272e12cd2cd9
+Al-Riyadh vs Al Ahli Jeddah SD	http://player.sportlive.asia/?v=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4404650.flv%3FtxSecret%3De3031fcb53125b058d0cac87197b7d75%26txTime%3D69A0DB93
 
 03:00 [y]UEFA Europa Conference League[z]	^-
 Lech Poznan vs KuPs	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4334452/lech-poznan-vs-kupsa.html
