@@ -28,56 +28,6 @@
 
 28.02.2026	^-
 
-01:45 [g]Portuguese Primera Liga[z]	^-
-FC Porto vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216063/fc-porto-vs-fc-arouca.html
-FC Porto vs FC Arouca	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a79.m3u8?auth_key=1772239324-0-0-d7c272b04e7e14c1634afb63470e88ee
-FC Porto vs FC Arouca SD	https://live.vivo200.com/live/sd-1-4368996.m3u8?txSecret=db70b4d1820abafbefa0ce1f60cfd281&txTime=69A2054A
-
-02:00 [g]Saudi Professional League[z]	^-
-Al Shabab Riyadh vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256174/al-shabab-fc-vs-al-hilal.html
-Al Shabab Riyadh vs Al Hilal SFC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19ba.m3u8?auth_key=1772239324-0-0-1d4e26ca6e90c4a0fb6679b96c0eed91
-Al Shabab Riyadh vs Al Hilal SFC SD	https://live.vivo200.com/live/sd-1-4404641.m3u8?txSecret=203a2b62ab6260767a6d6ae3eca1f17d&txTime=69A2054A
-
-02:30 [y]Bundesliga[z]	^-
-FC Augsburg vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199710/fc-augsburg-vs-fc-kln.html
-FC Augsburg vs FC Koln	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b618.m3u8?auth_key=1772239324-0-0-2e7e6fe52ab12998d864a39f75fc4130
-FC Augsburg vs FC Koln SD	https://live.vivo200.com/live/sd-1-4347567.m3u8?txSecret=e72f8e369f0a994787d3a491d8b26cba&txTime=69A22E02
-FC Augsburg vs FC Koln HD	https://live.vivo200.com/live/hd-en-1-4347567.m3u8?txSecret=e8e9ff689da7ee123edef0ddc7639d90&txTime=69A22E02
-
-02:45 [y]Italian Serie A[z]	^-
-Parma vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194777/parma-vs-cagliari.html
-Parma vs Cagliari	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dab.m3u8?auth_key=1772239324-0-0-f0b771e8374f4a656a945aded98883de
-Parma vs Cagliari SD	https://live.vivo200.com/live/sd-1-4339840.m3u8?txSecret=536d729b2628bfa710cfcb8f2fca0592&txTime=69A22E06
-Parma vs Cagliari HD	https://live.vivo200.com/live/hd-en-1-4339840.m3u8?txSecret=6184b2c9c8cbfc42580d2809e3b53342&txTime=69A22E06
-
-02:45 [g]Belgian Pro League[z]	^-
-Standard Liege vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199002/standard-liege-vs-raal-la-louvire.html
-Standard Liege vs LaLouviere	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b61f.m3u8?auth_key=1772242946-0-0-e7762ba7ffa1dd8fc8b475e7eac2c7e4
-Standard Liege vs LaLouviere SD	https://live.vivo200.com/live/sd-1-4347229.m3u8?txSecret=21717f22ed34278e40d4c64f0edf2220&txTime=69A23C12
-
-02:45 [y]French Ligue 1[z]	^-
-Strasbourg vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200283/rc-strasbourg-alsace-vs-rc-lens.html
-Strasbourg vs Lens	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b61e.m3u8?auth_key=1772239324-0-0-4be9fd9e972ee8953283e851e555d4e7
-Strasbourg vs Lens SD	https://live.vivo200.com/live/sd-1-4347895.m3u8?txSecret=34461104761b373a630542ec33f2912d&txTime=69A22E06
-Strasbourg vs Lens HD	https://live.vivo200.com/live/hd-en-1-4347895.m3u8?txSecret=9ba44d0c22faee288caf68edc33f4f36&txTime=69A22E06
-
-03:00 [y]English Premier League[z]	^-
-Wolves vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194009/wolverhampton-wanderers-vs-aston-villa.html
-Wolves vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b628.m3u8?auth_key=1772243066-0-0-bd8488975bf90a83c71da49c5e802246
-Wolves vs Aston Villa SD	https://live.vivo200.com/live/sd-1-4343274.m3u8?txSecret=182f68664e413ee5a72538d7ef4184cf&txTime=69A23C8A
-Wolves vs Aston Villa HD	https://live.vivo200.com/live/hd-en-1-4343274.m3u8?txSecret=2f227701fa7dd16f77e26fb1e57987cd&txTime=69A23C8A
-
-03:00 [g]English Football League Champ[z]	^-
-Bristol City vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203694/bristol-city-vs-watford.html
-Bristol City vs Watford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fcf.m3u8?auth_key=1772243066-0-0-bc75152c5ba6bbe0e1e96065705e5d4c
-Bristol City vs Watford SD	https://live.vivo200.com/live/sd-1-4351526.m3u8?txSecret=65568b684581cae722c9efc8b05ca7b7&txTime=69A23C8A
-
-03:00 [y]Spanish La Liga[z]	^-
-Levante vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209841/levante-vs-deportivo-alavs.html
-Levante vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c95.m3u8?auth_key=1772243066-0-0-709ae61efc60163c90654afa46b4bab6
-Levante vs Deportivo Alavés SD	https://live.vivo200.com/live/sd-1-4358948.m3u8?txSecret=f0c3d6236e4b9b9ae620fc80a55c9c10&txTime=69A23C8A
-Levante vs Deportivo Alavés HD	https://live.vivo200.com/live/hd-en-1-4358948.m3u8?txSecret=369d02200a49c8d32a7e4fd6b4ece01c&txTime=69A23C8A
-
 03:45 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216041/sporting-cp-vs-estoril.html
 Sporting CP vs Estoril	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a75.m3u8?auth_key=1772243066-0-0-215821910ea38c6475806053b32fc5c2
