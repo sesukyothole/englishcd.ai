@@ -48,36 +48,48 @@ Terengganu vs Kuala Lumpur	https://bo2.qiuxun.tv/sla/1-6980c2fc02bc90c280c37cbc.
 
 00:00 [g]Turkish Super League[z]	^-
 Trabzonspor vs Karagumruk	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216764/trabzonspor-vs-karagumruk.html
+Trabzonspor vs Karagumruk	http://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5aff.m3u8?auth_key=1772215976-0-0-9b52edba1f6ea781bad59bf8afe2ac31
+Trabzonspor vs Karagumruk	https://live.vivo200.com/live/sd-1-4366105.m3u8?txSecret=5235f248ca25f6884ec98beeed251861&txTime=69A1D29D
 
 01:45 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216063/fc-porto-vs-fc-arouca.html
+FC Porto vs FC Arouca	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a79.m3u8?auth_key=1772215976-0-0-90a48084949b881abf58f2ef764c5887
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Shabab Riyadh vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256174/al-shabab-fc-vs-al-hilal.html
+Al Shabab Riyadh vs Al Hilal SFC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19ba.m3u8?auth_key=1772215976-0-0-c5728abd79ced1c93f948355bc6dc45f
 
 02:30 [y]Bundesliga[z]	^-
 FC Augsburg vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199710/fc-augsburg-vs-fc-kln.html
+FC Augsburg vs FC Koln	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b618.m3u8?auth_key=1772215976-0-0-21c47457f7daf25279f3350ebb728023
 
 02:45 [y]Italian Serie A[z]	^-
 Parma vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194777/parma-vs-cagliari.html
+Parma vs Cagliari	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dab.m3u8?auth_key=1772215976-0-0-e0d50eefb9d6a3dd452d147959493d78
 
 02:45 [g]Belgian Pro League[z]	^-
 Standard Liege vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199002/standard-liege-vs-raal-la-louvire.html
+Standard Liege vs LaLouviere	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b61f.m3u8?auth_key=1772215976-0-0-371e20eeb8f94e19a70c7f2e425cd011
 
 02:45 [y]French Ligue 1[z]	^-
 Strasbourg vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200283/rc-strasbourg-alsace-vs-rc-lens.html
+Strasbourg vs Lens	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b61e.m3u8?auth_key=1772215976-0-0-8902b630e7dd30accaca1171df147248
 
 03:00 [y]English Premier League[z]	^-
 Wolves vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194009/wolverhampton-wanderers-vs-aston-villa.html
+Wolves vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b628.m3u8?auth_key=1772215976-0-0-0646b4bb809ed3e2c319b0aa8dd38976
 
 03:00 [g]English Football League Champ[z]	^-
 Bristol City vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203694/bristol-city-vs-watford.html
+Bristol City vs Watford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fcf.m3u8?auth_key=1772215976-0-0-36ae4f64887922c4ddfd221be60c2bdd
 
 03:00 [y]Spanish La Liga[z]	^-
 Levante vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209841/levante-vs-deportivo-alavs.html
+Levante vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c95.m3u8?auth_key=1772215976-0-0-f64d762dcef8e13697df60f1ca99def6
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216041/sporting-cp-vs-estoril.html
+Sporting CP vs Estoril	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a75.m3u8?auth_key=1772215976-0-0-6bc3ad28e3dd12fb6d1e2a6bb1312178
 
 08:00 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322473/mazatlan-fc-vs-pachuca.html
