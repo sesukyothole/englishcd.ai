@@ -52,8 +52,8 @@ Parma vs Cagliari HD	https://live.vivo200.com/live/hd-en-1-4339840.m3u8?txSecret
 
 02:45 [g]Belgian Pro League[z]	^-
 Standard Liege vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199002/standard-liege-vs-raal-la-louvire.html
-Standard Liege vs LaLouviere	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b61f.m3u8?auth_key=1772239324-0-0-db913c3b90aa3e049368371ce01fef7e
-Standard Liege vs LaLouviere SD	https://live.vivo200.com/live/sd-1-4347229.m3u8?txSecret=12564fe327ab3f8afb85a4996baa43f4&txTime=69A22E06
+Standard Liege vs LaLouviere	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b61f.m3u8?auth_key=1772242946-0-0-e7762ba7ffa1dd8fc8b475e7eac2c7e4
+Standard Liege vs LaLouviere SD	https://live.vivo200.com/live/sd-1-4347229.m3u8?txSecret=21717f22ed34278e40d4c64f0edf2220&txTime=69A23C12
 
 02:45 [y]French Ligue 1[z]	^-
 Strasbourg vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200283/rc-strasbourg-alsace-vs-rc-lens.html
