@@ -30,7 +30,8 @@
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216041/sporting-cp-vs-estoril.html
-Sporting CP vs Estoril	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a75.m3u8?auth_key=1772243066-0-0-215821910ea38c6475806053b32fc5c2
+Sporting CP vs Estoril	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a75.m3u8?auth_key=1772251511-0-0-9a7b4b7355fefc2f87da66b5d843d63f
+Sporting CP vs Estoril	https://live.trendgallary.com/live/61731358_b05ec4b4cc107d05d29df4361dcbd3c2_h1080p.m3u8
 
 08:00 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322473/mazatlan-fc-vs-pachuca.html
