@@ -35,7 +35,11 @@ Melbourne Victory vs Adelaide Utd SD	https://live.vivo200.com/live/sd-1-4426680.
 
 17:00 [g]Japanese J1 League[z]	^-
 Vissel Kobe vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331649/vissel-kobe-vs-avispa-fukuoka.html
+Vissel Kobe vs Avispa Fukuoka	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19f9.m3u8?auth_key=1772202050-0-0-dadf0af311158ea314085c3a69580c8f
+Vissel Kobe vs Avispa Fukuoka SD	https://live.vivo200.com/live/sd-1-4470750.m3u8?txSecret=c5afa5812d5bdcdaeb15a9f952d87ac7&txTime=69A19C3A
 Hiroshima Sanfrecce vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331696/sanfrecce-hiroshima-vs-kyoto-sanga.html
+Hiroshima Sanfrecce vs Kyoto Sanga	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19fa.m3u8?auth_key=1772202050-0-0-5c3931391fc1755d04f32c64e993ecf5
+Hiroshima Sanfrecce vs Kyoto Sanga SD	https://live.vivo200.com/live/sd-1-4470748.m3u8?txSecret=f26a3c6c52fdb1ef008d07da13ad2901&txTime=69A19C3A
 
 17:00 [g]Japanese J1 League[z]	^-
 Machida Zelvia vs JEF Utd Ichihara	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331755/machida-zelvia-vs-jef-united-ichihara-chiba.html
