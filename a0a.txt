@@ -40,9 +40,9 @@ Vissel Kobe vs Avispa Fukuoka SD	https://live.vivo200.com/live/sd-1-4470750.m3u8
 Hiroshima Sanfrecce vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331696/sanfrecce-hiroshima-vs-kyoto-sanga.html
 Hiroshima Sanfrecce vs Kyoto Sanga	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19fa.m3u8?auth_key=1772202050-0-0-5c3931391fc1755d04f32c64e993ecf5
 Hiroshima Sanfrecce vs Kyoto Sanga SD	https://live.vivo200.com/live/sd-1-4470748.m3u8?txSecret=f26a3c6c52fdb1ef008d07da13ad2901&txTime=69A19C3A
-
-17:00 [g]Japanese J1 League[z]	^-
 Machida Zelvia vs JEF Utd Ichihara	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331755/machida-zelvia-vs-jef-united-ichihara-chiba.html
+Machida Zelvia vs JEF Utd Ichihara	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19fb.m3u8?auth_key=1772202050-0-0-cf11caaf7be1d1aea6b2f268373c7955
+Machida Zelvia vs JEF Utd Ichihara SD	https://live.vivo200.com/live/sd-1-4470658.m3u8?txSecret=e0797ab004588aefe6ccf578768a11e9&txTime=69A19C3A
 
 20:15 Malaysian Super League	^-
 Kelantan United vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221021/kelantan-the-real-warriors-vs-dpmm-fc.html
