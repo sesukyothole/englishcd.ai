@@ -63,19 +63,24 @@ Strasbourg vs Lens HD	https://live.vivo200.com/live/hd-en-1-4347895.m3u8?txSecre
 
 03:00 [y]English Premier League[z]	^-
 Wolves vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194009/wolverhampton-wanderers-vs-aston-villa.html
-Wolves vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b628.m3u8?auth_key=1772215976-0-0-0646b4bb809ed3e2c319b0aa8dd38976
+Wolves vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b628.m3u8?auth_key=1772243066-0-0-bd8488975bf90a83c71da49c5e802246
+Wolves vs Aston Villa SD	https://live.vivo200.com/live/sd-1-4343274.m3u8?txSecret=182f68664e413ee5a72538d7ef4184cf&txTime=69A23C8A
+Wolves vs Aston Villa HD	https://live.vivo200.com/live/hd-en-1-4343274.m3u8?txSecret=2f227701fa7dd16f77e26fb1e57987cd&txTime=69A23C8A
 
 03:00 [g]English Football League Champ[z]	^-
 Bristol City vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203694/bristol-city-vs-watford.html
-Bristol City vs Watford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fcf.m3u8?auth_key=1772215976-0-0-36ae4f64887922c4ddfd221be60c2bdd
+Bristol City vs Watford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fcf.m3u8?auth_key=1772243066-0-0-bc75152c5ba6bbe0e1e96065705e5d4c
+Bristol City vs Watford SD	https://live.vivo200.com/live/sd-1-4351526.m3u8?txSecret=65568b684581cae722c9efc8b05ca7b7&txTime=69A23C8A
 
 03:00 [y]Spanish La Liga[z]	^-
 Levante vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209841/levante-vs-deportivo-alavs.html
-Levante vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c95.m3u8?auth_key=1772215976-0-0-f64d762dcef8e13697df60f1ca99def6
+Levante vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c95.m3u8?auth_key=1772243066-0-0-709ae61efc60163c90654afa46b4bab6
+Levante vs Deportivo Alavés SD	https://live.vivo200.com/live/sd-1-4358948.m3u8?txSecret=f0c3d6236e4b9b9ae620fc80a55c9c10&txTime=69A23C8A
+Levante vs Deportivo Alavés HD	https://live.vivo200.com/live/hd-en-1-4358948.m3u8?txSecret=369d02200a49c8d32a7e4fd6b4ece01c&txTime=69A23C8A
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216041/sporting-cp-vs-estoril.html
-Sporting CP vs Estoril	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a75.m3u8?auth_key=1772215976-0-0-6bc3ad28e3dd12fb6d1e2a6bb1312178
+Sporting CP vs Estoril	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a75.m3u8?auth_key=1772243066-0-0-215821910ea38c6475806053b32fc5c2
 
 08:00 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322473/mazatlan-fc-vs-pachuca.html
