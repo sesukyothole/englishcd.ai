@@ -28,11 +28,6 @@
 
 27.02.2026	^-
 
-15:35 [g]Australia A-League[z]	^-
-Melbourne Victory vs Adelaide Utd	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282206/melbourne-victory-vs-adelaide-united.html
-Melbourne Victory vs Adelaide Utd	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19f1.m3u8?auth_key=1772202050-0-0-5f30f5409d2274367428989439a71656
-Melbourne Victory vs Adelaide Utd SD	https://live.vivo200.com/live/sd-1-4426680.m3u8?txSecret=9211664ba7af95880e7b78893a3c552d&txTime=69A19C3A
-
 17:00 [g]Japanese J1 League[z]	^-
 Vissel Kobe vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331649/vissel-kobe-vs-avispa-fukuoka.html
 Vissel Kobe vs Avispa Fukuoka	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19f9.m3u8?auth_key=1772202050-0-0-dadf0af311158ea314085c3a69580c8f
