@@ -28,11 +28,6 @@
 
 28.02.2026	^-
 
-18:30 [g]Thai League 1[z]	^-
-Lamphun Warrior vs Bangkok United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320297/lamphun-warriors-vs-bangkok-united-fc.html
-Lamphun Warrior vs Bangkok United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f62.m3u8?auth_key=1772293171-0-0-330983e49f4fdf4bf363df44c50403c3
-Lamphun Warrior vs Bangkok United SD	https://live.vivo200.com/live/sd-1-4463901.m3u8?txSecret=865d4dbd159996b2970d2b60d9e02083&txTime=69A30005
-
 19:00 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320294/ratchaburi-fc-vs-uthai-thani-forest.html
 Ratchaburi FC vs Uthai Thani Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f76.m3u8?auth_key=1772293171-0-0-7bfe251979d730e9d6953c0f1e8152e1
@@ -57,7 +52,7 @@ Kocaelispor vs Besiktas JK SD	https://live.vivo200.com/live/sd-1-4366156.m3u8?tx
 
 20:15 Malaysian Super League	^-
 Sabah vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221029/sabah-fc-vs-negeri-sembilan.html
-Sabah vs Negeri Sembilan	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6a9.m3u8?auth_key=1772303682-0-0-cf9a0d54f2d36f9dbb8fe321a40014fa
+Sabah vs Negeri Sembilan	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6a9.m3u8?auth_key=1772306962-0-0-47cb2f73ae23675f7f5e4b7ddcffb96b
 Sabah vs Negeri Sembilan SD	https://live.vivo200.com/live/sd-1-4374059.m3u8?txSecret=4f194fcaa456d4e5413a1c1aa5842c78&txTime=69A32948
 
 20:30 Liga 1	^-
@@ -77,27 +72,41 @@ Persikad Depok vs Persiraja Aceh	`0https://www.marza12.shop/football/2941562-per
 
 21:00 [y]Italian Serie A[z]	^-
 Como vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194679/como-vs-lecce.html
-Como vs Lecce	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dae.m3u8?auth_key=1772303682-0-0-3fdc9a623b7c41de328a995b81bc4ef3
+Como vs Lecce	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dae.m3u8?auth_key=1772306962-0-0-98e926fe660df042d6fd74cce31530f7
 Como vs Lecce SD	https://live.vivo200.com/live/sd-1-4339835.m3u8?txSecret=f6758b2d90c08af17e81508d50a2b380&txTime=69A32948
 Como vs Lecce HD	https://live.vivo200.com/live/hd-en-1-4339835.m3u8?txSecret=f2bc5a8513c9ab841820dcad897df2aa&txTime=69A32948
 
 21:30 [y]Bundesliga[z]	^-
 Werder Bremen vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199709/sv-werder-bremen-vs-1-fc-heidenheim-1846.html
-Werder Bremen vs 1. FC Heidenheim	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb6.m3u8?auth_key=1772294494-0-0-8c7fe9833c3ba8dcb05e5fea5f564ad9
+Werder Bremen vs 1. FC Heidenheim	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb6.m3u8?auth_key=1772306962-0-0-9cb024cf708e76b4965eb7096ab248db
+Werder Bremen vs 1. FC Heidenheim SD	https://live.vivo200.com/live/sd-1-4347575.m3u8?txSecret=4cd90508915916715f0daefad8638e08&txTime=69A33606
+Werder Bremen vs 1. FC Heidenheim HD	https://live.vivo200.com/live/hd-en-1-4347575.m3u8?txSecret=1fa72b35c49bbac1c64a82183fbdd3fd&txTime=69A33606
 Bayer Leverkusen vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199716/bayer-04-leverkusen-vs-1-fsv-mainz-05.html
-Bayer Leverkusen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb9.m3u8?auth_key=1772294494-0-0-8a4f843a04387be67f33e0d2057d547f
+Bayer Leverkusen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb9.m3u8?auth_key=1772306962-0-0-e7b6c3b3803688c8cb5da357e33c3b55
+Bayer Leverkusen vs FSV Mainz 05 SD	https://live.vivo200.com/live/sd-1-4347568.m3u8?txSecret=2b7b3c8889f1f2a222a0566f7e21d171&txTime=69A33606
+Bayer Leverkusen vs FSV Mainz 05 HD	https://live.vivo200.com/live/hd-en-1-4347568.m3u8?txSecret=e340a80145d03dbe93f9784447ec8154&txTime=69A33606
 TSG Hoffenheim vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199726/tsg-hoffenheim-vs-fc-st-pauli.html
-TSG Hoffenheim vs FC St. Pauli	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb7.m3u8?auth_key=1772294494-0-0-12c3341c7d5107b4631ba5d3be104dc3
+TSG Hoffenheim vs FC St. Pauli	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb7.m3u8?auth_key=1772306962-0-0-e4a9f4c953d4358a06c555b03a2fa0b5
+TSG Hoffenheim vs FC St. Pauli SD	https://live.vivo200.com/live/sd-1-4347573.m3u8?txSecret=8016d51f57b1bae537e8d90f8d9c1d1a&txTime=69A33606
+TSG Hoffenheim vs FC St. Pauli HD	https://live.vivo200.com/live/hd-en-1-4347573.m3u8?txSecret=9cffb8d696c625e136cadc2d00533a8a&txTime=69A33606
 Br Monchengladbach vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199738/borussia-monchengladbach-vs-1-fc-union-berlin.html
-Br Monchengladbach vs Union Berlin	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb8.m3u8?auth_key=1772294494-0-0-b487b07e0dbc71fe251b62c08a5160cc
+Br Monchengladbach vs Union Berlin	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb8.m3u8?auth_key=1772306962-0-0-850f756f3661192d2266ceaed66363ca
+Br Monchengladbach vs Union Berlin SD	https://live.vivo200.com/live/sd-1-4347569.m3u8?txSecret=bd636011c19b12630447315318aeadc3&txTime=69A33606
+Br Monchengladbach vs Union Berlin HD	https://live.vivo200.com/live/hd-en-1-4347569.m3u8?txSecret=3516957376c7b3bc1fb1bcb60278b5fd&txTime=69A33606
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193917/burnley-vs-brentford.html
-Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772294494-0-0-395d526f7adfb1dd15cf1bb0b79b5606
+Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772306962-0-0-8703edd3e813213ff2b826a8aa48cce3
+Burnley vs Brentford SD	https://live.vivo200.com/live/sd-1-4343260.m3u8?txSecret=cc06c3f31dd765c6a84721b7cfdfd3b0&txTime=69A33606
+Burnley vs Brentford HD	https://live.vivo200.com/live/hd-en-1-4343260.m3u8?txSecret=d8159d630a9d670689684c22e4839925&txTime=69A33606
 Liverpool vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193920/liverpool-vs-west-ham-united.html
-Liverpool vs West Ham United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc2.m3u8?auth_key=1772294494-0-0-d75305770a3038dc6adef6a6ef267315
+Liverpool vs West Ham United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc2.m3u8?auth_key=1772306962-0-0-db4333582bad51dadb34f2f072374fb4
+Liverpool vs West Ham United SD	https://live.vivo200.com/live/sd-1-4343268.m3u8?txSecret=daec4d0a902ffcd58791d172e8fff063&txTime=69A33606
+Liverpool vs West Ham United HD	https://live.vivo200.com/live/hd-en-1-4343268.m3u8?txSecret=935bfc64d26631f9b4f413f3c3209eef&txTime=69A33606
 Newcastle United vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193967/newcastle-united-vs-everton.html
-Newcastle United vs Everton	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc1.m3u8?auth_key=1772294494-0-0-1a7ce84d90e68a699834324c9c8f126c
+Newcastle United vs Everton	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc1.m3u8?auth_key=1772306962-0-0-fc73e28590cc68809cb9b783b30bf81f
+Newcastle United vs Everton SD	https://live.vivo200.com/live/sd-1-4343272.m3u8?txSecret=acd6bb96f352506573ca6b0b2907319d&txTime=69A33606
+Newcastle United vs Everton HD	https://live.vivo200.com/live/hd-en-1-4343272.m3u8?txSecret=20ef5f0631fc9b02973dcdfc025b9223&txTime=69A33606
 
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209815/fc-barcelona-vs-villarreal-cf.html
