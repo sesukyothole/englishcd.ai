@@ -45,28 +45,29 @@ Ratchaburi FC vs Uthai Thani Forest SD	https://live.vivo200.com/live/sd-1-446390
 
 19:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193919/bournemouth-afc-vs-sunderland.html
-Bournemouth AFC vs Sunderland AFC	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f75.m3u8?auth_key=1772293171-0-0-41a7b285fadd75afec404ad60023e26a
+Bournemouth AFC vs Sunderland AFC	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f75.m3u8?auth_key=1772303682-0-0-f61c3897e054c2c1e5290da07996b89f
 Bournemouth AFC vs Sunderland AFC SD	https://live.vivo200.com/live/sd-1-4343254.m3u8?txSecret=d8c8a48067d2ef5c9a7e6ef016de3416&txTime=69A30008
 Bournemouth AFC vs Sunderland AFC HD	https://live.vivo200.com/live/hd-en-1-4343254.m3u8?txSecret=833c137c05cc6e54289e2d6cf868a8cf&txTime=69A32954
 
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209784/rayo-vallecano-vs-athletic-club.html
-Rayo Vallecano vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c94.m3u8?auth_key=1772293171-0-0-a36239d274ac6c5b1693a95ba595d324
+Rayo Vallecano vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c94.m3u8?auth_key=1772303682-0-0-979619df26ed02a94942bf2bc326eb39
 Rayo Vallecano vs Athletic Bilbao SD	https://live.vivo200.com/live/sd-1-4358949.m3u8?txSecret=78468ee78d3bb721369628295d2e5d88&txTime=69A317CB
 Rayo Vallecano vs Athletic Bilbao HD	https://live.vivo200.com/live/hd-en-1-4358949.m3u8?txSecret=8d7d61eaaf94b17a4b4b5e1107ed26b0&txTime=69A317CB
 
 20:00 [g]Turkish Super League[z]	^-
 Kocaelispor vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216787/kocaelispor-vs-besiktas-jk.html
-Kocaelispor vs Besiktas JK	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5af9.m3u8?auth_key=1772293171-0-0-68f0e25a53bfbe921328fc820e606e0d
+Kocaelispor vs Besiktas JK	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5af9.m3u8?auth_key=1772303682-0-0-309a89396bbbfa425df870d407cea70a
 Kocaelispor vs Besiktas JK SD	https://live.vivo200.com/live/sd-1-4366156.m3u8?txSecret=3fc37b747198f5d4cb7b1dcf277a4294&txTime=69A317CB
 
 20:15 Malaysian Super League	^-
 Sabah vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221029/sabah-fc-vs-negeri-sembilan.html
-Sabah vs Negeri Sembilan	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6a9.m3u8?auth_key=1772293171-0-0-3554278193dad65973eda7cca962ee7d
+Sabah vs Negeri Sembilan	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6a9.m3u8?auth_key=1772303682-0-0-cf9a0d54f2d36f9dbb8fe321a40014fa
+Sabah vs Negeri Sembilan SD	https://live.vivo200.com/live/sd-1-4374059.m3u8?txSecret=4f194fcaa456d4e5413a1c1aa5842c78&txTime=69A32948
 
 20:30 Liga 1	^-
 Bali United vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229608/bali-united-vs-persatuan-sepakbola-indonesia-jepara.html
-Bali United vs Persijap Jepara	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6ae.m3u8?auth_key=1772293171-0-0-36dee0e1217898eaa062d976c65e8415
+Bali United vs Persijap Jepara	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6ae.m3u8?auth_key=1772303682-0-0-85bd4135e2c1de2cc46675d05a088f8a
 
 20:30 Liga 2	^-
 Sumsel United vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352226/sumsel-united-vs-sriwijaya-fc.html
@@ -80,7 +81,9 @@ Persikad Depok vs Persiraja Aceh	`0https://www.marza12.shop/football/2941562-per
 
 21:00 [y]Italian Serie A[z]	^-
 Como vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194679/como-vs-lecce.html
-Como vs Lecce	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dae.m3u8?auth_key=1772294494-0-0-3ff85786b688c7ff29f6005a4ebca1cd
+Como vs Lecce	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dae.m3u8?auth_key=1772303682-0-0-3fdc9a623b7c41de328a995b81bc4ef3
+Como vs Lecce SD	https://live.vivo200.com/live/sd-1-4339835.m3u8?txSecret=f6758b2d90c08af17e81508d50a2b380&txTime=69A32948
+Como vs Lecce HD	https://live.vivo200.com/live/hd-en-1-4339835.m3u8?txSecret=f2bc5a8513c9ab841820dcad897df2aa&txTime=69A32948
 
 21:30 [y]Bundesliga[z]	^-
 Werder Bremen vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199709/sv-werder-bremen-vs-1-fc-heidenheim-1846.html
