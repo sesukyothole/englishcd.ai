@@ -28,12 +28,6 @@
 
 28.02.2026	^-
 
-19:30 [y]English Premier League[z]	^-
-Bournemouth AFC vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193919/bournemouth-afc-vs-sunderland.html
-Bournemouth AFC vs Sunderland AFC	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f75.m3u8?auth_key=1772303682-0-0-f61c3897e054c2c1e5290da07996b89f
-Bournemouth AFC vs Sunderland AFC SD	https://live.vivo200.com/live/sd-1-4343254.m3u8?txSecret=d8c8a48067d2ef5c9a7e6ef016de3416&txTime=69A30008
-Bournemouth AFC vs Sunderland AFC HD	https://live.vivo200.com/live/hd-en-1-4343254.m3u8?txSecret=833c137c05cc6e54289e2d6cf868a8cf&txTime=69A32954
-
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209784/rayo-vallecano-vs-athletic-club.html
 Rayo Vallecano vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c94.m3u8?auth_key=1772303682-0-0-979619df26ed02a94942bf2bc326eb39
@@ -91,29 +85,29 @@ Br Monchengladbach vs Union Berlin HD	https://live.vivo200.com/live/hd-en-1-4347
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193917/burnley-vs-brentford.html
-Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772306962-0-0-8703edd3e813213ff2b826a8aa48cce3
+Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772312103-0-0-bde3aa5cebc32bb366b361e03b250579
 Burnley vs Brentford SD	https://live.vivo200.com/live/sd-1-4343260.m3u8?txSecret=cc06c3f31dd765c6a84721b7cfdfd3b0&txTime=69A33606
 Burnley vs Brentford HD	https://live.vivo200.com/live/hd-en-1-4343260.m3u8?txSecret=d8159d630a9d670689684c22e4839925&txTime=69A33606
 Liverpool vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193920/liverpool-vs-west-ham-united.html
-Liverpool vs West Ham United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc2.m3u8?auth_key=1772306962-0-0-db4333582bad51dadb34f2f072374fb4
+Liverpool vs West Ham United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc2.m3u8?auth_key=1772312103-0-0-c8c07581787d585a2f35b5c1c5f4c2d4
 Liverpool vs West Ham United SD	https://live.vivo200.com/live/sd-1-4343268.m3u8?txSecret=daec4d0a902ffcd58791d172e8fff063&txTime=69A33606
 Liverpool vs West Ham United HD	https://live.vivo200.com/live/hd-en-1-4343268.m3u8?txSecret=935bfc64d26631f9b4f413f3c3209eef&txTime=69A33606
 Newcastle United vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193967/newcastle-united-vs-everton.html
-Newcastle United vs Everton	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc1.m3u8?auth_key=1772306962-0-0-fc73e28590cc68809cb9b783b30bf81f
+Newcastle United vs Everton	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc1.m3u8?auth_key=1772312103-0-0-db535b04ddd5b7c5da44e9711bf3a2b9
 Newcastle United vs Everton SD	https://live.vivo200.com/live/sd-1-4343272.m3u8?txSecret=acd6bb96f352506573ca6b0b2907319d&txTime=69A33606
 Newcastle United vs Everton HD	https://live.vivo200.com/live/hd-en-1-4343272.m3u8?txSecret=20ef5f0631fc9b02973dcdfc025b9223&txTime=69A33606
 
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209815/fc-barcelona-vs-villarreal-cf.html
-FC Barcelona vs Villarreal	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c99.m3u8?auth_key=1772294494-0-0-b2c48184ea84394c3638418942452d9c
+FC Barcelona vs Villarreal	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c99.m3u8?auth_key=1772312103-0-0-fb29a7351790f062f3762bb7481fd76c
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216036/avs-futebol-sad-vs-cf-estrela-amadora-sad.html
-AVS Futebol vs Estrela da Amadora	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a7b.m3u8?auth_key=1772294494-0-0-de73b5aad53e0923d6fdcb03c8282ea3
+AVS Futebol vs Estrela da Amadora	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a7b.m3u8?auth_key=1772312103-0-0-07ee4b786c40657928242596eaf32229
 
 23:00 [y]French Ligue 1[z]	^-
 Rennes vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200287/stade-rennais-fc-vs-toulouse-fc.html
-Rennes vs Toulouse	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9a.m3u8?auth_key=1772294494-0-0-f1a0e68ad6286b67388ccdfe6cb4e80e
+Rennes vs Toulouse	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9a.m3u8?auth_key=1772312103-0-0-a2b66e041aa4a02c1c372d2e65af36b7
 
 01.03.2026	^-
 
