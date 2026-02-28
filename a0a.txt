@@ -28,11 +28,6 @@
 
 28.02.2026	^-
 
-22:30 [g]Portuguese Primera Liga[z]	^-
-AVS Futebol vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216036/avs-futebol-sad-vs-cf-estrela-amadora-sad.html
-AVS Futebol vs Estrela da Amadora	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a7b.m3u8?auth_key=1772317371-0-0-f10734b65c86b567f34937b3f8a694f3
-AVS Futebol vs Estrela da Amadora SD	https://live.vivo200.com/live/sd-1-4368994.m3u8?txSecret=733fa46bdae6752bba3f99006414c085&txTime=69A34C29
-
 23:00 [y]French Ligue 1[z]	^-
 Rennes vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200287/stade-rennais-fc-vs-toulouse-fc.html
 Rennes vs Toulouse	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9a.m3u8?auth_key=1772317371-0-0-d090c61d69ee8a3111be1246ba0077b5
@@ -130,6 +125,9 @@ Toluca vs Chivas Guadalajara	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4
 Atletico San Luis vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322477/atletico-san-luis-vs-puebla.html
 Atletico San Luis vs Puebla	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d44.m3u8?auth_key=1772319762-0-0-8222179540736d92d8874dd49c0d54b8
 
+07:30 [g]US Major League Soccer[z]	^-
+Real Salt Lake vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317305/real-salt-lake-vs-seattle-sounders.html
+
 08:05 [g]Mexico Liga MX[z]	^-
 Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322483/monterrey-vs-cruz-azul.html
 Monterrey vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4f.m3u8?auth_key=1772319762-0-0-a9464ac2ac9dbc9e6127890dcedb23fb
@@ -142,6 +140,12 @@ Talleres Cordoba vs San Lorenzo	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a
 
 09:00 [g]Australia A-League[z]	^-
 Wellington Phoenix vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282135/wellington-phoenix-vs-sydney-fc.html
+
+10:10 [g]Mexico Liga MX[z]	^-
+Club America vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322482/club-america-vs-tigres-uanl.html
+
+10:30 [g]US Major League Soccer[z]	^-
+Los Angeles Galaxy vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4332956/los-angeles-galaxy-vs-charlotte-fc.html
 
 12:00 [g]Japanese J1 League[z]	^-
 Fagiano Okayama vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331662/fagiano-okayama-vs-nagoya-grampus.html
