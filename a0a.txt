@@ -28,20 +28,6 @@
 
 28.02.2026	^-
 
-22:00 [y]English Premier League[z]	^-
-Burnley vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193917/burnley-vs-brentford.html
-Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772313316-0-0-b3cf02ba49b7e563a887480c040b1658
-Burnley vs Brentford SD	https://live.vivo200.com/live/sd-1-4343260.m3u8?txSecret=cc06c3f31dd765c6a84721b7cfdfd3b0&txTime=69A33606
-Burnley vs Brentford HD	https://live.vivo200.com/live/hd-en-1-4343260.m3u8?txSecret=d8159d630a9d670689684c22e4839925&txTime=69A33606
-Liverpool vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193920/liverpool-vs-west-ham-united.html
-Liverpool vs West Ham United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc2.m3u8?auth_key=1772313316-0-0-9292c2dc32c344ab8835ac0b3c5393f3
-Liverpool vs West Ham United SD	https://live.vivo200.com/live/sd-1-4343268.m3u8?txSecret=daec4d0a902ffcd58791d172e8fff063&txTime=69A33606
-Liverpool vs West Ham United HD	https://live.vivo200.com/live/hd-en-1-4343268.m3u8?txSecret=935bfc64d26631f9b4f413f3c3209eef&txTime=69A33606
-Newcastle United vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193967/newcastle-united-vs-everton.html
-Newcastle United vs Everton	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc1.m3u8?auth_key=1772313316-0-0-eaaf1cae59efc6413b181728f3fb7462
-Newcastle United vs Everton SD	https://live.vivo200.com/live/sd-1-4343272.m3u8?txSecret=acd6bb96f352506573ca6b0b2907319d&txTime=69A33606
-Newcastle United vs Everton HD	https://live.vivo200.com/live/hd-en-1-4343272.m3u8?txSecret=20ef5f0631fc9b02973dcdfc025b9223&txTime=69A33606
-
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209815/fc-barcelona-vs-villarreal-cf.html
 FC Barcelona vs Villarreal	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c99.m3u8?auth_key=1772313316-0-0-3ad2a4a83562ce29329869f2fb1c668f
@@ -56,8 +42,8 @@ AVS Futebol vs Estrela da Amadora SD	https://live.vivo200.com/live/sd-1-4368994.
 23:00 [y]French Ligue 1[z]	^-
 Rennes vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200287/stade-rennais-fc-vs-toulouse-fc.html
 Rennes vs Toulouse	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9a.m3u8?auth_key=1772317371-0-0-d090c61d69ee8a3111be1246ba0077b5
-Rennes vs Toulouse SD	https://live.vivo200.com/live/sd-1-4347894.flv?txSecret=b311cb585277e65e21ee6f4ed1189af9&txTime=69A34C2E
-Rennes vs Toulouse HD	https://live.vivo200.com/live/hd-en-1-4347894.flv?txSecret=2bc1af7d568a0007fd463249854113ee&txTime=69A34C2E
+Rennes vs Toulouse SD	https://live.vivo200.com/live/sd-1-4347894.m3u8?txSecret=b311cb585277e65e21ee6f4ed1189af9&txTime=69A34C2E
+Rennes vs Toulouse HD	https://live.vivo200.com/live/hd-en-1-4347894.m3u8?txSecret=2bc1af7d568a0007fd463249854113ee&txTime=69A34C2E
 
 01.03.2026	^-
 
@@ -111,12 +97,19 @@ Chicago Fire vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194654/inter-milan-vs-genoa.html
+Inter Milan vs Genoa	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dac.m3u8?auth_key=1772319762-0-0-91ac1946f4596d978484ec5978018098
+Inter Milan vs Genoa SD	https://live.vivo200.com/live/sd-1-4339838.m3u8?txSecret=a1f74aff97a8681239d8595cff58eeb1&txTime=69A36717
+Inter Milan vs Genoa HD	https://live.vivo200.com/live/hd-en-1-4339838.m3u8?txSecret=31a1f99cce53d484f98a79af23155591&txTime=69A36717
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199330/nec-nijmegen-vs-fortuna-sittard.html
+NEC Nijmegen vs Fortuna Sittard	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9f.m3u8?auth_key=1772319762-0-0-453c65ba5db3e1258f5f8bd2db0eb6c3
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209659/real-oviedo-vs-atletico-madrid.html
+Real Oviedo vs Atletico Madrid	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c93.m3u8?auth_key=1772319762-0-0-7b3f3c77b536e45508b306825778cc80
+Real Oviedo vs Atletico Madrid SD	https://live.vivo200.com/live/sd-1-4358950.m3u8?txSecret=2be98f4afd0f0053bb8bec68d94b280b&txTime=69A36717
+Real Oviedo vs Atletico Madrid HD	https://live.vivo200.com/live/hd-en-1-4358950.m3u8?txSecret=902c7eabef53e15c261247b94056ab78&txTime=69A36717
 
 03:05 [y]French Ligue 1[z]	^-
 Le Havre vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200286/havre-athletic-club-vs-paris-saint-germain.html
