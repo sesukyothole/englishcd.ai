@@ -47,7 +47,7 @@ Ratchaburi FC vs Uthai Thani Forest SD	https://live.vivo200.com/live/sd-1-446390
 Bournemouth AFC vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193919/bournemouth-afc-vs-sunderland.html
 Bournemouth AFC vs Sunderland AFC	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f75.m3u8?auth_key=1772293171-0-0-41a7b285fadd75afec404ad60023e26a
 Bournemouth AFC vs Sunderland AFC SD	https://live.vivo200.com/live/sd-1-4343254.m3u8?txSecret=d8c8a48067d2ef5c9a7e6ef016de3416&txTime=69A30008
-Bournemouth AFC vs Sunderland AFC HD	https://live.vivo200.com/live/hd-en-1-4343254.m3u8?txSecret=5bf1405b7c8ff350f43f8073e57f9128&txTime=69A30008
+Bournemouth AFC vs Sunderland AFC HD	https://live.vivo200.com/live/hd-en-1-4343254.m3u8?txSecret=833c137c05cc6e54289e2d6cf868a8cf&txTime=69A32954
 
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209784/rayo-vallecano-vs-athletic-club.html
