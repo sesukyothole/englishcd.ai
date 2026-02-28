@@ -26,14 +26,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-28.02.2026	^-
-
-23:00 [y]French Ligue 1[z]	^-
-Rennes vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200287/stade-rennais-fc-vs-toulouse-fc.html
-Rennes vs Toulouse	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9a.m3u8?auth_key=1772317371-0-0-d090c61d69ee8a3111be1246ba0077b5
-Rennes vs Toulouse SD	https://live.vivo200.com/live/sd-1-4347894.m3u8?txSecret=b311cb585277e65e21ee6f4ed1189af9&txTime=69A34C2E
-Rennes vs Toulouse HD	https://live.vivo200.com/live/hd-en-1-4347894.m3u8?txSecret=2bc1af7d568a0007fd463249854113ee&txTime=69A34C2E
-
 01.03.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
