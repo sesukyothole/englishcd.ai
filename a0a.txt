@@ -44,6 +44,9 @@ Atletico San Luis vs Puebla SD	https://live.vivo200.com/live/sd-1-4465525.m3u8?t
 Real Salt Lake vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317305/real-salt-lake-vs-seattle-sounders.html
 Real Salt Lake vs Seattle Sounders	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4d.m3u8?auth_key=1772343223-0-0-3ea0dedaaa962fc0bc1566a0bb5f8427
 Real Salt Lake vs Seattle Sounders SD	https://live.vivo200.com/live/sd-1-4460013.m3u8?txSecret=839082604cd2ccf8c8c363c856d42d56&txTime=69A3C3D0
+San Jose Earthquakes vs Atlanta Utd	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4321443/san-jose-earthquakes-vs-atlanta-united.html
+San Jose Earthquakes vs Atlanta Utd	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4c.m3u8?auth_key=1772343223-0-0-7077255c68ce4fc5a12ceccc12d28fef
+San Jose Earthquakes vs Atlanta Utd	https://live.vivo200.com/live/sd-1-4460014.m3u8?txSecret=e9d56387838a1b532a1a2288fdab4efa&txTime=69A3C3D0
 
 08:05 [g]Mexico Liga MX[z]	^-
 Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322483/monterrey-vs-cruz-azul.html
