@@ -55,27 +55,28 @@ Club Leon vs Necaxa SD	https://live.vivo200.com/live/sd-1-4465528.m3u8?txSecret=
 
 08:15 [g]Argentine Division 1[z]	^-
 Talleres Cordoba vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321955/talleres-cordoba-vs-san-lorenzo.html
-Talleres Cordoba vs San Lorenzo	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b27.m3u8?auth_key=1772321540-0-0-0a816853a4c1c6cd74df9a1a1c2731d8
+Talleres Cordoba vs San Lorenzo	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b27.m3u8?auth_key=1772343223-0-0-0a09355cf268a73b1af13cdac32ee9cc
+Talleres Cordoba vs San Lorenzo SD	https://live.vivo200.com/live/sd-1-4465036.m3u8?txSecret=38efa4a67a4f97d74442069789f7d4af&txTime=69A3C3D1
 
 09:00 [g]Australia A-League[z]	^-
 Wellington Phoenix vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282135/wellington-phoenix-vs-sydney-fc.html
-Wellington Phoenix vs Sydney FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e071.m3u8?auth_key=1772321540-0-0-433405669e62b8575ebb1e228986e95c
+Wellington Phoenix vs Sydney FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e071.m3u8?auth_key=1772343223-0-0-3548ddc0a8f2501598e72488c0599d60
 
 10:10 [g]Mexico Liga MX[z]	^-
 Club America vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322482/club-america-vs-tigres-uanl.html
-Club America vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e075.m3u8?auth_key=1772321540-0-0-4ed138f55f3fdaa7277053fbed3b7348
+Club America vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e075.m3u8?auth_key=1772343223-0-0-a79ad675267e4ad0958ec14b3755a86b
 
 10:30 [g]US Major League Soccer[z]	^-
 Los Angeles Galaxy vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4332956/los-angeles-galaxy-vs-charlotte-fc.html
-Los Angeles Galaxy vs Charlotte FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e077.m3u8?auth_key=1772321540-0-0-9251d3bbd1d43a8e30ec8b8ed3b76484
+Los Angeles Galaxy vs Charlotte FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e077.m3u8?auth_key=1772343223-0-0-8395c7ad9885984e6f77084365ad190f
 
 12:00 [g]Japanese J1 League[z]	^-
 Fagiano Okayama vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331662/fagiano-okayama-vs-nagoya-grampus.html
-Fagiano Okayama vs Nagoya Grampus	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e07b.m3u8?auth_key=1772321540-0-0-ae7b0751fcc72f24e153c611ea4ef3d0
+Fagiano Okayama vs Nagoya Grampus	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e07b.m3u8?auth_key=1772343223-0-0-dd9f96a31eee7ee446c56c8564962e2b
 
 14:00 [g]Japanese J1 League[z]	^-
 Kawasaki Frontale vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331739/kawasaki-frontale-vs-mito-hollyhock.html
-Kawasaki Frontale vs Mito Hollyhock	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e089.m3u8?auth_key=1772321540-0-0-bc367a07278f0a60647b789e76b1471c
+Kawasaki Frontale vs Mito Hollyhock	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e089.m3u8?auth_key=1772343223-0-0-0f335b57b31228af4a9413124904e57e
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
