@@ -28,11 +28,6 @@
 
 28.02.2026	^-
 
-18:00 [g]Thai League 1[z]	^-
-Chonburi Shark vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320287/chonburi-fc-vs-ayutthaya-united.html
-Chonburi Shark vs Ayutthaya United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f4e.m3u8?auth_key=1772293171-0-0-8d70de782e63f5c5bfc7e62972c698fe
-Chonburi Shark vs Ayutthaya United SD	https://live.vivo200.com/live/sd-1-4463900.m3u8?txSecret=f26f81a03f9ed253abc47c1d45e645c4&txTime=69A30002
-
 18:30 [g]Thai League 1[z]	^-
 Lamphun Warrior vs Bangkok United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320297/lamphun-warriors-vs-bangkok-united-fc.html
 Lamphun Warrior vs Bangkok United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f62.m3u8?auth_key=1772293171-0-0-330983e49f4fdf4bf363df44c50403c3
@@ -67,7 +62,8 @@ Sabah vs Negeri Sembilan SD	https://live.vivo200.com/live/sd-1-4374059.m3u8?txSe
 
 20:30 Liga 1	^-
 Bali United vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229608/bali-united-vs-persatuan-sepakbola-indonesia-jepara.html
-Bali United vs Persijap Jepara	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6ae.m3u8?auth_key=1772303682-0-0-85bd4135e2c1de2cc46675d05a088f8a
+Bali United vs Persijap Jepara	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6ae.m3u8?auth_key=1772306962-0-0-8bbb760a3fde1d8eb17c32af3de3a49f
+Bali United vs Persijap Jepara SD	https://live.vivo200.com/live/sd-1-4379430.m3u8?txSecret=6b8eef007d0d65007e011eff13408d19&txTime=69A335EA
 
 20:30 Liga 2	^-
 Sumsel United vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352226/sumsel-united-vs-sriwijaya-fc.html
