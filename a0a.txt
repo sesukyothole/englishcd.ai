@@ -74,21 +74,21 @@ Br Monchengladbach vs Union Berlin HD	https://live.vivo200.com/live/hd-en-1-4347
 
 22:00 [y]English Premier League[z]	^-
 Burnley vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193917/burnley-vs-brentford.html
-Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772312103-0-0-bde3aa5cebc32bb366b361e03b250579
+Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772313316-0-0-b3cf02ba49b7e563a887480c040b1658
 Burnley vs Brentford SD	https://live.vivo200.com/live/sd-1-4343260.m3u8?txSecret=cc06c3f31dd765c6a84721b7cfdfd3b0&txTime=69A33606
 Burnley vs Brentford HD	https://live.vivo200.com/live/hd-en-1-4343260.m3u8?txSecret=d8159d630a9d670689684c22e4839925&txTime=69A33606
 Liverpool vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193920/liverpool-vs-west-ham-united.html
-Liverpool vs West Ham United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc2.m3u8?auth_key=1772312625-0-0-a70b89ca313e8c033490ff4383ccdf09
+Liverpool vs West Ham United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc2.m3u8?auth_key=1772313316-0-0-9292c2dc32c344ab8835ac0b3c5393f3
 Liverpool vs West Ham United SD	https://live.vivo200.com/live/sd-1-4343268.m3u8?txSecret=daec4d0a902ffcd58791d172e8fff063&txTime=69A33606
 Liverpool vs West Ham United HD	https://live.vivo200.com/live/hd-en-1-4343268.m3u8?txSecret=935bfc64d26631f9b4f413f3c3209eef&txTime=69A33606
 Newcastle United vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193967/newcastle-united-vs-everton.html
-Newcastle United vs Everton	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc1.m3u8?auth_key=1772312103-0-0-db535b04ddd5b7c5da44e9711bf3a2b9
+Newcastle United vs Everton	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc1.m3u8?auth_key=1772313316-0-0-eaaf1cae59efc6413b181728f3fb7462
 Newcastle United vs Everton SD	https://live.vivo200.com/live/sd-1-4343272.m3u8?txSecret=acd6bb96f352506573ca6b0b2907319d&txTime=69A33606
 Newcastle United vs Everton HD	https://live.vivo200.com/live/hd-en-1-4343272.m3u8?txSecret=20ef5f0631fc9b02973dcdfc025b9223&txTime=69A33606
 
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209815/fc-barcelona-vs-villarreal-cf.html
-FC Barcelona vs Villarreal	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c99.m3u8?auth_key=1772312625-0-0-454fee7bd613f26565953a9cc88db407
+FC Barcelona vs Villarreal	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c99.m3u8?auth_key=1772313316-0-0-3ad2a4a83562ce29329869f2fb1c668f
 FC Barcelona vs Villarreal SD	https://live.vivo200.com/live/sd-1-4358942.m3u8?txSecret=683728b5b653628ead7eda66c7ce4f05&txTime=69A34C29
 FC Barcelona vs Villarreal HD	https://live.vivo200.com/live/hd-en-1-4358942.m3u8?txSecret=bfe0cde28b7e41d873c6ed168ca3748c&txTime=69A34C29
 
