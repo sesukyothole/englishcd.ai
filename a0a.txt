@@ -41,6 +41,7 @@ Lamphun Warrior vs Bangkok United SD	https://live.vivo200.com/live/sd-1-4463901.
 19:00 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320294/ratchaburi-fc-vs-uthai-thani-forest.html
 Ratchaburi FC vs Uthai Thani Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f76.m3u8?auth_key=1772293171-0-0-7bfe251979d730e9d6953c0f1e8152e1
+Ratchaburi FC vs Uthai Thani Forest SD	https://live.vivo200.com/live/sd-1-4463903.m3u8?txSecret=d4878d23f073601786223301ce6957de&txTime=69A317CB
 
 19:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193919/bournemouth-afc-vs-sunderland.html
@@ -51,10 +52,13 @@ Bournemouth AFC vs Sunderland AFC HD	https://live.vivo200.com/live/hd-en-1-43432
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209784/rayo-vallecano-vs-athletic-club.html
 Rayo Vallecano vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c94.m3u8?auth_key=1772293171-0-0-a36239d274ac6c5b1693a95ba595d324
+Rayo Vallecano vs Athletic Bilbao SD	https://live.vivo200.com/live/sd-1-4358949.m3u8?txSecret=78468ee78d3bb721369628295d2e5d88&txTime=69A317CB
+Rayo Vallecano vs Athletic Bilbao HD	https://live.vivo200.com/live/hd-en-1-4358949.m3u8?txSecret=8d7d61eaaf94b17a4b4b5e1107ed26b0&txTime=69A317CB
 
 20:00 [g]Turkish Super League[z]	^-
 Kocaelispor vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216787/kocaelispor-vs-besiktas-jk.html
 Kocaelispor vs Besiktas JK	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5af9.m3u8?auth_key=1772293171-0-0-68f0e25a53bfbe921328fc820e606e0d
+Kocaelispor vs Besiktas JK SD	https://live.vivo200.com/live/sd-1-4366156.m3u8?txSecret=3fc37b747198f5d4cb7b1dcf277a4294&txTime=69A317CB
 
 20:15 Malaysian Super League	^-
 Sabah vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221029/sabah-fc-vs-negeri-sembilan.html
