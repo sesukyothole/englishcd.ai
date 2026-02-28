@@ -44,19 +44,25 @@ Goztepe vs Eyupspor SD	https://live.vivo200.com/live/sd-1-4366151.m3u8?txSecret=
 
 00:15 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198972/royal-antwerp-vs-sint-truidense.html
-Royal Antwerp vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e052.m3u8?auth_key=1772317371-0-0-86e9b4a51585a2bbe4da2da812f0e7ea
+Royal Antwerp vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e052.m3u8?auth_key=1772325274-0-0-efd90cb7faa8c98fd1313ec8600b7dcf
 
 00:30 [y]English Premier League[z]	^-
 Leeds United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193963/leeds-united-vs-manchester-city.html
-Leeds United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e053.m3u8?auth_key=1772317371-0-0-a5e446dba3c7e2b197f174475d56b500
+Leeds United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e053.m3u8?auth_key=1772325274-0-0-7de1e6653894e199a5d95389189ac7f9
+Leeds United vs Manchester City SD	https://live.vivo200.com/live/sd-1-4343265.m3u8?txSecret=a2b4a634fdedeb350fa41935aeb98198&txTime=69A37DB3
+Leeds United vs Manchester City HD	https://live.vivo200.com/live/hd-en-1-4343265.m3u8?txSecret=e2755eaeda4c67186e6e6e8f1d935ac6&txTime=69A37DB3
 
 00:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199717/borussia-dortmund-vs-fc-bayern-munich.html
-Borussia Dortmund vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e054.m3u8?auth_key=1772317371-0-0-4be3520bea7075667787a66a33fde959
+Borussia Dortmund vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e054.m3u8?auth_key=1772325274-0-0-6ff70674185dfbb4f008498216f302d3
+Borussia Dortmund vs Bayern Munchen SD	https://live.vivo200.com/live/sd-1-4347570.m3u8?txSecret=850229c5b6a17e2f449a3d54dd0f2676&txTime=69A37DB3
+Borussia Dortmund vs Bayern Munchen HD	https://live.vivo200.com/live/hd-en-1-4347570.m3u8?txSecret=493aa1394861fc5c155bab4d232c752e&txTime=69A37DB3
 
 00:30 [y]Spanish La Liga[z]	^-
 Mallorca vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209655/rcd-mallorca-vs-real-sociedad.html
-Mallorca vs Real Sociedad	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c96.m3u8?auth_key=1772317371-0-0-06a84c8df31d15c1e01520e247bc3d93
+Mallorca vs Real Sociedad	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c96.m3u8?auth_key=1772325274-0-0-272db02f4c68029f5c12de38f995c70d
+Mallorca vs Real Sociedad SD	https://live.vivo200.com/live/sd-1-4358946.m3u8?txSecret=8c80664b260af41050f79bbd7d42d0a0&txTime=69A37DB3
+Mallorca vs Real Sociedad HD	https://live.vivo200.com/live/hd-en-1-4358946.m3u8?txSecret=645a35515c54b25ac2a54c840dbd79da&txTime=69A37DB3
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199280/heracles-almelo-vs-psv-eindhoven.html
