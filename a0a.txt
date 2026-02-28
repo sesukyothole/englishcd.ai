@@ -30,22 +30,28 @@
 
 06:00 [g]Argentine Division 1[z]	^-
 Independiente vs Central Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321937/ca-independiente-vs-central-cordoba-sde.html
-Independiente vs Central Cordoba	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b20.m3u8?auth_key=1772319762-0-0-384d8863e8b4f2dda04cd1e97b7e3b0c
+Independiente vs Central Cordoba	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b20.m3u8?auth_key=1772343223-0-0-e8ef241392be2746bda40e8ab6bb17ff
+Independiente vs Central Cordoba SD	https://live.vivo200.com/live/sd-1-4465083.m3u8?txSecret=89412caa523b60cd2d67b0bca3b40eb8&txTime=69A3C385
 
 06:00 [g]Mexico Liga MX[z]	^-
 Toluca vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322466/toluca-vs-club-deportivo-guadalajara.html
-Toluca vs Chivas Guadalajara	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d45.m3u8?auth_key=1772319762-0-0-caff0e155f3de0fc7471b8b953def575
+Toluca vs Chivas Guadalajara	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d45.m3u8?auth_key=1772343223-0-0-dd6b77e9af7497def4ef7c0f5e4685d7
 Atletico San Luis vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322477/atletico-san-luis-vs-puebla.html
-Atletico San Luis vs Puebla	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d44.m3u8?auth_key=1772319762-0-0-8222179540736d92d8874dd49c0d54b8
+Atletico San Luis vs Puebla	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d44.m3u8?auth_key=1772343223-0-0-b73fef594cc765f51939d7aa77eb1655
+Atletico San Luis vs Puebla SD	https://live.vivo200.com/live/sd-1-4465525.m3u8?txSecret=03bfd7f27f05e4d0f63473f0724c2a75&txTime=69A3C385
 
 07:30 [g]US Major League Soccer[z]	^-
 Real Salt Lake vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317305/real-salt-lake-vs-seattle-sounders.html
+Real Salt Lake vs Seattle Sounders	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4d.m3u8?auth_key=1772343223-0-0-3ea0dedaaa962fc0bc1566a0bb5f8427
+Real Salt Lake vs Seattle Sounders SD	https://live.vivo200.com/live/sd-1-4460013.m3u8?txSecret=839082604cd2ccf8c8c363c856d42d56&txTime=69A3C3D0
 
 08:05 [g]Mexico Liga MX[z]	^-
 Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322483/monterrey-vs-cruz-azul.html
-Monterrey vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4f.m3u8?auth_key=1772319762-0-0-a9464ac2ac9dbc9e6127890dcedb23fb
+Monterrey vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4f.m3u8?auth_key=1772343223-0-0-ee6c3f09af4c708c52b28a6708686163
+Monterrey vs CDSyC Cruz Azul SD	https://live.vivo200.com/live/sd-1-4465523.m3u8?txSecret=768990b821b3510487952cf895d4aba6&txTime=69A3C3D1
 Club Leon vs Necaxa	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322457/club-leon-vs-necaxa.html
-Club Leon vs Necaxa	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4e.m3u8?auth_key=1772319762-0-0-f3d7f21f139adeaefcbcf9070b355ecd
+Club Leon vs Necaxa	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4e.m3u8?auth_key=1772343223-0-0-a3c9d42296d94ad5a76fd92a71469b8d
+Club Leon vs Necaxa SD	https://live.vivo200.com/live/sd-1-4465528.m3u8?txSecret=6aafa6d9e10a7ee04df68ce78cb19909&txTime=69A3C3D1
 
 08:15 [g]Argentine Division 1[z]	^-
 Talleres Cordoba vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321955/talleres-cordoba-vs-san-lorenzo.html
