@@ -28,15 +28,134 @@
 
 28.02.2026	^-
 
-13:00 [g]Australia A-League[z]	^-
-Coast Mariners vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282138/central-coast-mariners-vs-newcastle-jets.html
-Coast Mariners vs Newcastle Jets	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b653.m3u8?auth_key=1772251511-0-0-35fe3b7f1cd4b285317f00cb7a52e8b2
+18:00 [g]Thai League 1[z]	^-
+Chonburi Shark vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320287/chonburi-fc-vs-ayutthaya-united.html
 
-13:00 [g]Japanese J1 League[z]	^-
-Gamba Osaka vs Shimizu S-Pulse	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331652/gamba-osaka-vs-shimizu-s-pulse.html
-Gamba Osaka vs Shimizu S-Pulse	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b651.m3u8?auth_key=1772251511-0-0-74e89ffe6c022ad4e4ef4e83a374f8e4
-FC Tokyo vs Kashiwa Reysol	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331774/fc-tokyo-vs-kashiwa-reysol.html
-FC Tokyo vs Kashiwa Reysol	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b652.m3u8?auth_key=1772251511-0-0-a370250f4ba3b66d44f24409fc34d142
+18:30 [g]Thai League 1[z]	^-
+Lamphun Warrior vs Bangkok United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320297/lamphun-warriors-vs-bangkok-united-fc.html
+
+19:00 [g]Thai League 1[z]	^-
+Ratchaburi FC vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320294/ratchaburi-fc-vs-uthai-thani-forest.html
+
+19:30 [y]English Premier League[z]	^-
+Bournemouth AFC vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193919/bournemouth-afc-vs-sunderland.html
+
+20:00 [y]Spanish La Liga[z]	^-
+Rayo Vallecano vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209784/rayo-vallecano-vs-athletic-club.html
+
+20:00 [g]Turkish Super League[z]	^-
+Kocaelispor vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216787/kocaelispor-vs-besiktas-jk.html
+
+20:15 Malaysian Super League	^-
+Sabah vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221029/sabah-fc-vs-negeri-sembilan.html
+
+20:30 Liga 1	^-
+Bali United vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229608/bali-united-vs-persatuan-sepakbola-indonesia-jepara.html
+
+20:30 Liga 2	^-
+Sumsel United vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352226/sumsel-united-vs-sriwijaya-fc.html
+FC Bekasi City vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352230/fc-bekasi-city-vs-psms-medan.html
+PSPS Riau vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352253/psps-riau-vs-garudayaksa-fc.html
+Persikad Depok vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352267/persikad-depok-vs-persiraja-aceh.html
+
+21:00 [y]Italian Serie A[z]	^-
+Como vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194679/como-vs-lecce.html
+
+21:30 [y]Bundesliga[z]	^-
+Werder Bremen vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199709/sv-werder-bremen-vs-1-fc-heidenheim-1846.html
+Bayer Leverkusen vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199716/bayer-04-leverkusen-vs-1-fsv-mainz-05.html
+TSG Hoffenheim vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199726/tsg-hoffenheim-vs-fc-st-pauli.html
+Br Monchengladbach vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199738/borussia-monchengladbach-vs-1-fc-union-berlin.html
+
+22:00 [y]English Premier League[z]	^-
+Burnley vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193917/burnley-vs-brentford.html
+Liverpool vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193920/liverpool-vs-west-ham-united.html
+Newcastle United vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193967/newcastle-united-vs-everton.html
+
+22:15 [y]Spanish La Liga[z]	^-
+FC Barcelona vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209815/fc-barcelona-vs-villarreal-cf.html
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+AVS Futebol vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216036/avs-futebol-sad-vs-cf-estrela-amadora-sad.html
+
+23:00 [y]French Ligue 1[z]	^-
+Rennes vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200287/stade-rennais-fc-vs-toulouse-fc.html
+
+01.03.2026	^-
+
+00:00 [y]Italian Serie A[z]	^-
+Verona vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194713/hellas-verona-vs-napoli.html
+
+00:00 [g]Turkish Super League[z]	^-
+Galatasaray vs Alanyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216783/galatasaray-vs-alanyaspor.html
+
+00:15 [g]Belgian Pro League[z]	^-
+Royal Antwerp vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198972/royal-antwerp-vs-sint-truidense.html
+
+00:30 [y]English Premier League[z]	^-
+Leeds United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193963/leeds-united-vs-manchester-city.html
+
+00:30 [y]Bundesliga[z]	^-
+Borussia Dortmund vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199717/borussia-dortmund-vs-fc-bayern-munich.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Mallorca vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209655/rcd-mallorca-vs-real-sociedad.html
+
+00:45 [y]Netherlands Eredivisie[z]	^-
+Heracles Almelo vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199280/heracles-almelo-vs-psv-eindhoven.html
+
+01:00 [y]French Ligue 1[z]	^-
+Monaco vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200254/as-monaco-vs-angers-sco.html
+
+01:00 [g]Portuguese Primera Liga[z]	^-
+Nacional da Madeira vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216042/nacional-da-madeira-vs-sporting-braga.html
+
+02:00 [g]Saudi Professional League[z]	^-
+Al-Feiha vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4255986/al-fayha-vs-al-nassr-fc.html
+
+02:30 [g]US Major League Soccer[z]	^-
+Chicago Fire vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4322500/chicago-fire-vs-montreal-impact.html
+
+02:45 [y]Italian Serie A[z]	^-
+Inter Milan vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194654/inter-milan-vs-genoa.html
+
+03:00 [y]Netherlands Eredivisie[z]	^-
+NEC Nijmegen vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199330/nec-nijmegen-vs-fortuna-sittard.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Real Oviedo vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209659/real-oviedo-vs-atletico-madrid.html
+
+03:05 [y]French Ligue 1[z]	^-
+Le Havre vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200286/havre-athletic-club-vs-paris-saint-germain.html
+
+03:30 [g]Portuguese Primera Liga[z]	^-
+Vitoria Guimaraes vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216035/vitoria-guimaraes-vs-alverca.html
+
+03:45 [g]Argentine Division 1[z]	^-
+Boca Juniors vs Gimnasia Mendoza	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321926/boca-juniors-vs-gimnasia-y-esgrima-de-mendoza.html
+
+06:00 [g]Argentine Division 1[z]	^-
+Independiente vs Central Cordoba SDE	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321937/ca-independiente-vs-central-cordoba-sde.html
+
+06:00 [g]Mexico Liga MX[z]	^-
+Toluca vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322466/toluca-vs-club-deportivo-guadalajara.html
+Atletico San Luis vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322477/atletico-san-luis-vs-puebla.html
+
+08:05 [g]Mexico Liga MX[z]	^-
+Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322483/monterrey-vs-cruz-azul.html
+Club Leon vs Necaxa	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322457/club-leon-vs-necaxa.html
+
+08:15 [g]Argentine Division 1[z]	^-
+Talleres Cordoba vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321955/talleres-cordoba-vs-san-lorenzo.html
+
+09:00 [g]Australia A-League[z]	^-
+Wellington Phoenix vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282135/wellington-phoenix-vs-sydney-fc.html
+
+12:00 [g]Japanese J1 League[z]	^-
+Fagiano Okayama vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331662/fagiano-okayama-vs-nagoya-grampus.html
+
+14:00 [g]Japanese J1 League[z]	^-
+Kawasaki Frontale vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331739/kawasaki-frontale-vs-mito-hollyhock.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -47,9 +166,7 @@ FC Tokyo vs Kashiwa Reysol	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b652.
 ^#	^-
 
 	^-
-K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -68,18 +185,19 @@ MoonBug	https://moonbug-rokuus.amagi.tv/playlist.m3u8
 MotorVision	https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
-My Cinema	https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+My Cinema	https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 My Family Channel	https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 My Kidz	https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
