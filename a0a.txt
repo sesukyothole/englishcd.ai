@@ -30,27 +30,39 @@
 
 18:00 [g]Thai League 1[z]	^-
 Chonburi Shark vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320287/chonburi-fc-vs-ayutthaya-united.html
+Chonburi Shark vs Ayutthaya United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f4e.m3u8?auth_key=1772293171-0-0-8d70de782e63f5c5bfc7e62972c698fe
+Chonburi Shark vs Ayutthaya United SD	https://live.vivo200.com/live/sd-1-4463900.m3u8?txSecret=f26f81a03f9ed253abc47c1d45e645c4&txTime=69A30002
 
 18:30 [g]Thai League 1[z]	^-
 Lamphun Warrior vs Bangkok United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320297/lamphun-warriors-vs-bangkok-united-fc.html
+Lamphun Warrior vs Bangkok United	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f62.m3u8?auth_key=1772293171-0-0-330983e49f4fdf4bf363df44c50403c3
+Lamphun Warrior vs Bangkok United SD	https://live.vivo200.com/live/sd-1-4463901.m3u8?txSecret=865d4dbd159996b2970d2b60d9e02083&txTime=69A30005
 
 19:00 [g]Thai League 1[z]	^-
 Ratchaburi FC vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320294/ratchaburi-fc-vs-uthai-thani-forest.html
+Ratchaburi FC vs Uthai Thani Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f76.m3u8?auth_key=1772293171-0-0-7bfe251979d730e9d6953c0f1e8152e1
 
 19:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193919/bournemouth-afc-vs-sunderland.html
+Bournemouth AFC vs Sunderland AFC	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32f75.m3u8?auth_key=1772293171-0-0-41a7b285fadd75afec404ad60023e26a
+Bournemouth AFC vs Sunderland AFC SD	https://live.vivo200.com/live/sd-1-4343254.m3u8?txSecret=d8c8a48067d2ef5c9a7e6ef016de3416&txTime=69A30008
+Bournemouth AFC vs Sunderland AFC HD	https://live.vivo200.com/live/hd-en-1-4343254.m3u8?txSecret=5bf1405b7c8ff350f43f8073e57f9128&txTime=69A30008
 
 20:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209784/rayo-vallecano-vs-athletic-club.html
+Rayo Vallecano vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c94.m3u8?auth_key=1772293171-0-0-a36239d274ac6c5b1693a95ba595d324
 
 20:00 [g]Turkish Super League[z]	^-
 Kocaelispor vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216787/kocaelispor-vs-besiktas-jk.html
+Kocaelispor vs Besiktas JK	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5af9.m3u8?auth_key=1772293171-0-0-68f0e25a53bfbe921328fc820e606e0d
 
 20:15 Malaysian Super League	^-
 Sabah vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221029/sabah-fc-vs-negeri-sembilan.html
+Sabah vs Negeri Sembilan	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6a9.m3u8?auth_key=1772293171-0-0-3554278193dad65973eda7cca962ee7d
 
 20:30 Liga 1	^-
 Bali United vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229608/bali-united-vs-persatuan-sepakbola-indonesia-jepara.html
+Bali United vs Persijap Jepara	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b6ae.m3u8?auth_key=1772293171-0-0-36dee0e1217898eaa062d976c65e8415
 
 20:30 Liga 2	^-
 Sumsel United vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352226/sumsel-united-vs-sriwijaya-fc.html
