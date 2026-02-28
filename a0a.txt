@@ -28,24 +28,6 @@
 
 28.02.2026	^-
 
-21:30 [y]Bundesliga[z]	^-
-Werder Bremen vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199709/sv-werder-bremen-vs-1-fc-heidenheim-1846.html
-Werder Bremen vs 1. FC Heidenheim	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb6.m3u8?auth_key=1772306962-0-0-9cb024cf708e76b4965eb7096ab248db
-Werder Bremen vs 1. FC Heidenheim SD	https://live.vivo200.com/live/sd-1-4347575.m3u8?txSecret=4cd90508915916715f0daefad8638e08&txTime=69A33606
-Werder Bremen vs 1. FC Heidenheim HD	https://live.vivo200.com/live/hd-en-1-4347575.m3u8?txSecret=1fa72b35c49bbac1c64a82183fbdd3fd&txTime=69A33606
-Bayer Leverkusen vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199716/bayer-04-leverkusen-vs-1-fsv-mainz-05.html
-Bayer Leverkusen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb9.m3u8?auth_key=1772306962-0-0-e7b6c3b3803688c8cb5da357e33c3b55
-Bayer Leverkusen vs FSV Mainz 05 SD	https://live.vivo200.com/live/sd-1-4347568.m3u8?txSecret=2b7b3c8889f1f2a222a0566f7e21d171&txTime=69A33606
-Bayer Leverkusen vs FSV Mainz 05 HD	https://live.vivo200.com/live/hd-en-1-4347568.m3u8?txSecret=e340a80145d03dbe93f9784447ec8154&txTime=69A33606
-TSG Hoffenheim vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199726/tsg-hoffenheim-vs-fc-st-pauli.html
-TSG Hoffenheim vs FC St. Pauli	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb7.m3u8?auth_key=1772306962-0-0-e4a9f4c953d4358a06c555b03a2fa0b5
-TSG Hoffenheim vs FC St. Pauli SD	https://live.vivo200.com/live/sd-1-4347573.m3u8?txSecret=8016d51f57b1bae537e8d90f8d9c1d1a&txTime=69A33606
-TSG Hoffenheim vs FC St. Pauli HD	https://live.vivo200.com/live/hd-en-1-4347573.m3u8?txSecret=9cffb8d696c625e136cadc2d00533a8a&txTime=69A33606
-Br Monchengladbach vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199738/borussia-monchengladbach-vs-1-fc-union-berlin.html
-Br Monchengladbach vs Union Berlin	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fb8.m3u8?auth_key=1772306962-0-0-850f756f3661192d2266ceaed66363ca
-Br Monchengladbach vs Union Berlin SD	https://live.vivo200.com/live/sd-1-4347569.m3u8?txSecret=bd636011c19b12630447315318aeadc3&txTime=69A33606
-Br Monchengladbach vs Union Berlin HD	https://live.vivo200.com/live/hd-en-1-4347569.m3u8?txSecret=3516957376c7b3bc1fb1bcb60278b5fd&txTime=69A33606
-
 22:00 [y]English Premier League[z]	^-
 Burnley vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193917/burnley-vs-brentford.html
 Burnley vs Brentford	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc3.m3u8?auth_key=1772313316-0-0-b3cf02ba49b7e563a887480c040b1658
@@ -81,33 +63,48 @@ Rennes vs Toulouse HD	https://live.vivo200.com/live/hd-en-1-4347894.flv?txSecret
 
 00:00 [y]Italian Serie A[z]	^-
 Verona vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194713/hellas-verona-vs-napoli.html
+Verona vs Napoli	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da6.m3u8?auth_key=1772317371-0-0-111df5acc93353f3be914fefb2a52581
+Verona vs Napoli SD	https://live.vivo200.com/live/sd-1-4339853.m3u8?txSecret=219bf4f34d13d69328737425f7a57ff3&txTime=69A35EB2
+Verona vs Napoli HD	https://live.vivo200.com/live/hd-en-1-4339853.m3u8?txSecret=6a89b5d5ed14d28d94c6a237ff401a66&txTime=69A35EB2
 
 00:00 [g]Turkish Super League[z]	^-
 Galatasaray vs Alanyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216783/galatasaray-vs-alanyaspor.html
+Galatasaray vs Alanyaspor	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5afc.m3u8?auth_key=1772317371-0-0-ff4b0467b90541c05f020f0608e071a8
+Galatasaray vs Alanyaspor SD	https://live.vivo200.com/live/sd-1-4366125.m3u8?txSecret=f7ed33a73265acb7be4bf83178bb1890&txTime=69A35EB2
 
 00:15 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198972/royal-antwerp-vs-sint-truidense.html
+Royal Antwerp vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e052.m3u8?auth_key=1772317371-0-0-86e9b4a51585a2bbe4da2da812f0e7ea
 
 00:30 [y]English Premier League[z]	^-
 Leeds United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193963/leeds-united-vs-manchester-city.html
+Leeds United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e053.m3u8?auth_key=1772317371-0-0-a5e446dba3c7e2b197f174475d56b500
 
 00:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199717/borussia-dortmund-vs-fc-bayern-munich.html
+Borussia Dortmund vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e054.m3u8?auth_key=1772317371-0-0-4be3520bea7075667787a66a33fde959
 
 00:30 [y]Spanish La Liga[z]	^-
 Mallorca vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209655/rcd-mallorca-vs-real-sociedad.html
+Mallorca vs Real Sociedad	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c96.m3u8?auth_key=1772317371-0-0-06a84c8df31d15c1e01520e247bc3d93
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199280/heracles-almelo-vs-psv-eindhoven.html
+Heracles Almelo vs PSV Eindhoven	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3ca2.m3u8?auth_key=1772317371-0-0-83cb41f9320c9713e3ac2eef32d97b7d
 
 01:00 [y]French Ligue 1[z]	^-
 Monaco vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200254/as-monaco-vs-angers-sco.html
+Monaco vs Angers	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e057.m3u8?auth_key=1772317371-0-0-359d2893a29e899f60007f51764ff8fe
+Monaco vs Angers SD	https://live.vivo200.com/live/sd-1-4347892.m3u8?txSecret=8592ac8e4cd3cb7c15f9e0a5dfc82350&txTime=69A35EB7
+Monaco vs Angers HD	https://live.vivo200.com/live/hd-en-1-4347892.m3u8?txSecret=43b6fc91359d646cff26b2fc7bfbf6a9&txTime=69A35EB7
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Nacional da Madeira vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216042/nacional-da-madeira-vs-sporting-braga.html
+Nacional da Madeira vs Sporting Braga	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a77.m3u8?auth_key=1772317371-0-0-6fd91eb313d9ad1b63a5fc934fe03272
 
 02:00 [g]Saudi Professional League[z]	^-
 Al-Feiha vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4255986/al-fayha-vs-al-nassr-fc.html
+Al-Feiha vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19bb.m3u8?auth_key=1772317371-0-0-f52633816ba1672bee7bbb9d071bed17
 
 02:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4322500/chicago-fire-vs-montreal-impact.html
