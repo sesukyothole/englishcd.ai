@@ -45,6 +45,7 @@ Goztepe vs Eyupspor SD	https://live.vivo200.com/live/sd-1-4366151.m3u8?txSecret=
 00:15 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198972/royal-antwerp-vs-sint-truidense.html
 Royal Antwerp vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e052.m3u8?auth_key=1772325274-0-0-efd90cb7faa8c98fd1313ec8600b7dcf
+Royal Antwerp vs Sint-Truidense SD	https://live.vivo200.com/live/sd-1-4347219.m3u8?txSecret=e8050f557ef4e1d1c7eb137fffd696e2&txTime=69A37DB3
 
 00:30 [y]English Premier League[z]	^-
 Leeds United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193963/leeds-united-vs-manchester-city.html
@@ -66,7 +67,8 @@ Mallorca vs Real Sociedad HD	https://live.vivo200.com/live/hd-en-1-4358946.m3u8?
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199280/heracles-almelo-vs-psv-eindhoven.html
-Heracles Almelo vs PSV Eindhoven	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3ca2.m3u8?auth_key=1772317371-0-0-83cb41f9320c9713e3ac2eef32d97b7d
+Heracles Almelo vs PSV Eindhoven	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3ca2.m3u8?auth_key=1772325274-0-0-62ef215eb895bb6f4fafe28505ffb857
+Heracles Almelo vs PSV Eindhoven SD	https://live.vivo200.com/live/sd-1-4344711.m3u8?txSecret=dde7adceb65a6320eacf711b08c7fe22&txTime=69A37DB7
 
 01:00 [y]French Ligue 1[z]	^-
 Monaco vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200254/as-monaco-vs-angers-sco.html
@@ -75,15 +77,19 @@ Monaco vs Angers SD	https://live.vivo200.com/live/sd-1-4347892.m3u8?txSecret=859
 Monaco vs Angers HD	https://live.vivo200.com/live/hd-en-1-4347892.m3u8?txSecret=43b6fc91359d646cff26b2fc7bfbf6a9&txTime=69A35EB7
 
 01:00 [g]Portuguese Primera Liga[z]	^-
-Nacional da Madeira vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216042/nacional-da-madeira-vs-sporting-braga.html
-Nacional da Madeira vs Sporting Braga	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a77.m3u8?auth_key=1772317371-0-0-6fd91eb313d9ad1b63a5fc934fe03272
+Nacional Madeira vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216042/nacional-da-madeira-vs-sporting-braga.html
+Nacional Madeira vs Sporting Braga	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a77.m3u8?auth_key=1772325274-0-0-a43da572444a651f3f4508d37eb6250e
+Nacional Madeira vs Sporting Braga SD	https://live.vivo200.com/live/sd-1-4368998.m3u8?txSecret=5e333bdcbac501a0af1d664e1d6bc5cf&txTime=69A37DB7
 
 02:00 [g]Saudi Professional League[z]	^-
 Al-Feiha vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4255986/al-fayha-vs-al-nassr-fc.html
-Al-Feiha vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19bb.m3u8?auth_key=1772317371-0-0-f52633816ba1672bee7bbb9d071bed17
+Al-Feiha vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-6980c2fc6e82682bc22f19bb.m3u8?auth_key=1772325274-0-0-e462feaf1767f6c5039438b93b87074f
+Al-Feiha vs Al Nassr FC SD	https://live.vivo200.com/live/sd-1-4404638.m3u8?txSecret=51dfe663499d73cfb1cb218d9e454068&txTime=69A37DA3
 
 02:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4322500/chicago-fire-vs-montreal-impact.html
+Chicago Fire vs Montreal Impact	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d03.m3u8?auth_key=1772325274-0-0-4a06cb86d1769a15229add975c22ea06
+Chicago Fire vs Montreal Impact SD	https://live.vivo200.com/live/sd-1-4460007.m3u8?txSecret=2c5ea1b396dcdabf30ab081d5b0d9d8c&txTime=69A37DA3
 
 02:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194654/inter-milan-vs-genoa.html
