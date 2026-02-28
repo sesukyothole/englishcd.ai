@@ -28,20 +28,6 @@
 
 01.03.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Verona vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194713/hellas-verona-vs-napoli.html
-Verona vs Napoli	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da6.m3u8?auth_key=1772317371-0-0-111df5acc93353f3be914fefb2a52581
-Verona vs Napoli SD	https://live.vivo200.com/live/sd-1-4339853.m3u8?txSecret=219bf4f34d13d69328737425f7a57ff3&txTime=69A35EB2
-Verona vs Napoli HD	https://live.vivo200.com/live/hd-en-1-4339853.m3u8?txSecret=6a89b5d5ed14d28d94c6a237ff401a66&txTime=69A35EB2
-
-00:00 [g]Turkish Super League[z]	^-
-Galatasaray vs Alanyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216783/galatasaray-vs-alanyaspor.html
-Galatasaray vs Alanyaspor	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5afc.m3u8?auth_key=1772317371-0-0-ff4b0467b90541c05f020f0608e071a8
-Galatasaray vs Alanyaspor SD	https://live.vivo200.com/live/sd-1-4366125.m3u8?txSecret=f7ed33a73265acb7be4bf83178bb1890&txTime=69A35EB2
-Goztepe vs Eyupspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216756/goztepe-vs-eyupspor.html
-Goztepe vs Eyupspor	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5afb.m3u8?auth_key=1772319762-0-0-254fb20c9567c3f9d08907654e3f2ab4
-Goztepe vs Eyupspor SD	https://live.vivo200.com/live/sd-1-4366151.m3u8?txSecret=3b1a85af4bacd62ac2c3eaef439c6e35&txTime=69A3679A
-
 00:15 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198972/royal-antwerp-vs-sint-truidense.html
 Royal Antwerp vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e052.m3u8?auth_key=1772325274-0-0-efd90cb7faa8c98fd1313ec8600b7dcf
