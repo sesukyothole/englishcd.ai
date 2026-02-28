@@ -28,26 +28,6 @@
 
 28.02.2026	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-Mazatlan FC vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322473/mazatlan-fc-vs-pachuca.html
-Mazatlan FC vs Pachuca	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b632.m3u8?auth_key=1772251511-0-0-55a9dfef44d3e843321c04fea2693c39
-Queretaro FC vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322474/queretaro-fc-vs-santos-laguna.html
-Queretaro FC vs Santos Laguna	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b631.m3u8?auth_key=1772251511-0-0-b40406093446ba9621fbd7dcf344be9c
-
-10:00 [g]Mexico Liga MX[z]	^-
-FC Juarez vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322458/fc-juarez-vs-atlas.html
-FC Juarez vs Atlas	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b636.m3u8?auth_key=1772251511-0-0-8288b3052fe7f6237b4cbef6296396fe
-Club Tijuana vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322464/club-tijuana-vs-pumas-unam.html
-Club Tijuana vs Pumas UNAM	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b639.m3u8?auth_key=1772251511-0-0-bd5651b074f106c6766ed93ce8c7b4f1
-
-11:00 [g]Australia A-League[z]	^-
-Auckland FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282203/auckland-fc-vs-melbourne-city.html
-Auckland FC vs Melbourne City	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b63b.m3u8?auth_key=1772251511-0-0-8b436af516a893247e8d6765537f903e
-
-11:00 [g]Japanese J1 League[z]	^-
-Yokohama F Marinos vs Tokyo Verdy	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331741/yokohama-f-marinos-vs-tokyo-verdy.html
-Yokohama F Marinos vs Tokyo Verdy	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b63a.m3u8?auth_key=1772251511-0-0-18232637a91111972c7162bc45047372
-
 13:00 [g]Australia A-League[z]	^-
 Coast Mariners vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282138/central-coast-mariners-vs-newcastle-jets.html
 Coast Mariners vs Newcastle Jets	https://bo2.qiuxun.tv/sla/1-6982148302bc90c280d1b653.m3u8?auth_key=1772251511-0-0-35fe3b7f1cd4b285317f00cb7a52e8b2
