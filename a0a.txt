@@ -28,22 +28,6 @@
 
 01.03.2026	^-
 
-22:00 [g]Belgian Pro League[z]	^-
-Westerlo vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198998/kvc-westerlo-vs-union-saint-gilloise.html
-Westerlo vs Saint Gilloise	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f9.m3u8?auth_key=1772398068-0-0-4f200ea0c9711581f4d8282039806da1
-Westerlo vs Saint Gilloise SD	https://live.vivo200.com/live/sd-1-4347203.m3u8?txSecret=7def234de772d395151533dc8e070860&txTime=69A49A2A
-
-22:15 [y]Spanish La Liga[z]	^-
-Valencia vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209584/valencia-cf-vs-ca-osasuna.html
-Valencia vs Osasuna	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c90.m3u8?auth_key=1772398068-0-0-31b90db6d998dd5ece6f82c6d1180c04
-Valencia vs Osasuna SD	https://live.vivo200.com/live/sd-1-4358954.m3u8?txSecret=79b8a898177ecd1aab557d2c2fa79ac1&txTime=69A49A1E
-Valencia vs Osasuna HD	https://live.vivo200.com/live/hd-en-1-4358954.m3u8?txSecret=e102c103de89a451e158b80fddb00b6c&txTime=69A49A1E
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-CD Tondela vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216039/cd-tondela-vs-santa-clara.html
-CD Tondela vs Santa Clara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a74.m3u8?auth_key=1772398068-0-0-7d0276d390d97c51bf9a1f87c3d4dea4
-CD Tondela vs Santa Clara SD	https://live.vivo200.com/live/sd-1-4369001.m3u8?txSecret=cf36bd98f7256825425099e6748071a8&txTime=69A49A1E
-
 22:45 [y]Netherlands Eredivisie[z]	^-
 FC Utrecht vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199261/fc-utrecht-vs-az-alkmaar.html
 FC Utrecht vs AZ Alkmaar	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9b.m3u8?auth_key=1772398068-0-0-b0f0bde014bf1413a7ac5919248b55a0
