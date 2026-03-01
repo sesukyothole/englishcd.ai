@@ -28,22 +28,6 @@
 
 02.03.2026	^-
 
-03:00 [y]Spanish La Liga[z]	^-
-Girona vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209843/girona-fc-vs-rc-celta.html
-Girona vs Real Celta Vigo	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c92.m3u8?auth_key=1772401993-0-0-b08b353f0b325f5674fef43292c57398
-Girona vs Real Celta Vigo SD	https://live.vivo200.com/live/sd-1-4358952.m3u8?txSecret=0e7477cd5c9f5632da4b50718fe325b7&txTime=69A4C2F2
-Girona vs Real Celta Vigo HD	https://live.vivo200.com/live/hd-en-1-4358952.m3u8?txSecret=29cda79a6d1892e56058c1f1876a3da5&txTime=69A4C2F2
-
-03:00 [g]Argentine Division 1[z]	^-
-Newells Old Boys vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321956/club-atltico-newells-old-boys-vs-rosario-central.html
-Newells Old Boys vs Rosario Central	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b26.m3u8?auth_key=1772401993-0-0-1e6dfb3f967d6ae3debddc118afdff5a
-Newells Old Boys vs Rosario Central SD	https://live.vivo200.com/live/sd-1-4465046.m3u8?txSecret=466e074b5564f7b57e3848901fb024a3&txTime=69A4E806
-
-03:30 [g]Portuguese Primera Liga[z]	^-
-Rio Ave vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216061/rio-ave-vs-fc-famalicao.html
-Rio Ave vs FC Famalicao	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a76.m3u8?auth_key=1772401993-0-0-34976e8f65ce4d9fc0d1865cbf0fc2be
-Rio Ave vs FC Famalicao SD	https://live.vivo200.com/live/sd-1-4368999.m3u8?txSecret=a38995b7fcb80b5a6923a52f59f41b48&txTime=69A4CACF
-
 05:00 [l]International Women Friendly[z]	^-
 USA vs Argentina	`Fhttps://www.fctv33.net/football/international-friendly-match-4362669/usa-women-vs-argentina-women.html
 USA vs Argentina	https://bo2.qiuxun.tv/sla/1-69a1c6a414caa75d72e2711b.m3u8?auth_key=1772410583-0-0-d566f1c86096109d8a5c2f563b3cb032
