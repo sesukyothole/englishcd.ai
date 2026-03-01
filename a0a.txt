@@ -107,27 +107,33 @@ Newells Old Boys vs Rosario Central	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19
 03:30 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216061/rio-ave-vs-fc-famalicao.html
 Rio Ave vs FC Famalicao	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a76.m3u8?auth_key=1772401993-0-0-34976e8f65ce4d9fc0d1865cbf0fc2be
+Rio Ave vs FC Famalicao SD	https://live.vivo200.com/live/sd-1-4368999.m3u8?txSecret=a38995b7fcb80b5a6923a52f59f41b48&txTime=69A4CACF
 
 05:00 [l]International Women Friendly[z]	^-
 USA vs Argentina	`Fhttps://www.fctv33.net/football/international-friendly-match-4362669/usa-women-vs-argentina-women.html
+USA vs Argentina	https://bo2.qiuxun.tv/sla/1-69a1c6a414caa75d72e2711b.m3u8?auth_key=1772410583-0-0-d566f1c86096109d8a5c2f563b3cb032
 
 05:15 [g]Argentine Division 1[z]	^-
-Argentinos Jr vs Barracas Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321939/argentinos-juniors-vs-barracas-central.html
-Argentinos Jr vs Barracas Central	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b1f.m3u8?auth_key=1772401993-0-0-e028d716d669fbb4a51d83f32bff6534
 Instituto vs Club Atlético Unión	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321941/instituto-de-crdoba-vs-club-atltico-unin.html
 Instituto vs Club Atlético Unión	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b1d.m3u8?auth_key=1772401993-0-0-e6763c88294607eae79199247db757ec
+Instituto vs Club Atlético Unión SD	https://live.vivo200.com/live/sd-1-4465100.m3u8?txSecret=50d1d995aeddfe06925a1aab8f3c4401&txTime=69A4CAD4
+Argentinos Jr vs Barracas Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321939/argentinos-juniors-vs-barracas-central.html
+Argentinos Jr vs Barracas Central	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b1f.m3u8?auth_key=1772401993-0-0-e028d716d669fbb4a51d83f32bff6534
 
 07:00 [g]US Major League Soccer[z]	^-
 Orlando City vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317295/orlando-city-vs-inter-miami-cf.html
 Orlando City vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b69.m3u8?auth_key=1772401993-0-0-36af9e2787237e117ff783194878386d
+Orlando City vs Inter Miami CF SD	https://live.vivo200.com/live/sd-1-4460022.m3u8?txSecret=de8ec4bcd7116d190111e1a857fe0e37&txTime=69A4CAD4
 
 07:00 [g]Argentine Division 1[z]	^-
 Atletico Tigre vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321934/club-atletico-tigre-vs-gimnasia-la-plata.html
 Atletico Tigre vs Gimnasia Plata	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b1c.m3u8?auth_key=1772401993-0-0-418e2048c9fd18487aca5733c6174078
+Atletico Tigre vs Gimnasia Plata SD	https://live.vivo200.com/live/sd-1-4465103.m3u8?txSecret=8132e95cf4cc560a6143640bfe703e3e&txTime=69A4CAD9
 
 07:30 [g]Argentine Division 1[z]	^-
 Defensa Y Justicia vs Lanus	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321958/defensa-y-justicia-vs-club-atltico-lans.html
 Defensa Y Justicia vs Lanus	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b2a.m3u8?auth_key=1772401993-0-0-ac1d6391fac6bed3da869f2da6f24503
+Defensa Y Justicia vs Lanus SD	https://live.vivo200.com/live/sd-1-4465010.m3u8?txSecret=6396a342b00795943362bb53255f3459&txTime=69A4CAD9
 
 09:15 [g]US Major League Soccer[z]	^-
 San Diego FC vs St. Louis City SC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4322476/san-diego-fc-vs-st-louis-city-sc.html
