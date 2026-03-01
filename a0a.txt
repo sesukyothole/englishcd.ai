@@ -59,6 +59,7 @@ Girona vs Real Celta Vigo HD	https://live.vivo200.com/live/hd-en-1-4358952.m3u8?
 03:00 [g]Argentine Division 1[z]	^-
 Newells Old Boys vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321956/club-atltico-newells-old-boys-vs-rosario-central.html
 Newells Old Boys vs Rosario Central	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b26.m3u8?auth_key=1772401993-0-0-1e6dfb3f967d6ae3debddc118afdff5a
+Newells Old Boys vs Rosario Central SD	https://live.vivo200.com/live/sd-1-4465046.m3u8?txSecret=466e074b5564f7b57e3848901fb024a3&txTime=69A4E806
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216061/rio-ave-vs-fc-famalicao.html
