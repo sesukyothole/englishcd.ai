@@ -28,36 +28,6 @@
 
 02.03.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Torino vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194667/torino-vs-lazio.html
-Torino vs Lazio	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da8.m3u8?auth_key=1772400920-0-0-0bacd34fbca30da3841ff1e989579cc5
-Torino vs Lazio SD	https://live.vivo200.com/live/sd-1-4339848.m3u8?txSecret=7a4cf14a0502b34ce7926d2f99114748&txTime=69A4A4F7
-Torino vs Lazio HD	https://live.vivo200.com/live/hd-en-1-4339848.m3u8?txSecret=cb550672dd74e75471cc8bde6a5a1177&txTime=69A4A4F7
-
-00:00 [g]Turkish Super League[z]	^-
-Antalyaspor vs Fenerbahce	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216809/antalyaspor-vs-fenerbahce.html
-Antalyaspor vs Fenerbahce	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5afd.m3u8?auth_key=1772400920-0-0-a05e850f23909dd6c4b9dc4fbc9e5385
-Antalyaspor vs Fenerbahce SD	https://live.vivo200.com/live/sd-1-4366117.m3u8?txSecret=582edfae0abdab69264286f71e26e2e1&txTime=69A4A4F7
-Antalyaspor vs Fenerbahce HD	https://live.vivo200.com/live/hd-en-1-4366117.m3u8?txSecret=ef61850e7616722befeed7aae92dd9d9&txTime=69A4A4F7
-Samsunspor vs Gaziantep	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5afa.m3u8?auth_key=1772400920-0-0-7013f25ecd3bead460f4a74640c13869
-Samsunspor vs Gaziantep SD	https://live.vivo200.com/live/sd-1-4366155.m3u8?txSecret=ad5c16822e938832ea18d77c120dda1a&txTime=69A4A4F7
-
-00:30 [g]Belgian Pro League[z]	^-
-Charleroi vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198944/rc-sporting-charleroi-vs-club-brugge.html
-Charleroi vs Club Brugge	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5af7.m3u8?auth_key=1772400920-0-0-6cfff31c1df9c071f1cb5b5f04395a4c
-Charleroi vs Club Brugge SD	https://live.vivo200.com/live/sd-1-4347208.m3u8?txSecret=43bf491d8ce6d9921865ad180571ed7f&txTime=69A4A4FB
-
-00:30 [y]Spanish La Liga[z]	^-
-Real Betis vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209840/real-betis-vs-sevilla-fc.html
-Real Betis vs Sevilla	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c98.m3u8?auth_key=1772400920-0-0-9a923c1a35cc82e0dc49ce847df0e412
-Real Betis vs Sevilla SD	https://live.vivo200.com/live/sd-1-4358944.m3u8?txSecret=b4ac40802e9874fed8b51e313a1c7121&txTime=69A4A4F7
-Real Betis vs Sevilla HD	https://live.vivo200.com/live/hd-en-1-4358944.m3u8?txSecret=b71508ec3307dfa712693dbb4f9d06aa&txTime=69A4A4F7
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-Casa Pia AC vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216058/casa-pia-ac-vs-moreirense.html
-Casa Pia AC vs Moreirense	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a7a.m3u8?auth_key=1772401993-0-0-3b1ac4c1898a6fd7e2b0a2d905e98bde
-Casa Pia AC vs Moreirense SD	https://live.vivo200.com/live/sd-1-4368995.m3u8?txSecret=e9136e3743614c4e76182769ff1be035&txTime=69A4A925
-
 01:30 [y]Bundesliga[z]	^-
 Hamburger SV vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199734/hamburger-sv-vs-rb-leipzig.html
 Hamburger SV vs RB Leipzig	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b05.m3u8?auth_key=1772401993-0-0-f1ba59635585f85dad5b2da897adb7e5
