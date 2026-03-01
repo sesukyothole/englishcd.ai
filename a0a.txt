@@ -100,23 +100,34 @@ Persiba Balikpapan vs PSIS Semarang	`0https://www.marza12.shop/football/2941568-
 
 21:00 Malaysian Super League	^-
 Imigresen FC vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221030/imigresen-fc-vs-kuching-city-fc.html
-Imigresen FC vs Kuching FA	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0da.m3u8?auth_key=1772372021-0-0-365f6dc1b2939f94feb2893606a61d54
+Imigresen FC vs Kuching FA	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0da.m3u8?auth_key=1772392198-0-0-a5e43a49fc24291f3806f85f1fd9d8af
+Imigresen FC vs Kuching FA SD	https://live.vivo200.com/live/sd-1-4374062.m3u8?txSecret=d4df33ca13420dd80dad199952ca7b0e&txTime=69A482C0
 
 21:00 [y]English Premier League[z]	^-
-Manchester United vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193916/manchester-united-vs-crystal-palace.html
-Manchester United vs Crystal Palace	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da4.m3u8?auth_key=1772372021-0-0-ee0d53825e3482ff97b0ef71fbd336d6
+Manchester Utd vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193916/manchester-united-vs-crystal-palace.html
+Manchester Utd vs Crystal Palace	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da4.m3u8?auth_key=1772392198-0-0-0e4522fbcfa89774234c4e55a50a6bdd
+Manchester Utd vs Crystal Palace SD	https://live.vivo200.com/live/sd-1-4343270.m3u8?txSecret=7deb620f557b7753d8799a8b836ff09f&txTime=69A482BE
+Manchester Utd vs Crystal Palace HD	https://live.vivo200.com/live/hd-en-1-4343270.m3u8?txSecret=d75140495463d833e51b59329b132c01&txTime=69A482BE
 Fulham vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193962/fulham-vs-tottenham-hotspur.html
-Fulham vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da5.m3u8?auth_key=1772372021-0-0-fd63ea8962d3966408275f75fabc73ec
+Fulham vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da5.m3u8?auth_key=1772392198-0-0-2cb2af03c9a557e674be99305d71fc3b
+Fulham vs Tottenham Hotspur SD	https://live.vivo200.com/live/sd-1-4343262.m3u8?txSecret=18a743fae0d52dec14fd1c3e6e2b4559&txTime=69A482BE
+Fulham vs Tottenham Hotspur HD	https://live.vivo200.com/live/hd-en-1-4343262.m3u8?txSecret=56f5a0456637888383f136bb51de2d68&txTime=69A482BE
 Brighton Hove vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194001/brighton-hove-albion-vs-nottingham-forest.html
-Brighton Hove vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc4.m3u8?auth_key=1772372021-0-0-90e315d78f7648b1f59534e7800c6df8
+Brighton Hove vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc4.m3u8?auth_key=1772392198-0-0-5a1bcbd7519a33f583a574b7277d44b8
+Brighton Hove vs Nottingham Forest SD	https://live.vivo200.com/live/sd-1-4343257.m3u8?txSecret=316da10ab16bd023bb3bc17d6d06ae6c&txTime=69A482BE
+Brighton Hove vs Nottingham Forest HD	https://live.vivo200.com/live/hd-en-1-4343257.m3u8?txSecret=06b962a2221500307d468aad72ea053b&txTime=69A482BE
 
 21:00 [y]Italian Serie A[z]	^-
 Sassuolo vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194710/sassuolo-vs-atalanta.html
-Sassuolo vs Atalanta	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da9.m3u8?auth_key=1772372021-0-0-d226dad45972fc2344cb139698d3b438
+Sassuolo vs Atalanta	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da9.m3u8?auth_key=1772392198-0-0-d9e324ad9cdbba04b40600893e8561f1
+Sassuolo vs Atalanta SD	https://live.vivo200.com/live/sd-1-4339846.m3u8?txSecret=cd520ada4e524ff2b50cc6a168fae86f&txTime=69A482BE
+Sassuolo vs Atalanta HD	https://live.vivo200.com/live/hd-en-1-4339846.m3u8?txSecret=9d5eee2ae06855f9306a0329493021e7&txTime=69A482BE
 
 21:00 [y]French Ligue 1[z]	^-
 Paris FC vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200221/paris-fc-vs-ogc-nice.html
-Paris FC vs Nice	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3db0.m3u8?auth_key=1772372021-0-0-601d95c1edda19f784a14d5db007daf5
+Paris FC vs Nice	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3db0.m3u8?auth_key=1772392198-0-0-a9555002c2d23b5f7242d2f1e1e47f65
+Paris FC vs Nice SD	https://live.vivo200.com/live/sd-1-4347893.m3u8?txSecret=3fcadcc24a87d61e99b7643e3f7827b1&txTime=69A482BE
+Paris FC vs Nice HD	https://live.vivo200.com/live/hd-en-1-4347893.m3u8?txSecret=ec2fadb15aa4d5c734577fc13d5402cd&txTime=69A482BE
 
 21:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199737/vfb-stuttgart-vs-vfl-wolfsburg.html
