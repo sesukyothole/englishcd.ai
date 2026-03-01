@@ -85,11 +85,11 @@ Manchester United vs Crystal Palace	https://bo2.qiuxun.tv/sla/1-698366049f151a19
 Manchester United vs Crystal Palace SD	https://live.vivo200.com/live/sd-1-4343270.m3u8?txSecret=7deb620f557b7753d8799a8b836ff09f&txTime=69A482BE
 Manchester United vs Crystal Palace HD	https://live.vivo200.com/live/hd-en-1-4343270.m3u8?txSecret=d75140495463d833e51b59329b132c01&txTime=69A482BE
 Fulham vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193962/fulham-vs-tottenham-hotspur.html
-Fulham vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da5.m3u8?auth_key=1772394486-0-0-ab729c6f47d925d67598972987eb55b4
+Fulham vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da5.m3u8?auth_key=1772395358-0-0-6adca7ad7387daa52f095d88fa21765c
 Fulham vs Tottenham Hotspur SD	https://live.vivo200.com/live/sd-1-4343262.m3u8?txSecret=18a743fae0d52dec14fd1c3e6e2b4559&txTime=69A482BE
 Fulham vs Tottenham Hotspur HD	https://live.vivo200.com/live/hd-en-1-4343262.m3u8?txSecret=56f5a0456637888383f136bb51de2d68&txTime=69A482BE
 Brighton Hove vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194001/brighton-hove-albion-vs-nottingham-forest.html
-Brighton Hove vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc4.m3u8?auth_key=1772394486-0-0-9eb4a8577c89f71c905dd88921718348
+Brighton Hove vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc4.m3u8?auth_key=1772395358-0-0-b1d06bf8a34dc0d88b3d5c599c23c862
 Brighton Hove vs Nottingham Forest SD	https://live.vivo200.com/live/sd-1-4343257.m3u8?txSecret=316da10ab16bd023bb3bc17d6d06ae6c&txTime=69A482BE
 Brighton Hove vs Nottingham Forest HD	https://live.vivo200.com/live/hd-en-1-4343257.m3u8?txSecret=06b962a2221500307d468aad72ea053b&txTime=69A482BE
 
