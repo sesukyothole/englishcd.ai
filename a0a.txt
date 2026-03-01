@@ -28,12 +28,6 @@
 
 01.03.2026	^-
 
-21:30 [y]Bundesliga[z]	^-
-VfB Stuttgart vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199737/vfb-stuttgart-vs-vfl-wolfsburg.html
-VfB Stuttgart vs VfL Wolfsburg	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f6.m3u8?auth_key=1772398068-0-0-5dc34911660385d5ead047a8b939eb02
-VfB Stuttgart vs VfL Wolfsburg SD	https://live.vivo200.com/live/sd-1-4347574.m3u8?txSecret=0f16634f72631f83395bc45b58dc8b8d&txTime=69A49A31
-VfB Stuttgart vs VfL Wolfsburg HD	https://live.vivo200.com/live/hd-en-1-4347574.m3u8?txSecret=d61b7e69a582dd734f0445562dd0a403&txTime=69A49A31
-
 22:00 [g]Belgian Pro League[z]	^-
 Westerlo vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198998/kvc-westerlo-vs-union-saint-gilloise.html
 Westerlo vs Saint Gilloise	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f9.m3u8?auth_key=1772398068-0-0-4f200ea0c9711581f4d8282039806da1
