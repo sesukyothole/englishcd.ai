@@ -28,31 +28,6 @@
 
 01.03.2026	^-
 
-20:30 [y]Netherlands Eredivisie[z]	^-
-FC Twente Enschede vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199319/fc-twente-enschede-vs-feyenoord.html
-FC Twente Enschede vs Feyenoord	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9c.m3u8?auth_key=1772393208-0-0-d8431550da2c7ab532db97f5284181a1
-Volendam vs Groningen	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9d.m3u8?auth_key=1772393208-0-0-fba393f60e9fc7c7c5176e50320d30fd
-
-20:30 Liga 1	^-
-Persis Solo FC vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229607/persis-solo-fc-vs-persatuan-sepak-bola-indonesia-kediri.html
-Persis Solo FC vs Persik Kediri	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d95.m3u8?auth_key=1772393208-0-0-249f8344ad901561c95626e3c61c5930
-Persis Solo FC vs Persik Kediri SD	https://live.vivo200.com/live/sd-1-4379450.m3u8?txSecret=1ce4a7eb5b975afa4ea77f59b500cab1&txTime=69A46EEB
-Dewa United FC vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229669/dewa-united-fc-vs-bhayangkara-presisi-indonesia-fc.html
-Dewa United FC vs Bhayangkara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b7d.m3u8?auth_key=1772393208-0-0-d8e44cf69964245d84a5f285ba33c696
-Dewa United FC vs Bhayangkara SD	https://live.vivo200.com/live/sd-1-4379496.m3u8?txSecret=1dd5ed629fbd7d2f4b993ded5f9b0fa1&txTime=69A46EEB
-
-20:30 Liga 2	^-
-Deltras Sidoarjo vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352227/deltras-sidoarjo-vs-barito-putera.html
-Deltras Sidoarjo vs Barito Putera	`0https://www.marza12.shop/football/2941565-deltras-sidoarjo-vs-barito-putera.html
-Persela Lamongan vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352232/persela-lamongan-vs-pss-sleman.html
-Persela Lamongan vs PSS Sleman	`0https://www.marza12.shop/football/2941567-persela-lamongan-vs-pss-sleman.html
-Persekat Tegal vs Adhyaksa Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352246/persekat-tegal-vs-adhyaksa-fc-banten.html
-Persekat Tegal vs Adhyaksa Banten	`0https://www.marza12.shop/football/2941564-persekat-tegal-vs-adhyaksa-farmel-fc.html
-Kendal Tornado vs Persi Jayapura	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352256/kendal-tornado-fc-vs-persipura-jayapura.html
-Kendal Tornado vs Persi Jayapura	`0https://www.marza12.shop/football/2941566-beigan-baru-tornado-vs-persipura-jayapura.html
-Persiba Balikpapan vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352262/persiba-balikpapan-vs-psis-semarang.html
-Persiba Balikpapan vs PSIS Semarang	`0https://www.marza12.shop/football/2941568-persiba-balikpapan-vs-psis-semarang.html
-
 21:00 Malaysian Super League	^-
 Imigresen FC vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221030/imigresen-fc-vs-kuching-city-fc.html
 Imigresen FC vs Kuching FA	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0da.m3u8?auth_key=1772392198-0-0-a5e43a49fc24291f3806f85f1fd9d8af
