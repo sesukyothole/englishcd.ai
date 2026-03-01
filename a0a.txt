@@ -69,7 +69,9 @@ Racing Genk vs KAA Gent SD	https://live.vivo200.com/live/sd-1-4347240.m3u8?txSec
 
 20:00 [y]Spanish La Liga[z]	^-
 Elche vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209779/elche-vs-rcd-espanyol-de-barcelona.html
-Elche vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c97.m3u8?auth_key=1772372021-0-0-a2532b098515bfdef33ed0239d0d32f9
+Elche vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c97.m3u8?auth_key=1772387121-0-0-1f57d49a265ef9f945abe5cb889cdab8
+Elche vs RCD Espanyol SD	https://live.vivo200.com/live/sd-1-4358945.m3u8?txSecret=3b06bbed32d13db1ffcacafb984d83d7&txTime=69A46EE7
+Elche vs RCD Espanyol HD	https://live.vivo200.com/live/hd-en-1-4358945.m3u8?txSecret=26d185f90c26645612b4c2f6be14a23b&txTime=69A46EE7
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 FC Twente Enschede vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199319/fc-twente-enschede-vs-feyenoord.html
@@ -78,9 +80,11 @@ Volendam vs Groningen	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9d.m3u8?
 
 20:30 Liga 1	^-
 Persis Solo FC vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229607/persis-solo-fc-vs-persatuan-sepak-bola-indonesia-kediri.html
-Persis Solo FC vs Persik Kediri	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d95.m3u8?auth_key=1772372021-0-0-0ae6983ce772bd592d816e4d01e3adc2
+Persis Solo FC vs Persik Kediri	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d95.m3u8?auth_key=1772387121-0-0-d618f146e87ff1637125d8156e932cdd
+Persis Solo FC vs Persik Kediri SD	https://live.vivo200.com/live/sd-1-4379450.m3u8?txSecret=1ce4a7eb5b975afa4ea77f59b500cab1&txTime=69A46EEB
 Dewa United FC vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229669/dewa-united-fc-vs-bhayangkara-presisi-indonesia-fc.html
-Dewa United FC vs Bhayangkara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b7d.m3u8?auth_key=1772372021-0-0-3e83f096a380e1757c1c0d6ed147f8bc
+Dewa United FC vs Bhayangkara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b7d.m3u8?auth_key=1772387121-0-0-bef0b1eea07c52c8c6e2399cacbd45fd
+Dewa United FC vs Bhayangkara SD	https://live.vivo200.com/live/sd-1-4379496.m3u8?txSecret=1dd5ed629fbd7d2f4b993ded5f9b0fa1&txTime=69A46EEB
 
 20:30 Liga 2	^-
 Deltras Sidoarjo vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352227/deltras-sidoarjo-vs-barito-putera.html
