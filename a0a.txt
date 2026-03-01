@@ -28,11 +28,6 @@
 
 01.03.2026	^-
 
-14:00 [g]Japanese J1 League[z]	^-
-Kawasaki Frontale vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331739/kawasaki-frontale-vs-mito-hollyhock.html
-Kawasaki Frontale vs Mito Hollyhock	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e089.m3u8?auth_key=1772371377-0-0-8db87eb9943b3ed9bd049f319be1fc21
-Kawasaki Frontale vs Mito Hollyhock SD	https://live.vivo200.com/live/sd-1-4470657.m3u8?txSecret=841e9a438b8ace0571847e8a940c3b82&txTime=69A40A27
-
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Australia vs Philippines	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248092/australia-women-vs-philippines-women.html
 Australia vs Philippines	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e09c.m3u8?auth_key=1772371377-0-0-9a519af3b98d69287c7a3aaeb364459e
@@ -41,16 +36,17 @@ Australia vs Philippines HD	https://live.vivo200.com/live/hd-en-1-4390942.m3u8?t
 
 18:00 [g]Thai League 1[z]	^-
 Singha Kanchanaburi vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320290/kanchanaburi-power-fc-vs-chiangrai-united.html
-Singha Kanchanaburi vs Chiangrai Utd	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0ab.m3u8?auth_key=1772371377-0-0-2f12a5e85d01acdde0d9124ddf7ead61
-Singha Kanchanaburi vs Chiangrai Utd	https://live.vivo200.com/live/sd-1-4463905.m3u8?txSecret=c406db8d751bca738ce02d3f0521d756&txTime=69A431A5
+Singha Kanchanaburi vs Chiangrai Utd	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0ab.m3u8?auth_key=1772378690-0-0-a9458ffecdf8460bba6df0d99193fbb4
+Singha Kanchanaburi vs Chiangrai Utd SD	https://live.vivo200.com/live/sd-1-4463905.m3u8?txSecret=c406db8d751bca738ce02d3f0521d756&txTime=69A431A5
 
 18:15 [y]Netherlands Eredivisie[z]	^-
 PEC Zwolle vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199152/pec-zwolle-vs-afc-ajax.html
-PEC Zwolle vs AFC Ajax	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3ca3.m3u8?auth_key=1772371377-0-0-9ba4d4cb14226fd170e964532dbf23a1
+PEC Zwolle vs AFC Ajax	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3ca3.m3u8?auth_key=1772378690-0-0-a31670bfd75e22eafdef970906df923d
+PEC Zwolle vs AFC Ajax SD	https://live.vivo200.com/live/sd-1-4344704.m3u8?txSecret=42f5f5c68a60f5ca2ba697b811cc19f4&txTime=69A44E1E
 
 18:30 [y]Italian Serie A[z]	^-
 Cremonese vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194748/cremonese-vs-ac-milan.html
-Cremonese vs AC Milan	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dad.m3u8?auth_key=1772371377-0-0-8bcd83b1bba3c7de8b3ff26bbdbac860
+Cremonese vs AC Milan	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dad.m3u8?auth_key=1772378690-0-0-e708365f18969ab70978334eb2a4aa63
 
 18:30 [g]Thai League 1[z]	^-
 BG Pathum United vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320285/bg-pathum-united-vs-sukhothai.html
