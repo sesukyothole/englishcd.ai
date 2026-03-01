@@ -92,43 +92,55 @@ Paris FC vs Nice HD	https://live.vivo200.com/live/hd-en-1-4347893.m3u8?txSecret=
 
 21:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199737/vfb-stuttgart-vs-vfl-wolfsburg.html
-VfB Stuttgart vs VfL Wolfsburg	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f6.m3u8?auth_key=1772372021-0-0-a826c59eacacf349318a3e53c3724b25
+VfB Stuttgart vs VfL Wolfsburg	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f6.m3u8?auth_key=1772398068-0-0-5dc34911660385d5ead047a8b939eb02
+VfB Stuttgart vs VfL Wolfsburg SD	https://live.vivo200.com/live/sd-1-4347574.m3u8?txSecret=0f16634f72631f83395bc45b58dc8b8d&txTime=69A49A31
+VfB Stuttgart vs VfL Wolfsburg HD	https://live.vivo200.com/live/hd-en-1-4347574.m3u8?txSecret=d61b7e69a582dd734f0445562dd0a403&txTime=69A49A31
 
 22:00 [g]Belgian Pro League[z]	^-
 Westerlo vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198998/kvc-westerlo-vs-union-saint-gilloise.html
-Westerlo vs Saint Gilloise	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f9.m3u8?auth_key=1772372021-0-0-8c898c98f8d60ad0651889de8d5950a6
+Westerlo vs Saint Gilloise	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f9.m3u8?auth_key=1772398068-0-0-4f200ea0c9711581f4d8282039806da1
+Westerlo vs Saint Gilloise SD	https://live.vivo200.com/live/sd-1-4347203.m3u8?txSecret=7def234de772d395151533dc8e070860&txTime=69A49A2A
 
 22:15 [y]Spanish La Liga[z]	^-
 Valencia vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209584/valencia-cf-vs-ca-osasuna.html
-Valencia vs Osasuna	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c90.m3u8?auth_key=1772372021-0-0-88fbd66d789ccbff5aa160be56c23c48
+Valencia vs Osasuna	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c90.m3u8?auth_key=1772398068-0-0-31b90db6d998dd5ece6f82c6d1180c04
+Valencia vs Osasuna SD	https://live.vivo200.com/live/sd-1-4358954.m3u8?txSecret=79b8a898177ecd1aab557d2c2fa79ac1&txTime=69A49A1E
+Valencia vs Osasuna HD	https://live.vivo200.com/live/hd-en-1-4358954.m3u8?txSecret=e102c103de89a451e158b80fddb00b6c&txTime=69A49A1E
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216039/cd-tondela-vs-santa-clara.html
-CD Tondela vs Santa Clara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a74.m3u8?auth_key=1772372021-0-0-6aa023cfc592601d85005d903e0aa86a
+CD Tondela vs Santa Clara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a74.m3u8?auth_key=1772398068-0-0-7d0276d390d97c51bf9a1f87c3d4dea4
+CD Tondela vs Santa Clara SD	https://live.vivo200.com/live/sd-1-4369001.m3u8?txSecret=cf36bd98f7256825425099e6748071a8&txTime=69A49A1E
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 FC Utrecht vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199261/fc-utrecht-vs-az-alkmaar.html
-FC Utrecht vs AZ Alkmaar	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9b.m3u8?auth_key=1772372021-0-0-ee37836999eabecbc2134d29f29970a0
+FC Utrecht vs AZ Alkmaar	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9b.m3u8?auth_key=1772398068-0-0-b0f0bde014bf1413a7ac5919248b55a0
+FC Utrecht vs AZ Alkmaar SD	https://live.vivo200.com/live/sd-1-4344766.m3u8?txSecret=5dc5f26979cdeb674fcb92c9d49ae78c&txTime=69A49A1E
 
 23:00 [g]Danish Superliga[z]	^-
 Midtjylland vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193529/midtjylland-vs-brondby-if.html
-Midtjylland vs Brondby IF	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a59ed.m3u8?auth_key=1772372021-0-0-77cc0967d8e30d49c8e39d505c1aa4d1
+Midtjylland vs Brondby IF	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a59ed.m3u8?auth_key=1772398068-0-0-d6d27c37a7ec2719c835fd3bd2e4e474
+Midtjylland vs Brondby IF SD	https://live.vivo200.com/live/sd-1-4340771.m3u8?txSecret=bf8ba97c2322d58b3850fedcf254dbdd&txTime=69A49A21
 
 23:15 [y]French Ligue 1[z]	^-
 Metz vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200255/metz-vs-stade-brestois-29.html
-Metz vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5c.m3u8?auth_key=1772372021-0-0-0ef88c136d01739b49c877f5b2980271
-Lorient vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200257/lorient-vs-aj-auxerre.html
-Lorient vs AJ Auxerre	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5d.m3u8?auth_key=1772372021-0-0-0bab030575609a3ab929b7bf555d120d
+Metz vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5c.m3u8?auth_key=1772398068-0-0-66b21b36bab2ec7a06a65b0168deb063
+Metz vs Stade Brestois SD	https://live.vivo200.com/live/sd-1-4347891.m3u8?txSecret=edc676552a84798836a5f5a51d7122f9&txTime=69A49A21
+Metz vs Stade Brestois HD	https://live.vivo200.com/live/hd-en-1-4347891.m3u8?txSecret=89302ead8daf373bcc746df26ae01746&txTime=69A49A21
 Lille vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200289/losc-lille-vs-fc-nantes.html
-Lille vs Nantes	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5e.m3u8?auth_key=1772372021-0-0-1b6799f55a240345fe35e2ff710575fd
+Lille vs Nantes	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5e.m3u8?auth_key=1772398068-0-0-61047922e45ff48084fb995d233d8f33
+Lille vs Nantes SD	https://live.vivo200.com/live/sd-1-4347888.m3u8?txSecret=e9ff7136ed894d50f938e40adf8ae0c8&txTime=69A49A21
+Lille vs Nantes HD	https://live.vivo200.com/live/hd-en-1-4347888.m3u8?txSecret=5c76d5e817335caa8692c04da858d901&txTime=69A49A21
+Lorient vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200257/lorient-vs-aj-auxerre.html
+Lorient vs AJ Auxerre	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5d.m3u8?auth_key=1772398068-0-0-407d955f5e8720309d33eb880a951c22
 
 23:30 [y]English Premier League[z]	^-
 Arsenal vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193968/arsenal-vs-chelsea.html
-Arsenal vs Chelsea	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a63.m3u8?auth_key=1772372021-0-0-e236a98b3ee8c4bb6bd6c17a62372e80
+Arsenal vs Chelsea	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a63.m3u8?auth_key=1772398068-0-0-611d0865d1422d0f582fdfd6879cc2d6
 
 23:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199773/eintracht-frankfurt-vs-sc-freiburg.html
-Eintracht Frankfurt vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a64.m3u8?auth_key=1772372021-0-0-5b902bf30ee2e4e30386a299b3f0c508
+Eintracht Frankfurt vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a64.m3u8?auth_key=1772398068-0-0-1b3bac9985376c05f431ab4f18447f02
 
 02.03.2026	^-
 
