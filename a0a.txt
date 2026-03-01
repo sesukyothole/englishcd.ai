@@ -28,73 +28,29 @@
 
 01.03.2026	^-
 
-06:00 [g]Argentine Division 1[z]	^-
-Independiente vs Central Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321937/ca-independiente-vs-central-cordoba-sde.html
-Independiente vs Central Cordoba	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b20.m3u8?auth_key=1772343223-0-0-e8ef241392be2746bda40e8ab6bb17ff
-Independiente vs Central Cordoba SD	https://live.vivo200.com/live/sd-1-4465083.m3u8?txSecret=89412caa523b60cd2d67b0bca3b40eb8&txTime=69A3C385
-
-06:00 [g]Mexico Liga MX[z]	^-
-Toluca vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322466/toluca-vs-club-deportivo-guadalajara.html
-Toluca vs Chivas Guadalajara	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d45.m3u8?auth_key=1772343223-0-0-dd6b77e9af7497def4ef7c0f5e4685d7
-Toluca vs Chivas Guadalajara SD	https://live.vivo200.com/live/sd-1-4465508.m3u8?txSecret=381f9e70f4e34886971dcb96ea548282&txTime=69A3C823
-Atletico San Luis vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322477/atletico-san-luis-vs-puebla.html
-Atletico San Luis vs Puebla	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d44.m3u8?auth_key=1772343223-0-0-b73fef594cc765f51939d7aa77eb1655
-Atletico San Luis vs Puebla SD	https://live.vivo200.com/live/sd-1-4465525.m3u8?txSecret=03bfd7f27f05e4d0f63473f0724c2a75&txTime=69A3C385
-
-07:30 [g]US Major League Soccer[z]	^-
-Real Salt Lake vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317305/real-salt-lake-vs-seattle-sounders.html
-Real Salt Lake vs Seattle Sounders	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4d.m3u8?auth_key=1772343223-0-0-3ea0dedaaa962fc0bc1566a0bb5f8427
-Real Salt Lake vs Seattle Sounders SD	https://live.vivo200.com/live/sd-1-4460013.m3u8?txSecret=839082604cd2ccf8c8c363c856d42d56&txTime=69A3C3D0
-San Jose Earthquakes vs Atlanta Utd	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4321443/san-jose-earthquakes-vs-atlanta-united.html
-San Jose Earthquakes vs Atlanta Utd	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4c.m3u8?auth_key=1772343223-0-0-7077255c68ce4fc5a12ceccc12d28fef
-San Jose Earthquakes vs Atlanta Utd SD	https://live.vivo200.com/live/sd-1-4460014.m3u8?txSecret=e9d56387838a1b532a1a2288fdab4efa&txTime=69A3C3D0
-
-08:05 [g]Mexico Liga MX[z]	^-
-Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322483/monterrey-vs-cruz-azul.html
-Monterrey vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4f.m3u8?auth_key=1772343223-0-0-ee6c3f09af4c708c52b28a6708686163
-Monterrey vs CDSyC Cruz Azul SD	https://live.vivo200.com/live/sd-1-4465523.m3u8?txSecret=768990b821b3510487952cf895d4aba6&txTime=69A3C3D1
-Club Leon vs Necaxa	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322457/club-leon-vs-necaxa.html
-Club Leon vs Necaxa	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d4e.m3u8?auth_key=1772343223-0-0-a3c9d42296d94ad5a76fd92a71469b8d
-Club Leon vs Necaxa SD	https://live.vivo200.com/live/sd-1-4465528.m3u8?txSecret=6aafa6d9e10a7ee04df68ce78cb19909&txTime=69A3C3D1
-
-08:15 [g]Argentine Division 1[z]	^-
-Talleres Cordoba vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321955/talleres-cordoba-vs-san-lorenzo.html
-Talleres Cordoba vs San Lorenzo	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b27.m3u8?auth_key=1772343223-0-0-0a09355cf268a73b1af13cdac32ee9cc
-Talleres Cordoba vs San Lorenzo SD	https://live.vivo200.com/live/sd-1-4465036.m3u8?txSecret=38efa4a67a4f97d74442069789f7d4af&txTime=69A3C3D1
-
-08:30 [g]US Major League Soccer[z]	^-
-Houston Dynamo vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317299/houston-dynamo-vs-los-angeles-fc.html
-Houston Dynamo vs Los Angeles FC	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d55.m3u8?auth_key=1772344350-0-0-35fd1c1fdefc4c1e072efb6e7663129a
-Houston Dynamo vs Los Angeles FC SD	https://live.vivo200.com/live/sd-1-4460016.m3u8?txSecret=e8d1c05a362d5a8241bfda0f4ce52e1e&txTime=69A3C82A
-FC Dallas vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4334988/fc-dallas-vs-nashville.html
-FC Dallas vs Nashville	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d56.m3u8?auth_key=1772344350-0-0-90d7d30c88908e8471b6d224584062db
-FC Dallas vs Nashville SD	https://live.vivo200.com/live/sd-1-4460015.m3u8?txSecret=e9120f3fe0fe238899dbef61ad9f53b2&txTime=69A3C82A
-FC Kansas City vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4337350/sporting-kansas-city-vs-columbus-crew.html
-FC Kansas City vs Columbus Crew	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d54.m3u8?auth_key=1772344350-0-0-2e881aa0b4ea68566c870b6a147c560a
-FC Kansas City vs Columbus Crew SD	https://live.vivo200.com/live/sd-1-4460017.m3u8?txSecret=4a45a9bcf1fca9685f4b1e985c0084b3&txTime=69A3C82A
-
-09:00 [g]Australia A-League[z]	^-
-Wellington Phoenix vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282135/wellington-phoenix-vs-sydney-fc.html
-Wellington Phoenix vs Sydney FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e071.m3u8?auth_key=1772344350-0-0-674abd6206a163b4bf9f9194a9be9b4e
-
 09:30 [g]US Major League Soccer[z]	^-
 Vancouver Whitecaps vs Toronto FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317298/vancouver-whitecaps-vs-toronto-fc.html
 
 10:10 [g]Mexico Liga MX[z]	^-
 Club America vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322482/club-america-vs-tigres-uanl.html
 Club America vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e075.m3u8?auth_key=1772344350-0-0-8652f2b8875a87cc2b826eb9246e01e8
+Club America vs Tigres UANL SD	https://live.vivo200.com/live/sd-1-4465476.m3u8?txSecret=f13f4a0569020d0d18305bd52cc9c96d&txTime=69A40A86
 
 10:30 [g]US Major League Soccer[z]	^-
-Los Angeles Galaxy vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4332956/los-angeles-galaxy-vs-charlotte-fc.html
-Los Angeles Galaxy vs Charlotte FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e077.m3u8?auth_key=1772344350-0-0-7e18c1e3c4bd6771eafde278f09e0a85
+Los Angeles Galaxy vs Charlotte	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4332956/los-angeles-galaxy-vs-charlotte-fc.html
+Los Angeles Galaxy vs Charlotte	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e077.m3u8?auth_key=1772344350-0-0-7e18c1e3c4bd6771eafde278f09e0a85
+Los Angeles Galaxy vs Charlotte SD	https://live.vivo200.com/live/sd-1-4460019.m3u8?txSecret=54a37bf624afbc9ec2ae1951d39ca2b9&txTime=69A40A86
+Los Angeles Galaxy vs Charlotte HD	https://live.vivo200.com/live/hd-en-1-4460019.m3u8?txSecret=9e306af2c5e0c8a87f664ad5e214d014&txTime=69A40A86
 
 12:00 [g]Japanese J1 League[z]	^-
 Fagiano Okayama vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331662/fagiano-okayama-vs-nagoya-grampus.html
 Fagiano Okayama vs Nagoya Grampus	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e07b.m3u8?auth_key=1772344350-0-0-d09b88e63e2f6e41740fc29cc782920e
+Fagiano Okayama vs Nagoya Grampus SD	https://live.vivo200.com/live/sd-1-4470746.m3u8?txSecret=0f42ea4213b244334dff3c35d187b5c8&txTime=69A40A27
 
 14:00 [g]Japanese J1 League[z]	^-
 Kawasaki Frontale vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331739/kawasaki-frontale-vs-mito-hollyhock.html
 Kawasaki Frontale vs Mito Hollyhock	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e089.m3u8?auth_key=1772344350-0-0-e02b839f955e02e234a282ddcc496ba8
+Kawasaki Frontale vs Mito Hollyhock SD	https://live.vivo200.com/live/sd-1-4470657.m3u8?txSecret=841e9a438b8ace0571847e8a940c3b82&txTime=69A40A27
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
