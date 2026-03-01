@@ -28,11 +28,6 @@
 
 01.03.2026	^-
 
-19:30 [g]Belgian Pro League[z]	^-
-Racing Genk vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199009/racing-genk-vs-kaa-gent.html
-Racing Genk vs KAA Gent	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d5d.m3u8?auth_key=1772372021-0-0-0b2d5cfa9d8c0f28d4acd166cd67c9ad
-Racing Genk vs KAA Gent SD	https://live.vivo200.com/live/sd-1-4347240.m3u8?txSecret=8f2cf29f1118aa600be9215446bd918c&txTime=69A465AF
-
 20:00 [y]Spanish La Liga[z]	^-
 Elche vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209779/elche-vs-rcd-espanyol-de-barcelona.html
 Elche vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c97.m3u8?auth_key=1772393208-0-0-e93c49524611cb54f0ce737932028efa
