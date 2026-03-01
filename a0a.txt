@@ -28,11 +28,6 @@
 
 01.03.2026	^-
 
-23:00 [g]Danish Superliga[z]	^-
-Midtjylland vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193529/midtjylland-vs-brondby-if.html
-Midtjylland vs Brondby IF	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a59ed.m3u8?auth_key=1772398068-0-0-d6d27c37a7ec2719c835fd3bd2e4e474
-Midtjylland vs Brondby IF SD	https://live.vivo200.com/live/sd-1-4340771.m3u8?txSecret=bf8ba97c2322d58b3850fedcf254dbdd&txTime=69A49A21
-
 23:15 [y]French Ligue 1[z]	^-
 Metz vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200255/metz-vs-stade-brestois-29.html
 Metz vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5c.m3u8?auth_key=1772398068-0-0-66b21b36bab2ec7a06a65b0168deb063
