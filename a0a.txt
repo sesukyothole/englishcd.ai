@@ -28,16 +28,6 @@
 
 01.03.2026	^-
 
-19:00 [g]Scottish Premiership[z]	^-
-Glasgow Rangers vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206204/rangers-vs-celtic-fc.html
-Glasgow Rangers vs Celtic FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0c8.m3u8?auth_key=1772371377-0-0-a360080e88b79eb14c3b378f4ead2156
-Glasgow Rangers vs Celtic FC SD	https://live.vivo200.com/live/sd-1-4353505.m3u8?txSecret=f3453ddde4a19b1e56c450f844ee8f6c&txTime=69A465FE
-
-19:00 [g]Thai League 1[z]	^-
-Muang Thong United vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320291/muangthong-united-vs-port-fc.html
-Muang Thong United vs Port FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0c9.m3u8?auth_key=1772371377-0-0-9669c3421deabf5b5de4dfb9da994b31
-Muang Thong United vs Port FC SD	https://live.vivo200.com/live/sd-1-4463909.m3u8?txSecret=0e327aa61110895bde2d95c13341b4fb&txTime=69A465FE
-
 19:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199009/racing-genk-vs-kaa-gent.html
 Racing Genk vs KAA Gent	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d5d.m3u8?auth_key=1772372021-0-0-0b2d5cfa9d8c0f28d4acd166cd67c9ad
