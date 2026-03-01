@@ -28,22 +28,6 @@
 
 02.03.2026	^-
 
-02:30 [g]US Major League Soccer[z]	^-
-Austin FC vs Washington Union	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b0f.m3u8?auth_key=1772401993-0-0-1a551d31155f2f7091d2fa0145e8f08d
-Austin FC vs Washington Union SD	https://live.vivo200.com/live/sd-1-4460020.m3u8?txSecret=97704b6b3baaae3e50bfc2fe9054a891&txTime=69A4A925
-
-02:45 [y]Italian Serie A[z]	^-
-AS Roma vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194648/as-roma-vs-juventus.html
-AS Roma vs Juventus	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3daf.m3u8?auth_key=1772401993-0-0-30a3e1dfa43744b825963427a298fd84
-AS Roma vs Juventus SD	https://live.vivo200.com/live/sd-1-4339834.m3u8?txSecret=31146f0d6dc1b759a13c8a7ea534c88e&txTime=69A4C2F2
-AS Roma vs Juventus HD	https://live.vivo200.com/live/hd-en-1-4339834.m3u8?txSecret=cba00bdb531405b9f69dc470f45b5782&txTime=69A4C2F2
-
-02:45 [y]French Ligue 1[z]	^-
-Marseille vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200281/marseille-vs-lyon.html
-Marseille vs Lyon	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b13.m3u8?auth_key=1772401993-0-0-4522068e24f3f17761f3b9aff5e30bc2
-Marseille vs Lyon SD	https://live.vivo200.com/live/sd-1-4347890.m3u8?txSecret=3c36f0efb6e48c46a0116526cfa3221d&txTime=69A4C2F2
-Marseille vs Lyon HD	https://live.vivo200.com/live/hd-en-1-4347890.m3u8?txSecret=a4795e6911060a3e14b612766ec6656f&txTime=69A4C2F2
-
 03:00 [y]Spanish La Liga[z]	^-
 Girona vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209843/girona-fc-vs-rc-celta.html
 Girona vs Real Celta Vigo	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c92.m3u8?auth_key=1772401993-0-0-b08b353f0b325f5674fef43292c57398
