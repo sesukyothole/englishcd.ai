@@ -28,17 +28,6 @@
 
 01.03.2026	^-
 
-10:20 [g]Mexico Liga MX[z]	^-
-Club America vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322482/club-america-vs-tigres-uanl.html
-Club America vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e075.m3u8?auth_key=1772344350-0-0-8652f2b8875a87cc2b826eb9246e01e8
-Club America vs Tigres UANL SD	https://live.vivo200.com/live/sd-1-4465476.m3u8?txSecret=f13f4a0569020d0d18305bd52cc9c96d&txTime=69A40A86
-
-10:30 [g]US Major League Soccer[z]	^-
-Los Angeles Galaxy vs Charlotte	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4332956/los-angeles-galaxy-vs-charlotte-fc.html
-Los Angeles Galaxy vs Charlotte	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e077.m3u8?auth_key=1772344350-0-0-7e18c1e3c4bd6771eafde278f09e0a85
-Los Angeles Galaxy vs Charlotte SD	https://live.vivo200.com/live/sd-1-4460019.m3u8?txSecret=54a37bf624afbc9ec2ae1951d39ca2b9&txTime=69A40A86
-Los Angeles Galaxy vs Charlotte HD	https://live.vivo200.com/live/hd-en-1-4460019.m3u8?txSecret=9e306af2c5e0c8a87f664ad5e214d014&txTime=69A40A86
-
 12:00 [g]Japanese J1 League[z]	^-
 Fagiano Okayama vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331662/fagiano-okayama-vs-nagoya-grampus.html
 Fagiano Okayama vs Nagoya Grampus	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e07b.m3u8?auth_key=1772344350-0-0-d09b88e63e2f6e41740fc29cc782920e
