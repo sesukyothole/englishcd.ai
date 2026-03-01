@@ -28,37 +28,43 @@
 
 01.03.2026	^-
 
-12:00 [g]Japanese J1 League[z]	^-
-Fagiano Okayama vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331662/fagiano-okayama-vs-nagoya-grampus.html
-Fagiano Okayama vs Nagoya Grampus	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e07b.m3u8?auth_key=1772344350-0-0-d09b88e63e2f6e41740fc29cc782920e
-Fagiano Okayama vs Nagoya Grampus SD	https://live.vivo200.com/live/sd-1-4470746.m3u8?txSecret=0f42ea4213b244334dff3c35d187b5c8&txTime=69A40A27
-
 14:00 [g]Japanese J1 League[z]	^-
 Kawasaki Frontale vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331739/kawasaki-frontale-vs-mito-hollyhock.html
-Kawasaki Frontale vs Mito Hollyhock	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e089.m3u8?auth_key=1772344350-0-0-e02b839f955e02e234a282ddcc496ba8
+Kawasaki Frontale vs Mito Hollyhock	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e089.m3u8?auth_key=1772371377-0-0-8db87eb9943b3ed9bd049f319be1fc21
 Kawasaki Frontale vs Mito Hollyhock SD	https://live.vivo200.com/live/sd-1-4470657.m3u8?txSecret=841e9a438b8ace0571847e8a940c3b82&txTime=69A40A27
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Australia vs Philippines	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248092/australia-women-vs-philippines-women.html
+Australia vs Philippines	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e09c.m3u8?auth_key=1772371377-0-0-9a519af3b98d69287c7a3aaeb364459e
+Australia vs Philippines SD	https://live.vivo200.com/live/sd-1-4390942.m3u8?txSecret=44a9a04b01395739c0ebd49299a8acc4&txTime=69A42AF6
+Australia vs Philippines HD	https://live.vivo200.com/live/hd-en-1-4390942.m3u8?txSecret=b8cf7d4bc34f606fc5144c98cbc1721a&txTime=69A42AF6
 
 18:00 [g]Thai League 1[z]	^-
 Singha Kanchanaburi vs Chiangrai Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320290/kanchanaburi-power-fc-vs-chiangrai-united.html
+Singha Kanchanaburi vs Chiangrai Utd	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0ab.m3u8?auth_key=1772371377-0-0-2f12a5e85d01acdde0d9124ddf7ead61
+Singha Kanchanaburi vs Chiangrai Utd	https://live.vivo200.com/live/sd-1-4463905.m3u8?txSecret=c406db8d751bca738ce02d3f0521d756&txTime=69A431A5
 
 18:15 [y]Netherlands Eredivisie[z]	^-
 PEC Zwolle vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199152/pec-zwolle-vs-afc-ajax.html
+PEC Zwolle vs AFC Ajax	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3ca3.m3u8?auth_key=1772371377-0-0-9ba4d4cb14226fd170e964532dbf23a1
 
 18:30 [y]Italian Serie A[z]	^-
 Cremonese vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194748/cremonese-vs-ac-milan.html
+Cremonese vs AC Milan	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3dad.m3u8?auth_key=1772371377-0-0-8bcd83b1bba3c7de8b3ff26bbdbac860
 
 18:30 [g]Thai League 1[z]	^-
 BG Pathum United vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320285/bg-pathum-united-vs-sukhothai.html
+BG Pathum United vs Sukhothai	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0c2.m3u8?auth_key=1772371377-0-0-6bdfa253118ac4934351f612456adc6a
 Nakhon Ratchasima vs Prachuap Khiri	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320292/nakhon-ratchasima-mazda-fc-vs-pt-prachuap-fc.html
+Nakhon Ratchasima vs Prachuap Khiri	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0c3.m3u8?auth_key=1772371377-0-0-c17c77c0f3359dbfef1f5c87580c852d
 
 19:00 [g]Scottish Premiership[z]	^-
 Glasgow Rangers vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206204/rangers-vs-celtic-fc.html
+Glasgow Rangers vs Celtic FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0c8.m3u8?auth_key=1772371377-0-0-a360080e88b79eb14c3b378f4ead2156
 
 19:00 [g]Thai League 1[z]	^-
 Muang Thong United vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320291/muangthong-united-vs-port-fc.html
+Muang Thong United vs Port FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0c9.m3u8?auth_key=1772371377-0-0-9669c3421deabf5b5de4dfb9da994b31
 
 19:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199009/racing-genk-vs-kaa-gent.html
