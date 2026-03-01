@@ -68,60 +68,89 @@ Muang Thong United vs Port FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0
 
 19:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199009/racing-genk-vs-kaa-gent.html
+Racing Genk vs KAA Gent	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d5d.m3u8?auth_key=1772372021-0-0-0b2d5cfa9d8c0f28d4acd166cd67c9ad
 
 20:00 [y]Spanish La Liga[z]	^-
 Elche vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209779/elche-vs-rcd-espanyol-de-barcelona.html
+Elche vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c97.m3u8?auth_key=1772372021-0-0-a2532b098515bfdef33ed0239d0d32f9
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 FC Twente Enschede vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199319/fc-twente-enschede-vs-feyenoord.html
+FC Twente Enschede vs Feyenoord	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9c.m3u8?auth_key=1772372021-0-0-93aa5566933e7d2908aff5e9899dcd25
+Volendam vs Groningen	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9d.m3u8?auth_key=1772372021-0-0-0513d502f4406d87656cbf9bc4bd6e4e
 
 20:30 Liga 1	^-
 Persis Solo FC vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229607/persis-solo-fc-vs-persatuan-sepak-bola-indonesia-kediri.html
+Persis Solo FC vs Persik Kediri	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3d95.m3u8?auth_key=1772372021-0-0-0ae6983ce772bd592d816e4d01e3adc2
 Dewa United FC vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229669/dewa-united-fc-vs-bhayangkara-presisi-indonesia-fc.html
+Dewa United FC vs Bhayangkara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b7d.m3u8?auth_key=1772372021-0-0-3e83f096a380e1757c1c0d6ed147f8bc
 
 20:30 Liga 2	^-
 Deltras Sidoarjo vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352227/deltras-sidoarjo-vs-barito-putera.html
+Deltras Sidoarjo vs Barito Putera	`0https://www.marza12.shop/football/2941565-deltras-sidoarjo-vs-barito-putera.html
 Persela Lamongan vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352232/persela-lamongan-vs-pss-sleman.html
+Persela Lamongan vs PSS Sleman	`0https://www.marza12.shop/football/2941567-persela-lamongan-vs-pss-sleman.html
 Persekat Tegal vs Adhyaksa Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352246/persekat-tegal-vs-adhyaksa-fc-banten.html
+Persekat Tegal vs Adhyaksa Banten	`0https://www.marza12.shop/football/2941564-persekat-tegal-vs-adhyaksa-farmel-fc.html
 Kendal Tornado vs Persi Jayapura	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352256/kendal-tornado-fc-vs-persipura-jayapura.html
+Kendal Tornado vs Persi Jayapura	`0https://www.marza12.shop/football/2941566-beigan-baru-tornado-vs-persipura-jayapura.html
 Persiba Balikpapan vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352262/persiba-balikpapan-vs-psis-semarang.html
+Persiba Balikpapan vs PSIS Semarang	`0https://www.marza12.shop/football/2941568-persiba-balikpapan-vs-psis-semarang.html
+
+21:00 Malaysian Super League	^-
+Imigresen FC vs Kuching FC	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0da.m3u8?auth_key=1772372021-0-0-365f6dc1b2939f94feb2893606a61d54
 
 21:00 [y]English Premier League[z]	^-
 Manchester United vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193916/manchester-united-vs-crystal-palace.html
+Manchester United vs Crystal Palace	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da4.m3u8?auth_key=1772372021-0-0-ee0d53825e3482ff97b0ef71fbd336d6
 Fulham vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193962/fulham-vs-tottenham-hotspur.html
+Fulham vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da5.m3u8?auth_key=1772372021-0-0-fd63ea8962d3966408275f75fabc73ec
 Brighton Hove vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194001/brighton-hove-albion-vs-nottingham-forest.html
+Brighton Hove vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fc4.m3u8?auth_key=1772372021-0-0-90e315d78f7648b1f59534e7800c6df8
 
 21:00 [y]Italian Serie A[z]	^-
 Sassuolo vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194710/sassuolo-vs-atalanta.html
+Sassuolo vs Atalanta	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da9.m3u8?auth_key=1772372021-0-0-d226dad45972fc2344cb139698d3b438
 
 21:00 [y]French Ligue 1[z]	^-
 Paris FC vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200221/paris-fc-vs-ogc-nice.html
+Paris FC vs Nice	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3db0.m3u8?auth_key=1772372021-0-0-601d95c1edda19f784a14d5db007daf5
 
 21:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199737/vfb-stuttgart-vs-vfl-wolfsburg.html
+VfB Stuttgart vs VfL Wolfsburg	https://bo2.qiuxun.tv/sla/1-6983660402bc90c280e2e0f6.m3u8?auth_key=1772372021-0-0-a826c59eacacf349318a3e53c3724b25
 
 22:15 [y]Spanish La Liga[z]	^-
 Valencia vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209584/valencia-cf-vs-ca-osasuna.html
+Valencia vs Osasuna	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c90.m3u8?auth_key=1772372021-0-0-88fbd66d789ccbff5aa160be56c23c48
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216039/cd-tondela-vs-santa-clara.html
+CD Tondela vs Santa Clara	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a74.m3u8?auth_key=1772372021-0-0-6aa023cfc592601d85005d903e0aa86a
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 FC Utrecht vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199261/fc-utrecht-vs-az-alkmaar.html
+FC Utrecht vs AZ Alkmaar	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c9b.m3u8?auth_key=1772372021-0-0-ee37836999eabecbc2134d29f29970a0
 
 23:00 [g]Danish Superliga[z]	^-
 Midtjylland vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4193529/midtjylland-vs-brondby-if.html
+Midtjylland vs Brondby IF	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a59ed.m3u8?auth_key=1772372021-0-0-77cc0967d8e30d49c8e39d505c1aa4d1
 
 23:15 [y]French Ligue 1[z]	^-
 Metz vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200255/metz-vs-stade-brestois-29.html
+Metz vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5c.m3u8?auth_key=1772372021-0-0-0ef88c136d01739b49c877f5b2980271
 Lorient vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200257/lorient-vs-aj-auxerre.html
+Lorient vs AJ Auxerre	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5d.m3u8?auth_key=1772372021-0-0-0bab030575609a3ab929b7bf555d120d
 Lille vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200289/losc-lille-vs-fc-nantes.html
+Lille vs Nantes	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a5e.m3u8?auth_key=1772372021-0-0-1b6799f55a240345fe35e2ff710575fd
 
 23:30 [y]English Premier League[z]	^-
 Arsenal vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193968/arsenal-vs-chelsea.html
+Arsenal vs Chelsea	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a63.m3u8?auth_key=1772372021-0-0-e236a98b3ee8c4bb6bd6c17a62372e80
 
 23:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199773/eintracht-frankfurt-vs-sc-freiburg.html
+Eintracht Frankfurt vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a64.m3u8?auth_key=1772372021-0-0-5b902bf30ee2e4e30386a299b3f0c508
 
 02.03.2026	^-
 
