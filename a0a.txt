@@ -28,14 +28,6 @@
 
 02.03.2026	^-
 
-13:00 [l]Women’s WC Qualifying[z]	^-
-New Zealand vs Solomon Islands	`Fhttps://www.fctv33.net/football/wc-qualifying-match-4360687/new-zealand-women-vs-solomon-islands-women.html
-New Zealand vs Solomon Islands	https://bo2.qiuxun.tv/sla/1-699dfc3d952272c52c0849f9.m3u8?auth_key=1772453311-0-0-b7de2333f120caafaf26bc2c8837e2d6
-New Zealand vs Solomon Islands	https://live.trendgallary.com/live/edq09ill1p1feqx_577b741d0062abfe4e95588d4a61ad58_h1080p.m3u8
-
-15:00 [l]ASEAN Women's Futsal Championship[z]	^-
-Indonesia vs Vietnam	`Fhttps://www.fctv33.net/football/asean-womens-futsal-championship-2026-match-4364162/indonesia-vs-vietnam---3rd-place.html
-
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 South Korea vs Iran	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4302297/south-korea-women-vs-iran-women.html
 South Korea vs Iran	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b73.m3u8?auth_key=1772401993-0-0-86e15cc549256c2686448492e1f1e324
@@ -46,7 +38,11 @@ Australia vs Thailand	`Fhttps://www.fctv33.net/football/asean-womens-futsal-cham
 
 20:30 Liga 1	^-
 PSM Makassar vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229495/persatuan-sepakbola-makassar-vs-persita-tangerang.html
+PSM Makassar vs Persita Tangerang	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b7c.m3u8?auth_key=1772468477-0-0-58a71b50984353f812a957a4df8e0237
+PSM Makassar vs Persita Tangerang SD	https://live.vivo200.com/live/sd-1-4379519.m3u8?txSecret=d70c11b94244f9f596ffc5603c7d1963&txTime=69A5ACDA
 Perse Surabaya vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229503/persebaya-surabaya-vs-persib-bandung.html
+Perse Surabaya vs Persib Bandung	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b7e.m3u8?auth_key=1772468477-0-0-dd8b2539f55318ae07f66c832d74c8bb
+Perse Surabaya vs Persib Bandung SD	https://live.vivo200.com/live/sd-1-4379486.m3u8?txSecret=b843001ef2cef4d10df74985dbaacf67&txTime=69A5ACDA
 
 03.03.2026	^-
 
