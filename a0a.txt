@@ -48,32 +48,42 @@ Perse Surabaya vs Persib Bandung SD	https://live.vivo200.com/live/sd-1-4379486.m
 
 00:30 [y]Italian Serie A[z]	^-
 Pisa vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194669/pisa-vs-bologna.html
+Pisa vs Bologna	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3daa.m3u8?auth_key=1772468477-0-0-c27265ddc7652cf007d0c108938b4deb
 
 02:00 [l]Women’s WC Qualifier CONCACAF[z]	^-
 Saint Lucia vs Mexico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303291/saint-lucia-women-vs-mexico-women.html
 
 02:45 [y]Italian Serie A[z]	^-
 Udinese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194671/udinese-vs-fiorentina.html
+Udinese vs Fiorentina	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da7.m3u8?auth_key=1772468477-0-0-4d883d9fa05a3a236b8340225828f963
 
 03:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203780/birmingham-city-vs-middlesbrough.html
+Birmingham City vs Middlesbrough	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fd0.m3u8?auth_key=1772468477-0-0-af1f056e508bf238a4c951c0ec68129e
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209594/real-madrid-vs-getafe.html
+Real Madrid vs Getafe	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c91.m3u8?auth_key=1772468477-0-0-a6afbf803dfa230d6f245af4d1d9c0fd
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216040/gil-vicente-vs-benfica.html
+Gil Vicente vs Benfica	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a78.m3u8?auth_key=1772468477-0-0-75eeed081d6fc90f9441a317d458e0c1
 
 05:15 [g]Argentine Division 1[z]	^-
 Estudiantes Plata vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321924/estudiantes-la-plata-vs-velez-sarsfield.html
+Estudiantes Plata vs Velez Sarsfield	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b1e.m3u8?auth_key=1772468477-0-0-64bf588e007b133ff104b53ad6638a38
 Deportivo Riestra vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321929/deportivo-riestra-vs-ca-platense.html
+Deportivo Riestra vs CA Platense	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b25.m3u8?auth_key=1772468477-0-0-14e5ee8c0f909b18157e05783d76539e
 
 07:30 [g]Argentine Division 1[z]	^-
 Indep Rivadavia vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321923/independiente-rivadavia-vs-river-plate.html
+Indep Rivadavia vs River Plate	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b24.m3u8?auth_key=1772468477-0-0-974dec91c7f4fd0dea5e625cb5cd1972
 Banfield vs Aldosivi Mar Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321962/banfield-vs-aldosivi-mar-del-plata.html
+Banfield vs Aldosivi Mar Plata	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b28.m3u8?auth_key=1772468477-0-0-5b53c3577e481805216435e9f1a09d78
 
 09:00 [l]AFC Women’s Asian Cup[z]	^-
 North Korea vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4304270/north-korea-women-vs-uzbekistan-women.html
+North Korea vs Uzbekistan	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0551d.m3u8?auth_key=1772468477-0-0-5071c3d4dabaf7cf81c4e82b329825d8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
