@@ -46,8 +46,7 @@ Birmingham City vs Middlesbrough SD	https://live.vivo200.com/live/sd-1-4351524.m
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209594/real-madrid-vs-getafe.html
 Real Madrid vs Getafe	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c91.m3u8?auth_key=1772468477-0-0-a6afbf803dfa230d6f245af4d1d9c0fd
-Real Madrid vs Getafe SD	https://live.vivo200.com/live/sd-1-4358953.m3u8?txSecret=18babecdcf37d909666575eb9d82f146&txTime=69A634CA
-Real Madrid vs Getafe HD	https://live.vivo200.com/live/hd-en-1-4358953.m3u8?txSecret=02c68911b657e6062e45cd471b086300&txTime=69A634CA
+Real Madrid vs Getafe	https://live2.trendgallary.com/live/12562090_8386335175fc7f8572734ed1bf3e83ab_h1080p.m3u8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216040/gil-vicente-vs-benfica.html
