@@ -41,9 +41,43 @@ South Korea vs Iran	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match
 South Korea vs Iran	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b73.m3u8?auth_key=1772401993-0-0-86e15cc549256c2686448492e1f1e324
 South Korea vs Iran	https://live.vivo200.com/live/sd-1-4390934.m3u8?txSecret=05a4b41f9393d5791867ff23dee8b4c2&txTime=69A571CA
 
+18:00 [l]ASEAN Women's Futsal Championship[z]	^-
+Australia vs Thailand	`Fhttps://www.fctv33.net/football/asean-womens-futsal-championship-2026-match-4364163/aiustralia-vs-thailand---final.html
+
 20:30 Liga 1	^-
 PSM Makassar vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229495/persatuan-sepakbola-makassar-vs-persita-tangerang.html
 Perse Surabaya vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229503/persebaya-surabaya-vs-persib-bandung.html
+
+03.03.2026	^-
+
+00:30 [y]Italian Serie A[z]	^-
+Pisa vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194669/pisa-vs-bologna.html
+
+02:00 [l]Women’s WC Qualifier CONCACAF[z]	^-
+Saint Lucia vs Mexico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303291/saint-lucia-women-vs-mexico-women.html
+
+02:45 [y]Italian Serie A[z]	^-
+Udinese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194671/udinese-vs-fiorentina.html
+
+03:00 [g]English Football League Champ[z]	^-
+Birmingham City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203780/birmingham-city-vs-middlesbrough.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Real Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209594/real-madrid-vs-getafe.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+Gil Vicente vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216040/gil-vicente-vs-benfica.html
+
+05:15 [g]Argentine Division 1[z]	^-
+Estudiantes Plata vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321924/estudiantes-la-plata-vs-velez-sarsfield.html
+Deportivo Riestra vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321929/deportivo-riestra-vs-ca-platense.html
+
+07:30 [g]Argentine Division 1[z]	^-
+Indep Rivadavia vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321923/independiente-rivadavia-vs-river-plate.html
+Banfield vs Aldosivi Mar Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321962/banfield-vs-aldosivi-mar-del-plata.html
+
+09:00 [l]AFC Women’s Asian Cup[z]	^-
+North Korea vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4304270/north-korea-women-vs-uzbekistan-women.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
