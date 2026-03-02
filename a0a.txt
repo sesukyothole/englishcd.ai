@@ -31,9 +31,12 @@
 00:30 [y]Italian Serie A[z]	^-
 Pisa vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194669/pisa-vs-bologna.html
 Pisa vs Bologna	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3daa.m3u8?auth_key=1772468477-0-0-c27265ddc7652cf007d0c108938b4deb
+Pisa vs Bologna SD	https://live.vivo200.com/live/sd-1-4339844.m3u8?txSecret=2152e90286f05e7ca9c80641ffd20cdf&txTime=69A5F9BA
+Pisa vs Bologna HD	https://live.vivo200.com/live/hd-en-1-4339844.m3u8?txSecret=83d7742b6efffbcd4847abdbd7e11161&txTime=69A5F9BA
 
 02:00 [l]Women’s WC Qualifier CONCACAF[z]	^-
 Saint Lucia vs Mexico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303291/saint-lucia-women-vs-mexico-women.html
+Saint Lucia vs Mexico	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05516.m3u8?auth_key=1772488086-0-0-14874aea21cdd1788c2a5678d795c856
 
 02:45 [y]Italian Serie A[z]	^-
 Udinese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194671/udinese-vs-fiorentina.html
@@ -42,14 +45,18 @@ Udinese vs Fiorentina	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da7.m3u8?
 03:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203780/birmingham-city-vs-middlesbrough.html
 Birmingham City vs Middlesbrough	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fd0.m3u8?auth_key=1772468477-0-0-af1f056e508bf238a4c951c0ec68129e
+Birmingham City vs Middlesbrough SD	https://live.vivo200.com/live/sd-1-4351524.m3u8?txSecret=6faa8dcc58856bf0487d2b887fb6696f&txTime=69A5F9BA
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209594/real-madrid-vs-getafe.html
 Real Madrid vs Getafe	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3c91.m3u8?auth_key=1772468477-0-0-a6afbf803dfa230d6f245af4d1d9c0fd
+Real Madrid vs Getafe SD	https://live.vivo200.com/live/sd-1-4358953.m3u8?txSecret=ca550808a35e0d422a5f54271a7b6dee&txTime=69A5F9BA
+Real Madrid vs Getafe HD	https://live.vivo200.com/live/hd-en-1-4358953.m3u8?txSecret=83a970e6c863faa7ac12e0566c7d8c33&txTime=69A5F9BA
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216040/gil-vicente-vs-benfica.html
 Gil Vicente vs Benfica	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a78.m3u8?auth_key=1772468477-0-0-75eeed081d6fc90f9441a317d458e0c1
+Gil Vicente vs Benfica SD	https://live.vivo200.com/live/sd-1-4368997.m3u8?txSecret=eeb11beab44685a8ac3c90aa21969fd6&txTime=69A5F9C2
 
 05:15 [g]Argentine Division 1[z]	^-
 Estudiantes Plata vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321924/estudiantes-la-plata-vs-velez-sarsfield.html
