@@ -28,15 +28,6 @@
 
 03.03.2026	^-
 
-02:00 [l]Women’s WC Qualifier CONCACAF[z]	^-
-Saint Lucia vs Mexico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303291/saint-lucia-women-vs-mexico-women.html
-Saint Lucia vs Mexico	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05516.m3u8?auth_key=1772488086-0-0-14874aea21cdd1788c2a5678d795c856
-
-02:45 [y]Italian Serie A[z]	^-
-Udinese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194671/udinese-vs-fiorentina.html
-Udinese vs Fiorentina	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da7.m3u8?auth_key=1772468477-0-0-4d883d9fa05a3a236b8340225828f963
-Udinese vs Fiorentina	https://live.trendgallary.com/live/12418713_1d4d55f58c8591502fcfcf9fee3218c9_h1080p.m3u8
-
 03:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203780/birmingham-city-vs-middlesbrough.html
 Birmingham City vs Middlesbrough	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fd0.m3u8?auth_key=1772468477-0-0-af1f056e508bf238a4c951c0ec68129e
