@@ -28,12 +28,6 @@
 
 03.03.2026	^-
 
-00:30 [y]Italian Serie A[z]	^-
-Pisa vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194669/pisa-vs-bologna.html
-Pisa vs Bologna	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3daa.m3u8?auth_key=1772468477-0-0-c27265ddc7652cf007d0c108938b4deb
-Pisa vs Bologna SD	https://live.vivo200.com/live/sd-1-4339844.m3u8?txSecret=2152e90286f05e7ca9c80641ffd20cdf&txTime=69A5F9BA
-Pisa vs Bologna HD	https://live.vivo200.com/live/hd-en-1-4339844.m3u8?txSecret=83d7742b6efffbcd4847abdbd7e11161&txTime=69A5F9BA
-
 02:00 [l]Women’s WC Qualifier CONCACAF[z]	^-
 Saint Lucia vs Mexico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303291/saint-lucia-women-vs-mexico-women.html
 Saint Lucia vs Mexico	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05516.m3u8?auth_key=1772488086-0-0-14874aea21cdd1788c2a5678d795c856
