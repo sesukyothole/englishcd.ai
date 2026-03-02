@@ -35,13 +35,12 @@ Saint Lucia vs Mexico	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05516.m3u8?
 02:45 [y]Italian Serie A[z]	^-
 Udinese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194671/udinese-vs-fiorentina.html
 Udinese vs Fiorentina	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da7.m3u8?auth_key=1772468477-0-0-4d883d9fa05a3a236b8340225828f963
-Udinese vs Fiorentina SD	https://live.vivo200.com/live/sd-1-4339850.m3u8?txSecret=7e7caff10e49c5f8950bd0eb3df4b7e5&txTime=69A611A2
-Udinese vs Fiorentina HD	https://live.vivo200.com/live/hd-en-1-4339850.m3u8?txSecret=6371f30068b06e195590c757fabea04c&txTime=69A611A2
+Udinese vs Fiorentina	https://live.trendgallary.com/live/12418713_1d4d55f58c8591502fcfcf9fee3218c9_h1080p.m3u8
 
 03:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203780/birmingham-city-vs-middlesbrough.html
 Birmingham City vs Middlesbrough	https://bo2.qiuxun.tv/sla/1-69821483761cdece33e32fd0.m3u8?auth_key=1772468477-0-0-af1f056e508bf238a4c951c0ec68129e
-Birmingham City vs Middlesbrough SD	https://live.vivo200.com/live/sd-1-4351524.m3u8?txSecret=6faa8dcc58856bf0487d2b887fb6696f&txTime=69A5F9BA
+Birmingham City vs Middlesbrough	https://live1.trendgallary.com/live/13278189_36d7d5b39b5f68e52f07ee4ef9b5944c_h1080p.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209594/real-madrid-vs-getafe.html
@@ -51,7 +50,7 @@ Real Madrid vs Getafe	https://live2.trendgallary.com/live/12562090_8386335175fc7
 03:15 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216040/gil-vicente-vs-benfica.html
 Gil Vicente vs Benfica	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5a78.m3u8?auth_key=1772468477-0-0-75eeed081d6fc90f9441a317d458e0c1
-Gil Vicente vs Benfica SD	https://live.vivo200.com/live/sd-1-4368997.m3u8?txSecret=eeb11beab44685a8ac3c90aa21969fd6&txTime=69A5F9C2
+Gil Vicente vs Benfica	https://play3.yhuias.com/live/11472137537_4004423546_adaptive.m3u8
 
 05:15 [g]Argentine Division 1[z]	^-
 Estudiantes Plata vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321924/estudiantes-la-plata-vs-velez-sarsfield.html
