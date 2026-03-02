@@ -41,6 +41,8 @@ Saint Lucia vs Mexico	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05516.m3u8?
 02:45 [y]Italian Serie A[z]	^-
 Udinese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194671/udinese-vs-fiorentina.html
 Udinese vs Fiorentina	https://bo2.qiuxun.tv/sla/1-698366049f151a19a6fc3da7.m3u8?auth_key=1772468477-0-0-4d883d9fa05a3a236b8340225828f963
+Udinese vs Fiorentina SD	https://live.vivo200.com/live/sd-1-4339850.m3u8?txSecret=7e7caff10e49c5f8950bd0eb3df4b7e5&txTime=69A611A2
+Udinese vs Fiorentina HD	https://live.vivo200.com/live/hd-en-1-4339850.m3u8?txSecret=6371f30068b06e195590c757fabea04c&txTime=69A611A2
 
 03:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203780/birmingham-city-vs-middlesbrough.html
