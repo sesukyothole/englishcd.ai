@@ -28,11 +28,6 @@
 
 02.03.2026	^-
 
-16:00 [l]AFC Women’s Asian Cup[z]	^-
-South Korea vs Iran	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4302297/south-korea-women-vs-iran-women.html
-South Korea vs Iran	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b73.m3u8?auth_key=1772401993-0-0-86e15cc549256c2686448492e1f1e324
-South Korea vs Iran	https://live.vivo200.com/live/sd-1-4390934.m3u8?txSecret=05a4b41f9393d5791867ff23dee8b4c2&txTime=69A571CA
-
 18:00 [l]ASEAN Women's Futsal Championship[z]	^-
 Australia vs Thailand	`Fhttps://www.fctv33.net/football/asean-womens-futsal-championship-2026-match-4364163/aiustralia-vs-thailand---final.html
 
