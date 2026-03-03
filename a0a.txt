@@ -30,6 +30,8 @@
 
 18:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Azerbaijan vs North Macedonia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315680/azerbaijan-women-vs-north-macedonia-women.html
+Azerbaijan vs North Macedonia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad72.m3u8?auth_key=1772562789-0-0-48b6f5bf00c2d99fd28b68356701a713
+Azerbaijan vs North Macedonia	https://live.trendgallary.com/live/13341013_7a14d828a3482386c4e92e7cd238a390_h1080p.m3u8
 
 19:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Bosnia and Herzegovina vs Estonia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313583/bosnia-and-herzegovina-women-vs-estonia-women.html
@@ -37,10 +39,12 @@ Bosnia and Herzegovina vs Estonia	`Fhttps://www.fctv33.net/football/fifa-womens-
 19:00 [l]International Women Friendly[z]	^-
 Ghana vs Russia	`Fhttps://www.fctv33.net/football/international-friendly-match-4363149/ghana-women-vs-russia-women.html
 Ghana vs Russia	https://bo2.qiuxun.tv/sla/1-69a318194fa3f2720cd4e1b0.m3u8?auth_key=1772548497-0-0-4a2d1b6df52d45e5a06a24dfa3b6553e
+Ghana vs Russia	https://live1.trendgallary.com/live/34kgmioorvgbeko_27604b22b46f9b68f0575a2cd664d09a_h1080p.m3u8
 
 19:30 [g]Turkish Cup[z]	^-
 Istanbulspor vs Boluspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322338/istanbulspor-vs-boluspor.html
 Istanbulspor vs Boluspor	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0552d.m3u8?auth_key=1772548497-0-0-3bce65df29bc6898b64250cdf99f12c6
+Istanbulspor vs Boluspor	https://live.trendgallary.com/live/13346558_4e036aed2fe8db6876bfda421e9254b4_h1080p.m3u8
 
 20:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Montenegro vs Albania	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315600/montenegro-women-vs-albania-women.html
