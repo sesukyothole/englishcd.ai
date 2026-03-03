@@ -28,13 +28,6 @@
 
 03.03.2026	^-
 
-23:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Romania vs Moldova	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315601/romania-women-vs-moldova-women.html
-Romania vs Moldova	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad70.m3u8?auth_key=1772574811-0-0-5df613a195501a3daeefbad28e0f1f55
-Romania vs Moldova	https://live1.trendgallary.com/live/13341030_112a15bac0f91c9b63379812b20619d8_h1080p.m3u8
-Kosovo vs Gibraltar	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4362336/kosovo-women-vs-gibraltar-women.html
-Kosovo vs Gibraltar	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad75.m3u8?auth_key=1772574811-0-0-c2e4eb88251f076bb94bd8df40460011
-
 23:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Greece vs Georgia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315340/greece-women-vs-georgia-women.html
 Greece vs Georgia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad71.m3u8?auth_key=1772574811-0-0-4fbe7ebc3caa7a683ded791319f5d55c
@@ -81,12 +74,16 @@ Istanbul Buyuksehir vs Trabzonspor	https://live.trendgallary.com/live/13346556_4
 01:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Spain vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314693/spain-women-vs-iceland-women.html
 Spain vs Iceland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad83.m3u8?auth_key=1772575270-0-0-ea8610299e47948076451cb12a7172dc
-Switzerland vs Northern Ireland	`F
-Liechtenstein vs Lithuania	`F
-Andorra vs Hungary	`F
+Switzerland vs Northern Ireland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313564/switzerland-women-vs-northern-ireland-women.html
+Liechtenstein vs Lithuania	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315370/liechtenstein-w-vs-lithuania-women.html
+Andorra vs Hungary	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315452/andorra-women-vs-hungary-women.html
 
 01:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Ireland vs France	`F
+Luxembourg vs Scotland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313577/luxembourg-women-vs-scotland-women.html
+Ireland vs France	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314695/ireland-women-vs-france-women.html
+
+01:45 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Portugal vs Finland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313572/portugal-women-vs-finland-women.html
 
 02:00 [g]Netherlands KNVB Cup[z]	^-
 NEC Nijmegen vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4357529/nec-nijmegen-vs-psv-eindhoven.html
@@ -176,6 +173,27 @@ Pumas UNAM vs Toluca	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc4.m3u8?a
 12:00 [l]AFC Women’s Asian Cup[z]	^-
 Japan vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4315418/japan-women-vs-chinese-taipei-women.html
 Japan vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc5.m3u8?auth_key=1772548497-0-0-dcf28122106c5966276cff75e7aae0c3
+
+15:00 [g]Australia A-League[z]	^-
+FC Macarthur vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282129/macarthur-fc-vs-central-coast-mariners.html
+
+17:00 [g]AFC Champions League Elite[z]	^-
+FC Seoul vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357122/football-club-seoul-vs-vissel-kobe.html
+
+17:00 [g]AFC Champions League 2[z]	^-
+Gamba Osaka vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4357855/gamba-osaka-vs-ratchaburi-fc.html
+
+18:00 [l]AFC Women’s Asian Cup[z]	^-
+Vietnam vs India	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247748/vietnam-women-vs-india-women.html
+
+19:15 [g]AFC Champions League Elite[z]	^-
+Johor Darul Takzim vs Hiroshima San	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357123/johor-darul-tazim-fc-vs-sanfrecce-hiroshima.html
+
+21:00 Liga 1	^-
+Semen Padang vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229584/semen-padang-vs-psim-yogyakarta.html
+
+21:00 Malaysian Challenge Cup	^-
+Perak vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4363436/perak-fc-vs-sabah-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
