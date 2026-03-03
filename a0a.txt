@@ -48,24 +48,33 @@ Slovakia vs Latvia	https://v.lfsxfj.com/live/100504.m3u8?txSecret=54cd1d4d8678d2
 
 23:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Romania vs Moldova	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315601/romania-women-vs-moldova-women.html
+Romania vs Moldova	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad70.m3u8?auth_key=1772574811-0-0-5df613a195501a3daeefbad28e0f1f55
 Kosovo vs Gibraltar	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4362336/kosovo-women-vs-gibraltar-women.html
+Kosovo vs Gibraltar	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad75.m3u8?auth_key=1772574811-0-0-c2e4eb88251f076bb94bd8df40460011
 
 23:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Greece vs Georgia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315340/greece-women-vs-georgia-women.html
+Greece vs Georgia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad71.m3u8?auth_key=1772574811-0-0-4fbe7ebc3caa7a683ded791319f5d55c
 
 23:45 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Germany vs Slovenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313569/germany-women-vs-slovenia-women.html
+Germany vs Slovenia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad80.m3u8?auth_key=1772574811-0-0-cd5b56bf31b96aa2b8967e8568847ed7
 
 04.03.2026	^-
 
 00:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Austria vs Norway	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313567/austria-women-vs-norway-women.html
+Austria vs Norway	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad81.m3u8?auth_key=1772574811-0-0-8b557a5c1359b952e96eccda1172a6ca
 Poland vs Netherland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313568/poland-women-vs-netherlands-women.html
+Poland vs Netherland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad85.m3u8?auth_key=1772574811-0-0-8598943c7222efcda5e2d81bfa5277eb
 Ukraine vs England	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313576/ukraine-women-vs-england-women.html
+Ukraine vs England	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad82.m3u8?auth_key=1772574811-0-0-0bfd2a4e6233114ac18843581ec962f9
 Denmark vs Serbia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315287/denmark-women-vs-serbia-women.html
+Denmark vs Serbia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad86.m3u8?auth_key=1772574811-0-0-d9593e19e2f2f03dfc63506c5303cc72
 
 00:15 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Italy vs Sweden	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313566/italy-women-vs-sweden-women.html
+Italy vs Sweden	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad87.m3u8?auth_key=1772574811-0-0-303076b3dfc0a87bebf172ec318f3096
 
 00:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Czech vs Wales	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315286/czechia-women-vs-wales-women.html
