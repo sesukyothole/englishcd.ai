@@ -28,24 +28,6 @@
 
 04.03.2026	^-
 
-00:15 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Italy vs Sweden	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313566/italy-women-vs-sweden-women.html
-Italy vs Sweden	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad87.m3u8?auth_key=1772574811-0-0-303076b3dfc0a87bebf172ec318f3096
-Italy vs Sweden	https://live1.trendgallary.com/live/13341022_3d64e27086dd2d79b0f41ffda7ca8d42_h1080p.m3u8
-
-00:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Czech vs Wales	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315286/czechia-women-vs-wales-women.html
-Czech vs Wales	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad7f.m3u8?auth_key=1772581331-0-0-ab136e0d8f2656c8155884961035d1a0
-Czech vs Wales	https://live.trendgallary.com/live/13341016_c9455dc457bb930cc4b6dfc0a1c031bd_h1080p.m3u8
-
-00:30 [g]Turkish Cup[z]	^-
-Alanyaspor vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322327/alanyaspor-vs-galatasaray.html
-Alanyaspor vs Galatasaray	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05538.m3u8?auth_key=1772571094-0-0-b7d414ff768f71671a92e428ed628cb5
-Alanyaspor vs Galatasaray	https://live5.trendgallary.com/live/13346555_ceee84f4b4a3956bd951ff44884b1d6a_h1080p.m3u8
-Istanbul Buyuksehir vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322330/baakehir-futbol-kulb-vs-trabzonspor.html
-Istanbul Buyuksehir vs Trabzonspor	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05535.m3u8?auth_key=1772571094-0-0-6c5e429a238851e93cca0af9085ebbff
-Istanbul Buyuksehir vs Trabzonspor	https://live.trendgallary.com/live/13346556_4ed02d37fdacaaf7b2cc69ffc4be7121_h1080p.m3u8
-
 01:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Spain vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314693/spain-women-vs-iceland-women.html
 Spain vs Iceland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad83.m3u8?auth_key=1772575270-0-0-ea8610299e47948076451cb12a7172dc
