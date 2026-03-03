@@ -38,92 +38,115 @@ China vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match
 China vs Bangladesh	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0551e.m3u8?auth_key=1772544535-0-0-2874d5d3a81608cf7ab9b41895491fbd
 China vs Bangladesh	https://live.trendgallary.com/live/13186565_b63e7f4a6641fd8e51a8b28bb5defbc4_h1080p.m3u8
 
-17:00 [l]FIFA Women's WC Qualifiers UEFA[z]	^-
+17:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Bulgaria vs Croatia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315518/bulgaria-women-vs-croatia-women.html
+Bulgaria vs Croatia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad74.m3u8?auth_key=1772548497-0-0-91553798e2a0080ae4a43ad518487e81
 
 17:00 [g]Turkish Cup[z]	^-
 Fethiyespor vs Karagumruk	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322336/fethiyespor-vs-karagumruk.html
+Fethiyespor vs Karagumruk	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0552f.m3u8?auth_key=1772548497-0-0-21da71640952c399a24bba669c32b7ab
 
 17:00 [g]AFC Champions League Elite[z]	^-
 Gangwon FC vs Machida Zelvia	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357121/gangwon-football-club-vs-machida-zelvia.html
+Gangwon FC vs Machida Zelvia	https://bo2.qiuxun.tv/sla/1-699675aba6c61b2206fb3233.m3u8?auth_key=1772548497-0-0-1fc4bec5b75378f6fecf212c1deda7e0
 
-18:00 [l]FIFA Women's WC Qualifiers UEFA[z]	^-
+18:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Azerbaijan vs North Macedonia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315680/azerbaijan-women-vs-north-macedonia-women.html
 
-19:00 [l]FIFA Women's WC Qualifiers UEFA[z]	^-
+19:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Bosnia and Herzegovina vs Estonia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313583/bosnia-and-herzegovina-women-vs-estonia-women.html
 
 19:00 [l]International Women Friendly[z]	^-
 Ghana vs Russia	`Fhttps://www.fctv33.net/football/international-friendly-match-4363149/ghana-women-vs-russia-women.html
+Ghana vs Russia	https://bo2.qiuxun.tv/sla/1-69a318194fa3f2720cd4e1b0.m3u8?auth_key=1772548497-0-0-4a2d1b6df52d45e5a06a24dfa3b6553e
 
 19:30 [g]Turkish Cup[z]	^-
 Istanbulspor vs Boluspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322338/istanbulspor-vs-boluspor.html
+Istanbulspor vs Boluspor	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0552d.m3u8?auth_key=1772548497-0-0-3bce65df29bc6898b64250cdf99f12c6
 
-20:00 [l]FIFA Women's WC Qualifiers UEFA[z]	^-
+20:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Montenegro vs Albania	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315600/montenegro-women-vs-albania-women.html
 
 20:30 Liga 1	^-
 Persija Jakarta vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229549/persatuan-sepakbola-indonesia-jakarta-vs-borneo-fc.html
+Persija Jakarta vs Borneo FC	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0552b.m3u8?auth_key=1772548497-0-0-328a06b3480b04ce5023db1c4b83a41f
 Madura United vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229565/madura-united-vs-malut-united.html
+Madura United vs Malut United	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0552c.m3u8?auth_key=1772548497-0-0-2e2996b9cf3f9b910461e51de277ccfb
 
 21:00 Malaysian Challenge Cup	^-
 Kelantan United vs Penang	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4363223/kelantan-the-real-warriors-vs-penang-fc.html
+Kelantan United vs Penang	`0https://www.marza12.shop/football/2951305-kelantan-united-vs-penang.html
 
-22:00 [l]FIFA Women's WC Qualifiers UEFA[z]	^-
+22:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Kazakhstan vs Armenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4361634/kazakhstan-women-vs-armenia-women.html
 
-23:45 [l]FIFA Women's WC Qualifiers UEFA[z]	^-
+23:45 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Germany vs Slovenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313569/germany-women-vs-slovenia-women.html
 
 04.03.2026	^-
 
-01:00 [l]FIFA Women's WC Qualifiers UEFA[z]	^-
+01:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Spain vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314693/spain-women-vs-iceland-women.html
 
 02:00 [g]Netherlands KNVB Cup[z]	^-
 NEC Nijmegen vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4357529/nec-nijmegen-vs-psv-eindhoven.html
+NEC Nijmegen vs PSV Eindhoven	https://bo2.qiuxun.tv/sla/1-698eef1f02bc90c28070d0c4.m3u8?auth_key=1772548497-0-0-92886ba9a917bd2772849e4d18af42a3
 
 02:30 [y]English Premier League[z]	^-
 Everton vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193965/everton-vs-burnley.html
+Everton vs Burnley	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad9b.m3u8?auth_key=1772548497-0-0-9aba73f2d778f57d5b1ed5d2917e0dbf
 Bournemouth AFC vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193972/bournemouth-afc-vs-brentford.html
+Bournemouth AFC vs Brentford	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad9c.m3u8?auth_key=1772548497-0-0-3f0ce3c584af8636ee43b63b109dab6c
 Leeds United vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194000/leeds-united-vs-sunderland.html
+Leeds United vs Sunderland AFC	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad9a.m3u8?auth_key=1772548497-0-0-a6d3f866b6c68587ecf8179671e5013b
 
 02:45 [g]English Football League Champ[z]	^-
 Ipswich Town vs Hull City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203290/ipswich-town-vs-hull-city.html
+Ipswich Town vs Hull City	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f181876021a.m3u8?auth_key=1772548497-0-0-c457d36f4ed5780f1f527c9a9edbef26
 
 02:45 [g]Scottish Premiership[z]	^-
 Dundee United vs Saint Mirren	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206250/dundee-united-vs-saint-mirren.html
+Dundee United vs Saint Mirren	https://bo2.qiuxun.tv/sla/1-6970ff2ac07d618fc529f4f8.m3u8?auth_key=1772548497-0-0-d2e69f6b0a50c8efed0fc0f91950d332
 
 02:45 [g]FA Cup[z]	^-
 Port Vale vs Bristol City	`Fhttps://www.fctv33.net/football/fa-cup-match-4330067/port-vale-vs-bristol-city.html
+Port Vale vs Bristol City	https://bo2.qiuxun.tv/sla/1-6970e2fa63990f181876021f.m3u8?auth_key=1772548497-0-0-a1551ebe0969f665d85bc29db27a7c8e
 
 03:00 [g]Coupe de France[z]	^-
 Strasbourg vs Reims	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349072/rc-strasbourg-alsace-vs-stade-de-reims.html
 
 03:00 [g]Copa del Rey[z]	^-
 FC Barcelona vs Atletico Madrid	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4349949/fc-barcelona-vs-atletico-madrid.html
+FC Barcelona vs Atletico Madrid	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adb4.m3u8?auth_key=1772548497-0-0-2336bdb1995e955aa05c6450c6751a56
 
 03:00 [g]Coppa Italia[z]	^-
 Como vs Inter Milan	`Fhttps://www.fctv33.net/football/coppa-italia-match-4357305/como-vs-inter-milan.html
+Como vs Inter Milan	https://bo2.qiuxun.tv/sla/1-698db9bc02bc90c28061760f.m3u8?auth_key=1772548497-0-0-f209306ee5639940897f19130b1548a5
 
 03:15 [y]English Premier League[z]	^-
 Wolves vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194003/wolverhampton-wanderers-vs-liverpool.html
+Wolves vs Liverpool	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adb6.m3u8?auth_key=1772548497-0-0-32c26fdf0657b94ae870e287178fe34e
 
 03:45 [g]Portuguese Cup[z]	^-
 Sporting CP vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4350354/sporting-cp-vs-fc-porto.html
 
 05:00 [g]Argentine Division 1[z]	^-
 Sarmiento Junin vs Estudiantes Rio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321932/sarmiento-junin-vs-estudiantes-rio-cuarto.html
+Sarmiento Junin vs Estudiantes Rio	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b29.m3u8?auth_key=1772548497-0-0-4033e1aec4e17b1b68b80d7bebb13ffa
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Torque vs Defensor Sporting Montevideo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4327923/montevideo-city-torque-vs-defensor-sporting-montevideo.html
-Independiente Petrolero vs Club Guabira	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4342781/independiente-petrolero-vs-club-guabira.html
+Torque vs Defensor Sporting	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4327923/montevideo-city-torque-vs-defensor-sporting-montevideo.html
+Torque vs Defensor Sporting	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adbb.m3u8?auth_key=1772548497-0-0-9d53a17a09d1c9ba33d3a38500f3d876
+Indep Petrolero vs Club Guabira	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4342781/independiente-petrolero-vs-club-guabira.html
+Indep Petrolero vs Club Guabira	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adba.m3u8?auth_key=1772548497-0-0-1d1da5b0c517057ace7d20402ba096f1
 
 05:15 [g]Argentine Division 1[z]	^-
 CA Huracan vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321931/ca-huracan-vs-belgrano.html
+CA Huracan vs Belgrano	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b22.m3u8?auth_key=1772548497-0-0-ff91d57c9f41d203a5acd4f186d9099a
 
 07:15 [g]Argentine Division 1[z]	^-
 Atletico Tucuman vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321925/atletico-tucuman-vs-racing-club-de-avellaneda.html
+Atletico Tucuman vs Racing Club	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b21.m3u8?auth_key=1772548497-0-0-61f8fdec366557394c135ead32fc7be6
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Academia Puerto Cabello vs Monagas	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4335741/academia-puerto-cabello-vs-monagas-sc.html
@@ -132,22 +155,27 @@ Academia Puerto Cabello vs Monagas	`Fhttps://www.fctv33.net/football/conmebol-co
 Figueirense vs Azuriz FC	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4350367/figueirense-vs-azuriz-fc.html
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-Barcelona SC(ECU vs Botafogo RJ	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364062/barcelona-scecu-vs-botafogo-rj.html
+Barcelona SC ECU vs Botafogo RJ	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364062/barcelona-scecu-vs-botafogo-rj.html
 
 08:00 [g]Mexico Liga MX[z]	^-
 Santos Laguna vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322493/santos-laguna-vs-cruz-azul.html
+Santos Laguna vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adbf.m3u8?auth_key=1772548497-0-0-69d1913a1525252833a20f87d88b5473
 
 09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Alianza Atletico vs Dep Garcilaso	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4337726/alianza-atletico-sullana-vs-deportivo-garcilaso.html
+Alianza Atletico vs Dep Garcilaso	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc1.m3u8?auth_key=1772548497-0-0-5a1e8c675a7f85d592315199b2044fcd
 
 10:00 [g]Mexico Liga MX[z]	^-
 Atletico San Luis vs Mazatlan FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322480/atletico-san-luis-vs-mazatlan-fc.html
+Atletico San Luis vs Mazatlan FC	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc3.m3u8?auth_key=1772548497-0-0-2e5326fa67b76bfab92813b92889cc9a
 
 10:10 [g]Mexico Liga MX[z]	^-
 Pumas UNAM vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322492/pumas-unam-vs-toluca.html
+Pumas UNAM vs Toluca	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc4.m3u8?auth_key=1772548497-0-0-28db5506b721bd026c8dac20ac4fc7b8
 
 12:00 [l]AFC Women’s Asian Cup[z]	^-
 Japan vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4315418/japan-women-vs-chinese-taipei-women.html
+Japan vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc5.m3u8?auth_key=1772548497-0-0-dcf28122106c5966276cff75e7aae0c3
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
