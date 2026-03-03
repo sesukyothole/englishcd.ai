@@ -95,6 +95,7 @@ FC Barcelona vs Atletico Madrid	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75
 03:00 [g]Coppa Italia[z]	^-
 Como vs Inter Milan	`Fhttps://www.fctv33.net/football/coppa-italia-match-4357305/como-vs-inter-milan.html
 Como vs Inter Milan	https://bo2.qiuxun.tv/sla/1-698db9bc02bc90c28061760f.m3u8?auth_key=1772548497-0-0-f209306ee5639940897f19130b1548a5
+Como vs Inter Milan	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 
 03:15 [y]English Premier League[z]	^-
 Wolves vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194003/wolverhampton-wanderers-vs-liverpool.html
