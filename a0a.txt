@@ -42,7 +42,7 @@ Madura United vs Malut United	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b055
 Madura United vs Malut United	https://live.trendgallary.com/live/12704407_201655acb13df2655f8ad244606182ef_h1080p.m3u8
 
 21:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Turkey vs Malta	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315517/turkiye-women-vs-malta-women-03-2026.html
+Turkey vs Malta	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315517/turkiye-women-vs-malta-women.html
 Turkey vs Malta	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad7c.m3u8?auth_key=1772563366-0-0-ad6e7ec50a3eda27093f71d12c9c516d
 Turkey vs Malta	https://live.trendgallary.com/live/13341034_ce4c3a02ef8123eb81d34ffa986b7853_h1080p.m3u8
 
@@ -53,11 +53,39 @@ Kelantan United vs Penang	https://live.trendgallary.com/live/13597962_426abe9bb8
 
 22:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Kazakhstan vs Armenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4361634/kazakhstan-women-vs-armenia-women.html
+Kazakhstan vs Armenia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad6f.m3u8?auth_key=1772570283-0-0-75c1aab5600071af390abfc7f8cfec3a
+Slovakia vs Latvia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315776/slovakia-women-vs-latvia-women.html
+Slovakia vs Latvia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad7a.m3u8?auth_key=1772571094-0-0-1311098d1adb89381aa861aac0dba9b5
+
+23:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Romania vs Moldova	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315601/romania-women-vs-moldova-women.html
+Kosovo vs Gibraltar	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4362336/kosovo-women-vs-gibraltar-women.html
+
+23:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Greece vs Georgia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315340/greece-women-vs-georgia-women.html
 
 23:45 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Germany vs Slovenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313569/germany-women-vs-slovenia-women.html
 
 04.03.2026	^-
+
+00:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Austria vs Norway	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313567/austria-women-vs-norway-women.html
+Poland vs Netherland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313568/poland-women-vs-netherlands-women.html
+Ukraine vs England	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313576/ukraine-women-vs-england-women.html
+Denmark vs Serbia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315287/denmark-women-vs-serbia-women.html
+
+00:15 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Italy vs Sweden	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313566/italy-women-vs-sweden-women.html
+
+00:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Czech vs Wales	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315286/czechia-women-vs-wales-women.html
+
+00:30 [g]Turkish Cup[z]	^-
+Alanyaspor vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322327/alanyaspor-vs-galatasaray.html
+Alanyaspor vs Galatasaray	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05538.m3u8?auth_key=1772571094-0-0-b7d414ff768f71671a92e428ed628cb5
+Istanbul Buyuksehir vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322330/baakehir-futbol-kulb-vs-trabzonspor.html
+Istanbul Buyuksehir vs Trabzonspor	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05535.m3u8?auth_key=1772571094-0-0-6c5e429a238851e93cca0af9085ebbff
 
 01:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Spain vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314693/spain-women-vs-iceland-women.html
