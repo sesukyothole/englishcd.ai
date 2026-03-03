@@ -74,9 +74,16 @@ Istanbul Buyuksehir vs Trabzonspor	https://live.trendgallary.com/live/13346556_4
 01:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Spain vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314693/spain-women-vs-iceland-women.html
 Spain vs Iceland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad83.m3u8?auth_key=1772575270-0-0-ea8610299e47948076451cb12a7172dc
+Spain vs Iceland	https://live2.trendgallary.com/live/13341032_1a5851c79de16028198df6c95991a2fa_h1080p.m3u8
 Switzerland vs Northern Ireland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313564/switzerland-women-vs-northern-ireland-women.html
+Switzerland vs Northern Ireland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad7d.m3u8?auth_key=1772582819-0-0-d86b5df62d96dca1b6f5ae55dc51e9bc
+Switzerland vs Northern Ireland	https://live1.trendgallary.com/live/13341033_ba44e4f7824e6342b1e51ce404d60729_h1080p.m3u8
 Liechtenstein vs Lithuania	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315370/liechtenstein-w-vs-lithuania-women.html
+Liechtenstein vs Lithuania	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad76.m3u8?auth_key=1772582819-0-0-e75796c7707e1edec36e53f813f85b60
+Liechtenstein vs Lithuania	https://live3.trendgallary.com/live/13341025_553aa7b265cbccc6c854bbeb27fc0bb6_h1080p.m3u8
 Andorra vs Hungary	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315452/andorra-women-vs-hungary-women.html
+Andorra vs Hungary	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad73.m3u8?auth_key=1772582819-0-0-a877a67d1698b81e7d6ff4fae18f25e8
+Andorra vs Hungary	https://live1.trendgallary.com/live/13341011_3ad7ce35da42d800020eaa8b5cd9c135_h1080p.m3u8
 
 01:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Luxembourg vs Scotland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313577/luxembourg-women-vs-scotland-women.html
