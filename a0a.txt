@@ -63,9 +63,12 @@ Denmark vs Serbia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad86.m3u8?auth
 00:15 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Italy vs Sweden	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313566/italy-women-vs-sweden-women.html
 Italy vs Sweden	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad87.m3u8?auth_key=1772574811-0-0-303076b3dfc0a87bebf172ec318f3096
+Italy vs Sweden	https://live1.trendgallary.com/live/13341022_3d64e27086dd2d79b0f41ffda7ca8d42_h1080p.m3u8
 
 00:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Czech vs Wales	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315286/czechia-women-vs-wales-women.html
+Czech vs Wales	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad7f.m3u8?auth_key=1772581331-0-0-ab136e0d8f2656c8155884961035d1a0
+Czech vs Wales	https://live.trendgallary.com/live/13341016_c9455dc457bb930cc4b6dfc0a1c031bd_h1080p.m3u8
 
 00:30 [g]Turkish Cup[z]	^-
 Alanyaspor vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322327/alanyaspor-vs-galatasaray.html
