@@ -28,21 +28,9 @@
 
 03.03.2026	^-
 
-05:15 [g]Argentine Division 1[z]	^-
-Estudiantes Plata vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321924/estudiantes-la-plata-vs-velez-sarsfield.html
-Estudiantes Plata vs Velez Sarsfield	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b1e.m3u8?auth_key=1772468477-0-0-64bf588e007b133ff104b53ad6638a38
-Deportivo Riestra vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321929/deportivo-riestra-vs-ca-platense.html
-Deportivo Riestra vs CA Platense	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b25.m3u8?auth_key=1772468477-0-0-14e5ee8c0f909b18157e05783d76539e
-
-07:30 [g]Argentine Division 1[z]	^-
-Indep Rivadavia vs River Plate	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321923/independiente-rivadavia-vs-river-plate.html
-Indep Rivadavia vs River Plate	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b24.m3u8?auth_key=1772468477-0-0-974dec91c7f4fd0dea5e625cb5cd1972
-Banfield vs Aldosivi Mar Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321962/banfield-vs-aldosivi-mar-del-plata.html
-Banfield vs Aldosivi Mar Plata	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b28.m3u8?auth_key=1772468477-0-0-5b53c3577e481805216435e9f1a09d78
-
-09:00 [l]AFC Women’s Asian Cup[z]	^-
-North Korea vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4304270/north-korea-women-vs-uzbekistan-women.html
-North Korea vs Uzbekistan	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0551d.m3u8?auth_key=1772468477-0-0-5071c3d4dabaf7cf81c4e82b329825d8
+14:45 [g]AFC Champions League Elite[z]	^-
+Melbourne City vs Buriram United	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357124/melbourne-city-vs-buriram-united.html
+Melbourne City vs Buriram United	https://bo2.qiuxun.tv/sla/1-699675aba6c61b2206fb3230.m3u8?auth_key=1772543637-0-0-8200087777f5b3e765ea0787aba970e1
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
