@@ -28,18 +28,6 @@
 
 03.03.2026	^-
 
-17:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Bulgaria vs Croatia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315518/bulgaria-women-vs-croatia-women.html
-Bulgaria vs Croatia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad74.m3u8?auth_key=1772548497-0-0-91553798e2a0080ae4a43ad518487e81
-
-17:00 [g]Turkish Cup[z]	^-
-Fethiyespor vs Karagumruk	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322336/fethiyespor-vs-karagumruk.html
-Fethiyespor vs Karagumruk	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0552f.m3u8?auth_key=1772548497-0-0-21da71640952c399a24bba669c32b7ab
-
-17:00 [g]AFC Champions League Elite[z]	^-
-Gangwon FC vs Machida Zelvia	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357121/gangwon-football-club-vs-machida-zelvia.html
-Gangwon FC vs Machida Zelvia	https://bo2.qiuxun.tv/sla/1-699675aba6c61b2206fb3233.m3u8?auth_key=1772548497-0-0-1fc4bec5b75378f6fecf212c1deda7e0
-
 18:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Azerbaijan vs North Macedonia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315680/azerbaijan-women-vs-north-macedonia-women.html
 
