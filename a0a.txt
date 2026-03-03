@@ -31,12 +31,14 @@
 23:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Romania vs Moldova	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315601/romania-women-vs-moldova-women.html
 Romania vs Moldova	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad70.m3u8?auth_key=1772574811-0-0-5df613a195501a3daeefbad28e0f1f55
+Romania vs Moldova	https://live1.trendgallary.com/live/13341030_112a15bac0f91c9b63379812b20619d8_h1080p.m3u8
 Kosovo vs Gibraltar	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4362336/kosovo-women-vs-gibraltar-women.html
 Kosovo vs Gibraltar	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad75.m3u8?auth_key=1772574811-0-0-c2e4eb88251f076bb94bd8df40460011
 
 23:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Greece vs Georgia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315340/greece-women-vs-georgia-women.html
 Greece vs Georgia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad71.m3u8?auth_key=1772574811-0-0-4fbe7ebc3caa7a683ded791319f5d55c
+Greece vs Georgia	https://live1.trendgallary.com/live/13341019_e69fbfd51beeba8e276476fe8f8aedb2_h1080p.m3u8
 
 23:45 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Germany vs Slovenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313569/germany-women-vs-slovenia-women.html
