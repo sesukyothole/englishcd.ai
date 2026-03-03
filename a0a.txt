@@ -26,27 +26,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-03.03.2026	^-
-
-23:45 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Germany vs Slovenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313569/germany-women-vs-slovenia-women.html
-Germany vs Slovenia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad80.m3u8?auth_key=1772574811-0-0-cd5b56bf31b96aa2b8967e8568847ed7
-Germany vs Slovenia	https://live.trendgallary.com/live/13341018_3a285e34d191dfabafb88c79720501b3_h1080p.m3u8
-
 04.03.2026	^-
-
-00:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Austria vs Norway	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313567/austria-women-vs-norway-women.html
-Austria vs Norway	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad81.m3u8?auth_key=1772574811-0-0-8b557a5c1359b952e96eccda1172a6ca
-Austria vs Norway	https://live.trendgallary.com/live/13341012_bfd87684df5ced1ec403b01d30ba34ea_h1080p.m3u8
-Poland vs Netherland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313568/poland-women-vs-netherlands-women.html
-Poland vs Netherland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad85.m3u8?auth_key=1772574811-0-0-8598943c7222efcda5e2d81bfa5277eb
-Poland vs Netherland	https://live4.trendgallary.com/live/13341028_8a8302542b2bd49102232778b504bbd7_h1080p.m3u8
-Ukraine vs England	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313576/ukraine-women-vs-england-women.html
-Ukraine vs England	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad82.m3u8?auth_key=1772574811-0-0-0bfd2a4e6233114ac18843581ec962f9
-Ukraine vs England	https://live5.trendgallary.com/live/13341035_bec58f82a8c2e848ec5ceba689e3f638_h1080p.m3u8
-Denmark vs Serbia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315287/denmark-women-vs-serbia-women.html
-Denmark vs Serbia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad86.m3u8?auth_key=1772574811-0-0-d9593e19e2f2f03dfc63506c5303cc72
 
 00:15 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Italy vs Sweden	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313566/italy-women-vs-sweden-women.html
