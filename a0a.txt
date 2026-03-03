@@ -28,16 +28,6 @@
 
 03.03.2026	^-
 
-21:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Turkey vs Malta	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315517/turkiye-women-vs-malta-women.html
-Turkey vs Malta	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad7c.m3u8?auth_key=1772563366-0-0-ad6e7ec50a3eda27093f71d12c9c516d
-Turkey vs Malta	https://live.trendgallary.com/live/13341034_ce4c3a02ef8123eb81d34ffa986b7853_h1080p.m3u8
-
-21:00 Malaysian Challenge Cup	^-
-Kelantan United vs Penang	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4363223/kelantan-the-real-warriors-vs-penang-fc.html
-Kelantan United vs Penang	https://bo2.qiuxun.tv/sla/1-69a318194fa3f2720cd4e1b7.m3u8?auth_key=1772570175-0-0-3eabca813c79d1fc41ada5ff0a55fd9b
-Kelantan United vs Penang	https://live.trendgallary.com/live/13597962_426abe9bb89f265e18950a9e805653c6_h1080p.m3u8
-
 22:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Kazakhstan vs Armenia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4361634/kazakhstan-women-vs-armenia-women.html
 Kazakhstan vs Armenia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad6f.m3u8?auth_key=1772570283-0-0-75c1aab5600071af390abfc7f8cfec3a
@@ -52,7 +42,7 @@ Romania vs Moldova	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad70.m3u8?aut
 Kosovo vs Gibraltar	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4362336/kosovo-women-vs-gibraltar-women.html
 Kosovo vs Gibraltar	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad75.m3u8?auth_key=1772574811-0-0-c2e4eb88251f076bb94bd8df40460011
 
-23:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+23:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Greece vs Georgia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315340/greece-women-vs-georgia-women.html
 Greece vs Georgia	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad71.m3u8?auth_key=1772574811-0-0-4fbe7ebc3caa7a683ded791319f5d55c
 
@@ -88,6 +78,12 @@ Istanbul Buyuksehir vs Trabzonspor	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a5
 01:00 [l]FIFA Women's WC Qualifier UEFA[z]	^-
 Spain vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314693/spain-women-vs-iceland-women.html
 Spain vs Iceland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad83.m3u8?auth_key=1772575270-0-0-ea8610299e47948076451cb12a7172dc
+Switzerland vs Northern Ireland	`F
+Liechtenstein vs Lithuania	`F
+Andorra vs Hungary	`F
+
+01:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Ireland vs France	`F
 
 02:00 [g]Netherlands KNVB Cup[z]	^-
 NEC Nijmegen vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4357529/nec-nijmegen-vs-psv-eindhoven.html
