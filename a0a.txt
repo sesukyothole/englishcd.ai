@@ -28,22 +28,14 @@
 
 04.03.2026	^-
 
-01:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Luxembourg vs Scotland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313577/luxembourg-women-vs-scotland-women.html
-Luxembourg vs Scotland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad78.m3u8?auth_key=1772582819-0-0-ab2a79a65bece5177f751ef9ce447dc9
-Luxembourg vs Scotland	https://live.trendgallary.com/live/13341026_c68c4e7d1b245e762417f4dfdb92824f_h1080p.m3u8
-Ireland vs France	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314695/ireland-women-vs-france-women.html
-Ireland vs France	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad84.m3u8?auth_key=1772582819-0-0-b4bd5772d2fb364dc738957d0fa2372f
-
-01:45 [l]FIFA Women's WC Qualifier UEFA[z]	^-
-Portugal vs Finland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313572/portugal-women-vs-finland-women.html
-Portugal vs Finland	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad7b.m3u8?auth_key=1772582819-0-0-5199f06d8ad833a565a443ddc7b9bdf4
-Portugal vs Finland	https://live.trendgallary.com/live/13341029_63d474450342976ec43eae24fb2bae46_h1080p.m3u8
-
 02:00 [g]Netherlands KNVB Cup[z]	^-
 NEC Nijmegen vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4357529/nec-nijmegen-vs-psv-eindhoven.html
 NEC Nijmegen vs PSV Eindhoven	https://bo2.qiuxun.tv/sla/1-698eef1f02bc90c28070d0c4.m3u8?auth_key=1772548497-0-0-92886ba9a917bd2772849e4d18af42a3
 NEC Nijmegen vs PSV Eindhoven	https://live3.trendgallary.com/live/13561091_ce530414d037ebc287157d0dba8e4b62_h1080p.m3u8
+
+02:30 [l]FIFA Women's WC Qualifier UEFA[z]	^-
+Ireland vs France	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4314695/ireland-women-vs-france-women.html
+Ireland vs France	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04ad84.m3u8?auth_key=1772582819-0-0-b4bd5772d2fb364dc738957d0fa2372f
 
 02:30 [y]English Premier League[z]	^-
 Everton vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193965/everton-vs-burnley.html
