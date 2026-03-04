@@ -28,18 +28,14 @@
 
 04.03.2026	^-
 
-19:15 [g]AFC Champions League Elite[z]	^-
-Johor Darul Takzim vs Hiroshima San	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357123/johor-darul-tazim-fc-vs-sanfrecce-hiroshima.html
-Johor Darul Takzim vs Hiroshima San	https://bo2.qiuxun.tv/sla/1-699675aba6c61b2206fb3231.m3u8?auth_key=1772584201-0-0-0316f0046a78d3c6d1652da9fbbcff74
-Johor Darul Takzim vs Hiroshima San	https://live.trendgallary.com/live/13604240_19ed5a9f2b6ab8615a2f846e36fc6382_h1080p.m3u8
-
 21:00 Liga 1	^-
 Semen Padang vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229584/semen-padang-vs-psim-yogyakarta.html
 Semen Padang vs PSIM Yogyakarta	https://bo2.qiuxun.tv/sla/1-69875a9914caa75d72aacd38.m3u8?auth_key=1772584201-0-0-695e1f77086ba4700968b1c6230aacd6
+Semen Padang vs PSIM Yogyakarta	https://live.trendgallary.com/live/12704409_db3c3c615428f147afe42ddb20470d02_h1080p.m3u8
 
 21:00 Malaysian Challenge Cup	^-
 Perak vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4363436/perak-fc-vs-sabah-fc.html
-Perak vs Sabah	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6024.m3u8?auth_key=1772649817-0-0-2fb72690d1d34292db8a9e270db7eee8
+Perak vs Sabah	`0https://www.marza12.shop/football/2951306-perak-vs-sabah.html
 
 05.03.2026	^-
 
