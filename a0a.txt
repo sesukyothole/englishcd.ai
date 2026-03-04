@@ -28,45 +28,6 @@
 
 04.03.2026	^-
 
-05:00 [g]Argentine Division 1[z]	^-
-Sarmiento Junin vs Estudiantes Rio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321932/sarmiento-junin-vs-estudiantes-rio-cuarto.html
-Sarmiento Junin vs Estudiantes Rio	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b29.m3u8?auth_key=1772548497-0-0-4033e1aec4e17b1b68b80d7bebb13ffa
-
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Torque vs Defensor Sporting	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4327923/montevideo-city-torque-vs-defensor-sporting-montevideo.html
-Torque vs Defensor Sporting	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adbb.m3u8?auth_key=1772548497-0-0-9d53a17a09d1c9ba33d3a38500f3d876
-Indep Petrolero vs Club Guabira	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4342781/independiente-petrolero-vs-club-guabira.html
-Indep Petrolero vs Club Guabira	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adba.m3u8?auth_key=1772548497-0-0-1d1da5b0c517057ace7d20402ba096f1
-
-05:15 [g]Argentine Division 1[z]	^-
-CA Huracan vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321931/ca-huracan-vs-belgrano.html
-CA Huracan vs Belgrano	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b22.m3u8?auth_key=1772548497-0-0-ff91d57c9f41d203a5acd4f186d9099a
-
-07:15 [g]Argentine Division 1[z]	^-
-Atletico Tucuman vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321925/atletico-tucuman-vs-racing-club-de-avellaneda.html
-Atletico Tucuman vs Racing Club	https://bo2.qiuxun.tv/sla/1-6984b77f9f151a19a60a5b21.m3u8?auth_key=1772548497-0-0-61f8fdec366557394c135ead32fc7be6
-
-07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
-Academia Puerto Cabello vs Monagas	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4335741/academia-puerto-cabello-vs-monagas-sc.html
-Academia Puerto Cabello vs Monagas	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adbe.m3u8?auth_key=1772582819-0-0-67d78a9605cb1e2f8f058c060ffedddc
-Cobresal vs Audacos	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adbd.m3u8?auth_key=1772582819-0-0-20d10317dd082947ec03f00ade0b0630
-
-07:30 [g]Brazilian Cup[z]	^-
-Figueirense vs Azuriz FC	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4350367/figueirense-vs-azuriz-fc.html
-
-07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-Barcelona SC ECU vs Botafogo RJ	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364062/barcelona-scecu-vs-botafogo-rj.html
-Barcelona SC ECU vs Botafogo RJ	https://bo2.qiuxun.tv/sla/1-69a4698da870a877947f5b82.m3u8?auth_key=1772582819-0-0-b2b5245546469a6c05f9abec1eac424b
-
-08:00 [g]Mexico Liga MX[z]	^-
-Santos Laguna vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322493/santos-laguna-vs-cruz-azul.html
-Santos Laguna vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adbf.m3u8?auth_key=1772548497-0-0-69d1913a1525252833a20f87d88b5473
-Pachuca vs Necaxa	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc0.m3u8?auth_key=1772582819-0-0-9a48f4e94e75e196cfe7e17eeedbdf88
-
-09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Alianza Atletico vs Dep Garcilaso	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4337726/alianza-atletico-sullana-vs-deportivo-garcilaso.html
-Alianza Atletico vs Dep Garcilaso	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc1.m3u8?auth_key=1772548497-0-0-5a1e8c675a7f85d592315199b2044fcd
-
 10:00 [g]Mexico Liga MX[z]	^-
 Atletico San Luis vs Mazatlan FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322480/atletico-san-luis-vs-mazatlan-fc.html
 Atletico San Luis vs Mazatlan FC	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc3.m3u8?auth_key=1772548497-0-0-2e5326fa67b76bfab92813b92889cc9a
