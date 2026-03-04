@@ -28,35 +28,6 @@
 
 05.03.2026	^-
 
-02:30 [g]Coupe de France[z]	^-
-Lorient vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349069/lorient-vs-ogc-nice.html
-Lorient vs Nice	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604f.m3u8?auth_key=1772670041-0-0-9c8e0762bb5e1c41e8017be1f05ce9b4
-
-03:00 [g]Scottish Premiership[z]	^-
-Aberdeen vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206327/aberdeen-vs-celtic-fc.html
-Aberdeen vs Celtic FC	https://bo2.qiuxun.tv/sla/1-69706470a6c61b220650780b.m3u8?auth_key=1772627851-0-0-c4caf958c763105a6f61e0506a48c9f2
-
-03:00 [g]Coupe de France[z]	^-
-Marseille vs Toulouse	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349071/marseille-vs-toulouse-fc.html
-Marseille vs Toulouse	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6059.m3u8?auth_key=1772670041-0-0-c6b47db446630633fbc7870928a412de
-
-03:00 [g]Copa del Rey[z]	^-
-Real Sociedad vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4349950/real-sociedad-vs-athletic-club.html
-Real Sociedad vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6058.m3u8?auth_key=1772627851-0-0-adc93e1a5ca310f5c81d3daeaa8d6bd4
-
-03:00 [g]Coppa Italia[z]	^-
-Lazio vs Atalanta	`Fhttps://www.fctv33.net/football/coppa-italia-match-4353973/lazio-vs-atalanta.html
-Lazio vs Atalanta	https://bo2.qiuxun.tv/sla/1-698db9bc02bc90c28061760e.m3u8?auth_key=1772627851-0-0-b42d10089a08d438a85e69de69646251
-
-03:15 [y]English Premier League[z]	^-
-Newcastle Utd vs Manchester Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193966/newcastle-united-vs-manchester-united.html
-Newcastle Utd vs Manchester Utd	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b605b.m3u8?auth_key=1772676828-0-0-a2268f05bb0fdf29c78bc85f0d91afe9
-Newcastle Utd vs Manchester Utd	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-
-03:30 [l]International Women Friendly[z]	^-
-Argentina vs Colombia	`Fhttps://www.fctv33.net/football/international-friendly-match-4362835/argentina-women-vs-colombia-women.html
-Argentina vs Colombia	https://bo2.qiuxun.tv/sla/1-69a1f0c1cbe5c88a5503d511.m3u8?auth_key=1772627851-0-0-e4dbc01bd61080b7ebaecb6d0adc6349
-
 04:30 [l]International Women Friendly[z]	^-
 Brazil vs Venezuela	`Fhttps://www.fctv33.net/football/international-friendly-match-4363164/brazil-women-vs-venezuela-women.html
 Brazil vs Venezuela	https://bo2.qiuxun.tv/sla/1-69a33433097006bfb9661c47.m3u8?auth_key=1772627851-0-0-2a857cedcf1cc38e79bdef7425ea6f6f
