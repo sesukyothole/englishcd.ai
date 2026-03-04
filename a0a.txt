@@ -65,60 +65,80 @@ Perak vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4
 
 01:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209686/rayo-vallecano-vs-real-oviedo.html
+Rayo Vallecano vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-6970809e02bc90c280f3feb3.m3u8?auth_key=1772627851-0-0-0692970d00d271acfecac9c050404a88
 
 02:00 [g]Netherlands KNVB Cup[z]	^-
 AZ Alkmaar vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4359073/az-alkmaar-vs-sc-telstar.html
 
 02:30 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193970/brighton-hove-albion-vs-arsenal.html
+Brighton Hove Albion vs Arsenal	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604d.m3u8?auth_key=1772627851-0-0-3c0c2ffcff252526eed24dbd1867a80e
 Fulham vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193971/fulham-vs-west-ham-united.html
+Fulham vs West Ham United	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604c.m3u8?auth_key=1772627851-0-0-8c07b3ed615ae65a992790be037bd47d
 Aston Villa vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193973/aston-villa-vs-chelsea.html
+Aston Villa vs Chelsea	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604e.m3u8?auth_key=1772627851-0-0-ede56658be7ac24158f6ce9d1805f276
 Manchester City vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194002/manchester-city-vs-nottingham-forest.html
+Manchester City vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604b.m3u8?auth_key=1772627851-0-0-bbf301492a54c4a47afbd17f7aede968
 
 02:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199874/hamburger-sv-vs-bayer-04-leverkusen.html
+Hamburger SV vs Bayer Leverkusen	https://bo2.qiuxun.tv/sla/1-6963d018c07d618fc58c9608.m3u8?auth_key=1772627851-0-0-37aa77cc278a94d589e0cb4ed0e7ef97
+Hamburger SV vs Bayer Leverkusen	https://live5.sethf7.com/live/o07dni56mpjbmkn_194652f77cf15ae06594ebf40749e5b5_h1080p.m3u8
 
 02:30 [g]Coupe de France[z]	^-
 Lorient vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349069/lorient-vs-ogc-nice.html
 
 03:00 [g]Scottish Premiership[z]	^-
 Aberdeen vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206327/aberdeen-vs-celtic-fc.html
+Aberdeen vs Celtic FC	https://bo2.qiuxun.tv/sla/1-69706470a6c61b220650780b.m3u8?auth_key=1772627851-0-0-c4caf958c763105a6f61e0506a48c9f2
 
 03:00 [g]Coupe de France[z]	^-
 Marseille vs Toulouse	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349071/marseille-vs-toulouse-fc.html
 
 03:00 [g]Copa del Rey[z]	^-
 Real Sociedad vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4349950/real-sociedad-vs-athletic-club.html
+Real Sociedad vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6058.m3u8?auth_key=1772627851-0-0-adc93e1a5ca310f5c81d3daeaa8d6bd4
 
 03:00 [g]Coppa Italia[z]	^-
 Lazio vs Atalanta	`Fhttps://www.fctv33.net/football/coppa-italia-match-4353973/lazio-vs-atalanta.html
+Lazio vs Atalanta	https://bo2.qiuxun.tv/sla/1-698db9bc02bc90c28061760e.m3u8?auth_key=1772627851-0-0-b42d10089a08d438a85e69de69646251
 
 03:15 [y]English Premier League[z]	^-
 Newcastle Utd vs Manchester Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193966/newcastle-united-vs-manchester-united.html
+Newcastle Utd vs Manchester Utd	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b605b.m3u8?auth_key=1772627851-0-0-7b37f11653b00451a73d22504c959e89
 
 03:30 [l]International Women Friendly[z]	^-
 Argentina vs Colombia	`Fhttps://www.fctv33.net/football/international-friendly-match-4362835/argentina-women-vs-colombia-women.html
+Argentina vs Colombia	https://bo2.qiuxun.tv/sla/1-69a1f0c1cbe5c88a5503d511.m3u8?auth_key=1772627851-0-0-e4dbc01bd61080b7ebaecb6d0adc6349
 
 04:30 [l]International Women Friendly[z]	^-
 Brazil vs Venezuela	`Fhttps://www.fctv33.net/football/international-friendly-match-4363164/brazil-women-vs-venezuela-women.html
+Brazil vs Venezuela	https://bo2.qiuxun.tv/sla/1-69a33433097006bfb9661c47.m3u8?auth_key=1772627851-0-0-2a857cedcf1cc38e79bdef7425ea6f6f
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Caracas FC vs Metropolitanos FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4341775/caracas-fc-vs-metropolitanos-fc.html
+Caracas FC vs Metropolitanos FC	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6067.m3u8?auth_key=1772627851-0-0-c96e5081e54be10a37755941b5ad20be
 Blooming vs San Antonio Bulo Bulo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4345085/blooming-vs-san-antonio-bulo-bulo.html
+Blooming vs San Antonio Bulo Bulo	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6066.m3u8?auth_key=1772627851-0-0-037cc98a6b683db1a789c1fc5ba74d1f
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Carabobo FC vs Sporting Cristal	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364155/carabobo-vs-sporting-cristal.html
 
 06:45 [l]International Women Friendly[z]	^-
 USA vs Canada	`Fhttps://www.fctv33.net/football/international-friendly-match-4362833/usa-women-vs-canada-women.html
+USA vs Canada	https://bo2.qiuxun.tv/sla/1-69a1f0c1cbe5c88a5503d512.m3u8?auth_key=1772627851-0-0-96d1aa1e444e6c72ce45458f2e3445b3
 
 07:00 [g]Argentine Division 1[z]	^-
 Lanus vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321915/club-atltico-lans-vs-boca-juniors.html
+Lanus vs Boca Juniors	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d34.m3u8?auth_key=1772627851-0-0-5f10f278a49af35eaad5efd233213066
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Atletico Nacional vs Millonarios	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4328437/atletico-nacional-medellin-vs-millonarios.html
+Atletico Nacional vs Millonarios	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606b.m3u8?auth_key=1772627851-0-0-91f978c2c318e2811f42bb857f6905b0
 Sportivo Trini vs Olimpia Asuncion	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4329350/club-sportivo-trinidense-vs-olimpia-asuncion.html
+Sportivo Trini vs Olimpia Asuncion	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606c.m3u8?auth_key=1772627851-0-0-3f6cd59b82617c426b752d3c5567dfd3
 Universidad de Chile vs Palestino	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4330152/universidad-de-chile-vs-palestino.html
+Universidad de Chile vs Palestino	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606a.m3u8?auth_key=1772627851-0-0-d0445be5ed9367bbca794620cf733695
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 O.Higgins vs Deportes Tolima	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364020/ohiggins-vs-deportes-tolima.html
