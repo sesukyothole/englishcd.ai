@@ -145,17 +145,23 @@ O.Higgins vs Deportes Tolima	`Fhttps://www.fctv33.net/football/conmebol-copa-lib
 
 08:00 [g]Mexico Liga MX[z]	^-
 Monterrey vs Queretaro FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322491/monterrey-vs-queretaro-fc.html
+Monterrey vs Queretaro FC	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606d.m3u8?auth_key=1772627851-0-0-41ddc6290448d0a1c1bad9eb69bf8f5b
 Puebla vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322495/puebla-vs-tigres-uanl.html
+Puebla vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606e.m3u8?auth_key=1772627851-0-0-9f0ee10cd31010f005d0cf57fbce07ca
 
 09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Deportivo Cuenca vs Libertad FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4349830/deportivo-cuenca-vs-libertad-fc.html
+Deportivo Cuenca vs Libertad FC	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6071.m3u8?auth_key=1772627851-0-0-8450fb22f6ea6e68b18744a825580ea6
 
 10:00 [l]AFC Women’s Asian Cup[z]	^-
 Philippines vs South Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248093/philippines-women-vs-south-korea-women.html
+Philippines vs South Korea	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b607a.m3u8?auth_key=1772627851-0-0-7ab8d19d1c7ba5e42d3d0c1765e1233a
 
 10:00 [g]Mexico Liga MX[z]	^-
 Atlas vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322481/atlas-vs-club-tijuana.html
+Atlas vs Club Tijuana	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6078.m3u8?auth_key=1772627851-0-0-934ccdbc329e4d1f342aba3923795103
 Club America vs FC Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322488/club-america-vs-fc-juarez.html
+Club America vs FC Juarez	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6079.m3u8?auth_key=1772627851-0-0-958e8b472bbef9b675c243b57771f30c
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
