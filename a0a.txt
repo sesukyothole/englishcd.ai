@@ -28,15 +28,6 @@
 
 05.03.2026	^-
 
-00:30 [g]Turkish Cup[z]	^-
-Beyoluyenicasi vs Gocalli	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05533.m3u8?auth_key=1772655668-0-0-daedd33721aac7865ef6d075b0a5e4f3
-Besiktas vs Rize Spor	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05534.m3u8?auth_key=1772655668-0-0-c673649ff723ca0093be941f2fca1183
-
-01:00 [y]Spanish La Liga[z]	^-
-Rayo Vallecano vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209686/rayo-vallecano-vs-real-oviedo.html
-Rayo Vallecano vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-6970809e02bc90c280f3feb3.m3u8?auth_key=1772627851-0-0-0692970d00d271acfecac9c050404a88
-Rayo Vallecano vs Real Oviedo	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd!!1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-
 02:00 [g]Netherlands KNVB Cup[z]	^-
 AZ Alkmaar vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4359073/az-alkmaar-vs-sc-telstar.html
 AZ Alkmaar vs SC Telstar	https://bo2.qiuxun.tv/sla/1-698efd2e7bfebe6c05a85cce.m3u8?auth_key=1772660769-0-0-3c216d69f10945c14f0c3a51127d13b7
@@ -44,12 +35,16 @@ AZ Alkmaar vs SC Telstar	https://bo2.qiuxun.tv/sla/1-698efd2e7bfebe6c05a85cce.m3
 02:30 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193970/brighton-hove-albion-vs-arsenal.html
 Brighton Hove Albion vs Arsenal	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604d.m3u8?auth_key=1772627851-0-0-3c0c2ffcff252526eed24dbd1867a80e
+Brighton Hove Albion vs Arsenal	https://live1.trendgallary.com/live/12483242_dfafb38419a83351cea724427267a201_h1080p.m3u8
 Fulham vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193971/fulham-vs-west-ham-united.html
 Fulham vs West Ham United	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604c.m3u8?auth_key=1772627851-0-0-8c07b3ed615ae65a992790be037bd47d
+Fulham vs West Ham United	https://live2.trendgallary.com/live/12483244_d60b553280fdd19dbf8ecd6f22c57946_h1080p.m3u8
 Aston Villa vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193973/aston-villa-vs-chelsea.html
 Aston Villa vs Chelsea	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604e.m3u8?auth_key=1772627851-0-0-ede56658be7ac24158f6ce9d1805f276
+Aston Villa vs Chelsea	https://live.trendgallary.com/live/12483240_f027f35c3dcd37c99c5b09e35ce204b8_h1080p.m3u8
 Manchester City vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194002/manchester-city-vs-nottingham-forest.html
 Manchester City vs Nottingham Forest	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604b.m3u8?auth_key=1772627851-0-0-bbf301492a54c4a47afbd17f7aede968
+Manchester City vs Nottingham Forest	https://live3.trendgallary.com/live/12483246_a80bdfd73428cc3ba330d871d1401577_h1080p.m3u8
 
 02:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199874/hamburger-sv-vs-bayer-04-leverkusen.html
