@@ -28,11 +28,6 @@
 
 04.03.2026	^-
 
-12:00 [l]AFC Women’s Asian Cup[z]	^-
-Japan vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4315418/japan-women-vs-chinese-taipei-women.html
-Japan vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc5.m3u8?auth_key=1772548497-0-0-dcf28122106c5966276cff75e7aae0c3
-Japan vs Chinese Taipei	https://live.trendgallary.com/live/ndkz6i3xdooaxq3_1f510d28c2b0d21bb62d64bf5d03386f_h1080p.m3u8
-
 15:00 [g]Australia A-League[z]	^-
 FC Macarthur vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282129/macarthur-fc-vs-central-coast-mariners.html
 FC Macarthur vs Coast Mariners	https://bo2.qiuxun.tv/sla/1-697e1ffe02bc90c280a7b40e.m3u8?auth_key=1772584201-0-0-c0ae758920ded4b9f6d2e92e0126573b
