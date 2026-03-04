@@ -39,6 +39,13 @@ Perak vs Sabah	`0https://www.marza12.shop/football/2951306-perak-vs-sabah.html
 
 05.03.2026	^-
 
+00:30 [g]Turkish Cup[z]	^-
+
+Gazisehir Gaziantep vs Fenerbahce	`Fhttps://www.fctv33.net/football/turkish-cup-match-4322337/gazisehir-gaziantep-vs-fenerbahce.html
+Gazisehir Gaziantep vs Fenerbahce	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b0552e.m3u8?auth_key=1772655668-0-0-e5923bd3f6b464483aaed880e9739d48
+Beyoluyenicasi vs Gocalli	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05533.m3u8?auth_key=1772655668-0-0-daedd33721aac7865ef6d075b0a5e4f3
+Besiktas vs Rize Spor	https://bo2.qiuxun.tv/sla/1-698608fecbe5c88a55b05534.m3u8?auth_key=1772655668-0-0-c673649ff723ca0093be941f2fca1183
+
 01:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209686/rayo-vallecano-vs-real-oviedo.html
 Rayo Vallecano vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-6970809e02bc90c280f3feb3.m3u8?auth_key=1772627851-0-0-0692970d00d271acfecac9c050404a88
@@ -153,6 +160,10 @@ Bangkok United vs Tampines Rovers	`Fhttps://www.fctv33.net/football/afc-champion
 
 19:30 [g]AFC Challenge League[z]	^-
 Manila Digger vs Dewa United	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4315419/manila-digger-fc-vs-dewa-united-fc.html
+
+20:30 Liga 1	^-
+Persijap Jepara vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229610/persatuan-sepakbola-indonesia-jepara-vs-persis-solo-fc.html
+Persik Kediri vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229611/persatuan-sepak-bola-indonesia-kediri-vs-psbs-biak-numfor.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
