@@ -28,14 +28,6 @@
 
 04.03.2026	^-
 
-10:00 [g]Mexico Liga MX[z]	^-
-Atletico San Luis vs Mazatlan FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322480/atletico-san-luis-vs-mazatlan-fc.html
-Atletico San Luis vs Mazatlan FC	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc3.m3u8?auth_key=1772548497-0-0-2e5326fa67b76bfab92813b92889cc9a
-
-10:10 [g]Mexico Liga MX[z]	^-
-Pumas UNAM vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322492/pumas-unam-vs-toluca.html
-Pumas UNAM vs Toluca	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc4.m3u8?auth_key=1772548497-0-0-28db5506b721bd026c8dac20ac4fc7b8
-
 12:00 [l]AFC Women’s Asian Cup[z]	^-
 Japan vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4315418/japan-women-vs-chinese-taipei-women.html
 Japan vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-69875a99952272c52c04adc5.m3u8?auth_key=1772548497-0-0-dcf28122106c5966276cff75e7aae0c3
