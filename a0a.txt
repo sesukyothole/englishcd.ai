@@ -69,6 +69,7 @@ Blooming vs San Antonio Bulo Bulo	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a6
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Carabobo FC vs Sporting Cristal	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364155/carabobo-vs-sporting-cristal.html
+Carabobo FC vs Sporting Cristal	https://bo2.qiuxun.tv/sla/1-69a4779fb5bc561da9454eed.m3u8?auth_key=1772681869-0-0-4444c25bf3b41d1499d3b3e328f58b8c
 
 06:45 [l]International Women Friendly[z]	^-
 USA vs Canada	`Fhttps://www.fctv33.net/football/international-friendly-match-4362833/usa-women-vs-canada-women.html
