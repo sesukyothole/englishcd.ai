@@ -51,6 +51,7 @@ Rayo Vallecano vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-6970809e02bc90c280f3fe
 
 02:00 [g]Netherlands KNVB Cup[z]	^-
 AZ Alkmaar vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4359073/az-alkmaar-vs-sc-telstar.html
+AZ Alkmaar vs SC Telstar	https://bo2.qiuxun.tv/sla/1-698efd2e7bfebe6c05a85cce.m3u8?auth_key=1772660769-0-0-3c216d69f10945c14f0c3a51127d13b7
 
 02:30 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193970/brighton-hove-albion-vs-arsenal.html
