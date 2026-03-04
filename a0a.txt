@@ -58,6 +58,7 @@ Hamburger SV vs Bayer Leverkusen	https://live5.sethf7.com/live/o07dni56mpjbmkn_1
 
 02:30 [g]Coupe de France[z]	^-
 Lorient vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349069/lorient-vs-ogc-nice.html
+Lorient vs Nice	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b604f.m3u8?auth_key=1772670041-0-0-9c8e0762bb5e1c41e8017be1f05ce9b4
 
 03:00 [g]Scottish Premiership[z]	^-
 Aberdeen vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206327/aberdeen-vs-celtic-fc.html
@@ -65,6 +66,7 @@ Aberdeen vs Celtic FC	https://bo2.qiuxun.tv/sla/1-69706470a6c61b220650780b.m3u8?
 
 03:00 [g]Coupe de France[z]	^-
 Marseille vs Toulouse	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349071/marseille-vs-toulouse-fc.html
+Marseille vs Toulouse	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6059.m3u8?auth_key=1772670041-0-0-c6b47db446630633fbc7870928a412de
 
 03:00 [g]Copa del Rey[z]	^-
 Real Sociedad vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4349950/real-sociedad-vs-athletic-club.html
