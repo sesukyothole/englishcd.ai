@@ -28,62 +28,6 @@
 
 05.03.2026	^-
 
-04:30 [l]International Women Friendly[z]	^-
-Brazil vs Venezuela	`Fhttps://www.fctv33.net/football/international-friendly-match-4363164/brazil-women-vs-venezuela-women.html
-Brazil vs Venezuela	https://bo2.qiuxun.tv/sla/1-69a33433097006bfb9661c47.m3u8?auth_key=1772627851-0-0-2a857cedcf1cc38e79bdef7425ea6f6f
-
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Caracas FC vs Metropolitanos FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4341775/caracas-fc-vs-metropolitanos-fc.html
-Caracas FC vs Metropolitanos FC	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6067.m3u8?auth_key=1772627851-0-0-c96e5081e54be10a37755941b5ad20be
-Blooming vs San Antonio Bulo Bulo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4345085/blooming-vs-san-antonio-bulo-bulo.html
-Blooming vs San Antonio Bulo Bulo	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6066.m3u8?auth_key=1772627851-0-0-037cc98a6b683db1a789c1fc5ba74d1f
-
-05:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Carabobo FC vs Sporting Cristal	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364155/carabobo-vs-sporting-cristal.html
-Carabobo FC vs Sporting Cristal	https://bo2.qiuxun.tv/sla/1-69a4779fb5bc561da9454eed.m3u8?auth_key=1772681869-0-0-4444c25bf3b41d1499d3b3e328f58b8c
-
-06:45 [l]International Women Friendly[z]	^-
-USA vs Canada	`Fhttps://www.fctv33.net/football/international-friendly-match-4362833/usa-women-vs-canada-women.html
-USA vs Canada	https://bo2.qiuxun.tv/sla/1-69a1f0c1cbe5c88a5503d512.m3u8?auth_key=1772627851-0-0-96d1aa1e444e6c72ce45458f2e3445b3
-
-07:00 [g]Argentine Division 1[z]	^-
-Lanus vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321915/club-atltico-lans-vs-boca-juniors.html
-Lanus vs Boca Juniors	https://bo2.qiuxun.tv/sla/1-697f717d02bc90c280b57d34.m3u8?auth_key=1772627851-0-0-5f10f278a49af35eaad5efd233213066
-
-07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
-Atletico Nacional vs Millonarios	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4328437/atletico-nacional-medellin-vs-millonarios.html
-Atletico Nacional vs Millonarios	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606b.m3u8?auth_key=1772627851-0-0-91f978c2c318e2811f42bb857f6905b0
-Sportivo Trini vs Olimpia Asuncion	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4329350/club-sportivo-trinidense-vs-olimpia-asuncion.html
-Sportivo Trini vs Olimpia Asuncion	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606c.m3u8?auth_key=1772627851-0-0-3f6cd59b82617c426b752d3c5567dfd3
-Universidad de Chile vs Palestino	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4330152/universidad-de-chile-vs-palestino.html
-Universidad de Chile vs Palestino	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606a.m3u8?auth_key=1772627851-0-0-d0445be5ed9367bbca794620cf733695
-
-07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-O.Higgins vs Deportes Tolima	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364020/ohiggins-vs-deportes-tolima.html
-
-08:00 [g]Mexico Liga MX[z]	^-
-Monterrey vs Queretaro FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322491/monterrey-vs-queretaro-fc.html
-Monterrey vs Queretaro FC	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606d.m3u8?auth_key=1772627851-0-0-41ddc6290448d0a1c1bad9eb69bf8f5b
-Puebla vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322495/puebla-vs-tigres-uanl.html
-Puebla vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b606e.m3u8?auth_key=1772627851-0-0-9f0ee10cd31010f005d0cf57fbce07ca
-
-09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Deportivo Cuenca vs Libertad FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4349830/deportivo-cuenca-vs-libertad-fc.html
-Deportivo Cuenca vs Libertad FC	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6071.m3u8?auth_key=1772627851-0-0-8450fb22f6ea6e68b18744a825580ea6
-
-09:00 [l]Women WC Qualifying[z]	^-
-American Samoa vs New Zealand	`Fhttps://www.fctv33.net/football/wc-qualifying-match-4360686/american-samoa-women-vs-new-zealand-women.html
-
-10:00 [l]AFC Women’s Asian Cup[z]	^-
-Philippines vs South Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248093/philippines-women-vs-south-korea-women.html
-Philippines vs South Korea	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b607a.m3u8?auth_key=1772627851-0-0-7ab8d19d1c7ba5e42d3d0c1765e1233a
-
-10:00 [g]Mexico Liga MX[z]	^-
-Atlas vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322481/atlas-vs-club-tijuana.html
-Atlas vs Club Tijuana	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6078.m3u8?auth_key=1772627851-0-0-934ccdbc329e4d1f342aba3923795103
-Club America vs FC Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322488/club-america-vs-fc-juarez.html
-Club America vs FC Juarez	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b6079.m3u8?auth_key=1772627851-0-0-958e8b472bbef9b675c243b57771f30c
-
 13:00 [l]Women WC Qualifying[z]	^-
 Samoa vs Solomon Islands	`Fhttps://www.fctv33.net/football/wc-qualifying-match-4360688/samoa-women-vs-solomon-islands-women.html
 
