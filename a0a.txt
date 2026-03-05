@@ -28,21 +28,11 @@
 
 06.03.2026	^-
 
-03:00 [y]English Premier League[z]	^-
-Tottenham Hotspur vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193969/tottenham-hotspur-vs-crystal-palace.html
-Tottenham Hotspur vs Crystal Palace	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc767.m3u8?auth_key=1772733025-0-0-330c25eae8bf4c9eb1042e0fec3c1457
-Tottenham Hotspur vs Crystal Palace	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-
-03:10 [g]Coupe de France[z]	^-
-Lyon vs Lens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349070/lyon-vs-rc-lens.html
-Lyon vs Lens	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc76b.m3u8?auth_key=1772733025-0-0-9a20a993f0153691e39eed0c2e7c45be
-Lyon vs Lens	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Boston River vs Racing Montevideo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4327935/boston-river-vs-racing-club-montevideo.html
-Boston River vs Racing Montevideo	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc77a.m3u8?auth_key=1772733025-0-0-23fd9f260efaf53c600dad629843bb18
+Boston River vs Racing Montevideo	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc77a.m3u8?auth_key=1772733025-0-0-23fd9f260efaf53c600dad629843bb18?7
 Nacional Asuncion vs Dep Recoleta	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4336329/fc-nacional-asuncion-vs-deportivo-recoleta.html
-Nacional Asuncion vs Dep Recoleta	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc779.m3u8?auth_key=1772733025-0-0-09ec95b758ae0d209890b76b5534f332
+Nacional Asuncion vs Dep Recoleta	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc779.m3u8?auth_key=1772733025-0-0-09ec95b758ae0d209890b76b5534f332?7
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 America Cali vs Atl Bucaramanga	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4328165/america-de-cali-vs-atletico-bucaramanga.html
