@@ -36,6 +36,9 @@ Samoa vs Solomon Islands	https://bo2.qiuxun.tv/sla/1-699e266c7b64db8e75ffdb3c.m3
 Iran vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248096/iran-women-vs-australia-women.html
 Iran vs Australia	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b607c.m3u8?auth_key=1772710580-0-0-95fddc4748514d39b479b479dfc9aa69
 
+19:00 [g]AFC Challenge League[z]	^-
+Phnom Penh FC vs Svay Rieng FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4333238/phnom-penh-crown-fc-vs-preah-khan-reach-svay-rieng-fc.html
+
 19:15 [g]AFC Champions League 2[z]	^-
 Bangkok United vs Tampines Rovers	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4357853/bangkok-united-fc-vs-tampines-rovers-fc.html
 
@@ -45,6 +48,43 @@ Manila Digger vs Dewa United	`Fhttps://www.fctv33.net/football/afc-challenge-lea
 20:30 Liga 1	^-
 Persijap Jepara vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229610/persatuan-sepakbola-indonesia-jepara-vs-persis-solo-fc.html
 Persik Kediri vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229611/persatuan-sepak-bola-indonesia-kediri-vs-psbs-biak-numfor.html
+
+06.03.2026	^-
+
+02:00 [g]Saudi Professional League[z]	^-
+Al Kholood vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256016/al-kholood-vs-al-qadsiah.html
+
+02:30 [l]Women's WC Qualifier CONCACAF[z]	^-
+US Virgin Islands vs Puerto Rico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303523/us-virgin-islands-women-vs-puerto-rico-women.html
+
+03:00 [y]English Premier League[z]	^-
+Tottenham Hotspur vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193969/tottenham-hotspur-vs-crystal-palace.html
+
+03:10 [g]Coupe de France[z]	^-
+Lyon vs Lens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349070/lyon-vs-rc-lens.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Boston River vs Racing Montevideo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4327935/boston-river-vs-racing-club-montevideo.html
+Nacional Asuncion vs Dep Recoleta	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4336329/fc-nacional-asuncion-vs-deportivo-recoleta.html
+
+05:00 [g]Brazilian Cup[z]	^-
+Desp Ferroviaria vs Sport Recife	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4364123/desportiva-ferroviaria-vs-sport-club-do-recife.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+America Cali vs Atl Bucaramanga	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4328165/america-de-cali-vs-atletico-bucaramanga.html
+Cienciano vs FBC Melgar	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4334659/cienciano-vs-fbc-melgar.html
+
+07:30 [g]Brazilian Cup[z]	^-
+Juventude vs Guapore	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4364120/juventude-vs-guapore.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+CA Juventud vs Dep.Indep Medellin	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364201/ca-juventud-vs-depindependiente-medellin.html
+
+09:00 [l]AFC Women’s Asian Cup[z]	^-
+Bangladesh vs North Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303655/bangladesh-women-vs-north-korea-women.html
+
+09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Orense SC vs Macara	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4341102/orense-sc-vs-macara.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
