@@ -118,9 +118,6 @@ MotorVision	https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-My Cinema	https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-My Family Channel	https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-My Kidz	https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
