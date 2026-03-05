@@ -34,16 +34,20 @@ Iran vs Australia	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b607c.m3u8?auth
 
 19:00 [g]AFC Challenge League[z]	^-
 Phnom Penh FC vs Svay Rieng FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4333238/phnom-penh-crown-fc-vs-preah-khan-reach-svay-rieng-fc.html
+Phnom Penh FC vs Svay Rieng FC	https://bo2.qiuxun.tv/sla/1-6988abffcbe5c88a55d00136.m3u8?auth_key=1772729768-0-0-f4c06dbc9ce722ed4ff0f17334c434ab
 
 19:15 [g]AFC Champions League 2[z]	^-
 Bangkok United vs Tampines Rovers	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4357853/bangkok-united-fc-vs-tampines-rovers-fc.html
+Bangkok United vs Tampines Rovers	https://bo2.qiuxun.tv/sla/1-6997d540cbe5c88a5587aa61.m3u8?auth_key=1772729768-0-0-a016941852ccc555d75f14dd3a537cf7
 
 19:30 [g]AFC Challenge League[z]	^-
 Manila Digger vs Dewa United	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4315419/manila-digger-fc-vs-dewa-united-fc.html
 
 20:30 Liga 1	^-
 Persijap Jepara vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229610/persatuan-sepakbola-indonesia-jepara-vs-persis-solo-fc.html
+Persijap Jepara vs Persis Solo FC	https://bo2.qiuxun.tv/sla/1-6988abffcbe5c88a55d0013b.m3u8?auth_key=1772729768-0-0-034ae3012c3eee30bfca308920cfdc93
 Persik Kediri vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229611/persatuan-sepak-bola-indonesia-kediri-vs-psbs-biak-numfor.html
+Persik Kediri vs PSBS Biak Numfor	https://bo2.qiuxun.tv/sla/1-6988abffcbe5c88a55d0013a.m3u8?auth_key=1772729768-0-0-c09f9132b00fa97bbf3b987c84a268f5
 
 06.03.2026	^-
 
