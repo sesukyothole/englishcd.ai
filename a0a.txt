@@ -50,38 +50,49 @@ Persik Kediri vs PSBS Biak Numfor	https://bo2.qiuxun.tv/sla/1-6988abffcbe5c88a55
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Kholood vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256016/al-kholood-vs-al-qadsiah.html
+Al Kholood vs Al-Qadasiya	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74c.m3u8?auth_key=1772733025-0-0-2a2486f80447c493975e28e300218cc8
+Damac vs Al Riyadh	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74f.m3u8?auth_key=1772733025-0-0-d6f501a2b1285586d09e33d721627380
 
 02:30 [l]Women's WC Qualifier CONCACAF[z]	^-
 US Virgin Islands vs Puerto Rico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303523/us-virgin-islands-women-vs-puerto-rico-women.html
 
 03:00 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193969/tottenham-hotspur-vs-crystal-palace.html
+Tottenham Hotspur vs Crystal Palace	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc767.m3u8?auth_key=1772733025-0-0-330c25eae8bf4c9eb1042e0fec3c1457
 
 03:10 [g]Coupe de France[z]	^-
 Lyon vs Lens	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4349070/lyon-vs-rc-lens.html
+Lyon vs Lens	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc76b.m3u8?auth_key=1772733025-0-0-9a20a993f0153691e39eed0c2e7c45be
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Boston River vs Racing Montevideo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4327935/boston-river-vs-racing-club-montevideo.html
+Boston River vs Racing Montevideo	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc77a.m3u8?auth_key=1772733025-0-0-23fd9f260efaf53c600dad629843bb18
 Nacional Asuncion vs Dep Recoleta	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4336329/fc-nacional-asuncion-vs-deportivo-recoleta.html
+Nacional Asuncion vs Dep Recoleta	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc779.m3u8?auth_key=1772733025-0-0-09ec95b758ae0d209890b76b5534f332
 
 05:00 [g]Brazilian Cup[z]	^-
 Desp Ferroviaria vs Sport Recife	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4364123/desportiva-ferroviaria-vs-sport-club-do-recife.html
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 America Cali vs Atl Bucaramanga	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4328165/america-de-cali-vs-atletico-bucaramanga.html
+America Cali vs Atl Bucaramanga	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc780.m3u8?auth_key=1772733025-0-0-b27e5af7095ac66c5214019f0502c622
 Cienciano vs FBC Melgar	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4334659/cienciano-vs-fbc-melgar.html
+Cienciano vs FBC Melgar	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc77f.m3u8?auth_key=1772733025-0-0-e1d036867c3418dec399069d76beaf3d
 
 07:30 [g]Brazilian Cup[z]	^-
 Juventude vs Guapore	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4364120/juventude-vs-guapore.html
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 CA Juventud vs Dep.Indep Medellin	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364201/ca-juventud-vs-depindependiente-medellin.html
+CA Juventud vs Dep.Indep Medellin	https://bo2.qiuxun.tv/sla/1-69a485ac2fa11b90fe0459b2.m3u8?auth_key=1772733025-0-0-b2c20661ba47a4ac15db9324282a30b7
 
 09:00 [l]AFC Women’s Asian Cup[z]	^-
 Bangladesh vs North Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303655/bangladesh-women-vs-north-korea-women.html
+Bangladesh vs North Korea	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc783.m3u8?auth_key=1772733025-0-0-460955bc3e61c21b3f490c8e48b030e7
 
 09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Orense SC vs Macara	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4341102/orense-sc-vs-macara.html
+Orense SC vs Macara	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc782.m3u8?auth_key=1772733025-0-0-06295c727b4589a792456d86cc2fe3e8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
