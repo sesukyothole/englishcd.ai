@@ -28,10 +28,6 @@
 
 05.03.2026	^-
 
-16:00 [l]AFC Women’s Asian Cup[z]	^-
-Iran vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248096/iran-women-vs-australia-women.html
-Iran vs Australia	https://bo2.qiuxun.tv/sla/1-6988abff9f151a19a63b607c.m3u8?auth_key=1772710580-0-0-95fddc4748514d39b479b479dfc9aa69
-
 19:00 [g]AFC Challenge League[z]	^-
 Phnom Penh FC vs Svay Rieng FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4333238/phnom-penh-crown-fc-vs-preah-khan-reach-svay-rieng-fc.html
 Phnom Penh FC vs Svay Rieng FC	https://bo2.qiuxun.tv/sla/1-6988abffcbe5c88a55d00136.m3u8?auth_key=1772729768-0-0-f4c06dbc9ce722ed4ff0f17334c434ab
