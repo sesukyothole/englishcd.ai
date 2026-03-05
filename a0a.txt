@@ -28,10 +28,6 @@
 
 06.03.2026	^-
 
-02:00 [g]Saudi Professional League[z]	^-
-Damac vs Al-Riyadh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256238/damac-vs-al-riyadh.html
-Damac vs Al-Riyadh	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74f.m3u8?auth_key=1772733025-0-0-d6f501a2b1285586d09e33d721627380
-
 02:30 [l]Women's WC Qualifier CONCACAF[z]	^-
 US Virgin Islands vs Puerto Rico	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4303523/us-virgin-islands-women-vs-puerto-rico-women.html
 US Virgin Islands vs Puerto Rico	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc778.m3u8?auth_key=1772753148-0-0-047061705f3dbba3df3d70cbe49b3bf6
@@ -199,10 +195,6 @@ TVRI	`Fhttps://www.rctiplus.com/videoplus/livetv?channel=16
 	^-
 [w]Sports TV Channels[z]	^-
 
-Football	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-SportS 1	https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-SportS 2	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-SportS 4	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 beIN Sports 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -242,6 +234,10 @@ Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s
 Wowow Cinema	https://nl.utako.moe/wcinema/index.m3u8
 Wowow Live	https://nl.utako.moe/wlive/index.m3u8
 Wowow Prime	https://nl.utako.moe/wprime/index.m3u8
+Football for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+SportS 1 for PC	https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+SportS 2 for PC	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+SportS 4 for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
