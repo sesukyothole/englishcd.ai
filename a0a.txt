@@ -74,9 +74,6 @@ Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.me
 Lawak Sentral	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 Oh My Ceria!	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
@@ -109,15 +106,15 @@ ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-^=GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
-^=MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-^=RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-^=iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
+RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 
-^=GTV	`Fhttps://m.rctiplus.com/tv/gtv
-^=MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
-^=RCTI	`Fhttps://m.rctiplus.com/tv/rcti
-^=iNews	`Fhttps://m.rctiplus.com/tv/inews
+GTV	`Fhttps://m.rctiplus.com/tv/gtv
+MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
+RCTI	`Fhttps://m.rctiplus.com/tv/rcti
+iNews	`Fhttps://m.rctiplus.com/tv/inews
 
 	^-
 [w]Linked TV Channels[z]	^-
