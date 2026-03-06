@@ -28,11 +28,6 @@
 
 07.03.2026	^-
 
-02:30 [y]Bundesliga[z]	^-
-Bayern Munchen vs Br M'Gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199768/fc-bayern-munich-vs-borussia-monchengladbach.html
-Bayern Munchen vs Br M'Gladbach	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e249.m3u8?auth_key=1772802115-0-0-e32157b46a4d5fbb8eedec9115d41104
-Bayern Munchen vs Br M'Gladbach	https://live1.trendgallary.com/live/12535398_45dae961efb03d86c435ad03dd54a023_h1080p.m3u8
-
 02:45 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200308/paris-saint-germain-vs-as-monaco.html
 Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c4.m3u8?auth_key=1772847814-0-0-e246be15b3bb1eb2bf973c013a834cfc
