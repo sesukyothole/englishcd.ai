@@ -28,26 +28,6 @@
 
 07.03.2026	^-
 
-02:45 [y]French Ligue 1[z]	^-
-Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200308/paris-saint-germain-vs-as-monaco.html
-Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c4.m3u8?auth_key=1772847814-0-0-e246be15b3bb1eb2bf973c013a834cfc
-Paris Saint Germain vs Monaco	https://live2.trendgallary.com/live/12536544_b514fd8749ba398a6aa039df84835645_h1080p.m3u8
-
-02:45 [y]Italian Serie A[z]	^-
-Napoli vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194668/napoli-vs-torino.html
-Napoli vs Torino	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d1.m3u8?auth_key=1772802115-0-0-a45afa07fed9f0c3e0bbf31dc85a0b20
-Napoli vs Torino	https://live.trendgallary.com/live/12418725_4c9848c7eb710bc4270425cc7f99cd0b_h1080p.m3u8
-
-02:45 [g]Belgian Pro League[z]	^-
-LaLouviere vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199001/raal-la-louvire-vs-royal-antwerp.html
-LaLouviere vs Royal Antwerp	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c5.m3u8?auth_key=1772802115-0-0-cdf7fd7b12993342c54af69d22f9b4b8
-LaLouviere vs Royal Antwerp	https://live1.trendgallary.com/live/12521323_f452fc65b430064e3ad12b771c2e62b1_h1080p.m3u8
-
-02:45 [g]Scottish Cup[z]	^-
-Falkirk vs Dundee United	`Fhttps://www.fctv33.net/football/scottish-cup-match-4361748/falkirk-vs-dundee-united.html
-Falkirk vs Dundee United	https://bo2.qiuxun.tv/sla/1-699f85fe952272c52c153ad8.m3u8?auth_key=1772834944-0-0-72669425a6336d3b4a1540f8409c46b4
-Falkirk vs Dundee United	https://live.trendgallary.com/live/13602840_945b5e7f48e585fdd147396a9eae1fe4_h1080p.m3u8
-
 03:00 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209598/rc-celta-vs-real-madrid.html
 Real Celta Vigo vs Real Madrid	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677f.m3u8?auth_key=1772802115-0-0-ce1948d9512663576439503628226a6c
