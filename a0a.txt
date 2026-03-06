@@ -26,12 +26,6 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-06.03.2026	^-
-
-21:00 Malaysian Super League	^-
-Kelantan DN vs Terengganu	https://bo2.qiuxun.tv/sla/1-6989fd7e14caa75d72d1d37d.m3u8?auth_key=1772802115-0-0-5de59cd68b06f7a252e75c04264589ec
-Kelantan DN vs Terengganu	https://live.trendgallary.com/live/13488511_4c788f8e30e0116d2d2d26ebfa8bd8aa_h1080p.m3u8
-
 07.03.2026	^-
 
 02:00 [g]Saudi Professional League[z]	^-
