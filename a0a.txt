@@ -28,24 +28,6 @@
 
 06.03.2026	^-
 
-07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
-America Cali vs Atl Bucaramanga	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4328165/america-de-cali-vs-atletico-bucaramanga.html
-America Cali vs Atl Bucaramanga	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc780.m3u8?auth_key=1772733025-0-0-b27e5af7095ac66c5214019f0502c622
-Cienciano vs FBC Melgar	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4334659/cienciano-vs-fbc-melgar.html
-Cienciano vs FBC Melgar	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc77f.m3u8?auth_key=1772733025-0-0-e1d036867c3418dec399069d76beaf3d
-
-07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-CA Juventud vs Dep.Indep Medellin	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4364201/ca-juventud-vs-depindependiente-medellin.html
-CA Juventud vs Dep.Indep Medellin	https://bo2.qiuxun.tv/sla/1-69a485ac2fa11b90fe0459b2.m3u8?auth_key=1772733025-0-0-b2c20661ba47a4ac15db9324282a30b7
-
-09:00 [l]AFC Women’s Asian Cup[z]	^-
-Bangladesh vs North Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303655/bangladesh-women-vs-north-korea-women.html
-Bangladesh vs North Korea	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc783.m3u8?auth_key=1772733025-0-0-460955bc3e61c21b3f490c8e48b030e7
-
-09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Orense SC vs Macara	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4341102/orense-sc-vs-macara.html
-Orense SC vs Macara	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc782.m3u8?auth_key=1772733025-0-0-06295c727b4589a792456d86cc2fe3e8
-
 15:00 [l]AFC Women’s Asian Cup[z]	^-
 Uzbekistan vs China	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303656/uzbekistan-women-vs-china-women.html
 
@@ -174,7 +156,6 @@ beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/e
 beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 beIN Sports X	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
@@ -562,21 +543,12 @@ FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 	^-
 [w]Live Sport & TV Channels[z]	^-
 
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Band Sport	https://cdn-brisanet.cportal.com.br/BANDEIRANT/DASH/stream.mpd!!bf4ed0d53f284514a5724052736edd13:b374c809058541966bed5e4716af55f4
 TV2 Sport Premium	`0https://live.samuraitv.biz.id/p/tv2_13.html
-EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Fubo Sports 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo Sports 2	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd!!bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
 ID Man	https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
-Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 KBSN Sports	https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fun1zkwv0ka56xo61pj85hqlq2amyh9ibynp/1080.stream/hdntl=exp=1769027299~acl=*%2ffun1zkwv0ka56xo61pj85hqlq2amyh9ibynp%2f*~data=hdntl~hmac=4480a4dea33798210d953dee7ea580896e121f061926816603e02eea5979addf/chunklist.m3u8
 One Sports Plus	https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd!!322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -1364,7 +1336,6 @@ Cazé TV 1 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/d
 Cazé TV 2 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
 Channel 4 🇬🇧	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 Cricket	`1https://me.webcric.com/frame1.htm[]`3https://me.webcric.com/frame1.htm
-RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
 ^=DFB Play TV	https://jmp2.uk/sam-GB26000118T.m3u8?7
@@ -1459,6 +1430,17 @@ Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 XFC MMA	https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
+CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 	^-
 [w]Sport Channels & TV[z]	^-
