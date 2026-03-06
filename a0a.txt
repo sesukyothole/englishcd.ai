@@ -28,12 +28,6 @@
 
 06.03.2026	^-
 
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Boston River vs Racing Montevideo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4327935/boston-river-vs-racing-club-montevideo.html
-Boston River vs Racing Montevideo	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc77a.m3u8?auth_key=1772733025-0-0-23fd9f260efaf53c600dad629843bb18?7
-Nacional Asuncion vs Dep Recoleta	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4336329/fc-nacional-asuncion-vs-deportivo-recoleta.html
-Nacional Asuncion vs Dep Recoleta	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc779.m3u8?auth_key=1772733025-0-0-09ec95b758ae0d209890b76b5534f332?7
-
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 America Cali vs Atl Bucaramanga	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4328165/america-de-cali-vs-atletico-bucaramanga.html
 America Cali vs Atl Bucaramanga	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc780.m3u8?auth_key=1772733025-0-0-b27e5af7095ac66c5214019f0502c622
