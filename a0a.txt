@@ -40,6 +40,56 @@ Port FC vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match
 20:30 Liga 1	^-
 Arema FC vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229609/arema-fc-vs-bali-united.html
 
+07.03.2026	^-
+
+02:00 [g]Saudi Professional League[z]	^-
+Al Ahli Jeddah vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256195/al-ahli-sfc-vs-al-ittihad-club.html
+
+02:00 [l]Women's WC Qualifer CONCACAF[z]	^-
+Anguilla vs Dominican Republic	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4304889/anguilla-women-vs-dominican-republic-women.html
+
+02:30 [y]Bundesliga[z]	^-
+Bayern Munchen vs Br M'Gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199768/fc-bayern-munich-vs-borussia-monchengladbach.html
+
+02:45 [y]Italian Serie A[z]	^-
+Napoli vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194668/napoli-vs-torino.html
+
+02:45 [g]Belgian Pro League[z]	^-
+LaLouviere vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199001/raal-la-louvire-vs-royal-antwerp.html
+
+02:45 [y]French Ligue 1[z]	^-
+Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200308/paris-saint-germain-vs-as-monaco.html
+
+02:45 [g]Scottish Cup[z]	^-
+Falkirk vs Dundee United	`Fhttps://www.fctv33.net/football/scottish-cup-match-4361748/falkirk-vs-dundee-united.html
+
+03:00 [g]English Football League Champ[z]	^-
+Preston North End vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203766/preston-north-end-vs-oxford-united.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Real Celta Vigo vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209598/rc-celta-vs-real-madrid.html
+
+03:00 [g]FA Cup[z]	^-
+Wolves vs Liverpool	`Fhttps://www.fctv33.net/football/fa-cup-match-4361294/wolverhampton-wanderers-vs-liverpool.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+FC Famalicao vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216099/fc-famalicao-vs-fc-arouca.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Mazatlan FC vs Club Leon	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322484/mazatlan-fc-vs-club-leon.html
+
+10:00 [g]Mexico Liga MX[z]	^-
+Necaxa vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322486/necaxa-vs-pumas-unam.html
+
+11:00 [g]Japanese J1 League[z]	^-
+JEF Utd Ichihara vs Kashiwa Reysol	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331756/jef-united-ichihara-chiba-vs-kashiwa-reysol.html
+
+12:00 [l]AFC Women’s Asian Cup[z]	^-
+Chinese Taipei vs Vietnam	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247750/chinese-taipei-women-vs-vietnam-women.html
+
+12:00 [g]Japanese J1 League[z]	^-
+FC Tokyo vs Yokohama F Marinos	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331744/fc-tokyo-vs-yokohama-f-marinos.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
@@ -50,13 +100,16 @@ Arema FC vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-matc
 
 	^-
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Drama Hebat	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 Drama Hotpot	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 Lawak Sentral	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 Oh My Ceria!	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -85,7 +138,6 @@ Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
@@ -1428,7 +1480,6 @@ Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-XFC MMA	https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -1749,7 +1800,6 @@ Band 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/3361
 BBC News 🇬🇧	https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 Berita RTM 🇲🇾	`0https://rtm-player.glueapi.io/latest/h/5
 Bernama 🇲🇾	https://mana2.lu-mau-apaan-sih-waduhhh.workers.dev/bernama/index.m3u8
-Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 ETB 1 🇪🇸	https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 ETB 2 🇪🇸	https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 Just for Laughs	PlutoTV/60d32888e31a0300073d9f08?7
@@ -1762,8 +1812,6 @@ MeWatch 4 🇸🇬	https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d
 MeWatch 5 🇸🇬	https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd!!1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 MeWatch U 🇸🇬	https://do2ibj89ih8kz.cloudfront.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd!!981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 
-Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Okey RTM 🇲🇾	`9https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 OutDoor	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 RealWild	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
@@ -1780,9 +1828,7 @@ TV 8 🇲🇾	https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd!!a9
 TV 9 🇲🇾	https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd!!1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 TV Selangor 🇲🇾	https://mana2.lu-mau-apaan-sih-waduhhh.workers.dev/tvs/index.m3u8
 TBS	https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
 WBC	https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-YGTV	https://4e7d4e92cd344185b927ab5c730550dd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_YGTV/playlist.m3u8
 Rakuten MyTimes	https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 Action Movies A	i3!062793084?zxz
