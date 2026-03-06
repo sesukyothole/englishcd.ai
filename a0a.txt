@@ -246,6 +246,8 @@ PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
 PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 SCTV15	https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd!!a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+SCTV17	https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd!!a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+SCTV22	https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 Sporsmart 1	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 Sporsmart 2	https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
