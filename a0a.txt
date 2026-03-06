@@ -28,17 +28,9 @@
 
 06.03.2026	^-
 
-19:00 [g]Thai League 1[z]	^-
-Port FC vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320295/port-fc-vs-lamphun-warriors.html
-Port FC vs Lamphun Warrior	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc79b.m3u8?auth_key=1772802115-0-0-ca7dfc7324bfa126f8ddf653fb94bf80
-Port FC vs Lamphun Warrior	https://live.trendgallary.com/live/13361015_19b114411c085b12cda51af05dba0d31_h1080p.m3u8
-
-20:30 Liga 1	^-
-Arema FC vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229609/arema-fc-vs-bali-united.html
-Arema FC vs Bali United	https://bo2.qiuxun.tv/sla/1-6989fd7e14caa75d72d1d379.m3u8?auth_key=1772802115-0-0-3e77345aaa976cc443be9877356165d6
-
 21:00 Malaysian Super League	^-
 Kelantan DN vs Terengganu	https://bo2.qiuxun.tv/sla/1-6989fd7e14caa75d72d1d37d.m3u8?auth_key=1772802115-0-0-5de59cd68b06f7a252e75c04264589ec
+Kelantan DN vs Terengganu	https://live.trendgallary.com/live/13488511_4c788f8e30e0116d2d2d26ebfa8bd8aa_h1080p.m3u8
 
 07.03.2026	^-
 
@@ -51,6 +43,7 @@ Hercules vs Utrecht	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76786.m3u8?au
 
 02:00 [l]Women's WC Qualifer CONCACAF[z]	^-
 Anguilla vs Dominican Republic	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationconcacaf-match-4304889/anguilla-women-vs-dominican-republic-women.html
+Anguilla vs Dominican Republic	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202d4.m3u8?auth_key=1772831961-0-0-33bef3c5322250b56b1823e7a5d08d43
 
 02:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs Br M'Gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199768/fc-bayern-munich-vs-borussia-monchengladbach.html
