@@ -46,10 +46,12 @@ Anguilla vs Dominican Republic	https://live.trendgallary.com/live/69483552_1c2a9
 02:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs Br M'Gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199768/fc-bayern-munich-vs-borussia-monchengladbach.html
 Bayern Munchen vs Br M'Gladbach	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e249.m3u8?auth_key=1772802115-0-0-e32157b46a4d5fbb8eedec9115d41104
+Bayern Munchen vs Br M'Gladbach	https://live1.trendgallary.com/live/12535398_45dae961efb03d86c435ad03dd54a023_h1080p.m3u8
 
 02:45 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200308/paris-saint-germain-vs-as-monaco.html
-Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c4.m3u8?auth_key=1772802115-0-0-0470c6e9071f0e183b76ff35a082fdeb
+Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c4.m3u8?auth_key=1772847814-0-0-e246be15b3bb1eb2bf973c013a834cfc
+Paris Saint Germain vs Monaco	https://cors-proxy.cooks.fyi/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
 
 02:45 [y]Italian Serie A[z]	^-
 Napoli vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194668/napoli-vs-torino.html
@@ -66,14 +68,17 @@ Falkirk vs Dundee United	https://bo2.qiuxun.tv/sla/1-699f85fe952272c52c153ad8.m3
 03:00 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209598/rc-celta-vs-real-madrid.html
 Real Celta Vigo vs Real Madrid	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677f.m3u8?auth_key=1772802115-0-0-ce1948d9512663576439503628226a6c
+Real Celta Vigo vs Real Madrid	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 03:00 [g]FA Cup[z]	^-
 Wolves vs Liverpool	`Fhttps://www.fctv33.net/football/fa-cup-match-4361294/wolverhampton-wanderers-vs-liverpool.html
 Wolves vs Liverpool	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606da.m3u8?auth_key=1772802115-0-0-0f172e7f166e2a20d25cee14d3e940c4
+Wolves vs Liverpool	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 
 03:00 [g]English Football League Champ[z]	^-
 Preston North End vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203766/preston-north-end-vs-oxford-united.html
 Preston North End vs Oxford United	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2f3.m3u8?auth_key=1772802115-0-0-9033855a8db2cffb2df3cfeafe46c9b9
+Preston North End vs Oxford United	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216099/fc-famalicao-vs-fc-arouca.html
@@ -331,6 +336,7 @@ beIN Sports 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/e
 beIN Sports 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 beIN Sports X	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+ESPN 2 AR	https://cors-proxy.cooks.fyi/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
@@ -339,6 +345,7 @@ Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/c
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 Laliga TV	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+Match RU	https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 Premier Sports 1	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd!!1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
