@@ -28,10 +28,6 @@
 
 06.03.2026	^-
 
-15:00 [l]AFC Women’s Asian Cup[z]	^-
-Uzbekistan vs China	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303656/uzbekistan-women-vs-china-women.html
-Uzbekistan vs China	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc785.m3u8?auth_key=1772802115-0-0-db1a8cc6fb43368e5bf2b61897d79a30
-
 15:35 [g]Australia A-League[z]	^-
 Adelaide Utd vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282164/adelaide-united-vs-wellington-phoenix.html
 Adelaide Utd vs Wellington Phoenix	https://live1.trendgallary.com/live/13039971_4323c886fdd2d3de02a589e7d33f4cd9_h1080p.m3u8
