@@ -96,6 +96,120 @@ Chinese Taipei vs Vietnam	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202e5.m
 FC Tokyo vs Yokohama F Marinos	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331744/fc-tokyo-vs-yokohama-f-marinos.html
 FC Tokyo vs Yokohama F Marinos	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202e8.m3u8?auth_key=1772802115-0-0-5e1e84f8878e9c751e493a313776bb92
 
+13:00 [g]Australia A-League[z]	^-
+Newcastle Jets vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282132/newcastle-jets-vs-western-sydney.html
+
+13:00 [g]Japanese J1 League[z]	^-
+Urawa Diamonds vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331742/urawa-red-diamonds-vs-mito-hollyhock.html
+
+14:00 [g]Japanese J1 League[z]	^-
+Kashima Antlers vs Tokyo Verdy	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331761/kashima-antlers-vs-tokyo-verdy.html
+
+15:35 [g]Australia A-League[z]	^-
+Sydney FC vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282202/sydney-fc-vs-melbourne-victory.html
+
+18:00 [l]AFC Women’s Asian Cup[z]	^-
+India vs Japan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247753/india-women-vs-japan-women.html
+
+18:00 [g]Thai League 1[z]	^-
+Sukhothai vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320299/sukhothai-vs-rayong-fc.html
+
+18:30 [g]Thai League 1[z]	^-
+Ayutthaya Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320301/ayutthaya-united-vs-kanchanaburi-power-fc.html
+
+19:00 Liga 1	^-
+Malut United vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229567/malut-united-vs-persatuan-sepakbola-makassar.html
+
+19:00 [g]Thai League 1[z]	^-
+Prachuap Khiri vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320298/pt-prachuap-fc-vs-muangthong-united.html
+
+19:15 [g]FA Cup[z]	^-
+Mansfield Town vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4357313/mansfield-town-vs-arsenal.html
+
+19:30 [l]Women's WC Qualifier UEFA[z]	^-
+England vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313620/england-women-vs-iceland-women.html
+
+19:30 [g]Thai League 1[z]	^-
+Nakhon Ratchasima vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320293/nakhon-ratchasima-mazda-fc-vs-buriram-united.html
+
+20:00 [y]Spanish La Liga[z]	^-
+Osasuna vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209599/ca-osasuna-vs-rcd-mallorca.html
+
+20:00 [g]Turkish Super League[z]	^-
+Istanbul Buyuksehir vs Goztepe	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216792/baakehir-futbol-kulb-vs-goztepe.html
+
+20:15 Malaysian Super League	^-
+Kuching FA vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221048/kuching-city-fc-vs-sabah-fc.html
+
+20:30 Liga 1	^-
+Persita Tangerang vs Madura Utd	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229478/persita-tangerang-vs-madura-united.html
+Borneo FC vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229566/borneo-fc-vs-persebaya-surabaya.html
+
+21:00 [y]Italian Serie A[z]	^-
+Cagliari vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194734/cagliari-vs-como.html
+
+21:00 Malaysian Super League	^-
+Kuala Lumpur vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221168/kuala-lumpur-city-fc-vs-melaka-fc.html
+
+21:30 [y]Bundesliga[z]	^-
+VfL Wolfsburg vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199732/vfl-wolfsburg-vs-hamburger-sv.html
+FSV Mainz 05 vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199735/1-fsv-mainz-05-vs-vfb-stuttgart.html
+1. FC Heidenheim vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199736/1-fc-heidenheim-1846-vs-tsg-hoffenheim.html
+RB Leipzig vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199754/rb-leipzig-vs-fc-augsburg.html
+SC Freiburg vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199769/sc-freiburg-vs-bayer-04-leverkusen.html
+
+22:00 [g]Belgian Pro League[z]	^-
+Oud Heverlee vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198976/oud-heverlee-leuven-vs-kvc-westerlo.html
+
+22:00 [g]Scottish Premiership[z]	^-
+Dundee vs Motherwell	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206213/dundee-vs-motherwell.html
+
+22:15 [y]Spanish La Liga[z]	^-
+Levante vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209844/levante-vs-girona-fc.html
+
+22:30 [y]Netherlands Eredivisie[z]	^-
+Groningen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199224/groningen-vs-afc-ajax.html
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+Alverca vs AVS Futebol SAD	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216051/alverca-vs-avs-futebol-sad.html
+Moreirense vs Nacional Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216098/moreirense-vs-nacional-da-madeira.html
+
+23:00 [y]French Ligue 1[z]	^-
+Nantes vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200290/fc-nantes-vs-angers-sco.html
+
+08.03.2026	^-
+
+00:00 [y]Italian Serie A[z]	^-
+Atalanta vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194754/atalanta-vs-udinese.html
+
+00:00 [g]Turkish Super League[z]	^-
+Besiktas JK vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216789/besiktas-jk-vs-galatasaray.html
+
+00:00 [l]Women's WC Qualifier UEFA[z]	^-
+Ukraine vs Spain	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313579/ukraine-women-vs-spain-women.html
+Scotland vs Luxembourg	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313623/scotland-women-vs-luxembourg-women.html
+
+00:15 [g]Belgian Pro League[z]	^-
+FCV Dender EH vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198982/fcv-dender-eh-vs-rc-sporting-charleroi.html
+
+00:30 [y]Bundesliga[z]	^-
+FC Koln vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199755/fc-kln-vs-borussia-dortmund.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Atletico Madrid vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209660/atletico-madrid-vs-real-sociedad.html
+
+00:35 [l]International Women Friendly[z]	^-
+Canada vs Argentina	`Fhttps://www.fctv33.net/football/international-friendly-match-4362836/canada-women-vs-argentina-women.html
+
+00:45 [y]FA Cup[z]	^-
+Wrexham vs Chelsea	`Fhttps://www.fctv33.net/football/fa-cup-match-4361747/wrexham-vs-chelsea.html
+
+01:00 [y]French Ligue 1[z]	^-
+AJ Auxerre vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200284/aj-auxerre-vs-rc-strasbourg-alsace.html
+
+01:00 [g]Portuguese Primera Liga[z]	^-
+Sporting Braga vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216060/sporting-braga-vs-sporting-cp.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
