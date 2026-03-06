@@ -63,6 +63,10 @@ Anguilla vs Dominican Republic	`Fhttps://www.fctv33.net/football/fifa-womens-wor
 Bayern Munchen vs Br M'Gladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199768/fc-bayern-munich-vs-borussia-monchengladbach.html
 Bayern Munchen vs Br M'Gladbach	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e249.m3u8?auth_key=1772802115-0-0-e32157b46a4d5fbb8eedec9115d41104
 
+02:45 [y]French Ligue 1[z]	^-
+Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200308/paris-saint-germain-vs-as-monaco.html
+Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c4.m3u8?auth_key=1772802115-0-0-0470c6e9071f0e183b76ff35a082fdeb
+
 02:45 [y]Italian Serie A[z]	^-
 Napoli vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194668/napoli-vs-torino.html
 Napoli vs Torino	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d1.m3u8?auth_key=1772802115-0-0-a45afa07fed9f0c3e0bbf31dc85a0b20
@@ -71,16 +75,8 @@ Napoli vs Torino	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d1.m3u8?auth_
 LaLouviere vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199001/raal-la-louvire-vs-royal-antwerp.html
 LaLouviere vs Royal Antwerp	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c5.m3u8?auth_key=1772802115-0-0-cdf7fd7b12993342c54af69d22f9b4b8
 
-02:45 [y]French Ligue 1[z]	^-
-Paris Saint Germain vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200308/paris-saint-germain-vs-as-monaco.html
-Paris Saint Germain vs Monaco	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202c4.m3u8?auth_key=1772802115-0-0-0470c6e9071f0e183b76ff35a082fdeb
-
 02:45 [g]Scottish Cup[z]	^-
 Falkirk vs Dundee United	`Fhttps://www.fctv33.net/football/scottish-cup-match-4361748/falkirk-vs-dundee-united.html
-
-03:00 [g]English Football League Champ[z]	^-
-Preston North End vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203766/preston-north-end-vs-oxford-united.html
-Preston North End vs Oxford United	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2f3.m3u8?auth_key=1772802115-0-0-9033855a8db2cffb2df3cfeafe46c9b9
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209598/rc-celta-vs-real-madrid.html
@@ -89,6 +85,10 @@ Real Celta Vigo vs Real Madrid	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76
 03:00 [g]FA Cup[z]	^-
 Wolves vs Liverpool	`Fhttps://www.fctv33.net/football/fa-cup-match-4361294/wolverhampton-wanderers-vs-liverpool.html
 Wolves vs Liverpool	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606da.m3u8?auth_key=1772802115-0-0-0f172e7f166e2a20d25cee14d3e940c4
+
+03:00 [g]English Football League Champ[z]	^-
+Preston North End vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203766/preston-north-end-vs-oxford-united.html
+Preston North End vs Oxford United	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2f3.m3u8?auth_key=1772802115-0-0-9033855a8db2cffb2df3cfeafe46c9b9
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216099/fc-famalicao-vs-fc-arouca.html
