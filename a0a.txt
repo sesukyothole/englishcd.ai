@@ -34,7 +34,7 @@ Uzbekistan vs China	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc785.m3u8?au
 
 15:35 [g]Australia A-League[z]	^-
 Adelaide Utd vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282164/adelaide-united-vs-wellington-phoenix.html
-Adelaide Utd vs Wellington Phoenix	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc788.m3u8?auth_key=1772802115-0-0-9a2da306ac9c07d6df58a6832981a33e
+Adelaide Utd vs Wellington Phoenix	https://live1.trendgallary.com/live/13039971_4323c886fdd2d3de02a589e7d33f4cd9_h1080p.m3u8
 
 19:00 [g]Thai League 1[z]	^-
 Port FC vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320295/port-fc-vs-lamphun-warriors.html
@@ -249,6 +249,7 @@ PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
 PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
 PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
+SCTV15	https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd!!a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 Sporsmart 1	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 Sporsmart 2	https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
