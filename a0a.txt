@@ -31,6 +31,7 @@
 02:00 [g]Saudi Professional League[z]	^-
 Al Ahli Jeddah vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256195/al-ahli-sfc-vs-al-ittihad-club.html
 Al Ahli Jeddah vs Al Ittihad Club	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74e.m3u8?auth_key=1772802115-0-0-e0fd6428e8f181a3146be8c73d792263
+Al Hilal vs An Najma	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc749.m3u8?auth_key=1772834944-0-0-4fe12f41936ae0473aeaf4d7355f6ce0
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Hercules vs Utrecht	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76786.m3u8?auth_key=1772802115-0-0-54651b0e2e46cf82a777b3fccaecb1af
