@@ -31,6 +31,7 @@
 19:00 [g]Thai League 1[z]	^-
 Port FC vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320295/port-fc-vs-lamphun-warriors.html
 Port FC vs Lamphun Warrior	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc79b.m3u8?auth_key=1772802115-0-0-ca7dfc7324bfa126f8ddf653fb94bf80
+Port FC vs Lamphun Warrior	https://live.trendgallary.com/live/13361015_19b114411c085b12cda51af05dba0d31_h1080p.m3u8
 
 20:30 Liga 1	^-
 Arema FC vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229609/arema-fc-vs-bali-united.html
