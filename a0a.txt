@@ -28,26 +28,6 @@
 
 08.03.2026	^-
 
-03:00 [y]Spanish La Liga[z]	^-
-Athletic Bilbao vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209849/athletic-club-vs-fc-barcelona.html
-Athletic Bilbao vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76781.m3u8?auth_key=1772897250-0-0-8e3df62e4b1eaff97ac7d7c0144a8402
-Athletic Bilbao vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
-03:00 [g]FA Cup[z]	^-
-Newcastle Utd vs Manchester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4357789/newcastle-united-vs-manchester-city.html
-Newcastle Utd vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d6.m3u8?auth_key=1772897250-0-0-d44140fd0665cd6e93e999a72ed38394
-Newcastle Utd vs Manchester City	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-
-03:10 [l]Women's WC Qualifier UEFA[z]	^-
-France vs Poland	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76819.m3u8?auth_key=1772925680-0-0-ec068cf55a9cdc0e5b68c3cce25ddf13
-
-02:00 [y]Netherlands Eredivisie[z]	^-
-Excelsior vs Heerenveen	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76788.m3u8?auth_key=1772897250-0-0-9c941c39b251f05aec55e9c2659f89fe
-
-03:05 [y]French Ligue 1[z]	^-
-Toulouse vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200318/toulouse-fc-vs-marseille.html
-Toulouse vs Marseille	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7689a.m3u8?auth_key=1772897250-0-0-def32f4fd0a8471273fd5a853213c5fd
-
 03:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216094/estoril-vs-casa-pia-ac.html
 Estoril vs Casa Pia AC	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a4.m3u8?auth_key=1772897250-0-0-1781ab617aef3c2eaeb9c39feb9a938c
