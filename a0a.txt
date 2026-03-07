@@ -160,18 +160,19 @@ AJ Auxerre vs Strasbourg	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7685f.m3
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Sporting Braga vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216060/sporting-braga-vs-sporting-cp.html
-Sporting Braga vs Sporting CP	http://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a5.m3u8?auth_key=1772897250-0-0-e314884a82fe62c681f57dc4e55669b6
+Sporting Braga vs Sporting CP	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a5.m3u8?auth_key=1772897250-0-0-e314884a82fe62c681f57dc4e55669b6
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199317/psv-eindhoven-vs-az-alkmaar.html
+PSV Eindhoven vs AZ Alkmaar	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76789.m3u8?auth_key=1772897250-0-0-47e2e1b2dcd1ae4f5692af62e0dec457
 
 02:00 [g]Saudi Professional League[z]	^-
 Al Kholood vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256016/al-kholood-vs-al-qadsiah.html
 Al Kholood vs Al-Qadasiya	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74c.m3u8?auth_key=1772897250-0-0-d49d6415b438237d0fd51a0909affda3
 Al Nassr FC vs NEOM Sports Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256025/al-nassr-fc-vs-neom-sports-club.html
 Al Nassr FC vs NEOM Sports Club	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74b.m3u8?auth_key=1772897250-0-0-ecf319f994a69da586028f46c40466b0
-Al Ettifaq vs Al Shabab Riyadh	http://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc747.m3u8?auth_key=1772897250-0-0-d0b79215ac27d2a396a1904a6d19dbb6
-Al-Okhdoud vs Al-Fayha	http://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74d.m3u8?auth_key=1772897250-0-0-9ee42c16139cbcdcf4ee77de85c49970
+Al Ettifaq vs Al Shabab Riyadh	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc747.m3u8?auth_key=1772897250-0-0-d0b79215ac27d2a396a1904a6d19dbb6
+Al-Okhdoud vs Al-Fayha	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74d.m3u8?auth_key=1772897250-0-0-9ee42c16139cbcdcf4ee77de85c49970
 
 02:30 [g]US Major League Soccer[z]	^-
 New York City FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317304/new-york-city-fc-vs-orlando-city.html
