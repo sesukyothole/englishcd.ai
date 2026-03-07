@@ -65,9 +65,14 @@ Besiktas JK vs Galatasaray	https://bo2.qiuxun.tv/sla/1-698df1fe14caa75d720f52c5.
 00:00 [l]Women's WC Qualifier UEFA[z]	^-
 Scotland vs Luxembourg	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313623/scotland-women-vs-luxembourg-women.html
 Scotland vs Luxembourg	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680c.m3u8?auth_key=1772917628-0-0-8b91046746d25be41ef2d64269140ffb
+Scotland vs Luxembourg	https://live1.trendgallary.com/live/13341056_0b60a7b8e6268a391d64cc2f8ba4bc84_h1080p.m3u8
 Albania vs Czech	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315285/albania-women-vs-czechia-women.html
-Norway vs Germany	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313597/norway-women-vs-germany-women.html
+Albania vs Czech	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76813.m3u8?auth_key=1772925422-0-0-5a183a773031c1bcea7520e04ff97b83
 Ukraine vs Spain	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313579/ukraine-women-vs-spain-women.html
+Ukraine vs Spain	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76816.m3u8?auth_key=1772925422-0-0-cf7c7f07dbb7fbd0b9a4ccf5ec4c1991
+Norway vs Germany	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313597/norway-women-vs-germany-women.html
+
+00:15 [l]Women's WC Qualifier UEFA[z]	^-
 Italy vs Denmark	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7681b.m3u8?auth_key=1772918934-0-0-f31c165b25eea524a5d8528e5d9bc51b
 
 00:15 [g]Belgian Pro League[z]	^-
