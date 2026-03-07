@@ -28,63 +28,6 @@
 
 07.03.2026	^-
 
-18:00 [l]AFC Women’s Asian Cup[z]	^-
-India vs Japan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247753/india-women-vs-japan-women.html
-India vs Japan	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e26d.m3u8?auth_key=1772896218-0-0-3d885979ce9976f0ddc5db23b2348bb8
-India vs Japan	https://live.trendgallary.com/live/13186618_9850db83028e5d50191aeceaec7564dd_h1080p.m3u8
-
-18:00 [g]Thai League 1[z]	^-
-Sukhothai vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320299/sukhothai-vs-rayong-fc.html
-Sukhothai vs Rayong FC	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e26e.m3u8?auth_key=1772896218-0-0-1fa6e0293e2a4acfb635a49e6972b5bb
-Sukhothai vs Rayong FC	https://live2.trendgallary.com/live/13361016_5ace7476c1c28c161eec198b77419ed1_h1080p.m3u8
-
-18:30 [g]Thai League 1[z]	^-
-Ayutthaya Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320301/ayutthaya-united-vs-kanchanaburi-power-fc.html
-Ayutthaya Utd vs Singha GB	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e27b.m3u8?auth_key=1772896218-0-0-2bd0bf4f4800eec708a53b01910e349b
-Ayutthaya Utd vs Singha GB	https://live.trendgallary.com/live/13361017_098cd2166f5a1acd60d01fec1bdac01a_h1080p.m3u8
-
-19:00 Liga 1	^-
-Malut United vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229567/malut-united-vs-persatuan-sepakbola-makassar.html
-Malut United vs PSM Makassar	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e27c.m3u8?auth_key=1772907089-0-0-e4f96a0563f186eed264eaba6902ecf4
-Malut United vs PSM Makassar	https://live2.trendgallary.com/live/12704413_e55404d50f7c6403262572e171e4c466_h1080p.m3u8
-
-19:00 [g]Thai League 1[z]	^-
-Prachuap Khiri vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320298/pt-prachuap-fc-vs-muangthong-united.html
-Prachuap Khiri vs Muang Thong Utd	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e283.m3u8?auth_key=1772896218-0-0-18509bbde7a090d4edd5c6eb9b20358c
-Prachuap Khiri vs Muang Thong Utd	https://live4.trendgallary.com/live/13361018_ce345deb0507fc8593500d7fb4762081_h1080p.m3u8
-
-19:00 [l]Women's WC Qualifier UEFA[z]	^-
-Cyprus vs Romania	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76804.m3u8?auth_key=1772907089-0-0-46b4030d028a4d0851ef1d7d0c8b10b0
-Bosnia vs Liechtenstein	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680b.m3u8?auth_key=1772907089-0-0-3c5ce9b57b096ee05a2dfa266be6b3f1
-Bosnia vs Liechtenstein	https://live2.trendgallary.com/live/13341038_704093ed55faba1ab38161d57f5fd10b_h1080p.m3u8
-
-19:15 [g]FA Cup[z]	^-
-Mansfield Town vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4357313/mansfield-town-vs-arsenal.html
-Mansfield Town vs Arsenal	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d7.m3u8?auth_key=1772907089-0-0-b9d60b2540578458de4358e4cfb762df
-Mansfield Town vs Arsenal	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-
-19:30 [l]Women's WC Qualifier UEFA[z]	^-
-England vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313620/england-women-vs-iceland-women.html
-England vs Iceland	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76817.m3u8?auth_key=1772905933-0-0-7ed63bf535a23a4f3f8de1b6b49e1c01
-Finland vs Latvia	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680e.m3u8?auth_key=1772905933-0-0-308b98c5b43c35d62887d486dce317b6
-
-19:30 [g]Thai League 1[z]	^-
-Nakhon Ratchasima vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320293/nakhon-ratchasima-mazda-fc-vs-buriram-united.html
-Nakhon Ratchasima vs Buriram Utd	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e293.m3u8?auth_key=1772905933-0-0-84a706138b5f177e36abcd9d7756d97c
-
-20:00 [y]Spanish La Liga[z]	^-
-Osasuna vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209599/ca-osasuna-vs-rcd-mallorca.html
-Osasuna vs Mallorca	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76779.m3u8?auth_key=1772897250-0-0-7d3995db9c4169d008bec5bff84323e8
-Osasuna vs Mallorca	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-
-20:00 [g]Turkish Super League[z]	^-
-Istanbul Buyuksehir vs Goztepe	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216792/baakehir-futbol-kulb-vs-goztepe.html
-Istanbul Buyuksehir vs Goztepe	https://bo2.qiuxun.tv/sla/1-698df1fe14caa75d720f52c3.m3u8?auth_key=1772897250-0-0-7ac839e3e42e672e336076930832fc16
-
-20:15 Malaysian Super League	^-
-Kuching FA vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221048/kuching-city-fc-vs-sabah-fc.html
-Kuching FA vs Sabah	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c05720344.m3u8?auth_key=1772907089-0-0-59a2be8a7f89733f03e6599db601e1dc
-
 20:30 Liga 1	^-
 Persita Tangerang vs Madura Utd	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229478/persita-tangerang-vs-madura-united.html
 Persita Tangerang vs Madura Utd	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c0572034a.m3u8?auth_key=1772905933-0-0-6a157ee77313d5786e323c8ec77b7800
