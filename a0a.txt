@@ -28,32 +28,6 @@
 
 07.03.2026	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-Mazatlan FC vs Club Leon	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322484/mazatlan-fc-vs-club-leon.html
-Mazatlan FC vs Club Leon	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202da.m3u8?auth_key=1772802115-0-0-72d4193734fe45a190a3faca8b60b4e0
-
-10:00 [g]Mexico Liga MX[z]	^-
-Necaxa vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322486/necaxa-vs-pumas-unam.html
-Necaxa vs Pumas UNAM	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202df.m3u8?auth_key=1772802115-0-0-eedaa3ba3f08726226743df7105c0a9c
-
-11:00 [g]Japanese J1 League[z]	^-
-JEF Utd Ichihara vs Kashiwa Reysol	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331756/jef-united-ichihara-chiba-vs-kashiwa-reysol.html
-JEF Utd Ichihara vs Kashiwa Reysol	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202e7.m3u8?auth_key=1772802115-0-0-acbe6b0c18f0237b4c3919690f2dfb32
-
-12:00 [l]AFC Women’s Asian Cup[z]	^-
-Chinese Taipei vs Vietnam	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247750/chinese-taipei-women-vs-vietnam-women.html
-Chinese Taipei vs Vietnam	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202e5.m3u8?auth_key=1772802115-0-0-5d400fc4c3752e29c84009206a3f0a43
-
-12:00 [g]Japanese J1 League[z]	^-
-FC Tokyo vs Yokohama F Marinos	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331744/fc-tokyo-vs-yokohama-f-marinos.html
-FC Tokyo vs Yokohama F Marinos	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c057202e8.m3u8?auth_key=1772802115-0-0-5e1e84f8878e9c751e493a313776bb92
-
-13:00 [g]Australia A-League[z]	^-
-Newcastle Jets vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282132/newcastle-jets-vs-western-sydney.html
-
-13:00 [g]Japanese J1 League[z]	^-
-Urawa Diamonds vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331742/urawa-red-diamonds-vs-mito-hollyhock.html
-
 14:00 [g]Japanese J1 League[z]	^-
 Kashima Antlers vs Tokyo Verdy	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331761/kashima-antlers-vs-tokyo-verdy.html
 
