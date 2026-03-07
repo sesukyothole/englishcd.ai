@@ -41,6 +41,7 @@ Sukhothai vs Rayong FC	https://live2.trendgallary.com/live/13361016_5ace7476c1c2
 18:30 [g]Thai League 1[z]	^-
 Ayutthaya Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320301/ayutthaya-united-vs-kanchanaburi-power-fc.html
 Ayutthaya Utd vs Singha GB	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e27b.m3u8?auth_key=1772896218-0-0-2bd0bf4f4800eec708a53b01910e349b
+Ayutthaya Utd vs Singha GB	https://live.trendgallary.com/live/13361017_098cd2166f5a1acd60d01fec1bdac01a_h1080p.m3u8
 
 19:00 Liga 1	^-
 Malut United vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229567/malut-united-vs-persatuan-sepakbola-makassar.html
@@ -57,9 +58,12 @@ Mansfield Town vs Arsenal	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients
 
 19:30 [l]Women's WC Qualifier UEFA[z]	^-
 England vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313620/england-women-vs-iceland-women.html
+England vs Iceland	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76817.m3u8?auth_key=1772905933-0-0-7ed63bf535a23a4f3f8de1b6b49e1c01
+Finland vs Latvia	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680e.m3u8?auth_key=1772905933-0-0-308b98c5b43c35d62887d486dce317b6
 
 19:30 [g]Thai League 1[z]	^-
 Nakhon Ratchasima vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320293/nakhon-ratchasima-mazda-fc-vs-buriram-united.html
+Nakhon Ratchasima vs Buriram Utd	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e293.m3u8?auth_key=1772905933-0-0-84a706138b5f177e36abcd9d7756d97c
 
 20:00 [y]Spanish La Liga[z]	^-
 Osasuna vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209599/ca-osasuna-vs-rcd-mallorca.html
@@ -75,6 +79,7 @@ Kuching FA vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-mat
 
 20:30 Liga 1	^-
 Persita Tangerang vs Madura Utd	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229478/persita-tangerang-vs-madura-united.html
+Persita Tangerang vs Madura Utd	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c0572034a.m3u8?auth_key=1772905933-0-0-6a157ee77313d5786e323c8ec77b7800
 Borneo FC vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229566/borneo-fc-vs-persebaya-surabaya.html
 
 21:00 [y]Italian Serie A[z]	^-
