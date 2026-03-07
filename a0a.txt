@@ -28,18 +28,6 @@
 
 07.03.2026	^-
 
-21:00 [y]Italian Serie A[z]	^-
-Cagliari vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194734/cagliari-vs-como.html
-Cagliari vs Como	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d7.m3u8?auth_key=1772897250-0-0-b980f997b77fa140f153d44f32d258b3
-Cagliari vs Como	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
-21:00 Malaysian Super League	^-
-Kuala Lumpur vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221168/kuala-lumpur-city-fc-vs-melaka-fc.html
-Kuala Lumpur vs Melaka FC	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2bb.m3u8?auth_key=1772917628-0-0-fc8b8534ed521a1c1dc0e50329e0edeb
-Kuala Lumpur vs Melaka FC	https://live.trendgallary.com/live/12648049_a1bb2c4a5513ee09d8594fb9ef876ed0_h1080p.m3u8
-Negeri Sembilan vs Penang	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2ba.m3u8?auth_key=1772917628-0-0-740a6eeaec3825e4cf64122d2e15161f
-Negeri Sembilan vs Penang	https://player.sportlive.asia/?v=https%3A%2F%2Flive1.trendgallary.com%2Flive%2F12648050_15be4583b9fe06a24fcc4053624afe47_h1080p.m3u8
-
 21:30 [y]Bundesliga[z]	^-
 VfL Wolfsburg vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199732/vfl-wolfsburg-vs-hamburger-sv.html
 VfL Wolfsburg vs Hamburger SV	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2e5.m3u8?auth_key=1772897250-0-0-afc9a5e26068beda6de2da5690f34672
