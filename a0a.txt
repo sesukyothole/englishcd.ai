@@ -28,12 +28,6 @@
 
 07.03.2026	^-
 
-15:35 [g]Australia A-League[z]	^-
-Sydney FC vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282202/sydney-fc-vs-melbourne-victory.html
-Sydney FC vs Melbourne Victory	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e24d.m3u8?auth_key=1772896218-0-0-290a54a63da76f3e6e7aaa6f44e80495
-Sydney FC vs Melbourne Victory	https://live.trendgallary.com/live/13039975_a3337288df9d0096ebc38199c001d29d_h1080p.m3u8
-Sydney FC vs Melbourne Victory	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-
 18:00 [l]AFC Women’s Asian Cup[z]	^-
 India vs Japan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247753/india-women-vs-japan-women.html
 India vs Japan	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e26d.m3u8?auth_key=1772896218-0-0-3d885979ce9976f0ddc5db23b2348bb8
