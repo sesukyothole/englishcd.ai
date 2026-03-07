@@ -53,6 +53,7 @@ Prachuap Khiri vs Muang Thong Utd	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72
 19:15 [g]FA Cup[z]	^-
 Mansfield Town vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4357313/mansfield-town-vs-arsenal.html
 Mansfield Town vs Arsenal	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d7.m3u8?auth_key=1772896218-0-0-3b850de85892e49fe931ef7770cd7953
+Mansfield Town vs Arsenal	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 
 19:30 [l]Women's WC Qualifier UEFA[z]	^-
 England vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313620/england-women-vs-iceland-women.html
@@ -63,6 +64,7 @@ Nakhon Ratchasima vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1
 20:00 [y]Spanish La Liga[z]	^-
 Osasuna vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209599/ca-osasuna-vs-rcd-mallorca.html
 Osasuna vs Mallorca	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76779.m3u8?auth_key=1772897250-0-0-7d3995db9c4169d008bec5bff84323e8
+Osasuna vs Mallorca	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 20:00 [g]Turkish Super League[z]	^-
 Istanbul Buyuksehir vs Goztepe	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216792/baakehir-futbol-kulb-vs-goztepe.html
@@ -78,6 +80,7 @@ Borneo FC vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-lig
 21:00 [y]Italian Serie A[z]	^-
 Cagliari vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194734/cagliari-vs-como.html
 Cagliari vs Como	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d7.m3u8?auth_key=1772897250-0-0-b980f997b77fa140f153d44f32d258b3
+Cagliari vs Como	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 21:00 Malaysian Super League	^-
 Kuala Lumpur vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221168/kuala-lumpur-city-fc-vs-melaka-fc.html
