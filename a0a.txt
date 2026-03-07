@@ -100,9 +100,6 @@ Al-Okhdoud vs Al-Fayha	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74d.m3u8
 New York City FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317304/new-york-city-fc-vs-orlando-city.html
 New York City FC vs Orlando City	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7688b.m3u8?auth_key=1772925680-0-0-c6cf8925c6fc81c4770044a0ebadcbcd
 
-02:30 [g]Scottish Cup[z]	^-
-Dunfermline Athletic vs Aberdeen	`Fhttps://www.fctv33.net/football/scottish-cup-match-4361749/dunfermline-athletic-vs-aberdeen.html
-
 02:45 [y]Italian Serie A[z]	^-
 Juventus vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194673/juventus-vs-pisa.html
 Juventus vs Pisa	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d4.m3u8?auth_key=1772897250-0-0-9cadfe50ee1bcb6c2fa03e0e502fbe6b
@@ -139,6 +136,7 @@ USA vs Colombia	https://bo2.qiuxun.tv/sla/1-69a21af202bc90c280346eee.m3u8?auth_k
 
 04:30 [g]US Major League Soccer[z]	^-
 DC United vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317300/dc-united-vs-inter-miami-cf.html
+DC United vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d768ce.m3u8?auth_key=1772931517-0-0-dd73104dd54cb28e91eac14d87adfc09
 
 06:00 [g]Mexico Liga MX[z]	^-
 Queretaro FC vs Club America	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322499/queretaro-fc-vs-club-america.html
