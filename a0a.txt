@@ -28,14 +28,6 @@
 
 07.03.2026	^-
 
-22:00 [g]Belgian Pro League[z]	^-
-Oud Heverlee vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198976/oud-heverlee-leuven-vs-kvc-westerlo.html
-Oud Heverlee vs Westerlo	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2fa.m3u8?auth_key=1772917628-0-0-74d75be1aa991dc7e12c8ffd822a7c8c
-
-22:00 [g]Scottish Premiership[z]	^-
-Dundee vs Motherwell	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206213/dundee-vs-motherwell.html
-Dundee vs Motherwell	https://bo2.qiuxun.tv/sla/1-69706470a6c61b2206507805.m3u8?auth_key=1772897250-0-0-b06a1657cdc27f145532c327d05fd748
-
 22:15 [y]Spanish La Liga[z]	^-
 Levante vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209844/levante-vs-girona-fc.html
 Levante vs Girona	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677a.m3u8?auth_key=1772897250-0-0-72a085793198f5e08704c5dc23c3f877
@@ -61,6 +53,7 @@ Slovenia vs Austria	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qual
 Slovenia vs Austria	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76814.m3u8?auth_key=1772917628-0-0-418e0b23784ae678f95b478363c54b9e
 
 23:30 [l]Women's WC Qualifier UEFA[z]	^-
+Wales vs Montenegro	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315292/wales-women-vs-montenegro-women.html
 Wales vs Montenegro	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76812.m3u8?auth_key=1772917628-0-0-41ce9ad0192f6ffba2e2693caffd744b
 
 08.03.2026	^-
@@ -76,9 +69,9 @@ Besiktas JK vs Galatasaray	https://bo2.qiuxun.tv/sla/1-698df1fe14caa75d720f52c5.
 00:00 [l]Women's WC Qualifier UEFA[z]	^-
 Scotland vs Luxembourg	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313623/scotland-women-vs-luxembourg-women.html
 Scotland vs Luxembourg	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680c.m3u8?auth_key=1772917628-0-0-8b91046746d25be41ef2d64269140ffb
+Albania vs Czech	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315285/albania-women-vs-czechia-women.html
+Norway vs Germany	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313597/norway-women-vs-germany-women.html
 Ukraine vs Spain	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313579/ukraine-women-vs-spain-women.html
-
-00:00 [l]Women's WC Qualifier UEFA[z]	^-
 Italy vs Denmark	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7681b.m3u8?auth_key=1772918934-0-0-f31c165b25eea524a5d8528e5d9bc51b
 
 00:15 [g]Belgian Pro League[z]	^-
@@ -112,6 +105,9 @@ Malta vs Switzerland	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76810.m3u8?a
 01:00 [g]Portuguese Primera Liga[z]	^-
 Sporting Braga vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216060/sporting-braga-vs-sporting-cp.html
 Sporting Braga vs Sporting CP	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a5.m3u8?auth_key=1772897250-0-0-e314884a82fe62c681f57dc4e55669b6
+
+01:30 [l]Women's WC Qualifier UEFA[z]	^-
+Greek vs Faroe Islands	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76805.m3u8?auth_key=1772924363-0-0-64bf57dbdb0ada37f2a2fe6f06fddb4f
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199317/psv-eindhoven-vs-az-alkmaar.html
