@@ -28,10 +28,6 @@
 
 07.03.2026	^-
 
-22:15 [y]Spanish La Liga[z]	^-
-Levante vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209844/levante-vs-girona-fc.html
-Levante vs Girona	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677a.m3u8?auth_key=1772897250-0-0-72a085793198f5e08704c5dc23c3f877
-
 22:30 [y]Netherlands Eredivisie[z]	^-
 Groningen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199224/groningen-vs-afc-ajax.html
 Groningen vs AFC Ajax	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76784.m3u8?auth_key=1772917628-0-0-bce92d05f8be228fd27d06e0e5ce8e3a
