@@ -28,14 +28,6 @@
 
 08.03.2026	^-
 
-03:30 [g]Portuguese Primera Liga[z]	^-
-Estoril vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216094/estoril-vs-casa-pia-ac.html
-Estoril vs Casa Pia AC	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a4.m3u8?auth_key=1772897250-0-0-1781ab617aef3c2eaeb9c39feb9a938c
-
-03:35 [l]International Women Friendly[z]	^-
-USA vs Colombia	`Fhttps://www.fctv33.net/football/international-friendly-match-4362834/usa-women-vs-colombia-women.html
-USA vs Colombia	https://bo2.qiuxun.tv/sla/1-69a21af202bc90c280346eee.m3u8?auth_key=1772897250-0-0-ba5714fb603c10a083f9f04f231ae868
-
 04:30 [g]US Major League Soccer[z]	^-
 DC United vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317300/dc-united-vs-inter-miami-cf.html
 DC United vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d768ce.m3u8?auth_key=1772931517-0-0-dd73104dd54cb28e91eac14d87adfc09
