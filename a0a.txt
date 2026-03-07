@@ -182,34 +182,47 @@ Dunfermline Athletic vs Aberdeen	`Fhttps://www.fctv33.net/football/scottish-cup-
 
 02:45 [y]Italian Serie A[z]	^-
 Juventus vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194673/juventus-vs-pisa.html
+Juventus vs Pisa	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d4.m3u8?auth_key=1772897250-0-0-9cadfe50ee1bcb6c2fa03e0e502fbe6b
 
 02:45 [g]Belgian Pro League[z]	^-
 Saint Gilloise vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4198994/union-saint-gilloise-vs-racing-genk.html
+Saint Gilloise vs Racing Genk	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76892.m3u8?auth_key=1772897250-0-0-9c793fdfafe3f5ad7598634cd9cee1ec
 
 03:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209849/athletic-club-vs-fc-barcelona.html
+Athletic Bilbao vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76781.m3u8?auth_key=1772897250-0-0-8e3df62e4b1eaff97ac7d7c0144a8402
 
 03:00 [g]FA Cup[z]	^-
 Newcastle Utd vs Manchester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4357789/newcastle-united-vs-manchester-city.html
+Newcastle Utd vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d6.m3u8?auth_key=1772897250-0-0-d44140fd0665cd6e93e999a72ed38394
+
+02:00 [y]Netherlands Eredivisie[z]	^-
+Excelsior vs Heerenveen	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76788.m3u8?auth_key=1772897250-0-0-9c941c39b251f05aec55e9c2659f89fe
 
 03:05 [y]French Ligue 1[z]	^-
 Toulouse vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200318/toulouse-fc-vs-marseille.html
+Toulouse vs Marseille	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7689a.m3u8?auth_key=1772897250-0-0-def32f4fd0a8471273fd5a853213c5fd
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216094/estoril-vs-casa-pia-ac.html
+Estoril vs Casa Pia AC	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a4.m3u8?auth_key=1772897250-0-0-1781ab617aef3c2eaeb9c39feb9a938c
 
 03:35 [l]International Women Friendly[z]	^-
 USA vs Colombia	`Fhttps://www.fctv33.net/football/international-friendly-match-4362834/usa-women-vs-colombia-women.html
+USA vs Colombia	https://bo2.qiuxun.tv/sla/1-69a21af202bc90c280346eee.m3u8?auth_key=1772897250-0-0-ba5714fb603c10a083f9f04f231ae868
 
 04:30 [g]US Major League Soccer[z]	^-
 DC United vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317300/dc-united-vs-inter-miami-cf.html
 
 06:00 [g]Mexico Liga MX[z]	^-
 Queretaro FC vs Club America	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322499/queretaro-fc-vs-club-america.html
+Queretaro FC vs Club America	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d6824.m3u8?auth_key=1772897250-0-0-569f8a2e73200db26913d8838503c950
 Cruz Azul vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322503/cruz-azul-vs-atletico-san-luis.html
+Cruz Azul vs Atletico San Luis	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d768d2.m3u8?auth_key=1772897250-0-0-4bad601553135b72ab8e9061c2d90821
 
 06:00 [l]International Women Friendly[z]	^-
 Mexico vs Brazil	`Fhttps://www.fctv33.net/football/international-friendly-match-4365093/mexico-women-vs-brazil-women.html
+Mexico vs Brazil	https://bo2.qiuxun.tv/sla/1-69a728b53d6564a94d209892.m3u8?auth_key=1772897250-0-0-3b41208a321196ffaba5ba839adab0f6
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
