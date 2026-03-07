@@ -36,21 +36,27 @@ Sydney FC vs Melbourne Victory	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-
 
 18:00 [l]AFC Women’s Asian Cup[z]	^-
 India vs Japan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247753/india-women-vs-japan-women.html
+India vs Japan	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e26d.m3u8?auth_key=1772896218-0-0-3d885979ce9976f0ddc5db23b2348bb8
 
 18:00 [g]Thai League 1[z]	^-
 Sukhothai vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320299/sukhothai-vs-rayong-fc.html
+Sukhothai vs Rayong FC	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e26e.m3u8?auth_key=1772896218-0-0-1fa6e0293e2a4acfb635a49e6972b5bb
 
 18:30 [g]Thai League 1[z]	^-
 Ayutthaya Utd vs Singha GB	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320301/ayutthaya-united-vs-kanchanaburi-power-fc.html
+Ayutthaya Utd vs Singha GB	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e27b.m3u8?auth_key=1772896218-0-0-2bd0bf4f4800eec708a53b01910e349b
 
 19:00 Liga 1	^-
 Malut United vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229567/malut-united-vs-persatuan-sepakbola-makassar.html
+Malut United vs PSM Makassar	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e27c.m3u8?auth_key=1772896218-0-0-6db877aca342a2f08ef2042b3467becb
 
 19:00 [g]Thai League 1[z]	^-
 Prachuap Khiri vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320298/pt-prachuap-fc-vs-muangthong-united.html
+Prachuap Khiri vs Muang Thong Utd	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e283.m3u8?auth_key=1772896218-0-0-18509bbde7a090d4edd5c6eb9b20358c
 
 19:15 [g]FA Cup[z]	^-
 Mansfield Town vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4357313/mansfield-town-vs-arsenal.html
+Mansfield Town vs Arsenal	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d7.m3u8?auth_key=1772896218-0-0-3b850de85892e49fe931ef7770cd7953
 
 19:30 [l]Women's WC Qualifier UEFA[z]	^-
 England vs Iceland	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313620/england-women-vs-iceland-women.html
@@ -748,7 +754,6 @@ BBC One	https://z.1UK_BBC_1/index.m3u8
 Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
 Racing TV	https://z.1UK_RACING_TV/index.m3u8
 Sky Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
-^=beIN Sport 3 🇲🇾	https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd!!20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 ^=beIN Sports 1 src	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 ^=beIN Sports 1 ir	https://balance.footballii.ir/hls2/b1.m3u8
 Stars	https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd!!9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
@@ -2100,44 +2105,6 @@ TSN 3 🇨🇦	09!08b00!00/6000003?zyy
 ^=Huhu.To	`0https://huhu.to/
 ^=espn	`1https://streamtp11.com/global1.php?stream=espn
 
-	^-
-^#[]👇Non SSL http (Mixed Mode) Streaming!👇[z]	^-
-^#[]👉Use Via Browser or Your Default-Factory Internet-Browser!👈[z]	^-
-Sky Sports 1	http://mains.services/live/bshorty/Zv5le07a0J/3a3f7ae8-8967-4580-b030-4a66fea7167b.m3u8?7
-Sky Sports 2	http://mains.services/live/bshorty/Zv5le07a0J/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.m3u8?7
-Sky Sports 3	http://mains.services/live/bshorty/Zv5le07a0J/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.m3u8?7
-Sky Sports 4	http://mains.services/live/bshorty/Zv5le07a0J/03e6b7c2-32ff-4d7d-90a1-798a35905074.m3u8?7
-Sky Sports 5	http://mains.services/live/bshorty/Zv5le07a0J/f625580c-d706-491f-907b-2baad2c4117e.m3u8?7
-Sky Sports 6	http://mains.services/live/bshorty/Zv5le07a0J/9f04c0ed-39d9-446a-bc2a-c24d953adcab.m3u8?7
-Sky Sports 7	http://mains.services/live/bshorty/Zv5le07a0J/3e68d3de-5e71-41e0-9781-0cf763002a8c.m3u8?7
-Sky Sports 8 PL	http://mains.services/live/bshorty/Zv5le07a0J/7e851290-f8c3-4259-8ace-e45b71ed26ab.m3u8?7
-Sky Sports 9	http://mains.services/live/bshorty/Zv5le07a0J/45531087-726e-49cc-a815-9ccbdd8cb59d.m3u8?7
-Sky Sports Select	http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.m3u8?7
-TNT Sports 1	http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.m3u8?7
-TNT Sports 2	http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.m3u8?7
-TNT Sports 3	http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.m3u8?7
-TNT Sports 4	http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.m3u8?7
-Sky Sports Main Event	http://mains.services/live/bshorty/Zv5le07a0J/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.m3u8?7
-Sky Sports Premier League	http://mains.services/live/bshorty/Zv5le07a0J/c303e484-7208-4695-a34e-c962db644a86.m3u8?7
-Sky Sports Football	http://mains.services/live/bshorty/Zv5le07a0J/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.m3u8?7
-Sky Sports Uno	http://mains.services/live/bshorty/Zv5le07a0J/ec6efe14-0b62-48d1-afa7-eca4f9770c16.m3u8?7
-Sky Sports Calcio	http://mains.services/live/bshorty/Zv5le07a0J/d41ab134-6dd8-4026-b0ef-27e8391fc46e.m3u8?7
-Now Sports Premier League 1	http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.m3u8?7
-Now Sports Premier League 2	http://mains.services/live/bshorty/Zv5le07a0J/41176be7-518a-4f04-a721-7d89161cf8fc.m3u8?7
-Now Sports Premier League 3	http://mains.services/live/bshorty/Zv5le07a0J/cbceee38-4772-4b22-b2bb-797ce06177ed.m3u8?7
-Now Sports Premier League 4	http://mains.services/live/bshorty/Zv5le07a0J/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.m3u8?7
-Now Sports Premier League 5	http://mains.services/live/bshorty/Zv5le07a0J/5655f0f0-79f8-404d-a44c-128ef2e3c74d.m3u8?7
-Now Sports Premier League 6	http://mains.services/live/bshorty/Zv5le07a0J/93aa194a-e771-4070-9ee3-055230acc379.m3u8?7
-Now Sports Premier League TV	http://mains.services/live/bshorty/Zv5le07a0J/5153cfce-c89d-4937-901f-98bb480d35e5.m3u8?7
-Now Sports 1	http://mains.services/live/bshorty/Zv5le07a0J/82910fbe-545f-46aa-9087-4fb36c3faf17.m3u8?7
-Now Sports 2	http://mains.services/live/bshorty/Zv5le07a0J/8408dc5b-6b47-420d-aea8-3663518fd9d5.m3u8?7
-Now Sports 3	http://mains.services/live/bshorty/Zv5le07a0J/e59bdd37-d1c4-45f9-b307-50f91968fa1a.m3u8?7
-Now Sports 4	http://mains.services/live/bshorty/Zv5le07a0J/322241c0-e471-4ec9-82d1-2fb889181131.m3u8?7
-Now Sports 5	http://mains.services/live/bshorty/Zv5le07a0J/c116e69d-aa7a-4256-8fdc-5f76c305556e.m3u8?7
-Now Sports 6	http://mains.services/live/bshorty/Zv5le07a0J/68883709-7baf-47c8-9e3f-7f9977e63893.m3u8?7
-Now Sports 7	http://mains.services/live/bshorty/Zv5le07a0J/f36f7b89-f034-4923-b9b8-77d3764169f8.m3u8?7
-USA Network East	http://mains.services/live/bshorty/Zv5le07a0J/3c446837-2d88-4a34-bcb9-7a2d026848a4.m3u8?7
-
 [g]⚠️ Settings | Privacy & security | Security | Use secure DNS | Select DNS provider: OpenDNS.[z][][g]⚠️ Settings | Privacy & security | Use secure DNS | Choose another provider: OpenDNS.[z]	^-
 
 Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] ⚠️ [g]Install 3 Chrome Browser Extensions: CORS Unblock, Allow CORS, & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z][]Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] [g]⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z]	^-
@@ -2264,19 +2231,6 @@ Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1
 
 	^-
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
-
-USA Network West	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=191882&extension=ts
-Hub Sports 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110667&extension=ts
-Hub Sports 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110666&extension=ts
-Hub Sports 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110665&extension=ts
-Nowsports Premier League TV	i3`06http://mains.services/live/67564813/6Z@74..W/5153cfce-c89d-4937-901f-98bb480d35e5.ts
-Starsports 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104673&extension=ts
-Starsports 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104674&extension=ts
-Starsports 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104675&extension=ts
-Starsports Select 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114583&extension=ts
-Starsports Select 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114584&extension=ts
-Sky Sports Calcio	i3`06http://mains.services/live/67564813/6Z@74..W/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts
-Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/c303e484-7208-4695-a34e-c962db644a86.ts
 
 	^-
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
