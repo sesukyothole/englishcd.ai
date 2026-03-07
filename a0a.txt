@@ -28,16 +28,6 @@
 
 07.03.2026	^-
 
-23:00 [y]French Ligue 1[z]	^-
-Nantes vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200290/fc-nantes-vs-angers-sco.html
-Nantes vs Angers	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76782.m3u8?auth_key=1772897250-0-0-aa46e3a26e6c961bf3851ee045968f74
-
-23:00 [l]Women's WC Qualifier UEFA[z]	^-
-Portugal vs Slovakia	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313613/portugal-women-vs-slovakia-women.html
-Portugal vs Slovakia	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680f.m3u8?auth_key=1772917628-0-0-e3625bb7329f53262c4860a468a59e6e
-Slovenia vs Austria	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313571/slovenia-women-vs-austria-women.html
-Slovenia vs Austria	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76814.m3u8?auth_key=1772917628-0-0-418e0b23784ae678f95b478363c54b9e
-
 23:30 [l]Women's WC Qualifier UEFA[z]	^-
 Wales vs Montenegro	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4315292/wales-women-vs-montenegro-women.html
 Wales vs Montenegro	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76812.m3u8?auth_key=1772917628-0-0-41ce9ad0192f6ffba2e2693caffd744b
