@@ -28,18 +28,6 @@
 
 08.03.2026	^-
 
-01:00 [y]French Ligue 1[z]	^-
-AJ Auxerre vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200284/aj-auxerre-vs-rc-strasbourg-alsace.html
-AJ Auxerre vs Strasbourg	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7685f.m3u8?auth_key=1772897250-0-0-34210f73431f5d3419d970c046c0c5cf
-
-00:00 [l]Women's WC Qualifier UEFA[z]	^-
-Gibraltar vs Bulgaria	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76808.m3u8?auth_key=1772918934-0-0-e6c97dfe22ec5510df39063e7863cec7
-Malta vs Switzerland	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76810.m3u8?auth_key=1772920005-0-0-0b7b0087382edc612763dadabfd87e40
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-Sporting Braga vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216060/sporting-braga-vs-sporting-cp.html
-Sporting Braga vs Sporting CP	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a5.m3u8?auth_key=1772897250-0-0-e314884a82fe62c681f57dc4e55669b6
-
 01:30 [l]Women's WC Qualifier UEFA[z]	^-
 Greek vs Faroe Islands	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76805.m3u8?auth_key=1772924363-0-0-64bf57dbdb0ada37f2a2fe6f06fddb4f
 
