@@ -76,11 +76,17 @@ Groningen vs AFC Ajax	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76784.m3u8?
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Alverca vs AVS Futebol SAD	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216051/alverca-vs-avs-futebol-sad.html
+Alverca vs AVS Futebol SAD	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a7.m3u8?auth_key=1772917628-0-0-d6541eb5ab8911b2ead5ec87804d4501
 Moreirense vs Nacional Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216098/moreirense-vs-nacional-da-madeira.html
+Moreirense vs Nacional Madeira	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a1.m3u8?auth_key=1772917628-0-0-f6287ae6b20e662be0a7c35f1e739fa8
 
 23:00 [y]French Ligue 1[z]	^-
 Nantes vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200290/fc-nantes-vs-angers-sco.html
 Nantes vs Angers	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76782.m3u8?auth_key=1772897250-0-0-aa46e3a26e6c961bf3851ee045968f74
+
+23:00 [l]Women's WC Qualifier UEFA[z]	^-
+Portugal vs Slovakia	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680f.m3u8?auth_key=1772917628-0-0-e3625bb7329f53262c4860a468a59e6e
+Slovenia vs Austria	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76814.m3u8?auth_key=1772917628-0-0-418e0b23784ae678f95b478363c54b9e
 
 08.03.2026	^-
 
