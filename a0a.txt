@@ -51,10 +51,11 @@ Malut United vs PSM Makassar	https://live2.trendgallary.com/live/12704413_e55404
 19:00 [g]Thai League 1[z]	^-
 Prachuap Khiri vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320298/pt-prachuap-fc-vs-muangthong-united.html
 Prachuap Khiri vs Muang Thong Utd	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e283.m3u8?auth_key=1772896218-0-0-18509bbde7a090d4edd5c6eb9b20358c
+Prachuap Khiri vs Muang Thong Utd	https://live4.trendgallary.com/live/13361018_ce345deb0507fc8593500d7fb4762081_h1080p.m3u8
 
 19:15 [g]FA Cup[z]	^-
 Mansfield Town vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4357313/mansfield-town-vs-arsenal.html
-Mansfield Town vs Arsenal	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d7.m3u8?auth_key=1772896218-0-0-3b850de85892e49fe931ef7770cd7953
+Mansfield Town vs Arsenal	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d7.m3u8?auth_key=1772907089-0-0-b9d60b2540578458de4358e4cfb762df
 Mansfield Town vs Arsenal	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 
 19:30 [l]Women's WC Qualifier UEFA[z]	^-
