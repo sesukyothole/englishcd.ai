@@ -53,6 +53,11 @@ Prachuap Khiri vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-
 Prachuap Khiri vs Muang Thong Utd	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e283.m3u8?auth_key=1772896218-0-0-18509bbde7a090d4edd5c6eb9b20358c
 Prachuap Khiri vs Muang Thong Utd	https://live4.trendgallary.com/live/13361018_ce345deb0507fc8593500d7fb4762081_h1080p.m3u8
 
+19:00 [l]Women's WC Qualifier UEFA[z]	^-
+Cyprus vs Romania	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76804.m3u8?auth_key=1772907089-0-0-46b4030d028a4d0851ef1d7d0c8b10b0
+Bosnia vs Liechtenstein	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7680b.m3u8?auth_key=1772907089-0-0-3c5ce9b57b096ee05a2dfa266be6b3f1
+Bosnia vs Liechtenstein	https://live2.trendgallary.com/live/13341038_704093ed55faba1ab38161d57f5fd10b_h1080p.m3u8
+
 19:15 [g]FA Cup[z]	^-
 Mansfield Town vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4357313/mansfield-town-vs-arsenal.html
 Mansfield Town vs Arsenal	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d7.m3u8?auth_key=1772907089-0-0-b9d60b2540578458de4358e4cfb762df
@@ -78,11 +83,13 @@ Istanbul Buyuksehir vs Goztepe	https://bo2.qiuxun.tv/sla/1-698df1fe14caa75d720f5
 
 20:15 Malaysian Super League	^-
 Kuching FA vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221048/kuching-city-fc-vs-sabah-fc.html
+Kuching FA vs Sabah	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c05720344.m3u8?auth_key=1772907089-0-0-59a2be8a7f89733f03e6599db601e1dc
 
 20:30 Liga 1	^-
 Persita Tangerang vs Madura Utd	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229478/persita-tangerang-vs-madura-united.html
 Persita Tangerang vs Madura Utd	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c0572034a.m3u8?auth_key=1772905933-0-0-6a157ee77313d5786e323c8ec77b7800
 Borneo FC vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229566/borneo-fc-vs-persebaya-surabaya.html
+Borneo FC vs Persebaya Surabaya	https://bo2.qiuxun.tv/sla/1-698b4f067bfebe6c05720349.m3u8?auth_key=1772907089-0-0-194ac709814cf25ec00c5eea47320264
 
 21:00 [y]Italian Serie A[z]	^-
 Cagliari vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194734/cagliari-vs-como.html
