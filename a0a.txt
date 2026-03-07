@@ -28,16 +28,6 @@
 
 07.03.2026	^-
 
-22:30 [y]Netherlands Eredivisie[z]	^-
-Groningen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199224/groningen-vs-afc-ajax.html
-Groningen vs AFC Ajax	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76784.m3u8?auth_key=1772917628-0-0-bce92d05f8be228fd27d06e0e5ce8e3a
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-Alverca vs AVS Futebol SAD	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216051/alverca-vs-avs-futebol-sad.html
-Alverca vs AVS Futebol SAD	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a7.m3u8?auth_key=1772917628-0-0-d6541eb5ab8911b2ead5ec87804d4501
-Moreirense vs Nacional Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216098/moreirense-vs-nacional-da-madeira.html
-Moreirense vs Nacional Madeira	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d67a1.m3u8?auth_key=1772917628-0-0-f6287ae6b20e662be0a7c35f1e739fa8
-
 23:00 [y]French Ligue 1[z]	^-
 Nantes vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200290/fc-nantes-vs-angers-sco.html
 Nantes vs Angers	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76782.m3u8?auth_key=1772897250-0-0-aa46e3a26e6c961bf3851ee045968f74
@@ -124,6 +114,7 @@ Al-Okhdoud vs Al-Fayha	https://bo2.qiuxun.tv/sla/1-6989fd7e7bfebe6c055dc74d.m3u8
 
 02:30 [g]US Major League Soccer[z]	^-
 New York City FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317304/new-york-city-fc-vs-orlando-city.html
+New York City FC vs Orlando City	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7688b.m3u8?auth_key=1772925680-0-0-c6cf8925c6fc81c4770044a0ebadcbcd
 
 02:30 [g]Scottish Cup[z]	^-
 Dunfermline Athletic vs Aberdeen	`Fhttps://www.fctv33.net/football/scottish-cup-match-4361749/dunfermline-athletic-vs-aberdeen.html
@@ -143,6 +134,9 @@ Athletic Bilbao vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7
 03:00 [g]FA Cup[z]	^-
 Newcastle Utd vs Manchester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4357789/newcastle-united-vs-manchester-city.html
 Newcastle Utd vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d6.m3u8?auth_key=1772897250-0-0-d44140fd0665cd6e93e999a72ed38394
+
+03:10 [l]Women's WC Qualifier UEFA[z]	^-
+France vs Poland	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76819.m3u8?auth_key=1772925680-0-0-ec068cf55a9cdc0e5b68c3cce25ddf13
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Excelsior vs Heerenveen	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76788.m3u8?auth_key=1772897250-0-0-9c941c39b251f05aec55e9c2659f89fe
