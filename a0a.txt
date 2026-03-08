@@ -31,15 +31,18 @@
 02:45 [y]Italian Serie A[z]	^-
 AC Milan vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194718/ac-milan-vs-inter-milan.html
 AC Milan vs Inter Milan	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769da.m3u8?auth_key=1772955117-0-0-edc3354ac9566a5d175c6fb823290eb9
+AC Milan vs Inter Milan	https://live.trendgallary.com/live/12418716_702e6012feef26ded718002534ca7df5_h1080p.m3u8
 AC Milan vs Inter Milan	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 02:45 [y]French Ligue 1[z]	^-
 Lyon vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200285/lyon-vs-paris-fc.html
 Lyon vs Paris FC	https://bo2.qiuxun.tv/sla/1-698df1fe14caa75d720f52da.m3u8?auth_key=1772955117-0-0-a12f3454246491f02f3e68382822d3ac
+Lyon vs Paris FC	https://live3.trendgallary.com/live/12547512_b6f7ca8e276d3cb3949c78e33b20b63c_h1080p.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Valencia vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209611/valencia-cf-vs-deportivo-alavs.html
 Valencia vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677d.m3u8?auth_key=1772955117-0-0-0843d82c1f4d40e9d5aef1463da7067c
+Valencia vs Deportivo Alavés	https://live4.trendgallary.com/live/12562096_5bbcabfa6b933fb219052e6b02ff2cdd_h1080p.m3u8
 Valencia vs Deportivo Alavés	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
