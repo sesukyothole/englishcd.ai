@@ -34,68 +34,89 @@ Australia vs South Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-
 
 18:30 [y]Italian Serie A[z]	^-
 Lecce vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194719/lecce-vs-cremonese.html
+Lecce vs Cremonese	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d2.m3u8?auth_key=1772955117-0-0-061cf4eb32640c4086612e9b6abe1cff
 
 19:00 [g]FA Cup[z]	^-
 Fulham vs Southampton	`Fhttps://www.fctv33.net/football/fa-cup-match-4360077/fulham-vs-southampton.html
+Fulham vs Southampton	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d9.m3u8?auth_key=1772955117-0-0-f9989a1e0353a259be510f64b14159ee
 
 20:00 [y]Spanish La Liga[z]	^-
 Villarreal vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209848/villarreal-cf-vs-elche.html
+Villarreal vs Elche	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677b.m3u8?auth_key=1772955117-0-0-e84f619b13c2eb304e052b8c328a89f4
 
 20:30 [g]FA Cup[z]	^-
 Port Vale vs Sunderland AFC	`Fhttps://www.fctv33.net/football/fa-cup-match-4365574/port-vale-vs-sunderland.html
+Port Vale vs Sunderland AFC	https://bo2.qiuxun.tv/sla/1-69a86c213d6564a94d350a9c.m3u8?auth_key=1772955117-0-0-adc3d0402a87e90ff721ab7f86e6df7e
 
 21:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194672/fiorentina-vs-parma.html
+Fiorentina vs Parma	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d6.m3u8?auth_key=1772955117-0-0-eef212419a586bc0f1f0809231d15b73
 Bologna vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194712/bologna-vs-hellas-verona.html
+Bologna vs Verona	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d8.m3u8?auth_key=1772955117-0-0-faa19a990ed6b725059324c75a9d6b51
 
 21:00 [y]French Ligue 1[z]	^-
 Lens vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200309/rc-lens-vs-metz.html
+Lens vs Metz	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769db.m3u8?auth_key=1772955117-0-0-6bf7fa7f6177e2fe1a90fcaf246215c1
 
 21:00 Malaysian Super League	^-
 Selangor vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221054/selangor-fc-vs-imigresen-fc.html
 
 21:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199746/fc-st-pauli-vs-eintracht-frankfurt.html
+FC St. Pauli vs Eintracht Frankfurt	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76a1b.m3u8?auth_key=1772955117-0-0-48f7f2adc48f0f8d3b0f2cfba3fdf643
 
 22:15 [y]Spanish La Liga[z]	^-
 Getafe vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209640/getafe-vs-real-betis.html
+Getafe vs Real Betis	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677c.m3u8?auth_key=1772955117-0-0-a12c3f37f54454a37c2d95a14a88538b
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199328/nac-breda-vs-feyenoord.html
 
 23:15 [y]French Ligue 1[z]	^-
 Stade Brestois vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200288/stade-brestois-29-vs-havre-athletic-club.html
+Stade Brestois vs Le Havre	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d678a.m3u8?auth_key=1772955117-0-0-b1fbeaa04c847b32417acbfc5c8db47a
 Nice vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200292/ogc-nice-vs-stade-rennais-fc.html
+Nice vs Rennes	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d6788.m3u8?auth_key=1772955117-0-0-254093b24bde98d508b74e31c398f260
 Lille vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200317/losc-lille-vs-lorient.html
+Lille vs Lorient	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d6789.m3u8?auth_key=1772955117-0-0-d3c7a35d9600ced8dd9179f70bcb3123
 
 23:30 [y]Bundesliga[z]	^-
 Union Berlin vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199745/1-fc-union-berlin-vs-sv-werder-bremen.html
+Union Berlin vs Werder Bremen	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d678e.m3u8?auth_key=1772955117-0-0-4df58fe5c09c96e6c76ed3f860caca15
 
 23:30 [g]English Football League Champ[z]	^-
 QPR vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203894/queens-park-rangers-vs-middlesbrough.html
+QPR vs Middlesbrough	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2f2.m3u8?auth_key=1772955117-0-0-1c3ad0d4509018f76b3ff0aef3f6eeb2
 
 23:30 [g]FA Cup[z]	^-
 Leeds United vs Norwich City	`Fhttps://www.fctv33.net/football/fa-cup-match-4360237/leeds-united-vs-norwich-city.html
+Leeds United vs Norwich City	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606db.m3u8?auth_key=1772955117-0-0-28adab34af42f0599221a3af83046f8a
 
 09.03.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
 Genoa vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194666/genoa-vs-as-roma.html
+Genoa vs AS Roma	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d5.m3u8?auth_key=1772955117-0-0-ce9935ec455d739b4628d140670aa50d
 
 00:30 [y]Spanish La Liga[z]	^-
 Sevilla vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209776/sevilla-fc-vs-rayo-vallecano.html
+Sevilla vs Rayo Vallecano	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76778.m3u8?auth_key=1772955117-0-0-8395e8c62cc644d413af096355ccdec2
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199329/nec-nijmegen-vs-volendam.html
+NEC Nijmegen vs Volendam	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76787.m3u8?auth_key=1772955117-0-0-2a27e05e7c1e73be70ce8c899802700e
 
 02:45 [y]Italian Serie A[z]	^-
 AC Milan vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194718/ac-milan-vs-inter-milan.html
+AC Milan vs Inter Milan	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769da.m3u8?auth_key=1772955117-0-0-edc3354ac9566a5d175c6fb823290eb9
 
 02:45 [y]French Ligue 1[z]	^-
 Lyon vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200285/lyon-vs-paris-fc.html
+Lyon vs Paris FC	https://bo2.qiuxun.tv/sla/1-698df1fe14caa75d720f52da.m3u8?auth_key=1772955117-0-0-a12f3454246491f02f3e68382822d3ac
 
 03:00 [y]Spanish La Liga[z]	^-
 Valencia vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209611/valencia-cf-vs-deportivo-alavs.html
+Valencia vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677d.m3u8?auth_key=1772955117-0-0-0843d82c1f4d40e9d5aef1463da7067c
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
