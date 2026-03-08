@@ -28,14 +28,6 @@
 
 08.03.2026	^-
 
-18:30 [y]Italian Serie A[z]	^-
-Lecce vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194719/lecce-vs-cremonese.html
-Lecce vs Cremonese	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d2.m3u8?auth_key=1772955117-0-0-061cf4eb32640c4086612e9b6abe1cff
-
-19:00 [g]FA Cup[z]	^-
-Fulham vs Southampton	`Fhttps://www.fctv33.net/football/fa-cup-match-4360077/fulham-vs-southampton.html
-Fulham vs Southampton	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d9.m3u8?auth_key=1772955117-0-0-f9989a1e0353a259be510f64b14159ee
-
 20:00 [y]Spanish La Liga[z]	^-
 Villarreal vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209848/villarreal-cf-vs-elche.html
 Villarreal vs Elche	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677b.m3u8?auth_key=1772955117-0-0-e84f619b13c2eb304e052b8c328a89f4
