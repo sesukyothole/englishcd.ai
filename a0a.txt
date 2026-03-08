@@ -30,7 +30,9 @@
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Iran vs Philippines	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248094/iran-women-vs-philippines-women.html
+Iran vs Philippines	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7691f.m3u8?auth_key=1772967863-0-0-36bd06f3a52e16750c16f5ac1560eb0e
 Australia vs South Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4248095/australia-women-vs-south-korea-women.html
+Australia vs South Korea	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7691e.m3u8?auth_key=1772967863-0-0-abf80e9983d56c36dcb4620822f4cc31
 
 18:30 [y]Italian Serie A[z]	^-
 Lecce vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194719/lecce-vs-cremonese.html
@@ -60,6 +62,7 @@ Lens vs Metz	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769db.m3u8?auth_key=
 
 21:00 Malaysian Super League	^-
 Selangor vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221054/selangor-fc-vs-imigresen-fc.html
+Selangor vs Imigresen FC	https://bo2.qiuxun.tv/sla/1-6999cf836e82682bc25b5f0c.m3u8?auth_key=1772967970-0-0-36808056f135d732c13bd0626750a60c
 
 21:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199746/fc-st-pauli-vs-eintracht-frankfurt.html
@@ -71,6 +74,7 @@ Getafe vs Real Betis	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677c.m3u8?a
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199328/nac-breda-vs-feyenoord.html
+NAC Breda vs Feyenoord	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76783.m3u8?auth_key=1772967970-0-0-667c81dd055de980d997bc074e8faab3
 
 23:15 [y]French Ligue 1[z]	^-
 Stade Brestois vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200288/stade-brestois-29-vs-havre-athletic-club.html
@@ -127,17 +131,18 @@ Valencia vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d767
 ^#	^-
 
 	^-
-Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-Drama Hebat	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 Drama Hotpot	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+Drama Hebat	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 Lawak Sentral	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 Oh My Ceria!	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
-Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
+Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -157,7 +162,6 @@ MoonBug	https://moonbug-rokuus.amagi.tv/playlist.m3u8
 MotorVision	https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
-My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
