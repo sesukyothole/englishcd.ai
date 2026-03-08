@@ -229,11 +229,6 @@ MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 Premier Sports 1	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd!!1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 Premier Sports 2	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd!!1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-PSN 1	https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
-PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
-PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 SCTV15	https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd!!a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 SCTV17	https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd!!a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 SCTV22	https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
