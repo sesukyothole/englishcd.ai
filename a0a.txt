@@ -31,18 +31,23 @@
 22:15 [y]Spanish La Liga[z]	^-
 Getafe vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209640/getafe-vs-real-betis.html
 Getafe vs Real Betis	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677c.m3u8?auth_key=1772955117-0-0-a12c3f37f54454a37c2d95a14a88538b
+Getafe vs Real Betis	https://live.trendgallary.com/live/12562097_915be75c00a6a14cf2a74c86fa6bbfe9_h1080p.m3u8
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199328/nac-breda-vs-feyenoord.html
 NAC Breda vs Feyenoord	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76783.m3u8?auth_key=1772967970-0-0-667c81dd055de980d997bc074e8faab3
+NAC Breda vs Feyenoord	https://live.trendgallary.com/live/12483628_875acc05b42822fa982ef92412da86f7_h1080p.m3u8
 
 23:15 [y]French Ligue 1[z]	^-
 Stade Brestois vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200288/stade-brestois-29-vs-havre-athletic-club.html
 Stade Brestois vs Le Havre	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d678a.m3u8?auth_key=1772955117-0-0-b1fbeaa04c847b32417acbfc5c8db47a
+Stade Brestois vs Le Havre	https://live.trendgallary.com/live/12536539_3f1e814249a91d3e670c88ab22cc5aba_h1080p.m3u8
 Nice vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200292/ogc-nice-vs-stade-rennais-fc.html
 Nice vs Rennes	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d6788.m3u8?auth_key=1772955117-0-0-254093b24bde98d508b74e31c398f260
+Nice vs Rennes	https://live2.trendgallary.com/live/12536543_38d0cac9253281c411cd6b0dc28b1e1e_h1080p.m3u8
 Lille vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200317/losc-lille-vs-lorient.html
 Lille vs Lorient	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d6789.m3u8?auth_key=1772955117-0-0-d3c7a35d9600ced8dd9179f70bcb3123
+Lille vs Lorient	https://live1.trendgallary.com/live/12536541_33206e8cd20ff1710f15b80392bfbc66_h1080p.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 Union Berlin vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199745/1-fc-union-berlin-vs-sv-werder-bremen.html
