@@ -28,28 +28,6 @@
 
 08.03.2026	^-
 
-21:00 [y]Italian Serie A[z]	^-
-Fiorentina vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194672/fiorentina-vs-parma.html
-Fiorentina vs Parma	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d6.m3u8?auth_key=1772955117-0-0-eef212419a586bc0f1f0809231d15b73
-Fiorentina vs Parma	https://live1.trendgallary.com/live/12418720_5f0b23226e5ad72e79cd9268eb428dbb_h1080p.m3u8
-Bologna vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194712/bologna-vs-hellas-verona.html
-Bologna vs Verona	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d8.m3u8?auth_key=1772955117-0-0-faa19a990ed6b725059324c75a9d6b51
-Bologna vs Verona	https://live.trendgallary.com/live/12418718_9833c90ef05ab94ab868e384d514c0a3_h1080p.m3u8
-
-21:00 [y]French Ligue 1[z]	^-
-Lens vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200309/rc-lens-vs-metz.html
-Lens vs Metz	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769db.m3u8?auth_key=1772955117-0-0-6bf7fa7f6177e2fe1a90fcaf246215c1
-Lens vs Metz	https://live2.trendgallary.com/live/12536540_b57ded99b8fcd802521d1c0c28f711f9_h1080p.m3u8
-
-21:00 Malaysian Super League	^-
-Selangor vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221054/selangor-fc-vs-imigresen-fc.html
-Selangor vs Imigresen FC	https://bo2.qiuxun.tv/sla/1-6999cf836e82682bc25b5f0c.m3u8?auth_key=1772967970-0-0-36808056f135d732c13bd0626750a60c
-
-21:30 [y]Bundesliga[z]	^-
-FC St. Pauli vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199746/fc-st-pauli-vs-eintracht-frankfurt.html
-FC St. Pauli vs Eintracht Frankfurt	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76a1b.m3u8?auth_key=1772955117-0-0-48f7f2adc48f0f8d3b0f2cfba3fdf643
-FC St. Pauli vs Eintracht Frankfurt	https://live.trendgallary.com/live/12535394_1e0d401348e3dccd43eae54c92dd603d_h1080p.m3u8
-
 22:15 [y]Spanish La Liga[z]	^-
 Getafe vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209640/getafe-vs-real-betis.html
 Getafe vs Real Betis	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677c.m3u8?auth_key=1772955117-0-0-a12c3f37f54454a37c2d95a14a88538b
