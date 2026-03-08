@@ -47,20 +47,24 @@ Lille vs Lorient	https://live1.trendgallary.com/live/12536541_33206e8cd20ff1710f
 23:30 [y]Bundesliga[z]	^-
 Union Berlin vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199745/1-fc-union-berlin-vs-sv-werder-bremen.html
 Union Berlin vs Werder Bremen	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d678e.m3u8?auth_key=1772955117-0-0-4df58fe5c09c96e6c76ed3f860caca15
+Union Berlin vs Werder Bremen	https://live1.trendgallary.com/live/12535395_533aa7444008afa3c03745145698fb8b_h1080p.m3u8
 
 23:30 [g]English Football League Champ[z]	^-
 QPR vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203894/queens-park-rangers-vs-middlesbrough.html
 QPR vs Middlesbrough	https://bo2.qiuxun.tv/sla/1-698b4f0614caa75d72e2e2f2.m3u8?auth_key=1772955117-0-0-1c3ad0d4509018f76b3ff0aef3f6eeb2
+QPR vs Middlesbrough	https://live2.trendgallary.com/live/12531149_12ce848ebdfb7d4f412ff036a8f4d082_h1080p.m3u8
 
 23:30 [g]FA Cup[z]	^-
 Leeds United vs Norwich City	`Fhttps://www.fctv33.net/football/fa-cup-match-4360237/leeds-united-vs-norwich-city.html
 Leeds United vs Norwich City	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606db.m3u8?auth_key=1772955117-0-0-28adab34af42f0599221a3af83046f8a
+Leeds United vs Norwich City	https://live3.trendgallary.com/live/13597472_099af243fdcdecacdf60755774e556b2_h1080p.m3u8
 
 09.03.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
 Genoa vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194666/genoa-vs-as-roma.html
 Genoa vs AS Roma	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d5.m3u8?auth_key=1772955117-0-0-ce9935ec455d739b4628d140670aa50d
+Genoa vs AS Roma	https://live1.trendgallary.com/live/12418721_b770c7f4ece3ea823db0ce41e9f0f595_h1080p.m3u8
 
 00:30 [y]Spanish La Liga[z]	^-
 Sevilla vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209776/sevilla-fc-vs-rayo-vallecano.html
