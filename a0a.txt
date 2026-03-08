@@ -28,11 +28,6 @@
 
 08.03.2026	^-
 
-22:15 [y]Spanish La Liga[z]	^-
-Getafe vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209640/getafe-vs-real-betis.html
-Getafe vs Real Betis	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677c.m3u8?auth_key=1772955117-0-0-a12c3f37f54454a37c2d95a14a88538b
-Getafe vs Real Betis	https://live.trendgallary.com/live/12562097_915be75c00a6a14cf2a74c86fa6bbfe9_h1080p.m3u8
-
 22:45 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199328/nac-breda-vs-feyenoord.html
 NAC Breda vs Feyenoord	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76783.m3u8?auth_key=1772967970-0-0-667c81dd055de980d997bc074e8faab3
@@ -86,6 +81,14 @@ Lyon vs Paris FC	https://bo2.qiuxun.tv/sla/1-698df1fe14caa75d720f52da.m3u8?auth_
 03:00 [y]Spanish La Liga[z]	^-
 Valencia vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209611/valencia-cf-vs-deportivo-alavs.html
 Valencia vs Deportivo Alavés	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677d.m3u8?auth_key=1772955117-0-0-0843d82c1f4d40e9d5aef1463da7067c
+
+16:00 [l]AFC Women’s Asian Cup[z]	^-
+Bangladesh vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303657/bangladesh-women-vs-uzbekistan-women.html
+North Korea vs China	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303658/north-korea-women-vs-china-women.html
+
+20:30 Liga 1	^-
+PSBS Biak Numfor vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229497/psbs-biak-numfor-vs-semen-padang.html
+Persib Bandung vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229589/persib-bandung-vs-persatuan-sepak-bola-indonesia-kediri.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
