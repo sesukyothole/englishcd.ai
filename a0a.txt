@@ -28,11 +28,6 @@
 
 08.03.2026	^-
 
-22:45 [y]Netherlands Eredivisie[z]	^-
-NAC Breda vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199328/nac-breda-vs-feyenoord.html
-NAC Breda vs Feyenoord	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76783.m3u8?auth_key=1772967970-0-0-667c81dd055de980d997bc074e8faab3
-NAC Breda vs Feyenoord	https://live.trendgallary.com/live/12483628_875acc05b42822fa982ef92412da86f7_h1080p.m3u8
-
 23:15 [y]French Ligue 1[z]	^-
 Stade Brestois vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200288/stade-brestois-29-vs-havre-athletic-club.html
 Stade Brestois vs Le Havre	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d678a.m3u8?auth_key=1772955117-0-0-b1fbeaa04c847b32417acbfc5c8db47a
@@ -69,6 +64,7 @@ Genoa vs AS Roma	https://live1.trendgallary.com/live/12418721_b770c7f4ece3ea823d
 00:30 [y]Spanish La Liga[z]	^-
 Sevilla vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209776/sevilla-fc-vs-rayo-vallecano.html
 Sevilla vs Rayo Vallecano	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d76778.m3u8?auth_key=1772955117-0-0-8395e8c62cc644d413af096355ccdec2
+Sevilla vs Rayo Vallecano	https://live.trendgallary.com/live/12562101_b406698afdc2ec5abf0d7deb9ed0966c_h1080p.m3u8
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199329/nec-nijmegen-vs-volendam.html
