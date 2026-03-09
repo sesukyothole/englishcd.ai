@@ -30,22 +30,29 @@
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Bangladesh vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303657/bangladesh-women-vs-uzbekistan-women.html
+Bangladesh vs Uzbekistan	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d682e.m3u8?auth_key=1773065884-0-0-1c7e4da0045f2987611847a885389b31
 North Korea vs China	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303658/north-korea-women-vs-china-women.html
+North Korea vs China	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d682d.m3u8?auth_key=1773065884-0-0-e5a3f7637fd2b226975755108aec2699
 
 20:30 Liga 1	^-
-PSBS Biak Numfor vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229497/psbs-biak-numfor-vs-semen-padang.html
 Persib Bandung vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229589/persib-bandung-vs-persatuan-sepak-bola-indonesia-kediri.html
+Persib Bandung vs Persik Kediri	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d6836.m3u8?auth_key=1773065884-0-0-3f69c31c270c4e2f8d4bb3c255bbf8aa
+PSBS Biak Numfor vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229497/psbs-biak-numfor-vs-semen-padang.html
+PSBS Biak Numfor vs Semen Padang	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d6835.m3u8?auth_key=1773065884-0-0-97b82fc5c36cddb9e47b76d55fb14e25
 
 10.03.2026	^-
 
 02:00 [g]FA Cup[z]	^-
 West Ham United vs Brentford	`Fhttps://www.fctv33.net/football/fa-cup-match-4361745/west-ham-united-vs-brentford.html
+West Ham United vs Brentford	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d5.m3u8?auth_key=1773065884-0-0-01b71bb2044ae4d66b63be112d5f6bee
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194711/lazio-vs-sassuolo.html
+Lazio vs Sassuolo	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d3.m3u8?auth_key=1773065884-0-0-fff723564d7cd5a155745588101debe4
 
 03:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209658/rcd-espanyol-de-barcelona-vs-real-oviedo.html
+RCD Espanyol vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677e.m3u8?auth_key=1773065884-0-0-92fbab41af7176f82f3a5ab173aeebfc
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
