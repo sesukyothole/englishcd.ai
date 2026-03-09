@@ -31,8 +31,10 @@
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Bangladesh vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303657/bangladesh-women-vs-uzbekistan-women.html
 Bangladesh vs Uzbekistan	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d682e.m3u8?auth_key=1773065884-0-0-1c7e4da0045f2987611847a885389b31
+Bangladesh vs Uzbekistan	https://live.trendgallary.com/live/13186568_72bc12f7a62345548ea1b75f3b7fe366_h1080p.m3u8
 North Korea vs China	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4303658/north-korea-women-vs-china-women.html
 North Korea vs China	https://bo2.qiuxun.tv/sla/1-698df1fe952272c52c6d682d.m3u8?auth_key=1773065884-0-0-e5a3f7637fd2b226975755108aec2699
+North Korea vs China	https://live.trendgallary.com/live/13186569_dfa7e4b6b91c33d64abf1e77e297acb0_h1080p.m3u8
 
 20:30 Liga 1	^-
 Persib Bandung vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229589/persib-bandung-vs-persatuan-sepak-bola-indonesia-kediri.html
