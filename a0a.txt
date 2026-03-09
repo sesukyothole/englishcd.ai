@@ -28,19 +28,19 @@
 
 10.03.2026	^-
 
-02:00 [g]FA Cup[z]	^-
+02:30 [g]FA Cup[z]	^-
 West Ham United vs Brentford	`Fhttps://www.fctv33.net/football/fa-cup-match-4361745/west-ham-united-vs-brentford.html
-West Ham United vs Brentford	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d5.m3u8?auth_key=1773065884-0-0-01b71bb2044ae4d66b63be112d5f6bee
+West Ham United vs Brentford	https://bo2.qiuxun.tv/sla/1-6994270d02bc90c280a606d5.m3u8?auth_key=1773104690-0-0-3c5b7ce7f23e0154af58649e2eb3359d
 West Ham United vs Brentford	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194711/lazio-vs-sassuolo.html
-Lazio vs Sassuolo	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d3.m3u8?auth_key=1773065884-0-0-fff723564d7cd5a155745588101debe4
+Lazio vs Sassuolo	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769d3.m3u8?auth_key=1773104690-0-0-60b918d8c05b1376970cf4067d4269c9
 Lazio vs Sassuolo	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 03:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209658/rcd-espanyol-de-barcelona-vs-real-oviedo.html
-RCD Espanyol vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677e.m3u8?auth_key=1773065884-0-0-92fbab41af7176f82f3a5ab173aeebfc
+RCD Espanyol vs Real Oviedo	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d7677e.m3u8?auth_key=1773104690-0-0-e72946b47d4b318111240cb492d19844
 RCD Espanyol vs Real Oviedo	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
