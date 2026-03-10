@@ -2911,10 +2911,4 @@ Ziggo Sport Select NL	`1https://daddylives.top/embed/stream-393.php
 Ziggo Sport Voetbal NL	`1https://daddylives.top/embed/stream-398.php
 Zona DAZN Italy	`1https://daddylives.top/embed/stream-877.php
 
-^=Live1	`1https://www.ronadosso.fun/channel/vtv30.html
-^=Live2	`2https://www.ronadosso.fun/channel/vtv30.html
-^=Live3	`3https://www.ronadosso.fun/channel/vtv30.html
-^=Live4	`4https://www.ronadosso.fun/channel/vtv30.html
-^=Live5	`5https://www.ronadosso.fun/channel/vtv30.html
-
 	^-
