@@ -86,11 +86,11 @@ Bayer Leverkusen vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-lea
 	^-
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-HBO Cinemax	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
-HBO Hits	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-HBO Family	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/master.mpd!!98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
-Nickelodeon	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
-tvN Movies	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
+HBO Cinemax	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+HBO Hits	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+HBO Family	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/master.mpd!!98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+Nickelodeon	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+tvN Movies	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
 Drama Hotpot	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 Drama Hebat	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
@@ -198,10 +198,10 @@ Arena Sport CZ 2	https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/pla
 beIN Sports AU 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 beIN Sports AU 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 beIN Sports AU 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-beIN Sports MY 1	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-beIN Sports MY 2	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-beIN Sports MY 3	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-beIN Sports MY 4	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd!!d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+beIN Sports MY 1	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+beIN Sports MY 2	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+beIN Sports MY 3	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+beIN Sports MY 4	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd!!d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
 beIN Sports TR 1	https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 beIN Sports TR 2	https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
 beIN Sports TR 3	https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
@@ -211,7 +211,7 @@ beIN Sports TR Max	https://andro.okan11gote12sokan.cfd/checklist/androstreamlive
 beIN Sports X	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 CBS Sports	https://24start.net/s1.php
-ESPN 2 AR	https://cors-proxy.cooks.fyi/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
+ESPN 2 AR	https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
@@ -240,8 +240,8 @@ TNT Sports 2	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6
 TNT Sports 3	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 TNT Sports 4	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
-TUDN USA	https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-Unifi Sports	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd!!90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+TUDN USA	https://cors-proxy.wangzhishi.net/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+Unifi Sports	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd!!90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 Wowow Cinema	https://nl.utako.moe/wcinema/index.m3u8
 Wowow Live	https://nl.utako.moe/wlive/index.m3u8
