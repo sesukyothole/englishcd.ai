@@ -2913,6 +2913,4 @@ Ziggo Sport Select NL	`1https://daddylives.top/embed/stream-393.php
 Ziggo Sport Voetbal NL	`1https://daddylives.top/embed/stream-398.php
 Zona DAZN Italy	`1https://daddylives.top/embed/stream-877.php
 
-^=Live 1	`0https://24start.net/homes/blog3/
-
 	^-
