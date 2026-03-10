@@ -32,10 +32,12 @@
 Newcastle United vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364100/newcastle-united-vs-fc-barcelona.html
 Newcastle United vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b721.m3u8?auth_key=1773193901-0-0-c8a806202f2b97aea3bb4d8f84fccb22
 Newcastle United vs FC Barcelona	https://live3.trendgallary.com/live/13645164_5482617fcba71b2ff82aefba8c4c6a83_h1080p.m3u8
+Newcastle United vs FC Barcelona	https://storage.googleapis.com/unxertymngdfg2/mux_video_ts/index-1.m3u8
 Newcastle United vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Atletico Madrid vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363254/atletico-madrid-vs-tottenham-hotspur.html
 Atletico Madrid vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b720.m3u8?auth_key=1773193901-0-0-415bbb721766c32eb12d0632599c6dbb
 Atletico Madrid vs Tottenham Hotspur	https://live4.trendgallary.com/live/13645166_fdef6f7451b41520fbf065ca9fa492f4_h1080p.m3u8
+Atletico Madrid vs Tottenham Hotspur	https://storage.googleapis.com/unxertymngdfg3/mux_video_ts1/index-1.m3u8
 Atletico Madrid vs Tottenham Hotspur	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 Atalanta vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363077/atalanta-vs-fc-bayern-munich.html
 Atalanta vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b722.m3u8?auth_key=1773193901-0-0-165abb25cd1f3ce229124815719822a3
@@ -2909,5 +2911,7 @@ Ziggo Sport Racing NL	`1https://daddylives.top/embed/stream-396.php
 Ziggo Sport Select NL	`1https://daddylives.top/embed/stream-393.php
 Ziggo Sport Voetbal NL	`1https://daddylives.top/embed/stream-398.php
 Zona DAZN Italy	`1https://daddylives.top/embed/stream-877.php
+
+^=Live 1	`0https://24start.net/homes/blog3/
 
 	^-
