@@ -26,53 +26,40 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-10.03.2026	^-
-
-19:15 [g]AFC Champions League Elite[z]	^-
-Buriram United vs Melbourne City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357116/buriram-united-vs-melbourne-city.html
-Buriram United vs Melbourne City	https://bo2.qiuxun.tv/sla/1-6996d81a761cdece33ca198c.m3u8?auth_key=1773150616-0-0-2d146fbf762e52f0330a411c570c3116
-Buriram United vs Melbourne City	https://live.trendgallary.com/live/13604248_640205f1aea0c8fb85afe06c0c3f973d_h1080p.m3u8
-Buriram United vs Melbourne City	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-
-20:30 Liga 1	^-
-Bhayangkara vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229590/bhayangkara-presisi-indonesia-fc-vs-arema-fc.html
-Bhayangkara vs Arema FC	https://bo2.qiuxun.tv/sla/1-698f43807c280e407b213da2.m3u8?auth_key=1773150616-0-0-bf2d57e76a18745527763b4600dbe560
-Bhayangkara vs Arema FC	https://live.trendgallary.com/live/12704419_a46645169681583347b5434d54dabdb4_h1080p.m3u8
-
 11.03.2026	^-
 
 00:45 [y]UEFA Champions League[z]	^-
 Galatasaray vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364109/galatasaray-vs-liverpool.html
-Galatasaray vs Liverpool	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b724.m3u8?auth_key=1773150616-0-0-1afd61409d5c5e52d716ad8ad0e9599f
+Galatasaray vs Liverpool	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b724.m3u8?auth_key=1773178577-0-0-e50c0250de740dd063cd3fb21eb575e1
 Galatasaray vs Liverpool	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 
 03:00 [y]UEFA Champions League[z]	^-
 Newcastle United vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364100/newcastle-united-vs-fc-barcelona.html
-Newcastle United vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b721.m3u8?auth_key=1773152317-0-0-8b87c34062bb9ae764453e5a98cb2ab2
+Newcastle United vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b721.m3u8?auth_key=1773178577-0-0-ea3b277da0e693dff22debe70d797333
 Newcastle United vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Atletico Madrid vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363254/atletico-madrid-vs-tottenham-hotspur.html
-Atletico Madrid vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b720.m3u8?auth_key=1773152317-0-0-15e0dbb392b22d19095368ddd8ada1a0
+Atletico Madrid vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b720.m3u8?auth_key=1773178577-0-0-a48af4d8e9845204def3f39374ba38a9
 Atletico Madrid vs Tottenham Hotspur	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 Atalanta vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363077/atalanta-vs-fc-bayern-munich.html
-Atalanta vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b722.m3u8?auth_key=1773152317-0-0-5b936276af8805753ab836b191b07a76
+Atalanta vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b722.m3u8?auth_key=1773178577-0-0-481543495fc02c445b9594fab9545bfd
 Atalanta vs Bayern Munchen	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 
 03:00 [g]English Football League Champ[z]	^-
 Stoke City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203876/stoke-city-vs-ipswich-town.html
-Stoke City vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-699094fd761cdece339588e0.m3u8?auth_key=1773152317-0-0-08243b44b6bf3f2ce176d8d563254fc5
+Stoke City vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-699094fd761cdece339588e0.m3u8?auth_key=1773178577-0-0-d37601dcb9eca8575f1b5df22ad42700
 Stoke City vs Ipswich Town	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 06:00 [g]CNCF CHL[z]	^-
 Philadelphia Union vs Club America	`Fhttps://www.fctv33.net/football/cncf-chl-match-4363447/philadelphia-union-vs-club-america.html
-Philadelphia Union vs Club America	https://bo2.qiuxun.tv/sla/1-69a3888e2e46cef7fc70f0d4.m3u8?auth_key=1773152317-0-0-5815e07d326084f72133a3ab8c920846
+Philadelphia Union vs Club America	https://bo2.qiuxun.tv/sla/1-69a3888e2e46cef7fc70f0d4.m3u8?auth_key=1773178577-0-0-49f2273524c9772ae81a1c8130d2d8ee
 
 08:00 [g]CNCF CHL[z]	^-
 Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/cncf-chl-match-4361164/monterrey-vs-cruz-azul.html
-Monterrey vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-699e7acdb693b936d034111c.m3u8?auth_key=1773152317-0-0-1cb6c793e97e40797b96b2aa7f36344e
+Monterrey vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-699e7acdb693b936d034111c.m3u8?auth_key=1773178577-0-0-538b7ee2d7761cc2e71eb944d384184b
 
 10:00 [g]CNCF CHL[z]	^-
 Los Angeles FC vs Alajuelense	`Fhttps://www.fctv33.net/football/cncf-chl-match-4361657/los-angeles-fc-vs-ld-alajuelense.html
-Los Angeles FC vs Alajuelense	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b726.m3u8?auth_key=1773152317-0-0-7232e9e5644d442651b859139ffa72e3
+Los Angeles FC vs Alajuelense	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b726.m3u8?auth_key=1773178577-0-0-f10ce08c3a81743b8f5795eda60fe880
 
 17:00 [g]AFC Champions League Elite[z]	^-
 Vissel Kobe vs FC Seoul	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357114/vissel-kobe-vs-football-club-seoul.html
@@ -83,6 +70,12 @@ Ratchaburi FC vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-lea
 
 20:15 Malaysian Challenge Cup	^-
 Sabah vs Perak	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4364778/sabah-fc-vs-perak-fc.html
+
+20:30 Liga 1	^-
+PSIM Yogyakarta vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229670/psim-yogyakarta-vs-persatuan-sepakbola-indonesia-jepara.html
+
+21:00 Malaysian Challenge Cup	^-
+Penang vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4364779/penang-fc-vs-kelantan-the-real-warriors.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
