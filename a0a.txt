@@ -31,6 +31,7 @@
 03:00 [y]UEFA Champions League[z]	^-
 Newcastle United vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364100/newcastle-united-vs-fc-barcelona.html
 Newcastle United vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b721.m3u8?auth_key=1773193901-0-0-c8a806202f2b97aea3bb4d8f84fccb22
+Newcastle United vs FC Barcelona	https://live3.trendgallary.com/live/13645164_5482617fcba71b2ff82aefba8c4c6a83_h1080p.m3u8
 Newcastle United vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Atletico Madrid vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363254/atletico-madrid-vs-tottenham-hotspur.html
 Atletico Madrid vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b720.m3u8?auth_key=1773193901-0-0-415bbb721766c32eb12d0632599c6dbb
