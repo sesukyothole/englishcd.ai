@@ -43,18 +43,23 @@ Bhayangkara vs Arema FC	https://bo2.qiuxun.tv/sla/1-698f43807c280e407b213da2.m3u
 00:45 [y]UEFA Champions League[z]	^-
 Galatasaray vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364109/galatasaray-vs-liverpool.html
 Galatasaray vs Liverpool	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b724.m3u8?auth_key=1773150616-0-0-1afd61409d5c5e52d716ad8ad0e9599f
+Galatasaray vs Liverpool	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 
 03:00 [y]UEFA Champions League[z]	^-
 Newcastle United vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364100/newcastle-united-vs-fc-barcelona.html
 Newcastle United vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b721.m3u8?auth_key=1773152317-0-0-8b87c34062bb9ae764453e5a98cb2ab2
+Newcastle United vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Atletico Madrid vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363254/atletico-madrid-vs-tottenham-hotspur.html
 Atletico Madrid vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b720.m3u8?auth_key=1773152317-0-0-15e0dbb392b22d19095368ddd8ada1a0
+Atletico Madrid vs Tottenham Hotspur	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 Atalanta vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363077/atalanta-vs-fc-bayern-munich.html
 Atalanta vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b722.m3u8?auth_key=1773152317-0-0-5b936276af8805753ab836b191b07a76
+Atalanta vs Bayern Munchen	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 
 03:00 [g]English Football League Champ[z]	^-
 Stoke City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203876/stoke-city-vs-ipswich-town.html
 Stoke City vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-699094fd761cdece339588e0.m3u8?auth_key=1773152317-0-0-08243b44b6bf3f2ce176d8d563254fc5
+Stoke City vs Ipswich Town	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 06:00 [g]CNCF CHL[z]	^-
 Philadelphia Union vs Club America	`Fhttps://www.fctv33.net/football/cncf-chl-match-4363447/philadelphia-union-vs-club-america.html
@@ -236,6 +241,7 @@ TNT Sports 2	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6
 TNT Sports 3	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 TNT Sports 4	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
+TUDN USA	https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 Unifi Sports	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd!!90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 Wowow Cinema	https://nl.utako.moe/wcinema/index.m3u8
