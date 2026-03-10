@@ -28,25 +28,20 @@
 
 11.03.2026	^-
 
-00:45 [y]UEFA Champions League[z]	^-
-Galatasaray vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364109/galatasaray-vs-liverpool.html
-Galatasaray vs Liverpool	https://live.trendgallary.com/live/13645165_1376fce2f7ed4f1836520e83498180b1_h1080p.m3u8
-Galatasaray vs Liverpool	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-
 03:00 [y]UEFA Champions League[z]	^-
 Newcastle United vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364100/newcastle-united-vs-fc-barcelona.html
-Newcastle United vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b721.m3u8?auth_key=1773178577-0-0-ea3b277da0e693dff22debe70d797333
+Newcastle United vs FC Barcelona	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b721.m3u8?auth_key=1773193901-0-0-c8a806202f2b97aea3bb4d8f84fccb22
 Newcastle United vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Atletico Madrid vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363254/atletico-madrid-vs-tottenham-hotspur.html
-Atletico Madrid vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b720.m3u8?auth_key=1773178577-0-0-a48af4d8e9845204def3f39374ba38a9
+Atletico Madrid vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b720.m3u8?auth_key=1773193901-0-0-415bbb721766c32eb12d0632599c6dbb
 Atletico Madrid vs Tottenham Hotspur	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 Atalanta vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363077/atalanta-vs-fc-bayern-munich.html
-Atalanta vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b722.m3u8?auth_key=1773178577-0-0-481543495fc02c445b9594fab9545bfd
+Atalanta vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b722.m3u8?auth_key=1773193901-0-0-165abb25cd1f3ce229124815719822a3
 Atalanta vs Bayern Munchen	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 
 03:00 [g]English Football League Champ[z]	^-
 Stoke City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203876/stoke-city-vs-ipswich-town.html
-Stoke City vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-699094fd761cdece339588e0.m3u8?auth_key=1773178577-0-0-d37601dcb9eca8575f1b5df22ad42700
+Stoke City vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-699094fd761cdece339588e0.m3u8?auth_key=1773193901-0-0-50be517cc9db698dcaa6c422bcf237bf
 Stoke City vs Ipswich Town	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 06:00 [g]CNCF CHL[z]	^-
