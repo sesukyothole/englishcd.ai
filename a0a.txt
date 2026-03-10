@@ -71,9 +71,6 @@ Stoke City vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-699094fd761cdece339588e0.
 Philadelphia Union vs Club America	`Fhttps://www.fctv33.net/football/cncf-chl-match-4363447/philadelphia-union-vs-club-america.html
 Philadelphia Union vs Club America	https://bo2.qiuxun.tv/sla/1-69a3888e2e46cef7fc70f0d4.m3u8?auth_key=1773152317-0-0-5815e07d326084f72133a3ab8c920846
 
-07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-Botafogo RJ vs Barcelona SC ECU	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4370175/botafogo-rj-vs-barcelona-scecu.html
-
 08:00 [g]CNCF CHL[z]	^-
 Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/cncf-chl-match-4361164/monterrey-vs-cruz-azul.html
 Monterrey vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-699e7acdb693b936d034111c.m3u8?auth_key=1773152317-0-0-1cb6c793e97e40797b96b2aa7f36344e
