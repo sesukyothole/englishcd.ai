@@ -32,7 +32,6 @@
 Galatasaray vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364109/galatasaray-vs-liverpool.html
 Galatasaray vs Liverpool	https://live.trendgallary.com/live/13645165_1376fce2f7ed4f1836520e83498180b1_h1080p.m3u8
 Galatasaray vs Liverpool	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-Galatasaray vs Liverpool	https://24start.net/s1.php
 
 03:00 [y]UEFA Champions League[z]	^-
 Newcastle United vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364100/newcastle-united-vs-fc-barcelona.html
@@ -2908,5 +2907,7 @@ Ziggo Sport Racing NL	`1https://daddylives.top/embed/stream-396.php
 Ziggo Sport Select NL	`1https://daddylives.top/embed/stream-393.php
 Ziggo Sport Voetbal NL	`1https://daddylives.top/embed/stream-398.php
 Zona DAZN Italy	`1https://daddylives.top/embed/stream-877.php
+
+^=Live1	`0https://www.ronadosso.fun/channel/vtv30.html
 
 	^-
