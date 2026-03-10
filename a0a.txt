@@ -30,21 +30,27 @@
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Japan vs Vietnam	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247751/japan-women-vs-vietnam-women.html
+Japan vs Vietnam	https://bo2.qiuxun.tv/sla/1-698f43807c280e407b213d97.m3u8?auth_key=1773150616-0-0-5d4066d6147cf01abed01c1dd6a8bb37
 India vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4247752/india-women-vs-chinese-taipei-women.html
+India vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-698f43807c280e407b213d98.m3u8?auth_key=1773150616-0-0-7ccf08260edc798fada2f20501c38515
 
 17:00 [g]AFC Champions League Elite[z]	^-
 Machida Zelvia vs Gangwon FC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357113/machida-zelvia-vs-gangwon-football-club.html
+Machida Zelvia vs Gangwon FC	https://bo2.qiuxun.tv/sla/1-6996d81a761cdece33ca198f.m3u8?auth_key=1773150616-0-0-569f9dfc545f587891a88ce3def50052
 
 19:15 [g]AFC Champions League Elite[z]	^-
 Buriram United vs Melbourne City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357116/buriram-united-vs-melbourne-city.html
+Buriram United vs Melbourne City	https://bo2.qiuxun.tv/sla/1-6996d81a761cdece33ca198c.m3u8?auth_key=1773150616-0-0-2d146fbf762e52f0330a411c570c3116
 
 20:30 Liga 1	^-
 Bhayangkara vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229590/bhayangkara-presisi-indonesia-fc-vs-arema-fc.html
+Bhayangkara vs Arema FC	https://bo2.qiuxun.tv/sla/1-698f43807c280e407b213da2.m3u8?auth_key=1773150616-0-0-bf2d57e76a18745527763b4600dbe560
 
 11.03.2026	^-
 
 00:45 [y]UEFA Champions League[z]	^-
 Galatasaray vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364109/galatasaray-vs-liverpool.html
+Galatasaray vs Liverpool	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b724.m3u8?auth_key=1773150616-0-0-1afd61409d5c5e52d716ad8ad0e9599f
 
 03:00 [g]English Football League Champ[z]	^-
 Stoke City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203876/stoke-city-vs-ipswich-town.html
