@@ -9,6 +9,11 @@
 ^=Live 5	`0https://24start.net/homes/blog5/
 ^=Live 6	`0https://24start.net/homes/blog6/
 ^=Live 7	`0https://24start.net/homes/blog7/
+^=Live 8	`0https://24start.net/homes/blog8/
+^=Live 9	`0https://24start.net/homes/blog9/
+^=Live 10	`0https://24start.net/homes/blog10/
+^=Live 11	`0https://24start.net/homes/blog11/
+
 ^=Blank	
 ^=	^-
 
@@ -36,7 +41,11 @@
 06:00 [g]CNCF CHL[z]	^-
 Philadelphia Union vs Club America	`Fhttps://www.fctv33.net/football/cncf-chl-match-4363447/philadelphia-union-vs-club-america.html
 Philadelphia Union vs Club America	https://bo2.qiuxun.tv/sla/1-69a3888e2e46cef7fc70f0d4.m3u8?auth_key=1773202953-0-0-8595b52d806cfbc072c9ab6dc2a18c58
-Philadelphia Union vs Club America	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+Philadelphia Union vs Club America	https://live.trendgallary.com/live/13383103_fe090d7748c7625d7a451d2dd2b5185d_h1080p.m3u8
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Botafogo RJ vs Barcelona SC ECU	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4370175/botafogo-rj-vs-barcelona-scecu-03-2026.html
+Botafogo RJ vs Barcelona SC ECU	https://bo2.qiuxun.tv/sla/1-69aef58e89d0b550b15b559c.m3u8?auth_key=1773210728-0-0-b4e05783cc56ca9031ece2b8341c342a
 
 08:00 [g]CNCF CHL[z]	^-
 Monterrey vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/cncf-chl-match-4361164/monterrey-vs-cruz-azul.html
