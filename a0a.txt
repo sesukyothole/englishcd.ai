@@ -47,6 +47,7 @@ Sporting Cristal vs Carabobo FC	`Fhttps://www.fctv33.net/football/conmebol-copa-
 
 06:30 [g]CNCF CHL[z]	^-
 Nashville vs Inter Miami CF	`Fhttps://www.fctv33.net/football/cncf-chl-match-4361163/nashville-vs-inter-miami-cf.html
+Nashville vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-699e7acdb693b936d034111d.m3u8?auth_key=1773268027-0-0-76c3c11eaf1f08b3f7ed67cb40d10d7b
 Nashville vs Inter Miami CF	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
@@ -54,10 +55,12 @@ Deportes Tolima vs O.Higgins	`Fhttps://www.fctv33.net/football/conmebol-copa-lib
 
 08:30 [g]CONCACAF Champions Cup[z]	^-
 LA Galaxy vs Mount Pleasant	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361761/los-angeles-galaxy-vs-mount-pleasant-fa.html
+LA Galaxy vs Mount Pleasant	http://bo2.qiuxun.tv/sla/1-69a101ad02bc90c2802aa2cd.m3u8?auth_key=1773268027-0-0-ffa5ad34954339a2439a1aa5dedead02
 LA Galaxy vs Mount Pleasant	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 
 10:30 [g]CONCACAF Champions Cup[z]	^-
 San Diego FC vs Toluca	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4353129/san-diego-fc-vs-toluca.html
+San Diego FC vs Toluca	http://bo2.qiuxun.tv/sla/1-698d02ec6e82682bc2dd8436.m3u8?auth_key=1773268027-0-0-3faa3ab45dd9d4d9e82b8161969225d2
 San Diego FC vs Toluca	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 
 19:15 [g]AFC Champions League 2[z]	^-
