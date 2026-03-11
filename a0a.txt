@@ -41,9 +41,11 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 17:00 [g]AFC Champions League Elite[z]	^-
 Hiroshima San vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357115/sanfrecce-hiroshima-vs-johor-darul-tazim-fc.html
 Hiroshima San vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-6996d81a761cdece33ca198d.m3u8?auth_key=1773244956-0-0-f2fed793b51526cd60b762edd4d6a66b
+Hiroshima San vs Johor Darul Takzim	https://live2.trendgallary.com/live/13604250_f18ef89d9579ed9accec73e31c015b86_h1080p.m3u8
 Hiroshima San vs Johor Darul Takzim	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd!!5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
 Vissel Kobe vs FC Seoul	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4357114/vissel-kobe-vs-football-club-seoul.html
 Vissel Kobe vs FC Seoul	https://bo2.qiuxun.tv/sla/1-6996d81a761cdece33ca198e.m3u8?auth_key=1773244956-0-0-d8a013be0db4958a2c112fd78f0186bc
+Vissel Kobe vs FC Seoul	https://live1.trendgallary.com/live/13604252_a70ed0524d609a141778094c2b278ba1_h1080p.m3u8
 Vissel Kobe vs FC Seoul	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd!!032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
 
 19:15 [g]AFC Champions League 2[z]	^-
