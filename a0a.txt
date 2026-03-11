@@ -1,18 +1,6 @@
 	^-
 	^-
 ^=	^-
-^=Live 1	`0https://24start.net/homes/blog1/
-^=Live 2	`0https://24start.net/homes/blog2/
-^=Live 3	`0https://24start.net/homes/blog3/
-^=Live 4	`0https://24start.net/homes/blog4/
-^=Live 5	`0https://24start.net/homes/blog5/
-^=Live 6	`0https://24start.net/homes/blog6/
-^=Live 7	`0https://24start.net/homes/blog7/
-^=Live 8	`0https://24start.net/homes/blog8/
-^=Live 9	`0https://24start.net/homes/blog9/
-^=Live 10	`0https://24start.net/homes/blog10/
-^=Live 11	`0https://24start.net/homes/blog11/
-
 ^=Blank	
 ^=	^-
 
@@ -2933,5 +2921,17 @@ SportStars 2	https://rp-rplusku1.pages.dev/https://fta3-cdn-flr.visionplus.id/ou
 SportStars 4	https://rp-rplusku1.pages.dev/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 Soccer B	https://rp-rplusku1.pages.dev/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 ^=SportStars 3	https://rp-rplusku1.pages.dev/https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd!!fadd2720deff5925ab86df0819cd7775:67ff08c7ebc779f6a6fcfc83835f65b
+
+^=Live 1	`0https://24start.net/homes/blog1/
+^=Live 2	`0https://24start.net/homes/blog2/
+^=Live 3	`0https://24start.net/homes/blog3/
+^=Live 4	`0https://24start.net/homes/blog4/
+^=Live 5	`0https://24start.net/homes/blog5/
+^=Live 6	`0https://24start.net/homes/blog6/
+^=Live 7	`0https://24start.net/homes/blog7/
+^=Live 8	`0https://24start.net/homes/blog8/
+^=Live 9	`0https://24start.net/homes/blog9/
+^=Live 10	`0https://24start.net/homes/blog10/
+^=Live 11	`0https://24start.net/homes/blog11/
 
 	^-
