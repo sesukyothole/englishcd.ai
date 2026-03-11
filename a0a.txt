@@ -41,7 +41,8 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 19:15 [g]AFC Champions League 2[z]	^-
 Ratchaburi FC vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4357851/ratchaburi-fc-vs-gamba-osaka.html
 Ratchaburi FC vs Gamba Osaka	https://bo2.qiuxun.tv/sla/1-699829a1c07d618fc5d2e6dd.m3u8?auth_key=1773251732-0-0-ae30c03b140b8b4299e8987bd4694677
-Ratchaburi FC vs Gamba Osaka	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd!!032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
+Ratchaburi FC vs Gamba Osaka	https://live.trendgallary.com/live/13608837_8cab85a954502e1ced7dd27dc46abddb_h1080p.m3u8
+Ratchaburi FC vs Gamba Osaka	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 
 20:15 Malaysian Challenge Cup	^-
 Sabah vs Perak	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4364778/sabah-fc-vs-perak-fc.html
