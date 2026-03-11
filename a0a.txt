@@ -76,6 +76,32 @@ Dewa United vs Manila Digger	`Fhttps://www.fctv33.net/football/afc-challenge-lea
 20:30 Liga 1	^-
 Persis Solo FC vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229684/persis-solo-fc-vs-bali-united.html
 
+13.03.2026	^-
+
+00:45 [y]UEFA Europa League[z]	^-
+Lille vs Aston Villa	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363001/losc-lille-vs-aston-villa.html
+VfB Stuttgart vs FC Porto	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363270/vfb-stuttgart-vs-fc-porto.html
+Panathinaikos vs Real Betis	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363328/panathinaikos-vs-real-betis.html
+Bologna vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363331/bologna-vs-as-roma.html
+
+00:45 [y]UEFA Europa Conference League[z]	^-
+Lech Poznan vs Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362908/lech-poznan-vs-fc-shakhtar-donetsk.html
+AZ Alkmaar vs Sparta Praha	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364084/az-alkmaar-vs-sparta-praha.html
+Samsunspor vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364801/samsunspor-vs-rayo-vallecano.html
+Rijeka vs Strasbourg	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364820/rijeka-vs-rc-strasbourg-alsace.html
+
+03:00 [y]UEFA Europa League[z]	^-
+Real Celta Vigo vs Lyon	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4362848/rc-celta-vs-lyon.html
+Ferencvarosi vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363080/ferencvarosi-tc-vs-sporting-braga.html
+Racing Genk vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363213/racing-genk-vs-sc-freiburg.html
+Nottingham Forest vs Midtjylland	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363256/nottingham-forest-vs-midtjylland.html
+
+03:00 [y]UEFA Europa Conference League[z]	^-
+Sigma Olomouc vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362784/sigma-olomouc-vs-1-fsv-mainz-05.html
+Crystal Palace vs AEK Larnaca	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363252/crystal-palace-vs-aek-larnaca.html
+NK Publikum Celje vs AEK Athens	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363291/nk-publikum-celje-vs-aek-athens.html
+Fiorentina vs Rakow Czestochowa	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363365/fiorentina-vs-rakow-czestochowa.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
