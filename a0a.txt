@@ -28,12 +28,16 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 19:15 [g]AFC Champions League 2[z]	^-
 Tampines Rovers vs Bangkok United	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4357849/tampines-rovers-fc-vs-bangkok-united-fc.html
+Tampines Rovers vs Bangkok United	https://bo2.qiuxun.tv/sla/1-699837b5cbe5c88a558beb5d.m3u8?auth_key=1773328109-0-0-b2803688e3f68c8eb66a29538adf228d
+Tampines Rovers vs Bangkok United	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 
 20:00 [g]AFC Challenge League[z]	^-
 Dewa United vs Manila Digger	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4315420/dewa-united-fc-vs-manila-digger-fc.html
+Dewa United vs Manila Digger	https://bo2.qiuxun.tv/sla/1-6991e67dcbe5c88a555035f4.m3u8?auth_key=1773328109-0-0-0719de47fe8bd6952b6c71bcf981f4d7
 
 20:30 Liga 1	^-
 Persis Solo FC vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229684/persis-solo-fc-vs-bali-united.html
+Persis Solo FC vs Bali United	https://bo2.qiuxun.tv/sla/1-6991e67dcbe5c88a555035fb.m3u8?auth_key=1773328109-0-0-9f4456c26b68a2d47638781dfd3a8f54
 
 13.03.2026	^-
 
