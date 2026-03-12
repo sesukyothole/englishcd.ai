@@ -26,34 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 13.03.2026	^-
 
-00:45 [y]UEFA Europa League[z]	^-
-Lille vs Aston Villa	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363001/losc-lille-vs-aston-villa.html
-Lille vs Aston Villa	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f2.m3u8?auth_key=1773359536-0-0-7561d83c3858db5f128ca5ca3e79b258
-Lille vs Aston Villa	https://live2.trendgallary.com/live/13645241_8bf7e038bd0c13b136ed321d45163022_h1080p.m3u8
-VfB Stuttgart vs FC Porto	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363270/vfb-stuttgart-vs-fc-porto.html
-VfB Stuttgart vs FC Porto	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f4.m3u8?auth_key=1773359536-0-0-7eb28494b81defcf184c025d98378378
-VfB Stuttgart vs FC Porto	https://live.trendgallary.com/live/13645229_e25bb5a173aab2ddd4500e1e427825d8_h1080p.m3u8
-Panathinaikos vs Real Betis	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363328/panathinaikos-vs-real-betis.html
-Panathinaikos vs Real Betis	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f5.m3u8?auth_key=1773359536-0-0-a22f377bb90eb3ab941b50c55f171213
-Panathinaikos vs Real Betis	https://live.trendgallary.com/live/13645231_718c6481127cbfb42cae31ab0bebe0dd_h1080p.m3u8
-Bologna vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363331/bologna-vs-as-roma.html
-Bologna vs AS Roma	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f3.m3u8?auth_key=1773359536-0-0-96911aebcf7058a062dec26bb112ce52
-Bologna vs AS Roma	https://live1.trendgallary.com/live/13645225_583eb6117180960a505d3d73e4128451_h1080p.m3u8
-
-00:45 [y]UEFA Europa Conference League[z]	^-
-Lech Poznan vs Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362908/lech-poznan-vs-fc-shakhtar-donetsk.html
-Lech Poznan vs Shakhtar Donetsk	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f9.m3u8?auth_key=1773359536-0-0-41695607e239a2a37c677034b08d50d1
-Lech Poznan vs Shakhtar Donetsk	https://live.trendgallary.com/live/13645438_9834b0566797c56844b72118d632d059_h1080p.m3u8
-AZ Alkmaar vs Sparta Praha	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364084/az-alkmaar-vs-sparta-praha.html
-AZ Alkmaar vs Sparta Praha	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f8.m3u8?auth_key=1773359536-0-0-24372d4ba9d1942d12209eb234551e0f
-AZ Alkmaar vs Sparta Praha	https://live2.trendgallary.com/live/13645241_8bf7e038bd0c13b136ed321d45163022_h1080p.m3u8
-Samsunspor vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364801/samsunspor-vs-rayo-vallecano.html
-Samsunspor vs Rayo Vallecano	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f7.m3u8?auth_key=1773359536-0-0-0ee48cc6b1c30648c4229ce651c4eda4
-Samsunspor vs Rayo Vallecano	https://live.trendgallary.com/live/13645417_1679f29af19bff2da07b1abe942ab66a_h1080p.m3u8
-Rijeka vs Strasbourg	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364820/rijeka-vs-rc-strasbourg-alsace.html
-Rijeka vs Strasbourg	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f6.m3u8?auth_key=1773359536-0-0-0af2560d256bef8f411009792eef7393
-Rijeka vs Strasbourg	https://live3.trendgallary.com/live/13645409_948864aff26c9927f29e25d2069192ed_h1080p.m3u8
-
 03:00 [y]UEFA Europa League[z]	^-
 Real Celta Vigo vs Lyon	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4362848/rc-celta-vs-lyon.html
 Real Celta Vigo vs Lyon	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fb.m3u8?auth_key=1773352127-0-0-19e9a8f74e44be3dfdb16982c502dede
