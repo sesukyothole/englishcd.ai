@@ -42,13 +42,17 @@ Nottingham Forest vs Midtjylland	https://live.trendgallary.com/live/13645233_284
 
 03:00 [y]UEFA Europa Conference League[z]	^-
 Sigma Olomouc vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362784/sigma-olomouc-vs-1-fsv-mainz-05.html
-Sigma Olomouc vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fe.m3u8?auth_key=1773352127-0-0-554c6069bd2499f25684a90eca16de27
+Sigma Olomouc vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fe.m3u8?auth_key=1773369070-0-0-a2edf6b8daca96c538b0a3b16535f258
+Sigma Olomouc vs FSV Mainz 05	https://live3.trendgallary.com/live/13645413_65f00268c0e51f0543e630cf17674067_h1080p.m3u8
 Crystal Palace vs AEK Larnaca	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363252/crystal-palace-vs-aek-larnaca.html
-Crystal Palace vs AEK Larnaca	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b2206898a02.m3u8?auth_key=1773352127-0-0-b76474ebf077176c149cce14a87082df
+Crystal Palace vs AEK Larnaca	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b2206898a02.m3u8?auth_key=1773369070-0-0-480fa56b82aceb675cd689a425413e0e
+Crystal Palace vs AEK Larnaca	https://live.trendgallary.com/live/13645432_758f0af6ebefcd5f13524eebd49535ca_h1080p.m3u8
 NK Publikum Celje vs AEK Athens	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363291/nk-publikum-celje-vs-aek-athens.html
-NK Publikum Celje vs AEK Athens	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989ff.m3u8?auth_key=1773352127-0-0-e02412e1fe3f620e67179507923aac82
+NK Publikum Celje vs AEK Athens	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989ff.m3u8?auth_key=1773369070-0-0-26b2013f7364d76697762cbe28da5f17
+NK Publikum Celje vs AEK Athens	https://live2.trendgallary.com/live/13645415_328c89501b49336d5fa150f33920d60c_h1080p.m3u8
 Fiorentina vs Rakow Czestochowa	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363365/fiorentina-vs-rakow-czestochowa.html
-Fiorentina vs Rakow Czestochowa	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b2206898a01.m3u8?auth_key=1773352127-0-0-5a8a105fb95ff23896985aa75fa4029e
+Fiorentina vs Rakow Czestochowa	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b2206898a01.m3u8?auth_key=1773369070-0-0-b1bb45bc3c3fbfcf2a3199b0894c33c5
+Fiorentina vs Rakow Czestochowa	https://live1.trendgallary.com/live/13645422_c80976c34e6a5a6974d340e7e03deb35_h1080p.m3u8
 
 07:00 [g]CONCACAF Champions Cup[z]	^-
 FC Cincinnati vs Tigres UANL	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361656/fc-cincinnati-vs-tigres-uanl.html
