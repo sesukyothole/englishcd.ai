@@ -26,11 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 12.03.2026	^-
 
-10:30 [g]CONCACAF Champions Cup[z]	^-
-San Diego FC vs Toluca	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4353129/san-diego-fc-vs-toluca.html
-San Diego FC vs Toluca	https://bo2.qiuxun.tv/sla/1-698d02ec6e82682bc2dd8436.m3u8?auth_key=1773268027-0-0-3faa3ab45dd9d4d9e82b8161969225d2
-San Diego FC vs Toluca	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-
 19:15 [g]AFC Champions League 2[z]	^-
 Tampines Rovers vs Bangkok United	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4357849/tampines-rovers-fc-vs-bangkok-united-fc.html
 
