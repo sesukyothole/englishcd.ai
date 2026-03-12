@@ -28,13 +28,17 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 03:00 [y]UEFA Europa League[z]	^-
 Real Celta Vigo vs Lyon	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4362848/rc-celta-vs-lyon.html
-Real Celta Vigo vs Lyon	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fb.m3u8?auth_key=1773352127-0-0-19e9a8f74e44be3dfdb16982c502dede
+Real Celta Vigo vs Lyon	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fb.m3u8?auth_key=1773369070-0-0-ca8228f238b10375cf8a2db081153499
+Real Celta Vigo vs Lyon	https://live5.trendgallary.com/live/13645236_6806b911f4d64825157818fbfa9c2634_h1080p.m3u8
 Ferencvarosi vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363080/ferencvarosi-tc-vs-sporting-braga.html
-Ferencvarosi vs Sporting Braga	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fd.m3u8?auth_key=1773352127-0-0-745fd2f12bbe8397963cb625bdebd9dd
+Ferencvarosi vs Sporting Braga	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fd.m3u8?auth_key=1773369070-0-0-f5939bc545f720f2f10adcacb7ad0160
+Ferencvarosi vs Sporting Braga	https://live3.trendgallary.com/live/13645227_7c7cf69e5dad56f7df1416e3ae0c5415_h1080p.m3u8
 Racing Genk vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363213/racing-genk-vs-sc-freiburg.html
-Racing Genk vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fc.m3u8?auth_key=1773352127-0-0-dd79dc5a10faf4a714e842f30f0eaaa7
+Racing Genk vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fc.m3u8?auth_key=1773369070-0-0-f904ba33188c589b1a310214c35a564d
+https://live4.trendgallary.com/live/13645223_d0e657c2fe25a86682e57e71f264822b_h1080p.m3u8
 Nottingham Forest vs Midtjylland	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363256/nottingham-forest-vs-midtjylland.html
-Nottingham Forest vs Midtjylland	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fa.m3u8?auth_key=1773352127-0-0-d5f8794cf4cc9e434dbd00dfcd65e088
+Nottingham Forest vs Midtjylland	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fa.m3u8?auth_key=1773369070-0-0-3027ac724b92b10782b68582d1faf11a
+Nottingham Forest vs Midtjylland	https://live.trendgallary.com/live/13645233_28499131930139a64534dfa0ed2b2017_h1080p.m3u8
 
 03:00 [y]UEFA Europa Conference League[z]	^-
 Sigma Olomouc vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362784/sigma-olomouc-vs-1-fsv-mainz-05.html
