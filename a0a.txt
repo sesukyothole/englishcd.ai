@@ -28,14 +28,15 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 07:00 [g]CONCACAF Champions Cup[z]	^-
 FC Cincinnati vs Tigres UANL	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361656/fc-cincinnati-vs-tigres-uanl.html
-FC Cincinnati vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b727.m3u8?auth_key=1773369070-0-0-d0aed2e0422c8eaa63dfdf58cd23486e
+FC Cincinnati vs Tigres UANL	https://bo2.qiuxun.tv/sla/1-699fbe40952272c52c16b727.m3u8?auth_key=1773376029-0-0-f0ebcf8e723d1ab8dfa8dbb5d6af3842
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Dep.Indep Medellin vs CA Juventud	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4369245/depindependiente-medellin-vs-ca-juventud.html
+Dep.Indep Medellin vs CA Juventud	https://bo2.qiuxun.tv/sla/1-69af039dd3a112451cb2f721.m3u8?auth_key=1773376029-0-0-58ffa739039566abaa28c3b6107ee208
 
 09:00 [g]CONCACAF Champions Cup[z]	^-
 Vancouver WC vs Seattle Sounders	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361760/vancouver-whitecaps-vs-seattle-sounders.html
-Vancouver WC vs Seattle Sounders	https://bo2.qiuxun.tv/sla/1-69a101ad02bc90c2802aa2ce.m3u8?auth_key=1773369070-0-0-aaca3eefba569bb5bd46a49422a8560d
+Vancouver WC vs Seattle Sounders	https://bo2.qiuxun.tv/sla/1-69a101ad02bc90c2802aa2ce.m3u8?auth_key=1773376029-0-0-a93ed59a75950763ec7299312b1a470e
 
 17:00 [l]AFC Women’s Asian Cup[z]	^-
 Australia vs North Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4314858/australia-women-vs-north-korea-women.html
