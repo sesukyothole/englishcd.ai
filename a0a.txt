@@ -48,15 +48,23 @@ Rijeka vs Strasbourg	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989f6.m3u8?a
 
 03:00 [y]UEFA Europa League[z]	^-
 Real Celta Vigo vs Lyon	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4362848/rc-celta-vs-lyon.html
+Real Celta Vigo vs Lyon	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fb.m3u8?auth_key=1773352127-0-0-19e9a8f74e44be3dfdb16982c502dede
 Ferencvarosi vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363080/ferencvarosi-tc-vs-sporting-braga.html
+Ferencvarosi vs Sporting Braga	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fd.m3u8?auth_key=1773352127-0-0-745fd2f12bbe8397963cb625bdebd9dd
 Racing Genk vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363213/racing-genk-vs-sc-freiburg.html
+Racing Genk vs SC Freiburg	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fc.m3u8?auth_key=1773352127-0-0-dd79dc5a10faf4a714e842f30f0eaaa7
 Nottingham Forest vs Midtjylland	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363256/nottingham-forest-vs-midtjylland.html
+Nottingham Forest vs Midtjylland	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fa.m3u8?auth_key=1773352127-0-0-d5f8794cf4cc9e434dbd00dfcd65e088
 
 03:00 [y]UEFA Europa Conference League[z]	^-
 Sigma Olomouc vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362784/sigma-olomouc-vs-1-fsv-mainz-05.html
+Sigma Olomouc vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989fe.m3u8?auth_key=1773352127-0-0-554c6069bd2499f25684a90eca16de27
 Crystal Palace vs AEK Larnaca	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363252/crystal-palace-vs-aek-larnaca.html
+Crystal Palace vs AEK Larnaca	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b2206898a02.m3u8?auth_key=1773352127-0-0-b76474ebf077176c149cce14a87082df
 NK Publikum Celje vs AEK Athens	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363291/nk-publikum-celje-vs-aek-athens.html
+NK Publikum Celje vs AEK Athens	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b22068989ff.m3u8?auth_key=1773352127-0-0-e02412e1fe3f620e67179507923aac82
 Fiorentina vs Rakow Czestochowa	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363365/fiorentina-vs-rakow-czestochowa.html
+Fiorentina vs Rakow Czestochowa	https://bo2.qiuxun.tv/sla/1-69a26148a6c61b2206898a01.m3u8?auth_key=1773352127-0-0-5a8a105fb95ff23896985aa75fa4029e
 
 07:00 [g]CONCACAF Champions Cup[z]	^-
 FC Cincinnati vs Tigres UANL	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361656/fc-cincinnati-vs-tigres-uanl.html
