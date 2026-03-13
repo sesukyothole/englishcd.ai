@@ -26,11 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 13.03.2026	^-
 
-17:00 [l]AFC Women’s Asian Cup[z]	^-
-Australia vs North Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4314858/australia-women-vs-north-korea-women.html
-Australia vs North Korea	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587bbc.m3u8?auth_key=1773403856-0-0-43bee9ce0c51088e536c20fe6c5adc19
-Australia vs North Korea	https://live.trendgallary.com/live/13680021_9c4adb996cca1b6b23618114ff2fc89a_h1080p.m3u8
-
 21:00 Malaysian Super League	^-
 PDRM vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221153/pdrm-fc-vs-negeri-sembilan.html
 PDRM vs Negeri Sembilan	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587bd9.m3u8?auth_key=1773403856-0-0-8175b00e8ea55087e9b1a7a15c1f6f03
