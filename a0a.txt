@@ -26,26 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-02:30 [y]Bundesliga[z]	^-
-Br Monchengladbach vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199774/borussia-monchengladbach-vs-fc-st-pauli.html
-Br Monchengladbach vs FC St. Pauli	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872b2.m3u8?auth_key=1773403856-0-0-9638719bc9d621298924aab50792caa5
-
-02:45 [y]Italian Serie A[z]	^-
-Torino vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194628/torino-vs-parma.html
-Torino vs Parma	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1d.m3u8?auth_key=1773403856-0-0-17df3f2454e1d7f4dbceda9ff947c6ac
-
-02:45 [y]French Ligue 1[z]	^-
-Marseille vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200322/marseille-vs-aj-auxerre.html
-Marseille vs AJ Auxerre	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515679.m3u8?auth_key=1773403856-0-0-74e318d8081490cbeed5a51d88a39b32
-
-03:00 [y]Spanish La Liga[z]	^-
-Deportivo Alavés vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209679/deportivo-alavs-vs-villarreal-cf.html
-Deportivo Alavés vs Villarreal	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db1.m3u8?auth_key=1773403856-0-0-8c4c432bc3e7ce0d3a5a90ad19db4416
-
-03:00 [g]English Football League Champ[z]	^-
-Wrexham vs Swansea City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203923/wrexham-vs-swansea-city.html
-Wrexham vs Swansea City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737f.m3u8?auth_key=1773403856-0-0-99e8dfe90e698a4ff98fbc110de82c78
-
 12:00 [l]AFC Women’s Asian Cup[z]	^-
 China vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4338088/china-women-vs-chinese-taipei-women.html
 China vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f4.m3u8?auth_key=1773403856-0-0-09bd50dd0723226519d48713eb1255b3
