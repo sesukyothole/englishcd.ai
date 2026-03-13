@@ -66,6 +66,42 @@ Wrexham vs Swansea City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737f.m3u
 China vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4338088/china-women-vs-chinese-taipei-women.html
 China vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f4.m3u8?auth_key=1773403856-0-0-09bd50dd0723226519d48713eb1255b3
 
+16:00 [l]AFC Women’s Asian Cup[z]	^-
+South Korea vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4314857/south-korea-women-vs-uzbekistan-women.html
+
+19:30 [g]English Football League Champ[z]	^-
+Middlesbrough vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203990/middlesbrough-vs-bristol-city.html
+Coventry City vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203991/coventry-city-vs-southampton.html
+
+20:00 [y]Spanish La Liga[z]	^-
+Girona vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209790/girona-fc-vs-athletic-club.html
+
+20:15 Malaysian Super League	^-
+Sabah vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221050/sabah-fc-vs-imigresen-fc.html
+
+21:00 [y]Italian Serie A[z]	^-
+Inter Milan vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194739/inter-milan-vs-atalanta.html
+
+21:00 Malaysian Super League	^-
+Penang vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221154/penang-fc-vs-kuching-city-fc.html
+
+21:30 [y]Bundesliga[z]	^-
+Eintracht Frankfurt vs Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199761/eintracht-frankfurt-vs-1-fc-heidenheim-1846.html
+Borussia Dortmund vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199762/borussia-dortmund-vs-fc-augsburg.html
+Bayer Leverkusen vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199767/bayer-04-leverkusen-vs-fc-bayern-munich.html
+TSG Hoffenheim vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199775/tsg-hoffenheim-vs-vfl-wolfsburg.html
+
+22:00 [y]English Premier League[z]	^-
+Burnley vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194007/burnley-vs-bournemouth-afc.html
+Sunderland AFC vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194008/sunderland-vs-brighton-hove-albion.html
+
+22:00 [g]English Football League Champ[z]	^-
+Leicester City vs QPR	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203922/leicester-city-vs-queens-park-rangers.html
+Stoke City vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203924/stoke-city-vs-watford.html
+
+22:15 [y]Spanish La Liga[z]	^-
+Atletico Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209639/atletico-madrid-vs-getafe.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
