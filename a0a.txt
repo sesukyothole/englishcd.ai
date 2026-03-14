@@ -28,21 +28,8 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-22:15 [y]Spanish La Liga[z]	^-
-Atletico Madrid vs Getafe	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db0.m3u8?auth_key=1773494194-0-0-f50f0527633b45a83947f0ca16c868e3
-
-22:30 [y]Netherlands Eredivisie[z]	^-
-Volendam vs Fortuna Sittard	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db9.m3u8?auth_key=1773494194-0-0-c949fae29af40cc215f0889434ab365e
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-Vitoria Guimaraes vs FC Famalicao	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d658.m3u8?auth_key=1773497676-0-0-ea756cf2ebcfbb6aae7588fe68c0647d
-
 23:00 [y]French Ligue 1[z]	^-
 Lorient vs Lens	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567a.m3u8?auth_key=1773494194-0-0-829db89f2ae8263a442d4dd9c6d188d2
-
-23:00 [g]Luxembourg League[z]	^-
-Rodange vs Mondorf-les-Bains	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0a.m3u8?auth_key=1773529088-0-0-6a4e1ffa5a1a7feb37ef4ecd8dc865b9
-Rodange vs Mondorf-les-Bains	https://live.trendgallary.com/live/12596561_02b691f7f2869d567f186461c01c439e_h1080p.m3u8
 
 23:00 [g]Austrian Bundesliga[z]	^-
 Grazer AK vs Wolfsberger AC	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aaa3.m3u8?auth_key=1773513976-0-0-adc52a8cbeb32bb0d4e71881ba02a7b7
