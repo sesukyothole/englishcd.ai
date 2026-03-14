@@ -28,18 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-02:00 [y]Netherlands Eredivisie[z]	^-
-SC Heerenveen vs SC Telstar	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db5.m3u8?auth_key=1773494194-0-0-766e5f8d887f48240b0155ab19c6e31d
-SC Heerenveen vs SC Telstar	https://live.trendgallary.com/live/12483638_953c1414c221d6d18ebf3ff18b5bd9a3_h1080p.m3u8
-
-02:00 [g]Saudi Professional League[z]	^-
-Al-Fateh vs Al Hilal SFC	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b82.m3u8?auth_key=1773537148-0-0-ffb23cdffeef25fe347a6933c962f30b
-Al-Fateh vs Al Hilal SFC	https://live4.trendgallary.com/live/13675104_2d841c1c5d8b80de7f3270e236c1a0e9_h1080p.m3u8
-Al Khaleej Club vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b84.m3u8?auth_key=1773537148-0-0-bdf32b2d6e630f557ebc816f265455c2
-Al Khaleej Club vs Al Nassr FC	https://feijing-xzbonlinepull.52kq.top/live/202_4720363_1.flv?txSecret=7326d7a08c09891524acf612cc77a290&txTime=69b5ec47
-Al Shabab Riyadh vs Al-Okhdood	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b85.m3u8?auth_key=1773537148-0-0-c016faa46e1b13064445050dd51a21fe
-Al Shabab Riyadh vs Al-Okhdood	https://feijing-xzbonlinepull.52kq.top/live/202_4720364_1.flv?txSecret=df0a8184436f1388ab5899be77a045c5&txTime=69b5ecf4
-
 02:15 [g]US Major League Soccer[z]	^-
 Atlanta Utd vs Philadelphia Union	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e2a.m3u8?auth_key=1773531631-0-0-dbd01b237259ad373ca22946e1dec32b
 Atlanta Utd vs Philadelphia Union	https://live.trendgallary.com/live/13360671_63446694bec8604caa9424eef10ecbe8_h1080p.m3u8
