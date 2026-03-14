@@ -26,16 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-14.03.2026	^-
-
-23:00 [y]French Ligue 1[z]	^-
-Lorient vs Lens	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567a.m3u8?auth_key=1773494194-0-0-829db89f2ae8263a442d4dd9c6d188d2
-
-23:00 [g]Austrian Bundesliga[z]	^-
-Grazer AK vs Wolfsberger AC	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aaa3.m3u8?auth_key=1773513976-0-0-adc52a8cbeb32bb0d4e71881ba02a7b7
-Altach vs Blau-Weis Linz	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aaa4.m3u8?auth_key=1773513976-0-0-f697dddd2ee2cb631daaaf020055589c
-Ried vs Tirol	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aaa5.m3u8?auth_key=1773513976-0-0-2e0935a0312b626f8cfca5c791a1233b
-
 15.03.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
