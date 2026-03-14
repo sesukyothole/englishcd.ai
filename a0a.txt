@@ -28,24 +28,9 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-00:45 [y]Netherlands Eredivisie[z]	^-
-PSV Eindhoven vs NEC Nijmegen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db4.m3u8?auth_key=1773494194-0-0-b2dc7f2e44d0db08770ada6c606b2674
-
-01:00 [y]French Ligue 1[z]	^-
-Angers vs Nice	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567c.m3u8?auth_key=1773494194-0-0-d01e9e6a6d0527b7f66bce81ac0350fd
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-Gil Vicente vs Alverca	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65c.m3u8?auth_key=1773500867-0-0-890b5e1e399c0d95c212b8b28f86454f
-Rio Ave vs Estrela da Amadora	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65a.m3u8?auth_key=1773537148-0-0-0f59b6e471b8e0c5ceb577badb10a43d
-
-01:00 [g]Greek Super League[z]	^-
-AEL Larisa vs Asteras Tripolis	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dc2.m3u8?auth_key=1773515856-0-0-b38f98d9c40cec51a8b9183940d4f913
-
-01:00 [g]Peruvian Liga 1[z]	^-
-Sport Huancayo vs AD Tarma	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e47.m3u8?auth_key=1773500867-0-0-12b50590daa80e64586d9001c5848bd3
-
 02:00 [y]Netherlands Eredivisie[z]	^-
 SC Heerenveen vs SC Telstar	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db5.m3u8?auth_key=1773494194-0-0-766e5f8d887f48240b0155ab19c6e31d
+SC Heerenveen vs SC Telstar	https://live.trendgallary.com/live/12483638_953c1414c221d6d18ebf3ff18b5bd9a3_h1080p.m3u8
 
 02:00 [g]Saudi Professional League[z]	^-
 Al-Fateh vs Al Hilal SFC	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b82.m3u8?auth_key=1773537148-0-0-ffb23cdffeef25fe347a6933c962f30b
