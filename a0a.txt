@@ -28,10 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-02:15 [g]US Major League Soccer[z]	^-
-Atlanta Utd vs Philadelphia Union	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e2a.m3u8?auth_key=1773531631-0-0-dbd01b237259ad373ca22946e1dec32b
-Atlanta Utd vs Philadelphia Union	https://live.trendgallary.com/live/13360671_63446694bec8604caa9424eef10ecbe8_h1080p.m3u8
-
 02:45 [y]Italian Serie A[z]	^-
 Udinese vs Juventus	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1c.m3u8?auth_key=1773494194-0-0-9903c4a418645d38cfc13b0441285176
 Udinese vs Juventus	https://live1.trendgallary.com/live/12418736_57172ccbe832ad19b99aa2d9f216be7c_h1080p.m3u8
@@ -108,8 +104,8 @@ Univ Catolica vs Everton CD	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b8
 Rosario Central vs Banfield	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6a8.m3u8?auth_key=1773515856-0-0-e5aaad65334e0ba7c75c1d66a710c1b7
 
 07:30 [g]US Major League Soccer[z]	^-
-Houston Dynamo vs Portland Timbers
-Chicago Fire vs DC United
+Houston Dynamo vs Portland Timbers	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a76.m3u8?auth_key=1773544988-0-0-87bf45bbe03ef91b71c2af04cc5682ff
+Chicago Fire vs DC United	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a78.m3u8?auth_key=1773544988-0-0-b51873be1958f2857730b025047a9fe2
 FC Dallas vs San Diego FC	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a77.m3u8?auth_key=1773515856-0-0-2ca8ac7de5e9edeffdaf8aee52e90c87
 
 08:00 [g]Mexico Liga MX[z]	^-
