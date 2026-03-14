@@ -26,9 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-12:00 [l]AFC Women’s Asian Cup[z]	^-
-China vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f4.m3u8?auth_key=1773403856-0-0-09bd50dd0723226519d48713eb1255b3
-
 13:00 [g]Australia A-League[z]	^-
 Newcastle Jets vs Auckland FC	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f955.m3u8?auth_key=1773476552-0-0-5563aa3743dea70f08507360590c8cfd
 
@@ -69,18 +66,23 @@ Inter Milan vs Atalanta	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b22.m3u
 Penang vs Kuching FA	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9eb.m3u8?auth_key=1773478120-0-0-5cb37869e0d2a018b265f2e10157d118
 
 21:30 [y]Bundesliga[z]	^-
-Eintracht Frankfurt vs Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199761/eintracht-frankfurt-vs-1-fc-heidenheim-1846.html
-Borussia Dortmund vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199762/borussia-dortmund-vs-fc-augsburg.html
-Bayer Leverkusen vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199767/bayer-04-leverkusen-vs-fc-bayern-munich.html
-TSG Hoffenheim vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199775/tsg-hoffenheim-vs-vfl-wolfsburg.html
+Eintracht Frankfurt vs Heidenheim	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6fa1a.m3u8?auth_key=1773494194-0-0-0e34e29e83025a0b41b5001c1efc1a93
+Borussia Dortmund vs FC Augsburg	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6fa1b.m3u8?auth_key=1773494194-0-0-f6e666ef52263c71634e445b1d5c9ae6
+Bayer Leverkusen vs Bayern Munchen	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6fa1c.m3u8?auth_key=1773494194-0-0-b1d97bca07f309310100511cb6ac3fdf
+TSG Hoffenheim vs VfL Wolfsburg	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6fa19.m3u8?auth_key=1773494194-0-0-8073bf7d0226c1799025d32b8f53b9d2
 
 22:00 [y]English Premier League[z]	^-
-Burnley vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194007/burnley-vs-bournemouth-afc.html
-Sunderland AFC vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194008/sunderland-vs-brighton-hove-albion.html
+Burnley vs Bournemouth AFC	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737e.m3u8?auth_key=1773494194-0-0-636ffb97d466e7b5f745d39369c6d7f4
+Sunderland AFC vs Brighton Hove	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737b.m3u8?auth_key=1773494194-0-0-358ca3a7d5aea7738ea84f31f0cbc80b
 
 22:00 [g]English Football League Champ[z]	^-
-Leicester City vs QPR	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203922/leicester-city-vs-queens-park-rangers.html
-Stoke City vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203924/stoke-city-vs-watford.html
+Birmingham vs Sheffield United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738a.m3u8?auth_key=1773494194-0-0-2eeae6e342cb235710f7e2a2cd80599a
+Leicester City vs QPR	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87388.m3u8?auth_key=1773494194-0-0-6b80bc364007c2c52a9fb0e9c9e85adf
+Millwall vs Blackburn	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87386.m3u8?auth_key=1773494194-0-0-c5da2f138f5d3f9211caf0b3edfe9eb3
+Norwich City vs Preston NE	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87385.m3u8?auth_key=1773494194-0-0-f4ca9addd526af7c54695f3bd325d51f
+Sheffield Wednesday vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87382.m3u8?auth_key=1773494194-0-0-bf4e80e70f55f35363d32711b0b2c410
+Stoke City vs Watford	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87381.m3u8?auth_key=1773494194-0-0-9dbb156d904a520f715f544d59925049
+West Bromwich Albion vs Hull City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87380.m3u8?auth_key=1773494194-0-0-0f8bf040d47f18690afbf80b8b790cf3
 
 22:15 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209639/atletico-madrid-vs-getafe.html
