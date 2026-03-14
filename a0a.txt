@@ -83,8 +83,8 @@ Galatasaray vs Istanbul Buyuksehir	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46
 Goztabee vs Al-Alania Sports	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515733.m3u8?auth_key=1773497676-0-0-40f6b224efa064ef36c76e968f208a89
 Trabzon vs Rize Sports	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515736.m3u8?auth_key=1773497676-0-0-70099a289fed79905b723a19d6740e8a
 
-00:00 [g]US Major League Soccer[z]^-
-Toronto FC vs New York Red Bulls
+00:00 [g]US Major League Soccer[z]	^-
+Toronto FC vs New York Red Bulls	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a79.m3u8?auth_key=1773526006-0-0-6e6aa4865621100dc75eaadad24b57cb
 
 00:00 [g]Swiss Super League[z]	^-
 Zurich vs Xiyong	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a30.m3u8?auth_key=1773513976-0-0-2ef41287adbba223ee140738e9bce235
