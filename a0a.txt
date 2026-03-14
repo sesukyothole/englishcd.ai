@@ -118,12 +118,6 @@ Hamburger SV vs FC Koln	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e11.m3u
 00:30 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Valencia	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dad.m3u8?auth_key=1773494194-0-0-0615ff06bba448272244bf0a6533d744
 
-00:30 [g]Greek Super League[z]	^-
-Panserraikos vs Aris Thessaloniki	
-
-00:30 [g]Scottish League One[z]	^-
-Montrose vs Alloa Athletic	
-
 00:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs NEC Nijmegen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db4.m3u8?auth_key=1773494194-0-0-b2dc7f2e44d0db08770ada6c606b2674
 
@@ -131,10 +125,10 @@ PSV Eindhoven vs NEC Nijmegen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60d
 Angers vs Nice	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567c.m3u8?auth_key=1773494194-0-0-d01e9e6a6d0527b7f66bce81ac0350fd
 
 01:00 [g]Portuguese Primera Liga[z]	^-
-Gil Vicente vs Alverca	
+Gil Vicente vs Alverca	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65c.m3u8?auth_key=1773500867-0-0-890b5e1e399c0d95c212b8b28f86454f
 
 01:00 [g]Peruvian Liga 1[z]	^-
-Sport Huancayo vs AD Tarma	
+Sport Huancayo vs AD Tarma	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e47.m3u8?auth_key=1773500867-0-0-12b50590daa80e64586d9001c5848bd3
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 SC Heerenveen vs SC Telstar	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db5.m3u8?auth_key=1773494194-0-0-766e5f8d887f48240b0155ab19c6e31d
@@ -145,13 +139,13 @@ Al Khaleej Club vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587
 Al Shabab Riyadh vs Al-Okhdood	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b85.m3u8?auth_key=1773494194-0-0-fcb89ffccffc5683fd7da5efe83ae0b6
 
 02:00 [g]Categoría Primera A[z]	^-
-La Equidad vs Atletico Bucaramanga	
+La Equidad vs Atletico Bucaramanga	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e32.m3u8?auth_key=1773500867-0-0-733c0face4ec140f68ae2c8e4131a527
 
 02:45 [y]Italian Serie A[z]	^-
 Udinese vs Juventus	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1c.m3u8?auth_key=1773494194-0-0-9903c4a418645d38cfc13b0441285176
 
 02:45 [g]Belgian Pro League[z]	^-
-Westerlo vs Club Brugge	
+Westerlo vs Club Brugge	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e3f.m3u8?auth_key=1773500867-0-0-d3104efa7e7e8b01c1e86a96464e3473
 
 03:00 [y]English Premier League[z]	^-
 West Ham United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87317.m3u8?auth_key=1773494194-0-0-d98adbd7dbefff0b93aae170a3dd4c30
