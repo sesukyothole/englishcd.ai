@@ -55,35 +55,37 @@ Al Khaleej Club vs Al Nassr FC	https://feijing-xzbonlinepull.52kq.top/live/202_4
 Al Shabab Riyadh vs Al-Okhdood	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b85.m3u8?auth_key=1773537148-0-0-c016faa46e1b13064445050dd51a21fe
 Al Shabab Riyadh vs Al-Okhdood	https://feijing-xzbonlinepull.52kq.top/live/202_4720364_1.flv?txSecret=df0a8184436f1388ab5899be77a045c5&txTime=69b5ecf4
 
-02:00 [g]Categoría Primera A[z]	^-
-La Equidad vs Atletico Bucaramanga	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e32.m3u8?auth_key=1773500867-0-0-733c0face4ec140f68ae2c8e4131a527
-
 02:15 [g]US Major League Soccer[z]	^-
 Atlanta Utd vs Philadelphia Union	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e2a.m3u8?auth_key=1773531631-0-0-dbd01b237259ad373ca22946e1dec32b
-
-02:30 [g]Swiss Super League[z]	^-
-St. Gallen vs Lugano	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e3b.m3u8?auth_key=1773513976-0-0-38f4fa110252d82f9c7d65f150f928dc
+Atlanta Utd vs Philadelphia Union	https://live.trendgallary.com/live/13360671_63446694bec8604caa9424eef10ecbe8_h1080p.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Udinese vs Juventus	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1c.m3u8?auth_key=1773494194-0-0-9903c4a418645d38cfc13b0441285176
+Udinese vs Juventus	https://live1.trendgallary.com/live/12418736_57172ccbe832ad19b99aa2d9f216be7c_h1080p.m3u8
 
 02:45 [g]Belgian Pro League[z]	^-
 Westerlo vs Club Brugge	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e3f.m3u8?auth_key=1773500867-0-0-d3104efa7e7e8b01c1e86a96464e3473
+Westerlo vs Club Brugge	https://live.trendgallary.com/live/12521334_8b2db7ccaf00ada4194da6e9ada9daf5_h1080p.m3u8
 
 03:00 [y]English Premier League[z]	^-
 West Ham United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87317.m3u8?auth_key=1773494194-0-0-d98adbd7dbefff0b93aae170a3dd4c30
+West Ham United vs Manchester City	https://live1.trendgallary.com/live/12483259_ea626b5e194d8c8b74f6de6e9a8cdf79_h1080p.m3u8
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Sparta Rotterdam	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dba.m3u8?auth_key=1773494194-0-0-fb9b15d5451ac410e5a661a25012f438
+AFC Ajax vs Sparta Rotterdam	https://live2.trendgallary.com/live/12483633_015639633baf364cb5b537b80104e7a9_h1080p.m3u8
 
 03:00 [g]Scottish League One[z]	^-
 Kilmarnock vs Heart of Midlothian	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738c.m3u8?auth_key=1773515856-0-0-2c29ca938089a442961bac82b3fe1f1c
+Kilmarnock vs Heart of Midlothian	https://live3.trendgallary.com/live/12496014_f35ad2bfeafa9b2352d92879b399f59d_h1080p.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Elche	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dab.m3u8?auth_key=1773494194-0-0-dd15b2064a1bc15ad53956405b23fd4e
+Real Madrid vs Elche	https://live.trendgallary.com/live/12562108_b6099cec09648a8f6d57e24dff1787e3_h1080p.m3u8
 
 03:05 [y]French Ligue 1[z]	^-
 Monaco vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515677.m3u8?auth_key=1773494194-0-0-bda92d9193d7aa4d95f0a59a5ced89df
+Monaco vs Stade Brestois	https://live2.trendgallary.com/live/13682231_f9657acaafed736657562a8761e56225_h1080p.m3u8
 
 03:15 [g]Peruvian Liga 1[z]	^-
 Juan Pablo II vs Los Chankas	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e48.m3u8?auth_key=1773515856-0-0-5e983742b43aa1daa906532096d4f2ca
