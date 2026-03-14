@@ -116,9 +116,6 @@ Real Oviedo vs Valencia	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dad.m3u
 00:30 [g]Greek Super League[z]	^-
 Panserraikos vs Aris Thessaloniki	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbd.m3u8?auth_key=1773515856-0-0-136614273d3364a45120b8946ca8032e
 
-00:30 [g]Scottish League One[z]^-
-Montrose vs Alloa Athletic
-
 00:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs NEC Nijmegen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db4.m3u8?auth_key=1773494194-0-0-b2dc7f2e44d0db08770ada6c606b2674
 
@@ -232,8 +229,8 @@ Leon vs Tijuana	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a7a.m3u8?auth_k
 Real Salt Lake vs Austin FC
 LA Galaxy vs FC Kansas City
 
-08:30 [g]Categoría Primera A[z]^-
-Indep Santa Fe vs Alianza Petrolera
+08:30 [g]Categoría Primera A[z]	^-
+Indep Santa Fe vs Alianza Petrolera	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a81.m3u8?auth_key=1773521152-0-0-c944d74f58bc3f40b675a9c90d253bae
 
 08:30 [g]Peruvian Liga 1[z]	^-
 Univ De Deportes vs UTC Cajamarca	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4b.m3u8?auth_key=1773515856-0-0-d8617e5478fc1bf5b3b35b1bd62ac982
