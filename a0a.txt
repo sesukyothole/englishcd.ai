@@ -1,6 +1,8 @@
 	^-
 	^-
 ^=	^-
+^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
+^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=Blank	
 ^=	^-
 
@@ -25,12 +27,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#	^-
 
 14.03.2026	^-
-
-20:00 [y]Spanish La Liga[z]	^-
-Girona vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dac.m3u8?auth_key=1773478120-0-0-6e7a19586a6ec8b503d4893c9b41ed6e
-
-20:15 Malaysian Super League	^-
-Sabah vs Imigresen FC	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8735e.m3u8?auth_key=1773478120-0-0-95a24b34c56dbe51c3cdc0ad539df510
 
 21:00 [y]Italian Serie A[z]	^-
 Inter Milan vs Atalanta	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b22.m3u8?auth_key=1773478120-0-0-fa4720758037cb5e5f68b47ac71dab3a
@@ -474,8 +470,6 @@ SportStars 2 for PC	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb64480
 SportStars 4 for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 
 	^-
-Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
 [l]{s} 👉Ⓜa1 🤹Multi Drama Dubbing Indonesia👈[z]	^^sa1
 
 	^-
