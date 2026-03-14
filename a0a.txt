@@ -28,12 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-21:00 [y]Italian Serie A[z]	^-
-Inter Milan vs Atalanta	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b22.m3u8?auth_key=1773478120-0-0-fa4720758037cb5e5f68b47ac71dab3a
-
-21:00 Malaysian Super League	^-
-Penang vs Kuching FA	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9eb.m3u8?auth_key=1773478120-0-0-5cb37869e0d2a018b265f2e10157d118
-
 21:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs Heidenheim	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6fa1a.m3u8?auth_key=1773494194-0-0-0e34e29e83025a0b41b5001c1efc1a93
 Borussia Dortmund vs FC Augsburg	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6fa1b.m3u8?auth_key=1773494194-0-0-f6e666ef52263c71634e445b1d5c9ae6
@@ -72,7 +66,7 @@ Vitoria Guimaraes vs FC Famalicao	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5
 Lorient vs Lens	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567a.m3u8?auth_key=1773494194-0-0-829db89f2ae8263a442d4dd9c6d188d2
 
 23:00 [g]Luxembourg League[z]	^-
-Rodange vs Mondorf-les-Bains	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0a.m3u8?auth_key=1773513976-0-0-e8156aaff3f99fb27d8e16294336ee06
+Rodange vs Mondorf-les-Bains	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0a.m3u8?auth_key=1773526006-0-0-8e866604f3effa603daf06fffd45238a
 
 23:00 [g]Austrian Bundesliga[z]	^-
 Grazer AK vs Wolfsberger AC	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aaa3.m3u8?auth_key=1773513976-0-0-adc52a8cbeb32bb0d4e71881ba02a7b7
