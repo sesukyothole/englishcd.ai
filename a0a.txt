@@ -57,14 +57,17 @@ Thun vs Grasshopper	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a31.m3u8?au
 Saint Gilloise vs FCV Dender EH	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e0f.m3u8?auth_key=1773497676-0-0-e2e16158807a30a84d4641d084a417dc
 
 00:30 [y]English Premier League[z]	^-
-Arsenal vs Everton	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b18.m3u8?auth_key=1773494194-0-0-cb3186d97d93349539be99cd57dfcc2c
-Chelsea vs Newcastle United	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e10.m3u8?auth_key=1773494194-0-0-2dd83b5c1bf9bd351102c5532734f88c
+Arsenal vs Everton	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b18.m3u8?auth_key=1773531095-0-0-46be7a36823ac5fd1f830591506de5b7
+Arsenal vs Everton	https://live2.trendgallary.com/live/12483250_cbbc27adc0bcb36def375ef2d88a1a36_h1080p.m3u8
+Chelsea vs Newcastle United	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e10.m3u8?auth_key=1773531095-0-0-315dd9bdf0ce74315bc24b0190353d54
 
 00:30 [y]Bundesliga[z]	^-
-Hamburger SV vs FC Koln	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e11.m3u8?auth_key=1773494194-0-0-65eacb75342b5916846c189b87b4b85b
+Hamburger SV vs FC Koln	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e11.m3u8?auth_key=1773531095-0-0-f336f2f0d715aaa0ce70f84b80c69333
+Hamburger SV vs FC Koln	https://live4.trendgallary.com/live/12535404_84da6476f413cecf6437e6de1629e1dd_h1080p.m3u8
 
 00:30 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Valencia	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dad.m3u8?auth_key=1773494194-0-0-0615ff06bba448272244bf0a6533d744
+Real Oviedo vs Valencia	https://bo2bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dad.m3u8?auth_key=1773531095-0-0-5bcd9a66486060f01d931d8723fc71fb
+Real Oviedo vs Valencia	https://live5.trendgallary.com/live/12562106_f691b7b0a8f704c9122a83651d3557f3_h1080p.m3u8
 
 00:30 [g]Greek Super League[z]	^-
 Panserraikos vs Aris Thessaloniki	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbd.m3u8?auth_key=1773515856-0-0-136614273d3364a45120b8946ca8032e
