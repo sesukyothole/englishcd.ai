@@ -26,15 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-10:00 [g]Mexico Liga MX[z]	^-
-FC Juarez vs Monterrey	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872e8.m3u8?auth_key=1773476552-0-0-457d8c1d6a31f1621478aeed1b6aacbc
-
-11:00 [g]Australia A-League[z]	^-
-Coast Mariners vs Adelaide Utd	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872ed.m3u8?auth_key=1773476552-0-0-15cc1c203167233e340f259126c5d63b
-
-11:00 [g]Japanese J1 League[z]	^-
-Yokohama Marinos vs JEF Utd Ichihara	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872ec.m3u8?auth_key=1773476552-0-0-12c38f299176d6d2ba7882f4bef1cecb
-
 12:00 [g]Japanese J1 League[z]	^-
 Nagoya Grampus vs Vissel Kobe	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f6.m3u8?auth_key=1773476552-0-0-9bba089b21967eab8ae7b99fa975141d
 Kyoto Sanga vs Cerezo Osaka	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f7.m3u8?auth_key=1773476552-0-0-22495c1eb0710be3cf8363ae57ca34fd
