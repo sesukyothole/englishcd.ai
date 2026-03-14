@@ -26,13 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-13:00 [g]Australia A-League[z]	^-
-Newcastle Jets vs Auckland FC	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f955.m3u8?auth_key=1773476552-0-0-5563aa3743dea70f08507360590c8cfd
-
-13:00 [g]Japanese J1 League[z]	^-
-Hiroshima Sanfrecce vs Gamba Osaka	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f953.m3u8?auth_key=1773476552-0-0-e608677b276eb107815275745713dece
-Kashima Antlers vs Kawasaki Frontale	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f954.m3u8?auth_key=1773476552-0-0-2c9f1b171616e39af44b9c8750944420
-
 14:00 [g]Japanese J1 League[z]	^-
 Tokyo Verdy vs Urawa Red Diamonds	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f95f.m3u8?auth_key=1773476552-0-0-1194125a9cc6085a03a2eb1bef6fafed
 
@@ -85,56 +78,57 @@ Stoke City vs Watford	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87381.m3u8?
 West Bromwich Albion vs Hull City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87380.m3u8?auth_key=1773494194-0-0-0f8bf040d47f18690afbf80b8b790cf3
 
 22:15 [y]Spanish La Liga[z]	^-
-Atletico Madrid vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209639/atletico-madrid-vs-getafe.html
+Atletico Madrid vs Getafe	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db0.m3u8?auth_key=1773494194-0-0-f50f0527633b45a83947f0ca16c868e3
 
 22:30 [y]Netherlands Eredivisie[z]	^-
-Volendam vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199210/volendam-vs-fortuna-sittard.html
+Volendam vs Fortuna Sittard	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db9.m3u8?auth_key=1773494194-0-0-c949fae29af40cc215f0889434ab365e
 
 23:00 [y]French Ligue 1[z]	^-
-Lorient vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200320/lorient-vs-rc-lens.html
+Lorient vs Lens	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567a.m3u8?auth_key=1773494194-0-0-829db89f2ae8263a442d4dd9c6d188d2
 
 15.03.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
-Napoli vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194749/napoli-vs-lecce.html
+Napoli vs Lecce	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b20.m3u8?auth_key=1773494194-0-0-0d41465951744e1dc19ec0d0b999f28f
 
 00:30 [y]English Premier League[z]	^-
-Arsenal vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194055/arsenal-vs-everton.html
-Chelsea vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194058/chelsea-vs-newcastle-united.html
+Arsenal vs Everton	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b18.m3u8?auth_key=1773494194-0-0-cb3186d97d93349539be99cd57dfcc2c
+Chelsea vs Newcastle United	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e10.m3u8?auth_key=1773494194-0-0-2dd83b5c1bf9bd351102c5532734f88c
 
 00:30 [y]Bundesliga[z]	^-
-Hamburger SV vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199758/hamburger-sv-vs-fc-kln.html
+Hamburger SV vs FC Koln	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e11.m3u8?auth_key=1773494194-0-0-65eacb75342b5916846c189b87b4b85b
 
 00:30 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209612/real-oviedo-vs-valencia-cf.html
+Real Oviedo vs Valencia	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dad.m3u8?auth_key=1773494194-0-0-0615ff06bba448272244bf0a6533d744
 
 00:45 [y]Netherlands Eredivisie[z]	^-
-PSV Eindhoven vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199180/psv-eindhoven-vs-nec-nijmegen.html
+PSV Eindhoven vs NEC Nijmegen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db4.m3u8?auth_key=1773494194-0-0-b2dc7f2e44d0db08770ada6c606b2674
 
 01:00 [y]French Ligue 1[z]	^-
-Angers vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200294/angers-sco-vs-ogc-nice.html
+Angers vs Nice	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567c.m3u8?auth_key=1773494194-0-0-d01e9e6a6d0527b7f66bce81ac0350fd
 
 02:00 [y]Netherlands Eredivisie[z]	^-
-SC Heerenveen vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199277/sc-heerenveen-vs-sc-telstar.html
+SC Heerenveen vs SC Telstar	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db5.m3u8?auth_key=1773494194-0-0-766e5f8d887f48240b0155ab19c6e31d
 
 02:00 [g]Saudi Professional League[z]	^-
-Al-Fateh vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256011/al-fateh-sc-vs-al-hilal.html
-Al Khaleej Club vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256023/al-khaleej-club-vs-al-nassr-fc.html
+Al-Fateh vs Al Hilal SFC	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b82.m3u8?auth_key=1773494194-0-0-da03138a4c125873150eb58d9da8dbd7
+Al Khaleej Club vs Al Nassr FC	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b84.m3u8?auth_key=1773494194-0-0-8ad56911ccc838d40e357668a1c93a0e
+Al Shabab Riyadh vs Al-Okhdood	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587b85.m3u8?auth_key=1773494194-0-0-fcb89ffccffc5683fd7da5efe83ae0b6
 
 02:45 [y]Italian Serie A[z]	^-
-Udinese vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194732/udinese-vs-juventus.html
+Udinese vs Juventus	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1c.m3u8?auth_key=1773494194-0-0-9903c4a418645d38cfc13b0441285176
 
 03:00 [y]English Premier League[z]	^-
-West Ham United vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194010/west-ham-united-vs-manchester-city.html
+West Ham United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87317.m3u8?auth_key=1773494194-0-0-d98adbd7dbefff0b93aae170a3dd4c30
 
 03:00 [y]Netherlands Eredivisie[z]	^-
-AFC Ajax vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199225/afc-ajax-vs-sparta-rotterdam.html
+AFC Ajax vs Sparta Rotterdam	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dba.m3u8?auth_key=1773494194-0-0-fb9b15d5451ac410e5a661a25012f438
 
 03:00 [y]Spanish La Liga[z]	^-
-Real Madrid vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209638/real-madrid-vs-elche.html
+Real Madrid vs Elche	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dab.m3u8?auth_key=1773494194-0-0-dd15b2064a1bc15ad53956405b23fd4e
 
 03:05 [y]French Ligue 1[z]	^-
-Monaco vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200319/as-monaco-vs-stade-brestois-29.html
+Monaco vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515677.m3u8?auth_key=1773494194-0-0-bda92d9193d7aa4d95f0a59a5ced89df
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
