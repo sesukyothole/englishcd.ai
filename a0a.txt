@@ -26,17 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-19:00 [g]Thai League 1[z]	^-
-Rayong FC vs BG Pathum United	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9b0.m3u8?auth_key=1773497676-0-0-89d9476382ce515177589f69cbb1f8b4
-
-19:30 [g]English Football League Champ[z]	^-
-Middlesbrough vs Bristol City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87387.m3u8?auth_key=1773476552-0-0-2c59ab8a78b215e71f939ec72cf9d0d6
-Coventry City vs Southampton	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87389.m3u8?auth_key=1773476552-0-0-402c0550271e87c74de591eafe4d951a
-Oxford United vs Charlton Athletic	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87384.m3u8?auth_key=1773476552-0-0-b83bef3bb8ce46865d3bb3e016c90186
-
-19:30 [g]Thai League 1[z]	^-
-Lamphun Warrior vs Prachuap Khiri	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87318.m3u8?auth_key=1773476552-0-0-8f86f871dc10b70a6bef87c349b3102b
-
 20:00 [y]Spanish La Liga[z]	^-
 Girona vs Athletic Bilbao	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dac.m3u8?auth_key=1773478120-0-0-6e7a19586a6ec8b503d4893c9b41ed6e
 
