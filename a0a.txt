@@ -26,9 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-16:00 [l]AFC Women’s Asian Cup[z]	^-
-South Korea vs Uzbekistan	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f97d.m3u8?auth_key=1773476552-0-0-7c1d7afc5eda5e5e92cc45b36487766f
-
 18:00 [g]Thai League 1[z]	^-
 Buriram United vs Chonburi Shark FC	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f99a.m3u8?auth_key=1773476552-0-0-630372481376af6c2db2b05b386175bc
 
