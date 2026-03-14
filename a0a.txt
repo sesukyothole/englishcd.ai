@@ -120,8 +120,8 @@ Vitoria BA vs Atletico Mineiro	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6
 05:00 [g]Argentine Division 1[z]	^-
 CA Platense vs Velez Sarsfield	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b1.m3u8?auth_key=1773515856-0-0-6b542616df482781fc5687e9b8d8fac1
 
-05:15 [g]US Major League Soccer[z]^-
-Columbus Crew vs Nashville
+05:15 [g]US Major League Soccer[z]	^-
+Columbus Crew vs Nashville	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a64.m3u8?auth_key=1773537148-0-0-3c5a2e186ab7c6bf227c64b4340fa0ac
 
 06:00 [g]Mexico Liga MX[z]	^-
 Atletico San Luis vs Pachuca	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a69.m3u8?auth_key=1773515856-0-0-8b27de56e020c10b482357e7f94b0bd2
@@ -136,9 +136,9 @@ Chivas Guadalajara vs Santos Laguna	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4
 Boyaca Chico vs Millonarios	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a6e.m3u8?auth_key=1773515856-0-0-b15a137b3ed88a83e3f832cb5318652a
 
 06:30 [g]US Major League Soccer[z]	^-
-Charlotte FC vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a72.m3u8?auth_key=1773515856-0-0-241b4ccc6fa57eb850368e7b27e9d150
-Orlando City vs Montreal Impact
-New York City FC vs Colorado Rapids
+Charlotte FC vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a72.m3u8?auth_key=1773537148-0-0-7b04a34181b8fbb0f8e70afb202f8e0d
+Orlando City vs Montreal Impact	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a70.m3u8?auth_key=1773537148-0-0-afb9809462bd6855cf26887567667504
+New York City FC vs Colorado Rapids	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a71.m3u8?auth_key=1773537148-0-0-fec453e36986e5e85fdb7891e4c32943
 
 06:30 [g]Brazilian Serie A[z]	^-
 Botafogo RJ vs Flamengo	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a6f.m3u8?auth_key=1773515856-0-0-4f216c11d968a87f525fc7ce0090b3fb
@@ -158,9 +158,9 @@ FC Dallas vs San Diego FC	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a77.m
 Toluca vs Atlas	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a7b.m3u8?auth_key=1773515856-0-0-34f5736502943d0dbd033037419a7695
 Leon vs Tijuana	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a7a.m3u8?auth_key=1773515856-0-0-70b31f2cacb0bf9cfbc2bc4f365d36e1
 
-08:30 [g]US Major League Soccer[z]^-
-Real Salt Lake vs Austin FC
-LA Galaxy vs FC Kansas City
+08:30 [g]US Major League Soccer[z]	^-
+Real Salt Lake vs Austin FC	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a7f.m3u8?auth_key=1773537148-0-0-65f628afb6ae7bfbc45191bdfdf666bc
+LA Galaxy vs FC Kansas City	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a80.m3u8?auth_key=1773537148-0-0-ea5a553103055683953634b24f454436
 
 08:30 [g]Categoría Primera A[z]	^-
 Indep Santa Fe vs Alianza Petrolera	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a81.m3u8?auth_key=1773521152-0-0-c944d74f58bc3f40b675a9c90d253bae
