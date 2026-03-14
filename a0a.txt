@@ -2,8 +2,6 @@
 	^-
 ^=	^-
 ^=Blank	
-^=Tozq	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872df.m3u8?auth_key=1773471429-0-0-eef4f4d8baef2e9b04ad97a62e5c30a3
-^=Tozt	https://live2.trendgallary.com/live/13383017_63c9cc14c29d933cec07c9d06ea3ae3d_h1080p.m3u8
 ^=	^-
 
 	^-
@@ -28,16 +26,54 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
+10:00 [g]Mexico Liga MX[z]	^-
+FC Juarez vs Monterrey	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872e8.m3u8?auth_key=1773476552-0-0-457d8c1d6a31f1621478aeed1b6aacbc
+
+11:00 [g]Australia A-League[z]	^-
+Coast Mariners vs Adelaide Utd	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872ed.m3u8?auth_key=1773476552-0-0-15cc1c203167233e340f259126c5d63b
+
+11:00 [g]Japanese J1 League[z]	^-
+Yokohama Marinos vs JEF Utd Ichihara	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872ec.m3u8?auth_key=1773476552-0-0-12c38f299176d6d2ba7882f4bef1cecb
+
+12:00 [g]Japanese J1 League[z]	^-
+Nagoya Grampus vs Vissel Kobe	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f6.m3u8?auth_key=1773476552-0-0-9bba089b21967eab8ae7b99fa975141d
+Kyoto Sanga vs Cerezo Osaka	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f7.m3u8?auth_key=1773476552-0-0-22495c1eb0710be3cf8363ae57ca34fd
+Shimizu S-Pulse vs Fagiano Okayama	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f5.m3u8?auth_key=1773476552-0-0-d976cc93c3d7312175d436005eb51c16
+Mito Hollyhock vs FC Tokyo	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f8.m3u8?auth_key=1773476552-0-0-30b62cd1e5d6cc11c23b29915bb4f5c8
+Kashiwa Reysol vs Machida Zelvia	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f9.m3u8?auth_key=1773476552-0-0-f513a1b0fe08185efb44964f47488ae1
+
+12:00 [g]Korean K League 1[z]	^-
+Gwangju FC vs Jeonbuk Hyundai	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872fa.m3u8?auth_key=1773476552-0-0-6f01e366c24bb84b83cd72aa6b15978b
+
 12:00 [l]AFC Women’s Asian Cup[z]	^-
-China vs Chinese Taipei	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4338088/china-women-vs-chinese-taipei-women.html
 China vs Chinese Taipei	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872f4.m3u8?auth_key=1773403856-0-0-09bd50dd0723226519d48713eb1255b3
 
+13:00 [g]Australia A-League[z]	^-
+Newcastle Jets vs Auckland FC	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f955.m3u8?auth_key=1773476552-0-0-5563aa3743dea70f08507360590c8cfd
+
+13:00 [g]Japanese J1 League[z]	^-
+Hiroshima Sanfrecce vs Gamba Osaka	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f953.m3u8?auth_key=1773476552-0-0-e608677b276eb107815275745713dece
+Kashima Antlers vs Kawasaki Frontale	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f954.m3u8?auth_key=1773476552-0-0-2c9f1b171616e39af44b9c8750944420
+
+14:00 [g]Japanese J1 League[z]	^-
+Tokyo Verdy vs Urawa Red Diamonds	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f95f.m3u8?auth_key=1773476552-0-0-1194125a9cc6085a03a2eb1bef6fafed
+
 16:00 [l]AFC Women’s Asian Cup[z]	^-
-South Korea vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4314857/south-korea-women-vs-uzbekistan-women.html
+South Korea vs Uzbekistan	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f97d.m3u8?auth_key=1773476552-0-0-7c1d7afc5eda5e5e92cc45b36487766f
+
+18:00 [g]Thai League 1[z]	^-
+Buriram United vs Chonburi Shark FC	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f99a.m3u8?auth_key=1773476552-0-0-630372481376af6c2db2b05b386175bc
+
+18:30 [g]Thai League 1[z]	^-
+Muang Thong Utd vs Uthai Thani	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9a8.m3u8?auth_key=1773476552-0-0-f62ff31211a9ebf2599f459d8cfe7898
 
 19:30 [g]English Football League Champ[z]	^-
-Middlesbrough vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203990/middlesbrough-vs-bristol-city.html
-Coventry City vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203991/coventry-city-vs-southampton.html
+Middlesbrough vs Bristol City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87387.m3u8?auth_key=1773476552-0-0-2c59ab8a78b215e71f939ec72cf9d0d6
+Coventry City vs Southampton	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87389.m3u8?auth_key=1773476552-0-0-402c0550271e87c74de591eafe4d951a
+Oxford United vs Charlton Athletic	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87384.m3u8?auth_key=1773476552-0-0-b83bef3bb8ce46865d3bb3e016c90186
+
+19:30 [g]Thai League 1[z]	^-
+Lamphun Warrior vs Prachuap Khiri	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87318.m3u8?auth_key=1773476552-0-0-8f86f871dc10b70a6bef87c349b3102b
 
 20:00 [y]Spanish La Liga[z]	^-
 Girona vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209790/girona-fc-vs-athletic-club.html
