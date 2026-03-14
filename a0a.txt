@@ -38,6 +38,9 @@ Buriram United vs Chonburi Shark FC	https://bo2.qiuxun.tv/sla/1-6994897f761cdece
 18:30 [g]Thai League 1[z]	^-
 Muang Thong Utd vs Uthai Thani	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9a8.m3u8?auth_key=1773476552-0-0-f62ff31211a9ebf2599f459d8cfe7898
 
+19:00 [g]Thai League 1[z]	^-
+Rayong FC vs BG Pathum United	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9b0.m3u8?auth_key=1773497676-0-0-89d9476382ce515177589f69cbb1f8b4
+
 19:30 [g]English Football League Champ[z]	^-
 Middlesbrough vs Bristol City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87387.m3u8?auth_key=1773476552-0-0-2c59ab8a78b215e71f939ec72cf9d0d6
 Coventry City vs Southampton	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87389.m3u8?auth_key=1773476552-0-0-402c0550271e87c74de591eafe4d951a
@@ -68,6 +71,9 @@ TSG Hoffenheim vs VfL Wolfsburg	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6
 Burnley vs Bournemouth AFC	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737e.m3u8?auth_key=1773494194-0-0-636ffb97d466e7b5f745d39369c6d7f4
 Sunderland AFC vs Brighton Hove	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737b.m3u8?auth_key=1773494194-0-0-358ca3a7d5aea7738ea84f31f0cbc80b
 
+22:00 [g]Belgian Pro League[z]	^-
+Charleroi vs Oud Heverlee	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87391.m3u8?auth_key=1773497676-0-0-10ad427e1015936d1f9366c2b0957a64
+
 22:00 [g]English Football League Champ[z]	^-
 Birmingham vs Sheffield United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738a.m3u8?auth_key=1773494194-0-0-2eeae6e342cb235710f7e2a2cd80599a
 Leicester City vs QPR	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87388.m3u8?auth_key=1773494194-0-0-6b80bc364007c2c52a9fb0e9c9e85adf
@@ -77,11 +83,17 @@ Sheffield Wednesday vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19
 Stoke City vs Watford	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87381.m3u8?auth_key=1773494194-0-0-9dbb156d904a520f715f544d59925049
 West Bromwich Albion vs Hull City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87380.m3u8?auth_key=1773494194-0-0-0f8bf040d47f18690afbf80b8b790cf3
 
+22:00 [g]Greek Super League[z]	^-
+OFI Crete vs Olympiakos Piraeus	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbf.m3u8?auth_key=1773497676-0-0-e76f4238f23498a512d2ad5de0794421
+
 22:15 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Getafe	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db0.m3u8?auth_key=1773494194-0-0-f50f0527633b45a83947f0ca16c868e3
 
 22:30 [y]Netherlands Eredivisie[z]	^-
 Volendam vs Fortuna Sittard	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db9.m3u8?auth_key=1773494194-0-0-c949fae29af40cc215f0889434ab365e
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+Vitoria Guimaraes vs FC Famalicao	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d658.m3u8?auth_key=1773497676-0-0-ea756cf2ebcfbb6aae7588fe68c0647d
 
 23:00 [y]French Ligue 1[z]	^-
 Lorient vs Lens	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567a.m3u8?auth_key=1773494194-0-0-829db89f2ae8263a442d4dd9c6d188d2
