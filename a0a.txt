@@ -2,7 +2,7 @@
 	^-
 ^=	^-
 ^=Blank	
-^=Tost	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872df.m3u8?7&auth_key=1773471429-0-0-eef4f4d8baef2e9b04ad97a62e5c30a3
+^=Tozt	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872df.m3u8?auth_key=1773471429-0-0-eef4f4d8baef2e9b04ad97a62e5c30a3
 ^=	^-
 
 	^-
