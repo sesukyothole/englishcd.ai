@@ -28,25 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-22:00 [y]English Premier League[z]	^-
-Burnley vs Bournemouth AFC	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737e.m3u8?auth_key=1773494194-0-0-636ffb97d466e7b5f745d39369c6d7f4
-Sunderland AFC vs Brighton Hove	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737b.m3u8?auth_key=1773494194-0-0-358ca3a7d5aea7738ea84f31f0cbc80b
-
-22:00 [g]Belgian Pro League[z]	^-
-Charleroi vs Oud Heverlee	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87391.m3u8?auth_key=1773497676-0-0-10ad427e1015936d1f9366c2b0957a64
-
-22:00 [g]English Football League Champ[z]	^-
-Birmingham vs Sheffield United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738a.m3u8?auth_key=1773494194-0-0-2eeae6e342cb235710f7e2a2cd80599a
-Leicester City vs QPR	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87388.m3u8?auth_key=1773494194-0-0-6b80bc364007c2c52a9fb0e9c9e85adf
-Millwall vs Blackburn	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87386.m3u8?auth_key=1773494194-0-0-c5da2f138f5d3f9211caf0b3edfe9eb3
-Norwich City vs Preston NE	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87385.m3u8?auth_key=1773494194-0-0-f4ca9addd526af7c54695f3bd325d51f
-Sheffield Wednesday vs Ipswich Town	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87382.m3u8?auth_key=1773494194-0-0-bf4e80e70f55f35363d32711b0b2c410
-Stoke City vs Watford	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87381.m3u8?auth_key=1773494194-0-0-9dbb156d904a520f715f544d59925049
-West Bromwich Albion vs Hull City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87380.m3u8?auth_key=1773494194-0-0-0f8bf040d47f18690afbf80b8b790cf3
-
-22:00 [g]Greek Super League[z]	^-
-OFI Crete vs Olympiakos Piraeus	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbf.m3u8?auth_key=1773497676-0-0-e76f4238f23498a512d2ad5de0794421
-
 22:15 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Getafe	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db0.m3u8?auth_key=1773494194-0-0-f50f0527633b45a83947f0ca16c868e3
 
@@ -60,7 +41,8 @@ Vitoria Guimaraes vs FC Famalicao	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5
 Lorient vs Lens	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567a.m3u8?auth_key=1773494194-0-0-829db89f2ae8263a442d4dd9c6d188d2
 
 23:00 [g]Luxembourg League[z]	^-
-Rodange vs Mondorf-les-Bains	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0a.m3u8?auth_key=1773526006-0-0-8e866604f3effa603daf06fffd45238a
+Rodange vs Mondorf-les-Bains	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0a.m3u8?auth_key=1773529088-0-0-6a4e1ffa5a1a7feb37ef4ecd8dc865b9
+Rodange vs Mondorf-les-Bains	https://live.trendgallary.com/live/12596561_02b691f7f2869d567f186461c01c439e_h1080p.m3u8
 
 23:00 [g]Austrian Bundesliga[z]	^-
 Grazer AK vs Wolfsberger AC	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aaa3.m3u8?auth_key=1773513976-0-0-adc52a8cbeb32bb0d4e71881ba02a7b7
