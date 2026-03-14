@@ -28,29 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-03:00 [y]English Premier League[z]	^-
-West Ham United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87317.m3u8?auth_key=1773494194-0-0-d98adbd7dbefff0b93aae170a3dd4c30
-West Ham United vs Manchester City	https://live1.trendgallary.com/live/12483259_ea626b5e194d8c8b74f6de6e9a8cdf79_h1080p.m3u8
-
-03:00 [y]Netherlands Eredivisie[z]	^-
-AFC Ajax vs Sparta Rotterdam	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dba.m3u8?auth_key=1773494194-0-0-fb9b15d5451ac410e5a661a25012f438
-AFC Ajax vs Sparta Rotterdam	https://live2.trendgallary.com/live/12483633_015639633baf364cb5b537b80104e7a9_h1080p.m3u8
-
-03:00 [g]Scottish League One[z]	^-
-Kilmarnock vs Heart of Midlothian	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738c.m3u8?auth_key=1773515856-0-0-2c29ca938089a442961bac82b3fe1f1c
-Kilmarnock vs Heart of Midlothian	https://live3.trendgallary.com/live/12496014_f35ad2bfeafa9b2352d92879b399f59d_h1080p.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-Real Madrid vs Elche	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dab.m3u8?auth_key=1773494194-0-0-dd15b2064a1bc15ad53956405b23fd4e
-Real Madrid vs Elche	https://live.trendgallary.com/live/12562108_b6099cec09648a8f6d57e24dff1787e3_h1080p.m3u8
-
-03:05 [y]French Ligue 1[z]	^-
-Monaco vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515677.m3u8?auth_key=1773494194-0-0-bda92d9193d7aa4d95f0a59a5ced89df
-Monaco vs Stade Brestois	https://live2.trendgallary.com/live/13682231_f9657acaafed736657562a8761e56225_h1080p.m3u8
-
-03:15 [g]Peruvian Liga 1[z]	^-
-Juan Pablo II vs Los Chankas	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e48.m3u8?auth_key=1773515856-0-0-5e983742b43aa1daa906532096d4f2ca
-
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Arouca vs Benfica	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65f.m3u8?auth_key=1773515856-0-0-2a2218e3705214b09aaa05c3f266743c
 
