@@ -26,9 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 14.03.2026	^-
 
-18:30 [g]Thai League 1[z]	^-
-Muang Thong Utd vs Uthai Thani	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9a8.m3u8?auth_key=1773476552-0-0-f62ff31211a9ebf2599f459d8cfe7898
-
 19:00 [g]Thai League 1[z]	^-
 Rayong FC vs BG Pathum United	https://bo2.qiuxun.tv/sla/1-6994897f761cdece33b6f9b0.m3u8?auth_key=1773497676-0-0-89d9476382ce515177589f69cbb1f8b4
 
@@ -127,8 +124,8 @@ Hamburger SV vs FC Koln	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e11.m3u
 00:30 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Valencia	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dad.m3u8?auth_key=1773494194-0-0-0615ff06bba448272244bf0a6533d744
 
-00:30 [g]Greek Super League[z]^-
-Panserraikos vs Aris Thessaloniki
+00:30 [g]Greek Super League[z]	^-
+Panserraikos vs Aris Thessaloniki	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbd.m3u8?auth_key=1773515856-0-0-136614273d3364a45120b8946ca8032e
 
 00:30 [g]Scottish League One[z]^-
 Montrose vs Alloa Athletic
@@ -142,8 +139,8 @@ Angers vs Nice	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567c.m3u8?auth_ke
 01:00 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Alverca	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65c.m3u8?auth_key=1773500867-0-0-890b5e1e399c0d95c212b8b28f86454f
 
-01:00 [g]Greek Super League[z]^-
-AEL Larisa vs Asteras Tripolis
+01:00 [g]Greek Super League[z]	^-
+AEL Larisa vs Asteras Tripolis	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dc2.m3u8?auth_key=1773515856-0-0-b38f98d9c40cec51a8b9183940d4f913
 
 01:00 [g]Peruvian Liga 1[z]	^-
 Sport Huancayo vs AD Tarma	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e47.m3u8?auth_key=1773500867-0-0-12b50590daa80e64586d9001c5848bd3
@@ -177,8 +174,8 @@ West Ham United vs Manchester City	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a
 03:00 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Sparta Rotterdam	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dba.m3u8?auth_key=1773494194-0-0-fb9b15d5451ac410e5a661a25012f438
 
-03:00 [g]Scottish League One[z]^-
-Kilmarnock vs Heart of Midlothian
+03:00 [g]Scottish League One[z]	^-
+Kilmarnock vs Heart of Midlothian	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738c.m3u8?auth_key=1773515856-0-0-2c29ca938089a442961bac82b3fe1f1c
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Elche	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dab.m3u8?auth_key=1773494194-0-0-dd15b2064a1bc15ad53956405b23fd4e
@@ -186,60 +183,61 @@ Real Madrid vs Elche	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dab.m3u8?a
 03:05 [y]French Ligue 1[z]	^-
 Monaco vs Stade Brestois	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515677.m3u8?auth_key=1773494194-0-0-bda92d9193d7aa4d95f0a59a5ced89df
 
-03:15 [g]Peruvian Liga 1[z]^-
-Juan Pablo II vs Los Chankas
+03:15 [g]Peruvian Liga 1[z]	^-
+Juan Pablo II vs Los Chankas	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e48.m3u8?auth_key=1773515856-0-0-5e983742b43aa1daa906532096d4f2ca
 
-03:30 [g]Portuguese Primera Liga[z]^-
-FC Arouca vs Benfica
+03:30 [g]Portuguese Primera Liga[z]	^-
+FC Arouca vs Benfica	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65f.m3u8?auth_key=1773515856-0-0-2a2218e3705214b09aaa05c3f266743c
 
-04:00 [g]CHI Liga de Primera[z]^-
-Coquimbo Unido vs Univ de Chile
+04:00 [g]CHI Liga de Primera[z]	^-
+Coquimbo Unido vs Univ de Chile	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6ba.m3u8?auth_key=1773515856-0-0-ffabeafcf37b50f441fe588650199c1b
 
-04:10 [g]Categoría Primera A[z]^-
-Cucuta vs Deportivo Cali
+04:10 [g]Categoría Primera A[z]	^-
+Cucuta vs Deportivo Cali	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e70.m3u8?auth_key=1773515856-0-0-dae4233b1f5c72290a06fa25007d8b12
 
-04:30 [g]Brazilian Serie A[z]^-
-Vitoria BA vs Atletico Mineiro
+04:30 [g]Brazilian Serie A[z]	^-
+Vitoria BA vs Atletico Mineiro	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a63.m3u8?auth_key=1773515856-0-0-afd3d1a4b2c8786cc7acd075ebb18bca
 
-05:00 [g]Argentine Division 1[z]^-
-CA Platense vs Velez Sarsfield
+05:00 [g]Argentine Division 1[z]	^-
+CA Platense vs Velez Sarsfield	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b1.m3u8?auth_key=1773515856-0-0-6b542616df482781fc5687e9b8d8fac1
 
 05:15 [g]US Major League Soccer[z]^-
 Columbus Crew vs Nashville
 
-06:00 [g]Mexico Liga MX[z]^-
-Atletico San Luis vs Pachuca
+06:00 [g]Mexico Liga MX[z]	^-
+Atletico San Luis vs Pachuca	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a69.m3u8?auth_key=1773515856-0-0-8b27de56e020c10b482357e7f94b0bd2
 
-06:00 [g]Peruvian Liga 1[z]^-
-Deportivo Garcilaso vs Alianza Lima
+06:00 [g]Peruvian Liga 1[z]	^-
+Deportivo Garcilaso vs Alianza Lima	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4e.m3u8?auth_key=1773515856-0-0-754824999b17c3488787ae1e4baecc30
 
-06:07 [g]Mexico Liga MX[z]^-
-Chivas Guadalajara vs Santos Laguna
+06:07 [g]Mexico Liga MX[z]	^-
+Chivas Guadalajara vs Santos Laguna	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a6b.m3u8?auth_key=1773515856-0-0-b9ed091ba203df2e75d5bd88390d2e1c
 
-06:20 [g]Categoría Primera A[z]^-
-Boyaca Chico vs Millonarios
+06:20 [g]Categoría Primera A[z]	^-
+Boyaca Chico vs Millonarios	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a6e.m3u8?auth_key=1773515856-0-0-b15a137b3ed88a83e3f832cb5318652a
 
-06:30 [g]US Major League Soccer[z]^-
-Charlotte FC vs Inter Miami CF
+06:30 [g]US Major League Soccer[z]	^-
+Charlotte FC vs Inter Miami CF	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a72.m3u8?auth_key=1773515856-0-0-241b4ccc6fa57eb850368e7b27e9d150
 Orlando City vs Montreal Impact
 New York City FC vs Colorado Rapids
 
-06:30 [g]Brazilian Serie A[z]^-
-Botafogo RJ vs Flamengo
+06:30 [g]Brazilian Serie A[z]	^-
+Botafogo RJ vs Flamengo	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a6f.m3u8?auth_key=1773515856-0-0-4f216c11d968a87f525fc7ce0090b3fb
 
-06:30 [g]CHI Liga de Primera[z]^-
-Univ Catolica vs Everton CD
+06:30 [g]CHI Liga de Primera[z]	^-
+Univ Catolica vs Everton CD	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b8.m3u8?auth_key=1773515856-0-0-790f4fa7e1dbc7e4e6cfb9cdb515861e
 
-07:00 [g]Argentine Division 1[z]^-
-Rosario Central vs Banfield
+07:00 [g]Argentine Division 1[z]	^-
+Rosario Central vs Banfield	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6a8.m3u8?auth_key=1773515856-0-0-e5aaad65334e0ba7c75c1d66a710c1b7
 
-07:30 [g]US Major League Soccer[z]^-
+07:30 [g]US Major League Soccer[z]	^-
 Houston Dynamo vs Portland Timbers
 Chicago Fire vs DC United
-FC Dallas vs San Diego FC
+FC Dallas vs San Diego FC	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a77.m3u8?auth_key=1773515856-0-0-2ca8ac7de5e9edeffdaf8aee52e90c87
 
-08:00 [g]Mexico Liga MX[z]^-
-Toluca vs Atlas
+08:00 [g]Mexico Liga MX[z]	^-
+Toluca vs Atlas	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a7b.m3u8?auth_key=1773515856-0-0-34f5736502943d0dbd033037419a7695
+Leon vs Tijuana	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a7a.m3u8?auth_key=1773515856-0-0-70b31f2cacb0bf9cfbc2bc4f365d36e1
 
 08:30 [g]US Major League Soccer[z]^-
 Real Salt Lake vs Austin FC
@@ -248,29 +246,31 @@ LA Galaxy vs FC Kansas City
 08:30 [g]Categoría Primera A[z]^-
 Indep Santa Fe vs Alianza Petrolera
 
-08:30 [g]Peruvian Liga 1[z]^-
-Univ De Deportes vs UTC Cajamarca
+08:30 [g]Peruvian Liga 1[z]	^-
+Univ De Deportes vs UTC Cajamarca	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4b.m3u8?auth_key=1773515856-0-0-d8617e5478fc1bf5b3b35b1bd62ac982
 
-09:00 [g]Costa Rica Primera Division[z]^-
-Herediano vs Municipal Liberia
+09:00 [g]Costa Rica Primera Division[z]	^-
+Herediano vs Municipal Liberia	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a86.m3u8?auth_key=1773515856-0-0-445b4a2d246cd806af5d0ee479ba350b
 
-09:30 [g]US Major League Soccer[z]^-
-Los Angeles FC vs St. Louis City SC
+09:30 [g]US Major League Soccer[z]	^-
+Los Angeles FC vs St. Louis City SC	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a88.m3u8?auth_key=1773515856-0-0-85c9364f793094393672f1d332e5c8e3
 
-10:10 [g]Mexico Liga MX[z]^-
-Pumas UNAM vs CDSyC Cruz Azul
+10:10 [g]Mexico Liga MX[z]	^-
+Pumas UNAM vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a89.m3u8?auth_key=1773515856-0-0-1e17755d733e6cb24d19884ebda6cc51
 
-12:00 [g]Japanese J1 League[z]^-
-V-Varen Nagasaki vs Avispa Fukuoka
+12:00 [g]Japanese J1 League[z]	^-
+V-Varen Nagasaki vs Avispa Fukuoka	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a96.m3u8?auth_key=1773515856-0-0-a00cf8ea103f78ca0a0d1aecc9cce2d4
 
-12:00 [g]Korean K League 1[z]^-
-Bucheon FC 1995 vs Ulsan Hyundai FC
+12:00 [g]Korean K League 1[z]	^-
+Bucheon FC 1995 vs Ulsan Hyundai FC	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a97.m3u8?auth_key=1773515856-0-0-f947e107fd9cff8b0d06c379ec10c77f
+Jeju United vs FC Seoul	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a98.m3u8?auth_key=1773515856-0-0-fb3d8761df84853a33088f16b67c2b69
 
-12:00 [l]AFC Women’s Asian Cup[z]^-
-Japan vs Philippines
+12:00 [l]AFC Women’s Asian Cup[z]	^-
+Japan vs Philippines	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a95.m3u8?auth_key=1773515856-0-0-d088a767f593536f26e72828b4a4d657
 
 14:30 [g]Korean K League 1[z]^-
 Pohang Steelers vs Incheon United
+Gangwon FC vs Anyang
 
 15:00 [g]Australia A-League[z]^-
 Melbourne Victory vs FC Macarthur
