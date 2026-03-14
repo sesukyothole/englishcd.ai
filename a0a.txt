@@ -48,6 +48,7 @@ Trabzon vs Rize Sports	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515736.m3u8
 
 00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs New York Red Bulls	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a79.m3u8?auth_key=1773526006-0-0-6e6aa4865621100dc75eaadad24b57cb
+Toronto FC vs New York Red Bulls	https://live4.trendgallary.com/live/13360672_d1c46ee507a9ffb597c2fec0dc6d9f08_h1080p.m3u8
 
 00:00 [g]Swiss Super League[z]	^-
 Zurich vs Xiyong	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a30.m3u8?auth_key=1773513976-0-0-2ef41287adbba223ee140738e9bce235
@@ -99,8 +100,8 @@ Al Shabab Riyadh vs Al-Okhdood	https://bo2.qiuxun.tv/sla/1-699337fc680a13cada587
 02:00 [g]Categoría Primera A[z]	^-
 La Equidad vs Atletico Bucaramanga	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e32.m3u8?auth_key=1773500867-0-0-733c0face4ec140f68ae2c8e4131a527
 
-02:15 [g]US Major League Soccer[z]^-
-Atlanta Utd vs Philadelphia Union
+02:15 [g]US Major League Soccer[z]	^-
+Atlanta Utd vs Philadelphia Union	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e2a.m3u8?auth_key=1773531631-0-0-dbd01b237259ad373ca22946e1dec32b
 
 02:30 [g]Swiss Super League[z]	^-
 St. Gallen vs Lugano	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e3b.m3u8?auth_key=1773513976-0-0-38f4fa110252d82f9c7d65f150f928dc
