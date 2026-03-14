@@ -145,21 +145,24 @@ Jeju United vs FC Seoul	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a98.m3u
 12:00 [l]AFC Women’s Asian Cup[z]	^-
 Japan vs Philippines	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a95.m3u8?auth_key=1773515856-0-0-d088a767f593536f26e72828b4a4d657
 
-14:30 [g]Korean K League 1[z]^-
-Pohang Steelers vs Incheon United
-Gangwon FC vs Anyang
+14:30 [g]Korean K League 1[z]	^-
+Pohang Steelers vs Incheon United	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6aad.m3u8?auth_key=1773544332-0-0-a11383d5f1c8d24fe6973f5d647b0ed5
+Gangwon FC vs Anyang	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6aac.m3u8?auth_key=1773544332-0-0-eafd83b7a6f7301e6a4107ec44d56d84
 
-15:00 [g]Australia A-League[z]^-
-Melbourne Victory vs FC Macarthur
+15:00 [g]Australia A-League[z]	^-
+Melbourne Victory vs FC Macarthur	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6ab9.m3u8?auth_key=1773544332-0-0-402cdcb67911b32e5d5509845fd189dd
 
-18:00 [g]Thai League 1[z]^-
-Bangkok United FC vs Port FC
+18:00 [g]Thai League 1[z]	^-
+Bangkok United FC vs Port FC	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e98.m3u8?auth_key=1773544332-0-0-a81d0aa831fcc668d2ad5b24bc0864fd
 
-18:30 [y]Italian Serie A[z]^-
-Verona vs Genoa
+18:15 [y]Netherlands Eredivisie[z]	^-
+Twente vs Utrecht	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db3.m3u8?auth_key=1773544332-0-0-97dd485455153b2d5c7e0defb79ee2e5
 
-18:30 [g]Thai League 1[z]^-
-Singha GB Kanchanaburi vs Sukhothai
+18:30 [y]Italian Serie A[z]	^-
+Verona vs Genoa	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1b.m3u8?auth_key=1773544332-0-0-71ab62b630bd6dfd2caabe52238bccf7
+
+18:30 [g]Thai League 1[z]	^-
+Singha GB Kanchanaburi vs Sukhothai	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60eac.m3u8?auth_key=1773544332-0-0-6e04f23444d59e6cc5b6338fc392aebd
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
