@@ -28,25 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Napoli vs Lecce	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b20.m3u8?auth_key=1773494194-0-0-0d41465951744e1dc19ec0d0b999f28f
-
-00:00 [g]Turkish Super League[z]	^-
-Galatasaray vs Istanbul Buyuksehir	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515734.m3u8?auth_key=1773497676-0-0-c3ff120bf9cf9bfedc58442356a8225c
-Goztabee vs Al-Alania Sports	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515733.m3u8?auth_key=1773497676-0-0-40f6b224efa064ef36c76e968f208a89
-Trabzon vs Rize Sports	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515736.m3u8?auth_key=1773497676-0-0-70099a289fed79905b723a19d6740e8a
-
-00:00 [g]US Major League Soccer[z]	^-
-Toronto FC vs New York Red Bulls	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a79.m3u8?auth_key=1773526006-0-0-6e6aa4865621100dc75eaadad24b57cb
-Toronto FC vs New York Red Bulls	https://live4.trendgallary.com/live/13360672_d1c46ee507a9ffb597c2fec0dc6d9f08_h1080p.m3u8
-
-00:00 [g]Swiss Super League[z]	^-
-Zurich vs Xiyong	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a30.m3u8?auth_key=1773513976-0-0-2ef41287adbba223ee140738e9bce235
-Thun vs Grasshopper	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a31.m3u8?auth_key=1773513976-0-0-b1c19466f77dd8eeabed4f904fcb9b9c
-
-00:15 [g]Belgian Pro League[z]	^-
-Saint Gilloise vs FCV Dender EH	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e0f.m3u8?auth_key=1773497676-0-0-e2e16158807a30a84d4641d084a417dc
-
 00:30 [y]English Premier League[z]	^-
 Arsenal vs Everton	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b18.m3u8?auth_key=1773531095-0-0-46be7a36823ac5fd1f830591506de5b7
 Arsenal vs Everton	https://live2.trendgallary.com/live/12483250_cbbc27adc0bcb36def375ef2d88a1a36_h1080p.m3u8
