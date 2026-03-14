@@ -28,23 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-00:30 [y]English Premier League[z]	^-
-Arsenal vs Everton	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b18.m3u8?auth_key=1773531095-0-0-46be7a36823ac5fd1f830591506de5b7
-Arsenal vs Everton	https://live2.trendgallary.com/live/12483250_cbbc27adc0bcb36def375ef2d88a1a36_h1080p.m3u8
-Chelsea vs Newcastle United	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e10.m3u8?auth_key=1773531095-0-0-315dd9bdf0ce74315bc24b0190353d54
-Chelsea vs Newcastle United	https://feijing-xzbonlinepull.52kq.top/live/202_4722351_1.flv?txSecret=549b7ed10de2065a9ac0aa4761228982&txTime=69b5d5f0
-
-00:30 [y]Bundesliga[z]	^-
-Hamburger SV vs FC Koln	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e11.m3u8?auth_key=1773531095-0-0-f336f2f0d715aaa0ce70f84b80c69333
-Hamburger SV vs FC Koln	https://live4.trendgallary.com/live/12535404_84da6476f413cecf6437e6de1629e1dd_h1080p.m3u8
-
-00:30 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Valencia	https://bo2bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dad.m3u8?auth_key=1773531095-0-0-5bcd9a66486060f01d931d8723fc71fb
-Real Oviedo vs Valencia	https://live5.trendgallary.com/live/12562106_f691b7b0a8f704c9122a83651d3557f3_h1080p.m3u8
-
-00:30 [g]Greek Super League[z]	^-
-Panserraikos vs Aris Thessaloniki	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbd.m3u8?auth_key=1773515856-0-0-136614273d3364a45120b8946ca8032e
-
 00:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs NEC Nijmegen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db4.m3u8?auth_key=1773494194-0-0-b2dc7f2e44d0db08770ada6c606b2674
 
