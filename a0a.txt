@@ -26,12 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-15.03.2026	^-
-
-23:30 [y]Bundesliga[z]	^-
-SC Freiburg vs Union Berlin	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d647.m3u8?auth_key=1773587041-0-0-b1d5867fd5acf162664536ae40f562b1
-SC Freiburg vs Union Berlin	https://live1.trendgallary.com/live/12535403_e2ae183dd15ad8abd5e9c59e2409a3e6_h1080p.m3u8
-
 16.03.2026	^-
 
 00:00 [y]Italian Serie A[z]	^-
