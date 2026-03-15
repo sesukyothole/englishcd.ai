@@ -28,10 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-21:30 [y]Bundesliga[z]	^-
-Werder Bremen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f06.m3u8?auth_key=1773584188-0-0-f47f0215bc951026e4502a198aea3a58
-Werder Bremen vs FSV Mainz 05	https://live.trendgallary.com/live/12535407_84249e5b75da1bbdd5695a7ff921d6b9_h1080p.m3u8
-
 22:00 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Standard Liege	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f07.m3u8?auth_key=1773586187-0-0-0a472316a835091b88fbe0b7016a135c
 Royal Antwerp vs Standard Liege	https://live.trendgallary.com/live/12521327_fa60db2371922b9de406b7891e572988_h1080p.m3u8
