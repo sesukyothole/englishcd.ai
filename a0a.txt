@@ -112,11 +112,14 @@ Dundee FC vs Dundee United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738e.
 21:30 [y]Bundesliga[z]	^-
 Werder Bremen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f06.m3u8?auth_key=1773584188-0-0-f47f0215bc951026e4502a198aea3a58
 
-22:00 [g]Belgian Pro League[z]^-
-Royal Antwerp vs Standard Liege
+22:00 [g]Belgian Pro League[z]	^-
+Royal Antwerp vs Standard Liege	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f07.m3u8?auth_key=1773586187-0-0-0a472316a835091b88fbe0b7016a135c
 
-22:00 [g]CHI Liga de Primera[z]^-
-Universidad de Concepcion vs Palestino
+22:00 [g]CHI Liga de Primera[z]	^-
+Universidad de Concepcion vs Palestino	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b7.m3u8?auth_key=1773586187-0-0-344ab63a229e25d2852f68ade64c846f
+
+22:00 [g]Danish Superliga[z]	^-
+Sonderjylland vs AGF Aarhus	https://bo2.qiuxun.tv/sla/1-69ac98e613e29df893dc55ba.m3u8?auth_key=1773586187-0-0-74f12e20c675e88c48b56b76ecc14da6
 
 22:15 [y]Spanish La Liga[z]^-
 FC Barcelona vs Sevilla
