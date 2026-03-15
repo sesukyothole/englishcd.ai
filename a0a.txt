@@ -28,20 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-20:00 [y]Spanish La Liga[z]	^-
-Mallorca vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daa.m3u8?auth_key=1773582233-0-0-ff074d3b89236a87c978d05eb941c922
-Mallorca vs RCD Espanyol	https://live1.trendgallary.com/live/12562109_297ee3c24a4f0f5a2ff967967baa7195_h1080p.m3u8
-
-20:00 [g]Danish Superliga[z]	^-
-Midtjylland vs Nordsjaelland	https://bo2.qiuxun.tv/sla/1-69ac98e613e29df893dc55b9.m3u8?auth_key=1773582233-0-0-438637fa13f164566f73151c13495326
-Odense vs Copenhagen	https://bo2.qiuxun.tv/sla/1-69ac98e613e29df893dc55b8.m3u8?auth_key=1773582233-0-0-b45491f777c479717d3aabae68d2010d
-
-20:00 [g]Turkish Super League[z]	^-
-Kasimpasa vs Eyupspor	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515738.m3u8?auth_key=1773582233-0-0-4d6d8dfa99e21cb7c3b62129b8460fe2
-
-20:00 [g]Switzerland Super League[z]	^-
-Lausanne vs Young Boys	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ed2.m3u8?auth_key=1773582233-0-0-c3c39a1697d7d180bbc366b8e245172f
-
 20:30 Liga 1	^-
 Borneo FC vs Persib Bandung	https://bo2.qiuxun.tv/sla/1-6972427e680a13cadad3d4b2.m3u8?auth_key=1773603330-0-0-654dce90fcaa5ddcd6fab0f4e715b318
 Borneo FC vs Persib Bandung	https://live4.trendgallary.com/live/13578903_c22ced9035001d8f89b1a693428298de_h1080p.m3u8
