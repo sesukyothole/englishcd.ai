@@ -97,8 +97,8 @@ FBC Melgar vs Atletico Grau	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4f
 01:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs RB Leipzig	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d696.m3u8?auth_key=1773587041-0-0-4add24688519901ce0c846fbe8741f18
 
-01:30 [g]US Major League Soccer[z]^-
-New England Revolution vs FC Cincinnati
+01:30 [g]US Major League Soccer[z]	^-
+New England Revo vs FC Cincinnati	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d697.m3u8?auth_key=1773617783-0-0-07ff893266597bdba0db8eded5d68707
 
 02:00 [g]Greek Super League[z]	^-
 Panathinaikos vs Panaitolikos Agrinio	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbe.m3u8?auth_key=1773587041-0-0-5abfe0f38e4f7af97aa4b5c917597037
@@ -135,8 +135,8 @@ Alianza Atletico Sullana vs Moquegua	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c
 04:00 [g]CHI Liga de Primera[z]	^-
 Cobresal vs Deportes Limache	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6bc.m3u8?auth_key=1773587041-0-0-3874d01b508d9b3cd689a3848741d769
 
-04:00 [g]CAF Champions League[z]^-
-Esperance Sportive de Tunis vs Al Ahly SC
+04:00 [g]CAF Champions League[z]	^-
+Esperance Sport Tunis vs Al Ahly SC	http://bo2.qiuxun.tv/sla/1-69a639a4ed06fc5dfdb267a3.m3u8?auth_key=1773617783-0-0-65a13f0434aab4203610300770bf1eab
 
 04:10 [g]Categoría Primera A[z]	^-
 America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
