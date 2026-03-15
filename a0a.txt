@@ -28,25 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-22:00 [g]Belgian Pro League[z]	^-
-Royal Antwerp vs Standard Liege	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f07.m3u8?auth_key=1773586187-0-0-0a472316a835091b88fbe0b7016a135c
-Royal Antwerp vs Standard Liege	https://live.trendgallary.com/live/12521327_fa60db2371922b9de406b7891e572988_h1080p.m3u8
-
-22:00 [g]CHI Liga de Primera[z]	^-
-Universidad de Concepcion vs Palestino	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b7.m3u8?auth_key=1773586187-0-0-344ab63a229e25d2852f68ade64c846f
-Universidad de Concepcion vs Palestino	https://live.trendgallary.com/live/13457753_d7aa58211b0eb8badd31561e23b5df21_h1080p.m3u8
-
-22:00 [g]Danish Superliga[z]	^-
-Sonderjylland vs AGF Aarhus	https://bo2.qiuxun.tv/sla/1-69ac98e613e29df893dc55ba.m3u8?auth_key=1773586187-0-0-74f12e20c675e88c48b56b76ecc14da6
-Sonderjylland vs AGF Aarhus	https://live.trendgallary.com/live/13669452_efbffd3c941636187d99c4c331928511_h1080p.m3u8
-
-22:00 [g]Luxembourg League[z]	^-
-Kaerjeng vs UNA Strassen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0c.m3u8?auth_key=1773601306-0-0-5d186c813eded2faa0ec4b182e59fb68
-Jeunesse Canach vs Dudelange	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0d.m3u8?auth_key=1773601306-0-0-3fadca16157ac997627f03f1d7decd4f
-FC Mamer vs Rosport	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0f.m3u8?auth_key=1773601306-0-0-829b46473b2af080da6d3d3a7b043cf4
-Differdange vs Jeunesse Esch	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f10.m3u8?auth_key=1773601306-0-0-94e0da2c886f2efc57b514811ce7ae47
-Atert Bissen vs Petange	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f11.m3u8?auth_key=1773601306-0-0-604996a19fd412bd80bb1d0609203a03
-
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Sevilla	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daf.m3u8?auth_key=1773586187-0-0-ed4ee0164c6f3144d6fcf84fdd59af00
 FC Barcelona vs Sevilla	https://live.trendgallary.com/live/12562104_b52ba31c9fda86342aa17382b59bab03_h1080p.m3u8
