@@ -28,19 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-10:10 [g]Mexico Liga MX[z]	^-
-Pumas UNAM vs CDSyC Cruz Azul	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a89.m3u8?auth_key=1773515856-0-0-1e17755d733e6cb24d19884ebda6cc51
-
-12:00 [g]Japanese J1 League[z]	^-
-V-Varen Nagasaki vs Avispa Fukuoka	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a96.m3u8?auth_key=1773515856-0-0-a00cf8ea103f78ca0a0d1aecc9cce2d4
-
-12:00 [g]Korean K League 1[z]	^-
-Bucheon FC 1995 vs Ulsan Hyundai FC	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a97.m3u8?auth_key=1773515856-0-0-f947e107fd9cff8b0d06c379ec10c77f
-Jeju United vs FC Seoul	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a98.m3u8?auth_key=1773515856-0-0-fb3d8761df84853a33088f16b67c2b69
-
-12:00 [l]AFC Women’s Asian Cup[z]	^-
-Japan vs Philippines	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a95.m3u8?auth_key=1773515856-0-0-d088a767f593536f26e72828b4a4d657
-
 14:30 [g]Korean K League 1[z]	^-
 Pohang Steelers vs Incheon United	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6aad.m3u8?auth_key=1773544332-0-0-a11383d5f1c8d24fe6973f5d647b0ed5
 Gangwon FC vs Anyang	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6aac.m3u8?auth_key=1773544332-0-0-eafd83b7a6f7301e6a4107ec44d56d84
@@ -144,7 +131,7 @@ Bundesliga
 23:30
 SC Freiburg vs Union Berlin
 
-16.03.2026	^-
+16.03.2026^-
 
 Italian Serie A
 00:00
