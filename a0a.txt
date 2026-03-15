@@ -28,9 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 16.03.2026	^-
 
-01:00 [g]Portuguese Primera Liga[z]	^-
-Rio Ave vs Estrela da Amadora	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65a.m3u8?auth_key=1773587041-0-0-0846184f14ac3a922421fe074dd991e8
-
 01:15 [g]Belgian Pro League[z]	^-
 Cercle Brugge vs LaLouviere	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d694.m3u8?auth_key=1773587041-0-0-aeff00586a4e43a4418f433f153dd743
 
@@ -68,6 +65,7 @@ Rennes vs Lille	https://live.trendgallary.com/live/12536552_f2d9fc22824701203fb6
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Osasuna	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60da8.m3u8?auth_key=1773587041-0-0-e07fcd68501fce2991761642ac660500
+Real Sociedad vs Osasuna	https://feijing-xzbonlinepull.52kq.top/live/202_4725532_1.flv?txSecret=6b25e33dfd866b77360da3bcc3536279&txTime=69b7494e
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Moreirense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65d.m3u8?auth_key=1773587041-0-0-5e38dbe6c4e4ff4b4b1165ee78020a5e
