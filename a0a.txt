@@ -28,12 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-19:00 [g]Scottish Premiership[z]	^-
-Saint Mirren vs Glasgow Rangers	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738b.m3u8?auth_key=1773582233-0-0-9ed73ded713221fc0c132200c905b22c
-
-19:00 [g]Thai League 1[z]	^-
-Ratchaburi FC vs Ayutthaya United	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60eb2.m3u8?auth_key=1773582233-0-0-97ef0cd9ef427c3da1e93feb698a0b99
-
 19:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ec7.m3u8?auth_key=1773582233-0-0-4bb6d55e32e987519fc53f0556bd1fae
 
