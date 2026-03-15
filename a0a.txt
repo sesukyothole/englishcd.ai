@@ -28,18 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-18:00 [g]Thai League 1[z]	^-
-Bangkok United FC vs Port FC	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e98.m3u8?auth_key=1773544332-0-0-a81d0aa831fcc668d2ad5b24bc0864fd
-
-18:15 [y]Netherlands Eredivisie[z]	^-
-Twente vs Utrecht	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db3.m3u8?auth_key=1773544332-0-0-97dd485455153b2d5c7e0defb79ee2e5
-
-18:30 [y]Italian Serie A[z]	^-
-Verona vs Genoa	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1b.m3u8?auth_key=1773544332-0-0-71ab62b630bd6dfd2caabe52238bccf7
-
-18:30 [g]Thai League 1[z]	^-
-Singha GB Kanchanaburi vs Sukhothai	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60eac.m3u8?auth_key=1773544332-0-0-6e04f23444d59e6cc5b6338fc392aebd
-
 19:00 [g]Scottish Premiership[z]	^-
 Saint Mirren vs Glasgow Rangers	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738b.m3u8?auth_key=1773582233-0-0-9ed73ded713221fc0c132200c905b22c
 
@@ -102,6 +90,9 @@ Melaka FC vs Kelantan United	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b2
 21:00 [g]Scottish Premiership[z]	^-
 Dundee FC vs Dundee United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738e.m3u8?auth_key=1773584188-0-0-85972aed00227f997ea52755728672fc
 
+21:00 [g]Swedish Cup[z]	^-
+Hammarby vs Yulgarden	https://bo2.qiuxun.tv/sla/1-69b1a6a336bc4bac6f29767e.m3u8?auth_key=1773601306-0-0-2212a60b33eeb45cc3aaa133bba2bf3a
+
 21:30 [y]Bundesliga[z]	^-
 Werder Bremen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f06.m3u8?auth_key=1773584188-0-0-f47f0215bc951026e4502a198aea3a58
 
@@ -113,6 +104,13 @@ Universidad de Concepcion vs Palestino	https://bo2.qiuxun.tv/sla/1-69972c81c07d6
 
 22:00 [g]Danish Superliga[z]	^-
 Sonderjylland vs AGF Aarhus	https://bo2.qiuxun.tv/sla/1-69ac98e613e29df893dc55ba.m3u8?auth_key=1773586187-0-0-74f12e20c675e88c48b56b76ecc14da6
+
+22:00 [g]Luxembourg League[z]	^-
+Kaerjeng vs UNA Strassen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0c.m3u8?auth_key=1773601306-0-0-5d186c813eded2faa0ec4b182e59fb68
+Jeunesse Canach vs Dudelange	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0d.m3u8?auth_key=1773601306-0-0-3fadca16157ac997627f03f1d7decd4f
+FC Mamer vs Rosport	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0f.m3u8?auth_key=1773601306-0-0-829b46473b2af080da6d3d3a7b043cf4
+Differdange vs Jeunesse Esch	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f10.m3u8?auth_key=1773601306-0-0-94e0da2c886f2efc57b514811ce7ae47
+Atert Bissen vs Petange	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f11.m3u8?auth_key=1773601306-0-0-604996a19fd412bd80bb1d0609203a03
 
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Sevilla	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daf.m3u8?auth_key=1773586187-0-0-ed4ee0164c6f3144d6fcf84fdd59af00
