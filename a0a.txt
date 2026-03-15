@@ -28,10 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-22:15 [y]Spanish La Liga[z]	^-
-FC Barcelona vs Sevilla	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daf.m3u8?auth_key=1773586187-0-0-ed4ee0164c6f3144d6fcf84fdd59af00
-FC Barcelona vs Sevilla	https://live.trendgallary.com/live/12562104_b52ba31c9fda86342aa17382b59bab03_h1080p.m3u8
-
 22:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs Santa Clara	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d660.m3u8?auth_key=1773586187-0-0-768caf29e1c0b4db361908ceed226981
 AVS Futebol SAD vs Santa Clara	https://live1.trendgallary.com/live/12693972_6b6aac35a4e0863900a2f33f16d53101_h1080p.m3u8
@@ -73,10 +69,13 @@ SC Freiburg vs Union Berlin	https://live1.trendgallary.com/live/12535403_e2ae183
 
 00:00 [y]Italian Serie A[z]	^-
 Como vs AS Roma	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1a.m3u8?auth_key=1773587041-0-0-5a9f3ff5c871472fef469b0023bab9a8
+Como vs AS Roma	https://live2.trendgallary.com/live/12418728_1649df82d3f6540ee0816e21bd8aba18_h1080p.m3u8
 
 00:00 [g]Turkish Super League[z]	^-
 Genclerbirligi vs Besiktas JK	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151573b.m3u8?auth_key=1773587041-0-0-a89889c637760e4839027e76db23249f
+Genclerbirligi vs Besiktas JK	https://feijing-xzbonlinepull.52kq.top/live/202_4729236_1.flv?txSecret=d624b7f8dec714f110df2bebf6649fe2&txTime=69b72345
 Samsunspor vs Kayserispor	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151573a.m3u8?auth_key=1773587041-0-0-ef76c45045a77283c7ff53df9c0d84d4
+Samsunspor vs Kayserispor	https://live3.trendgallary.com/live/12607138_dfa02e93b77c0fb7dbbc57f8f1dcb30e_h1080p.m3u8
 
 00:00 [g]Costa Rica Primera Division[z]	^-
 Cartagines Dep vs Deportivo Saprissa	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d67d.m3u8?auth_key=1773587041-0-0-39aac6d07c8faadf58d61904cc354d74
@@ -148,6 +147,51 @@ Esperance Sportive de Tunis vs Al Ahly SC
 
 04:10 [g]Categoría Primera A[z]	^-
 America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
+
+Brazil: Brazilian Serie A
+04:30
+Coritiba PR vs Remo Belem (PA)
+04:30
+Palmeiras vs Mirassol
+Africa: CAF Confederation Cup
+05:00
+Olympique de Safi vs Wydad Casablanca
+Argentina: Argentine Division 1
+05:45
+River Plate vs Sarmiento Junin
+USA: United States Major League Soccer
+06:00
+San Jose Earthquakes vs Seattle Sounders
+Mexico: Mexico Liga MX
+06:00
+Tigres UANL vs Queretaro FC
+Peru: Peruvian Liga 1
+06:00
+Cusco FC vs Cienciano
+Colombia: Categoría Primera A
+06:20
+Jaguares de Cordoba vs Dep.Independiente Medellin
+Brazil: Brazilian Serie A
+06:30
+Bragantino vs Sao Paulo
+06:30
+Cruzeiro Esporte Clube vs Vasco da Gama
+Chile: CHI Liga de Primera
+06:30
+Nublense vs Deportes La Serena
+Argentina: Argentine Division 1
+08:00
+Club Atlético Unión vs Boca Juniors
+08:00
+Club Atletico Tigre vs Argentinos Juniors
+Mexico: Mexico Liga MX
+08:00
+Club America vs Mazatlan FC
+Colombia: Categoría Primera A
+08:30
+Atletico Junior Barranquilla vs Fortaleza F.C
+
+
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
