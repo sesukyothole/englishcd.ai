@@ -49,6 +49,7 @@ Atert Bissen vs Petange	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f11.m3u
 
 22:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Sevilla	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daf.m3u8?auth_key=1773586187-0-0-ed4ee0164c6f3144d6fcf84fdd59af00
+FC Barcelona vs Sevilla	https://live.trendgallary.com/live/12562104_b52ba31c9fda86342aa17382b59bab03_h1080p.m3u8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs Santa Clara	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d660.m3u8?auth_key=1773586187-0-0-768caf29e1c0b4db361908ceed226981
