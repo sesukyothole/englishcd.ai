@@ -28,32 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 16.03.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-Como vs AS Roma	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1a.m3u8?auth_key=1773587041-0-0-5a9f3ff5c871472fef469b0023bab9a8
-Como vs AS Roma	https://live2.trendgallary.com/live/12418728_1649df82d3f6540ee0816e21bd8aba18_h1080p.m3u8
-
-00:00 [g]Turkish Super League[z]	^-
-Genclerbirligi vs Besiktas JK	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151573b.m3u8?auth_key=1773587041-0-0-a89889c637760e4839027e76db23249f
-Genclerbirligi vs Besiktas JK	https://feijing-xzbonlinepull.52kq.top/live/202_4729236_1.flv?txSecret=d624b7f8dec714f110df2bebf6649fe2&txTime=69b72345
-Samsunspor vs Kayserispor	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151573a.m3u8?auth_key=1773587041-0-0-ef76c45045a77283c7ff53df9c0d84d4
-Samsunspor vs Kayserispor	https://live3.trendgallary.com/live/12607138_dfa02e93b77c0fb7dbbc57f8f1dcb30e_h1080p.m3u8
-
-00:00 [g]Costa Rica Primera Division[z]	^-
-Cartagines Dep vs Deportivo Saprissa	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d67d.m3u8?auth_key=1773587041-0-0-39aac6d07c8faadf58d61904cc354d74
-Cartagines Dep vs Deportivo Saprissa	https://live1.trendgallary.com/live/13361310_90ed7d27442e615081175bf85701b34d_h1080p.m3u8
-
-00:00 [g]Danish Superliga[z]	^-
-Brøndby vs Viborg	https://bo2.qiuxun.tv/sla/1-69aca6ef54cc07087eb86862.m3u8?auth_key=1773587041-0-0-0c03f8fb3915957f2410898279f8afbe
-Brøndby vs Viborg	https://live.trendgallary.com/live/13669453_c8aad749ca3753c4a72c3d56225a94c8_h1080p.m3u8
-
-00:30 [g]Belgian Pro League[z]	^-
-Mechelen vs Anderlecht	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515731.m3u8?auth_key=1773587041-0-0-cfb8191867325b851a88abbd7a3f1115
-Mechelen vs Anderlecht	https://live1.trendgallary.com/live/12521332_2e7a880f1a4eea441db698e0041e3b6a_h1080p.m3u8
-
-00:30 [y]Spanish La Liga[z]	^-
-Real Betis vs Real Celta Vigo	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dae.m3u8?auth_key=1773587041-0-0-818491bdd5e20b16baee2933e717bb36
-Real Betis vs Real Celta Vigo	https://feijing-xzbonlinepull.52kq.top/live/202_4725538_1.flv?txSecret=635c217ba9e5f6d04e4d3021df3ba64a&txTime=69b72670
-
 01:00 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs Estrela da Amadora	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65a.m3u8?auth_key=1773587041-0-0-0846184f14ac3a922421fe074dd991e8
 
