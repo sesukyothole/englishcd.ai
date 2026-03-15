@@ -73,15 +73,19 @@ Kasimpasa vs Eyupspor	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515738.m3u8?
 20:00 [g]Switzerland Super League[z]	^-
 Lausanne vs Young Boys	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ed2.m3u8?auth_key=1773582233-0-0-c3c39a1697d7d180bbc366b8e245172f
 
-20:30 [y]Netherlands Eredivisie[z]^-
-AZ Alkmaar vs Heracles Almelo
-Feyenoord vs Excelsior SBV
+20:30 Liga 1	^-
+Borneo FC vs Persib Bandung	https://bo2.qiuxun.tv/sla/1-6972427e680a13cadad3d4b2.m3u8?auth_key=1773584188-0-0-3283fe2ffd8b95eed4cc38990b835b99
+Persija Jakarta vs Dewa United FC	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769b7.m3u8?auth_key=1773584188-0-0-a5cf1a1bdaf5b489f21a8099b38d11eb
 
-20:30 Malaysian Super League^-
-DPMM FC vs Johor Darul Takzim
+20:30 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs Heracles Almelo	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db7.m3u8?auth_key=1773584188-0-0-fd328ec2c6153d6aa027210b15440890
+Feyenoord vs Excelsior SBV	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db2.m3u8?auth_key=1773584188-0-0-554001c6c82f9a50c86cd5c4075ee456
 
-20:30 Liga 1^-
-Persija Jakarta vs Dewa United FC
+20:30 Malaysian Super League	^-
+DPMM FC vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8735f.m3u8?auth_key=1773584188-0-0-c04800044b1a0bbb23d0c3e5b1f503a6
+
+20:30 [g]Austrian Bundesliga[z]	^-
+Salzburg Red Bull vs Vienna Express	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aad1.m3u8?auth_key=1773584188-0-0-c957d9c69f2b81f6fbfcd1730bcd8604
 
 21:00 [y]English Premier League[z]^-
 Crystal Palace vs Leeds United
