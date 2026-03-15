@@ -28,26 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 16.03.2026	^-
 
-01:30 [y]Bundesliga[z]	^-
-VfB Stuttgart vs RB Leipzig	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d696.m3u8?auth_key=1773587041-0-0-4add24688519901ce0c846fbe8741f18
-VfB Stuttgart vs RB Leipzig	https://live.trendgallary.com/live/12535406_65c8189e76e97bb5aa68439a952afa7d_h1080p.m3u8
-
-01:30 [g]US Major League Soccer[z]	^-
-New England Revo vs FC Cincinnati	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d697.m3u8?auth_key=1773617783-0-0-07ff893266597bdba0db8eded5d68707
-New England Revo vs FC Cincinnati	https://live.trendgallary.com/live/13360684_10c471fe6f986015a76492057c187398_h1080p.m3u8
-
-02:00 [g]Greek Super League[z]	^-
-Panathinaikos vs Panaitolikos Agrinio	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbe.m3u8?auth_key=1773587041-0-0-5abfe0f38e4f7af97aa4b5c917597037
-Panathinaikos vs Panaitolikos Agrinio	https://live.trendgallary.com/live/12659536_3801da6bb160ac30f4254f611a6d7aaa_h1080p.m3u8
-
-02:00 [g]Brazilian Serie A[z]	^-
-Fluminense vs Athletico Paranaense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d69a.m3u8?auth_key=1773587041-0-0-64fa17f938c4970bc1567879d562d448
-Fluminense vs Athletico Paranaense	https://live1.trendgallary.com/live/13376942_72de1c8e1e798109d57044e59b11f52f_h1080p.m3u8
-Internacional RS vs Bahia	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d699.m3u8?auth_key=1773587041-0-0-23b4e81dde947665d2329a8ae858f420
-Internacional RS vs Bahia	https://live2.trendgallary.com/live/13376943_9a72467ad442eb6cab350d3cdd35f36e_h1080p.m3u8
-Santos vs Corinthians Paulista	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d698.m3u8?auth_key=1773587041-0-0-68b83947d4bf68385459572020b1d49a
-Santos vs Corinthians Paulista	https://live3.trendgallary.com/live/13376945_96d5980b0fbe2d3fad91a2f19c68df1b_h1080p.m3u8
-
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs AC Milan	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b21.m3u8?auth_key=1773587041-0-0-20ecfd62db6efc7927c0b50a9a33ab3d
 Lazio vs AC Milan	https://live.trendgallary.com/live/12418731_428276b3e6e776d735f79948c5dc841f_h1080p.m3u8
@@ -62,24 +42,30 @@ Real Sociedad vs Osasuna	https://feijing-xzbonlinepull.52kq.top/live/202_4725532
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Moreirense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65d.m3u8?auth_key=1773587041-0-0-5e38dbe6c4e4ff4b4b1165ee78020a5e
+FC Porto vs Moreirense	https://feijing-xzbonlinepull.52kq.top/live/202_4729058_1.flv?txSecret=e0049f1c95bc4dcc84bdf6b2c7f5e4f4&txTime=69b75714
 
 03:30 [g]US Major League Soccer[z]	^-
 Vancouver Whitecaps vs Minnesota Utd	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a87.m3u8?auth_key=1773587041-0-0-3f5ac5b11535cfd839265400fa888e00
+Vancouver Whitecaps vs Minnesota Utd	https://live.trendgallary.com/live/13360683_c961de8da8e33c62942edb98195cc65d_h1080p.m3u8
 
 03:30 [g]Argentine Division 1[z]	^-
 Belgrano vs Talleres Cordoba	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6a9.m3u8?auth_key=1773587041-0-0-1e304bc910900e0aab5f271770778939
+Belgrano vs Talleres Cordoba	https://live.trendgallary.com/live/13376075_1e77d6f0bccb64b9cc83b59d6cbef24d_h1080p.m3u8
 
 03:30 [g]Categoría Primera A[z]	^-
 Deportivo Pereira vs Aguilas Doradas	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d69c.m3u8?auth_key=1773587041-0-0-8445273053bc0f5a4c15bf3c85174fec
+Deportivo Pereira vs Aguilas Doradas	https://live1.trendgallary.com/live/13452671_0f45af395b2765108a2c5821cef0d57f_h1080p.m3u8
 
 03:30 [g]Peruvian Liga 1[z]	^-
 Alianza Atletico Sullana vs Moquegua	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4c.m3u8?auth_key=1773587041-0-0-16e4c6323610092c9893744dbc496dab
+Alianza Atletico Sullana vs Moquegua	https://live2.trendgallary.com/live/13505419_0085e8c8de591d1a8093ffecad0ee8d1_h1080p.m3u8
 
 04:00 [g]CHI Liga de Primera[z]	^-
 Cobresal vs Deportes Limache	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6bc.m3u8?auth_key=1773587041-0-0-3874d01b508d9b3cd689a3848741d769
 
 04:00 [g]CAF Champions League[z]	^-
 Esperance Sport Tunis vs Al Ahly SC	https://bo2.qiuxun.tv/sla/1-69a639a4ed06fc5dfdb267a3.m3u8?auth_key=1773617783-0-0-65a13f0434aab4203610300770bf1eab
+Esperance Sport Tunis vs Al Ahly SC	https://feijing-xzbonlinepull.52kq.top/live/202_5064372_1.flv?txSecret=25ceb48d35811664cd256720b4669f74&txTime=69b757c8
 
 04:10 [g]Categoría Primera A[z]	^-
 America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
