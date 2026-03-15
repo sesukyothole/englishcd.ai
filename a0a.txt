@@ -72,8 +72,11 @@ Salzburg Red Bull vs Vienna Express	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a11245
 
 21:00 [y]English Premier League[z]	^-
 Crystal Palace vs Leeds United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737d.m3u8?auth_key=1773584188-0-0-d6b7befab364f7ba0c4678990ee24d71
+Crystal Palace vs Leeds United	https://feijing-xzbonlinepull.52kq.top/live/202_4722349_1.flv?txSecret=b2922b208feeff43726af631ca515958&txTime=69b6f513
 Manchester United vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b17.m3u8?auth_key=1773584188-0-0-7ca5fc31b7dce56b0cc3e589092f7536
+Manchester United vs Aston Villa	https://feijing-xzbonlinepull.52kq.top/live/202_4722347_1.flv?txSecret=dfc71aee0f433529372a10ea4abbba2a&txTime=69b6f4c7
 Nottingham Forest vs Fulham	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737c.m3u8?auth_key=1773584188-0-0-0fcab65fd891dcd080a4be9abf014bfe
+Nottingham Forest vs Fulham	https://feijing-xzbonlinepull.52kq.top/live/202_4722348_1.flv?txSecret=24de1d20c4886c6702eb154dfd56676e&txTime=69b6f543
 
 21:00 [y]Italian Serie A[z]	^-
 Pisa vs Cagliari	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1f.m3u8?auth_key=1773584188-0-0-f014f69fd591f36f82391f70778ed239
