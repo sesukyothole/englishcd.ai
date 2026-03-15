@@ -28,17 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-22:30 [g]Portuguese Primera Liga[z]	^-
-AVS Futebol SAD vs Santa Clara	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d660.m3u8?auth_key=1773586187-0-0-768caf29e1c0b4db361908ceed226981
-AVS Futebol SAD vs Santa Clara	https://live1.trendgallary.com/live/12693972_6b6aac35a4e0863900a2f33f16d53101_h1080p.m3u8
-Nacional da Madeira vs Estoril	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65b.m3u8?auth_key=1773586187-0-0-d6728be43d7b59b5befe63017f449025
-
-22:30 [g]Switzerland Super League[z]	^-
-Lucerne	Winterthur	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b5f.m3u8?auth_key=1773586187-0-0-a42df67c38fa8e35731f7e185969645b
-Lucerne	Winterthur	https://live1.trendgallary.com/live/13391997_6a8f99b9eae3d822119d29ddc441674e_h1080p.m3u8
-Basel	Servet	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b60.m3u8?auth_key=1773586187-0-0-de68127591698da49115d4a86151c0fc
-Basel	Servet	https://live.trendgallary.com/live/13391996_cd47977501770a36a2c12d0ad725625f_h1080p.m3u8
-
 22:45 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs NAC Breda	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db6.m3u8?auth_key=1773586187-0-0-aaaa41fc53207260bc1cfa93fcb47227
 Go Ahead Eagles vs NAC Breda	https://live.trendgallary.com/live/12483637_84c082380759f128e563b2af67a5efdc_h1080p.m3u8
@@ -148,50 +137,45 @@ Esperance Sportive de Tunis vs Al Ahly SC
 04:10 [g]Categoría Primera A[z]	^-
 America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
 
-Brazil: Brazilian Serie A
-04:30
-Coritiba PR vs Remo Belem (PA)
-04:30
+04:30 [g]Brazilian Serie A[z]^-
+Coritiba PR vs Remo Belem PA
 Palmeiras vs Mirassol
-Africa: CAF Confederation Cup
-05:00
-Olympique de Safi vs Wydad Casablanca
-Argentina: Argentine Division 1
-05:45
+
+05:00 [g]CAF Confederation Cup[z]^-
+Olympique Safi vs Wydad Casablanca
+
+05:45 [g]Argentine Division 1[z]^-
 River Plate vs Sarmiento Junin
-USA: United States Major League Soccer
-06:00
-San Jose Earthquakes vs Seattle Sounders
-Mexico: Mexico Liga MX
-06:00
+
+06:00 [g]US Major League Soccer[z]^-
+SJ Earthquakes vs Seattle Sounders
+
+06:00 [g]Mexico Liga MX[z]^-
 Tigres UANL vs Queretaro FC
-Peru: Peruvian Liga 1
-06:00
+
+06:00 [g]Peruvian Liga 1[z]^-
 Cusco FC vs Cienciano
-Colombia: Categoría Primera A
-06:20
-Jaguares de Cordoba vs Dep.Independiente Medellin
-Brazil: Brazilian Serie A
-06:30
+
+06:20 [g]Categoría Primera A[z]^-
+Jaguares Cordoba vs Dep. Medellin
+
+06:30 [g]Brazilian Serie A[z]^-
 Bragantino vs Sao Paulo
-06:30
-Cruzeiro Esporte Clube vs Vasco da Gama
-Chile: CHI Liga de Primera
-06:30
+Cruzeiro Esporte vs Vasco da Gama
+
+06:30 [g]CHI Liga de Primera[z]^-
 Nublense vs Deportes La Serena
-Argentina: Argentine Division 1
+
+08:00 [g]Argentine Division 1[z]^-
+Atlético Unión vs Boca Juniors
 08:00
-Club Atlético Unión vs Boca Juniors
-08:00
-Club Atletico Tigre vs Argentinos Juniors
-Mexico: Mexico Liga MX
-08:00
+Atletico Tigre vs Argentinos Jr
+
+08:00 [g]Mexico Liga MX[z]^-
 Club America vs Mazatlan FC
-Colombia: Categoría Primera A
-08:30
-Atletico Junior Barranquilla vs Fortaleza F.C
 
-
+08:30 [g]Categoría Primera A[z]^-
+Atletico Barranquilla vs Fortaleza
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
