@@ -28,9 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-15:00 [g]Australia A-League[z]	^-
-Melbourne Victory vs FC Macarthur	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6ab9.m3u8?auth_key=1773544332-0-0-402cdcb67911b32e5d5509845fd189dd
-
 18:00 [g]Thai League 1[z]	^-
 Bangkok United FC vs Port FC	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e98.m3u8?auth_key=1773544332-0-0-a81d0aa831fcc668d2ad5b24bc0864fd
 
