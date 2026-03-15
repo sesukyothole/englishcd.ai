@@ -72,9 +72,11 @@ Go Ahead Eagles vs NAC Breda	https://live.trendgallary.com/live/12483637_84c0823
 
 23:00 [g]Greek Super League[z]	^-
 PAOK Saloniki vs Levadiakos	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbc.m3u8?auth_key=1773586187-0-0-e0bd8fd5a55d108bd24ff51aeec93ecc
+PAOK Saloniki vs Levadiakos	https://live2.trendgallary.com/live/12659538_bca2cd48e819e0983999139d6bc26b46_h1080p.m3u8
 
 23:00 [g]Peruvian Liga 1[z]	^-
 Sporting Cristal vs Sport Boys	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e49.m3u8?auth_key=1773587041-0-0-aaead471196c4be8ddde105d9f7b648d
+Sporting Cristal vs Sport Boys	https://live2.trendgallary.com/live/13505415_f3af2f66474ea68622fcbc6d0e508b49_h1080p.m3u8
 
 23:15 [y]French Ligue 1[z]	^-
 Metz vs Toulouse	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515678.m3u8?auth_key=1773587041-0-0-bc6fc7ad22e847be2fab4a4bb7edfb2d
