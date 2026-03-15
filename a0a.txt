@@ -50,11 +50,13 @@ New England Revo vs FC Cincinnati	https://live.trendgallary.com/live/13360684_10
 
 02:00 [g]Greek Super League[z]	^-
 Panathinaikos vs Panaitolikos Agrinio	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbe.m3u8?auth_key=1773587041-0-0-5abfe0f38e4f7af97aa4b5c917597037
+Panathinaikos vs Panaitolikos Agrinio	https://live.trendgallary.com/live/12659536_3801da6bb160ac30f4254f611a6d7aaa_h1080p.m3u8
 
 02:00 [g]Brazilian Serie A[z]	^-
 Fluminense vs Athletico Paranaense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d69a.m3u8?auth_key=1773587041-0-0-64fa17f938c4970bc1567879d562d448
 Internacional RS vs Bahia	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d699.m3u8?auth_key=1773587041-0-0-23b4e81dde947665d2329a8ae858f420
 Santos vs Corinthians Paulista	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d698.m3u8?auth_key=1773587041-0-0-68b83947d4bf68385459572020b1d49a
+Santos vs Corinthians Paulista	https://live3.trendgallary.com/live/13376945_96d5980b0fbe2d3fad91a2f19c68df1b_h1080p.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs AC Milan	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b21.m3u8?auth_key=1773587041-0-0-20ecfd62db6efc7927c0b50a9a33ab3d
