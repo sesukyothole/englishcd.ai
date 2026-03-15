@@ -28,55 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-20:30 Liga 1	^-
-Borneo FC vs Persib Bandung	https://bo2.qiuxun.tv/sla/1-6972427e680a13cadad3d4b2.m3u8?auth_key=1773603330-0-0-654dce90fcaa5ddcd6fab0f4e715b318
-Borneo FC vs Persib Bandung	https://live4.trendgallary.com/live/13578903_c22ced9035001d8f89b1a693428298de_h1080p.m3u8
-Persija Jakarta vs Dewa United	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769b7.m3u8?auth_key=1773603330-0-0-1f87986f051b0b76eb10a5e95a3f959d
-Persija Jakarta vs Dewa United	https://live1.trendgallary.com/live/34kgmiop808ieko_31d8b0981220f7d8deb4e46c6f155385_h1080p.m3u8
-
-20:30 [y]Netherlands Eredivisie[z]	^-
-AZ Alkmaar vs Heracles Almelo	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db7.m3u8?auth_key=1773584188-0-0-fd328ec2c6153d6aa027210b15440890
-AZ Alkmaar vs Heracles Almelo	https://live.trendgallary.com/live/12483634_10315908755095a2ef3356ef457674dc_h1080p.m3u8
-Feyenoord vs Excelsior SBV	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db2.m3u8?auth_key=1773584188-0-0-554001c6c82f9a50c86cd5c4075ee456
-Feyenoord vs Excelsior SBV	https://live.trendgallary.com/live/12483636_fae36d924812682695db49c009efd1e1_h1080p.m3u8
-
-20:30 Malaysian Super League	^-
-DPMM FC vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8735f.m3u8?auth_key=1773584188-0-0-c04800044b1a0bbb23d0c3e5b1f503a6
-DPMM FC vs Johor Darul Takzim	https://live3.trendgallary.com/live/12648052_4c90c8bf0de72a286b51a497ef4d8328_h1080p.m3u8
-
-20:30 [g]Austrian Bundesliga[z]	^-
-Salzburg Red Bull vs Vienna Express	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aad1.m3u8?auth_key=1773584188-0-0-c957d9c69f2b81f6fbfcd1730bcd8604
-Salzburg Red Bull vs Vienna Express	https://live.trendgallary.com/live/13678220_1d5db292162d5a6b7f1932a2028020fc_h1080p.m3u8
-
-21:00 [y]English Premier League[z]	^-
-Crystal Palace vs Leeds United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737d.m3u8?auth_key=1773584188-0-0-d6b7befab364f7ba0c4678990ee24d71
-Crystal Palace vs Leeds United	https://feijing-xzbonlinepull.52kq.top/live/202_4722349_1.flv?txSecret=b2922b208feeff43726af631ca515958&txTime=69b6f513
-Manchester United vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b17.m3u8?auth_key=1773584188-0-0-7ca5fc31b7dce56b0cc3e589092f7536
-Manchester United vs Aston Villa	https://feijing-xzbonlinepull.52kq.top/live/202_4722347_1.flv?txSecret=dfc71aee0f433529372a10ea4abbba2a&txTime=69b6f4c7
-Nottingham Forest vs Fulham	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737c.m3u8?auth_key=1773584188-0-0-0fcab65fd891dcd080a4be9abf014bfe
-Nottingham Forest vs Fulham	https://live.trendgallary.com/live/12483257_c88b6933ba42b9998e6bb6502ed8056d_h1080p.m3u8
-Nottingham Forest vs Fulham	https://feijing-xzbonlinepull.52kq.top/live/202_4722348_1.flv?txSecret=24de1d20c4886c6702eb154dfd56676e&txTime=69b6f543
-
-21:00 [y]Italian Serie A[z]	^-
-Pisa vs Cagliari	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1f.m3u8?auth_key=1773584188-0-0-f014f69fd591f36f82391f70778ed239
-Sassuolo vs Bologna	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1e.m3u8?auth_key=1773584188-0-0-2ee8f92fe36f117e6ddbd98fca4500d1
-
-21:00 [y]French Ligue 1[z]	^-
-Strasbourg vs Paris FC	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515674.m3u8?auth_key=1773584188-0-0-70404b177218377ae091efe06ed4a989
-
-21:00 [g]Greek Super League[z]	^-
-AE Kifisias vs Volos NFC	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dc0.m3u8?auth_key=1773584188-0-0-25eac5797f89876a417c5c592505346d
-
-21:00 Malaysian Super League	^-
-Kuala Lumpur vs Selangor	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b2a.m3u8?auth_key=1773584188-0-0-b34236215325291e414519c28ec6bfa5
-Melaka FC vs Kelantan United	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b29.m3u8?auth_key=1773584188-0-0-76b239b25aab3de168e5121813a1a945
-
-21:00 [g]Scottish Premiership[z]	^-
-Dundee FC vs Dundee United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738e.m3u8?auth_key=1773584188-0-0-85972aed00227f997ea52755728672fc
-
-21:00 [g]Swedish Cup[z]	^-
-Hammarby vs Yulgarden	https://bo2.qiuxun.tv/sla/1-69b1a6a336bc4bac6f29767e.m3u8?auth_key=1773601306-0-0-2212a60b33eeb45cc3aaa133bba2bf3a
-
 21:30 [y]Bundesliga[z]	^-
 Werder Bremen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f06.m3u8?auth_key=1773584188-0-0-f47f0215bc951026e4502a198aea3a58
 
