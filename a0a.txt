@@ -68,9 +68,11 @@ FBC Melgar vs Atletico Grau	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4f
 
 01:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs RB Leipzig	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d696.m3u8?auth_key=1773587041-0-0-4add24688519901ce0c846fbe8741f18
+VfB Stuttgart vs RB Leipzig	https://live.trendgallary.com/live/12535406_65c8189e76e97bb5aa68439a952afa7d_h1080p.m3u8
 
 01:30 [g]US Major League Soccer[z]	^-
 New England Revo vs FC Cincinnati	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d697.m3u8?auth_key=1773617783-0-0-07ff893266597bdba0db8eded5d68707
+New England Revo vs FC Cincinnati	https://live.trendgallary.com/live/13360684_10c471fe6f986015a76492057c187398_h1080p.m3u8
 
 02:00 [g]Greek Super League[z]	^-
 Panathinaikos vs Panaitolikos Agrinio	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbe.m3u8?auth_key=1773587041-0-0-5abfe0f38e4f7af97aa4b5c917597037
