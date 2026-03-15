@@ -28,13 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-19:30 [g]Belgian Pro League[z]	^-
-Racing Genk vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ec7.m3u8?auth_key=1773582233-0-0-4bb6d55e32e987519fc53f0556bd1fae
-
-19:30 [g]Singapore Premier League[z]	^-
-Balestier Khalsa vs Lion City	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ecc.m3u8?auth_key=1773584188-0-0-d0a29c5fc349e134bb22f3a66e447cc7
-Geylang vs Albirex	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ecb.m3u8?auth_key=1773584188-0-0-d7da2868b5be08164bc9ed513e457c08
-
 20:00 [y]Spanish La Liga[z]	^-
 Mallorca vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daa.m3u8?auth_key=1773582233-0-0-ff074d3b89236a87c978d05eb941c922
 Mallorca vs RCD Espanyol	https://live1.trendgallary.com/live/12562109_297ee3c24a4f0f5a2ff967967baa7195_h1080p.m3u8
@@ -63,9 +56,11 @@ Feyenoord vs Excelsior SBV	https://live.trendgallary.com/live/12483636_fae36d924
 
 20:30 Malaysian Super League	^-
 DPMM FC vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8735f.m3u8?auth_key=1773584188-0-0-c04800044b1a0bbb23d0c3e5b1f503a6
+DPMM FC vs Johor Darul Takzim	https://live3.trendgallary.com/live/12648052_4c90c8bf0de72a286b51a497ef4d8328_h1080p.m3u8
 
 20:30 [g]Austrian Bundesliga[z]	^-
 Salzburg Red Bull vs Vienna Express	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aad1.m3u8?auth_key=1773584188-0-0-c957d9c69f2b81f6fbfcd1730bcd8604
+Salzburg Red Bull vs Vienna Express	https://live.trendgallary.com/live/13678220_1d5db292162d5a6b7f1932a2028020fc_h1080p.m3u8
 
 21:00 [y]English Premier League[z]	^-
 Crystal Palace vs Leeds United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737d.m3u8?auth_key=1773584188-0-0-d6b7befab364f7ba0c4678990ee24d71
@@ -73,6 +68,7 @@ Crystal Palace vs Leeds United	https://feijing-xzbonlinepull.52kq.top/live/202_4
 Manchester United vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b17.m3u8?auth_key=1773584188-0-0-7ca5fc31b7dce56b0cc3e589092f7536
 Manchester United vs Aston Villa	https://feijing-xzbonlinepull.52kq.top/live/202_4722347_1.flv?txSecret=dfc71aee0f433529372a10ea4abbba2a&txTime=69b6f4c7
 Nottingham Forest vs Fulham	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737c.m3u8?auth_key=1773584188-0-0-0fcab65fd891dcd080a4be9abf014bfe
+Nottingham Forest vs Fulham	https://live.trendgallary.com/live/12483257_c88b6933ba42b9998e6bb6502ed8056d_h1080p.m3u8
 Nottingham Forest vs Fulham	https://feijing-xzbonlinepull.52kq.top/live/202_4722348_1.flv?txSecret=24de1d20c4886c6702eb154dfd56676e&txTime=69b6f543
 
 21:00 [y]Italian Serie A[z]	^-
