@@ -55,8 +55,10 @@ Kasimpasa vs Eyupspor	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515738.m3u8?
 Lausanne vs Young Boys	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ed2.m3u8?auth_key=1773582233-0-0-c3c39a1697d7d180bbc366b8e245172f
 
 20:30 Liga 1	^-
-Borneo FC vs Persib Bandung	https://bo2.qiuxun.tv/sla/1-6972427e680a13cadad3d4b2.m3u8?auth_key=1773584188-0-0-3283fe2ffd8b95eed4cc38990b835b99
-Persija Jakarta vs Dewa United	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769b7.m3u8?auth_key=1773584188-0-0-a5cf1a1bdaf5b489f21a8099b38d11eb
+Borneo FC vs Persib Bandung	https://bo2.qiuxun.tv/sla/1-6972427e680a13cadad3d4b2.m3u8?auth_key=1773603330-0-0-654dce90fcaa5ddcd6fab0f4e715b318
+Borneo FC vs Persib Bandung	https://live4.trendgallary.com/live/13578903_c22ced9035001d8f89b1a693428298de_h1080p.m3u8
+Persija Jakarta vs Dewa United	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769b7.m3u8?auth_key=1773603330-0-0-1f87986f051b0b76eb10a5e95a3f959d
+Persija Jakarta vs Dewa United	https://live1.trendgallary.com/live/34kgmiop808ieko_31d8b0981220f7d8deb4e46c6f155385_h1080p.m3u8
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs Heracles Almelo	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db7.m3u8?auth_key=1773584188-0-0-fd328ec2c6153d6aa027210b15440890
