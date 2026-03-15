@@ -28,10 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-22:45 [y]Netherlands Eredivisie[z]	^-
-Go Ahead Eagles vs NAC Breda	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db6.m3u8?auth_key=1773586187-0-0-aaaa41fc53207260bc1cfa93fcb47227
-Go Ahead Eagles vs NAC Breda	https://live.trendgallary.com/live/12483637_84c082380759f128e563b2af67a5efdc_h1080p.m3u8
-
 23:00 [g]Greek Super League[z]	^-
 PAOK Saloniki vs Levadiakos	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbc.m3u8?auth_key=1773586187-0-0-e0bd8fd5a55d108bd24ff51aeec93ecc
 PAOK Saloniki vs Levadiakos	https://live2.trendgallary.com/live/12659538_bca2cd48e819e0983999139d6bc26b46_h1080p.m3u8
