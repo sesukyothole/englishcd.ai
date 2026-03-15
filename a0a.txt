@@ -166,70 +166,70 @@ Cartagines Dep vs Deportivo Saprissa	https://bo2.qiuxun.tv/sla/1-69972c81c07d618
 00:00 [g]Danish Superliga[z]	^-
 Brøndby vs Viborg	https://bo2.qiuxun.tv/sla/1-69aca6ef54cc07087eb86862.m3u8?auth_key=1773587041-0-0-0c03f8fb3915957f2410898279f8afbe
 
-00:30 [g]Belgian Pro League[z]^-
-Mechelen vs Anderlecht
+00:30 [g]Belgian Pro League[z]	^-
+Mechelen vs Anderlecht	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515731.m3u8?auth_key=1773587041-0-0-cfb8191867325b851a88abbd7a3f1115
 
-00:30 [y]Spanish La Liga[z]^-
-Real Betis vs Real Celta Vigo
+00:30 [y]Spanish La Liga[z]	^-
+Real Betis vs Real Celta Vigo	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dae.m3u8?auth_key=1773587041-0-0-818491bdd5e20b16baee2933e717bb36
 
-01:00 [g]Portuguese Primera Liga[z]^-
-Rio Ave vs Estrela da Amadora
+01:00 [g]Portuguese Primera Liga[z]	^-
+Rio Ave vs Estrela da Amadora	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65a.m3u8?auth_key=1773587041-0-0-0846184f14ac3a922421fe074dd991e8
 
-01:15 [g]Belgian Pro League[z]^-
-Cercle Brugge vs LaLouviere
+01:15 [g]Belgian Pro League[z]	^-
+Cercle Brugge vs LaLouviere	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d694.m3u8?auth_key=1773587041-0-0-aeff00586a4e43a4418f433f153dd743
 
-01:15 [g]Argentine Division 1[z]^-
-Gimnasia La Plata vs Independiente Rivadavia
+01:15 [g]Argentine Division 1[z]	^-
+Gimnasia Plata vs Indep Rivadavia	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b3.m3u8?auth_key=1773587041-0-0-05e16f4babfcda7b9abb791dbf7d973e
 
-01:15 [g]Peruvian Liga 1[z]^-
-FBC Melgar vs Atletico Grau
+01:15 [g]Peruvian Liga 1[z]	^-
+FBC Melgar vs Atletico Grau	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4f.m3u8?auth_key=1773587041-0-0-5705aa87d1a5961bc57094e643dd2d2c
 
-01:30 [y]Bundesliga[z]^-
-VfB Stuttgart vs RB Leipzig
+01:30 [y]Bundesliga[z]	^-
+VfB Stuttgart vs RB Leipzig	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d696.m3u8?auth_key=1773587041-0-0-4add24688519901ce0c846fbe8741f18
 
 01:30 [g]US Major League Soccer[z]^-
 New England Revolution vs FC Cincinnati
 
-02:00 [g]Greek Super League[z]^-
-Panathinaikos vs Panaitolikos Agrinio
+02:00 [g]Greek Super League[z]	^-
+Panathinaikos vs Panaitolikos Agrinio	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbe.m3u8?auth_key=1773587041-0-0-5abfe0f38e4f7af97aa4b5c917597037
 
-02:00 [g]Brazilian Serie A[z]^-
-Fluminense RJ vs Athletico Paranaense
-Internacional RS vs Bahia
-Santos vs Corinthians Paulista (SP)
+02:00 [g]Brazilian Serie A[z]	^-
+Fluminense vs Athletico Paranaense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d69a.m3u8?auth_key=1773587041-0-0-64fa17f938c4970bc1567879d562d448
+Internacional RS vs Bahia	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d699.m3u8?auth_key=1773587041-0-0-23b4e81dde947665d2329a8ae858f420
+Santos vs Corinthians Paulista	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d698.m3u8?auth_key=1773587041-0-0-68b83947d4bf68385459572020b1d49a
 
-02:45 [y]Italian Serie A[z]^-
-Lazio vs AC Milan
+02:45 [y]Italian Serie A[z]	^-
+Lazio vs AC Milan	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b21.m3u8?auth_key=1773587041-0-0-20ecfd62db6efc7927c0b50a9a33ab3d
 
-02:45 [y]French Ligue 1[z]^-
-Rennes vs Lille
+02:45 [y]French Ligue 1[z]	^-
+Rennes vs Lille	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515675.m3u8?auth_key=1773587041-0-0-9eff1b55e465d93c2f9150a1b4e1d6f5
 
-03:00 [y]Spanish La Liga[z]^-
-Real Sociedad vs Osasuna
+03:00 [y]Spanish La Liga[z]	^-
+Real Sociedad vs Osasuna	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60da8.m3u8?auth_key=1773587041-0-0-e07fcd68501fce2991761642ac660500
 
-03:30 [g]Portuguese Primera Liga[z]^-
-FC Porto vs Moreirense
+03:30 [g]Portuguese Primera Liga[z]	^-
+FC Porto vs Moreirense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65d.m3u8?auth_key=1773587041-0-0-5e38dbe6c4e4ff4b4b1165ee78020a5e
 
-03:30 [g]US Major League Soccer[z]^-
-Vancouver Whitecaps vs Minnesota United FC
+03:30 [g]US Major League Soccer[z]	^-
+Vancouver Whitecaps vs Minnesota Utd	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6a87.m3u8?auth_key=1773587041-0-0-3f5ac5b11535cfd839265400fa888e00
 
-03:30 [g]Argentine Division 1[z]^-
-Belgrano vs Talleres Cordoba
+03:30 [g]Argentine Division 1[z]	^-
+Belgrano vs Talleres Cordoba	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6a9.m3u8?auth_key=1773587041-0-0-1e304bc910900e0aab5f271770778939
 
-03:30 [g]Categoría Primera A[z]^-
-Deportivo Pereira vs Aguilas Doradas
+03:30 [g]Categoría Primera A[z]	^-
+Deportivo Pereira vs Aguilas Doradas	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d69c.m3u8?auth_key=1773587041-0-0-8445273053bc0f5a4c15bf3c85174fec
 
-03:30 [g]Peruvian Liga 1[z]^-
-Alianza Atletico Sullana vs Moquegua
+03:30 [g]Peruvian Liga 1[z]	^-
+Alianza Atletico Sullana vs Moquegua	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4c.m3u8?auth_key=1773587041-0-0-16e4c6323610092c9893744dbc496dab
 
-04:00 [g]CHI Liga de Primera[z]^-
-Cobresal vs Deportes Limache
+04:00 [g]CHI Liga de Primera[z]	^-
+Cobresal vs Deportes Limache	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6bc.m3u8?auth_key=1773587041-0-0-3874d01b508d9b3cd689a3848741d769
 
 04:00 [g]CAF Champions League[z]^-
 Esperance Sportive de Tunis vs Al Ahly SC
 
-04:10 [g]Categoría Primera A[z]^-
-America de Cali vs Deportes Tolima
+04:10 [g]Categoría Primera A[z]	^-
+America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
