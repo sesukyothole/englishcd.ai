@@ -60,9 +60,11 @@ Santos vs Corinthians Paulista	https://live3.trendgallary.com/live/13376945_96d5
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs AC Milan	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b21.m3u8?auth_key=1773587041-0-0-20ecfd62db6efc7927c0b50a9a33ab3d
+Lazio vs AC Milan	https://live.trendgallary.com/live/12418731_428276b3e6e776d735f79948c5dc841f_h1080p.m3u8
 
 02:45 [y]French Ligue 1[z]	^-
 Rennes vs Lille	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515675.m3u8?auth_key=1773587041-0-0-9eff1b55e465d93c2f9150a1b4e1d6f5
+Rennes vs Lille	https://live.trendgallary.com/live/12536552_f2d9fc22824701203fb681100523f821_h1080p.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Osasuna	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60da8.m3u8?auth_key=1773587041-0-0-e07fcd68501fce2991761642ac660500
