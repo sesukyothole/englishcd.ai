@@ -80,13 +80,17 @@ Sporting Cristal vs Sport Boys	https://live2.trendgallary.com/live/13505415_f3af
 
 23:15 [y]French Ligue 1[z]	^-
 Metz vs Toulouse	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515678.m3u8?auth_key=1773587041-0-0-bc6fc7ad22e847be2fab4a4bb7edfb2d
+Metz vs Toulouse	https://live1.trendgallary.com/live/12536549_c2c1fbcc3bce22f5fbf44d330cd71d16_h1080p.m3u8
 Le Havre vs Lyon	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151567b.m3u8?auth_key=1773587041-0-0-fe7aa369a59f1395d290e28c7c24ab89
+Le Havre vs Lyon	https://live.trendgallary.com/live/12547513_9134cbf143d46cc25c2aa1805249048a_h1080p.m3u8
 
 23:30 [y]English Premier League[z]	^-
 Liverpool vs Tottenham Hotspur	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d646.m3u8?auth_key=1773587041-0-0-28656431bf82b71836ab28cfe3ae4ece
+Liverpool vs Tottenham Hotspur	https://live.trendgallary.com/live/12483255_5add7db5a26ee8ceabca3f848f3247df_h1080p.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 SC Freiburg vs Union Berlin	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d647.m3u8?auth_key=1773587041-0-0-b1d5867fd5acf162664536ae40f562b1
+SC Freiburg vs Union Berlin	https://live1.trendgallary.com/live/12535403_e2ae183dd15ad8abd5e9c59e2409a3e6_h1080p.m3u8
 
 16.03.2026^-
 
