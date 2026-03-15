@@ -28,18 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 16.03.2026	^-
 
-02:45 [y]Italian Serie A[z]	^-
-Lazio vs AC Milan	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b21.m3u8?auth_key=1773587041-0-0-20ecfd62db6efc7927c0b50a9a33ab3d
-Lazio vs AC Milan	https://live.trendgallary.com/live/12418731_428276b3e6e776d735f79948c5dc841f_h1080p.m3u8
-
-02:45 [y]French Ligue 1[z]	^-
-Rennes vs Lille	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515675.m3u8?auth_key=1773587041-0-0-9eff1b55e465d93c2f9150a1b4e1d6f5
-Rennes vs Lille	https://live.trendgallary.com/live/12536552_f2d9fc22824701203fb681100523f821_h1080p.m3u8
-
-03:00 [y]Spanish La Liga[z]	^-
-Real Sociedad vs Osasuna	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60da8.m3u8?auth_key=1773587041-0-0-e07fcd68501fce2991761642ac660500
-Real Sociedad vs Osasuna	https://feijing-xzbonlinepull.52kq.top/live/202_4725532_1.flv?txSecret=6b25e33dfd866b77360da3bcc3536279&txTime=69b7494e
-
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Moreirense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65d.m3u8?auth_key=1773587041-0-0-5e38dbe6c4e4ff4b4b1165ee78020a5e
 FC Porto vs Moreirense	https://feijing-xzbonlinepull.52kq.top/live/202_4729058_1.flv?txSecret=e0049f1c95bc4dcc84bdf6b2c7f5e4f4&txTime=69b75714
@@ -62,6 +50,7 @@ Alianza Atletico Sullana vs Moquegua	https://live2.trendgallary.com/live/1350541
 
 04:00 [g]CHI Liga de Primera[z]	^-
 Cobresal vs Deportes Limache	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6bc.m3u8?auth_key=1773587041-0-0-3874d01b508d9b3cd689a3848741d769
+Cobresal vs Deportes Limache	https://live.trendgallary.com/live/13457748_59c4884855d966dde5cd71435588fd9c_h1080p.m3u8
 
 04:00 [g]CAF Champions League[z]	^-
 Esperance Sport Tunis vs Al Ahly SC	https://bo2.qiuxun.tv/sla/1-69a639a4ed06fc5dfdb267a3.m3u8?auth_key=1773617783-0-0-65a13f0434aab4203610300770bf1eab
@@ -69,19 +58,23 @@ Esperance Sport Tunis vs Al Ahly SC	https://feijing-xzbonlinepull.52kq.top/live/
 
 04:10 [g]Categoría Primera A[z]	^-
 America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
+America de Cali vs Deportes Tolima	https://live.trendgallary.com/live/13452672_ffe1267f42232f80cd98c13659147e2e_h1080p.m3u8
 
 04:30 [g]Brazilian Serie A[z]	^-
 Coritiba PR vs Remo Belem PA	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515745.m3u8?auth_key=1773618734-0-0-bc66161aa9cd8ef39217c079381fc785
+Coritiba PR vs Remo Belem PA	https://live5.trendgallary.com/live/13376940_8b30ba03e8ea71660f48cf0ac263881f_h1080p.m3u8
 Palmeiras vs Mirassol	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515746.m3u8?auth_key=1773618734-0-0-bff8367b8c07e6e6ffe1663ef1a91309
+Palmeiras vs Mirassol	https://live4.trendgallary.com/live/13376944_a09c79288797d132fc4b25ad252879c7_h1080p.m3u8
 
 05:00 [g]CAF Confederation Cup[z]	^-
 Olympique Safi vs Wydad Casablanca	https://bo2.qiuxun.tv/sla/1-69a5124ca870a877948c83fc.m3u8?auth_key=1773619048-0-0-f01762142701a2f52da9764811149cc0
+Olympique Safi vs Wydad Casablanca	https://live.trendgallary.com/live/13599304_2dec0f95db3ebc2642828fa651845e1f_h1080p.m3u8
 
 05:45 [g]Argentine Division 1[z]	^-
 River Plate vs Sarmiento Junin	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6ad.m3u8?auth_key=1773619048-0-0-6a5461b75bd8cd82207a41459d4a6727
 
-06:00 [g]US Major League Soccer[z]^-
-SJ Earthquakes vs Seattle Sounders
+06:00 [g]US Major League Soccer[z]	^-
+SJ Earthquakes vs Seattle Sounders	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151574b.m3u8?auth_key=1773634713-0-0-4518003aac9660a5a0bdd21dfc11e8ef
 
 06:00 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Queretaro FC	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872dd.m3u8?auth_key=1773619048-0-0-2a5938c186b110f7fae982b90e7980fa
