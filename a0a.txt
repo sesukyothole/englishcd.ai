@@ -75,7 +75,7 @@ Lausanne vs Young Boys	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ed2.m3u8
 
 20:30 Liga 1	^-
 Borneo FC vs Persib Bandung	https://bo2.qiuxun.tv/sla/1-6972427e680a13cadad3d4b2.m3u8?auth_key=1773584188-0-0-3283fe2ffd8b95eed4cc38990b835b99
-Persija Jakarta vs Dewa United FC	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769b7.m3u8?auth_key=1773584188-0-0-a5cf1a1bdaf5b489f21a8099b38d11eb
+Persija Jakarta vs Dewa United	https://bo2.qiuxun.tv/sla/1-698ca0826e82682bc2d769b7.m3u8?auth_key=1773584188-0-0-a5cf1a1bdaf5b489f21a8099b38d11eb
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs Heracles Almelo	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db7.m3u8?auth_key=1773584188-0-0-fd328ec2c6153d6aa027210b15440890
@@ -87,27 +87,30 @@ DPMM FC vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c873
 20:30 [g]Austrian Bundesliga[z]	^-
 Salzburg Red Bull vs Vienna Express	https://bo2.qiuxun.tv/sla/1-69af1fc0d3a112451cb3aad1.m3u8?auth_key=1773584188-0-0-c957d9c69f2b81f6fbfcd1730bcd8604
 
-21:00 [y]English Premier League[z]^-
-Crystal Palace vs Leeds United
-Manchester United vs Aston Villa
-Nottingham Forest vs Fulham
+21:00 [y]English Premier League[z]	^-
+Crystal Palace vs Leeds United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737d.m3u8?auth_key=1773584188-0-0-d6b7befab364f7ba0c4678990ee24d71
+Manchester United vs Aston Villa	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b17.m3u8?auth_key=1773584188-0-0-7ca5fc31b7dce56b0cc3e589092f7536
+Nottingham Forest vs Fulham	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8737c.m3u8?auth_key=1773584188-0-0-0fcab65fd891dcd080a4be9abf014bfe
 
-21:00 [y]Italian Serie A[z]^-
-Pisa vs Cagliari
-Sassuolo vs Bologna
+21:00 [y]Italian Serie A[z]	^-
+Pisa vs Cagliari	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1f.m3u8?auth_key=1773584188-0-0-f014f69fd591f36f82391f70778ed239
+Sassuolo vs Bologna	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b1e.m3u8?auth_key=1773584188-0-0-2ee8f92fe36f117e6ddbd98fca4500d1
 
-21:00 [y]French Ligue 1[z]^-
-Strasbourg vs Paris FC
+21:00 [y]French Ligue 1[z]	^-
+Strasbourg vs Paris FC	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515674.m3u8?auth_key=1773584188-0-0-70404b177218377ae091efe06ed4a989
 
-21:00 [g]Greek Super League[z]^-
-AE Kifisias vs Volos NFC
+21:00 [g]Greek Super League[z]	^-
+AE Kifisias vs Volos NFC	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dc0.m3u8?auth_key=1773584188-0-0-25eac5797f89876a417c5c592505346d
 
-21:00 Malaysian Super League^-
-Kuala Lumpur vs Selangor
-Melaka FC vs Kelantan United
+21:00 Malaysian Super League	^-
+Kuala Lumpur vs Selangor	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b2a.m3u8?auth_key=1773584188-0-0-b34236215325291e414519c28ec6bfa5
+Melaka FC vs Kelantan United	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b29.m3u8?auth_key=1773584188-0-0-76b239b25aab3de168e5121813a1a945
 
-21:30 [y]Bundesliga[z]^-
-Werder Bremen vs FSV Mainz 05
+21:00 [g]Scottish Premiership[z]	^-
+Dundee FC vs Dundee United	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8738e.m3u8?auth_key=1773584188-0-0-85972aed00227f997ea52755728672fc
+
+21:30 [y]Bundesliga[z]	^-
+Werder Bremen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f06.m3u8?auth_key=1773584188-0-0-f47f0215bc951026e4502a198aea3a58
 
 22:00 [g]Belgian Pro League[z]^-
 Royal Antwerp vs Standard Liege
