@@ -56,6 +56,10 @@ Ratchaburi FC vs Ayutthaya United	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280
 19:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs Sint-Truidense	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ec7.m3u8?auth_key=1773582233-0-0-4bb6d55e32e987519fc53f0556bd1fae
 
+19:30 [g]Singapore Premier League[z]	^-
+Balestier Khalsa vs Lion City	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ecc.m3u8?auth_key=1773584188-0-0-d0a29c5fc349e134bb22f3a66e447cc7
+Geylang vs Albirex	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ecb.m3u8?auth_key=1773584188-0-0-d7da2868b5be08164bc9ed513e457c08
+
 20:00 [y]Spanish La Liga[z]	^-
 Mallorca vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daa.m3u8?auth_key=1773582233-0-0-ff074d3b89236a87c978d05eb941c922
 
