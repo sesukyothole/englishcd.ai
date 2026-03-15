@@ -30,15 +30,19 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 21:30 [y]Bundesliga[z]	^-
 Werder Bremen vs FSV Mainz 05	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f06.m3u8?auth_key=1773584188-0-0-f47f0215bc951026e4502a198aea3a58
+Werder Bremen vs FSV Mainz 05	https://live.trendgallary.com/live/12535407_84249e5b75da1bbdd5695a7ff921d6b9_h1080p.m3u8
 
 22:00 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Standard Liege	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f07.m3u8?auth_key=1773586187-0-0-0a472316a835091b88fbe0b7016a135c
+Royal Antwerp vs Standard Liege	https://live.trendgallary.com/live/12521327_fa60db2371922b9de406b7891e572988_h1080p.m3u8
 
 22:00 [g]CHI Liga de Primera[z]	^-
 Universidad de Concepcion vs Palestino	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b7.m3u8?auth_key=1773586187-0-0-344ab63a229e25d2852f68ade64c846f
+Universidad de Concepcion vs Palestino	https://live.trendgallary.com/live/13457753_d7aa58211b0eb8badd31561e23b5df21_h1080p.m3u8
 
 22:00 [g]Danish Superliga[z]	^-
 Sonderjylland vs AGF Aarhus	https://bo2.qiuxun.tv/sla/1-69ac98e613e29df893dc55ba.m3u8?auth_key=1773586187-0-0-74f12e20c675e88c48b56b76ecc14da6
+Sonderjylland vs AGF Aarhus	https://live.trendgallary.com/live/13669452_efbffd3c941636187d99c4c331928511_h1080p.m3u8
 
 22:00 [g]Luxembourg League[z]	^-
 Kaerjeng vs UNA Strassen	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60f0c.m3u8?auth_key=1773601306-0-0-5d186c813eded2faa0ec4b182e59fb68
@@ -53,14 +57,18 @@ FC Barcelona vs Sevilla	https://live.trendgallary.com/live/12562104_b52ba31c9fda
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs Santa Clara	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d660.m3u8?auth_key=1773586187-0-0-768caf29e1c0b4db361908ceed226981
+AVS Futebol SAD vs Santa Clara	https://live1.trendgallary.com/live/12693972_6b6aac35a4e0863900a2f33f16d53101_h1080p.m3u8
 Nacional da Madeira vs Estoril	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d65b.m3u8?auth_key=1773586187-0-0-d6728be43d7b59b5befe63017f449025
 
 22:30 [g]Switzerland Super League[z]	^-
 Lucerne	Winterthur	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b5f.m3u8?auth_key=1773586187-0-0-a42df67c38fa8e35731f7e185969645b
+Lucerne	Winterthur	https://live1.trendgallary.com/live/13391997_6a8f99b9eae3d822119d29ddc441674e_h1080p.m3u8
 Basel	Servet	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b60.m3u8?auth_key=1773586187-0-0-de68127591698da49115d4a86151c0fc
+Basel	Servet	https://live.trendgallary.com/live/13391996_cd47977501770a36a2c12d0ad725625f_h1080p.m3u8
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs NAC Breda	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db6.m3u8?auth_key=1773586187-0-0-aaaa41fc53207260bc1cfa93fcb47227
+Go Ahead Eagles vs NAC Breda	https://live.trendgallary.com/live/12483637_84c082380759f128e563b2af67a5efdc_h1080p.m3u8
 
 23:00 [g]Greek Super League[z]	^-
 PAOK Saloniki vs Levadiakos	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbc.m3u8?auth_key=1773586187-0-0-e0bd8fd5a55d108bd24ff51aeec93ecc
