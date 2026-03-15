@@ -28,10 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-14:30 [g]Korean K League 1[z]	^-
-Pohang Steelers vs Incheon United	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6aad.m3u8?auth_key=1773544332-0-0-a11383d5f1c8d24fe6973f5d647b0ed5
-Gangwon FC vs Anyang	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6aac.m3u8?auth_key=1773544332-0-0-eafd83b7a6f7301e6a4107ec44d56d84
-
 15:00 [g]Australia A-League[z]	^-
 Melbourne Victory vs FC Macarthur	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6ab9.m3u8?auth_key=1773544332-0-0-402cdcb67911b32e5d5509845fd189dd
 
