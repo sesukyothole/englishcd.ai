@@ -28,14 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15.03.2026	^-
 
-23:00 [g]Greek Super League[z]	^-
-PAOK Saloniki vs Levadiakos	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60dbc.m3u8?auth_key=1773586187-0-0-e0bd8fd5a55d108bd24ff51aeec93ecc
-PAOK Saloniki vs Levadiakos	https://live2.trendgallary.com/live/12659538_bca2cd48e819e0983999139d6bc26b46_h1080p.m3u8
-
-23:00 [g]Peruvian Liga 1[z]	^-
-Sporting Cristal vs Sport Boys	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e49.m3u8?auth_key=1773587041-0-0-aaead471196c4be8ddde105d9f7b648d
-Sporting Cristal vs Sport Boys	https://live2.trendgallary.com/live/13505415_f3af2f66474ea68622fcbc6d0e508b49_h1080p.m3u8
-
 23:15 [y]French Ligue 1[z]	^-
 Metz vs Toulouse	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515678.m3u8?auth_key=1773587041-0-0-bc6fc7ad22e847be2fab4a4bb7edfb2d
 Metz vs Toulouse	https://live1.trendgallary.com/live/12536549_c2c1fbcc3bce22f5fbf44d330cd71d16_h1080p.m3u8
@@ -132,50 +124,49 @@ Alianza Atletico Sullana vs Moquegua	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c
 Cobresal vs Deportes Limache	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6bc.m3u8?auth_key=1773587041-0-0-3874d01b508d9b3cd689a3848741d769
 
 04:00 [g]CAF Champions League[z]	^-
-Esperance Sport Tunis vs Al Ahly SC	http://bo2.qiuxun.tv/sla/1-69a639a4ed06fc5dfdb267a3.m3u8?auth_key=1773617783-0-0-65a13f0434aab4203610300770bf1eab
+Esperance Sport Tunis vs Al Ahly SC	https://bo2.qiuxun.tv/sla/1-69a639a4ed06fc5dfdb267a3.m3u8?auth_key=1773617783-0-0-65a13f0434aab4203610300770bf1eab
 
 04:10 [g]Categoría Primera A[z]	^-
 America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
 
-04:30 [g]Brazilian Serie A[z]^-
-Coritiba PR vs Remo Belem PA
-Palmeiras vs Mirassol
+04:30 [g]Brazilian Serie A[z]	^-
+Coritiba PR vs Remo Belem PA	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515745.m3u8?auth_key=1773618734-0-0-bc66161aa9cd8ef39217c079381fc785
+Palmeiras vs Mirassol	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515746.m3u8?auth_key=1773618734-0-0-bff8367b8c07e6e6ffe1663ef1a91309
 
-05:00 [g]CAF Confederation Cup[z]^-
-Olympique Safi vs Wydad Casablanca
+05:00 [g]CAF Confederation Cup[z]	^-
+Olympique Safi vs Wydad Casablanca	https://bo2.qiuxun.tv/sla/1-69a5124ca870a877948c83fc.m3u8?auth_key=1773619048-0-0-f01762142701a2f52da9764811149cc0
 
-05:45 [g]Argentine Division 1[z]^-
-River Plate vs Sarmiento Junin
+05:45 [g]Argentine Division 1[z]	^-
+River Plate vs Sarmiento Junin	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6ad.m3u8?auth_key=1773619048-0-0-6a5461b75bd8cd82207a41459d4a6727
 
 06:00 [g]US Major League Soccer[z]^-
 SJ Earthquakes vs Seattle Sounders
 
-06:00 [g]Mexico Liga MX[z]^-
-Tigres UANL vs Queretaro FC
+06:00 [g]Mexico Liga MX[z]	^-
+Tigres UANL vs Queretaro FC	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c872dd.m3u8?auth_key=1773619048-0-0-2a5938c186b110f7fae982b90e7980fa
 
-06:00 [g]Peruvian Liga 1[z]^-
-Cusco FC vs Cienciano
+06:00 [g]Peruvian Liga 1[z]	^-
+Cusco FC vs Cienciano	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4a.m3u8?auth_key=1773619048-0-0-a4a1c01595c0df11656ff4a4e15bf0be
 
-06:20 [g]Categoría Primera A[z]^-
-Jaguares Cordoba vs Dep. Medellin
+06:20 [g]Categoría Primera A[z]	^-
+Jaguares Cordoba vs Dep. Medellin	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151574d.m3u8?auth_key=1773619048-0-0-7a5bd0d358f50bfe737e34a2d06e183d
 
-06:30 [g]Brazilian Serie A[z]^-
-Bragantino vs Sao Paulo
-Cruzeiro Esporte vs Vasco da Gama
+06:30 [g]Brazilian Serie A[z]	^-
+Bragantino vs Sao Paulo	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151574e.m3u8?auth_key=1773619048-0-0-8206919b44f8c822e410d1eeb97daf2c
+Cruzeiro Esporte vs Vasco da Gama	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151574f.m3u8?auth_key=1773619048-0-0-499abdffc64024322da3df6529b3f0a8
 
-06:30 [g]CHI Liga de Primera[z]^-
-Nublense vs Deportes La Serena
+06:30 [g]CHI Liga de Primera[z]	^-
+Nublense vs Deportes La Serena	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b9.m3u8?auth_key=1773619048-0-0-f1a7ea718ed2378271a8b0948a5eb05a
 
-08:00 [g]Argentine Division 1[z]^-
-Atlético Unión vs Boca Juniors
-08:00
-Atletico Tigre vs Argentinos Jr
+08:00 [g]Argentine Division 1[z]	^-
+Atlético Unión vs Boca Juniors	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b5.m3u8?auth_key=1773619048-0-0-cde6946bc395c8f97f91536558890927
+Atletico Tigre vs Argentinos Jr	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6ac.m3u8?auth_key=1773619048-0-0-c952ecf74b9999ceffe991961e785753
 
-08:00 [g]Mexico Liga MX[z]^-
-Club America vs Mazatlan FC
+08:00 [g]Mexico Liga MX[z]	^-
+Club America vs Mazatlan FC	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515751.m3u8?auth_key=1773619048-0-0-09c9f77d94804c858fc857d08d386f8c
 
-08:30 [g]Categoría Primera A[z]^-
-Atletico Barranquilla vs Fortaleza
+08:30 [g]Categoría Primera A[z]	^-
+Atletico Barranquilla vs Fortaleza	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515752.m3u8?auth_key=1773619048-0-0-2feeed5f5e8b97e4b7dda536e3198e68
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
