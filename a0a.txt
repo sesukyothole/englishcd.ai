@@ -28,15 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 16.03.2026	^-
 
-01:15 [g]Belgian Pro League[z]	^-
-Cercle Brugge vs LaLouviere	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d694.m3u8?auth_key=1773587041-0-0-aeff00586a4e43a4418f433f153dd743
-
-01:15 [g]Argentine Division 1[z]	^-
-Gimnasia Plata vs Indep Rivadavia	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b3.m3u8?auth_key=1773587041-0-0-05e16f4babfcda7b9abb791dbf7d973e
-
-01:15 [g]Peruvian Liga 1[z]	^-
-FBC Melgar vs Atletico Grau	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60e4f.m3u8?auth_key=1773587041-0-0-5705aa87d1a5961bc57094e643dd2d2c
-
 01:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs RB Leipzig	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d696.m3u8?auth_key=1773587041-0-0-4add24688519901ce0c846fbe8741f18
 VfB Stuttgart vs RB Leipzig	https://live.trendgallary.com/live/12535406_65c8189e76e97bb5aa68439a952afa7d_h1080p.m3u8
@@ -51,7 +42,9 @@ Panathinaikos vs Panaitolikos Agrinio	https://live.trendgallary.com/live/1265953
 
 02:00 [g]Brazilian Serie A[z]	^-
 Fluminense vs Athletico Paranaense	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d69a.m3u8?auth_key=1773587041-0-0-64fa17f938c4970bc1567879d562d448
+Fluminense vs Athletico Paranaense	https://live1.trendgallary.com/live/13376942_72de1c8e1e798109d57044e59b11f52f_h1080p.m3u8
 Internacional RS vs Bahia	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d699.m3u8?auth_key=1773587041-0-0-23b4e81dde947665d2329a8ae858f420
+Internacional RS vs Bahia	https://live2.trendgallary.com/live/13376943_9a72467ad442eb6cab350d3cdd35f36e_h1080p.m3u8
 Santos vs Corinthians Paulista	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d698.m3u8?auth_key=1773587041-0-0-68b83947d4bf68385459572020b1d49a
 Santos vs Corinthians Paulista	https://live3.trendgallary.com/live/13376945_96d5980b0fbe2d3fad91a2f19c68df1b_h1080p.m3u8
 
