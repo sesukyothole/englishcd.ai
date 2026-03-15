@@ -43,6 +43,7 @@ Geylang vs Albirex	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60ecb.m3u8?aut
 
 20:00 [y]Spanish La Liga[z]	^-
 Mallorca vs RCD Espanyol	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60daa.m3u8?auth_key=1773582233-0-0-ff074d3b89236a87c978d05eb941c922
+Mallorca vs RCD Espanyol	https://live1.trendgallary.com/live/12562109_297ee3c24a4f0f5a2ff967967baa7195_h1080p.m3u8
 
 20:00 [g]Danish Superliga[z]	^-
 Midtjylland vs Nordsjaelland	https://bo2.qiuxun.tv/sla/1-69ac98e613e29df893dc55b9.m3u8?auth_key=1773582233-0-0-438637fa13f164566f73151c13495326
@@ -62,7 +63,9 @@ Persija Jakarta vs Dewa United	https://live1.trendgallary.com/live/34kgmiop808ie
 
 20:30 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs Heracles Almelo	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db7.m3u8?auth_key=1773584188-0-0-fd328ec2c6153d6aa027210b15440890
+AZ Alkmaar vs Heracles Almelo	https://live.trendgallary.com/live/12483634_10315908755095a2ef3356ef457674dc_h1080p.m3u8
 Feyenoord vs Excelsior SBV	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60db2.m3u8?auth_key=1773584188-0-0-554001c6c82f9a50c86cd5c4075ee456
+Feyenoord vs Excelsior SBV	https://live.trendgallary.com/live/12483636_fae36d924812682695db49c009efd1e1_h1080p.m3u8
 
 20:30 Malaysian Super League	^-
 DPMM FC vs Johor Darul Takzim	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c8735f.m3u8?auth_key=1773584188-0-0-c04800044b1a0bbb23d0c3e5b1f503a6
