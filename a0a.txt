@@ -28,32 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 16.03.2026	^-
 
-04:00 [g]CHI Liga de Primera[z]	^-
-Cobresal vs Deportes Limache	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6bc.m3u8?auth_key=1773587041-0-0-3874d01b508d9b3cd689a3848741d769
-Cobresal vs Deportes Limache	https://live.trendgallary.com/live/13457748_59c4884855d966dde5cd71435588fd9c_h1080p.m3u8
-
-04:00 [g]CAF Champions League[z]	^-
-Esperance Sport Tunis vs Al Ahly SC	https://bo2.qiuxun.tv/sla/1-69a639a4ed06fc5dfdb267a3.m3u8?auth_key=1773617783-0-0-65a13f0434aab4203610300770bf1eab
-Esperance Sport Tunis vs Al Ahly SC	https://feijing-xzbonlinepull.52kq.top/live/202_5064372_1.flv?txSecret=25ceb48d35811664cd256720b4669f74&txTime=69b757c8
-
-04:10 [g]Categoría Primera A[z]	^-
-America de Cali vs Deportes Tolima	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515744.m3u8?auth_key=1773587041-0-0-24fc7e97792858006238ff4214db67c0
-America de Cali vs Deportes Tolima	https://live.trendgallary.com/live/13452672_ffe1267f42232f80cd98c13659147e2e_h1080p.m3u8
-
-04:30 [g]Brazilian Serie A[z]	^-
-Coritiba PR vs Remo Belem PA	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515745.m3u8?auth_key=1773618734-0-0-bc66161aa9cd8ef39217c079381fc785
-Coritiba PR vs Remo Belem PA	https://live5.trendgallary.com/live/13376940_8b30ba03e8ea71660f48cf0ac263881f_h1080p.m3u8
-Palmeiras vs Mirassol	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515746.m3u8?auth_key=1773618734-0-0-bff8367b8c07e6e6ffe1663ef1a91309
-Palmeiras vs Mirassol	https://live4.trendgallary.com/live/13376944_a09c79288797d132fc4b25ad252879c7_h1080p.m3u8
-
-05:00 [g]CAF Confederation Cup[z]	^-
-Olympique Safi vs Wydad Casablanca	https://bo2.qiuxun.tv/sla/1-69a5124ca870a877948c83fc.m3u8?auth_key=1773619048-0-0-f01762142701a2f52da9764811149cc0
-Olympique Safi vs Wydad Casablanca	https://live.trendgallary.com/live/13599304_2dec0f95db3ebc2642828fa651845e1f_h1080p.m3u8
-
-05:45 [g]Argentine Division 1[z]	^-
-River Plate vs Sarmiento Junin	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6ad.m3u8?auth_key=1773619048-0-0-6a5461b75bd8cd82207a41459d4a6727
-River Plate vs Sarmiento Junin	https://live.trendgallary.com/live/13376083_8dbb4a2fccf886696de6596003dbe460_h1080p.m3u8
-
 06:00 [g]US Major League Soccer[z]	^-
 SJ Earthquakes vs Seattle Sounders	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151574b.m3u8?auth_key=1773634713-0-0-4518003aac9660a5a0bdd21dfc11e8ef
 
@@ -82,6 +56,12 @@ Club America vs Mazatlan FC	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515751
 
 08:30 [g]Categoría Primera A[z]	^-
 Atletico Barranquilla vs Fortaleza	https://bo2.qiuxun.tv/sla/1-69972c81b90519b461515752.m3u8?auth_key=1773619048-0-0-2feeed5f5e8b97e4b7dda536e3198e68
+
+17.03.2026	^-
+
+01:30 [g]Argentine Division 1[z]	^-
+Barracas Central vs Atletico Tucuman	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6a7.m3u8?auth_key=1773643181-0-0-0d6a9c8065887ddb1cba669945b62e0e
+Aldosivi Mar del Plata vs CA Huracan	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6ab.m3u8?auth_key=1773643181-0-0-58a1b144d729a7f62e26155e6dc8ed44
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
