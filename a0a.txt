@@ -3,6 +3,7 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
+^=List	`0https://env-00jxh1c541d5.dev-hz.cloudbasefunction.cn/lives/list?auth=668ffd35149854502cd5190f
 ^=Blank	
 ^=	^-
 
@@ -25,11 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
-
-16.03.2026	^-
-
-19:30 [g]Singapore Premier League[z]	^-
-Tanjong Pagar Utd vs Tampines Rovers	https://bo2.qiuxun.tv/sla/1-69972c81b90519b46151575c.m3u8?auth_key=1773668693-0-0-5b7e0de15e8a17bdf434412759e08f95
 
 17.03.2026	^-
 
