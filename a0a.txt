@@ -29,42 +29,51 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 17.03.2026	^-
 
-01:30 [g]Danish Superliga[z]	^-
-Silkeborg vs Vejle	https://bo2.qiuxun.tv/sla/1-69acb4fea802499a30a9de63.m3u8?auth_key=1773668693-0-0-3c53bafc339a188f3a473dde5016f8e6
+01:00 [g]Danish Superliga[z]	^-
+Silkeborg vs Vejle	`Fhttps://www.fctv33.net/football/danish-superliga-match-4371467/silkeborg-vs-vejle.html
 
 01:30 [g]Argentine Division 1[z]	^-
-Barracas Central vs Atletico Tucuman	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6a7.m3u8?auth_key=1773668693-0-0-6977e52c85083d2f0e6fcbb2592f000c
-Aldosivi Mar del Plata vs CA Huracan	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6ab.m3u8?auth_key=1773668693-0-0-95c7234116106da1036d810690849002
+Barracas Central vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321993/barracas-central-vs-atletico-tucuman.html
+Aldosivi Mar del Plata vs CA Huracan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321998/aldosivi-mar-del-plata-vs-ca-huracan.html
 
 02:45 [y]Italian Serie A[z]	^-
-Cremonese vs Fiorentina	https://bo2.qiuxun.tv/sla/1-6995db002d9d4df4728f6b19.m3u8?auth_key=1773668693-0-0-c35965ed2cbcf36c9fe2fd2ef6a494a2
+Cremonese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194757/cremonese-vs-fiorentina.html
 
 03:00 [y]English Premier League[z]	^-
-Brentford vs Wolves	https://bo2.qiuxun.tv/sla/1-69987dfdcbe5c88a558f0c20.m3u8?auth_key=1773668693-0-0-2f8c4c1be5f9e118ea76c910287d5bab
+Brentford vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194006/brentford-vs-wolverhampton-wanderers.html
 
 03:00 [g]English Football League Champ[z]	^-
-Portsmouth vs Derby County	https://bo2.qiuxun.tv/sla/1-6994897f9f151a19a6c87383.m3u8?auth_key=1773668693-0-0-dbe9d5bce38b9980fb23d6e007be2854
+Portsmouth vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203918/portsmouth-vs-derby-county.html
 
 03:00 [y]Spanish La Liga[z]	^-
-Rayo Vallecano vs Levante	https://bo2.qiuxun.tv/sla/1-6995db0002bc90c280b60da9.m3u8?auth_key=1773668693-0-0-e19b105624746360cc457bfb0e39bf0e
+Rayo Vallecano vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209823/rayo-vallecano-vs-levante.html
 
 04:00 [g]CHI Liga de Primera[z]	^-
-Union La Calera vs O.Higgins	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b6.m3u8?auth_key=1773668693-0-0-3f10cdccffd70523667381b1184113c0
+Union La Calera vs O.Higgins	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330149/union-la-calera-vs-ohiggins.html
 
 04:30 [g]Argentine Division 1[z]	^-
-San Lorenzo vs Defensa Y Justicia	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b4.m3u8?auth_key=1773668693-0-0-49897317bf2e1f0025bbea9c73f7e798
+San Lorenzo vs Defensa Y Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321987/san-lorenzo-vs-defensa-y-justicia.html
 
 06:00 [g]Argentine Division 1[z]	^-
-Racing Club vs Estudiantes Rio	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6b0.m3u8?auth_key=1773668693-0-0-88e1a1c3fb80fb1c3fedaf67c810b566
+Racing Club vs Estudiantes Rio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322005/racing-club-de-avellaneda-vs-estudiantes-rio-cuarto.html
 
 06:00 [g]Brazilian Serie A[z]	^-
-Chapecoense SC vs Gremio RS	https://bo2.qiuxun.tv/sla/1-69987dfdcbe5c88a558f0c26.m3u8?auth_key=1773668693-0-0-d8cd6408cf489c30ef557bea2f0c49e2
+Chapecoense SC vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324035/chapecoense-sc-vs-gremio.html
 
 06:30 [g]CHI Liga de Primera[z]	^-
-Colo Colo vs Huachipato	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6bb.m3u8?auth_key=1773668693-0-0-a4b330da567a29b86f1ddd17289b693e
+Colo Colo vs Huachipato	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330153/colo-colo-vs-huachipato.html
 
 08:15 [g]Argentine Division 1[z]	^-
-Instituto vs Independiente	https://bo2.qiuxun.tv/sla/1-69972c81c07d618fc5c9d6aa.m3u8?auth_key=1773668693-0-0-1ab2d728200563c8c81020c6da75e197
+Instituto vs Independiente	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321991/instituto-de-crdoba-vs-ca-independiente.html
+
+15:00 [g]Australia A-League[z]	^-
+Sydney FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282201/sydney-fc-vs-melbourne-city.html
+
+17:00 [l]AFC Women’s Asian Cup[z]	^-
+China vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364107/china-women-vs-australia-women.html
+
+17:30South Korea: Korean K League 1[z]	^-
+Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336045/gimcheon-sangmu-football-club-vs-gwangju-football-club.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
