@@ -3,7 +3,6 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
-^=List	`0https://env-00jxh1c541d5.dev-hz.cloudbasefunction.cn/lives/list?auth=668ffd35149854502cd5190f
 ^=Blank	
 ^=	^-
 
@@ -29,25 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 17.03.2026	^-
 
-02:45 [y]Italian Serie A[z]	^-
-Cremonese vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194757/cremonese-vs-fiorentina.html
-Cremonese vs Fiorentina	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-
-03:00 [y]English Premier League[z]	^-
-Brentford vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194006/brentford-vs-wolverhampton-wanderers.html
-Brentford vs Wolves	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-Brentford vs Wolves	https://zb-play.gpycvac.com/public/628621218_1773690345_gqzm.flv?txSecret=ba42c5264c14c600f869ffe20d9049c4&txTime=69B8B975
-
-03:00 [g]English Football League Champ[z]	^-
-Portsmouth vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203918/portsmouth-vs-derby-county.html
-Portsmouth vs Derby County	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-Portsmouth vs Derby County	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4351613.flv%3FtxSecret%3D31e2067f9e5850cb80014be6a736db22%26txTime%3D69B8B887&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=0&hotkey=true
-
-03:00 [y]Spanish La Liga[z]	^-
-Rayo Vallecano vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209823/rayo-vallecano-vs-levante.html
-Rayo Vallecano vs Levante	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-Rayo Vallecano vs Levante	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4358968.flv%3FtxSecret%3Da222b8ba01c25be03e16a359c8c537c9%26txTime%3D69B8B482&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=0&hotkey=true
-
 04:00 [g]CHI Liga de Primera[z]	^-
 Union La Calera vs O.Higgins	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330149/union-la-calera-vs-ohiggins.html
 
@@ -72,7 +52,7 @@ Sydney FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league
 17:00 [l]AFC Women’s Asian Cup[z]	^-
 China vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364107/china-women-vs-australia-women.html
 
-17:30South Korea: Korean K League 1[z]	^-
+17:30 [g]South Korea: Korean K League 1[z]	^-
 Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336045/gimcheon-sangmu-football-club-vs-gwangju-football-club.html
 
 	^-
