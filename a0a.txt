@@ -28,18 +28,15 @@
 
 17.03.2026	^-
 
-15:00 [g]Australia A-League[z]	^-
-Sydney FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282201/sydney-fc-vs-melbourne-city.html
-Sydney FC vs Melbourne City	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4426703.flv%3FtxSecret%3Def10106b40b706f4b2fb523d9f5c71bc%26txTime%3D69B96071&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=0&hotkey=true
-Sydney FC vs Melbourne City	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-
 17:00 [l]AFC Women’s Asian Cup[z]	^-
 China vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364107/china-women-vs-australia-women.html
 China vs Australia	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+China vs Australia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuPtT4GWNZCbSJCiy.m3u8
 
 17:30 [g]South Korea: Korean K League 1[z]	^-
 Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336045/gimcheon-sangmu-football-club-vs-gwangju-football-club.html
 Gimcheon Sangmu vs Gwangju FC	`0https://www.marza12.shop/football/2929573-gimcheon-sangmu-fc-vs-gwangju-football-club.html
+Gimcheon Sangmu vs Gwangju FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWuHov5sN2gof.m3u8
 
 18.03.2026	^-
 
