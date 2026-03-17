@@ -26,16 +26,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-17.03.2026	^-
-
-17:00 [l]AFC Women’s Asian Cup[z]	^-
-China vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364107/china-women-vs-australia-women.html
-China vs Australia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuPtT4GWNZCbSJCiy.m3u8
-
-17:30 [g]South Korea: Korean K League 1[z]	^-
-Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336045/gimcheon-sangmu-football-club-vs-gwangju-football-club.html
-Gimcheon Sangmu vs Gwangju FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWuHov5sN2gof.m3u8
-
 18.03.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
@@ -45,9 +35,11 @@ Fenerbahce vs Gazisehir Gaziantep	https://32tech0steam0dp01.org/test/matchtv/chu
 00:45 [y]UEFA Champions League[z]	^-
 Sporting CP vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364825/sporting-cp-vs-bodo-glimt.html
 Sporting CP vs Bodo Glimt	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+Sporting CP vs Bodo Glimt	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLATLxRaMGhz5.m3u8
 
 01:00 [g]Switzerland Super League[z]	^-
 St. Gallen vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4347991/st-gallen-vs-lugano.html
+St. Gallen vs Lugano	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNP6W62CzDYBxN9.m3u8
 
 02:45 [g]English Football League Champ[z]	^-
 Watford vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203761/watford-vs-wrexham.html
@@ -55,10 +47,13 @@ Watford vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-cha
 03:00 [y]UEFA Champions League[z]	^-
 Manchester City vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363370/manchester-city-vs-real-madrid.html
 Manchester City vs Real Madrid	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+Manchester City vs Real Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLAToLC27Bhpq.m3u8
 Chelsea vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4361954/chelsea-vs-paris-saint-germain.html
 Chelsea vs Paris Saint Germain	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+Chelsea vs Paris Saint Germain	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLATiwEH9XsX3.m3u8
 Arsenal vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364823/arsenal-vs-bayer-04-leverkusen.html
 Arsenal vs Bayer Leverkusen	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+Arsenal vs Bayer Leverkusen	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLAxnknq8BnAh.m3u8
 
 04:10 [g]Categoría Primera A[z]	^-
 Llaneros FC vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331533/llaneros-fc-vs-cucuta-deportivo.html
