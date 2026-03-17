@@ -1,10 +1,6 @@
 	^-
 	^-
 ^=	^-
-^=test 0	`0https://embed.infobets.top/match2/fenerbahce-vs-gaziantep-BMXNXLPF
-^=test 1	`1https://embed.infobets.top/match2/fenerbahce-vs-gaziantep-BMXNXLPF
-^=test 2	`2https://embed.infobets.top/match2/fenerbahce-vs-gaziantep-BMXNXLPF
-^=test 3	`3https://embed.infobets.top/match2/fenerbahce-vs-gaziantep-BMXNXLPF
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=Live Sports TV	`0https://www.marza12.shop/football.html
@@ -44,50 +40,50 @@ Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-
 18.03.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
-Fenerbahce vs Gazisehir Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216859/fenerbahce-vs-gazisehir-gaziantep-03-2026.html
+Fenerbahce vs Gazisehir Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216859/fenerbahce-vs-gazisehir-gaziantep.html
 
-Europe: UEFA Champions League
-00:45
-Sporting CP vs Bodo Glimt
-Switzerland: Switzerland Super League
-01:00
-St. Gallen vs Lugano
-Europe: UEFA Champions League
-03:00
-Chelsea vs Paris Saint Germain (PSG)
-03:00
-Manchester City vs Real Madrid
-03:00
-Arsenal vs Bayer Leverkusen
-Colombia: Categoría Primera A
-04:10
-Llaneros FC vs Cucuta
-Argentina: Argentine Division 1
-05:00
-Lanus vs Newells Old Boys
-Brazil: Brazilian Cup
-05:00
-Nova Iguacu vs Fortaleza
-Colombia: Categoría Primera A
-06:20
-Atletico Bucaramanga vs Deportiva Once Caldas
-Argentina: Argentine Division 1
-07:15
-Gimnasia Mendoza vs Estudiantes La Plata
-07:15
-Central Cordoba SDE vs Deportivo Riestra
-Brazil: Brazilian Cup
-07:30
-Portuguesa Desportos vs SC Paysandu Para
-07:30
-Londrina PR vs Operario Ferroviario PR
-North America: CONCACAF Champions Cup
-08:00
-Alajuelense vs Los Angeles FC
-Colombia: Categoría Primera A
-08:30
-Millonarios vs Atletico Nacional Medellin
+00:45 [y]UEFA Champions League[z]	^-
+Sporting CP vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364825/sporting-cp-vs-bodo-glimt.html
 
+01:00 [g]Switzerland Super League[z]	^-
+St. Gallen vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4347991/st-gallen-vs-lugano.html
+
+02:45 [g]English Football League Champ[z]	^-
+Watford vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203761/watford-vs-wrexham.html
+
+03:00 [y]UEFA Champions League[z]	^-
+Chelsea vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4361954/chelsea-vs-paris-saint-germain.html
+Manchester City vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363370/manchester-city-vs-real-madrid.html
+Arsenal vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364823/arsenal-vs-bayer-04-leverkusen.html
+
+04:10 [g]Categoría Primera A[z]	^-
+Llaneros FC vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331533/llaneros-fc-vs-cucuta-deportivo.html
+
+05:00 [g]Argentine Division 1[z]	^-
+Lanus vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321872/club-atltico-lans-vs-club-atltico-newells-old-boys.html
+
+05:00 [g]Brazilian Cup[z]	^-
+Nova Iguacu vs Fortaleza	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372388/nova-iguacu-vs-fortaleza.html
+
+06:20 [g]Categoría Primera A[z]	^-
+Atl Bucaramanga vs Dep Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331527/atletico-bucaramanga-vs-deportiva-once-caldas.html
+
+07:15 [g]Argentine Division 1[z]	^-
+Gimnasia Mendoza vs Estudiant Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321854/gimnasia-y-esgrima-de-mendoza-vs-estudiantes-la-plata.html
+Central Cordoba vs Dep Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321988/central-cordoba-sde-vs-deportivo-riestra.html
+
+07:30 [g]Brazilian Cup[z]	^-
+Portuguesa Desp vs Paysandu Para	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372390/portuguesa-desportos-vs-sc-paysandu-para.html
+Londrina PR vs Operario Ferroviario	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372391/londrina-pr-vs-operario-ferroviario-pr.html
+
+08:00 [g]CONCACAF Champions Cup[z]	^-
+Alajuelense vs Los Angeles FC	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361655/ld-alajuelense-vs-los-angeles-fc.html
+
+08:30 [g]Categoría Primera A[z]	^-
+Millonarios vs Nacional Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331534/millonarios-vs-atletico-nacional-medellin.html
+
+10:00 [g]CONCACAF Champions Cup[z]	^-
+CDSyC Cruz Azul vs Monterrey	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361161/cruz-azul-vs-monterrey.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
