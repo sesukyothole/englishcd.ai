@@ -43,7 +43,7 @@ Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-
 18.03.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
-Fenerbahce vs Gazisehir Gaziantep	`0https://embed.infobets.top/match2/fenerbahce-vs-gaziantep-BMXNXLPF
+Fenerbahce vs Gazisehir Gaziantep	`0https://embed.infobets.top/api/match2/fenerbahce-vs-gaziantep-BMXNXLPF
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
