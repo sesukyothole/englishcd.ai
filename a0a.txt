@@ -28,9 +28,6 @@
 
 17.03.2026	^-
 
-08:15 [g]Argentine Division 1[z]	^-
-Instituto vs Independiente	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321991/instituto-de-crdoba-vs-ca-independiente.html
-
 15:00 [g]Australia A-League[z]	^-
 Sydney FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282201/sydney-fc-vs-melbourne-city.html
 
@@ -43,7 +40,51 @@ Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-
 18.03.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
-Fenerbahce vs Gazisehir Gaziantep	`0https://embed.infobets.top/api/match2/fenerbahce-vs-gaziantep-BMXNXLPF
+Fenerbahce vs Gazisehir Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216859/fenerbahce-vs-gazisehir-gaziantep-03-2026.html
+
+
+Europe: UEFA Champions League
+00:45
+Sporting CP vs Bodo Glimt
+Switzerland: Switzerland Super League
+01:00
+St. Gallen vs Lugano
+Europe: UEFA Champions League
+03:00
+Chelsea vs Paris Saint Germain (PSG)
+03:00
+Manchester City vs Real Madrid
+03:00
+Arsenal vs Bayer Leverkusen
+Colombia: Categoría Primera A
+04:10
+Llaneros FC vs Cucuta
+Argentina: Argentine Division 1
+05:00
+Lanus vs Newells Old Boys
+Brazil: Brazilian Cup
+05:00
+Nova Iguacu vs Fortaleza
+Colombia: Categoría Primera A
+06:20
+Atletico Bucaramanga vs Deportiva Once Caldas
+Argentina: Argentine Division 1
+07:15
+Gimnasia Mendoza vs Estudiantes La Plata
+07:15
+Central Cordoba SDE vs Deportivo Riestra
+Brazil: Brazilian Cup
+07:30
+Portuguesa Desportos vs SC Paysandu Para
+07:30
+Londrina PR vs Operario Ferroviario PR
+North America: CONCACAF Champions Cup
+08:00
+Alajuelense vs Los Angeles FC
+Colombia: Categoría Primera A
+08:30
+Millonarios vs Atletico Nacional Medellin
+
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
