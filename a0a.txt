@@ -43,9 +43,11 @@ Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-
 
 00:00 [g]Turkish Super League[z]	^-
 Fenerbahce vs Gazisehir Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216859/fenerbahce-vs-gazisehir-gaziantep.html
+Fenerbahce vs Gazisehir Gaziantep	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
 
 00:45 [y]UEFA Champions League[z]	^-
 Sporting CP vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364825/sporting-cp-vs-bodo-glimt.html
+Sporting CP vs Bodo Glimt	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 
 01:00 [g]Switzerland Super League[z]	^-
 St. Gallen vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4347991/st-gallen-vs-lugano.html
@@ -54,9 +56,12 @@ St. Gallen vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-
 Watford vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203761/watford-vs-wrexham.html
 
 03:00 [y]UEFA Champions League[z]	^-
-Chelsea vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4361954/chelsea-vs-paris-saint-germain.html
 Manchester City vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363370/manchester-city-vs-real-madrid.html
+Manchester City vs Real Madrid	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+Chelsea vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4361954/chelsea-vs-paris-saint-germain.html
+Chelsea vs Paris Saint Germain	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 Arsenal vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364823/arsenal-vs-bayer-04-leverkusen.html
+Arsenal vs Bayer Leverkusen	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 
 04:10 [g]Categoría Primera A[z]	^-
 Llaneros FC vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331533/llaneros-fc-vs-cucuta-deportivo.html
@@ -86,6 +91,7 @@ Millonarios vs Nacional Medellin	`Fhttps://www.fctv33.net/football/categoria-pri
 
 10:00 [g]CONCACAF Champions Cup[z]	^-
 CDSyC Cruz Azul vs Monterrey	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361161/cruz-azul-vs-monterrey.html
+CDSyC Cruz Azul vs Monterrey	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
