@@ -33,18 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 17.03.2026	^-
 
-06:00 [g]Argentine Division 1[z]	^-
-Racing Club vs Estudiantes Rio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322005/racing-club-de-avellaneda-vs-estudiantes-rio-cuarto.html
-Racing Club vs Estudiantes Rio	https://pullsgp.yyzb456.top/live/stream-551893_lhd.flv?auth_key=1773706371-0-0-5a37723b910dd7bf920b2233a95bf746
-
-06:00 [g]Brazilian Serie A[z]	^-
-Chapecoense SC vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324035/chapecoense-sc-vs-gremio.html
-Chapecoense SC vs Gremio RS	https://pullsgp.yyzb456.top/live/stream-238362_lhd.flv?auth_key=1773705831-0-0-6d0de83145c47a3af4a59abd527d904d
-
-06:30 [g]CHI Liga de Primera[z]	^-
-Colo Colo vs Huachipato	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330153/colo-colo-vs-huachipato.html
-Colo Colo vs Huachipato	https://liveplay1.camel4.live/live/sd-6MvYquUNnJNSevoarb.m3u8?txSecret=708876eec39762c638ebd36e2a46c709&txTime=69B8A46C&lat=9000
-
 08:15 [g]Argentine Division 1[z]	^-
 Instituto vs Independiente	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321991/instituto-de-crdoba-vs-ca-independiente.html
 
@@ -56,6 +44,11 @@ China vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-
 
 17:30 [g]South Korea: Korean K League 1[z]	^-
 Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336045/gimcheon-sangmu-football-club-vs-gwangju-football-club.html
+
+18.03.2026	^-
+
+00:00 [g]Turkish Super League[z]	^-
+Fenerbahce vs Gazisehir Gaziantep	`0https://embed.infobets.top/match2/fenerbahce-vs-gaziantep-BMXNXLPF
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -195,6 +188,9 @@ beIN Sports TR 5	https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs
 beIN Sports TR Max	https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
 beIN Sports X	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8
+DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb563e1e796c628d84cb3d78d1f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da86852db80148b6f4adafb8c2360625f5c98435ee3b24aa7ade80f42de68a9ac1d1a977b58e68314c8c915bd82d64699458e72f3429897a48bd414e0f8ab4191d2613d733a0f44dbe85492c55cafc993684bf31b4a672d252d270e9c3458a7544a5d829f81df37bc7b46ee54e10057db60f82ba449ea0bca69c7a17280e7d7fe514838ebef4e622fa9eba7b0365459b24bf4b8e0d17f7dd6a35a2807815ad12c2f3787ee8b3ab08344c6f873def45e143696c51edb85e4d7a6f0ac5a8c29cff0f19a164b5a2c5151d113f1cc2d9302f54c85e25f6150444fa8da72c185d25179226c8e9251d91654e88fdecd8f406b84305b69e966d8490c2399673b32b67b8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f6b4a165f060e8b90fa88621a17f335407f3bf6c684c4279dff9754f575dc656efc7c5f17d6b52ba17ac5017849561171381b0dcb8980b3554714b99c31bfb/26/854x480_1821600/index.m3u8
+F1 Italy	https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=PmzCRLgZpgmP3ygroDqj7A
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
@@ -207,6 +203,7 @@ Laliga TV HyperMotion	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/e
 Match RU	https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+MotorSport 1	https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/ts-us-w2-n1/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb573b176573648e84cf3b78d2f04182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe35b17d939f0b7011e917a41fa83439fd401ea84d55a83438471f113c99bf6ded419838cb1599e06e627475c2f7cebe513f0910eef80f503519d753b081951f6b1e19d245dd61d0a3691fecfac2bf816c09b20f31c5dc1338840962499278b1cb3ee0e92acb8d64c467581ca5c6d2eb3edfaff915b32b975b5b7fae2636e90e0157b5ebb0eb2437b62e197ac1580d05b84b827f7d2037921c7c740c1e7d8eeeeb49e048f2dc5d0e091294e4b116d68e17096a85eeb1d8c22dca47f20585e0aa19b5bc393d85935102bece25bda496fd3bd8a87cc402dcc12713080328909533c9d653526b647909b387fc72304930a34891e5fc443aeed2df3a4ddb24b3aec8ac20fab36e9e747d0a352f120640b55e3f6740f461a2c85ba3c7b5a11c241f79dc4e07a0c72869da5dac9402c1536236456ca8888719f9d8e280d06fe4523726719189876b803b35219527f994b82ff5824d1577b428cc03e59492291cdbef3e3bca8718625eaa591382b281768b82a12297cd7a5ff70971f46716e52921c744caf13490ef894caec978722c29572af78701560ccfe100d1a427c711e88dc7bc24ee7811fb090cf10c1e0991d578625a00d15d2c3c97cfdff82c65d4393ab454327fdbe26c16063c41bdd2e86c64fd1a02769765117118cdf05af11ec8bd4957acb76de25697fee6bf594e6bad16e4295f420506251054d07381b2d08ab94d66b0e6fe9b233ef59948c3fcc100763661e84fa6a3087ec64528f216c65a4addf92bdcf7176a00af87cdf6559d13d632fe5df76ee86a4faf98242550bdcc4ce26d8968d839694a0567f0f7f7e9fc4495c74dd0ff4b81ef1a86f1285e587ead96f9b46f63aa985b12bbe4ccaa2bd0abdde9ef1eb67162c393d9d91ad8f7eb0bd0e56f568d3423a27958e96920f9f89e85f21b0258aeb066abd706d55c6bcc905dc22b6e14b4c8de35d6f985368bc8a8d2718db6ab4283d6ad2cc956b3cc0d106965ee9f29d6a65ad2a4fb31d270bc27dfe94f16c7fe8af1c0454d20203fe10eead80050925f8c8144f430c080647c6495838ec4c0fcf79e1b6b2eb284afb008e1c71ba69a6d158a3a72fefe7c1f4a1f73160b4856b7c9726c629e87494a1e59239a0402fae789f1b6fa3adb694a0e8cea4dbcd114e0ecc31f16ec9728988a59061746010b65c6d0479aa45965b532cfebc54ceb4036883c8f400c6255b4b0c1133db10b19221515526fb8517fc8f3013030631ecd048be00b84c1d812514d77b3e48606d2640a6848318d127c872bfe06604f097b6b62fe8a24db9f6e3b7e2195892085d243a98b39cdfd44423f5978fb2347c84ec6aa709075c41e1cda74561bfaf5422fcb1c371abb570881c331e66c680ab40a415e51fde6d6cea0f80a53607bc8c182775802f9fdc7c45a36fe70e0d99159c5417b128481b6377c517ad66027a67e26d9fd7a74f21028b17c3270646c6d9e38da23f461c11580e23676c41ae2a4dd1093a0ba302369dd3fcad84e7f06f7c798f21d2def5f06e23dedff2b3be6fea6cb7c7ca91afc78c981d5ac9b12656ccfd699172ac904c8734eca396823973d4a063814e5d67db66701caeb00214c4ad8f8195f4029b57b86c9dfe8be3d367c5de8d052bea3a76f652c820a259040a6fcb72aa8a695a0f7d5c619c6a0aa5abe1c393ab288083bd2ffcfa0579e2c080469cd26b03c774b7367ea04319c31db140bee76352715727ed7a03bc2a8d5a4534eaa99e18b0a02451677805d2519542f83be36d2d283e4cd78914e888880334792d530ab29b5d970a239d745f508d8337f9a8be48c60485d1e2f254314a0a75bd2c7d4479c045604641a6a5f7dd1e3df41f8b5211adfce7db10527ac08a2ac4d06509a5beff27e93ed902c572fb36591949d5534a1ca1252b0733731523dc177db3cadb819e13fb0bc13f7b9d74c12974c3e1233fc8ec7f97cd66867c0b8128beecff9772fa1b5de8f480bf370f7aa42e32addc97ca587dfeb2454b9e18598dc04afdbf1f9e1d7bc5ee2a682d89c98e5328874dbb2ad90e1502/80/1920x1080_5058864/index.m3u8
 Premier Sports 1	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd!!1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 Premier Sports 2	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd!!1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 Sky Sport Arena	https://cc1.screenistream.xyz:8080/stream/235/index.m3u8?token=T4Nz6WCt2Uwlqma4
@@ -223,12 +220,16 @@ SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.
 SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
+Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
 Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Tennis Channel	https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8
 TNT Sports 1	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 TNT Sports 2	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 TNT Sports 3	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 TNT Sports 4	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
+TVR Sport	https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 Wowow Cinema	https://nl.utako.moe/wcinema/index.m3u8
 Wowow Live	https://nl.utako.moe/wlive/index.m3u8
@@ -388,8 +389,6 @@ SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 Varzhes	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
-Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
-Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
 Game TV	https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 Fubo Sports 1	https://livetv-fa.tubi.video/fubo/5.m3u8
 Golf TV	https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
