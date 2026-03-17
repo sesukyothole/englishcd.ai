@@ -3,7 +3,6 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
-^=Test 0	`0https://857zb4.cc/room/551893
 ^=Blank	
 ^=	^-
 
