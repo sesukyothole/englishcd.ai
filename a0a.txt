@@ -39,12 +39,14 @@ China vs Australia	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/e
 
 17:30 [g]South Korea: Korean K League 1[z]	^-
 Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336045/gimcheon-sangmu-football-club-vs-gwangju-football-club.html
+Gimcheon Sangmu vs Gwangju FC	`0https://www.marza12.shop/football/2929573-gimcheon-sangmu-fc-vs-gwangju-football-club.html
 
 18.03.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
 Fenerbahce vs Gazisehir Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216859/fenerbahce-vs-gazisehir-gaziantep.html
-Fenerbahce vs Gazisehir Gaziantep	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+Fenerbahce vs Gazisehir Gaziantep	https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+Fenerbahce vs Gazisehir Gaziantep	`0https://live.samuraitv.biz.id/p/foxsport.html
 
 00:45 [y]UEFA Champions League[z]	^-
 Sporting CP vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364825/sporting-cp-vs-bodo-glimt.html
@@ -55,6 +57,7 @@ St. Gallen vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-
 
 02:45 [g]English Football League Champ[z]	^-
 Watford vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203761/watford-vs-wrexham.html
+Watford vs Wrexham	`0https://www.marza12.shop/football/2798438-watford-vs-wrexham.html
 
 03:00 [y]UEFA Champions League[z]	^-
 Manchester City vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363370/manchester-city-vs-real-madrid.html
@@ -69,6 +72,7 @@ Llaneros FC vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-matc
 
 05:00 [g]Argentine Division 1[z]	^-
 Lanus vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321872/club-atltico-lans-vs-club-atltico-newells-old-boys.html
+Lanus vs Newells Old Boys	`0https://www.marza12.shop/football/2910211-lanus-vs-newells-old-boys.html
 
 05:00 [g]Brazilian Cup[z]	^-
 Nova Iguacu vs Fortaleza	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372388/nova-iguacu-vs-fortaleza.html
@@ -78,7 +82,9 @@ Atl Bucaramanga vs Dep Once Caldas	`Fhttps://www.fctv33.net/football/categoria-p
 
 07:15 [g]Argentine Division 1[z]	^-
 Gimnasia Mendoza vs Estudiant Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321854/gimnasia-y-esgrima-de-mendoza-vs-estudiantes-la-plata.html
+Gimnasia Mendoza vs Estudiant Plata	`0https://www.marza12.shop/football/2910210-gimnasia-mendoza-vs-estudiantes-la-plata.html
 Central Cordoba vs Dep Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321988/central-cordoba-sde-vs-deportivo-riestra.html
+Central Cordoba vs Dep Riestra	`0https://www.marza12.shop/football/2910209-central-cordoba-sde-vs-deportivo-riestra.html
 
 07:30 [g]Brazilian Cup[z]	^-
 Portuguesa Desp vs Paysandu Para	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372390/portuguesa-desportos-vs-sc-paysandu-para.html
@@ -86,9 +92,11 @@ Londrina PR vs Operario Ferroviario	`Fhttps://www.fctv33.net/football/brazilian-
 
 08:00 [g]CONCACAF Champions Cup[z]	^-
 Alajuelense vs Los Angeles FC	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361655/ld-alajuelense-vs-los-angeles-fc.html
+Alajuelense vs Los Angeles FC	`0https://www.marza12.shop/football/2950808-alajuelense-vs-los-angeles-fc.html
 
 08:30 [g]Categoría Primera A[z]	^-
 Millonarios vs Nacional Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331534/millonarios-vs-atletico-nacional-medellin.html
+Millonarios vs Nacional Medellin	`0https://www.marza12.shop/football/2922219-millonarios-vs-atletico-nacional-medellin.html
 
 10:00 [g]CONCACAF Champions Cup[z]	^-
 CDSyC Cruz Azul vs Monterrey	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361161/cruz-azul-vs-monterrey.html
