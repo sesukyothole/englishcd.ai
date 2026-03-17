@@ -34,6 +34,7 @@ Sydney FC vs Melbourne City	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nit
 
 17:00 [l]AFC Women’s Asian Cup[z]	^-
 China vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364107/china-women-vs-australia-women.html
+China vs Australia	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 
 17:30 [g]South Korea: Korean K League 1[z]	^-
 Gimcheon Sangmu vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336045/gimcheon-sangmu-football-club-vs-gwangju-football-club.html
@@ -227,7 +228,7 @@ CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wm
 Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb563e1e796c628d84cb3d78d1f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da86852db80148b6f4adafb8c2360625f5c98435ee3b24aa7ade80f42de68a9ac1d1a977b58e68314c8c915bd82d64699458e72f3429897a48bd414e0f8ab4191d2613d733a0f44dbe85492c55cafc993684bf31b4a672d252d270e9c3458a7544a5d829f81df37bc7b46ee54e10057db60f82ba449ea0bca69c7a17280e7d7fe514838ebef4e622fa9eba7b0365459b24bf4b8e0d17f7dd6a35a2807815ad12c2f3787ee8b3ab08344c6f873def45e143696c51edb85e4d7a6f0ac5a8c29cff0f19a164b5a2c5151d113f1cc2d9302f54c85e25f6150444fa8da72c185d25179226c8e9251d91654e88fdecd8f406b84305b69e966d8490c2399673b32b67b8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f6b4a165f060e8b90fa88621a17f335407f3bf6c684c4279dff9754f575dc656efc7c5f17d6b52ba17ac5017849561171381b0dcb8980b3554714b99c31bfb/26/854x480_1821600/index.m3u8
 F1 Italy	https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=PmzCRLgZpgmP3ygroDqj7A
-FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+FanCode	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
