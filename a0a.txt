@@ -36,12 +36,15 @@ Watford vs Wrexham	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3KbF7aAXz1
 Manchester City vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363370/manchester-city-vs-real-madrid.html
 Manchester City vs Real Madrid	https://cc1.screenistream.xyz:8080/stream/232/index.m3u8?token=T4Nz6WCt2Uwlqma4
 Manchester City vs Real Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLAToLC27Bhpq.m3u8
+Manchester City vs Real Madrid	`0https://24start.net/homes/blog4/
 Chelsea vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4361954/chelsea-vs-paris-saint-germain.html
 Chelsea vs Paris Saint Germain	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 Chelsea vs Paris Saint Germain	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLATiwEH9XsX3.m3u8
+Chelsea vs Paris Saint Germain	`0https://24start.net/homes/blog2/
 Arsenal vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364823/arsenal-vs-bayer-04-leverkusen.html
 Arsenal vs Bayer Leverkusen	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 Arsenal vs Bayer Leverkusen	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLAxnknq8BnAh.m3u8
+Arsenal vs Bayer Leverkusen	`0https://24start.net/homes/blog3/
 
 04:10 [g]Categoría Primera A[z]	^-
 Llaneros FC vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331533/llaneros-fc-vs-cucuta-deportivo.html
