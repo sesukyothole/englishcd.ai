@@ -31,6 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 00:00 [g]Turkish Super League[z]	^-
 Fenerbahce vs Gazisehir Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216859/fenerbahce-vs-gazisehir-gaziantep.html
 Fenerbahce vs Gazisehir Gaziantep	https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+Fenerbahce vs Gazisehir Gaziantep	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFUHiXSqoJA9.m3u8
 
 00:45 [y]UEFA Champions League[z]	^-
 Sporting CP vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364825/sporting-cp-vs-bodo-glimt.html
@@ -43,6 +44,7 @@ St. Gallen vs Lugano	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNP6W62CzD
 
 02:45 [g]English Football League Champ[z]	^-
 Watford vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203761/watford-vs-wrexham.html
+Watford vs Wrexham	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3KbF7aAXz1Ac5.m3u8
 
 03:00 [y]UEFA Champions League[z]	^-
 Manchester City vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363370/manchester-city-vs-real-madrid.html
