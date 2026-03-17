@@ -3,6 +3,12 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
+^=Test 0	`0https://stream.livenobarseru.com/match/chelsea-vs-paris-saint-germain-1773777600
+^=Test 1	`1https://stream.livenobarseru.com/match/chelsea-vs-paris-saint-germain-1773777600
+^=Test 2	`2https://stream.livenobarseru.com/match/chelsea-vs-paris-saint-germain-1773777600
+^=Test 3	`3https://stream.livenobarseru.com/match/chelsea-vs-paris-saint-germain-1773777600
+^=Test 4	`4https://stream.livenobarseru.com/match/chelsea-vs-paris-saint-germain-1773777600
+^=Test 5	`5https://stream.livenobarseru.com/match/chelsea-vs-paris-saint-germain-1773777600
 ^=Blank	
 ^=	^-
 
