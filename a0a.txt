@@ -3,11 +3,7 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
-^=goals 1	`1https://www.goals365.live/soccer/atletico-atlanta-vs-deportivo-maipu/live/n54qllhnpze7qvy
-^=goals 2	`2https://www.goals365.live/soccer/atletico-atlanta-vs-deportivo-maipu/live/n54qllhnpze7qvy
-^=goals 3	`3https://www.goals365.live/soccer/atletico-atlanta-vs-deportivo-maipu/live/n54qllhnpze7qvy
-^=goals 4	`4https://www.goals365.live/soccer/atletico-atlanta-vs-deportivo-maipu/live/n54qllhnpze7qvy
-^=goals 5	`5https://www.goals365.live/soccer/atletico-atlanta-vs-deportivo-maipu/live/n54qllhnpze7qvy
+^=Live Sports TV	`0https://www.marza12.shop/football.html
 ^=Blank	
 ^=	^-
 
@@ -19,7 +15,6 @@
 	^-
 
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
-Live Sports TV	`0https://www.marza12.shop/football.html
 	^-
 [y]Live Football Events[z]	^-
 
