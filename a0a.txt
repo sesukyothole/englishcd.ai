@@ -30,6 +30,7 @@
 
 15:00 [g]Australia A-League[z]	^-
 Sydney FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282201/sydney-fc-vs-melbourne-city.html
+Sydney FC vs Melbourne City	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 
 17:00 [l]AFC Women’s Asian Cup[z]	^-
 China vs Australia	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364107/china-women-vs-australia-women.html
@@ -251,8 +252,8 @@ SCTV17	https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd!!a7c942778e
 SCTV22	https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 Sporsmart 1	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 Sporsmart 2	https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
 SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
 SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
