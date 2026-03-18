@@ -29,30 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 18.03.2026	^-
 
-18:00 [g]Thai League Cup[z]	^-
-Chonburi Shark vs Thap Luang Utd	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4363309/chonburi-fc-vs-thap-luang-united.html
-Chonburi Shark vs Thap Luang Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5yrfdmhoH79FF3.m3u8
-BG Pathum Utd vs Mahasarakham Utd	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4367619/bg-pathum-united-vs-mahasarakham-sbt-fc.html
-BG Pathum Utd vs Mahasarakham Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5yrfdtJEtYczhj.m3u8
-
-18:00 [g]Azerbaijan Premier League[z]	^-
-Samaxı FC vs Araz Nakhchivan	`Fhttps://www.fctv33.net/football/azerbaijan-premier-league-match-4366883/shamakhi-fk-vs-araz-nakhchivan.html
-Samaxı FC vs Araz Nakhchivan	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6GAPrJPaR6HMnu.m3u8
-
-18:00 [g]Azerbaijan First Division[z]	^-
-Baku Sporting FK vs Mingachevir	`Fhttps://www.fctv33.net/football/azerbaijan-first-division-match-4367591/baku-sporting-fk-vs-mingachevir.html
-Baku Sporting FK vs Mingachevir	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6CuPwm4DywZrxD.m3u8
-Safa Baku vs Shahdagh Qusar	`Fhttps://www.fctv33.net/football/azerbaijan-first-division-match-4367764/safa-baku-vs-shahdagh-qusar.html
-Safa Baku vs Shahdagh Qusar	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6CuPweTnNW67VX.m3u8
-
-18:00 [g]Vietnam National Cup[z]	^-
-SHB Da Nang vs Nam Dinh FC	`Fhttps://www.fctv33.net/football/vietnam-national-cup-match-4371092/shb-da-nang-vs-thep-xanh-nam-dinh-fc.html
-SHB Da Nang vs Nam Dinh FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKPZ8jT5x5QNr1.m3u8
-
-18:15 [l]Philippines League[z]	^-
-Manila Digger vs Aguilas-UMak	`Fhttps://www.fctv33.net/football/philippines-united-football-league-match-4352626/manila-digger-fc-vs-aguilas-umak-fc.html
-Manila Digger vs Aguilas-UMak	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNYqJiYh1gAxE53.m3u8
-
 19:00 [g]Thai League Cup[z]	^-
 Port FC vs Khonkaen United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4365999/port-fc-vs-khonkaen-united.html
 Port FC vs Khonkaen United	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5yrfdxhCdWGq1X.m3u8
