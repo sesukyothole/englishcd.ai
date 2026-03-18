@@ -29,34 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 18.03.2026	^-
 
-04:10 [g]Categoría Primera A[z]	^-
-Llaneros FC vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331533/llaneros-fc-vs-cucuta-deportivo.html
-Llaneros FC vs Cucuta	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrGLKahqVaVbt1.m3u8
-
-05:00 [g]Argentine Division 1[z]	^-
-Lanus vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321872/club-atltico-lans-vs-club-atltico-newells-old-boys.html
-Lanus vs Newells Old Boys	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6Ltkp9AxnYNUkd.m3u8
-
-05:00 [g]Brazilian Cup[z]	^-
-Nova Iguacu vs Fortaleza	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372388/nova-iguacu-vs-fortaleza.html
-
-06:20 [g]Categoría Primera A[z]	^-
-Atl Bucaramanga vs Dep Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331527/atletico-bucaramanga-vs-deportiva-once-caldas.html
-
-07:15 [g]Argentine Division 1[z]	^-
-Gimnasia Mendoza vs Estudiant Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321854/gimnasia-y-esgrima-de-mendoza-vs-estudiantes-la-plata.html
-Gimnasia Mendoza vs Estudiant Plata	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6Ltkyt3TTqh1B3.m3u8
-Central Cordoba vs Dep Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321988/central-cordoba-sde-vs-deportivo-riestra.html
-Central Cordoba vs Dep Riestra	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmKKaxwxW8ry.m3u8
-
-07:30 [g]Brazilian Cup[z]	^-
-Portuguesa Desp vs Paysandu Para	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372390/portuguesa-desportos-vs-sc-paysandu-para.html
-Londrina PR vs Operario Ferroviario	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372391/londrina-pr-vs-operario-ferroviario-pr.html
-
-08:00 [g]CONCACAF Champions Cup[z]	^-
-Alajuelense vs Los Angeles FC	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361655/ld-alajuelense-vs-los-angeles-fc.html
-Alajuelense vs Los Angeles FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLBTbBzHk4Gk5.m3u8
-
 08:30 [g]Categoría Primera A[z]	^-
 Millonarios vs Nacional Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331534/millonarios-vs-atletico-nacional-medellin.html
 Millonarios vs Nacional Medellin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrGLK3w7JrvmjT.m3u8
