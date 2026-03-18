@@ -29,10 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 18.03.2026	^-
 
-23:00 [g]Poland Liga 2[z]	^-
-KP Calisia Kalisz vs Stal Stalowa Wola	`Fhttps://www.fctv33.net/football/poland-liga-2-match-4207795/kks-1925-kalisz-vs-stal-stalowa-wola.html
-KP Calisia Kalisz vs Stal Stalowa Wola	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsVNoPfEPsCD7WD.m3u8
-
 23:45 [g]Poland Liga 2[z]	^-
 Warta Poznan vs Swit Szczecin	`Fhttps://www.fctv33.net/football/poland-liga-2-match-4208072/warta-poznan-vs-swit-szczecin.html
 Warta Poznan vs Swit Szczecin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsVNoPmpqUdgrxu.m3u8
