@@ -28,11 +28,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#	^-
 
 19.03.2026	^-
-00:45 [y]UEFA Champions League[z]	^-
-FC Barcelona vs Newcastle United	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4364101/fc-barcelona-vs-newcastle-united.html
-FC Barcelona vs Newcastle United	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-FC Barcelona vs Newcastle United	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLATsj9m4qY8d.m3u8
-FC Barcelona vs Newcastle United	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd5eLATsj9m4qY8d.m3u8
 
 01:00 [g]Italian Serie B[z]	^-
 Frosinone vs Bari	`Fhttps://www.fctv33.net/football/italian-serie-b-match-4244747/frosinone-vs-bari.html
