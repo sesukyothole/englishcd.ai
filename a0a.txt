@@ -53,13 +53,19 @@ Cerezo Osaka vs Fagiano Okayama	https://streaming.cdnx-sportnobar.xyz/live/sd-6M
 
 17:00 [g]Japanese J1 League[z]	^-
 Avispa Fukuoka vs Shimizu S-Pulse	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331681/avispa-fukuoka-vs-shimizu-s-pulse.html
+Avispa Fukuoka vs Shimizu S-Pulse	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KuFnnyLRnUd.m3u8
 JEF Utd Ichihara Chiba vs FC Tokyo	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331771/jef-united-ichihara-chiba-vs-fc-tokyo.html
 JEF Utd Ichihara Chiba vs FC Tokyo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqnzav2vDWtfWih.m3u8
 Mito Hollyhock vs Yokohama Marinos	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331766/mito-hollyhock-vs-yokohama-f-marinos.html
+Mito Hollyhock vs Yokohama Marinos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqnzav7KBFrKM2V.m3u8
 Nagoya Grampus vs Hiroshima Sanfrecce	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331666/nagoya-grampus-vs-sanfrecce-hiroshima.html
+Nagoya Grampus vs Hiroshima Sanfrecce	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KuLBkiJ5cnR.m3u8
 Tokyo Verdy vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331757/tokyo-verdy-vs-kawasaki-frontale.html
+Tokyo Verdy vs Kawasaki Frontale	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqnzavDucsHo6VB.m3u8
 Vissel Kobe vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331668/vissel-kobe-vs-gamba-osaka.html
+Vissel Kobe vs Gamba Osaka	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KuQaiTFjT6D.m3u8
 V-Varen Nagasaki vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331673/v-varen-nagasaki-vs-kyoto-sanga.html
+V-Varen Nagasaki vs Kyoto Sanga	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KuSnCKjZNF7.m3u8
 
 17:30 [g]Japanese J1 League[z]	^-
 Machida Zelvia vs Kashima Antlers	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331781/machida-zelvia-vs-kashima-antlers.html
