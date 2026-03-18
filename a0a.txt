@@ -29,10 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 19.03.2026	^-
 
-04:10 [g]Categoría Primera A[z]	^-
-Deportivo Pasto vs Boyaca Chico	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331539/deportivo-pasto-vs-boyaca-chico.html
-Deportivo Pasto vs Boyaca Chico	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3XS9L7Tro8DC1.m3u8
-
 05:00 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324031/palmeiras-vs-botafogo-rj.html
 Palmeiras vs Botafogo RJ	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LxSEdtsqZ92uT.m3u8
@@ -44,9 +40,11 @@ Vila Nova vs Confianca SE	`Fhttps://www.fctv33.net/football/brazilian-cup-match-
 
 05:30 [g]Brazilian Serie A[z]	^-
 Athl Paranaense vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324030/athletico-paranaense-vs-cruzeiro-esporte-clube.html
+Athl Paranaense vs Cruzeiro Esporte	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LxTFG7FFkBmCR.m3u8
 
 06:00 [g]Brazilian Serie A[z]	^-
 Atletico Mineiro vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324037/atletico-mineiro-vs-sao-paulo.html
+Atletico Mineiro vs Sao Paulo	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4465642.flv%3FtxSecret%3D1fb4997ec16d7c3efd429ba5bb73c013%26txTime%3D69BB8174&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=0&hotkey=true
 Mirassol vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324067/mirassol-vs-coritiba-pr.html
 
 06:00 [g]CONCACAF Champions Cup[z]	^-
@@ -55,6 +53,7 @@ Inter Miami CF vs Nashville	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22e
 
 06:20 [g]Categoría Primera A[z]	^-
 La Equidad vs Deportivo Pereira	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331529/internacional-de-bogota-vs-deportivo-pereira.html
+La Equidad vs Deportivo Pereira	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrGL9eqwTt3Vh7.m3u8
 
 07:00 [g]Brazilian Cup[z]	^-
 CRB AL vs Figueirense	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372418/crb-al-vs-figueirense.html
