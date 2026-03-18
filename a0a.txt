@@ -29,13 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 19.03.2026	^-
 
-01:00 [g]Italian Serie B[z]	^-
-Frosinone vs Bari	`Fhttps://www.fctv33.net/football/italian-serie-b-match-4244747/frosinone-vs-bari.html
-Frosinone vs Bari	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuPtjMztq6sm7tRTj.m3u8
-
-01:30 [g]Poland Liga 2[z]	^-
-Unia Skierniewice vs Zaglebie Sosnowiec	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsVNoPhRsjg32f7.m3u8
-
 02:00 [y]Italian Serie B[z]	^-
 Pescara vs ACD Virtus Entella	`Fhttps://www.fctv33.net/football/italian-serie-b-match-4244760/pescara-vs-acd-virtus-entella.html
 Pescara vs ACD Virtus Entella	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuPtjNkDz6D1vCjuF.m3u8
@@ -98,6 +91,70 @@ Inter Miami CF vs Nashville	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22e
 
 06:20 [g]Categoría Primera A[z]	^-
 La Equidad vs Deportivo Pereira	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331529/internacional-de-bogota-vs-deportivo-pereira.html
+
+07:00 [g]Brazilian Cup[z]	^-
+CRB AL vs Figueirense	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372418/crb-al-vs-figueirense.html
+
+07:30 [g]Brazilian Serie A[z]	^-
+Vasco da Gama vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324040/clube-de-regatas-vasco-da-gama-vs-fluminense-rj.html
+Santos vs Internacional RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324073/santos-vs-internacional-rs.html
+
+07:30 [g]Categoría Primera A[z]	^-
+Atl Bucaramanga vs Dep Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331527/atletico-bucaramanga-vs-deportiva-once-caldas.html
+
+07:30 [g]Brazilian Cup[z]	^-
+EC Jacuipense vs Gremio Novorizontin	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4372419/ec-jacuipense-vs-gremio-novorizontino.html
+
+08:00 [g]Mexico Ascenso MX[z]	^-
+Tlaxcala FC vs CF Atlante	`Fhttps://www.fctv33.net/football/mexico-ascenso-mx-match-4324787/tlaxcala-fc-vs-atlante-fc.html
+
+08:00 [g]CONCACAF Champions Cup[z]	^-
+Club America vs Philadelphia Union	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4363448/club-america-vs-philadelphia-union.html
+
+08:30 [g]Categoría Primera A[z]	^-
+Deportivo Cali vs Indep Santa Fe	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331532/deportivo-cali-vs-independiente-santa-fe.html
+
+09:00 [g]Mexico Ascenso MX[z]	^-
+Jaiba Brava vs Correcaminos UAT	`Fhttps://www.fctv33.net/football/mexico-ascenso-mx-match-4324780/club-jaiba-brava-vs-correcaminos-de-la-uat.html
+
+09:07 [g]Mexico Liga MX[z]	^-
+Chivas Guadalajara vs Club Leon	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322509/club-deportivo-guadalajara-vs-club-leon.html
+
+10:00 [g]CONCACAF Champions Cup[z]	^-
+Toluca vs San Diego FC	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4334478/south-island-united-fc-vs-bula-fc.html
+Seattle Sounders vs Vancouver WC	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361758/seattle-sounders-vs-vancouver-whitecaps.html
+
+10:00 [l]AFC Women’s Asian Cup[z]	^-
+Uzbekistan vs Philippines	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364105/uzbekistan-women-vs-philippines-women.html
+
+12:00 [g]OFC Pro League[z]	^-
+South Island United vs Bula FC	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4334478/south-island-united-fc-vs-bula-fc.html
+
+15:00 [g]OFC Pro League[z]	^-
+Solomon Kings FC vs South Melbourne	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4334481/solomon-kings-fc-vs-south-melbourne.html
+
+16:00 [l]AFC Women’s Asian Cup[z]	^-
+Chinese Taipei vs North Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364104/chinese-taipei-women-vs-north-korea-women.html
+
+20.03.2026	^-
+
+00:00 [g]Turkish Super League[z]	^-
+Besiktas JK vs Kasimpasa	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216828/besiktas-jk-vs-kasimpasa.html
+
+00:45 [y]UEFA Europa Conference League[z]	^-
+FSV Mainz 05 vs Sigma Olomouc	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362785/1-fsv-mainz-05-vs-sigma-olomouc.html
+
+00:45 [y]UEFA Europa League[z]	^-
+Lyon vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4362849/lyon-vs-rc-celta.html
+SC Freiburg vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363214/sc-freiburg-vs-racing-genk.html
+
+00:45 [y]UEFA Europa Conference League[z]	^-
+AEK Larnaca vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363253/aek-larnaca-vs-crystal-palace.html
+AEK Athens vs NK Publikum Celje	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363292/aek-athens-vs-nk-publikum-celje.html
+Rakow Czestochowa vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363366/rakow-czestochowa-vs-fiorentina.html
+
+00:45 [y]UEFA Europa League[z]	^-
+Midtjylland vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4366755/midtjylland-vs-nottingham-forest.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
