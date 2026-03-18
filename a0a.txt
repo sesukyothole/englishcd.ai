@@ -29,16 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 18.03.2026	^-
 
-16:00 [l]AFC Women’s Asian Cup[z]	^-
-South Korea vs Japan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364106/south-korea-women-vs-japan-women.html
-South Korea vs Japan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuPtT4GWLMiixUHa5.m3u8
-
-16:00 [g]Myanmar Professional League[z]	^-
-Shan United vs Hantharwady United	`Fhttps://www.fctv33.net/football/myanmar-professional-league-match-4328404/shan-united-vs-hantharwady-united.html
-Shan United vs Hantharwady United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYr22aZkNKwAQ5ND.m3u8
-Yangon United vs Dagon Star United	`Fhttps://www.fctv33.net/football/myanmar-professional-league-match-4328406/yangon-united-vs-dagon-star-united.html
-Yangon United vs Dagon Star United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYr22aZiAr4gaADK.m3u8
-
 16:30 [g]Japanese J1 League[z]	^-
 Cerezo Osaka vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331671/cerezo-osaka-vs-fagiano-okayama.html
 Cerezo Osaka vs Fagiano Okayama	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KuNPEamuXwK.m3u8
@@ -103,15 +93,17 @@ SHB Da Nang vs Nam Dinh FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKP
 
 19:00 [g]Thai League Cup[z]	^-
 Port FC vs Khonkaen United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4365999/port-fc-vs-khonkaen-united.html
+Port FC vs Khonkaen United	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5yrfdxhCdWGq1X.m3u8
 Pattani vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4367709/pattani-vs-buriram-united.html
+Pattani vs Buriram United	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5yrfdr6m24o5Yq.m3u8
 
-20:00 [g]Albanian Division 1[z]	^-
-Kastrioti Kruje vs Burreli	`Fhttps://www.fctv33.net/football/albanian-division-1-match-4358661/kastrioti-kruje-vs-burreli.html
-KS Perparimi Kukesi vs Lushnja KS	`Fhttps://www.fctv33.net/football/albanian-division-1-match-4358668/ks-perparimi-kukesi-vs-lushnja-ks.html
-KF Luftetari vs Apolonia Fier	`Fhttps://www.fctv33.net/football/albanian-division-1-match-4358754/kf-luftetari-vs-apolonia-fier.html
+20:00 [g]Turkish Super League[z]	^-
+Alanyaspor vs Kocaelispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216833/alanyaspor-vs-kocaelispor.html
+Alanyaspor vs Kocaelispor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFe2b2897paZ.m3u8
 
 21:00 Malaysian Super League	^-
 Johor Darul Takzim vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221063/johor-darul-tazim-fc-vs-pdrm-fc.html
+Johor Darul Takzim vs PDRM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5veEBbv9tvVCZ.m3u8
 
 22:30 [y]UEFA Europa League[z]	^-
 Sporting Braga vs Ferencvarosi TC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363081/sporting-braga-vs-ferencvarosi-tc.html
