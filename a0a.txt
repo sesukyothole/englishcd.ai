@@ -29,18 +29,11 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 18.03.2026	^-
 
-10:00 [g]CONCACAF Champions Cup[z]	^-
-CDSyC Cruz Azul vs Monterrey	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361161/cruz-azul-vs-monterrey.html
-CDSyC Cruz Azul vs Monterrey	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-CDSyC Cruz Azul vs Monterrey	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eGUXSdd93QzoX.m3u8
-
-12:00 [g]Oceania: OFC Pro League[z]	^-
-Vanuatu United vs Auckland Reserves	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4334474/vanuatu-united-fc-vs-auckland-fc-reserves.html
-Vanuatu United vs Auckland Reserves	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYrF61h532pg8ZGy.m3u8
+15:00 [g]Oceania: OFC Pro League[z]	^-
 Hekari Souths Utd FC vs Tahiti Utd	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4334477/hekari-souths-united-fc-vs-tahiti-united-fc.html
 Hekari Souths Utd FC vs Tahiti Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYrF61h7EWh9xURs.m3u8
 
-15:00 [l]Philippines League[z]	^-
+15:00 [g]Philippines League[z]	^-
 Tuloy FC vs Valenzuela PB–Mendiola	`Fhttps://www.fctv33.net/football/philippines-united-football-league-match-4352634/tuloy-fc-vs-valenzuela-pbmendiola.html
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
