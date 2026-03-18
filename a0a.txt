@@ -29,12 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 18.03.2026	^-
 
-19:00 [g]Thai League Cup[z]	^-
-Port FC vs Khonkaen United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4365999/port-fc-vs-khonkaen-united.html
-Port FC vs Khonkaen United	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5yrfdxhCdWGq1X.m3u8
-Pattani vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-cup-match-4367709/pattani-vs-buriram-united.html
-Pattani vs Buriram United	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5yrfdr6m24o5Yq.m3u8
-
 20:00 [g]Turkish Super League[z]	^-
 Alanyaspor vs Kocaelispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216833/alanyaspor-vs-kocaelispor.html
 Alanyaspor vs Kocaelispor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFe2b2897paZ.m3u8
@@ -46,14 +40,6 @@ Johor Darul Takzim vs PDRM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5v
 22:30 [y]UEFA Europa League[z]	^-
 Sporting Braga vs Ferencvarosi TC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363081/sporting-braga-vs-ferencvarosi-tc.html
 Sporting Braga vs Ferencvarosi TC	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-
-23:00 [g]Lithuanian I Lyga[z]	^-
-Lietava Jonava vs BE1 NFA	`Fhttps://www.fctv33.net/football/lithuanian-i-lyga-match-4369262/lietava-jonava-vs-be1-nfa.html
-FK Minija vs Hegelmann Litauen II	`Fhttps://www.fctv33.net/football/lithuanian-i-lyga-match-4369489/fk-minija-vs-hegelmann-litauen-ii.html
-
-23:30 [g]Sierra Leone Premier League[z]	^-
-Freetown City vs Bhantal	`Fhttps://www.fctv33.net/football/sierra-leone-premier-league-match-4319952/freetown-city-vs-bhantal.html
-Kamboi Eagles vs BAI Bureh Warriors	`Fhttps://www.fctv33.net/football/sierra-leone-premier-league-match-4319969/kamboi-eagles-vs-bai-bureh-warriors.html
 
 23:45 [g]Poland Liga 2[z]	^-
 Warta Poznan vs Swit Szczecin	`Fhttps://www.fctv33.net/football/poland-liga-2-match-4208072/warta-poznan-vs-swit-szczecin.html
@@ -87,14 +73,11 @@ Al Ahli Jeddah vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-arabia-ki
 02:15 [g]Switzerland Divison 1 League[z]	^-
 FC Coffrane vs FC Naters	`Fhttps://www.fctv33.net/football/switzerland-divison-1-league-match-4214259/fc-coffrane-vs-fc-naters.html
 
-02:30 [g]Italian Serie C PRO Cup
+02:30 [g]Italian Serie C PRO Cup[z]	^-
 Potenza vs Latina	`Fhttps://www.fctv33.net/football/italian-serie-c-pro-cup-match-4357303/potenza-vs-latina-calcio-1932.html
 
 02:45 [g]English Football League Champ[z]	^-
 Southampton vs Norwich City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203895/southampton-vs-norwich-city.html
-
-03:00 [g]Trinidad and Tobago Pro League[z]	^-
-Point Fortin FC vs Cunupia FC	`Fhttps://www.fctv33.net/football/trinidad-and-tobago-pro-league-match-4309283/point-fortin-fc-vs-eagles-cunupia-fc.html
 
 03:00 [y]UEFA Champions League[z]	^-
 Bayern Munchen vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4363078/fc-bayern-munich-vs-atalanta.html
@@ -106,9 +89,6 @@ Liverpool vs Galatasaray	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/
 
 04:10 [g]Categoría Primera A[z]	^-
 Deportivo Pasto vs Boyaca Chico	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331539/deportivo-pasto-vs-boyaca-chico.html
-
-05:00 [g]Trinidad and Tobago Pro League[z]	^-
-La Horquetta Rangers vs Central FC	`Fhttps://www.fctv33.net/football/trinidad-and-tobago-pro-league-match-4309293/la-horquetta-rangers-fc-vs-central-fc.html
 
 05:00 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324031/palmeiras-vs-botafogo-rj.html
@@ -127,9 +107,6 @@ Mirassol vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-matc
 06:00 [g]CONCACAF Champions Cup[z]	^-
 Inter Miami CF vs Nashville	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361160/inter-miami-cf-vs-nashville.html
 Inter Miami CF vs Nashville	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-
-06:15 [g]Honduras Primera Division[z]	^-
-CD Olimpia vs Olancho FC	`Fhttps://www.fctv33.net/football/honduras-primera-division-match-4367194/cd-olimpia-vs-olancho-fc.html
 
 06:20 [g]Categoría Primera A[z]	^-
 La Equidad vs Deportivo Pereira	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331529/internacional-de-bogota-vs-deportivo-pereira.html
