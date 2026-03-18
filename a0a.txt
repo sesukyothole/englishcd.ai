@@ -29,17 +29,11 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 18.03.2026	^-
 
-20:00 [g]Turkish Super League[z]	^-
-Alanyaspor vs Kocaelispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216833/alanyaspor-vs-kocaelispor.html
-Alanyaspor vs Kocaelispor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFe2b2897paZ.m3u8
-
-21:00 Malaysian Super League	^-
-Johor Darul Takzim vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221063/johor-darul-tazim-fc-vs-pdrm-fc.html
-Johor Darul Takzim vs PDRM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5veEBbv9tvVCZ.m3u8
-
 22:30 [y]UEFA Europa League[z]	^-
 Sporting Braga vs Ferencvarosi TC	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363081/sporting-braga-vs-ferencvarosi-tc.html
 Sporting Braga vs Ferencvarosi TC	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+Sporting Braga vs Ferencvarosi TC	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399gx2ZkCcorm.m3u8
+Sporting Braga vs Ferencvarosi TC	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399gx2ZkCcorm.m3u8
 
 23:45 [g]Poland Liga 2[z]	^-
 Warta Poznan vs Swit Szczecin	`Fhttps://www.fctv33.net/football/poland-liga-2-match-4208072/warta-poznan-vs-swit-szczecin.html
