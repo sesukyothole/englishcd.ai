@@ -30,32 +30,9 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 20.03.2026	^-
 
 03:00 [y]UEFA Europa League[z]	^-
-Aston Villa vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363002/aston-villa-vs-losc-lille.html
-Aston Villa vs Lille	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399h91y6bkPdF.m3u8
-Aston Villa vs Lille	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399h91y6bkPdF.m3u8
-Real Betis vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363330/real-betis-vs-panathinaikos.html
-Real Betis vs Panathinaikos	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399guq5sinths.m3u8
-Real Betis vs Panathinaikos	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399guq5sinths.m3u8
 AS Roma vs Bologna	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363332/as-roma-vs-bologna.html
 AS Roma vs Bologna	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399hBDSy5aJn9.m3u8
 AS Roma vs Bologna	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399hBDSy5aJn9.m3u8
-FC Porto vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4370769/fc-porto-vs-vfb-stuttgart.html
-FC Porto vs VfB Stuttgart	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399h6pVE7vUUM.m3u8
-FC Porto vs VfB Stuttgart	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399h6pVE7vUUM.m3u8
-
-03:00 [y]UEFA Europa Conference League[z]	^-
-FC Shakhtar Donetsk vs Lech Poznan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362909/fc-shakhtar-donetsk-vs-lech-poznan.html
-FC Shakhtar Donetsk vs Lech Poznan	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6398r95ekGYSJ1.m3u8
-FC Shakhtar Donetsk vs Lech Poznan	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6398r95ekGYSJ1.m3u8
-Sparta Praha vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364085/sparta-praha-vs-az-alkmaar.html
-Sparta Praha vs AZ Alkmaar	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6398r6tAsniX97.m3u8
-Sparta Praha vs AZ Alkmaar	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6398r6tAsniX97.m3u8
-Rayo Vallecano vs Samsunspor	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364802/rayo-vallecano-vs-samsunspor.html
-Rayo Vallecano vs Samsunspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6398gSQdwT3q2V.m3u8
-Rayo Vallecano vs Samsunspor	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6398gSQdwT3q2V.m3u8
-Strasbourg vs Rijeka	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364821/rc-strasbourg-alsace-vs-rijeka.html
-Strasbourg vs Rijeka	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399BtD1CDxuD7.m3u8
-Strasbourg vs Rijeka	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399BtD1CDxuD7.m3u8
 
 06:00 [g]CONCACAF Champions Cup[z]	^-
 Mount Pleasant vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361759/mount-pleasant-fa-vs-los-angeles-galaxy.html
