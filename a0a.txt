@@ -29,11 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 20.03.2026	^-
 
-03:00 [y]UEFA Europa League[z]	^-
-AS Roma vs Bologna	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363332/as-roma-vs-bologna.html
-AS Roma vs Bologna	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399hBDSy5aJn9.m3u8
-AS Roma vs Bologna	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399hBDSy5aJn9.m3u8
-
 06:00 [g]CONCACAF Champions Cup[z]	^-
 Mount Pleasant vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361759/mount-pleasant-fa-vs-los-angeles-galaxy.html
 Mount Pleasant vs Los Angeles Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLux1dNHZx3vd.m3u8
