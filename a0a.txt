@@ -33,26 +33,11 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 Midtjylland vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4366755/midtjylland-vs-nottingham-forest.html
 Midtjylland vs Nottingham Forest	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399h4d1Me6ZKT.m3u8
 Midtjylland vs Nottingham Forest	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399h4d1Me6ZKT.m3u8
-Lyon vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4362849/lyon-vs-rc-celta.html
-Lyon vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399gzE3cgSj1f.m3u8
-Lyon vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399gzE3cgSj1f.m3u8
-SC Freiburg vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363214/sc-freiburg-vs-racing-genk.html
-SC Freiburg vs Racing Genk	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399h2RXVAGeAZ.m3u8
-SC Freiburg vs Racing Genk	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399h2RXVAGeAZ.m3u8
 
 00:45 [y]UEFA Europa Conference League[z]	^-
 AEK Larnaca vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363253/aek-larnaca-vs-crystal-palace.html
 AEK Larnaca vs Crystal Palace	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6398gho12oqF6m.m3u8
 AEK Larnaca vs Crystal Palace	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6398gho12oqF6m.m3u8
-FSV Mainz 05 vs Sigma Olomouc	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362785/1-fsv-mainz-05-vs-sigma-olomouc.html
-FSV Mainz 05 vs Sigma Olomouc	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399Bop3TGK4uK.m3u8
-FSV Mainz 05 vs Sigma Olomouc	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399Bop3TGK4uK.m3u8
-AEK Athens vs NK Publikum Celje	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363292/aek-athens-vs-nk-publikum-celje.html
-AEK Athens vs NK Publikum Celje	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6399Br1XKk8z4D.m3u8\
-AEK Athens vs NK Publikum Celje	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6399Br1XKk8z4D.m3u8
-Rakow Czestochowa vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363366/rakow-czestochowa-vs-fiorentina.html
-Rakow Czestochowa vs Fiorentina	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6398gpPSeFJzZT.m3u8
-Rakow Czestochowa vs Fiorentina	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6Mwd6398gpPSeFJzZT.m3u8
 
 03:00 [y]UEFA Europa League[z]	^-
 Aston Villa vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363002/aston-villa-vs-losc-lille.html
