@@ -27,12 +27,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-19.03.2026	^-
-
-20:00 [g]Turkish Super League[z]	^-
-Kayserispor vs Karagumruk	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216837/kayserispor-vs-karagumruk.html
-Kayserispor vs Karagumruk	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGoruA2uvF9P.m3u8
-
 20.03.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
@@ -41,20 +35,16 @@ Besiktas JK vs Kasimpasa	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuTcM
 Konyaspor vs Genclerbirligi	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216827/konyaspor-vs-genclerbirligi.html
 Konyaspor vs Genclerbirligi	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuTcMcHK7i7wHhjZX.m3u8
 
-00:45 [y]UEFA Europa Conference League[z]	^-
-FSV Mainz 05 vs Sigma Olomouc	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362785/1-fsv-mainz-05-vs-sigma-olomouc.html
-
 00:45 [y]UEFA Europa League[z]	^-
 Lyon vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4362849/lyon-vs-rc-celta.html
 SC Freiburg vs Racing Genk	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363214/sc-freiburg-vs-racing-genk.html
+Midtjylland vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4366755/midtjylland-vs-nottingham-forest.html
 
 00:45 [y]UEFA Europa Conference League[z]	^-
+FSV Mainz 05 vs Sigma Olomouc	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362785/1-fsv-mainz-05-vs-sigma-olomouc.html
 AEK Larnaca vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363253/aek-larnaca-vs-crystal-palace.html
 AEK Athens vs NK Publikum Celje	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363292/aek-athens-vs-nk-publikum-celje.html
 Rakow Czestochowa vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4363366/rakow-czestochowa-vs-fiorentina.html
-
-00:45 [y]UEFA Europa League[z]	^-
-Midtjylland vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4366755/midtjylland-vs-nottingham-forest.html
 
 03:00 [y]UEFA Europa League[z]	^-
 Aston Villa vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363002/aston-villa-vs-losc-lille.html
