@@ -29,16 +29,14 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 19.03.2026	^-
 
-15:00 [g]OFC Pro League[z]	^-
-Solomon Kings FC vs South Melbourne	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4334481/solomon-kings-fc-vs-south-melbourne.html
-
-16:00 [l]AFC Women’s Asian Cup[z]	^-
-Chinese Taipei vs North Korea	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4364104/chinese-taipei-women-vs-north-korea-women.html
+20:00 [g]Turkish Super League[z]	^-
+Kayserispor vs Karagumruk	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216837/kayserispor-vs-karagumruk.html
 
 20.03.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
 Besiktas JK vs Kasimpasa	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216828/besiktas-jk-vs-kasimpasa.html
+Konyaspor vs Genclerbirligi	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216827/konyaspor-vs-genclerbirligi.html
 
 00:45 [y]UEFA Europa Conference League[z]	^-
 FSV Mainz 05 vs Sigma Olomouc	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362785/1-fsv-mainz-05-vs-sigma-olomouc.html
@@ -54,6 +52,27 @@ Rakow Czestochowa vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-co
 
 00:45 [y]UEFA Europa League[z]	^-
 Midtjylland vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4366755/midtjylland-vs-nottingham-forest.html
+
+03:00 [y]UEFA Europa League[z]	^-
+Aston Villa vs Lille	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363002/aston-villa-vs-losc-lille.html
+Real Betis vs Panathinaikos	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363330/real-betis-vs-panathinaikos.html
+AS Roma vs Bologna	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4363332/as-roma-vs-bologna.html
+FC Porto vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4370769/fc-porto-vs-vfb-stuttgart.html
+
+03:00 [y]UEFA Europa Conference League[z]	^-
+FC Shakhtar Donetsk vs Lech Poznan	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4362909/fc-shakhtar-donetsk-vs-lech-poznan.html
+Sparta Praha vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364085/sparta-praha-vs-az-alkmaar.html
+Rayo Vallecano vs Samsunspor	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364802/rayo-vallecano-vs-samsunspor.html
+Strasbourg vs Rijeka	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4364821/rc-strasbourg-alsace-vs-rijeka.html
+
+06:00 [g]CONCACAF Champions Cup[z]	^-
+Mount Pleasant vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361759/mount-pleasant-fa-vs-los-angeles-galaxy.html
+
+08:00 [g]CONCACAF Champions Cup[z]	^-
+Tigres UANL vs FC Cincinnati	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4361654/tigres-uanl-vs-fc-cincinnati.html
+
+15:35 [g]Australia A-League[z]	^-
+Western Sydney vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282115/western-sydney-vs-adelaide-united.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
