@@ -29,24 +29,18 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 21.03.2026	^-
 
-03:30 [g]Peruvian Liga 1[z]	^-
-AD Tarma vs FBC Melgar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3dLCRtQVpdcTf.m3u8
-
-04:00 [g]Categoría Primera A[z]	^-
-Aguilas Doradas vs America de Cali	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrGL9vEJZEpumP.m3u8
-
 07:00 [g]Argentine Division 1[z]	^-
-Atletico Tucuman vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322003/atletico-tucuman-vs-gimnasia-la-plata.html
-Banfield vs Club Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322004/banfield-vs-club-atletico-tigre.html
+Atletico Tucuman vs Gimnasia Plata	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6Ltm9YWzQBMhHf.m3u8
+Banfield vs Club Atletico Tigre	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmpToVEtospR.m3u8
 
 07:15 [g]Copa Argentina[z]	^-
-San Lorenzo vs Deportivo Rincon	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335927/san-lorenzo-vs-deportivo-rincon.html
+San Lorenzo vs Deportivo Rincon	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYquVqRb7FZ2JbZ7.m3u8
 
 07:30 [g]Peruvian Liga 1[z]	^-
-Cienciano vs FC Cajamarca	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341204/cienciano-vs-fc-cajamarca.html
+Cienciano vs FC Cajamarca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3dLXqES7Tcpzh.m3u8
 
 08:00 [g]Mexico Liga MX[z]	^-
-Necaxa vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322511/necaxa-vs-club-tijuana.html
+Necaxa vs Club Tijuana	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LvycFubpyUMNV.m3u8
 
 09:00 [g]Australia A-League[z]	^-
 Auckland FC vs FC Macarthur	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282192/auckland-fc-vs-macarthur-fc.html
