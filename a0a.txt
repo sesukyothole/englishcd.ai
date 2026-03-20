@@ -29,12 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 21.03.2026	^-
 
-00:30 [y]Italian Serie A[z]	^-
-Cagliari vs Napoli	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj41zn6dFAb95X.m3u8
-
-01:30 [g]Austrian Bundesliga[z]	^-
-Sturm Graz vs Red Bull Salzburg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN5fYWtwZfKkH.m3u8
-
 02:00 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs Excelsior SBV	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpusPUVwDDeF7.m3u8
 
@@ -62,13 +56,13 @@ Villarreal vs Real Sociedad	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsY
 Villarreal vs Real Sociedad	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYhWuGQcHm24pD.m3u8
 
 03:15 [g]Portuguese Primera Liga[z]	^-
-Estrela da Amadora vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216147/cf-estrela-amadora-sad-vs-casa-pia-ac.html
+Estrela da Amadora vs Casa Pia AC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXDzJ7u9Tfpy.m3u8
 
 03:30 [g]Peruvian Liga 1[z]	^-
-AD Tarma vs FBC Melgar	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341223/ad-tarma-vs-fbc-melgar.html
+AD Tarma vs FBC Melgar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3dLCRtQVpdcTf.m3u8
 
 04:00 [g]Categoría Primera A[z]	^-
-Aguilas Doradas vs America de Cali	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331538/aguilas-doradas-vs-america-de-cali.html
+Aguilas Doradas vs America de Cali	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrGL9vEJZEpumP.m3u8
 
 07:00 [g]Argentine Division 1[z]	^-
 Atletico Tucuman vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322003/atletico-tucuman-vs-gimnasia-la-plata.html
