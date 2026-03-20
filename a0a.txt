@@ -36,6 +36,57 @@ Tigres UANL vs FC Cincinnati	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5
 15:35 [g]Australia A-League[z]	^-
 Western Sydney vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282115/western-sydney-vs-adelaide-united.html
 
+21.03.2026	^-
+
+00:30 [y]Italian Serie A[z]	^-
+Cagliari vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194750/cagliari-vs-napoli.html
+
+02:00 [y]Netherlands Eredivisie[z]	^-
+Heracles Almelo vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199263/heracles-almelo-vs-excelsior-sbv.html
+
+02:30 [y]Bundesliga[z]	^-
+RB Leipzig vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199786/rb-leipzig-vs-tsg-hoffenheim.html
+
+02:45 [y]Italian Serie A[z]	^-
+Genoa vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194752/genoa-vs-udinese.html
+
+02:45 [y]French Ligue 1[z]	^-
+Lens vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200334/rc-lens-vs-angers-sco.html
+
+03:00 [y]English Premier League[z]	^-
+Bournemouth AFC vs Manchester Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194059/bournemouth-afc-vs-manchester-united.html
+
+03:00 [g]English Football League Champ[z]	^-
+Preston North End vs Stoke City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203996/preston-north-end-vs-stoke-city.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Villarreal vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209678/villarreal-cf-vs-real-sociedad.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+Estrela da Amadora vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216147/cf-estrela-amadora-sad-vs-casa-pia-ac.html
+
+03:30 [g]Peruvian Liga 1[z]	^-
+AD Tarma vs FBC Melgar	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341223/ad-tarma-vs-fbc-melgar.html
+
+04:00 [g]Categoría Primera A[z]	^-
+Aguilas Doradas vs America de Cali	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331538/aguilas-doradas-vs-america-de-cali.html
+
+07:00 [g]Argentine Division 1[z]	^-
+Atletico Tucuman vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322003/atletico-tucuman-vs-gimnasia-la-plata.html
+Banfield vs Club Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322004/banfield-vs-club-atletico-tigre.html
+
+07:15 [g]Copa Argentina[z]	^-
+San Lorenzo vs Deportivo Rincon	`Fhttps://www.fctv33.net/football/copa-argentina-match-4335927/san-lorenzo-vs-deportivo-rincon.html
+
+07:30 [g]Peruvian Liga 1[z]	^-
+Cienciano vs FC Cajamarca	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341204/cienciano-vs-fc-cajamarca.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Necaxa vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322511/necaxa-vs-club-tijuana.html
+
+09:00 [g]Australia A-League[z]	^-
+Auckland FC vs FC Macarthur	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282192/auckland-fc-vs-macarthur-fc.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
