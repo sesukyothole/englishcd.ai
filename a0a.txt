@@ -32,6 +32,9 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 00:30 [y]Italian Serie A[z]	^-
 Cagliari vs Napoli	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj41zn6dFAb95X.m3u8
 
+01:30 [g]Austrian Bundesliga[z]	^-
+Sturm Graz vs Red Bull Salzburg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN5fYWtwZfKkH.m3u8
+
 02:00 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs Excelsior SBV	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpusPUVwDDeF7.m3u8
 
