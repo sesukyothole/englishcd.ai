@@ -31,7 +31,8 @@
 
 22:00 [y]English Premier League[z]	^-
 Fulham vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194056/fulham-vs-burnley.html
-Fulham vs Burnley	`0https://www.marza12.shop/football/2789433-fulham-vs-burnley.html
+Fulham vs Burnley	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy23JM8nkwnE1.m3u8
+Fulham vs Burnley	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jy23JM8nkwnE1.m3u8
 Fulham vs Burnley	https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
 
 22:00 [g]English Football League Champ[z]	^-
@@ -42,7 +43,8 @@ Sheffield United vs Wrexham	`0https://www.marza12.shop/football/2798473-sheffiel
 
 22:15 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209702/rcd-espanyol-de-barcelona-vs-getafe.html
-RCD Espanyol vs Getafe	`0https://www.marza12.shop/football/2804578-rcd-espanyol-vs-getafe.html
+RCD Espanyol vs Getafe	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYhWaCquWSU6fF.m3u8
+RCD Espanyol vs Getafe	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYhWaCquWSU6fF.m3u8
 RCD Espanyol vs Getafe	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 RCD Espanyol vs Getafe	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 
@@ -54,7 +56,8 @@ Moreirense vs FC Arouca	`0https://www.marza12.shop/football/2814963-moreirense-v
 
 23:00 [y]French Ligue 1[z]	^-
 Toulouse vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200325/toulouse-fc-vs-lorient.html
-Toulouse vs Lorient	`0https://www.marza12.shop/football/2800261-toulouse-vs-lorient.html
+Toulouse vs Lorient	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RwV6VMRdZMX.m3u8
+Toulouse vs Lorient	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RwV6VMRdZMX.m3u8
 
 23:00 [g]Peruvian Liga 1[z]	^-
 Moquegua vs Cusco FC	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341238/moquegua-vs-cusco-fc.html
