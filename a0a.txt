@@ -31,8 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Australia vs Japan	`Fhttps://www.fctv33.net/football/afc-womens-asian-cup-match-4243330/australia-women-vs-japan-women.html
-Australia vs Japan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuPtT4GLyU2kTQvgd.m3u8
-Australia vs Japan	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuPtT4GLyU2kTQvgd.m3u8
+Australia vs Japan	`https://www.marza12.shop/football/2963217-japan-w-vs-australia-w.html
 
 18:00 [g]Thai League 1[z]	^-
 Ayutthaya Utd vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320312/ayutthaya-united-vs-nakhon-ratchasima-mazda-fc.html
