@@ -98,7 +98,7 @@ Toulouse vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-42003
 Toulouse vs Lorient	`0https://www.marza12.shop/football/2800261-toulouse-vs-lorient.html
 
 23:00 [g]Peruvian Liga 1[z]	^-
-Moquegua vs Cusco FC	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341238/moquegua-vs-cusco-fc-03-2026.html
+Moquegua vs Cusco FC	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341238/moquegua-vs-cusco-fc.html
 Moquegua vs Cusco FC	`0
 
 22.03.2026	^-
@@ -193,6 +193,77 @@ Newells Old Boys vs Gimnasia Mendoza	`Fhttps://www.fctv33.net/football/argentine
 Newells Old Boys vs Gimnasia Mendoza	`0https://www.marza12.shop/football/2910222-newells-old-boys-vs-gimnasia-mendoza.html
 Defensa Justicia vs Atlético Unión	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322009/defensa-y-justicia-vs-club-atltico-unin.html
 Defensa Justicia vs Atlético Unión	`0https://www.marza12.shop/football/2910225-defensa-y-justicia-vs-club-atl%C3%A9tico-uni%C3%B3n.html
+
+04:30 [g]Brazilian Serie A[z]	^-
+Fluminense RJ vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324041/fluminense-rj-vs-atletico-mineiro.html
+Fluminense RJ vs Atletico Mineiro	`0https://www.marza12.shop/football/2910701-fluminense-rj-vs-atletico-mineiro.html
+
+05:15 [g]US Major League Soccer[z]	^-
+Nashville vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317331/nashville-vs-orlando-city.html
+Nashville vs Orlando City	`0https://www.marza12.shop/football/2908474-nashville-vs-orlando-city.html
+
+06:00 [g]Argentine Division 1[z]	^-
+Independiente vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322010/ca-independiente-vs-talleres-cordoba.html
+Independiente vs Talleres Cordoba	`0https://www.marza12.shop/football/2910227-independiente-vs-talleres-cordoba.html
+
+06:20 [g]Categoría Primera A[z]	^-
+Dep Once Caldas vs Millonarios	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331547/deportiva-once-caldas-vs-millonarios.html
+Dep Once Caldas vs Millonarios	`0https://www.marza12.shop/football/2922227-deportiva-once-caldas-vs-millonarios.html
+
+06:30 [g]US Major League Soccer[z]	^-
+Atlanta United vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317320/atlanta-united-vs-dc-united.html
+Atlanta United vs DC United	`0https://www.marza12.shop/football/2908475-atlanta-united-vs-dc-united.html
+Charlotte FC vs New York Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317360/charlotte-fc-vs-new-york-red-bulls.html
+Charlotte FC vs New York Red Bulls	`0https://www.marza12.shop/football/2908476-charlotte-fc-vs-new-york-red-bulls.html
+
+06:30 [g]Peruvian Liga 1[z]	^-
+Alianza Lima vs Juan Pablo II	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341240/alianza-lima-vs-juan-pablo-ii.html
+
+07:00 [g]Brazilian Serie A[z]	^-
+Sao Paulo vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324039/sao-paulo-vs-palmeiras.html
+Sao Paulo vs Palmeiras	`0https://www.marza12.shop/football/2910704-sao-paulo-vs-palmeiras.html
+
+07:30 [g]US Major League Soccer[z]	^-
+FC Dallas vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317330/fc-dallas-vs-houston-dynamo.html
+FC Dallas vs Houston Dynamo	`0https://www.marza12.shop/football/2908478-fc-dallas-vs-houston-dynamo.html
+St. Louis City vs New England Revo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317364/st-louis-city-sc-vs-new-england-revolution.html
+St. Louis City vs New England Revo	`0https://www.marza12.shop/football/2908480-st-louis-city-vs-new-england-revolution.html
+FC Kansas City vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317385/sporting-kansas-city-vs-colorado-rapids.html
+FC Kansas City vs Colorado Rapids	`0https://www.marza12.shop/football/2908479-sporting-kansas-city-vs-colorado-rapids.html
+
+07:45 [g]US Major League Soccer[z]	^-
+Austin FC vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317328/austin-fc-vs-los-angeles-fc.html
+Austin FC vs Los Angeles FC	`0https://www.marza12.shop/football/2908477-austin-fc-vs-los-angeles-fc.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Atletico San Luis vs Club Leon	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322510/atletico-san-luis-vs-club-leon.html
+Atletico San Luis vs Club Leon	`0https://www.marza12.shop/football/2911796-atletico-san-luis-vs-club-leon.html
+Monterrey vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322522/monterrey-vs-club-deportivo-guadalajara.html
+Monterrey vs Chivas Guadalajara	`0https://www.marza12.shop/football/2911797-monterrey-vs-chivas-guadalajara.html
+
+08:15 [g]Argentine Division 1[z]	^-
+Belgrano vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322006/belgrano-vs-racing-club-de-avellaneda.html
+Belgrano vs Racing Club	`0https://www.marza12.shop/football/2910234-belgrano-vs-racing-club.html
+
+08:30 [g]Categoría Primera A[z]	^-
+Atl Nacional Medellin vs La Equidad	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331543/atletico-nacional-medellin-vs-internacional-de-bogota.html
+Atl Nacional Medellin vs La Equidad	`0https://www.marza12.shop/football/2922230-atletico-nacional-medellin-vs-internacional-de-bogota.html
+
+09:30 [g]US Major League Soccer[z]	^-
+Vancouver WC vs SJ Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317349/vancouver-whitecaps-vs-san-jose-earthquakes.html
+Vancouver WC vs SJ Earthquakes	`0https://www.marza12.shop/football/2908481-vancouver-whitecaps-vs-san-jose-earthquakes.html
+
+10:10 [g]Mexico Liga MX[z]	^-
+Pumas UNAM vs Club America	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322515/pumas-unam-vs-club-america.html
+Pumas UNAM vs Club America	`0https://www.marza12.shop/football/2911798-pumas-unam-vs-club-america.html
+
+11:00 [g]Australia A-League[z]	^-
+Sydney FC vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282199/sydney-fc-vs-newcastle-jets.html
+Sydney FC vs Newcastle Jets	`0https://www.marza12.shop/football/2871779-sydney-fc-vs-newcastle-jets.html
+
+11:00 [g]Japanese J1 League[z]	^-
+Shimizu S-Pulse vs Hiroshima San	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331704/shimizu-s-pulse-vs-sanfrecce-hiroshima.html
+Shimizu S-Pulse vs Hiroshima San	`0https://www.marza12.shop/football/2916044-shimizu-spulse-vs-hiroshima-sanfrecce.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
