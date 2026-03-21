@@ -48,14 +48,15 @@ Rayong FC vs Singha Kanchanaburi	`0https://www.marza12.shop/football/2910384-ray
 
 20:00 [y]Spanish La Liga[z]	^-
 Elche vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209647/elche-vs-rcd-mallorca.html
-Elche vs Mallorca	`0https://www.marza12.shop/football/2804577-elche-vs-mallorca.html
+Elche vs Mallorca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYhWa8SwmUpGMT.m3u8
+Elche vs Mallorca	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4358911.flv%3FtxSecret%3Dbece332e7bc8323acfc6f0b24c5808b7%26txTime%3D69BEED03&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=0&hotkey=true
 Elche vs Mallorca	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 Elche vs Mallorca	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 
 21:00 [y]Italian Serie A[z]	^-
 Parma vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194698/parma-vs-cremonese.html
-Parma vs Cremonese	`0https://www.marza12.shop/football/2784780-parma-vs-cremonese.html
-Parma vs Cremonese	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+Parma vs Cremonese	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj41q7d6JpvSxu.m3u8
+Parma vs Cremonese	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj41q7d6JpvSxu.m3u8
 
 21:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199793/fc-bayern-munich-vs-1-fc-union-berlin.html
