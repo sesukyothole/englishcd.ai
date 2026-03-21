@@ -29,13 +29,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 21.03.2026	^-
 
-07:00 [g]Argentine Division 1[z]	^-
-Atletico Tucuman vs Gimnasia Plata	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6Ltm9YWzQBMhHf.m3u8
-Banfield vs Club Atletico Tigre	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmpToVEtospR.m3u8
-
-07:15 [g]Copa Argentina[z]	^-
-San Lorenzo vs Deportivo Rincon	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYquVqRb7FZ2JbZ7.m3u8
-
 07:30 [g]Peruvian Liga 1[z]	^-
 Cienciano vs FC Cajamarca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3dLXqES7Tcpzh.m3u8
 
@@ -43,22 +36,22 @@ Cienciano vs FC Cajamarca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3dL
 Necaxa vs Club Tijuana	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LvycFubpyUMNV.m3u8
 
 09:00 [g]Australia A-League[z]	^-
-Auckland FC vs FC Macarthur	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282192/auckland-fc-vs-macarthur-fc.html
+Auckland FC vs FC Macarthur	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvY6kxgHzs7eobJqs.m3u8
 
 10:06 [g]Mexico Liga MX[z]	^-
-Mazatlan FC vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322508/mazatlan-fc-vs-cruz-azul.html
+Mazatlan FC vs CDSyC Cruz Azul	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LvymWCrC33xoF.m3u8
 
 11:00 [g]Australia A-League[z]	^-
-Brisbane Roar vs Wellington Phoenix	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282195/brisbane-roar-vs-wellington-phoenix.html
+Brisbane Roar vs Wellington Phoenix	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvY6kxgHxfdnKmPgy.m3u8
 
 12:00 [g]Japanese J1 League[z]	^-
-Fagiano Okayama vs V-Varen Nagasaki	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331679/fagiano-okayama-vs-v-varen-nagasaki.html
+Fagiano Okayama vs V-Varen Nagasaki	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KtzQRsyeNQM.m3u8
 
 12:00 [g]Korean K League 1[z]	^-
-Daejeon Citizen vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336029/daejeon-citizen-vs-jeonbuk-hyundai-motors.html
+Daejeon Citizen vs Jeonbuk Hyundai	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWuTfP2A6pxgm.m3u8
 
 12:30 [g]Japanese J1 League[z]	^-
-Avispa Fukuoka vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331680/avispa-fukuoka-vs-gamba-osaka.html
+Avispa Fukuoka vs Gamba Osaka	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KuXBA4hDCYu.m3u8
 
 13:10 [g]Australia A-League[z]	^-
 Melbourne Victory vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282194/melbourne-victory-vs-central-coast-mariners.html
