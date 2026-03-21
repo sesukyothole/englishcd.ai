@@ -44,6 +44,8 @@ Thani Forest vs Lamphun Warrior	`0https://www.marza12.shop/football/2910383-utha
 19:30 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194061/brighton-hove-albion-vs-liverpool.html
 Brighton Hove Albion vs Liverpool	`0https://www.marza12.shop/football/2789431-brighton-hove-albion-vs-liverpool.html
+Brighton Hove Albion vs Liverpool	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+Brighton Hove Albion vs Liverpool	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 
 19:30 [g]English Football League Champ[z]	^-
 Ipswich Town vs Millwall	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203995/ipswich-town-vs-millwall.html
@@ -58,20 +60,25 @@ Rayong FC vs Singha Kanchanaburi	`0https://www.marza12.shop/football/2910384-ray
 20:00 [y]Spanish La Liga[z]	^-
 Elche vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209647/elche-vs-rcd-mallorca.html
 Elche vs Mallorca	`0https://www.marza12.shop/football/2804577-elche-vs-mallorca.html
+Elche vs Mallorca	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+Elche vs Mallorca	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 
 21:00 [y]Italian Serie A[z]	^-
 Parma vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194698/parma-vs-cremonese.html
 Parma vs Cremonese	`0https://www.marza12.shop/football/2784780-parma-vs-cremonese.html
+Parma vs Cremonese	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 21:30 [y]Bundesliga[z]	^-
+Bayern Munchen vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199793/fc-bayern-munich-vs-1-fc-union-berlin.html
+Bayern Munchen vs Union Berlin	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561504/index.mpd!!9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 VfL Wolfsburg vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199779/vfl-wolfsburg-vs-sv-werder-bremen.html
 FC Heidenheim vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199785/1-fc-heidenheim-1846-vs-bayer-04-leverkusen.html
-Bayern Munchen vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199793/fc-bayern-munich-vs-1-fc-union-berlin.html
 FC Koln vs Borussia Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199797/fc-kln-vs-borussia-monchengladbach.html
 
 22:00 [y]English Premier League[z]	^-
 Fulham vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194056/fulham-vs-burnley.html
 Fulham vs Burnley	`0https://www.marza12.shop/football/2789433-fulham-vs-burnley.html
+Fulham vs Burnley	https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
 
 22:00 [g]English Football League Champ[z]	^-
 Watford vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203988/watford-vs-leicester-city.html
@@ -82,6 +89,8 @@ Sheffield United vs Wrexham	`0https://www.marza12.shop/football/2798473-sheffiel
 22:15 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209702/rcd-espanyol-de-barcelona-vs-getafe.html
 RCD Espanyol vs Getafe	`0https://www.marza12.shop/football/2804578-rcd-espanyol-vs-getafe.html
+RCD Espanyol vs Getafe	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+RCD Espanyol vs Getafe	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216150/fc-famalicao-vs-nacional-da-madeira.html
@@ -102,6 +111,7 @@ Moquegua vs Cusco FC	`0
 00:00 [y]Italian Serie A[z]	^-
 AC Milan vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194697/ac-milan-vs-torino.html
 AC Milan vs Torino	`0https://www.marza12.shop/football/2784779-ac-milan-vs-torino.html
+AC Milan vs Torino	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317354/toronto-fc-vs-columbus-crew.html
@@ -114,15 +124,20 @@ Swansea City vs Coventry City	`0https://www.marza12.shop/football/2798474-swanse
 00:30 [y]English Premier League[z]	^-
 Everton vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194057/everton-vs-chelsea.html
 Everton vs Chelsea	`0https://www.marza12.shop/football/2789432-everton-vs-chelsea.html
+Everton vs Chelsea	https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
+Everton vs Chelsea	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 
 00:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199778/borussia-dortmund-vs-hamburger-sv.html
+Borussia Dortmund vs Hamburger SV	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 
 00:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209646/ca-osasuna-vs-girona-fc.html
 Osasuna vs Girona	`0https://www.marza12.shop/football/2804580-osasuna-vs-girona.html
+Osasuna vs Girona	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Levante vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209672/levante-vs-real-oviedo.html
 Levante vs Real Oviedo	`0https://www.marza12.shop/football/2804579-levante-vs-real-oviedo.html
+Levante vs Real Oviedo	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 Sparta Rotterdam vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199302/sparta-rotterdam-vs-volendam.html
@@ -156,10 +171,12 @@ Bragantino vs Botafogo RJ	`0https://www.marza12.shop/football/2910698-bragantino
 02:45 [y]Italian Serie A[z]	^-
 Juventus vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194759/juventus-vs-sassuolo.html
 Juventus vs Sassuolo	`0https://www.marza12.shop/football/2784778-juventus-vs-sassuolo.html
+Juventus vs Sassuolo	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 03:00 [y]English Premier League[z]	^-
 Leeds United vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194066/leeds-united-vs-brentford.html
 Leeds United vs Brentford	`0https://www.marza12.shop/football/2789434-leeds-united-vs-brentford.html
+Leeds United vs Brentford	https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 PEC Zwolle vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199315/pec-zwolle-vs-nac-breda.html
@@ -168,10 +185,12 @@ PEC Zwolle vs NAC Breda	`0https://www.marza12.shop/football/2790955-pec-zwolle-v
 03:00 [y]Spanish La Liga[z]	^-
 Sevilla vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209674/sevilla-fc-vs-valencia-cf.html
 Sevilla vs Valencia	`0https://www.marza12.shop/football/2804582-sevilla-vs-valencia.html
+Sevilla vs Valencia	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 03:05 [y]French Ligue 1[z]	^-
 Nice vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200117/ogc-nice-vs-paris-saint-germain.html
 Nice vs Paris Saint Germain	`0https://www.marza12.shop/football/2800258-nice-vs-paris-saint-germain-psg.html
+Nice vs Paris Saint Germain	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561504/index.mpd!!9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs AVS Futebol SAD	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216084/cd-tondela-vs-avs-futebol-sad.html
@@ -425,6 +444,8 @@ PSN 2	https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
 PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/STRM-CH2-1/PSN3.mpd
 PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
 PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
+Setanta 1	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd!!8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+Setanta 2	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561504/index.mpd!!9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 Sky Sport Arena	https://cc1.screenistream.xyz:8080/stream/235/index.m3u8?token=T4Nz6WCt2Uwlqma4
 Sky Sport Calcio	https://cc1.screenistream.xyz:8080/stream/232/index.m3u8?token=T4Nz6WCt2Uwlqma4
 Sky Sport F1	https://cc1.screenistream.xyz:8080/stream/231/index.m3u8?token=T4Nz6WCt2Uwlqma4
