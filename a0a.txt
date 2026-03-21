@@ -29,24 +29,6 @@
 
 22.03.2026	^-
 
-03:30 [g]Portuguese Primera Liga[z]	^-
-CD Tondela vs AVS Futebol SAD	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216084/cd-tondela-vs-avs-futebol-sad.html
-CD Tondela vs AVS Futebol SAD	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXDXvMTPYfzD.m3u8
-
-03:30 [g]US Major League Soccer[z]	^-
-Philadelphia Union vs Chicago Fire	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317379/philadelphia-union-vs-chicago-fire.html
-Philadelphia Union vs Chicago Fire	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nk8aGMXbAEZ.m3u8
-
-03:30 [g]Peruvian Liga 1[z]	^-
-Los Chankas vs Sporting Cristal	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341209/los-chankas-vs-sporting-cristal.html
-Los Chankas vs Sporting Cristal	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3dKMmjQyoruWV.m3u8
-
-03:45 [g]Argentine Division 1[z]	^-
-Newells Old Boys vs Gimnasia Mendoza	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321869/club-atltico-newells-old-boys-vs-gimnasia-y-esgrima-de-mendoza.html
-Newells Old Boys vs Gimnasia Mendoza	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LuWUAjbUG7Bad.m3u8
-Defensa Justicia vs Atlético Unión	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322009/defensa-y-justicia-vs-club-atltico-unin.html
-Defensa Justicia vs Atlético Unión	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmzAUW3iJV5w.m3u8
-
 04:30 [g]Brazilian Serie A[z]	^-
 Fluminense RJ vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324041/fluminense-rj-vs-atletico-mineiro.html
 Fluminense RJ vs Atletico Mineiro	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCZmjQiPTW2h.m3u8
