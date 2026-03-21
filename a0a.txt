@@ -29,21 +29,10 @@
 
 21.03.2026	^-
 
-18:00 [g]Thai League 1[z]	^-
-Ayutthaya Utd vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320312/ayutthaya-united-vs-nakhon-ratchasima-mazda-fc.html
-Ayutthaya Utd vs Nakhon Ratchasima	`0https://www.marza12.shop/football/2910381-ayutthaya-united-vs-nakhon-ratchasima.html
-
-18:30 [g]Thai League 1[z]	^-
-Chonburi Shark FC vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320317/chonburi-fc-vs-sukhothai.html
-Chonburi Shark FC vs Sukhothai	`0https://www.marza12.shop/football/2910382-chonburi-shark-fc-vs-sukhothai.html
-
-19:00 [g]Thai League 1[z]	^-
-Thani Forest vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320315/uthai-thani-forest-vs-lamphun-warriors.html
-Thani Forest vs Lamphun Warrior	`0https://www.marza12.shop/football/2910383-uthai-thani-fc-vs-lamphun-warrior.html
-
 19:30 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194061/brighton-hove-albion-vs-liverpool.html
-Brighton Hove Albion vs Liverpool	`0https://www.marza12.shop/football/2789431-brighton-hove-albion-vs-liverpool.html
+Brighton Hove Albion vs Liverpool	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy239ZDJqe7cR.m3u8
+Brighton Hove Albion vs Liverpool	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jy239ZDJqe7cR.m3u8
 Brighton Hove Albion vs Liverpool	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 Brighton Hove Albion vs Liverpool	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 
