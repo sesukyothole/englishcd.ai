@@ -29,18 +29,6 @@
 
 21.03.2026	^-
 
-22:00 [y]English Premier League[z]	^-
-Fulham vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194056/fulham-vs-burnley.html
-Fulham vs Burnley	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy23JM8nkwnE1.m3u8
-Fulham vs Burnley	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jy23JM8nkwnE1.m3u8
-Fulham vs Burnley	https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
-
-22:00 [g]English Football League Champ[z]	^-
-Watford vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203988/watford-vs-leicester-city.html
-Watford vs Leicester City	`0https://www.marza12.shop/football/2798472-watford-vs-leicester-city.html
-Sheffield United vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204001/sheffield-united-vs-wrexham.html
-Sheffield United vs Wrexham	`0https://www.marza12.shop/football/2798473-sheffield-united-vs-wrexham.html
-
 22:15 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209702/rcd-espanyol-de-barcelona-vs-getafe.html
 RCD Espanyol vs Getafe	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYhWaCquWSU6fF.m3u8
@@ -50,9 +38,9 @@ RCD Espanyol vs Getafe	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216150/fc-famalicao-vs-nacional-da-madeira.html
-FC Famalicao vs Nacional da Madeira	`0https://www.marza12.shop/football/2814962-fc-famalicao-vs-nacional-da-madeira.html
+FC Famalicao vs Nacional da Madeira	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXE6tZWawRHf.m3u8
 Moreirense vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216154/moreirense-vs-fc-arouca.html
-Moreirense vs FC Arouca	`0https://www.marza12.shop/football/2814963-moreirense-vs-fc-arouca.html
+Moreirense vs FC Arouca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXE4h5e77W8m.m3u8
 
 23:00 [y]French Ligue 1[z]	^-
 Toulouse vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200325/toulouse-fc-vs-lorient.html
@@ -60,7 +48,7 @@ Toulouse vs Lorient	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RwV6VMR
 Toulouse vs Lorient	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RwV6VMRdZMX.m3u8
 
 23:00 [g]Peruvian Liga 1[z]	^-
-Moquegua vs Cusco FC	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341238/moquegua-vs-cusco-fc.html
+Moquegua vs Cusco FC	`Fhttps://streaming.cdnx-sportnobar.xyz/live/sd-6MvVd3dKBmUZD9ky1o.m3u8
 
 22.03.2026	^-
 
