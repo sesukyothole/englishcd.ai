@@ -29,14 +29,6 @@
 
 22.03.2026	^-
 
-04:30 [g]Brazilian Serie A[z]	^-
-Fluminense RJ vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324041/fluminense-rj-vs-atletico-mineiro.html
-Fluminense RJ vs Atletico Mineiro	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCZmjQiPTW2h.m3u8
-
-05:15 [g]US Major League Soccer[z]	^-
-Nashville vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317331/nashville-vs-orlando-city.html
-Nashville vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nkFAhxy4uhF.m3u8
-
 06:00 [g]Argentine Division 1[z]	^-
 Independiente vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322010/ca-independiente-vs-talleres-cordoba.html
 Independiente vs Talleres Cordoba	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmUc5hBVufSd.m3u8
