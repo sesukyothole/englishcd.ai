@@ -30,17 +30,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 23.03.2026	^-
 
-00:00 [y]Italian Serie A[z]	^-
-AS Roma vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194751/as-roma-vs-lecce.html
-AS Roma vs Lecce	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FfVUAtQy1Lh.m3u8
-AS Roma vs Lecce	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3FfVUAtQy1Lh.m3u8
-
-00:00 [g]US Major League Soccer[z]	^-
-New York City FC vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317321/new-york-city-fc-vs-inter-miami-cf.html
-New York City FC vs Inter Miami CF	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7naahB2dQDad.m3u8
-FC Cincinnati vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317344/fc-cincinnati-vs-montreal-impact.html
-FC Cincinnati vs Montreal Impact	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nacteu7E8jX.m3u8
-
 00:30 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209731/athletic-club-vs-real-betis.html
 Athletic Bilbao vs Real Betis	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYhWk4JqoBGNYM.m3u8
