@@ -29,24 +29,6 @@
 
 22.03.2026	^-
 
-06:00 [g]Argentine Division 1[z]	^-
-Independiente vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322010/ca-independiente-vs-talleres-cordoba.html
-Independiente vs Talleres Cordoba	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmUc5hBVufSd.m3u8
-
-06:20 [g]Categoría Primera A[z]	^-
-Dep Once Caldas vs Millonarios	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331547/deportiva-once-caldas-vs-millonarios.html
-Dep Once Caldas vs Millonarios	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrGL9t2pgkzzcV.m3u8
-
-06:30 [g]US Major League Soccer[z]	^-
-Atlanta United vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317320/atlanta-united-vs-dc-united.html
-Atlanta United vs DC United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nkKZfhvik13.m3u8
-Charlotte FC vs New York Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317360/charlotte-fc-vs-new-york-red-bulls.html
-Charlotte FC vs New York Red Bulls	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nkHNBqStpr9.m3u8
-
-06:30 [g]Peruvian Liga 1[z]	^-
-Alianza Lima vs Juan Pablo II	`Fhttps://www.fctv33.net/football/peruvian-liga-1-match-4341240/alianza-lima-vs-juan-pablo-ii.html
-Alianza Lima vs Juan Pablo II	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVczFhaWso95ifHf.m3u8
-
 07:00 [g]Brazilian Serie A[z]	^-
 Sao Paulo vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324039/sao-paulo-vs-palmeiras.html
 Sao Paulo vs Palmeiras	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LxSurmDe7CYfP.m3u8
