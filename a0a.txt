@@ -29,51 +29,8 @@
 
 22.03.2026	^-
 
-07:00 [g]Brazilian Serie A[z]	^-
-Sao Paulo vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324039/sao-paulo-vs-palmeiras.html
-Sao Paulo vs Palmeiras	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LxSurmDe7CYfP.m3u8
-
-07:30 [g]US Major League Soccer[z]	^-
-FC Dallas vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317330/fc-dallas-vs-houston-dynamo.html
-FC Dallas vs Houston Dynamo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7njsBuGAokAH.m3u8
-St. Louis City vs New England Revo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317364/st-louis-city-sc-vs-new-england-revolution.html
-St. Louis City vs New England Revo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7naYVhA9aJRj.m3u8
-FC Kansas City vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317385/sporting-kansas-city-vs-colorado-rapids.html
-FC Kansas City vs Colorado Rapids	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7naU6jRBvU7w.m3u8
-
-07:45 [g]US Major League Soccer[z]	^-
-Austin FC vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317328/austin-fc-vs-los-angeles-fc.html
-Austin FC vs Los Angeles FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nkMm9aQYf9w.m3u8
-
-08:00 [g]Mexico Liga MX[z]	^-
-Atletico San Luis vs Club Leon	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322510/atletico-san-luis-vs-club-leon.html
-Atletico San Luis vs Club Leon	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6Lwim74EMH5Q69.m3u8
-Monterrey vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322522/monterrey-vs-club-deportivo-guadalajara.html
-Monterrey vs Chivas Guadalajara	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6Lvymxacdnxxe1.m3u8
-
-08:15 [g]Argentine Division 1[z]	^-
-Belgrano vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322006/belgrano-vs-racing-club-de-avellaneda.html
-Belgrano vs Racing Club	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmpVzy7NdnyK.m3u8
-
-08:30 [g]Categoría Primera A[z]	^-
-Atl Nacional Medellin vs La Equidad	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331543/atletico-nacional-medellin-vs-internacional-de-bogota.html
-Atl Nacional Medellin vs La Equidad	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrGKKBgMJGQNWR.m3u8
-
-09:30 [g]US Major League Soccer[z]	^-
-Vancouver WC vs SJ Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317349/vancouver-whitecaps-vs-san-jose-earthquakes.html
-Vancouver WC vs SJ Earthquakes	`0https://www.marza12.shop/football/2908481-vancouver-whitecaps-vs-san-jose-earthquakes.html
-
-10:10 [g]Mexico Liga MX[z]	^-
-Pumas UNAM vs Club America	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322515/pumas-unam-vs-club-america.html
-Pumas UNAM vs Club America	`0https://www.marza12.shop/football/2911798-pumas-unam-vs-club-america.html
-
-11:00 [g]Australia A-League[z]	^-
-Sydney FC vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282199/sydney-fc-vs-newcastle-jets.html
-Sydney FC vs Newcastle Jets	`0https://www.marza12.shop/football/2871779-sydney-fc-vs-newcastle-jets.html
-
-11:00 [g]Japanese J1 League[z]	^-
-Shimizu S-Pulse vs Hiroshima San	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331704/shimizu-s-pulse-vs-sanfrecce-hiroshima.html
-Shimizu S-Pulse vs Hiroshima San	`0https://www.marza12.shop/football/2916044-shimizu-spulse-vs-hiroshima-sanfrecce.html
+18:15 [y]Netherlands Eredivisie[z]	^-
+NEC Nijmegen vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199270/nec-nijmegen-vs-sc-heerenveen.html
 
 	^-23
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
