@@ -61,6 +61,8 @@ Aston Villa vs West Ham United	https://streaming.cdnx-sportnobar.xyz/live/hd-en-
 
 21:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199783/1-fsv-mainz-05-vs-eintracht-frankfurt.html
+FSV Mainz 05 vs Eintracht Frankfurt	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DUxhHH2eV3B.m3u8
+FSV Mainz 05 vs Eintracht Frankfurt	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3DUxhHH2eV3B.m3u8
 
 22:15 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209643/rc-celta-vs-deportivo-alavs.html
