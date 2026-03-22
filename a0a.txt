@@ -11,7 +11,6 @@
 [l]{s} 👉Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 	^-
-Live Sports TV	`0https://www.marza12.shop/football.html
 	^-
 
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
@@ -27,17 +26,10 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
+Live Sports TV	`0https://www.marza12.shop/football.html
+
+	^-
 23.03.2026	^-
-
-03:30 [g]Portuguese Primera Liga[z]	^-
-Sporting Braga vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216107/sporting-braga-vs-fc-porto.html
-Sporting Braga vs FC Porto	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXDuuAABoqXB.m3u8
-Sporting Braga vs FC Porto	`0https://www.marza12.shop/football/2814959-sporting-braga-vs-fc-porto.html
-
-03:45 [g]US Major League Soccer[z]	^-
-Portland Timbers vs LA Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317347/portland-timbers-vs-los-angeles-galaxy.html
-Portland Timbers vs LA Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7naf68mb43tR.m3u8
-Portland Timbers vs LA Galaxy	`0https://www.marza12.shop/football/2908485-portland-timbers-vs-los-angeles-galaxy.html
 
 06:00 [g]US Major League Soccer[z]	^-
 San Diego FC vs Real Salt Lake	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317338/san-diego-fc-vs-real-salt-lake.html
