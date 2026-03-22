@@ -72,15 +72,24 @@ Real Celta Vigo vs Deportivo Alavés	https://streaming.cdnx-sportnobar.xyz/live/
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs Rio Ave	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216115/estoril-vs-rio-ave.html
+Estoril vs Rio Ave	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXE2VbmdHays.m3u8
 
 22:45 [y]Netherlands Eredivisie[z]	^-
 Groningen vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199119/groningen-vs-az-alkmaar.html
+Groningen vs AZ Alkmaar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvYEN32y1zU5.m3u8
 SC Telstar vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199184/sc-telstar-vs-psv-eindhoven.html
+SC Telstar vs PSV Eindhoven	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvN37muunUCu.m3u8
 
 23:15 [y]French Ligue 1[z]	^-
 Paris FC vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200282/paris-fc-vs-havre-athletic-club.html
+Paris FC vs Le Havre	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RwQhXcTyj3j.m3u8
+Paris FC vs Le Havre	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RwQhXcTyj3j.m3u8
 Rennes vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200324/stade-rennais-fc-vs-metz.html
+Rennes vs Metz	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RwNW3jz9otq.m3u8
+Rennes vs Metz	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RwNW3jz9otq.m3u8
 Marseille vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200356/marseille-vs-losc-lille.html
+Marseille vs Lille	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RSVftYQdV1f.m3u8
+Marseille vs Lille	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RSVftYQdV1f.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199794/fc-st-pauli-vs-sc-freiburg.html
