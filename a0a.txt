@@ -105,40 +105,59 @@ Arsenal vs Manchester City	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MvV
 
 00:00 [y]Italian Serie A[z]	^-
 AS Roma vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194751/as-roma-vs-lecce.html
+AS Roma vs Lecce	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FfVUAtQy1Lh.m3u8
+AS Roma vs Lecce	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3FfVUAtQy1Lh.m3u8
 
 00:00 [g]US Major League Soccer[z]	^-
 New York City FC vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317321/new-york-city-fc-vs-inter-miami-cf.html
+New York City FC vs Inter Miami CF	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7naahB2dQDad.m3u8
 FC Cincinnati vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317344/fc-cincinnati-vs-montreal-impact.html
+FC Cincinnati vs Montreal Impact	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nacteu7E8jX.m3u8
 
 00:30 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209731/athletic-club-vs-real-betis.html
+Athletic Bilbao vs Real Betis	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYhWk4JqoBGNYM.m3u8
+Athletic Bilbao vs Real Betis	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYhWk4JqoBGNYM.m3u8
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Alverca vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216108/alverca-vs-sporting-cp.html
+Alverca vs Sporting CP	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXDqWCREA1DP.m3u8
 
 01:30 [y]Bundesliga[z]	^-
 FC Augsburg vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199784/fc-augsburg-vs-vfb-stuttgart.html
+FC Augsburg vs VfB Stuttgart	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y2SpmJ3csn3ky.m3u8
+FC Augsburg vs VfB Stuttgart	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y2SpmJ3csn3ky.m3u8
 
 01:30 [g]US Major League Soccer[z]	^-
 Minnesota Utd vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317350/minnesota-united-fc-vs-seattle-sounders.html
+Minnesota Utd vs Seattle Sounders	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7nahHce4sy3K.m3u8
 
 02:00 [g]Danish Superliga[z]	^-
 Viborg vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368382/viborg-vs-midtjylland.html
+Viborg vs Midtjylland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYTjSitsfHs3.m3u8
 
 02:45 [y]Italian Serie A[z]	^-
 Fiorentina vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194758/fiorentina-vs-inter-milan.html
+Fiorentina vs Inter Milan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj41zMvLftW4Pf.m3u8
+Fiorentina vs Inter Milan	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj41zMvLftW4Pf.m3u8
 
 02:45 [y]French Ligue 1[z]	^-
 Nantes vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200116/fc-nantes-vs-rc-strasbourg-alsace.html
+Nantes vs Strasbourg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RS16eEAta21.m3u8
+Nantes vs Strasbourg	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RS16eEAta21.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209645/real-madrid-vs-atletico-madrid.html
+Real Madrid vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYhX5VrMHJ5WEH.m3u8
+Real Madrid vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYhX5VrMHJ5WEH.m3u8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Sporting Braga vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216107/sporting-braga-vs-fc-porto.html
+Sporting Braga vs FC Porto	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtXDuuAABoqXB.m3u8
 
 03:45 [g]US Major League Soccer[z]	^-
 Portland Timbers vs LA Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317347/portland-timbers-vs-los-angeles-galaxy.html
+Portland Timbers vs LA Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7naf68mb43tR.m3u8
 
 06:00 [g]US Major League Soccer[z]	^-
 San Diego FC vs Real Salt Lake	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317338/san-diego-fc-vs-real-salt-lake.html
