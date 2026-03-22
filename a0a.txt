@@ -32,6 +32,95 @@
 18:15 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199270/nec-nijmegen-vs-sc-heerenveen.html
 
+18:30 [y]Italian Serie A[z]	^-
+Como vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194760/como-vs-pisa.html
+
+19:00 [y]English Premier League[z]	^-
+Newcastle United vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194060/newcastle-united-vs-sunderland.html
+
+20:00 [y]Spanish La Liga[z]	^-
+FC Barcelona vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209846/fc-barcelona-vs-rayo-vallecano.html
+
+20:30 [y]Netherlands Eredivisie[z]	^-
+Feyenoord vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199320/feyenoord-vs-afc-ajax.html
+
+21:00 [y]Italian Serie A[z]	^-
+Bologna vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194798/bologna-vs-lazio.html
+Atalanta vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194799/atalanta-vs-hellas-verona.html
+
+21:00 [y]French Ligue 1[z]	^-
+Lyon vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200332/lyon-vs-as-monaco.html
+
+21:15 [y]English Premier League[z]	^-
+Tottenham Spur vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194062/tottenham-hotspur-vs-nottingham-forest.html
+Aston Villa vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194065/aston-villa-vs-west-ham-united.html
+
+21:30 [y]Bundesliga[z]	^-
+FSV Mainz 05 vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199783/1-fsv-mainz-05-vs-eintracht-frankfurt.html
+
+22:15 [y]Spanish La Liga[z]	^-
+Real Celta Vigo vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209643/rc-celta-vs-deportivo-alavs.html
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+Estoril vs Rio Ave	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216115/estoril-vs-rio-ave.html
+
+22:45 [y]Netherlands Eredivisie[z]	^-
+Groningen vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199119/groningen-vs-az-alkmaar.html
+SC Telstar vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199184/sc-telstar-vs-psv-eindhoven.html
+
+23:15 [y]French Ligue 1[z]	^-
+Paris FC vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200282/paris-fc-vs-havre-athletic-club.html
+Rennes vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200324/stade-rennais-fc-vs-metz.html
+Marseille vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200356/marseille-vs-losc-lille.html
+
+23:30 [y]Bundesliga[z]	^-
+FC St. Pauli vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199794/fc-st-pauli-vs-sc-freiburg.html
+
+23:30 [g]English Football League Cup[z]	^-
+Arsenal vs Manchester City	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4348534/arsenal-vs-manchester-city.html
+
+23.03.2026	^-
+
+00:00 [y]Italian Serie A[z]	^-
+AS Roma vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194751/as-roma-vs-lecce.html
+
+00:00 [g]US Major League Soccer[z]	^-
+New York City FC vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317321/new-york-city-fc-vs-inter-miami-cf.html
+FC Cincinnati vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317344/fc-cincinnati-vs-montreal-impact.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Athletic Bilbao vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209731/athletic-club-vs-real-betis.html
+
+01:00 [g]Portuguese Primera Liga[z]	^-
+Alverca vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216108/alverca-vs-sporting-cp.html
+
+01:30 [y]Bundesliga[z]	^-
+FC Augsburg vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199784/fc-augsburg-vs-vfb-stuttgart.html
+
+01:30 [g]US Major League Soccer[z]	^-
+Minnesota Utd vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317350/minnesota-united-fc-vs-seattle-sounders.html
+
+02:00 [g]Danish Superliga[z]	^-
+Viborg vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368382/viborg-vs-midtjylland.html
+
+02:45 [y]Italian Serie A[z]	^-
+Fiorentina vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194758/fiorentina-vs-inter-milan.html
+
+02:45 [y]French Ligue 1[z]	^-
+Nantes vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200116/fc-nantes-vs-rc-strasbourg-alsace.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Real Madrid vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209645/real-madrid-vs-atletico-madrid.html
+
+03:30 [g]Portuguese Primera Liga[z]	^-
+Sporting Braga vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216107/sporting-braga-vs-fc-porto.html
+
+03:45 [g]US Major League Soccer[z]	^-
+Portland Timbers vs LA Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317347/portland-timbers-vs-los-angeles-galaxy.html
+
+06:00 [g]US Major League Soccer[z]	^-
+San Diego FC vs Real Salt Lake	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317338/san-diego-fc-vs-real-salt-lake.html
+
 	^-23
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
