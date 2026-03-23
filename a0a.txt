@@ -29,11 +29,7 @@
 Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
-23.03.2026	^-
-
-06:00 [g]US Major League Soccer[z]	^-
-San Diego FC vs Real Salt Lake	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317338/san-diego-fc-vs-real-salt-lake.html
-San Diego FC vs Real Salt Lake	`0https://www.marza12.shop/football/2908486-san-diego-fc-vs-real-salt-lake.html
+23.03.2026^-
 
 	^-23
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
