@@ -31,11 +31,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 	^-
 26.03.2026	^-
 
-03:00 [l]International Series[z]	^-
-US Virgin Islands vs American Samoa	`Fhttps://www.fctv33.net/football/fifa-series-match-4376269/us-virgin-islands-vs-american-samoa.html
-US Virgin Islands vs American Samoa	`0https://www.marza12.shop/football/2964266-us-virgin-islands-vs-american-samoa.html
-US Virgin Islands vs American Samoa	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eGTgyU2yRmscq.m3u8
-
 07:00 [l]International Series[z]	^-
 Puerto Rico vs Guam Island	`Fhttps://www.fctv33.net/football/fifa-series-match-4376277/puerto-rico-vs-guam-island.html
 Puerto Rico vs Guam Island	`0https://www.marza12.shop/football/2964267-puerto-rico-vs-guam-island.html
