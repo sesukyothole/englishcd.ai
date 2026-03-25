@@ -30,9 +30,46 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 26.03.2026	^-
+
 03:00 [l]International Series[z]	^-
 US Virgin Islands vs American Samoa	`Fhttps://www.fctv33.net/football/fifa-series-match-4376269/us-virgin-islands-vs-american-samoa.html
 US Virgin Islands vs American Samoa	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eGTgyU2yRmscq.m3u8
+
+07:00 [l]International Series[z]	^-
+Puerto Rico vs Guam Island	`Fhttps://www.fctv33.net/football/fifa-series-match-4376277/puerto-rico-vs-guam-island.html
+
+17:30 [l]AFC Asian Cup[z]	^-
+Afghanistan vs Myanmar	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099875/afghanistan-vs-myanmar.html
+
+18:30 [l]International Series[z]	^-
+Aruba vs Macau of China	`Fhttps://www.fctv33.net/football/fifa-series-match-4376281/aruba-vs-macau-of-china.html
+
+21:30 [l]International Series[z]	^-
+Tanzania vs Liechtenstein	`Fhttps://www.fctv33.net/football/fifa-series-match-4376284/tanzania-vs-liechtenstein.html
+
+22:00 [l]International Friendly[z]	^-
+Moldova vs Lithuania	`Fhttps://www.fctv33.net/football/international-friendly-match-4370274/moldova-vs-lithuania.html
+
+27.03.2026	^-
+
+00:00 [l]UEFA Nations League[z]	^-
+Malta vs Luxembourg	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155873/malta-vs-luxembourg.html
+Gibraltar vs Latvia	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155897/gibraltar-vs-latvia.html
+
+00:00 [l]International Friendly[z]	^-
+Cyprus vs Belarus	`Fhttps://www.fctv33.net/football/international-friendly-match-4370271/cyprus-vs-belarus.html
+
+00:00 [l]World Cup qualification UEFA[z]	^-
+Turkey vs Romania	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376771/turkiye-vs-romania.html
+
+02:45 [l]World Cup qualification UEFA[z]	^-
+Denmark vs North Macedonia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376781/denmark-vs-north-macedonia.html
+Czech vs Ireland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376782/czechia-vs-ireland.html
+Italy vs Northern Ireland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376783/italy-vs-northern-ireland.html
+Wales vs Bosnia-Herzegovina	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376784/wales-vs-bosnia-herzegovina.html
+Ukraine vs Sweden	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376785/ukraine-vs-sweden.html
+Poland vs Albania	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376786/poland-vs-albania.html
+Slovakia vs Kosovo	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4376787/slovakia-vs-kosovo.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
