@@ -31,11 +31,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 	^-
 26.03.2026	^-
 
-19:00 [l]International Friendly[z]	^-
-Vietnam vs Bangladesh	`Fhttps://www.fctv33.net/football/international-friendly-match-4370279/vietnam-vs-bangladesh.html
-Vietnam vs Bangladesh	`0https://www.marza12.shop/football/2964202-vietnam-vs-bangladesh.html
-Vietnam vs Bangladesh	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKK8P1LsuJffws.m3u8
-
 20:00 [l]CAF Africa Cup of Nations[z]	^-
 Djibouti vs South Sudan	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4376767/djibouti-vs-south-sudan.html
 Djibouti vs South Sudan	`0https://www.marza12.shop/football/2964162-djibouti-vs-south-sudan.html
