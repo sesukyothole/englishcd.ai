@@ -30,7 +30,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-27.03.2026	^-
+27.03.2026	^-4
 
 05:00 [l]FIFA World Cup Inter-confed Play-offs[z]	^-
 Bolivia vs Suriname	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4323130/bolivia-vs-suriname.html
@@ -42,6 +42,13 @@ Bolivia vs Suriname	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cen
 Colombia vs Croatia	`Fhttps://www.fctv33.net/football/international-friendly-match-4370270/colombia-vs-croatia.html
 Colombia vs Croatia	`0https://www.marza12.shop/football/2965178-colombia-vs-croatia.html
 Colombia vs Croatia	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+
+07:00 [l]NC A S[z]	^-
+Dominican Republic vs El Salvador	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379115/dominican-republic-vs-el-salvador.html
+Cayman Islands vs British Virgin Islands	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379155/cayman-islands-vs-british-virgin-islands.html
+
+07:30 [l]NC A S[z]	^-
+Bonaire vs St. Vincent Grenadines	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379187/bonaire-vs-st-vincent---grenadines.html
 
 10:00 [l]FIFA World Cup Inter-confed Play-offs[z]	^-
 New Caledonia vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4335061/new-caledonia-vs-jamaica.html
@@ -108,7 +115,10 @@ England vs Uruguay	`Fhttps://www.fctv33.net/football/international-friendly-matc
 Netherlands vs Norway	`Fhttps://www.fctv33.net/football/international-friendly-match-4370262/netherlands-vs-norway.html
 Switzerland vs Germany	`Fhttps://www.fctv33.net/football/international-friendly-match-4370263/switzerland-vs-germany.html
 
-	^-4
+03:00 [l]International Friendly[z]	^-
+Spain vs Serbia	`Fhttps://www.fctv33.net/football/international-friendly-match-4376000/spain-vs-serbia.html
+
+	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
