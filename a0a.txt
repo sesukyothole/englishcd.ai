@@ -34,14 +34,17 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 17:30 [l]AFC Asian Cup[z]	^-
 Afghanistan vs Myanmar	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099875/afghanistan-vs-myanmar.html
 Afghanistan vs Myanmar	`0https://www.marza12.shop/football/2709670-afghanistan-vs-myanmar.html
+Afghanistan vs Myanmar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6z68yyxruFs.m3u8
 
 18:30 [l]International Series[z]	^-
 Aruba vs Macau of China	`Fhttps://www.fctv33.net/football/fifa-series-match-4376281/aruba-vs-macau-of-china.html
 Aruba vs Macau of China	`0https://www.marza12.shop/football/2964268-aruba-vs-macau-of-china.html
+Aruba vs Macau of China	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eHE2BhXbDkB3s.m3u8
 
 19:00 [l]International Friendly[z]	^-
 Vietnam vs Bangladesh	`Fhttps://www.fctv33.net/football/international-friendly-match-4370279/vietnam-vs-bangladesh.html
 Vietnam vs Bangladesh	`0https://www.marza12.shop/football/2964202-vietnam-vs-bangladesh.html
+Vietnam vs Bangladesh	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKK8P1LsuJffws.m3u8
 
 20:00 [l]CAF Africa Cup of Nations[z]	^-
 Djibouti vs South Sudan	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4376767/djibouti-vs-south-sudan.html
