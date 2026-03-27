@@ -30,7 +30,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-27.03.2026	^-6+12
+27.03.2026	^-6+13
 
 20:00 [l]International Series[z]	^-
 Indonesia vs St. Kitts and Nevis	`Fhttps://www.fctv33.net/football/fifa-series-match-4376801/indonesia-vs-st-kitts-and-nevis.html
@@ -38,7 +38,6 @@ Indonesia vs St. Kitts and Nevis	`0https://www.marza12.shop/football/2964274-ind
 Indonesia vs St. Kitts and Nevis	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eGThU3HHfWncV.m3u8
 Indonesia vs St. Kitts and Nevis	https://pull-live4.fastestcdn-global.com/live/20234eddcd2f49a8bf2332361b7f9f4f/index.m3u8
 Indonesia vs St. Kitts and Nevis	`0https://w2.sportzsonline.click/channels/hd/hd9.php
-Indonesia vs St. Kitts and Nevis	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 Azerbaijan vs St. Lucia	`Fhttps://www.fctv33.net/football/fifa-series-match-4376806/azerbaijan-vs-saint-lucia.html
 Azerbaijan vs St. Lucia	`0https://www.marza12.shop/football/2964272-azerbaijan-vs-st-lucia.html
 
@@ -67,7 +66,7 @@ Kenya vs Estonia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eHE27JZrG6Lk
 Russia vs Nicaragua	`Fhttps://www.fctv33.net/football/international-friendly-match-4370267/russia-vs-nicaragua.html
 Russia vs Nicaragua	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKLbBqxn8JMHpH.m3u8
 
-28.03.2026	^-6+12
+28.03.2026	^-6+13
 
 00:00 [l]International Friendly[z]	^-
 Austria vs Ghana	`Fhttps://www.fctv33.net/football/international-friendly-match-4370265/austria-vs-ghana.html
