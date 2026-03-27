@@ -30,7 +30,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-27.03.2026	^-5
+27.03.2026	^-6
 
 10:00 [l]FIFA World Cup Inter-confed Play-offs[z]	^-
 New Caledonia vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4335061/new-caledonia-vs-jamaica.html
@@ -95,7 +95,7 @@ Sao Tome Principe vs Ethiopia	`Fhttps://www.fctv33.net/football/caf-africa-cup-o
 Kenya vs Estonia	`Fhttps://www.fctv33.net/football/fifa-series-match-4377243/kenya-vs-estonia.html
 Kenya vs Estonia	`0https://www.marza12.shop/football/2964277-kenya-vs-estonia.html
 
-28.03.2026	^-
+28.03.2026	^-6
 
 00:00 [l]International Friendly[z]	^-
 Austria vs Ghana	`Fhttps://www.fctv33.net/football/international-friendly-match-4370265/austria-vs-ghana.html
@@ -120,7 +120,10 @@ Switzerland vs Germany	`Fhttps://www.fctv33.net/football/international-friendly-
 03:00 [l]International Friendly[z]	^-
 Spain vs Serbia	`Fhttps://www.fctv33.net/football/international-friendly-match-4376000/spain-vs-serbia.html
 
-	^-5
+06:15 [l]International Friendly[z]	^-
+Argentina vs Mauritania	`Fhttps://www.fctv33.net/football/international-friendly-match-4376157/argentina-vs-mauritania.html
+
+	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
