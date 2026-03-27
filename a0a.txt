@@ -32,12 +32,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 27.03.2026	^-4
 
-05:00 [l]FIFA World Cup Inter-confed Play-offs[z]	^-
-Bolivia vs Suriname	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4323130/bolivia-vs-suriname.html
-Bolivia vs Suriname	`0https://www.marza12.shop/football/2901845-bolivia-vs-suriname.html
-Bolivia vs Suriname	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYMCMcC2vg1aQBNu.m3u8
-Bolivia vs Suriname	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-
 06:30 [l]International Friendly[z]	^-
 Colombia vs Croatia	`Fhttps://www.fctv33.net/football/international-friendly-match-4370270/colombia-vs-croatia.html
 Colombia vs Croatia	`0https://www.marza12.shop/football/2965178-colombia-vs-croatia.html
