@@ -31,18 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-28.03.2026	^-7
-
-02:00 [l]International Friendly[z]	^-
-Greece vs Paraguay	`Fhttps://www.fctv33.net/football/international-friendly-match-4370264/greece-vs-paraguay.html
-Greece vs Paraguay	`0https://www.marza12.shop/football/2962799-greece-vs-paraguay.html
-Greece vs Paraguay	`0https://w2.sportzsonline.click/channels/hd/hd10.php
-Greece vs Paraguay	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKLbBzkhcDexRs.m3u8
-
-02:00 [l]International Series[z]	^-
-Rwanda vs Grenada	`Fhttps://www.fctv33.net/football/fifa-series-match-4377246/rwanda-vs-grenada.html
-Rwanda vs Grenada	`0https://www.marza12.shop/football/2964278-rwanda-vs-grenada.html
-Rwanda vs Grenada	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eHE2575ynGRbB.m3u8
+28.03.2026	^-16
 
 02:30 [l]International Friendly[z]	^-
 Algeria vs Guatemala	`Fhttps://www.fctv33.net/football/international-friendly-match-4377728/algeria-vs-guatemala.html
@@ -107,7 +96,7 @@ Persiraja Aceh vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga
 23:00 [l]International Friendly[z]	^-
 Senegal vs Peru	`Fhttps://www.fctv33.net/football/international-friendly-match-4370258/senegal-vs-peru.html
 
-29.03.2026	^-7
+29.03.2026	^-16
 
 00:00 [l]International Friendly[z]	^-
 Canada vs Iceland	`Fhttps://www.fctv33.net/football/international-friendly-match-4370255/canada-vs-iceland.html
