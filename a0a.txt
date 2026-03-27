@@ -35,15 +35,13 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 17:00 [g]Japanese J1 League[z]	^-
 Vissel Kobe vs Hiroshima Sanfrecce	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331655/vissel-kobe-vs-sanfrecce-hiroshima.html
 Vissel Kobe vs Hiroshima Sanfrecce	`0https://www.marza12.shop/football/2916029-vissel-kobe-vs-hiroshima-sanfrecce.html
-Vissel Kobe vs Hiroshima Sanfrecce	`0http://lives.so36.cc/player/fbflv.php?id=4366023
-Vissel Kobe vs Hiroshima Sanfrecce	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4470755.flv%3FtxSecret%3D0820b7cf1bee53f372f1d554ce433029%26txTime%3D69C6B68D&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=1&hotkey=true
+Vissel Kobe vs Hiroshima Sanfrecce	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4470755.flv%3FtxSecret%3D0820b7cf1bee53f372f1d554ce433029%26txTime%3D69C6B68D&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=0&hotkey=true
 Vissel Kobe vs Hiroshima Sanfrecce	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1KQJZg2oFdHf.m3u8
 
 17:00 [l]International Series[z]	^-
 Venezuela vs Trinidad Tobago	`Fhttps://www.fctv33.net/football/fifa-series-match-4372848/venezuela-vs-trinidad-tobago.html
 Venezuela vs Trinidad Tobago	`0https://www.marza12.shop/football/2964279-venezuela-vs-trinidad-and-tobago.html
-Venezuela vs Trinidad Tobago	`0http://lives.so36.cc/player/fbflv.php?id=4394172
-Venezuela vs Trinidad Tobago	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4496552.flv%3FtxSecret%3D780663771beef615d3510d9f23f00ce5%26txTime%3D69C6B60D&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=1&hotkey=true
+Venezuela vs Trinidad Tobago	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4496552.flv%3FtxSecret%3D780663771beef615d3510d9f23f00ce5%26txTime%3D69C6B60D&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=0&hotkey=true
 Venezuela vs Trinidad Tobago	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNYsW15zAMsqDCy.m3u8
 
 20:00 [l]International Series[z]	^-
