@@ -1,6 +1,7 @@
 	^-
 	^-
 ^=	^-
+^=Test	`0view-source:https://embed.infobets.top/match2/vissel-kobe-vs-sanfrecce-BMJIFXU8
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=Blank	
