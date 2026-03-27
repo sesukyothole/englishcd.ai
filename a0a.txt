@@ -52,6 +52,7 @@ Iran vs Nigeria	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqpjF1Mfu6ai141
 21:00 [l]International Series[z]	^-
 Uzbekistan vs Gabon	`Fhttps://www.fctv33.net/football/fifa-series-match-4376805/uzbekistan-vs-gabon.html
 Uzbekistan vs Gabon	`0https://www.marza12.shop/football/2964280-uzbekistan-vs-gabon.html
+Uzbekistan vs Gabon	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNYsW13ngVQ1J45.m3u8
 
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Sao Tome Principe vs Ethiopia	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4376238/sao-tome---principe-vs-ethiopia.html
@@ -59,6 +60,7 @@ Sao Tome Principe vs Ethiopia	`Fhttps://www.fctv33.net/football/caf-africa-cup-o
 23:00 [l]International Series[z]	^-
 Kenya vs Estonia	`Fhttps://www.fctv33.net/football/fifa-series-match-4377243/kenya-vs-estonia.html
 Kenya vs Estonia	`0https://www.marza12.shop/football/2964277-kenya-vs-estonia.html
+Kenya vs Estonia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eHE27JZrG6Lk5.m3u8
 
 28.03.2026	^-6+12
 
@@ -2960,7 +2962,6 @@ ZiggoSport2[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport2[Netherlands]
 ZiggoSport3[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport3[Netherlands]
 ZiggoSport4[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport4[Netherlands]
 
-^=SCTV	https://live.alilicloud.com/live/63f33dadbe3a49eb1f08a767ba7899b0/playlist.m3u8
 ^=SportStars 3	https://geogersr.itilstrem.workers.dev/https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd!!b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 SportStars 1	https://rp-rplusku1.pages.dev/https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 SportStars 2	https://rp-rplusku1.pages.dev/https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
