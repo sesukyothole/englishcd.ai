@@ -32,26 +32,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 27.03.2026	^-6+12
 
-13:00 [l]International Series[z]	^-
-China vs Curacao	`Fhttps://www.fctv33.net/football/fifa-series-match-4341122/china-vs-curacao.html
-China vs Curacao	`0https://www.marza12.shop/football/2925764-china-vs-curacao.html
-China vs Curacao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpbLsfQZFRyGWR.m3u8
-China vs Curacao	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MvVcpbLsfQZFRyGWR.m3u8
-
-13:15 [l]International Series[z]	^-
-New Zealand vs Finland	`Fhttps://www.fctv33.net/football/fifa-series-match-4376790/new-zealand-vs-finland.html
-New Zealand vs Finland	`0https://www.marza12.shop/football/2964276-new-zealand-vs-finland.html
-New Zealand vs Finland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcmHQh289qpBGPo.m3u8
-
-15:30 Liga 2	^-
-Persikad Depok vs Persekat Tegal	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352245/persikad-depok-vs-persekat-tegal.html
-Persikad Depok vs Persekat Tegal	`0https://www.marza12.shop/football/2941569-persikad-depok-vs-persekat-tegal.html
-
-15:30 [l]International Series[z]	^-
-Solomon Islands vs Bulgaria	`Fhttps://www.fctv33.net/football/fifa-series-match-4376792/solomon-islands-vs-bulgaria.html
-Solomon Islands vs Bulgaria	`0https://www.marza12.shop/football/2964273-solomon-islands-vs-bulgaria.html
-Solomon Islands vs Bulgaria	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eGThWEmA9LhmP.m3u8
-
 16:10 [l]International Series[z]	^-
 Australia vs Cameroon	`Fhttps://www.fctv33.net/football/fifa-series-match-4376794/australia-vs-cameroon.html
 Australia vs Cameroon	`0https://www.marza12.shop/football/2964270-australia-vs-cameroon.html
