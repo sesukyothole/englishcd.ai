@@ -123,7 +123,6 @@ Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.me
 Lawak Sentral	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 Oh My Ceria!	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
-K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
@@ -140,7 +139,6 @@ LifeStyle	https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 MDTV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 Moji TV	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 MoonBug	https://moonbug-rokuus.amagi.tv/playlist.m3u8
 MotorVision	https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
@@ -2962,6 +2960,9 @@ ZiggoSport1[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport[Netherlands]
 ZiggoSport2[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport2[Netherlands]
 ZiggoSport3[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport3[Netherlands]
 ZiggoSport4[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport4[Netherlands]
+
+K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 
 ^=SportStars 3	https://geogersr.itilstrem.workers.dev/https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd!!b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 SportStars 1	https://rp-rplusku1.pages.dev/https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
