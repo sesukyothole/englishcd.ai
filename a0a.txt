@@ -31,7 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-27.03.2026	^-11
+27.03.2026	^-2
 
 23:00 [l]CAF Africa Cup of Nations[z]	^-
 Sao Tome Principe vs Ethiopia	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4376238/sao-tome---principe-vs-ethiopia.html
@@ -46,7 +46,7 @@ Kenya vs Estonia	`0https://w2.sportzsonline.click/channels/hd/hd8.php
 Russia vs Nicaragua	`Fhttps://www.fctv33.net/football/international-friendly-match-4370267/russia-vs-nicaragua.html
 Russia vs Nicaragua	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKLbBqxn8JMHpH.m3u8
 
-28.03.2026	^-11
+28.03.2026	^-2
 
 00:00 [l]International Friendly[z]	^-
 Austria vs Ghana	`Fhttps://www.fctv33.net/football/international-friendly-match-4370265/austria-vs-ghana.html
@@ -57,6 +57,8 @@ Montenegro vs Andorra	`Fhttps://www.fctv33.net/football/international-friendly-m
 Montenegro vs Andorra	`0https://www.marza12.shop/football/2962797-montenegro-vs-andorra.html
 Montenegro vs Andorra	`0https://w2.sportzsonline.click/channels/hd/hd5.php
 Montenegro vs Andorra	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqYPJpzRfjNyZJV.m3u8
+South Africa vs Panama	`0https://www.marza12.shop/football/2965260-south-africa-vs-panama.html
+South Africa vs Panama	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKLbC2xBUhUsam.m3u8
 
 00:30 [l]International Friendly[z]	^-
 Saudi Arabia vs Egypt	`0https://www.marza12.shop/football/2965261-saudi-arabia-vs-egypt.html
