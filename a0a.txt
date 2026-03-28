@@ -37,10 +37,12 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 Machida Zelvia vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331786/machida-zelvia-vs-kawasaki-frontale.html
 Machida Zelvia vs Kawasaki Frontale	`0https://www.marza12.shop/football/2915939-machida-zelvia-vs-kawasaki-frontale.html
 Machida Zelvia vs Kawasaki Frontale	`0https://v.567440.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4470665.flv%3FtxSecret%3D316953226f6f0b2ec50e83e2c52c1448%26txTime%3D69C7C006&refreshText=%E5%88%B7%E6%96%B0&isMobile=false&mute=&cancel_mute=%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3&open_pip=%E7%94%BB%E4%B8%AD%E7%94%BB&fullscreen=1&hotkey=true
+Machida Zelvia vs Kawasaki Frontale	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqnzb5tP9odTnbo.m3u8
 
 13:00 [g]Korean K League 1[z]	^-
 Pohang Steelers vs Gangwon FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4331730/pohang-steelers-vs-gangwon-football-club.html
 Pohang Steelers vs Gangwon FC	`0https://www.marza12.shop/football/2929561-pohang-steelers-vs-gangwon-fc.html
+Pohang Steelers vs Gangwon FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrB8uS1WZmvxnH.m3u8
 
 15:30 Liga 2	^-
 Adhyaksa Banten vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352238/adhyaksa-fc-banten-vs-sumsel-united.html
