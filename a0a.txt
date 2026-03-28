@@ -33,10 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 28.03.2026	^-22
 
-17:00 Liga 2	^-
-Persi Jayapura vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352240/persipura-jayapura-vs-deltras-sidoarjo.html
-Persi Jayapura vs Deltras Sidoarjo	`0https://www.marza12.shop/football/2941572-persipura-jayapura-vs-deltras-sidoarjo.html
-
 19:00 Liga 2	^-
 PSMS Medan vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352247/psms-medan-vs-psps-riau.html
 PSMS Medan vs PSPS Riau	`0https://www.marza12.shop/football/2941573-psms-medan-vs-psps-pekanbaru.html
@@ -91,6 +87,7 @@ Puerto Rico vs US Virgin Islands	`Fhttps://www.fctv33.net/football/fifa-series-m
 Puerto Rico vs US Virgin Islands	`0https://www.marza12.shop/football/2969935-puerto-rico-vs-us-virgin-islands.html
 
 09:00 [l]International Friendly[z]	^-
+Mexico vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4318057/mexico-vs-portugal.html
 Mexico vs Portugal	`0https://www.marza12.shop/football/2965198-mexico-vs-portugal.html
 Mexico vs Portugal	`0https://w2.sportzsonline.click/channels/hd/hd2.php
 
