@@ -33,36 +33,39 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 28.03.2026	^-16
 
-06:15 [l]International Friendly[z]	^-
-Argentina vs Mauritania	`Fhttps://www.fctv33.net/football/international-friendly-match-4376157/argentina-vs-mauritania.html
-Argentina vs Mauritania	`0https://www.marza12.shop/football/2964801-argentina-vs-mauritania.html
-Argentina vs Mauritania	`0https://w2.sportzsonline.click/channels/hd/hd5.php
-Argentina vs Mauritania	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqswGdVaUUsuSsF.m3u8
-
 12:00 [g]Japanese J1 League[z]	^-
 Machida Zelvia vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331786/machida-zelvia-vs-kawasaki-frontale.html
+Machida Zelvia vs Kawasaki Frontale	`0https://www.marza12.shop/football/2915939-machida-zelvia-vs-kawasaki-frontale.html
 
 13:00 [g]Korean K League 1[z]	^-
 Pohang Steelers vs Gangwon FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4331730/pohang-steelers-vs-gangwon-football-club.html
+Pohang Steelers vs Gangwon FC	`0https://www.marza12.shop/football/2929561-pohang-steelers-vs-gangwon-fc.html
 
 15:30 Liga 2	^-
 Adhyaksa Banten vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352238/adhyaksa-fc-banten-vs-sumsel-united.html
+Adhyaksa Banten vs Sumsel United	`0https://www.marza12.shop/football/2941570-adhyaksa-farmel-fc-vs-sumsel-united.html
 Perse Lamongan vs Persi Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352259/persela-lamongan-vs-persiba-balikpapan.html
+Perse Lamongan vs Persi Balikpapan	`0https://www.marza12.shop/football/2941571-persela-lamongan-vs-persiba-balikpapan.html
 
 17:00 Liga 2	^-
 Persi Jayapura vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352240/persipura-jayapura-vs-deltras-sidoarjo.html
+Persi Jayapura vs Deltras Sidoarjo	`0https://www.marza12.shop/football/2941572-persipura-jayapura-vs-deltras-sidoarjo.html
 
 19:00 Liga 2	^-
 PSMS Medan vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352247/psms-medan-vs-psps-riau.html
+PSMS Medan vs PSPS Riau	`0https://www.marza12.shop/football/2941573-psms-medan-vs-psps-pekanbaru.html
 
 19:00 [l]International Series[z]	^-
 Namibia vs Comoros	`Fhttps://www.fctv33.net/football/fifa-series-match-4377600/namibia-vs-comoros.html
+Namibia vs Comoros	`0https://www.marza12.shop/football/2965318-namibia-vs-comoros.html
 
 20:30 Liga 2	^-
 Persiraja Aceh vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352239/persiraja-aceh-vs-sriwijaya-fc.html
+Persiraja Aceh vs Sriwijaya FC	`0https://www.marza12.shop/football/2941574-persiraja-aceh-vs-sriwijaya-fc.html
 
 23:00 [l]International Friendly[z]	^-
 Senegal vs Peru	`Fhttps://www.fctv33.net/football/international-friendly-match-4370258/senegal-vs-peru.html
+Senegal vs Peru	`0https://w2.sportzsonline.click/channels/hd/hd6.php
 
 29.03.2026	^-16
 
