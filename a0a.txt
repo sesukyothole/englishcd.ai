@@ -31,27 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-28.03.2026	^-22
-
-23:00 [l]International Friendly[z]	^-
-Senegal vs Peru	`Fhttps://www.fctv33.net/football/international-friendly-match-4370258/senegal-vs-peru.html
-Senegal vs Peru	`0https://w2.sportzsonline.click/channels/hd/hd6.php
-Senegal vs Peru	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLB4qMak7ZaD.m3u8
-Botswana vs Zimbabwe	`0https://www.marza12.shop/football/2967123-botswana-vs-zimbabwe.html
-
 29.03.2026	^-22
-
-00:00 [l]International Friendly[z]	^-
-Canada vs Iceland	`Fhttps://www.fctv33.net/football/international-friendly-match-4370255/canada-vs-iceland.html
-Canada vs Iceland	`0https://w2.sportzsonline.click/channels/hd/hd5.php
-Hungary vs Slovenia	`Fhttps://www.fctv33.net/football/international-friendly-match-4370256/hungary-vs-slovenia.html
-Hungary vs Slovenia	`0https://www.marza12.shop/football/2966700-hungary-vs-slovenia.html
-Hungary vs Slovenia	`0https://w2.sportzsonline.click/channels/hd/hd11.php
-Hungary vs Slovenia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLAoSzVPL9Vw.m3u8
-Scotland vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4370257/scotland-vs-japan.html
-Scotland vs Japan	`0https://www.marza12.shop/football/2965064-scotland-vs-japan.html
-Scotland vs Japan	`0https://w2.sportzsonline.click/channels/hd/hd2.php
-Scotland vs Japan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLAmFWcuWEM3.m3u8
 
 01:00 [l]International Friendly[z]	^-
 Burkina Faso vs Guinea-Bissau	`0https://www.marza12.shop/football/2967132-burkina-faso-vs-guinea-bissau.html
