@@ -31,7 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-28.03.2026	^-16
+28.03.2026	^-22
 
 12:00 [g]Japanese J1 League[z]	^-
 Machida Zelvia vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331786/machida-zelvia-vs-kawasaki-frontale.html
@@ -76,7 +76,7 @@ Senegal vs Peru	`Fhttps://www.fctv33.net/football/international-friendly-match-4
 Senegal vs Peru	`0https://w2.sportzsonline.click/channels/hd/hd6.php
 Botswana vs Zimbabwe	`0https://www.marza12.shop/football/2967123-botswana-vs-zimbabwe.html
 
-29.03.2026	^-16
+29.03.2026	^-22
 
 00:00 [l]International Friendly[z]	^-
 Canada vs Iceland	`Fhttps://www.fctv33.net/football/international-friendly-match-4370255/canada-vs-iceland.html
