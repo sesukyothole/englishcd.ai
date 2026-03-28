@@ -33,24 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 28.03.2026	^-22
 
-19:00 Liga 2	^-
-PSMS Medan vs PSPS Riau	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352247/psms-medan-vs-psps-riau.html
-PSMS Medan vs PSPS Riau	`0https://www.marza12.shop/football/2941573-psms-medan-vs-psps-pekanbaru.html
-
-19:00 [l]International Series[z]	^-
-Namibia vs Comoros	`Fhttps://www.fctv33.net/football/fifa-series-match-4377600/namibia-vs-comoros.html
-Namibia vs Comoros	`0https://www.marza12.shop/football/2965318-namibia-vs-comoros.html
-Namibia vs Comoros	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqpjFqLGEwxcDF3.m3u8
-
-20:30 Liga 2	^-
-Persiraja Aceh vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352239/persiraja-aceh-vs-sriwijaya-fc.html
-Persiraja Aceh vs Sriwijaya FC	`0https://www.marza12.shop/football/2941574-persiraja-aceh-vs-sriwijaya-fc.html
-
-21:00 [l]International Friendly[z]	^-
-San Marino vs Faroe Islands	`0https://www.marza12.shop/football/2967136-san-marino-vs-faroe-islands.html
-San Marino vs Faroe Islands	`0https://w2.sportzsonline.click/channels/hd/hd9.php
-South Korea vs Ivory Coast	`0https://www.marza12.shop/football/2965062-south-korea-vs-ivory-coast.html
-
 23:00 [l]International Friendly[z]	^-
 Senegal vs Peru	`Fhttps://www.fctv33.net/football/international-friendly-match-4370258/senegal-vs-peru.html
 Senegal vs Peru	`0https://w2.sportzsonline.click/channels/hd/hd6.php
