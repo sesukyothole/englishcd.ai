@@ -31,17 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-30.03.2026	^-4
-
-02:00 [l]International Series[z]	^-
-Colombia vs France	`Fhttps://www.fctv33.net/football/international-friendly-match-4370253/colombia-vs-france.html
-Colombia vs France	`0https://www.marza12.shop/football/2966699-colombia-vs-france.html
-Colombia vs France	`0https://w2.sportzsonline.click/channels/hd/hd2.php
-Colombia vs France	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKK8PY7c62EW6R.m3u8
-Colombia vs France	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-
-02:00 [l]NC A S[z]	^-
-Martinique vs El Salvador	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXCTfXhWzfWWLV.m3u8
+30.03.2026	^-2
 
 03:00 [l]NC A S[z]	^-
 Barbados vs St Vincent Grenadines	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXCTfVW38BgbBb.m3u8
@@ -87,7 +77,7 @@ Azerbaijan vs Sierra Leone	`Fhttps://www.fctv33.net/football/fifa-series-match-4
 23:00 [l]International Friendly[z]	^-
 Cyprus vs Moldova	`Fhttps://www.fctv33.net/football/international-friendly-match-4379013/cyprus-vs-moldova.html
 
-31.03.2026	^-4
+31.03.2026	^-2
 
 00:30 [l]International Friendly[z]	^-
 Rwanda vs Estonia	`Fhttps://www.fctv33.net/football/fifa-series-match-4381933/rwanda-vs-estonia.html
