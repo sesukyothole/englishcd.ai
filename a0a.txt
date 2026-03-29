@@ -274,6 +274,11 @@ TNT Sports 1	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cll
 TNT Sports 2	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 TNT Sports 3	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 TNT Sports 4	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+TSN 2	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd!!daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+TSN 3	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd!!f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+TSN 4	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd!!c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+TSN 5	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd!!e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 TVR Sport	https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
@@ -1645,13 +1650,6 @@ Sony PAL	https://dtvxtream.com/sonyliv2/300268.m3u8
 Sony SAB	https://dtvxtream.com/sonyliv2/300267.m3u8
 Sony WAH	https://dtvxtream.com/sonyliv2/300266.m3u8
 Sony YAY	https://dtvxtream.com/sonyliv2/300270.m3u8
-
-	^-
-TSN 1	https://5.0!TSN_1!.z?7
-TSN 2	https://5.0!TSN_2!.z?7
-TSN 3	https://5.0!TSN_3!.z?7
-TSN 4	https://5.0!TSN_4!.z?7
-TSN 5	https://5.0!TSN_5!.z?7
 
 	^-
 👉[l]{h} Ⓟc12[z] All Pluto TV Channels👈	^^h12
