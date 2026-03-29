@@ -33,10 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 29.03.2026	^-4
 
-22:00 [l]CAF Africa Cup of Nations[z]	^-
-Lesotho vs Seychelles	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4376248/lesotho-vs-seychelles.html
-Lesotho vs Seychelles	`0https://www.marza12.shop/football/2964167-lesotho-vs-seychelles.html
-
 23:00 [l]International Series[z]	^-
 Aruba vs Liechtenstein	`Fhttps://www.fctv33.net/football/fifa-series-match-4380771/aruba-vs-liechtenstein.html
 Aruba vs Liechtenstein	`0https://www.marza12.shop/football/2969936-aruba-vs-liechtenstein.html
