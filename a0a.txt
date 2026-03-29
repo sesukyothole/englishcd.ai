@@ -31,7 +31,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-29.03.2026	^-22
+29.03.2026	^-4
 
 08:00 [l]International Friendly[z]	^-
 Mexico vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4318057/mexico-vs-portugal.html
@@ -45,8 +45,6 @@ Garudayaksa FC vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-li
 
 19:00 Liga 2	^-
 Kendal Tornado FC vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352255/kendal-tornado-fc-vs-pss-sleman.html
-
-20:00 Liga 2	^-
 PSIS Semarang vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352261/psis-semarang-vs-persipal-palu.html
 
 20:00 [l]CAF Africa Cup of Nations[z]	^-
@@ -67,7 +65,7 @@ Lesotho vs Seychelles	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nation
 23:00 [l]International Series[z]	^-
 Aruba vs Liechtenstein	`Fhttps://www.fctv33.net/football/fifa-series-match-4380771/aruba-vs-liechtenstein.html
 
-30.03.2026	^-22
+30.03.2026	^-4
 
 02:00 [l]International Series[z]	^-
 Colombia vs France	`Fhttps://www.fctv33.net/football/international-friendly-match-4370253/colombia-vs-france.html
