@@ -33,10 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 29.03.2026	^-4
 
-16:30 Liga 2	^-
-Barito Putera vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352243/barito-putera-vs-persiku-kudus.html
-Garudayaksa FC vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352254/garudayaksa-fc-vs-fc-bekasi-city.html
-
 19:00 Liga 2	^-
 Kendal Tornado FC vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352255/kendal-tornado-fc-vs-pss-sleman.html
 PSIS Semarang vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352261/psis-semarang-vs-persipal-palu.html
@@ -49,9 +45,11 @@ Lithuania vs Georgia	`Fhttps://www.fctv33.net/football/international-friendly-ma
 
 20:00 [l]International Series[z]	^-
 Macau of China vs Tanzania	`Fhttps://www.fctv33.net/football/fifa-series-match-4380772/macau-of-china-vs-tanzania.html
+Macau of China vs Tanzania	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQeFYq9XaiEoPT.m3u8
 
 21:00 [l]International Friendly[z]	^-
 Armenia vs Belarus	`Fhttps://www.fctv33.net/football/international-friendly-match-4375999/armenia-vs-belarus.html
+Armenia vs Belarus	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqVAX31BHhnsAwf.m3u8
 
 22:00 [l]CAF Africa Cup of Nations[z]	^-
 Lesotho vs Seychelles	`Fhttps://www.fctv33.net/football/caf-africa-cup-of-nations-match-4376248/lesotho-vs-seychelles.html
