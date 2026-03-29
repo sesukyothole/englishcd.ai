@@ -40,6 +40,18 @@ Colombia vs France	`0https://w2.sportzsonline.click/channels/hd/hd2.php
 Colombia vs France	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKK8PY7c62EW6R.m3u8
 Colombia vs France	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 
+04:30 [l]NC A S[z]	^-
+British Virgin Islands vs Anguilla	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379323/british-virgin-islands-vs-anguilla.html
+
+05:00 [l]NC A S[z]	^-
+Dominican Republic vs Cuba	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379316/dominican-republic-vs-cuba.html
+
+07:00 [l]NC A S[z]	^-
+Cayman Islands vs Bahamas	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379324/cayman-islands-vs-bahamas.html
+
+07:30 [l]NC A S[z]	^-
+Bonaire vs French Saint-Martin	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379191/bonaire-vs-french-saint-martin.html
+
 10:00 [l]International Series[z]	^-
 Cape Verde vs Finland	`Fhttps://www.fctv33.net/football/fifa-series-match-4376833/cape-verde-vs-finland.html
 Cape Verde vs Finland	`0https://www.marza12.shop/football/2965320-cape-verde-vs-finland.html
@@ -59,15 +71,21 @@ Indonesia vs Bulgaria	`Fhttps://www.fctv33.net/football/fifa-series-match-438108
 
 21:00 [l]International Series[z]	^-
 Uzbekistan vs Venezuela	`Fhttps://www.fctv33.net/football/fifa-series-match-4376853/uzbekistan-vs-venezuela.html
+Grenada vs Kenya	`Fhttps://www.fctv33.net/football/fifa-series-match-4381930/grenada-vs-kenya.html
 
 22:00 [l]International Series[z]	^-
 Azerbaijan vs Sierra Leone	`Fhttps://www.fctv33.net/football/fifa-series-match-4378915/azerbaijan-vs-sierra-leone.html
 
-23:00 [l]International Series[z]	^-
-Grenada vs Kenya	`Fhttps://www.fctv33.net/football/fifa-series-match-4381930/grenada-vs-kenya.html
-
 23:00 [l]International Friendly[z]	^-
 Cyprus vs Moldova	`Fhttps://www.fctv33.net/football/international-friendly-match-4379013/cyprus-vs-moldova.html
+
+31.03.2026	^-4
+
+00:30 [l]International Friendly[z]	^-
+Rwanda vs Estonia	`Fhttps://www.fctv33.net/football/fifa-series-match-4381933/rwanda-vs-estonia.html
+
+01:45 [l]International Friendly[z]	^-
+Germany vs Ghana	`Fhttps://www.fctv33.net/football/international-friendly-match-4322417/germany-vs-ghana.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
