@@ -43,6 +43,9 @@ Colombia vs France	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/c
 02:00 [l]NC A S[z]	^-
 Martinique vs El Salvador	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXCTfXhWzfWWLV.m3u8
 
+03:00 [l]NC A S[z]	^-
+Barbados vs St Vincent Grenadines	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXCTfVW38BgbBb.m3u8
+
 04:30 [l]NC A S[z]	^-
 British Virgin Islands vs Anguilla	`Fhttps://www.fctv33.net/football/nc-a-s-match-4379323/british-virgin-islands-vs-anguilla.html
 
