@@ -33,7 +33,7 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-13:00 [l]FIFA Series[z]	^-
+13:00 [l]FIFA Series[z]	^-d
 Cameroon vs China	`Fhttps://www.fctv33.net/football/fifa-series-match-4341123/cameroon-vs-china.html
 
 16:00 [l]AFC Asian Cup[z]	^-
