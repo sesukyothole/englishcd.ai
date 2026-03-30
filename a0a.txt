@@ -35,26 +35,33 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 15:30 [l]International Series[z]	^-
 St.Kitts & Nevis vs Solomon Islands	`Fhttps://www.fctv33.net/football/fifa-series-match-4381090/saint-kitts-and-nevis-vs-solomon-islands.html
+St.Kitts & Nevis vs Solomon Islands	`0https://www.marza12.shop/football/2970457-saint-kitts-and-nevis-vs-solomon-islands.html
 St.Kitts & Nevis vs Solomon Islands	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQfjM7quF2Mjo3.m3u8
 
 17:00 [l]International Series[z]	^-
 Trinidad Tobago vs Gabon	`Fhttps://www.fctv33.net/football/fifa-series-match-4372849/trinidad-and-tobago-vs-gabon.html
+Trinidad Tobago vs Gabon	`0https://www.marza12.shop/football/2965240-trinidad-and-tobago-vs-gabon.html
 Trinidad Tobago vs Gabon	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eHE1oiitRV1Wu.m3u8
 
 20:00 [l]International Series[z]	^-
 Indonesia vs Bulgaria	`Fhttps://www.fctv33.net/football/fifa-series-match-4381089/indonesia-vs-bulgaria.html
+Indonesia vs Bulgaria	`0https://www.marza12.shop/football/2970470-indonesia-vs-bulgaria.html
 Indonesia vs Bulgaria	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQfjMcR9ZG6enh.m3u8
 
 21:00 [l]International Series[z]	^-
 Uzbekistan vs Venezuela	`Fhttps://www.fctv33.net/football/fifa-series-match-4376853/uzbekistan-vs-venezuela.html
+Uzbekistan vs Venezuela	`0https://www.marza12.shop/football/2965241-uzbekistan-vs-venezuela.html
 Grenada vs Kenya	`Fhttps://www.fctv33.net/football/fifa-series-match-4381930/grenada-vs-kenya.html
+Grenada vs Kenya	`0https://www.marza12.shop/football/2970483-grenada-vs-kenya.html
 
 22:00 [l]International Series[z]	^-
 Azerbaijan vs Sierra Leone	`Fhttps://www.fctv33.net/football/fifa-series-match-4378915/azerbaijan-vs-sierra-leone.html
+Azerbaijan vs Sierra Leone	`0https://www.marza12.shop/football/2967194-azerbaijan-vs-sierra-leone.html
 Azerbaijan vs Sierra Leone	`0https://w2.sportzsonline.click/channels/hd/hd10.php
 
 23:00 [l]International Friendly[z]	^-
 Cyprus vs Moldova	`Fhttps://www.fctv33.net/football/international-friendly-match-4379013/cyprus-vs-moldova.html
+Cyprus vs Moldova	`0https://www.marza12.shop/football/2967076-cyprus-vs-moldova.html
 Cyprus vs Moldova	`0https://w2.sportzsonline.click/channels/hd/hd5.php
 Spain vs Egypt	`0https://w2.sportzsonline.click/channels/hd/hd6.php
 
@@ -62,9 +69,11 @@ Spain vs Egypt	`0https://w2.sportzsonline.click/channels/hd/hd6.php
 
 00:30 [l]International Friendly[z]	^-
 Rwanda vs Estonia	`Fhttps://www.fctv33.net/football/fifa-series-match-4381933/rwanda-vs-estonia.html
+Rwanda vs Estonia	`0https://www.marza12.shop/football/2970484-rwanda-vs-estonia.html
 
 01:45 [l]International Friendly[z]	^-
 Germany vs Ghana	`Fhttps://www.fctv33.net/football/international-friendly-match-4322417/germany-vs-ghana.html
+Germany vs Ghana	`0https://www.marza12.shop/football/2967072-germany-vs-ghana.html
 Germany vs Ghana	`0https://w2.sportzsonline.click/channels/hd/hd2.php
 
 	^-
