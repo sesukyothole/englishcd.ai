@@ -36,44 +36,68 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 13:00 [l]FIFA Series[z]	^-d
 Cameroon vs China	`Fhttps://www.fctv33.net/football/fifa-series-match-4341123/cameroon-vs-china.html
 
-16:00 [l]AFC Asian Cup[z]	^-
+16:00 [l]AFC Asian Cup[z]	^-d
 Pakistan vs Myanmar	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099872/pakistan-vs-myanmar.html
 
-16:10 [l]FIFA Series[z]	^-
+16:00 [l]International Friendly[z]	^-d
+Equatorial Guinea vs Madagascar	
+
+16:10 [l]FIFA Series[z]	^-d
 Australia vs Curacao	`Fhttps://www.fctv33.net/football/fifa-series-match-4341126/australia-vs-curacao.html
 
-17:30 [l]AFC Asian Cup[z]	^-
+17:30 [l]AFC Asian Cup[z]	^-dd
 Maldives vs Timor Leste	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099593/maldives-vs-timor-leste.html
 Chinese Taipei vs Sri Lanka	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099602/chinese-taipei-vs-sri-lanka.html
 
-19:00 [l]FIFA Series[z]	^-
-Kazakhstan vs Comoros	
-
-19:00 [l]AFC Asian Cup[z]	^-
+19:00 [l]AFC Asian Cup[z]	^-ddd
 Singapore vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099620/singapore-vs-bangladesh.html
 Vietnam vs Malaysia	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099639/vietnam-vs-malaysia.html
+Nepal vs Laos	
 
-19:30 [l]AFC Asian Cup[z]	^-
+19:00 [l]FIFA Series[z]	^-d
+Kazakhstan vs Comoros	
+
+19:30 [l]AFC Asian Cup[z]	^-dd
+Bhutan vs Brunei Darussalam	
 Thailand vs Turkmenistan	
 
-20:30 [l]AFC Asian Cup[z]	^-
+20:00 [l]CAF Africa Cup of Nations[z]	^-d
+Ethiopia vs Sao Tome and Principe	
+Burundi vs Chad	
+
+20:00 [l]International Friendly[z]	^-d
+Costa Rica vs Iran	
+
+20:30 [l]AFC Asian Cup[z]	^-d
 India vs Hong Kong	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099607/india-vs-hong-kong.html
 
-21:00 [l]AFC Asian Cup[z]	^-
+21:00 [l]AFC Asian Cup[z]	^-d
 Tajikistan vs Philippines	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099594/tajikistan-vs-philippines.html
 
-21:00 [l]CAF Africa Cup of Nations[z]	^-
+21:00 [l]CAF Africa Cup of Nations[z]	^-d
 Eswatini vs Eritrea	
 
-23:00 [l]UEFA Nations League[z]	^-
+22:00 [l]CAF Africa Cup of Nations[z]	^-d
+Mauritius vs Somalia	
+
+22:00 [l]International Friendly[z]	^-d
+Liberia vs Libya	
+
+23:00 [l]UEFA Nations League[z]	^-dd
 Latvia vs Gibraltar	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155959/latvia-vs-gibraltar.html
 Luxembourg vs Malta	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155962/luxembourg-vs-malta.html
 
-23:00 [l]International Friendly[z]	^-
+23:00 [l]International Friendly[z]	^-ddddd
+Serbia vs Saudi Arabia	
 Norway vs Switzerland	`Fhttps://www.fctv33.net/football/international-friendly-match-4370250/norway-vs-switzerland.html
 Montenegro vs Slovenia	`Fhttps://www.fctv33.net/football/international-friendly-match-4377725/montenegro-vs-slovenia.html
+Niger vs Togo	
+San Marino vs Andorra	
 
-23:00 [l]International Friendly[z]	^-
+23:15 [l]AFC Asian Cup[z]	^-d
+Syria vs Afghanistan	
+
+23:30 [l]International Friendly[z]	^-d
 Haiti vs Iceland	
 
 01.04.2026	^-2
