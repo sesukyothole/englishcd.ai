@@ -33,11 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 30.03.2026	^-2
 
-20:00 [l]International Series[z]	^-
-Indonesia vs Bulgaria	`Fhttps://www.fctv33.net/football/fifa-series-match-4381089/indonesia-vs-bulgaria.html
-Indonesia vs Bulgaria	`0https://www.marza12.shop/football/2970470-indonesia-vs-bulgaria.html
-Indonesia vs Bulgaria	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQfjMcR9ZG6enh.m3u8
-
 21:00 [l]International Series[z]	^-
 Uzbekistan vs Venezuela	`Fhttps://www.fctv33.net/football/fifa-series-match-4376853/uzbekistan-vs-venezuela.html
 Uzbekistan vs Venezuela	`0https://www.marza12.shop/football/2965241-uzbekistan-vs-venezuela.html
@@ -50,6 +45,7 @@ Grenada vs Kenya	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaoSUxBDJ5Jnm2
 Azerbaijan vs Sierra Leone	`Fhttps://www.fctv33.net/football/fifa-series-match-4378915/azerbaijan-vs-sierra-leone.html
 Azerbaijan vs Sierra Leone	`0https://www.marza12.shop/football/2967194-azerbaijan-vs-sierra-leone.html
 Azerbaijan vs Sierra Leone	`0https://w2.sportzsonline.click/channels/hd/hd10.php
+Azerbaijan vs Sierra Leone	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9WPbhBt5jWzR.m3u8
 
 23:00 [l]International Friendly[z]	^-
 Cyprus vs Moldova	`Fhttps://www.fctv33.net/football/international-friendly-match-4379013/cyprus-vs-moldova.html
