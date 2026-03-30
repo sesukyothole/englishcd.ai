@@ -33,11 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 30.03.2026	^-2
 
-13:00 [l]International Series[z]	^-
-New Zealand vs Chile	`Fhttps://www.fctv33.net/football/fifa-series-match-4376832/new-zealand-vs-chile.html
-New Zealand vs Chile	`0https://w2.sportzsonline.click/channels/hd/hd6.php
-New Zealand vs Chile	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcmHQgVMRf6cSFF.m3u8
-
 15:30 [l]International Series[z]	^-
 St.Kitts & Nevis vs Solomon Islands	`Fhttps://www.fctv33.net/football/fifa-series-match-4381090/saint-kitts-and-nevis-vs-solomon-islands.html
 St.Kitts & Nevis vs Solomon Islands	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQfjM7quF2Mjo3.m3u8
