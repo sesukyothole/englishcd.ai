@@ -33,9 +33,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-05:00 [l]NC A S[z]	^-
-Dominica vs Sint Maarten	
-
 13:00 [l]FIFA Series[z]	^-
 Cameroon vs China	`Fhttps://www.fctv33.net/football/fifa-series-match-4341123/cameroon-vs-china.html
 
