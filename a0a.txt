@@ -33,28 +33,40 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-13:00 [l]International Series[z]	^-
+05:00 [l]NC A S[z]	^-
+Dominica vs Sint Maarten	
+
+13:00 [l]FIFA Series[z]	^-
 Cameroon vs China	`Fhttps://www.fctv33.net/football/fifa-series-match-4341123/cameroon-vs-china.html
 
 16:00 [l]AFC Asian Cup[z]	^-
 Pakistan vs Myanmar	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099872/pakistan-vs-myanmar.html
 
-16:10 [l]International Series[z]	^-
+16:10 [l]FIFA Series[z]	^-
 Australia vs Curacao	`Fhttps://www.fctv33.net/football/fifa-series-match-4341126/australia-vs-curacao.html
 
 17:30 [l]AFC Asian Cup[z]	^-
 Maldives vs Timor Leste	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099593/maldives-vs-timor-leste.html
 Chinese Taipei vs Sri Lanka	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099602/chinese-taipei-vs-sri-lanka.html
 
+19:00 [l]FIFA Series[z]	^-
+Kazakhstan vs Comoros	
+
 19:00 [l]AFC Asian Cup[z]	^-
 Singapore vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099620/singapore-vs-bangladesh.html
 Vietnam vs Malaysia	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099639/vietnam-vs-malaysia.html
+
+19:30 [l]AFC Asian Cup[z]	^-
+Thailand vs Turkmenistan	
 
 20:30 [l]AFC Asian Cup[z]	^-
 India vs Hong Kong	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099607/india-vs-hong-kong.html
 
 21:00 [l]AFC Asian Cup[z]	^-
 Tajikistan vs Philippines	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099594/tajikistan-vs-philippines.html
+
+21:00 [l]CAF Africa Cup of Nations[z]	^-
+Eswatini vs Eritrea	
 
 23:00 [l]UEFA Nations League[z]	^-
 Latvia vs Gibraltar	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155959/latvia-vs-gibraltar.html
@@ -63,6 +75,9 @@ Luxembourg vs Malta	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-
 23:00 [l]International Friendly[z]	^-
 Norway vs Switzerland	`Fhttps://www.fctv33.net/football/international-friendly-match-4370250/norway-vs-switzerland.html
 Montenegro vs Slovenia	`Fhttps://www.fctv33.net/football/international-friendly-match-4377725/montenegro-vs-slovenia.html
+
+23:00 [l]International Friendly[z]	^-
+Haiti vs Iceland	
 
 01.04.2026	^-2
 
