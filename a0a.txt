@@ -34,10 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-20:30 [l]AFC Asian Cup[z]	^-T
-India vs Hong Kong	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099607/india-vs-hong-kong.html
-India vs Hong Kong	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J69jZqRnhXXs.m3u8
-
 21:00 [l]AFC Asian Cup[z]	^-T
 Tajikistan vs Philippines	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099594/tajikistan-vs-philippines.html
 Tajikistan vs Philippines	`0https://www.marza12.shop/football/2709623-tajikistan-vs-philippines.html
