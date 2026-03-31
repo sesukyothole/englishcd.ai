@@ -77,7 +77,7 @@ Hungary vs Greece	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9Vt16u9PWn
 00:30 [l]International Friendly[z]	^-dd
 Jordan vs Nigeria	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQezNGx8VNrda5.m3u8
 Jordan vs Nigeria	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQezNGx8VNrda5.m3u8
-South Africa vs Panama	
+South Africa vs Panama	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAyh5xN5myxpd.m3u8
 
 01:00 [l]International Friendly[z]	^-ddd
 Morocco vs Paraguay	`0https://w2.sportzsonline.click/channels/hd/hd4.php
