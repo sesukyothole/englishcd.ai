@@ -34,24 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-16:00 [l]AFC Asian Cup[z]	^-T
-Pakistan vs Myanmar	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099872/pakistan-vs-myanmar.html
-Pakistan vs Myanmar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J5yTvcZmpAxu.m3u8
-
-16:00 [l]International Friendly[z]	^-d
-Equatorial Guinea vs Madagascar	
-
-16:10 [l]FIFA Series[z]	^-T
-Australia vs Curacao	`Fhttps://www.fctv33.net/football/fifa-series-match-4341126/australia-vs-curacao.html
-Australia vs Curacao	`0https://www.marza12.shop/football/2965317-australia-vs-curacao.html
-Australia vs Curacao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpbMNmRbftT6Jy.m3u8
-
-17:30 [l]AFC Asian Cup[z]	^-TT
-Maldives vs Timor Leste	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099593/maldives-vs-timor-leste.html
-Maldives vs Timor Leste	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J79q1UfGBRgH.m3u8
-Chinese Taipei vs Sri Lanka	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099602/chinese-taipei-vs-sri-lanka.html
-Chinese Taipei vs Sri Lanka	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6yyYYNXP9oB.m3u8
-
 19:00 [l]AFC Asian Cup[z]	^-TTT
 Singapore vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099620/singapore-vs-bangladesh.html
 Singapore vs Bangladesh	`0https://www.marza12.shop/football/2709648-singapore-vs-bangladesh.html
