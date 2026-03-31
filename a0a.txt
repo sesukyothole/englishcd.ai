@@ -83,10 +83,10 @@ Haiti vs Iceland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXADMuvMLTqaY
 01.04.2026	^-2
 
 00:00 [l]International Friendly[z]	^-dd
-Russia vs Mali	
+Russia vs Mali	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKLbBxZDjjq3Gy.m3u8
 Hungary vs Greece	`0https://www.marza12.shop/football/2966703-hungary-vs-greece.html
 Hungary vs Greece	`0https://w2.sportzsonline.click/channels/hd/hd10.php
-Hungary vs Greece	
+Hungary vs Greece	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9Vt16u9PWnCD.m3u8
 
 00:30 [l]International Friendly[z]	^-dd
 South Africa vs Panama	
