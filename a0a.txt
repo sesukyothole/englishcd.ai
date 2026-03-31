@@ -34,15 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 01.04.2026	^-2
 
-01:00 [l]International Friendly[z]	^-ddd
-Morocco vs Paraguay	`0https://w2.sportzsonline.click/channels/hd/hd4.php
-Morocco vs Paraguay	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLLW81JCpkmT.m3u8
-Morocco vs Paraguay	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKMLLW81JCpkmT.m3u8
-Peru vs Honduras	`Fhttps://www.fctv33.net/football/international-friendly-match-4379102/peru-vs-honduras.html
-Peru vs Honduras	`0https://www.marza12.shop/football/2967029-peru-vs-honduras.html
-Peru vs Honduras	`0https://w2.sportzsonline.click/channels/hd/hd2.php
-Peru vs Honduras	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAyhK9FJewTk1.m3u8
-
 01:30 [l]International Friendly[z]	^-dd
 Scotland vs Ivory Coast	`Fhttps://www.fctv33.net/football/international-friendly-match-4377723/scotland-vs-cote-divoire.html
 Scotland vs Ivory Coast	`0https://www.marza12.shop/football/2966689-scotland-vs-ivory-coast.html
