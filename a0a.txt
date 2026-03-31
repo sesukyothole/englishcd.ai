@@ -32,11 +32,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-31.03.2026	^-2
-
-23:30 [l]International Friendly[z]	^-d
-Haiti vs Iceland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXADMuvMLTqaYV.m3u8
-
 01.04.2026	^-2
 
 00:00 [l]International Friendly[z]	^-dd
@@ -58,7 +53,6 @@ Peru vs Honduras	`Fhttps://www.fctv33.net/football/international-friendly-match-
 Peru vs Honduras	`0https://www.marza12.shop/football/2967029-peru-vs-honduras.html
 Peru vs Honduras	`0https://w2.sportzsonline.click/channels/hd/hd2.php
 Peru vs Honduras	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAyhK9FJewTk1.m3u8
-Guinea vs Benin	
 
 01:30 [l]International Friendly[z]	^-dd
 Scotland vs Ivory Coast	`Fhttps://www.fctv33.net/football/international-friendly-match-4377723/scotland-vs-cote-divoire.html
