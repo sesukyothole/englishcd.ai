@@ -34,11 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 01.04.2026	^-2
 
-00:30 [l]International Friendly[z]	^-dd
-Jordan vs Nigeria	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQezNGx8VNrda5.m3u8
-Jordan vs Nigeria	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQezNGx8VNrda5.m3u8
-South Africa vs Panama	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAyh5xN5myxpd.m3u8
-
 01:00 [l]International Friendly[z]	^-ddd
 Morocco vs Paraguay	`0https://w2.sportzsonline.click/channels/hd/hd4.php
 Morocco vs Paraguay	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLLW81JCpkmT.m3u8
@@ -97,7 +92,7 @@ Czech vs Denmark	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQc2afxYu9D58
 Czech vs Denmark	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQc2afxYu9D581.m3u8
 Bosnia-Herzegovina vs Italy	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379745/bosnia-herzegovina-vs-italy.html
 Bosnia-Herzegovina vs Italy	`0https://www.marza12.shop/football/2968760-bosnia-and-herzegovina-vs-italy.html
-Bosnia-Herzegovina vs Italy	`0https://w2.sportzsonline.click/channels/hd/hd2.php
+Bosnia-Herzegovina vs Italy	`0https://w2.sportzsonline.click/channels/hd/hd7.php
 Bosnia-Herzegovina vs Italy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQc2aiA2md2zGu.m3u8
 Bosnia-Herzegovina vs Italy	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQc2aiA2md2zGu.m3u8
 Sweden vs Poland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379707/sweden-vs-poland.html
