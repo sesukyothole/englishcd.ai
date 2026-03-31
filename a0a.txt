@@ -33,47 +33,43 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-13:00 [l]FIFA Series[z]	^-d
-Cameroon vs China	`Fhttps://www.fctv33.net/football/fifa-series-match-4341123/cameroon-vs-china.html
-Cameroon vs China	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpbLsmzzrsT1y7.m3u8
-Cameroon vs China	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MvVcpbLsmzzrsT1y7.m3u8
-
-16:00 [l]AFC Asian Cup[z]	^-d
+16:00 [l]AFC Asian Cup[z]	^-T
 Pakistan vs Myanmar	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099872/pakistan-vs-myanmar.html
 
 16:00 [l]International Friendly[z]	^-d
 Equatorial Guinea vs Madagascar	
 
-16:10 [l]FIFA Series[z]	^-d
+16:10 [l]FIFA Series[z]	^-T
 Australia vs Curacao	`Fhttps://www.fctv33.net/football/fifa-series-match-4341126/australia-vs-curacao.html
 
-17:30 [l]AFC Asian Cup[z]	^-dd
+17:30 [l]AFC Asian Cup[z]	^-TT
 Maldives vs Timor Leste	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099593/maldives-vs-timor-leste.html
 Chinese Taipei vs Sri Lanka	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099602/chinese-taipei-vs-sri-lanka.html
 
-19:00 [l]AFC Asian Cup[z]	^-ddd
+19:00 [l]AFC Asian Cup[z]	^-TTT
 Singapore vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099620/singapore-vs-bangladesh.html
 Vietnam vs Malaysia	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099639/vietnam-vs-malaysia.html
 Nepal vs Laos	
 
-19:00 [l]FIFA Series[z]	^-d
+19:00 [l]FIFA Series[z]	^-T
 Kazakhstan vs Comoros	
 
-19:30 [l]AFC Asian Cup[z]	^-dd
+19:30 [l]AFC Asian Cup[z]	^-TT
 Bhutan vs Brunei Darussalam	
 Thailand vs Turkmenistan	
 
-20:00 [l]CAF Africa Cup of Nations[z]	^-d
+20:00 [l]CAF Africa Cup of Nations[z]	^-dd
 Ethiopia vs Sao Tome and Principe	
 Burundi vs Chad	
 
-20:00 [l]International Friendly[z]	^-d
+20:00 [l]International Friendly[z]	^-Td
 Costa Rica vs Iran	
+Botswana vs Malawi	
 
-20:30 [l]AFC Asian Cup[z]	^-d
+20:30 [l]AFC Asian Cup[z]	^-T
 India vs Hong Kong	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099607/india-vs-hong-kong.html
 
-21:00 [l]AFC Asian Cup[z]	^-d
+21:00 [l]AFC Asian Cup[z]	^-T
 Tajikistan vs Philippines	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099594/tajikistan-vs-philippines.html
 
 21:00 [l]CAF Africa Cup of Nations[z]	^-d
@@ -104,27 +100,63 @@ Haiti vs Iceland
 
 01.04.2026	^-2
 
-01:00 [l]International Friendly[z]	^-
+00:00 [l]International Friendly[z]	^-dd
+Russia vs Mali	
+Hungary vs Greece	
+
+00:30 [l]International Friendly[z]	^-dd
+South Africa vs Panama	
+Jordan vs Nigeria	
+
+01:00 [l]International Friendly[z]	^-ddd
+Morocco vs Paraguay	
 Peru vs Honduras	`Fhttps://www.fctv33.net/football/international-friendly-match-4379102/peru-vs-honduras.html
+Guinea vs Benin	
 
-01:30 [l]International Friendly[z]	^-
+01:30 [l]International Friendly[z]	^-dd
 Scotland vs Ivory Coast	`Fhttps://www.fctv33.net/football/international-friendly-match-4377723/scotland-vs-cote-divoire.html
+Algeria vs Uruguay	
 
-01:45 [l]International Friendly[z]	^-
+01:45 [l]International Friendly[z]	^-ddddddd
+Austria vs South Korea	
 England vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4370246/england-vs-japan.html
 Netherlands vs Ecuador	`Fhttps://www.fctv33.net/football/international-friendly-match-4370247/netherlands-vs-ecuador.html
+Wales vs Northern Ireland	
+Ireland vs North Macedonia	
+Ukraine vs Albania	
+Slovakia vs Romania	
 
-01:45 [l]World Cup qualification UEFA[z]	^-
+01:45 [l]World Cup qualification UEFA[z]	^-dddd
 Kosovo vs Turkey	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379697/kosovo-vs-turkiye.html
-Sweden vs Poland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379707/sweden-vs-poland.html
-Bosnia-Herzegovina vs Italy	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379745/bosnia-herzegovina-vs-italy.html
 Czech vs Denmark	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379746/czechia-vs-denmark.html
+Bosnia-Herzegovina vs Italy	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379745/bosnia-herzegovina-vs-italy.html
+Sweden vs Poland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379707/sweden-vs-poland.html
 
-02:00 [l]International Friendly[z]	^-
+02:00 [l]International Friendly[z]	^-ddd
 Spain vs Egypt	`Fhttps://www.fctv33.net/football/international-friendly-match-4370252/spain-vs-egypt.html
+Senegal vs Gambia	
+Burkina Faso vs Guinea Bissau	
 
-04:00 [l]World Cup Inter-conf Play-offs[z]	^-
+04:00 [l]World Cup Inter-conf Play-offs[z]	^-d
 Democratic Rep Congo vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4320639/democratic-republic-of-the-congo-vs-jamaica.html
+
+06:00 [l]International Friendly[z]	^-T
+USA vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4318056/usa-vs-portugal.html
+
+06:15 [l]International Friendly[z]	^-T
+Argentina vs Zambia	`Fhttps://www.fctv33.net/football/international-friendly-match-4376156/argentina-vs-zambia.html
+
+06:30 [l]International Friendly[z]	^-d
+Canada vs Tunisia	`Fhttps://www.fctv33.net/football/international-friendly-match-4370243/canada-vs-tunisia.html
+
+07:00 [l]International Friendly[z]	^-T
+Brazil vs Croatia	`Fhttps://www.fctv33.net/football/international-friendly-match-4368377/brazil-vs-croatia.html
+
+08:00 [l]International Friendly[z]	^-T
+Mexico vs Belgium	`Fhttps://www.fctv33.net/football/international-friendly-match-4318055/mexico-vs-belgium.html
+
+10:00 [l]World Cup Inter-conf Play-offs[z]	^-d
+Iraq vs Bolivia	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4315981/iraq-vs-bolivia.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
