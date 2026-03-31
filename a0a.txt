@@ -34,20 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-19:30 [l]AFC Asian Cup[z]	^-TT
-Bhutan vs Brunei Darussalam	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J79kcWvJXbNV.m3u8
-Bhutan vs Brunei Darussalam	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J79kcWvJXbNV.m3u8
-Thailand vs Turkmenistan	`0https://www.marza12.shop/football/2709659-thailand-vs-turkmenistan.html
-Thailand vs Turkmenistan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6zEvuTtAZsT.m3u8
-
-20:00 [l]CAF Africa Cup of Nations[z]	^-dd
-Ethiopia vs Sao Tome and Principe	`0https://www.marza12.shop/football/2964169-ethiopia-vs-sao-tome-and-principe.html
-Burundi vs Chad	`0https://www.marza12.shop/football/2964168-burundi-vs-chad.html
-
-20:00 [l]International Friendly[z]	^-Td
-Costa Rica vs Iran	`0https://w2.sportzsonline.click/channels/hd/hd11.php
-Costa Rica vs Iran	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXBirCVMhSNRcZ.m3u8
-
 20:30 [l]AFC Asian Cup[z]	^-T
 India vs Hong Kong	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099607/india-vs-hong-kong.html
 India vs Hong Kong	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J69jZqRnhXXs.m3u8
