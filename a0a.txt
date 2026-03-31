@@ -109,18 +109,26 @@ Austria vs South Korea	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKML
 England vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4370246/england-vs-japan.html
 England vs Japan	`0https://www.marza12.shop/football/2965065-england-vs-japan.html
 England vs Japan	`0https://w2.sportzsonline.click/channels/hd/hd1.php
+England vs Japan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLr4WpARDaQm.m3u8
+England vs Japan	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKMLr4WpARDaQm.m3u8
 Netherlands vs Ecuador	`Fhttps://www.fctv33.net/football/international-friendly-match-4370247/netherlands-vs-ecuador.html
 Netherlands vs Ecuador	`0https://www.marza12.shop/football/2966690-netherlands-vs-ecuador.html
 Netherlands vs Ecuador	`0https://w2.sportzsonline.click/channels/hd/hd3.php
+Netherlands vs Ecuador	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLLmWNPZcAqj.m3u8
+Netherlands vs Ecuador	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKMLLmWNPZcAqj.m3u8
 Wales vs Northern Ireland	`0https://www.marza12.shop/football/2970663-wales-vs-northern-ireland.html
-Wales vs Northern Ireland	
+Wales vs Northern Ireland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdakAkP4PnPkmstZ.m3u8
+Wales vs Northern Ireland	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdakAkP4PnPkmstZ.m3u8
 Ireland vs North Macedonia	`0https://www.marza12.shop/football/2970662-ireland-vs-north-macedonia.html
 Ireland vs North Macedonia	`0https://w2.sportzsonline.click/channels/hd/hd8.php
-Ireland vs North Macedonia	
+Ireland vs North Macedonia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdakAkP6bGGEbo3T.m3u8
+Ireland vs North Macedonia	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdakAkP6bGGEbo3T.m3u8
 Ukraine vs Albania	`0https://www.marza12.shop/football/2970619-ukraine-vs-albania.html
-Ukraine vs Albania	
+Ukraine vs Albania	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaoXdBd9YxkigW1.m3u8
+Ukraine vs Albania	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaoXdBd9YxkigW1.m3u8
 Slovakia vs Romania	`0https://www.marza12.shop/football/2970661-slovakia-vs-romania.html
-Slovakia vs Romania	
+Slovakia vs Romania	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdakAjYtp3Byk5w3.m3u8
+Slovakia vs Romania	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdakAjYtp3Byk5w3.m3u8
 
 01:45 [l]World Cup qualification UEFA[z]	^-dddd
 Kosovo vs Turkey	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379697/kosovo-vs-turkiye.html
@@ -131,9 +139,13 @@ Kosovo vs Turkey	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQc25wvKBU
 Czech vs Denmark	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379746/czechia-vs-denmark.html
 Czech vs Denmark	`0https://www.marza12.shop/football/2968761-czech-republic-vs-denmark.html
 Czech vs Denmark	`0https://w2.sportzsonline.click/channels/hd/hd11.php
+Czech vs Denmark	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQc2afxYu9D581.m3u8
+Czech vs Denmark	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQc2afxYu9D581.m3u8
 Bosnia-Herzegovina vs Italy	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379745/bosnia-herzegovina-vs-italy.html
 Bosnia-Herzegovina vs Italy	`0https://www.marza12.shop/football/2968760-bosnia-and-herzegovina-vs-italy.html
 Bosnia-Herzegovina vs Italy	`0https://w2.sportzsonline.click/channels/hd/hd2.php
+Bosnia-Herzegovina vs Italy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQc2aiA2md2zGu.m3u8
+Bosnia-Herzegovina vs Italy	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQc2aiA2md2zGu.m3u8
 Sweden vs Poland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379707/sweden-vs-poland.html
 Sweden vs Poland	`0https://www.marza12.shop/football/2968763-sweden-vs-poland.html
 Sweden vs Poland	`0https://w2.sportzsonline.click/channels/hd/hd9.php
