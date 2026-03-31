@@ -34,14 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 31.03.2026	^-2
 
-21:00 [l]AFC Asian Cup[z]	^-T
-Tajikistan vs Philippines	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099594/tajikistan-vs-philippines.html
-Tajikistan vs Philippines	`0https://www.marza12.shop/football/2709623-tajikistan-vs-philippines.html
-Tajikistan vs Philippines	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6yfxhQgmpa1.m3u8
-
-21:00 [l]CAF Africa Cup of Nations[z]	^-d
-Eswatini vs Eritrea	`0https://www.marza12.shop/football/2964165-eswatini-vs-eritrea.html
-
 22:00 [l]CAF Africa Cup of Nations[z]	^-d
 Mauritius vs Somalia	`0https://www.marza12.shop/football/2964170-mauritius-vs-somalia.html
 
