@@ -59,7 +59,6 @@ Tajikistan vs Philippines	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6
 
 21:00 [l]CAF Africa Cup of Nations[z]	^-d
 Eswatini vs Eritrea	`0https://www.marza12.shop/football/2964165-eswatini-vs-eritrea.html
-Eswatini vs Eritrea	
 
 22:00 [l]CAF Africa Cup of Nations[z]	^-d
 Mauritius vs Somalia	`0https://www.marza12.shop/football/2964170-mauritius-vs-somalia.html
@@ -72,9 +71,11 @@ Liberia vs Libya
 Latvia vs Gibraltar	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155959/latvia-vs-gibraltar.html
 Latvia vs Gibraltar	`0https://www.marza12.shop/football/2694260-latvia-vs-gibraltar.html
 Latvia vs Gibraltar	`0https://w2.sportzsonline.click/channels/hd/hd8.php
+Latvia vs Gibraltar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMdmmDewf9jFa8P7.m3u8
 Luxembourg vs Malta	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155962/luxembourg-vs-malta.html
 Luxembourg vs Malta	`0https://www.marza12.shop/football/2694261-luxembourg-vs-malta.html
 Luxembourg vs Malta	`0https://w2.sportzsonline.click/channels/hd/hd11.php
+Luxembourg vs Malta	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMdmmDeQtRYY1JEZ.m3u8
 
 23:00 [l]International Friendly[z]	^-ddddd
 Serbia vs Saudi Arabia	`0https://www.marza12.shop/football/2966687-serbia-vs-saudi-arabia.html
@@ -86,16 +87,17 @@ Norway vs Switzerland	`0https://w2.sportzsonline.click/channels/hd/hd5.php
 Montenegro vs Slovenia	`Fhttps://www.fctv33.net/football/international-friendly-match-4377725/montenegro-vs-slovenia.html
 Montenegro vs Slovenia	`0https://www.marza12.shop/football/2966702-montenegro-vs-slovenia.html
 Montenegro vs Slovenia	`0https://w2.sportzsonline.click/channels/hd/hd3.php
+Montenegro vs Slovenia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9VtP5hrBmwjB.m3u8
 Niger vs Togo	
 San Marino vs Andorra	`0https://www.marza12.shop/football/2967046-san-marino-vs-andorra.html
-San Marino vs Andorra	
+San Marino vs Andorra	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAyXTgK1v9Bru.m3u8
 
 23:15 [l]AFC Asian Cup[z]	^-d
 Syria vs Afghanistan	`0https://www.marza12.shop/football/2709671-syria-vs-afghanistan.html
 Syria vs Afghanistan	
 
 23:30 [l]International Friendly[z]	^-d
-Haiti vs Iceland	
+Haiti vs Iceland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXADMuvMLTqaYV.m3u8
 
 01.04.2026	^-2
 
@@ -107,11 +109,13 @@ Hungary vs Greece
 
 00:30 [l]International Friendly[z]	^-dd
 South Africa vs Panama	
-Jordan vs Nigeria	
+Jordan vs Nigeria	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQezNGx8VNrda5.m3u8
+Jordan vs Nigeria	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQezNGx8VNrda5.m3u8
 
 01:00 [l]International Friendly[z]	^-ddd
 Morocco vs Paraguay	`0https://w2.sportzsonline.click/channels/hd/hd4.php
-Morocco vs Paraguay	
+Morocco vs Paraguay	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLLW81JCpkmT.m3u8
+Morocco vs Paraguay	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKMLLW81JCpkmT.m3u8
 Peru vs Honduras	`Fhttps://www.fctv33.net/football/international-friendly-match-4379102/peru-vs-honduras.html
 Peru vs Honduras	`0https://www.marza12.shop/football/2967029-peru-vs-honduras.html
 Peru vs Honduras	`0https://w2.sportzsonline.click/channels/hd/hd2.php
@@ -120,12 +124,15 @@ Guinea vs Benin
 01:30 [l]International Friendly[z]	^-dd
 Scotland vs Ivory Coast	`Fhttps://www.fctv33.net/football/international-friendly-match-4377723/scotland-vs-cote-divoire.html
 Scotland vs Ivory Coast	`0https://www.marza12.shop/football/2966689-scotland-vs-ivory-coast.html
+Scotland vs Ivory Coast	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqpiX1p4gJLLYkd.m3u8
 Algeria vs Uruguay	`0https://w2.sportzsonline.click/channels/hd/hd10.php
-Algeria vs Uruguay	
+Algeria vs Uruguay	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9WPSuGQARrNq.m3u8
+Algeria vs Uruguay	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaX9WPSuGQARrNq.m3u8
 
 01:45 [l]International Friendly[z]	^-ddddddd
 Austria vs South Korea	`0https://www.marza12.shop/football/2965063-austria-vs-south-korea.html
-Austria vs South Korea	
+Austria vs South Korea	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLB72qTDwUj7.m3u8
+Austria vs South Korea	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKMLB72qTDwUj7.m3u8
 England vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4370246/england-vs-japan.html
 England vs Japan	`0https://www.marza12.shop/football/2965065-england-vs-japan.html
 England vs Japan	`0https://w2.sportzsonline.click/channels/hd/hd1.php
@@ -146,6 +153,8 @@ Slovakia vs Romania
 Kosovo vs Turkey	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379697/kosovo-vs-turkiye.html
 Kosovo vs Turkey	`0https://www.marza12.shop/football/2968762-kosovo-vs-turkey.html
 Kosovo vs Turkey	`0https://w2.sportzsonline.click/channels/hd/hd5.php
+Kosovo vs Turkey	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQc25wvKBUzQrR.m3u8
+Kosovo vs Turkey	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQc25wvKBUzQrR.m3u8
 Czech vs Denmark	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379746/czechia-vs-denmark.html
 Czech vs Denmark	`0https://www.marza12.shop/football/2968761-czech-republic-vs-denmark.html
 Czech vs Denmark	`0https://w2.sportzsonline.click/channels/hd/hd11.php
@@ -155,11 +164,15 @@ Bosnia-Herzegovina vs Italy	`0https://w2.sportzsonline.click/channels/hd/hd2.php
 Sweden vs Poland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379707/sweden-vs-poland.html
 Sweden vs Poland	`0https://www.marza12.shop/football/2968763-sweden-vs-poland.html
 Sweden vs Poland	`0https://w2.sportzsonline.click/channels/hd/hd9.php
+Sweden vs Poland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQc2bCjH5rmuGZ.m3u8
+Sweden vs Poland	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwdaQc2bCjH5rmuGZ.m3u8
 
 02:00 [l]International Friendly[z]	^-ddd
 Spain vs Egypt	`Fhttps://www.fctv33.net/football/international-friendly-match-4370252/spain-vs-egypt.html
 Spain vs Egypt	`0https://www.marza12.shop/football/2966686-spain-vs-egypt.html
 Spain vs Egypt	`0https://w2.sportzsonline.click/channels/hd/hd6.php
+Spain vs Egypt	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMKLFtSap3C1T.m3u8
+Spain vs Egypt	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKMKLFtSap3C1T.m3u8
 Senegal vs Gambia	
 Burkina Faso vs Guinea Bissau	
 
@@ -167,6 +180,8 @@ Burkina Faso vs Guinea Bissau
 Democratic Rep Congo vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4320639/democratic-republic-of-the-congo-vs-jamaica.html
 Democratic Rep Congo vs Jamaica	`0https://www.marza12.shop/football/2969026-democratic-rep-congo-vs-jamaica.html
 Democratic Rep Congo vs Jamaica	`0https://w2.sportzsonline.click/channels/hd/hd2.php
+Democratic Rep Congo vs Jamaica	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYMUd5cBbZuDpniH.m3u8
+Democratic Rep Congo vs Jamaica	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MvYMUd5cBbZuDpniH.m3u8
 
 06:00 [l]International Friendly[z]	^-T
 USA vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4318056/usa-vs-portugal.html
