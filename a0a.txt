@@ -42,6 +42,7 @@ Equatorial Guinea vs Madagascar
 
 16:10 [l]FIFA Series[z]	^-T
 Australia vs Curacao	`Fhttps://www.fctv33.net/football/fifa-series-match-4341126/australia-vs-curacao.html
+Australia vs Curacao	`0https://www.marza12.shop/football/2965317-australia-vs-curacao.html
 Australia vs Curacao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpbMNmRbftT6Jy.m3u8
 
 17:30 [l]AFC Asian Cup[z]	^-TT
@@ -52,20 +53,26 @@ Chinese Taipei vs Sri Lanka	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7
 
 19:00 [l]AFC Asian Cup[z]	^-TTT
 Singapore vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099620/singapore-vs-bangladesh.html
+Singapore vs Bangladesh	`0https://www.marza12.shop/football/2709648-singapore-vs-bangladesh.html
 Singapore vs Bangladesh	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7HLfNUjgQdWpV.m3u8
 Vietnam vs Malaysia	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099639/vietnam-vs-malaysia.html
+Vietnam vs Malaysia	`0https://www.marza12.shop/football/2709683-vietnam-vs-malaysia.html
 Vietnam vs Malaysia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7HLeqi1Vh4gfw.m3u8
 Nepal vs Laos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6pMGVJfYNqT.m3u8
 
 19:00 [l]FIFA Series[z]	^-T
+Kazakhstan vs Comoros	`0https://www.marza12.shop/football/2964264-kazakhstan-vs-comoros.html
 Kazakhstan vs Comoros	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNYsW11bCcvBNuB.m3u8
 
 19:30 [l]AFC Asian Cup[z]	^-TT
 Bhutan vs Brunei Darussalam	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J79kcWvJXbNV.m3u8
+Thailand vs Turkmenistan	`0https://www.marza12.shop/football/2709659-thailand-vs-turkmenistan.html
 Thailand vs Turkmenistan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6zEvuTtAZsT.m3u8
 
 20:00 [l]CAF Africa Cup of Nations[z]	^-dd
+Ethiopia vs Sao Tome and Principe	`0https://www.marza12.shop/football/2964169-ethiopia-vs-sao-tome-and-principe.html
 Ethiopia vs Sao Tome and Principe	
+Burundi vs Chad	`0https://www.marza12.shop/football/2964168-burundi-vs-chad.html
 Burundi vs Chad	
 
 20:00 [l]International Friendly[z]	^-Td
@@ -78,12 +85,15 @@ India vs Hong Kong	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J69jZqRnh
 
 21:00 [l]AFC Asian Cup[z]	^-T
 Tajikistan vs Philippines	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099594/tajikistan-vs-philippines.html
+Tajikistan vs Philippines	`0https://www.marza12.shop/football/2709623-tajikistan-vs-philippines.html
 Tajikistan vs Philippines	https://streaming.cdnx-sportnobar.xyz/live/sd-6MtMP7J6yfxhQgmpa1.m3u8
 
 21:00 [l]CAF Africa Cup of Nations[z]	^-d
+Eswatini vs Eritrea	`0https://www.marza12.shop/football/2964165-eswatini-vs-eritrea.html
 Eswatini vs Eritrea	
 
 22:00 [l]CAF Africa Cup of Nations[z]	^-d
+Mauritius vs Somalia	`0https://www.marza12.shop/football/2964170-mauritius-vs-somalia.html
 Mauritius vs Somalia	
 
 22:00 [l]International Friendly[z]	^-d
@@ -91,16 +101,23 @@ Liberia vs Libya
 
 23:00 [l]UEFA Nations League[z]	^-dd
 Latvia vs Gibraltar	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155959/latvia-vs-gibraltar.html
+Latvia vs Gibraltar	`0https://www.marza12.shop/football/2694260-latvia-vs-gibraltar.html
 Luxembourg vs Malta	`Fhttps://www.fctv33.net/football/uefa-nations-league-match-4155962/luxembourg-vs-malta.html
+Luxembourg vs Malta	`0https://www.marza12.shop/football/2694261-luxembourg-vs-malta.html
 
 23:00 [l]International Friendly[z]	^-ddddd
+Serbia vs Saudi Arabia	`0https://www.marza12.shop/football/2966687-serbia-vs-saudi-arabia.html
 Serbia vs Saudi Arabia	
 Norway vs Switzerland	`Fhttps://www.fctv33.net/football/international-friendly-match-4370250/norway-vs-switzerland.html
+Norway vs Switzerland	`0https://www.marza12.shop/football/2966685-norway-vs-switzerland.html
 Montenegro vs Slovenia	`Fhttps://www.fctv33.net/football/international-friendly-match-4377725/montenegro-vs-slovenia.html
+Montenegro vs Slovenia	`0https://www.marza12.shop/football/2966702-montenegro-vs-slovenia.html
 Niger vs Togo	
+San Marino vs Andorra	`0https://www.marza12.shop/football/2967046-san-marino-vs-andorra.html
 San Marino vs Andorra	
 
 23:15 [l]AFC Asian Cup[z]	^-d
+Syria vs Afghanistan	`0https://www.marza12.shop/football/2709671-syria-vs-afghanistan.html
 Syria vs Afghanistan	
 
 23:30 [l]International Friendly[z]	^-d
@@ -110,6 +127,7 @@ Haiti vs Iceland
 
 00:00 [l]International Friendly[z]	^-dd
 Russia vs Mali	
+Hungary vs Greece	`0https://www.marza12.shop/football/2966703-hungary-vs-greece.html
 Hungary vs Greece	
 
 00:30 [l]International Friendly[z]	^-dd
@@ -119,56 +137,77 @@ Jordan vs Nigeria
 01:00 [l]International Friendly[z]	^-ddd
 Morocco vs Paraguay	
 Peru vs Honduras	`Fhttps://www.fctv33.net/football/international-friendly-match-4379102/peru-vs-honduras.html
+Peru vs Honduras	`0https://www.marza12.shop/football/2967029-peru-vs-honduras.html
 Guinea vs Benin	
 
 01:30 [l]International Friendly[z]	^-dd
 Scotland vs Ivory Coast	`Fhttps://www.fctv33.net/football/international-friendly-match-4377723/scotland-vs-cote-divoire.html
+Scotland vs Ivory Coast	`0https://www.marza12.shop/football/2966689-scotland-vs-ivory-coast.html
 Algeria vs Uruguay	
 
 01:45 [l]International Friendly[z]	^-ddddddd
+Austria vs South Korea	`0https://www.marza12.shop/football/2965063-austria-vs-south-korea.html
 Austria vs South Korea	
 England vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4370246/england-vs-japan.html
+England vs Japan	`0https://www.marza12.shop/football/2965065-england-vs-japan.html
 Netherlands vs Ecuador	`Fhttps://www.fctv33.net/football/international-friendly-match-4370247/netherlands-vs-ecuador.html
+Netherlands vs Ecuador	`0https://www.marza12.shop/football/2966690-netherlands-vs-ecuador.html
+Wales vs Northern Ireland	`0https://www.marza12.shop/football/2970663-wales-vs-northern-ireland.html
 Wales vs Northern Ireland	
+Ireland vs North Macedonia	`0https://www.marza12.shop/football/2970662-ireland-vs-north-macedonia.html
 Ireland vs North Macedonia	
+Ukraine vs Albania	`0https://www.marza12.shop/football/2970619-ukraine-vs-albania.html
 Ukraine vs Albania	
+Slovakia vs Romania	`0https://www.marza12.shop/football/2970661-slovakia-vs-romania.html
 Slovakia vs Romania	
 
 01:45 [l]World Cup qualification UEFA[z]	^-dddd
 Kosovo vs Turkey	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379697/kosovo-vs-turkiye.html
+Kosovo vs Turkey	`0https://www.marza12.shop/football/2968762-kosovo-vs-turkey.html
 Czech vs Denmark	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379746/czechia-vs-denmark.html
+Czech vs Denmark	`0https://www.marza12.shop/football/2968761-czech-republic-vs-denmark.html
 Bosnia-Herzegovina vs Italy	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379745/bosnia-herzegovina-vs-italy.html
+Bosnia-Herzegovina vs Italy	`0https://www.marza12.shop/football/2968760-bosnia-and-herzegovina-vs-italy.html
 Sweden vs Poland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4379707/sweden-vs-poland.html
+Sweden vs Poland	`0https://www.marza12.shop/football/2968763-sweden-vs-poland.html
 
 02:00 [l]International Friendly[z]	^-ddd
 Spain vs Egypt	`Fhttps://www.fctv33.net/football/international-friendly-match-4370252/spain-vs-egypt.html
+Spain vs Egypt	`0https://www.marza12.shop/football/2966686-spain-vs-egypt.html
 Senegal vs Gambia	
 Burkina Faso vs Guinea Bissau	
 
 04:00 [l]World Cup Inter-conf Play-offs[z]	^-d
 Democratic Rep Congo vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4320639/democratic-republic-of-the-congo-vs-jamaica.html
+Democratic Rep Congo vs Jamaica	`0https://www.marza12.shop/football/2969026-democratic-rep-congo-vs-jamaica.html
 
 06:00 [l]International Friendly[z]	^-T
 USA vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4318056/usa-vs-portugal.html
+USA vs Portugal	`0https://www.marza12.shop/football/2966693-usa-vs-portugal.html
 USA vs Portugal	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8XQ96DYjVoDw.m3u8
 
 06:15 [l]International Friendly[z]	^-T
 Argentina vs Zambia	`Fhttps://www.fctv33.net/football/international-friendly-match-4376156/argentina-vs-zambia.html
+Argentina vs Zambia	`0https://www.marza12.shop/football/2966695-argentina-vs-zambia.html
 Argentina vs Zambia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsx382WBCh7C2q.m3u8
 
 06:30 [l]International Friendly[z]	^-d
 Canada vs Tunisia	`Fhttps://www.fctv33.net/football/international-friendly-match-4370243/canada-vs-tunisia.html
+Canada vs Tunisia	`0https://www.marza12.shop/football/2966696-canada-vs-tunisia.html
 
 07:00 [l]International Friendly[z]	^-T
 Brazil vs Croatia	`Fhttps://www.fctv33.net/football/international-friendly-match-4368377/brazil-vs-croatia.html
+Brazil vs Croatia	`0https://www.marza12.shop/football/2966697-brazil-vs-croatia.html
 Brazil vs Croatia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRragUEU8xSyo3.m3u8
 
 08:00 [l]International Friendly[z]	^-T
 Mexico vs Belgium	`Fhttps://www.fctv33.net/football/international-friendly-match-4318055/mexico-vs-belgium.html
+Mexico vs Belgium	`0https://www.marza12.shop/football/2966698-mexico-vs-belgium.html
 Mexico vs Belgium	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6BBUWV1yTwFvmB.m3u8
 
 10:00 [l]World Cup Inter-conf Play-offs[z]	^-d
 Iraq vs Bolivia	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4315981/iraq-vs-bolivia.html
+Iraq vs Bolivia	`0https://www.marza12.shop/football/2968942-iraq-vs-bolivia.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
