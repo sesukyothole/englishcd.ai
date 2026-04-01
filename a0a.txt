@@ -6,8 +6,8 @@
 ^=zhiboz	`0https://zhiboz.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=cinegram	^+https://cinegram.net/home
-^=movi3	`3https://vidfast.pro/movie/1084242?autoPlay=true&theme=8b20ea
-^=dp n wolverine	`3https://vidfast.pro/movie/533535?autoPlay=true
+^=movi3	`1https://vidfast.pro/movie/1084242?autoPlay=true&theme=8b20ea
+^=deadpool & wolverine	`1https://vidfast.pro/movie/533535?autoPlay=true
 ^=Blank	
 ^=	^-
 
