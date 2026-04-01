@@ -6,7 +6,7 @@
 ^=zhiboz	`0https://zhiboz.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=cinegram	^+https://cinegram.net/home
-^=movie	`0https://vidfast.pro/movie/1084242?autoPlay=true&theme=8b20ea
+^=movi3	`3https://vidfast.pro/movie/1084242?autoPlay=true&theme=8b20ea
 ^=Blank	
 ^=	^-
 
