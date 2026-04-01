@@ -11,7 +11,7 @@
 
 	^-
 👉Playlist [l]Main Menu[z]👈	^^szz
-[l]{s} 👉Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
+[l]{s} 👉Ⓧa2 NEW Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 	^-
 	^-
