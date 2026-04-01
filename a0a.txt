@@ -28,54 +28,12 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-01.04.2026	^-2
+01.04.2026^-2
 
-04:00 [l]World Cup Inter-conf Play-offs[z]	^-d
-Democratic Rep Congo vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4320639/democratic-republic-of-the-congo-vs-jamaica.html
-Democratic Rep Congo vs Jamaica	`0https://www.marza12.shop/football/2969026-democratic-rep-congo-vs-jamaica.html
-Democratic Rep Congo vs Jamaica	`0https://w2.sportzsonline.click/channels/hd/hd2.php
-Democratic Rep Congo vs Jamaica	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYMUd5cBbZuDpniH.m3u8
-Democratic Rep Congo vs Jamaica	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MvYMUd5cBbZuDpniH.m3u8
-
-06:00 [l]International Friendly[z]	^-T
-USA vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4318056/usa-vs-portugal.html
-USA vs Portugal	`0https://www.marza12.shop/football/2966693-usa-vs-portugal.html
-USA vs Portugal	`0https://w2.sportzsonline.click/channels/hd/hd1.php
-USA vs Portugal	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8XQ96DYjVoDw.m3u8
-
-06:15 [l]International Friendly[z]	^-T
-Argentina vs Zambia	`Fhttps://www.fctv33.net/football/international-friendly-match-4376156/argentina-vs-zambia.html
-Argentina vs Zambia	`0https://www.marza12.shop/football/2966695-argentina-vs-zambia.html
-Argentina vs Zambia	`0https://w2.sportzsonline.click/channels/hd/hd10.php
-Argentina vs Zambia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsx382WBCh7C2q.m3u8
-
-06:30 [l]International Friendly[z]	^-d
-Canada vs Tunisia	`Fhttps://www.fctv33.net/football/international-friendly-match-4370243/canada-vs-tunisia.html
-Canada vs Tunisia	`0https://www.marza12.shop/football/2966696-canada-vs-tunisia.html
-Canada vs Tunisia	`0https://w2.sportzsonline.click/channels/hd/hd5.php
-Canada vs Tunisia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMLBDdH4fREBo.m3u8
-
-07:00 [l]International Friendly[z]	^-T
-Brazil vs Croatia	`Fhttps://www.fctv33.net/football/international-friendly-match-4368377/brazil-vs-croatia.html
-Brazil vs Croatia	`0https://www.marza12.shop/football/2966697-brazil-vs-croatia.html
-Brazil vs Croatia	`0https://w2.sportzsonline.click/channels/hd/hd8.php
-Brazil vs Croatia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRragUEU8xSyo3.m3u8
-
-08:00 [l]International Friendly[z]	^-T
-Mexico vs Belgium	`Fhttps://www.fctv33.net/football/international-friendly-match-4318055/mexico-vs-belgium.html
-Mexico vs Belgium	`0https://www.marza12.shop/football/2966698-mexico-vs-belgium.html
-Mexico vs Belgium	`0https://w2.sportzsonline.click/channels/hd/hd4.php
-Mexico vs Belgium	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6BBUWV1yTwFvmB.m3u8
-
-10:00 [l]World Cup Inter-conf Play-offs[z]	^-d
-Iraq vs Bolivia	`Fhttps://www.fctv33.net/football/fifa-world-cup-inter-confederation-play-offs-match-4315981/iraq-vs-bolivia.html
-Iraq vs Bolivia	`0https://www.marza12.shop/football/2968942-iraq-vs-bolivia.html
-Iraq vs Bolivia	`0https://w2.sportzsonline.click/channels/hd/hd2.php
-Iraq vs Bolivia	
+Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
