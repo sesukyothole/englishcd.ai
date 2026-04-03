@@ -5,7 +5,6 @@
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=zhiboz	`0https://zhiboz.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-^=cinegram	^+https://cinegram.net/home
 ^=Blank	
 ^=	^-
 
