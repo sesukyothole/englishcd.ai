@@ -35,11 +35,151 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 04.04.2026	^-2
 
+15:30 Liga 1	^-
+PSM Makassar vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229576/persatuan-sepakbola-makassar-vs-persis-solo-fc.html
+
+15:30 Liga 2	^-
+PSS Sleman vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352260/pss-sleman-vs-persipal-palu.html
+Persiku Kudus vs Kendal Tornado FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352284/persiku-kudus-vs-kendal-tornado-fc.html
+
+18:30 [g]Turkish Super League[z]	^-
+Genclerbirligi vs Goztepe	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216853/genclerbirligi-vs-goztepe-04-2026.html
+
 18:45 [y]FA Cup[z]	^-
 Manchester City vs Liverpool	`Fhttps://www.fctv33.net/football/fa-cup-match-4374313/manchester-city-vs-liverpool.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209676/real-sociedad-vs-levante.html
+
+19:00 Liga 1	^-
+Perse Surabaya vs Persi Tangerang	`F
+
+19:00 Liga 2	^-
+Persi Balikpapan vs Persi Jayapura	`F
+
+20:00 [y]Italian Serie A[z]	^-
+Sassuolo vs Cagliari	`F
+
+20:00 Malaysian Challenge Cup	^-
+Penang vs Sabah	`F
+
+20:00 [g]Greek Super League[z]	^-
+AE Kifisias vs Panserraikos	`F
+
+20:30 [y]Bundesliga[z]	^-
+Hamburger SV vs FC Augsburg	`F
+Werder Bremen vs RB Leipzig	`F
+TSG Hoffenheim vs FSV Mainz 05	`F
+Br Monchengladbach vs FC Heidenheim	`F
+Bayer Leverkusen vs VfL Wolfsburg	`F
+SC Freiburg vs Bayern Munchen	`F
+
+20:30 Liga 2[z]	^-
+Persiraja Aceh vs Sumsel United	`F
+
+21:00 [g]Belgian Pro League[z]	^-
+Zulte-Waregem vs Cercle Brugge	`F
+
+21:15 [y]Spanish La Liga[z]	^-
+Mallorca vs Real Madrid	`F
+
+21:30 [y]Netherlands Eredivisie[z]	^-
+PSV Eindhoven vs FC Utrecht	`F
+
+21:30 [g]Portuguese Primera Liga[z]	^-
+Nacional Madeira vs Estrela Amadora	`F
+
+22:00 [y]French Ligue 1[z]	^-
+Strasbourg vs Nice	`F
+
+23:00 [y]Italian Serie A[z]	^-
+Verona vs Fiorentina	`F
+
+23:00 [g]Canadian Premier League[z]	^-
+Forge FC vs Atletico Ottawa	`F
+
+23:00 [g]Danish Superliga[z]	^-
+Midtjylland vs Sonderjyske	`F
+
+23:15 [y]FA Cup[z]	^-
+Chelsea vs Port Vale	`F
+
+23:15 [g]Belgian Pro League[z]	^-
+Oud Heverlee vs Standard Liege	`F
+
+23:30 [y]Bundesliga[z]	^-
+VfB Stuttgart vs Borussia Dortmund	`F
+
+23:30 [y]Spanish La Liga[z]	^-
+Real Betis vs RCD Espanyol	`F
+
+23:45 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs Fortuna Sittard	`F
+
+05.04.2026	^-2
+
+00:00 [y]French Ligue 1[z]	^-
+Stade Brestois vs Rennes	`F
+
+00:00 [g]Portuguese Primera Liga[z]	^-
+Rio Ave vs Alverca	`F
+Moreirense vs Sporting Braga	`F
+
+00:00 [g]Turkish Super League[z]	^-
+Trabzonspor vs Galatasaray	`F
+
+00:00 [g]US Major League Soccer[z]	^-
+Toronto FC vs Colorado Rapids	`F
+
+00:00 [g]Greek Super League[z]	^-
+Panaitolikos vs Atromitos Athens	`F
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Hilal SFC vs Al-Taawon	`F
+
+01:45 [y]Italian Serie A[z]	^-
+Lazio vs Parma	`F
+
+01:45 [g]Belgian Pro League[z]	^-
+Saint Gilloise vs Sint-Truidense	`F
+
+02:00 [y]Netherlands Eredivisie[z]	^-
+AFC Ajax vs FC Twente Enschede	`F
+
+02:00 [y]Spanish La Liga[z]	^-
+Atletico Madrid vs FC Barcelona	`F
+
+02:00 [y]FA Cup[z]	^-
+Southampton vs Arsenal	`F
+
+02:05 [y]French Ligue 1[z]	^-
+Lille vs Lens	`F
+
+02:30 [g]Portuguese Primera Liga[z]	^-
+FC Porto vs FC Famalicao	`F
+
+03:30 [g]US Major League Soccer[z]	^-
+NE Revolution vs Montreal Impact	`F
+Real Salt Lake vs FC Kansas City	`F
+
+06:30 [g]US Major League Soccer[z]	^-
+New York Red Bulls vs FC Cincinnati	`F
+New York City FC vs St. Louis City	`F
+DC United vs FC Dallas	`F
+Atlanta United vs Columbus Crew	`F
+Inter Miami CF vs Austin FC	`F
+Charlotte FC vs Philadelphia Union	`F
+
+07:30 [g]US Major League Soccer[z]	^-
+Chicago Fire vs Nashville	`F
+Houston Dynamo vs Seattle Sounders	`F
+
+08:30 [g]US Major League Soccer[z]	^-
+Los Angeles FC vs Orlando City	`F
+
+09:30 [g]US Major League Soccer[z]	^-
+Vancouver WC vs Portland Timbers	`F
+San Jose Earthquakes vs San Diego	`F
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
