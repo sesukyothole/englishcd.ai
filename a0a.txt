@@ -35,37 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 04.04.2026	^-
 
-15:30 Liga 1	^-
-PSM Makassar vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229576/persatuan-sepakbola-makassar-vs-persis-solo-fc.html
-PSM Makassar vs Persis Solo FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkaEthX4HdJys.m3u8
-
-15:30 Liga 2	^-17
-PSS Sleman vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352260/pss-sleman-vs-persipal-palu.html
-Persiku Kudus vs Kendal Tornado FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352284/persiku-kudus-vs-kendal-tornado-fc.html
-
-18:30 [g]Turkish Super League[z]	^-
-Genclerbirligi vs Goztepe	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216853/genclerbirligi-vs-goztepe.html
-Genclerbirligi vs Goztepe	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGoUvML7f5cR.m3u8
-
-18:45 [y]FA Cup[z]	^-
-Manchester City vs Liverpool	`Fhttps://www.fctv33.net/football/fa-cup-match-4374313/manchester-city-vs-liverpool.html
-Manchester City vs Liverpool	`0https://ww1.sportszonline.click/channels/hd/hd1.php
-Manchester City vs Liverpool	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN3zXnksNjF57.m3u8
-Manchester City vs Liverpool	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKN3zXnksNjF57.m3u8
-
-19:00 [y]Spanish La Liga[z]	^-
-Real Sociedad vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209676/real-sociedad-vs-levante.html
-Real Sociedad vs Levante	`0https://ww1.sportszonline.click/channels/hd/hd2.php
-Real Sociedad vs Levante	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYhWk27MvhSTPT.m3u8
-Real Sociedad vs Levante	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYhWk27MvhSTPT.m3u8
-
-19:00 Liga 1	^-
-Perse Surabaya vs Persi Tangerang	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229454/persebaya-surabaya-vs-persita-tangerang.html
-Perse Surabaya vs Persi Tangerang	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkaQfmVc4mkZB.m3u8
-
-19:00 Liga 2	^-31
-Persi Balikpapan vs Persi Jayapura	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4352277/persiba-balikpapan-vs-persipura-jayapura.html
-
 20:00 [y]Italian Serie A[z]	^-
 Sassuolo vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194796/sassuolo-vs-cagliari.html
 Sassuolo vs Cagliari	`0https://ww1.sportszonline.click/channels/hd/hd7.php
@@ -77,6 +46,7 @@ Penang vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-
 
 20:00 [g]Greek Super League[z]	^-40
 AE Kifisias vs Panserraikos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383019/ae-kifisias-vs-panserraikos.html
+AE Kifisias vs Panserraikos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYPbf3PgaiZ.m3u8
 
 20:30 [y]Bundesliga[z]	^-
 Hamburger SV vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199802/hamburger-sv-vs-fc-augsburg.html
