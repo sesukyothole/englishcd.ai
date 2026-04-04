@@ -105,17 +105,21 @@ AZ Alkmaar vs Fortuna Sittard	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT
 Stade Brestois vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200357/stade-brestois-29-vs-stade-rennais-fc.html
 Stade Brestois vs Rennes	`0https://ww1.sportszonline.click/channels/hd/hd4.php
 
-00:00 [g]Portuguese Primera Liga[z]	^-1
+00:00 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216149/rio-ave-vs-alverca.html
 Rio Ave vs Alverca	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
+Rio Ave vs Alverca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtX4QDYhmSp29.m3u8
 Moreirense vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216156/moreirense-vs-sporting-braga.html
+Moreirense vs Sporting Braga	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtX4KpaxonyiM.m3u8
 
-00:00 [g]Turkish Super League[z]	^-1
+00:00 [g]Turkish Super League[z]	^-
 Trabzonspor vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216860/trabzonspor-vs-galatasaray.html
 Trabzonspor vs Galatasaray	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Trabzonspor vs Galatasaray	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGeGpaqXuPLZ.m3u8
 
-00:00 [g]US Major League Soccer[z]	^-1
+00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317356/toronto-fc-vs-colorado-rapids.html
+Toronto FC vs Colorado Rapids	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjxjfP6TRnM.m3u8
 
 00:00 [g]Greek Super League[z]	^-
 Panaitolikos vs Atromitos Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383037/panetolikos-agrinio-vs-atromitos-athens.html
