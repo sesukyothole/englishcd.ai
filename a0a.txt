@@ -119,7 +119,7 @@ Toronto FC vs Colorado Rapids	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ
 Panaitolikos vs Atromitos Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383037/panetolikos-agrinio-vs-atromitos-athens.html
 Panaitolikos vs Atromitos Athens	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYH1DRxCqFs.m3u8
 
-01:00 [g]Saudi Professional League[z]	^-2
+01:00 [g]Saudi Professional League[z]	^-3
 Al Hilal SFC vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256013/al-hilal-vs-al-taawoun.html
 Al Hilal SFC vs Al-Taawon	`0https://ww1.sportszonline.click/channels/hd/hd8.php
 
@@ -132,7 +132,7 @@ Lazio vs Parma	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3Fqm7PkRrM
 01:45 [g]Belgian Pro League[z]	^-6
 Saint Gilloise vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383052/union-saint-gilloise-vs-sint-truidense.html
 
-02:00 [y]Spanish La Liga[z]	^-6
+02:00 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209729/atletico-madrid-vs-fc-barcelona.html
 Atletico Madrid vs FC Barcelona	`0https://ww1.sportszonline.click/channels/hd/hd2.php
 Atletico Madrid vs FC Barcelona	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgmRPtkrcgy6V.m3u8
@@ -149,11 +149,11 @@ AFC Ajax vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-ere
 AFC Ajax vs FC Twente Enschede	`0https://ww1.sportszonline.click/channels/hd/hd10.php
 Excelsior SBV vs NEC Nijmegen	
 
-02:05 [y]French Ligue 1[z]	^-8
+02:05 [y]French Ligue 1[z]	^-7
 Lille vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200184/losc-lille-vs-rc-lens.html
 Lille vs Lens	`0https://ww1.sportszonline.click/channels/hd/hd5.php
 
-02:30 [g]Portuguese Primera Liga[z]	^-8
+02:30 [g]Portuguese Primera Liga[z]	^-7
 FC Porto vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216151/fc-porto-vs-fc-famalicao.html
 FC Porto vs FC Famalicao	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
 
@@ -179,7 +179,7 @@ Houston Dynamo vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-stat
 08:30 [g]US Major League Soccer[z]	^-15
 Los Angeles FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317346/los-angeles-fc-vs-orlando-city.html
 
-09:30 [g]US Major League Soccer[z]	^-16
+09:30 [g]US Major League Soccer[z]	^-15,16
 Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
 Vancouver WC vs Portland Timbers	`0https://ww1.sportszonline.click/channels/hd/hd9.php
 San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
