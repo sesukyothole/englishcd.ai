@@ -35,19 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 04.04.2026	^-
 
-20:00 [y]Italian Serie A[z]	^-
-Sassuolo vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194796/sassuolo-vs-cagliari.html
-Sassuolo vs Cagliari	`0https://ww1.sportszonline.click/channels/hd/hd7.php
-Sassuolo vs Cagliari	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FfsSybDEAsf.m3u8
-Sassuolo vs Cagliari	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3FfsSybDEAsf.m3u8
-
-20:00 Malaysian Challenge Cup	^-40
-Penang vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4382727/penang-fc-vs-sabah-fc.html
-
-20:00 [g]Greek Super League[z]	^-40
-AE Kifisias vs Panserraikos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383019/ae-kifisias-vs-panserraikos.html
-AE Kifisias vs Panserraikos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYPbf3PgaiZ.m3u8
-
 20:30 [y]Bundesliga[z]	^-
 Hamburger SV vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199802/hamburger-sv-vs-fc-augsburg.html
 Hamburger SV vs FC Augsburg	`0https://ww1.sportszonline.click/channels/hd/hd10.php
@@ -100,30 +87,36 @@ Nacional Madeira vs Estrela Amadora	https://streaming.cdnx-sportnobar.xyz/live/s
 22:00 [y]French Ligue 1[z]	^-
 Strasbourg vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200144/rc-strasbourg-alsace-vs-ogc-nice.html
 Strasbourg vs Nice	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Strasbourg vs Nice	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5Rmfq2wAfCdK.m3u8
+Strasbourg vs Nice	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5Rmfq2wAfCdK.m3u8
 
 23:00 [y]Italian Serie A[z]	^-
 Verona vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194827/hellas-verona-vs-fiorentina.html
 Verona vs Fiorentina	`0https://ww1.sportszonline.click/channels/hd/hd7.php
+Verona vs Fiorentina	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3Fg4SNwcMke9.m3u8
+Verona vs Fiorentina	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3Fg4SNwcMke9.m3u8
 
 23:00 [g]Canadian Premier League[z]	^-
 Forge FC vs Atletico Ottawa	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4352729/forge-fc-vs-atletico-ottawa.html
 Forge FC vs Atletico Ottawa	`0https://ww1.sportszonline.click/channels/hd/hd8.php
+Forge FC vs Atletico Ottawa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNKoJidjnNBtCff.m3u8
 
 23:00 [g]Danish Superliga[z]	^-
 Midtjylland vs Sonderjyske	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368395/midtjylland-vs-sonderjyske.html
+Midtjylland vs Sonderjyske	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYThFF2PqNi9.m3u8
 
-23:15 [y]FA Cup[z]	^-
+23:15 [y]FA Cup[z]	^-6
 Chelsea vs Port Vale	`Fhttps://www.fctv33.net/football/fa-cup-match-4373469/chelsea-vs-port-vale.html
 Chelsea vs Port Vale	`0https://ww1.sportszonline.click/channels/hd/hd1.php
 
-23:15 [g]Belgian Pro League[z]	^-
+23:15 [g]Belgian Pro League[z]	^-6
 Oud Heverlee vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383034/oud-heverlee-leuven-vs-standard-liege.html
 
-23:30 [y]Bundesliga[z]	^-
+23:30 [y]Bundesliga[z]	^-6
 VfB Stuttgart vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199807/vfb-stuttgart-vs-borussia-dortmund.html
 VfB Stuttgart vs Borussia Dortmund	`0https://ww1.sportszonline.click/channels/hd/hd3.php
 
-23:30 [y]Spanish La Liga[z]	^-
+23:30 [y]Spanish La Liga[z]	^-6
 Real Betis vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209703/real-betis-vs-rcd-espanyol-de-barcelona.html
 Real Betis vs RCD Espanyol	`0https://ww1.sportszonline.click/channels/hd/hd2.php
 
