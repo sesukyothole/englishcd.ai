@@ -121,8 +121,9 @@ Trabzonspor vs Galatasaray	`0https://ww1.sportszonline.click/channels/hd/hd5.php
 00:00 [g]US Major League Soccer[z]	^-1
 Toronto FC vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317356/toronto-fc-vs-colorado-rapids.html
 
-00:00 [g]Greek Super League[z]	^-1
+00:00 [g]Greek Super League[z]	^-
 Panaitolikos vs Atromitos Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383037/panetolikos-agrinio-vs-atromitos-athens.html
+Panaitolikos vs Atromitos Athens	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYH1DRxCqFs.m3u8
 
 01:00 [g]Saudi Professional League[z]	^-2
 Al Hilal SFC vs Al-Taawon	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256013/al-hilal-vs-al-taawoun.html
@@ -140,6 +141,8 @@ Saint Gilloise vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-l
 02:00 [y]Spanish La Liga[z]	^-6
 Atletico Madrid vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209729/atletico-madrid-vs-fc-barcelona.html
 Atletico Madrid vs FC Barcelona	`0https://ww1.sportszonline.click/channels/hd/hd2.php
+Atletico Madrid vs FC Barcelona	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgmRPtkrcgy6V.m3u8
+Atletico Madrid vs FC Barcelona	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgmRPtkrcgy6V.m3u8
 
 02:00 [y]FA Cup[z]	^-
 Southampton vs Arsenal	`Fhttps://www.fctv33.net/football/fa-cup-match-4373470/southampton-vs-arsenal.html
@@ -160,9 +163,11 @@ Lille vs Lens	`0https://ww1.sportszonline.click/channels/hd/hd5.php
 FC Porto vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216151/fc-porto-vs-fc-famalicao.html
 FC Porto vs FC Famalicao	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
 
-03:30 [g]US Major League Soccer[z]	^-10
+03:30 [g]US Major League Soccer[z]	^-
 NE Revolution vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317345/new-england-revolution-vs-montreal-impact.html
+NE Revolution vs Montreal Impact	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjvYBWcdWdT.m3u8
 Real Salt Lake vs FC Kansas City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317414/real-salt-lake-vs-sporting-kansas-city.html
+Real Salt Lake vs FC Kansas City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mk38d847G69.m3u8
 
 06:30 [g]US Major League Soccer[z]	^-13
 New York Red Bulls vs FC Cincinnati	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317358/new-york-red-bulls-vs-fc-cincinnati.html
