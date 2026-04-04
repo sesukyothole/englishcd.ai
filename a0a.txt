@@ -35,29 +35,32 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-03:30 [g]US Major League Soccer[z]	^-
-NE Revolution vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317345/new-england-revolution-vs-montreal-impact.html
-NE Revolution vs Montreal Impact	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjvYBWcdWdT.m3u8
-Real Salt Lake vs FC Kansas City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317414/real-salt-lake-vs-sporting-kansas-city.html
-Real Salt Lake vs FC Kansas City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mk38d847G69.m3u8
-
-06:30 [g]US Major League Soccer[z]	^-6
+06:30 [g]US Major League Soccer[z]	^-
 New York Red Bulls vs FC Cincinnati	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317358/new-york-red-bulls-vs-fc-cincinnati.html
+New York Red Bulls vs FC Cincinnati	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjf9pRFr6ZB.m3u8
 New York City FC vs St. Louis City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317365/new-york-city-fc-vs-st-louis-city-sc.html
+New York City FC vs St. Louis City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mk9j4jVb1Yq.m3u8
 DC United vs FC Dallas	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317373/dc-united-vs-fc-dallas.html
+DC United vs FC Dallas	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mk5L6zXwBF3.m3u8
 Atlanta United vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317374/atlanta-united-vs-columbus-crew.html
+Atlanta United vs Columbus Crew	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjzw9FaHLwF.m3u8
 Inter Miami CF vs Austin FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317375/inter-miami-cf-vs-austin-fc.html
 Inter Miami CF vs Austin FC	`0https://ww1.sportszonline.click/channels/hd/hd1.php
+Inter Miami CF vs Austin FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mkBvYbyQvhj.m3u8
 Charlotte FC vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317422/charlotte-fc-vs-philadelphia-union.html
+Charlotte FC vs Philadelphia Union	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mk7Xas1m6Pw.m3u8
 
-07:30 [g]US Major League Soccer[z]	^-7
+07:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317380/chicago-fire-vs-nashville.html
+Chicago Fire vs Nashville	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjcxLYn2BQH.m3u8
 Houston Dynamo vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317404/houston-dynamo-vs-seattle-sounders.html
+Houston Dynamo vs Seattle Sounders	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maG4eaGxpWq.m3u8
 
-08:30 [g]US Major League Soccer[z]	^-8
+08:30 [g]US Major League Soccer[z]	^-
 Los Angeles FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317346/los-angeles-fc-vs-orlando-city.html
+Los Angeles FC vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maDsAho8uMw.m3u8
 
-09:30 [g]US Major League Soccer[z]	^-9
+09:30 [g]US Major League Soccer[z]	^-5
 Los Angeles Galaxy vs Minnesota Utd	
 San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
 Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
