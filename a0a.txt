@@ -122,8 +122,9 @@ Lazio vs Parma	`0https://ww1.sportszonline.click/channels/hd/hd7.php
 Lazio vs Parma	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3Fqm7PkRrMuf.m3u8
 Lazio vs Parma	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3Fqm7PkRrMuf.m3u8
 
-01:45 [g]Belgian Pro League[z]	^-6
+01:45 [g]Belgian Pro League[z]	^-
 Saint Gilloise vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383052/union-saint-gilloise-vs-sint-truidense.html
+Saint Gilloise vs Sint-Truidense	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8kQFBVKgfRwB.m3u8
 
 02:00 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209729/atletico-madrid-vs-fc-barcelona.html
@@ -142,13 +143,16 @@ AFC Ajax vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-ere
 AFC Ajax vs FC Twente Enschede	`0https://ww1.sportszonline.click/channels/hd/hd10.php
 Excelsior SBV vs NEC Nijmegen	
 
-02:05 [y]French Ligue 1[z]	^-7
+02:05 [y]French Ligue 1[z]	^-
 Lille vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200184/losc-lille-vs-rc-lens.html
 Lille vs Lens	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Lille vs Lens	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RwdtQqLwDy7.m3u8
+Lille vs Lens	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RwdtQqLwDy7.m3u8
 
-02:30 [g]Portuguese Primera Liga[z]	^-8
+02:30 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216151/fc-porto-vs-fc-famalicao.html
 FC Porto vs FC Famalicao	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
+FC Porto vs FC Famalicao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtX4FRdDr99QZ.m3u8
 
 03:30 [g]US Major League Soccer[z]	^-
 NE Revolution vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317345/new-england-revolution-vs-montreal-impact.html
@@ -172,11 +176,11 @@ Houston Dynamo vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-stat
 08:30 [g]US Major League Soccer[z]	^-15
 Los Angeles FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317346/los-angeles-fc-vs-orlando-city.html
 
-09:30 [g]US Major League Soccer[z]	^-15,16
+09:30 [g]US Major League Soccer[z]	^-16
 Los Angeles Galaxy vs Minnesota Utd	
+San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
 Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
 Vancouver WC vs Portland Timbers	`0https://ww1.sportszonline.click/channels/hd/hd9.php
-San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
