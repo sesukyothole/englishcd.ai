@@ -135,7 +135,8 @@ Southampton vs Arsenal	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKN3
 02:00 [y]Netherlands Eredivisie[z]	^-6
 AFC Ajax vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199322/afc-ajax-vs-fc-twente-enschede.html
 AFC Ajax vs FC Twente Enschede	`0https://ww1.sportszonline.click/channels/hd/hd10.php
-Excelsior SBV vs NEC Nijmegen	
+AFC Ajax vs FC Twente Enschede	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvhre66prmRo.m3u8
+Excelsior SBV vs NEC Nijmegen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvNLhcskPoS5.m3u8
 
 02:05 [y]French Ligue 1[z]	^-
 Lille vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200184/losc-lille-vs-rc-lens.html
@@ -175,6 +176,7 @@ Los Angeles Galaxy vs Minnesota Utd
 San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
 Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
 Vancouver WC vs Portland Timbers	`0https://ww1.sportszonline.click/channels/hd/hd9.php
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
