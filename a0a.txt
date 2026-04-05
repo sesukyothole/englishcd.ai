@@ -68,39 +68,59 @@ Valencia vs Real Celta Vigo	`0https://ww1.sportszonline.click/channels/hd/hd2.ph
 Valencia vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgkRE49tBZEeH.m3u8
 Valencia vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgkRE49tBZEeH.m3u8
 
-22:15 [y]French Ligue 1[z]	^-19
+22:15 [y]French Ligue 1[z]	^-
 Metz vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200121/metz-vs-fc-nantes.html
 Metz vs Nantes	`0https://ww1.sportszonline.click/channels/hd/hd4.php
+Metz vs Nantes	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5Rw77gedNPpZ.m3u8
+Metz vs Nantes	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5Rw77gedNPpZ.m3u8
 Lorient vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200278/lorient-vs-paris-fc.html
 Lorient vs Paris FC	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Lorient vs Paris FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5Rwbgvxs7JpD.m3u8
+Lorient vs Paris FC	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5Rwbgvxs7JpD.m3u8
 Le Havre vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200305/havre-athletic-club-vs-aj-auxerre.html
+Le Havre vs AJ Auxerre	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RwXHyDuTUWR.m3u8
+Le Havre vs AJ Auxerre	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RwXHyDuTUWR.m3u8
 
-22:30 [y]Bundesliga[z]	^-19
+22:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199800/eintracht-frankfurt-vs-fc-kln.html
 Eintracht Frankfurt vs FC Koln	`0https://ww1.sportszonline.click/channels/hd/hd3.php
+Eintracht Frankfurt vs FC Koln	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CUkfCS7gqS5.m3u8
+Eintracht Frankfurt vs FC Koln	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CUkfCS7gqS5.m3u8
 
-22:30 [g]Scottish Premiership[z]	^-19
+22:30 [g]Scottish Premiership[z]	^-
 Dundee vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206295/dundee-vs-celtic-fc.html
 Dundee vs Celtic FC	`0https://ww1.sportszonline.click/channels/hd/hd10.php
+Dundee vs Celtic FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSrvoc5YsBJeTSnH.m3u8
 
-22:30 [y]FA Cup[z]	^-20
+22:30 [y]FA Cup[z]	^-
 West Ham United vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4372014/west-ham-united-vs-leeds-united.html
 West Ham United vs Leeds United	`0https://ww1.sportszonline.click/channels/hd/hd1.php
+West Ham United vs Leeds United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN3zePCUpCzXo.m3u8
+West Ham United vs Leeds United	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKN3zePCUpCzXo.m3u8
 
 23:00 [y]Italian Serie A[z]	^-20
 Pisa vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194699/pisa-vs-torino.html
 Pisa vs Torino	`0https://ww1.sportszonline.click/channels/hd/hd7.php
+Pisa vs Torino	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FfueTTh462Z.m3u8
+Pisa vs Torino	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3FfueTTh462Z.m3u8
 
-23:00 [g]Greek Super League[z]	^-22
+23:00 [g]Danish Superliga[z]	^-
+FC Copenhagen vs Silkeborg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuXxdRgURBU4V.m3u8
+
+23:00 [g]Greek Super League[z]	^-
 PAOK Saloniki vs Panathinaikos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383579/paok-saloniki-vs-panathinaikos.html
 PAOK Saloniki vs Panathinaikos	`0https://ww1.sportszonline.click/channels/hd/hd11.php
+PAOK Saloniki vs Panathinaikos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYCcFgzYzx5.m3u8
 
-23:30 [y]Spanish La Liga[z]	^-23
+23:30 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209673/real-oviedo-vs-sevilla-fc.html
 Real Oviedo vs Sevilla	`0https://ww1.sportszonline.click/channels/hd/hd2.php
+Real Oviedo vs Sevilla	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgkavjAh13quo.m3u8
+Real Oviedo vs Sevilla	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgkavjAh13quo.m3u8
 
-23:30 [g]Belgian Pro League[z]	^-23
+23:30 [g]Belgian Pro League[z]	^-
 Westerlo vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383581/kvc-westerlo-vs-rc-sporting-charleroi.html
+Westerlo vs Charleroi	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8kZNtJ5JmHuF.m3u8
 
 06.04.2026	^-
 
