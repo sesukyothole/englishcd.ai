@@ -56,7 +56,7 @@ Madura United vs Borneo FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFk
 Semen Padang vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229578/semen-padang-vs-persib-bandung.html
 Semen Padang vs Persib Bandung	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkZaEoPJvxYXP.m3u8
 
-19:00 Championship	^-15
+19:00 Championship	^-2
 Deltras Sidoarjo vs Perse Lamongan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352242/deltras-sidoarjo-vs-persela-lamongan.html
 
 19:15 Malaysian Cup	^-
@@ -102,22 +102,22 @@ Valencia vs Real Celta Vigo	`0https://ww1.sportszonline.click/channels/hd/hd2.ph
 Valencia vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgkRE49tBZEeH.m3u8
 Valencia vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgkRE49tBZEeH.m3u8
 
-22:15 [y]French Ligue 1[z]	^-31
+22:15 [y]French Ligue 1[z]	^-19
 Metz vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200121/metz-vs-fc-nantes.html
 Metz vs Nantes	`0https://ww1.sportszonline.click/channels/hd/hd4.php
 Lorient vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200278/lorient-vs-paris-fc.html
 Lorient vs Paris FC	`0https://ww1.sportszonline.click/channels/hd/hd5.php
 Le Havre vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200305/havre-athletic-club-vs-aj-auxerre.html
 
-22:30 [y]Bundesliga[z]	^-31
+22:30 [y]Bundesliga[z]	^-19
 Eintracht Frankfurt vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199800/eintracht-frankfurt-vs-fc-kln.html
 Eintracht Frankfurt vs FC Koln	`0https://ww1.sportszonline.click/channels/hd/hd3.php
 
-22:30 [g]Scottish Premiership[z]	^-31
+22:30 [g]Scottish Premiership[z]	^-19
 Dundee vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206295/dundee-vs-celtic-fc.html
 Dundee vs Celtic FC	`0https://ww1.sportszonline.click/channels/hd/hd10.php
 
-22:30 [y]FA Cup[z]	^-32
+22:30 [y]FA Cup[z]	^-20
 West Ham United vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4372014/west-ham-united-vs-leeds-united.html
 West Ham United vs Leeds United	`0https://ww1.sportszonline.click/channels/hd/hd1.php
 
