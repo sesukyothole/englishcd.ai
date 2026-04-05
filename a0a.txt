@@ -33,24 +33,7 @@
 
 Live Sports TV	`0https://www.marza12.shop/football.html
 
-05.04.2026	^-
-
-23:30 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209673/real-oviedo-vs-sevilla-fc.html
-Real Oviedo vs Sevilla	`0https://ww1.sportszonline.click/channels/hd/hd2.php
-Real Oviedo vs Sevilla	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgkavjAh13quo.m3u8
-Real Oviedo vs Sevilla	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgkavjAh13quo.m3u8
-
-23:30 [g]Belgian Pro League[z]	^-
-Westerlo vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383581/kvc-westerlo-vs-rc-sporting-charleroi.html
-Westerlo vs Charleroi	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8kZNtJ5JmHuF.m3u8
-
 06.04.2026	^-
-
-00:00 [g]Turkish Super League[z]	^-
-Fenerbahce vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216852/fenerbahce-vs-besiktas-jk.html
-Fenerbahce vs Besiktas JK	`0https://ww1.sportszonline.click/channels/hd/hd5.php
-Fenerbahce vs Besiktas JK	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFUQJy4HH3cq.m3u8
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Ettifaq vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256078/al-ettifaq-fc-vs-al-qadsiah.html
