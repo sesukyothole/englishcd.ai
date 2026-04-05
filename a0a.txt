@@ -35,23 +35,113 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-07:30 [g]US Major League Soccer[z]	^-
-Chicago Fire vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317380/chicago-fire-vs-nashville.html
-Chicago Fire vs Nashville	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjcxLYn2BQH.m3u8
-Houston Dynamo vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317404/houston-dynamo-vs-seattle-sounders.html
-Houston Dynamo vs Seattle Sounders	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maG4eaGxpWq.m3u8
-
 08:30 [g]US Major League Soccer[z]	^-
 Los Angeles FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317346/los-angeles-fc-vs-orlando-city.html
 Los Angeles FC vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maDsAho8uMw.m3u8
 
-09:30 [g]US Major League Soccer[z]	^-5
+09:30 [g]US Major League Soccer[z]	^-
 Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
 Vancouver WC vs Portland Timbers	`0https://ww1.sportszonline.click/channels/hd/hd9.php
 Vancouver WC vs Portland Timbers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maNf6BiSZyX.m3u8
 San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
 San Jose Earthquakes vs San Diego	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maJG8Sknjfj.m3u8
 Los Angeles Galaxy vs Minnesota Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maLTcKEcepd.m3u8
+
+15:30 Super League	^-
+Bhayangkara Solo vs Persija Jakarta	`F
+
+15:30 Championship	^-
+PSIS Semarang vs Barito Putera	`F
+Persikad Depok vs PSMS Medan	`F
+
+15:45 Malaysia A1 Semi-Pro League	^-
+MUFT vs Darul Takzim II	`F
+
+18:30 [g]Turkish Super League[z]	^-
+Samsunspor vs Konyaspor	`F
+
+18:30 [g]Singapore Premier League[z]	^-
+Young Lions vs Balestier Khalsa FC	`F
+
+19:00 [y]Spanish La Liga[z]	^-
+Getafe vs Athletic Bilbao	`F
+
+19:00 Super League	^-
+Madura United vs Borneo FC	`F
+Semen Padang vs Persib Bandung	`F
+
+19:00 Championship	^-
+Deltras Sidoarjo vs Perse Lamongan	`F
+
+19:15 Malaysian Cup	^-
+Selangor vs Kuching FA	`F
+
+19:30 [y]Netherlands Eredivisie[z]	^-
+Volendam vs Feyenoord	`F
+
+20:00 [y]Italian Serie A[z]	^-
+Cremonese vs Bologna	`F
+
+20:00 [y]French Ligue 1[z]	^-
+Angers vs Lyon	`F
+
+20:00 [g]Scottish Premiership[z]	^-
+Livingston vs Heart of Midlothian	`F
+
+20:30 [y]Bundesliga[z]	^-
+Union Berlin vs FC St. Pauli	`F
+
+21:00 [g]Greek Super League[z]	^-
+Volos NFC vs OFI Crete	`F
+
+21:15 [y]Spanish La Liga[z]	^-
+Valencia vs Real Celta Vigo	`F
+
+22:15 [y]French Ligue 1[z]	^-
+Metz vs Nantes	`F
+Lorient vs Paris FC	`F
+Le Havre vs AJ Auxerre	`F
+
+22:30 [y]Bundesliga[z]	^-
+Eintracht Frankfurt vs FC Koln	`F
+
+22:30 [g]Scottish Premiership[z]	^-
+Dundee vs Celtic FC	`F
+
+22:30 [y]FA Cup[z]	^-
+West Ham United vs Leeds United	`F
+
+23:00 [y]Italian Serie A[z]	^-
+Pisa vs Torino	`F
+
+23:00 [g]Greek Super League[z]	^-
+PAOK Saloniki vs Panathinaikos	`F
+
+23:30 [y]Spanish La Liga[z]	^-
+Real Oviedo vs Sevilla	`F
+
+23:30 [g]Belgian Pro League[z]	^-
+Westerlo vs Charleroi	`F
+
+06.04.2026	^-
+
+00:00 [g]Turkish Super League[z]	^-
+Fenerbahce vs Besiktas JK	`F
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Ettifaq vs Al-Qadasiya	`F
+
+01:00 [g]Greek Super League[z]	^-
+Olympiakos Piraeus vs AEK Athens	`F
+
+01:45 [y]Italian Serie A[z]	^-
+Inter Milan vs AS Roma	`F
+
+01:45 [y]French Ligue 1[z]	^-
+Monaco vs Marseille	`F
+
+02:00 [y]Spanish La Liga[z]	^-
+Deportivo Alavés vs Osasuna	`F
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
