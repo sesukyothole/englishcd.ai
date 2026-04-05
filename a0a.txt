@@ -35,10 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-08:30 [g]US Major League Soccer[z]	^-
-Los Angeles FC vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317346/los-angeles-fc-vs-orlando-city.html
-Los Angeles FC vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maDsAho8uMw.m3u8
-
 09:30 [g]US Major League Soccer[z]	^-
 Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
 Vancouver WC vs Portland Timbers	`0https://ww1.sportszonline.click/channels/hd/hd9.php
@@ -48,100 +44,100 @@ San Jose Earthquakes vs San Diego	https://streaming.cdnx-sportnobar.xyz/live/sd-
 Los Angeles Galaxy vs Minnesota Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maLTcKEcepd.m3u8
 
 15:30 Super League	^-
-Bhayangkara Solo vs Persija Jakarta	`F
+Bhayangkara Solo vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229646/bhayangkara-presisi-indonesia-fc-vs-persatuan-sepakbola-indonesia-jakarta.html
 
 15:30 Championship	^-
-PSIS Semarang vs Barito Putera	`F
-Persikad Depok vs PSMS Medan	`F
+PSIS Semarang vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352241/psis-semarang-vs-barito-putera.html
+Persikad Depok vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352258/persikad-depok-vs-psms-medan.html
 
 15:45 Malaysia A1 Semi-Pro League	^-
-MUFT vs Darul Takzim II	`F
+MUFT vs Darul Takzim II	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4382932/muft-vs-johor-darul-tazim-ii.html
 
 18:30 [g]Turkish Super League[z]	^-
-Samsunspor vs Konyaspor	`F
+Samsunspor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216838/samsunspor-vs-konyaspor.html
 
 18:30 [g]Singapore Premier League[z]	^-
-Young Lions vs Balestier Khalsa FC	`F
+Young Lions vs Balestier Khalsa FC	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258834/young-lions-vs-balestier-khalsa-fc.html
 
 19:00 [y]Spanish La Liga[z]	^-
-Getafe vs Athletic Bilbao	`F
+Getafe vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209730/getafe-vs-athletic-club.html
 
 19:00 Super League	^-
-Madura United vs Borneo FC	`F
-Semen Padang vs Persib Bandung	`F
+Madura United vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229536/madura-united-vs-borneo-fc.html
+Semen Padang vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229578/semen-padang-vs-persib-bandung.html
 
 19:00 Championship	^-
-Deltras Sidoarjo vs Perse Lamongan	`F
+Deltras Sidoarjo vs Perse Lamongan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352242/deltras-sidoarjo-vs-persela-lamongan.html
 
 19:15 Malaysian Cup	^-
-Selangor vs Kuching FA	`F
+Selangor vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4383101/selangor-fc-vs-kuching-city-fc.html
 
 19:30 [y]Netherlands Eredivisie[z]	^-
-Volendam vs Feyenoord	`F
+Volendam vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199301/volendam-vs-feyenoord.html
 
 20:00 [y]Italian Serie A[z]	^-
-Cremonese vs Bologna	`F
+Cremonese vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194783/cremonese-vs-bologna.html
 
 20:00 [y]French Ligue 1[z]	^-
-Angers vs Lyon	`F
+Angers vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200195/angers-sco-vs-lyon.html
 
 20:00 [g]Scottish Premiership[z]	^-
-Livingston vs Heart of Midlothian	`F
+Livingston vs Heart of Midlothian	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206269/livingston-vs-heart-of-midlothian.html
 
 20:30 [y]Bundesliga[z]	^-
-Union Berlin vs FC St. Pauli	`F
+Union Berlin vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199815/1-fc-union-berlin-vs-fc-st-pauli.html
 
 21:00 [g]Greek Super League[z]	^-
-Volos NFC vs OFI Crete	`F
+Volos NFC vs OFI Crete	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383124/volos-nps-vs-ofi-crete.html
 
 21:15 [y]Spanish La Liga[z]	^-
-Valencia vs Real Celta Vigo	`F
+Valencia vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209675/valencia-cf-vs-rc-celta.html
 
 22:15 [y]French Ligue 1[z]	^-
-Metz vs Nantes	`F
-Lorient vs Paris FC	`F
-Le Havre vs AJ Auxerre	`F
+Metz vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200121/metz-vs-fc-nantes.html
+Lorient vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200278/lorient-vs-paris-fc.html
+Le Havre vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200305/havre-athletic-club-vs-aj-auxerre.html
 
 22:30 [y]Bundesliga[z]	^-
-Eintracht Frankfurt vs FC Koln	`F
+Eintracht Frankfurt vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199800/eintracht-frankfurt-vs-fc-kln.html
 
 22:30 [g]Scottish Premiership[z]	^-
-Dundee vs Celtic FC	`F
+Dundee vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206295/dundee-vs-celtic-fc.html
 
 22:30 [y]FA Cup[z]	^-
-West Ham United vs Leeds United	`F
+West Ham United vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4372014/west-ham-united-vs-leeds-united.html
 
 23:00 [y]Italian Serie A[z]	^-
-Pisa vs Torino	`F
+Pisa vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194699/pisa-vs-torino.html
 
 23:00 [g]Greek Super League[z]	^-
-PAOK Saloniki vs Panathinaikos	`F
+PAOK Saloniki vs Panathinaikos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383579/paok-saloniki-vs-panathinaikos.html
 
 23:30 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Sevilla	`F
+Real Oviedo vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209673/real-oviedo-vs-sevilla-fc.html
 
 23:30 [g]Belgian Pro League[z]	^-
-Westerlo vs Charleroi	`F
+Westerlo vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383581/kvc-westerlo-vs-rc-sporting-charleroi.html
 
 06.04.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
-Fenerbahce vs Besiktas JK	`F
+Fenerbahce vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216852/fenerbahce-vs-besiktas-jk.html
 
 01:00 [g]Saudi Professional League[z]	^-
-Al Ettifaq vs Al-Qadasiya	`F
+Al Ettifaq vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256078/al-ettifaq-fc-vs-al-qadsiah.html
 
 01:00 [g]Greek Super League[z]	^-
-Olympiakos Piraeus vs AEK Athens	`F
+Olympiakos Piraeus vs AEK Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383584/olympiacos-piraeus-vs-aek-athens.html
 
 01:45 [y]Italian Serie A[z]	^-
-Inter Milan vs AS Roma	`F
+Inter Milan vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194702/inter-milan-vs-as-roma.html
 
 01:45 [y]French Ligue 1[z]	^-
-Monaco vs Marseille	`F
+Monaco vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200358/as-monaco-vs-marseille.html
 
 02:00 [y]Spanish La Liga[z]	^-
-Deportivo Alavés vs Osasuna	`F
+Deportivo Alavés vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209677/deportivo-alavs-vs-ca-osasuna.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
