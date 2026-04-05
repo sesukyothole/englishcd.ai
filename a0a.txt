@@ -35,23 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-22:30 [y]Bundesliga[z]	^-
-Eintracht Frankfurt vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199800/eintracht-frankfurt-vs-fc-kln.html
-Eintracht Frankfurt vs FC Koln	`0https://ww1.sportszonline.click/channels/hd/hd3.php
-Eintracht Frankfurt vs FC Koln	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CUkfCS7gqS5.m3u8
-Eintracht Frankfurt vs FC Koln	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CUkfCS7gqS5.m3u8
-
-22:30 [g]Scottish Premiership[z]	^-
-Dundee vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206295/dundee-vs-celtic-fc.html
-Dundee vs Celtic FC	`0https://ww1.sportszonline.click/channels/hd/hd10.php
-Dundee vs Celtic FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSrvoc5YsBJeTSnH.m3u8
-
-22:30 [y]FA Cup[z]	^-
-West Ham United vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4372014/west-ham-united-vs-leeds-united.html
-West Ham United vs Leeds United	`0https://ww1.sportszonline.click/channels/hd/hd1.php
-West Ham United vs Leeds United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN3zePCUpCzXo.m3u8
-West Ham United vs Leeds United	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKN3zePCUpCzXo.m3u8
-
 23:00 [y]Italian Serie A[z]	^-
 Pisa vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194699/pisa-vs-torino.html
 Pisa vs Torino	`0https://ww1.sportszonline.click/channels/hd/hd7.php
