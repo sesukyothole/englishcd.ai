@@ -35,89 +35,102 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-09:30 [g]US Major League Soccer[z]	^-
-Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
-Vancouver WC vs Portland Timbers	`0https://ww1.sportszonline.click/channels/hd/hd9.php
-Vancouver WC vs Portland Timbers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maNf6BiSZyX.m3u8
-San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
-San Jose Earthquakes vs San Diego	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maJG8Sknjfj.m3u8
-Los Angeles Galaxy vs Minnesota Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maLTcKEcepd.m3u8
-
 15:30 Super League	^-
 Bhayangkara Solo vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229646/bhayangkara-presisi-indonesia-fc-vs-persatuan-sepakbola-indonesia-jakarta.html
+Bhayangkara Solo vs Persija Jakarta	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkbQzQ24RD9cy.m3u8
 
-15:30 Championship	^-
+15:30 Championship	^-4
 PSIS Semarang vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352241/psis-semarang-vs-barito-putera.html
 Persikad Depok vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352258/persikad-depok-vs-psms-medan.html
 
-15:45 Malaysia A1 Semi-Pro League	^-
+15:45 Malaysia A1 Semi-Pro League	^-4
 MUFT vs Darul Takzim II	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4382932/muft-vs-johor-darul-tazim-ii.html
 
 18:30 [g]Turkish Super League[z]	^-
 Samsunspor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216838/samsunspor-vs-konyaspor.html
+Samsunspor vs Konyaspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFdzPYFfHuRf.m3u8
+Karagumruk vs Caykur Rizespor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGJNuJufBFos.m3u8
 
 18:30 [g]Singapore Premier League[z]	^-
 Young Lions vs Balestier Khalsa FC	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258834/young-lions-vs-balestier-khalsa-fc.html
+Young Lions vs Balestier Khalsa FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXbzYh9uUKKerjAV.m3u8
 
 19:00 [y]Spanish La Liga[z]	^-
 Getafe vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209730/getafe-vs-athletic-club.html
 Getafe vs Athletic Bilbao	`0https://ww1.sportszonline.click/channels/hd/hd2.php
+Getafe vs Athletic Bilbao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgkR7TiGk5VBb.m3u8
+Getafe vs Athletic Bilbao	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgkR7TiGk5VBb.m3u8
 
 19:00 Super League	^-
 Madura United vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229536/madura-united-vs-borneo-fc.html
+Madura United vs Borneo FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkbFHj1FbiYMT.m3u8
 Semen Padang vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229578/semen-padang-vs-persib-bandung.html
+Semen Padang vs Persib Bandung	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkZaEoPJvxYXP.m3u8
 
-19:00 Championship	^-
+19:00 Championship	^-15
 Deltras Sidoarjo vs Perse Lamongan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352242/deltras-sidoarjo-vs-persela-lamongan.html
 
 19:15 Malaysian Cup	^-
 Selangor vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4383101/selangor-fc-vs-kuching-city-fc.html
+Selangor vs Kuching FA	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQhvoxykfDwzeq.m3u8
 
 19:30 [y]Netherlands Eredivisie[z]	^-
 Volendam vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199301/volendam-vs-feyenoord.html
 Volendam vs Feyenoord	`0https://ww1.sportszonline.click/channels/hd/hd9.php
+Volendam vs Feyenoord	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvY1B9p64VYh.m3u8
+SC Heerenveen vs Heracles Almelo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpusEgaTHuydX.m3u8
 
 20:00 [y]Italian Serie A[z]	^-
 Cremonese vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194783/cremonese-vs-bologna.html
 Cremonese vs Bologna	`0https://ww1.sportszonline.click/channels/hd/hd7.php
+Cremonese vs Bologna	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FqXvWXYtrzH.m3u8
+Cremonese vs Bologna	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3FqXvWXYtrzH.m3u8
 
 20:00 [y]French Ligue 1[z]	^-
 Angers vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200195/angers-sco-vs-lyon.html
 Angers vs Lyon	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Angers vs Lyon	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RwSu1UwoeCd.m3u8
+Angers vs Lyon	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RwSu1UwoeCd.m3u8
 
 20:00 [g]Scottish Premiership[z]	^-
 Livingston vs Heart of Midlothian	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206269/livingston-vs-heart-of-midlothian.html
 Livingston vs Heart of Midlothian	`0https://ww1.sportszonline.click/channels/pt/sporttv4.php
+Livingston vs Heart of Midlothian	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSrvocaxU4gwYbp1.m3u8
 
 20:30 [y]Bundesliga[z]	^-
 Union Berlin vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199815/1-fc-union-berlin-vs-fc-st-pauli.html
 Union Berlin vs FC St. Pauli	`0https://ww1.sportszonline.click/channels/hd/hd3.php
+Union Berlin vs FC St. Pauli	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3D9dkDQMK6ow.m3u8
+Union Berlin vs FC St. Pauli	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3D9dkDQMK6ow.m3u8
 
 21:00 [g]Greek Super League[z]	^-
 Volos NFC vs OFI Crete	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383124/volos-nps-vs-ofi-crete.html
+Volos NFC vs OFI Crete	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYMQBAurfZf.m3u8
 
 21:15 [y]Spanish La Liga[z]	^-
 Valencia vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209675/valencia-cf-vs-rc-celta.html
 Valencia vs Real Celta Vigo	`0https://ww1.sportszonline.click/channels/hd/hd2.php
+Valencia vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgkRE49tBZEeH.m3u8
+Valencia vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgkRE49tBZEeH.m3u8
 
-22:15 [y]French Ligue 1[z]	^-
+22:15 [y]French Ligue 1[z]	^-31
 Metz vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200121/metz-vs-fc-nantes.html
 Metz vs Nantes	`0https://ww1.sportszonline.click/channels/hd/hd4.php
 Lorient vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200278/lorient-vs-paris-fc.html
 Lorient vs Paris FC	`0https://ww1.sportszonline.click/channels/hd/hd5.php
 Le Havre vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200305/havre-athletic-club-vs-aj-auxerre.html
 
-22:30 [y]FA Cup[z]	^-
-West Ham United vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4372014/west-ham-united-vs-leeds-united.html
-West Ham United vs Leeds United	`0https://ww1.sportszonline.click/channels/hd/hd1.php
-
-22:30 [y]Bundesliga[z]	^-
+22:30 [y]Bundesliga[z]	^-31
 Eintracht Frankfurt vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199800/eintracht-frankfurt-vs-fc-kln.html
 Eintracht Frankfurt vs FC Koln	`0https://ww1.sportszonline.click/channels/hd/hd3.php
 
-22:30 [g]Scottish Premiership[z]	^-
+22:30 [g]Scottish Premiership[z]	^-31
 Dundee vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206295/dundee-vs-celtic-fc.html
 Dundee vs Celtic FC	`0https://ww1.sportszonline.click/channels/hd/hd10.php
+
+22:30 [y]FA Cup[z]	^-32
+West Ham United vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4372014/west-ham-united-vs-leeds-united.html
+West Ham United vs Leeds United	`0https://ww1.sportszonline.click/channels/hd/hd1.php
 
 23:00 [y]Italian Serie A[z]	^-
 Pisa vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194699/pisa-vs-torino.html
