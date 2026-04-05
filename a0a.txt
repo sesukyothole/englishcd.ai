@@ -35,17 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 06.04.2026	^-
 
-01:00 [g]Saudi Professional League[z]	^-
-Al Ettifaq vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256078/al-ettifaq-fc-vs-al-qadsiah.html
-Al Ettifaq vs Al-Qadasiya	`0https://ww1.sportszonline.click/channels/hd/hd11.php
-Al Ettifaq vs Al-Qadasiya	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769T9B2LRgY6H.m3u8
-Al Riyadh vs Al Shabab FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AnnkcfTTKPK.m3u8
-
-01:00 [g]Greek Super League[z]	^-
-Olympiakos Piraeus vs AEK Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383584/olympiacos-piraeus-vs-aek-athens.html
-Olympiakos Piraeus vs AEK Athens	`0https://ww1.sportszonline.click/channels/hd/hd10.php
-Olympiakos Piraeus vs AEK Athens	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYEojZUNv6y.m3u8
-
 01:45 [y]Italian Serie A[z]	^-
 Inter Milan vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194702/inter-milan-vs-as-roma.html
 Inter Milan vs AS Roma	`0https://ww1.sportszonline.click/channels/hd/hd1.php
