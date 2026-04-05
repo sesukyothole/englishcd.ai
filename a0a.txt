@@ -35,17 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-15:30 Super League	^-
-Bhayangkara Solo vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229646/bhayangkara-presisi-indonesia-fc-vs-persatuan-sepakbola-indonesia-jakarta.html
-Bhayangkara Solo vs Persija Jakarta	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkbQzQ24RD9cy.m3u8
-
-15:30 Championship	^-4
-PSIS Semarang vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352241/psis-semarang-vs-barito-putera.html
-Persikad Depok vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352258/persikad-depok-vs-psms-medan.html
-
-15:45 Malaysia A1 Semi-Pro League	^-4
-MUFT vs Darul Takzim II	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4382932/muft-vs-johor-darul-tazim-ii.html
-
 18:30 [g]Turkish Super League[z]	^-
 Samsunspor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216838/samsunspor-vs-konyaspor.html
 Samsunspor vs Konyaspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFdzPYFfHuRf.m3u8
