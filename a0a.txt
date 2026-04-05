@@ -35,11 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-07:00 [g]US Major League Soccer[z]	^-
-Inter Miami CF vs Austin FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317375/inter-miami-cf-vs-austin-fc.html
-Inter Miami CF vs Austin FC	`0https://ww1.sportszonline.click/channels/hd/hd1.php
-Inter Miami CF vs Austin FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mkBvYbyQvhj.m3u8
-
 07:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317380/chicago-fire-vs-nashville.html
 Chicago Fire vs Nashville	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mjcxLYn2BQH.m3u8
@@ -53,8 +48,10 @@ Los Angeles FC vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mv
 09:30 [g]US Major League Soccer[z]	^-5
 Vancouver WC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317348/vancouver-whitecaps-vs-portland-timbers.html
 Vancouver WC vs Portland Timbers	`0https://ww1.sportszonline.click/channels/hd/hd9.php
+Vancouver WC vs Portland Timbers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maNf6BiSZyX.m3u8
 San Jose Earthquakes vs San Diego	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317378/san-jose-earthquakes-vs-san-diego-fc.html
-Los Angeles Galaxy vs Minnesota Utd	
+San Jose Earthquakes vs San Diego	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maJG8Sknjfj.m3u8
+Los Angeles Galaxy vs Minnesota Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maLTcKEcepd.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
