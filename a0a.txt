@@ -35,12 +35,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 05.04.2026	^-
 
-20:30 [y]Bundesliga[z]	^-
-Union Berlin vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199815/1-fc-union-berlin-vs-fc-st-pauli.html
-Union Berlin vs FC St. Pauli	`0https://ww1.sportszonline.click/channels/hd/hd3.php
-Union Berlin vs FC St. Pauli	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3D9dkDQMK6ow.m3u8
-Union Berlin vs FC St. Pauli	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3D9dkDQMK6ow.m3u8
-
 21:00 [g]Greek Super League[z]	^-
 Volos NFC vs OFI Crete	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383124/volos-nps-vs-ofi-crete.html
 Volos NFC vs OFI Crete	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYMQBAurfZf.m3u8
@@ -81,7 +75,7 @@ West Ham United vs Leeds United	`0https://ww1.sportszonline.click/channels/hd/hd
 West Ham United vs Leeds United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN3zePCUpCzXo.m3u8
 West Ham United vs Leeds United	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqKN3zePCUpCzXo.m3u8
 
-23:00 [y]Italian Serie A[z]	^-20
+23:00 [y]Italian Serie A[z]	^-
 Pisa vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194699/pisa-vs-torino.html
 Pisa vs Torino	`0https://ww1.sportszonline.click/channels/hd/hd7.php
 Pisa vs Torino	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FfueTTh462Z.m3u8
@@ -110,26 +104,36 @@ Westerlo vs Charleroi	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8kZNtJ
 00:00 [g]Turkish Super League[z]	^-
 Fenerbahce vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216852/fenerbahce-vs-besiktas-jk.html
 Fenerbahce vs Besiktas JK	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Fenerbahce vs Besiktas JK	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFUQJy4HH3cq.m3u8
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Ettifaq vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256078/al-ettifaq-fc-vs-al-qadsiah.html
 Al Ettifaq vs Al-Qadasiya	`0https://ww1.sportszonline.click/channels/hd/hd11.php
+Al Ettifaq vs Al-Qadasiya	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769T9B2LRgY6H.m3u8
+Al Riyadh vs Al Shabab FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AnnkcfTTKPK.m3u8
 
 01:00 [g]Greek Super League[z]	^-
 Olympiakos Piraeus vs AEK Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4383584/olympiacos-piraeus-vs-aek-athens.html
 Olympiakos Piraeus vs AEK Athens	`0https://ww1.sportszonline.click/channels/hd/hd10.php
+Olympiakos Piraeus vs AEK Athens	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaXAEYEojZUNv6y.m3u8
 
 01:45 [y]Italian Serie A[z]	^-
 Inter Milan vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194702/inter-milan-vs-as-roma.html
 Inter Milan vs AS Roma	`0https://ww1.sportszonline.click/channels/hd/hd1.php
+Inter Milan vs AS Roma	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FqcKUGWYhJ5.m3u8
+Inter Milan vs AS Roma	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3FqcKUGWYhJ5.m3u8
 
 01:45 [y]French Ligue 1[z]	^-
 Monaco vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200358/as-monaco-vs-marseille.html
 Monaco vs Marseille	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Monaco vs Marseille	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5Rw4vCn9YUff.m3u8
+Monaco vs Marseille	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5Rw4vCn9YUff.m3u8
 
 02:00 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209677/deportivo-alavs-vs-ca-osasuna.html
 Deportivo Alavés vs Osasuna	`0https://ww1.sportszonline.click/channels/hd/hd2.php
+Deportivo Alavés vs Osasuna	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgmRCuMWDZPL1.m3u8
+Deportivo Alavés vs Osasuna	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgmRCuMWDZPL1.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
