@@ -3,7 +3,6 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
-^=SLNS	`1https://stream.livenobarseru.com/id/sport/football
 ^=zhiboz	`0https://zhiboz.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=Blank	
@@ -2997,5 +2996,7 @@ PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 ^=Live 9	`0https://24start.net/homes/blog9/
 ^=Live 10	`0https://24start.net/homes/blog10/
 ^=Live 11	`0https://24start.net/homes/blog11/
+
+^=SLNS	`1https://stream.livenobarseru.com/id/sport/football
 
 	^-
