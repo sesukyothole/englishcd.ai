@@ -34,51 +34,14 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 06.04.2026	^-
 
-23:30 [g]English Football League Champ[z]	^-
-Swansea City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203314/swansea-city-vs-middlesbrough.html
-Swansea City vs Middlesbrough	`0https://ww1.sportszonline.click/channels/hd/hd5.php
-Swansea City vs Middlesbrough	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3LK4PYAUDVGLV.m3u8
-
-23:30 [g]Belgian Pro League[z]	^-
-KAA Gent vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4384149/kaa-gent-vs-kv-mechelen.html
-KAA Gent vs Mechelen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9W4EYe8vaDcH.m3u8
+19:15 Malaysian Cup	^-
+Johor Darul Takzim vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4382251/johor-darul-tazim-fc-vs-kuala-lumpur-city-fc.html
 
 07.04.2026	^-
 
-00:00 [g]Turkish Super League[z]	^-
-Kocaelispor vs Istanbul Buyuksehir	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216863/kocaelispor-vs-baakehir-futbol-kulb.html
-Kocaelispor vs Istanbul Buyuksehir	`0https://ww1.sportszonline.click/channels/hd/hd11.php
-Kocaelispor vs Istanbul Buyuksehir	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGyVBD6mm277.m3u8
-
-00:45 [g]Portuguese Primera Liga[z]	^-
-FC Arouca vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216155/fc-arouca-vs-estoril.html
-FC Arouca vs Estoril	`0https://ww1.sportszonline.click/channels/pt/sporttv2.php
-FC Arouca vs Estoril	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtX4B2fUtVK6m.m3u8
-
-01:45 [y]Italian Serie A[z]	^-
-Napoli vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194675/napoli-vs-ac-milan.html
-Napoli vs AC Milan	`0https://ww1.sportszonline.click/channels/hd/hd1.php
-Napoli vs AC Milan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3FfqFVijQFim.m3u8
-Napoli vs AC Milan	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3FfqFVijQFim.m3u8
-
-02:00 [g]English Football League Champ[z]	^-
-Hull City vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204110/hull-city-vs-coventry-city.html
-Hull City vs Coventry City	`0https://ww1.sportszonline.click/channels/hd/hd5.php
-Hull City vs Coventry City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3LL4DbScLBkQd.m3u8
-
-02:00 [y]Spanish La Liga[z]	^-
-Girona vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209735/girona-fc-vs-villarreal-cf.html
-Girona vs Villarreal	`0https://ww1.sportszonline.click/channels/hd/hd2.php
-Girona vs Villarreal	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgmQuKWYNx46q.m3u8
-Girona vs Villarreal	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgmQuKWYNx46q.m3u8
-
-02:45 [g]Portuguese Primera Liga[z]	^-
-Casa Pia AC vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216080/casa-pia-ac-vs-benfica.html
-Casa Pia AC vs Benfica	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
-Casa Pia AC vs Benfica	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtX48qBcQfPws.m3u8
-
-19:15 Malaysian Cup	^-
-Johor Darul Takzim vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4382251/johor-darul-tazim-fc-vs-kuala-lumpur-city-fc.html
+02:00 [y]UEFA Champions League[z]	^-
+Sporting CP vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4374833/sporting-cp-vs-arsenal.html
+Real Madrid vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375179/real-madrid-vs-fc-bayern-munich.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
