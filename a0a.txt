@@ -2944,6 +2944,8 @@ PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/STRM-CH2-1/PSN3.mpd
 PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
 PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 
+^=slns 1	`0https://stream.livenobarseru.com/id/sport/football
+
 ^=Live 1	`0https://24start.net/homes/blog1/
 ^=Live 2	`0https://24start.net/homes/blog2/
 ^=Live 3	`0https://24start.net/homes/blog3/
