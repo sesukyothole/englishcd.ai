@@ -69,8 +69,14 @@ St. Gallen vs FC Zurich	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNP7GFV
 21:30 [g]Romanian Super Liga[z]	^-
 Petrolul Ploiesti vs Csikszereda M	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKPYyJASEchBem.m3u8
 
-22:00 [y]Pland Liga 1[z]	^-
+22:00 [y]Poland Liga 1[z]	^-
 Chrobry Glogow vs Ruch Chorzow	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSrvjtpR957av2zZ.m3u8
+
+22:00 [y]Norwegian Eliteserien[z]	^-
+Molde vs Lillestrom	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EQyHCfoXBZTMw.m3u8
+Kristiansund BK vs Bodo Glimt	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EQy6yE4XeW1ws.m3u8
+Ham-Kam vs Brann	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6ERjbojcDJK6Ld.m3u8
+Sarpsborg 08 vs Start Kristiansand	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6ERj6pK1QHK1zm.m3u8
 
 23:00 [y]Italian Serie A[z]	^-
 Juventus vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194818/juventus-vs-genoa.html
