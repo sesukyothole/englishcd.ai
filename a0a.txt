@@ -34,17 +34,13 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 06.04.2026	^-
 
-14:55 [l]ASEAN Futsal Championship[z]	^-
-Malaysia vs Indonesia	`Fhttps://www.fctv33.net/football/asean-futsal-championship-2026-match-4386372/malaysia-vs-indonesia.html
-Malaysia vs Indonesia	`0https://www.marza12.shop/others/7408-malaysia-vs-indonesia.html
-
 19:15 Malaysian Cup	^-
 Johor Darul Takzim vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4382251/johor-darul-tazim-fc-vs-kuala-lumpur-city-fc.html
 Johor Darul Takzim vs Kuala Lumpur	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQhvp1BEXhmuoj.m3u8
 
 07.04.2026	^-
 
-02:00 [y]UEFA Champions League[z]	^-
+02:00 [y]UEFA Champions League[z]	^-4
 Sporting CP vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4374833/sporting-cp-vs-arsenal.html
 Real Madrid vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375179/real-madrid-vs-fc-bayern-munich.html
 
