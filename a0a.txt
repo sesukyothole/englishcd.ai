@@ -43,21 +43,25 @@ Gamba Osaka vs Bangkok United FC	https://streaming.cdnx-sportnobar.xyz/live/hd-e
 23:45 [y]UEFA Europa League[z]	^-
 Sporting Braga vs Real Betis	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4375580/sporting-braga-vs-real-betis.html
 Sporting Braga vs Real Betis	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+Sporting Braga vs Real Betis	`0https://ww1.sportszonline.click/channels/hd/hd9.php
 
 09.04.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
 Goztepe vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216829/goztepe-vs-galatasaray.html
 Goztepe vs Galatasaray	`0https://ww1.sportszonline.click/channels/hd/hd10.php
+Goztepe vs Galatasaray	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256074/al-hilal-vs-al-kholood.html
 
 02:00 [y]UEFA Champions League[z]	^-
-FC Barcelona vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375180/fc-barcelona-vs-atletico-madrid.html
-FC Barcelona vs Atletico Madrid	`0https://ww1.sportszonline.click/channels/hd/hd2.php
 Paris Saint Germain vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375181/paris-saint-germain-vs-liverpool.html
 Paris Saint Germain vs Liverpool	`0https://ww1.sportszonline.click/channels/hd/hd1.php
+Paris Saint Germain vs Liverpool	`0https://ww1.sportszonline.click/channels/hd/hd4.php
+FC Barcelona vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375180/fc-barcelona-vs-atletico-madrid.html
+FC Barcelona vs Atletico Madrid	`0https://ww1.sportszonline.click/channels/hd/hd2.php
+FC Barcelona vs Atletico Madrid	`0https://ww1.sportszonline.click/channels/hd/hd3.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
