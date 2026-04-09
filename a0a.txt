@@ -32,15 +32,26 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-09.04.2026 ^-
+09.04.2026	^-
+
+19:00 [g]AFC Challenge League[z]	^-
+Svay Rieng FC vs Manila Digger FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4371661/preah-khan-reach-svay-rieng-fc-vs-manila-digger-fc.html
+
+23:00 [g]Saudi Professional League[z]	^-
+Dhamk vs Al-Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256079/damac-vs-al-qadsiah.html
+
+23:45 [y]UEFA Europa Conference League[z]	^-
+Rayo Vallecano vs AEK Athens	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4375587/rayo-vallecano-vs-aek-athens.html
 
 10.04.2026	^-
 
 02:00 [y]UEFA Europa League[z]	^-
 FC Porto vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4375581/fc-porto-vs-nottingham-forest.html
 Bologna vs Aston Villa	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4375582/bologna-vs-aston-villa.html
+SC Freiburg vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4375561/sc-freiburg-vs-rc-celta.html
 
 02:00 [y]UEFA Europa Conference League[z]	^-
+Crystal Palace vs Fiorentina	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4375563/crystal-palace-vs-fiorentina.html
 FC Shakhtar Donetsk vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4375586/fc-shakhtar-donetsk-vs-az-alkmaar.html
 FSV Mainz 05 vs Strasbourg	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4375588/1-fsv-mainz-05-vs-rc-strasbourg-alsace.html
 
