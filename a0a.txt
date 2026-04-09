@@ -32,15 +32,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-09.04.2026	^-
-
-23:45 [y]UEFA Europa Conference League[z]	^-
-Rayo Vallecano vs AEK Athens	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4375587/rayo-vallecano-vs-aek-athens.html
-Rayo Vallecano vs AEK Athens	`0https://ww1.sportszonline.click/channels/hd/hd5.php
-Rayo Vallecano vs AEK Athens	`0https://ww1.sportszonline.click/channels/hd/hd6.php
-Rayo Vallecano vs AEK Athens	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqVBGhJ8HUsPHqw.m3u8
-Rayo Vallecano vs AEK Athens	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqVBGhJ8HUsPHqw.m3u8
-
 10.04.2026	^-
 
 02:00 [y]UEFA Europa League[z]	^-2
