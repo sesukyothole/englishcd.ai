@@ -34,14 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 10.04.2026	^-
 
-15:30 Super League	^-
-PSIM Yogyakarta vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229544/psim-yogyakarta-vs-persatuan-sepakbola-makassar.html
-PSIM Yogyakarta vs PSM Makassar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkaaNSWQtGMph.m3u8
-
-16:35 [g]Australia A-League[z]	^-3
-Coast Mariners vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282210/central-coast-mariners-vs-brisbane-roar.html
-Coast Mariners vs Brisbane Roar	`0https://ww1.sportszonline.click/channels/hd/hd9.php
-
 19:00 Super League	^-
 Persita Tangerang vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229476/persita-tangerang-vs-arema-fc.html
 Persita Tangerang vs Arema FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkbF2LeAEw8HB.m3u8
