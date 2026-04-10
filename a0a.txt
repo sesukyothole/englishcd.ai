@@ -39,6 +39,7 @@ PSIM Yogyakarta vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-sup
 
 16:35 [g]Australia A-League[z]	^-
 Coast Mariners vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282210/central-coast-mariners-vs-brisbane-roar.html
+Coast Mariners vs Brisbane Roar	`0https://ww1.sportszonline.click/channels/hd/hd9.php
 
 19:00 Super League	^-
 Persita Tangerang vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229476/persita-tangerang-vs-arema-fc.html
@@ -50,33 +51,49 @@ Kelantan United vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-supe
 
 00:00 [g]French Ligue 1[z]	^-
 Paris FC vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200329/paris-fc-vs-as-monaco.html
+Paris FC vs Monaco	`0https://ww1.sportszonline.click/channels/hd/hd4.php
+Paris FC vs Monaco	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
 
 00:00 [g]Turkish Super League[z]	^-
 Besiktas JK vs Antalyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216866/besiktas-jk-vs-antalyaspor.html
+Besiktas JK vs Antalyaspor	`0https://ww1.sportszonline.click/channels/hd/hd9.php
 
 01:30 [y]Bundesliga[z]	^-
 FC Augsburg vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199827/fc-augsburg-vs-tsg-hoffenheim.html
+FC Augsburg vs TSG Hoffenheim	`0https://ww1.sportszonline.click/channels/pt/eleven3.php
+FC Augsburg vs TSG Hoffenheim	`0https://ww1.sportszonline.click/channels/bra/br1.php
 
 01:45 [y]Italian Serie A[z]	^-
 AS Roma vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194787/as-roma-vs-pisa.html
+AS Roma vs Pisa	`0https://ww1.sportszonline.click/channels/hd/hd7.php
+AS Roma vs Pisa	`0https://ww1.sportszonline.click/channels/pt/sporttv2.php
 
 01:45 [g]Belgian Pro League[z]	^-
 Charleroi vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382685/rc-sporting-charleroi-vs-royal-antwerp.html
 
 02:00 [y]English Premier League[z]	^-
 West Ham United vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194089/west-ham-united-vs-wolverhampton-wanderers.html
+West Ham United vs Wolves	`0https://ww1.sportszonline.click/channels/hd/hd1.php
+West Ham United vs Wolves	`0https://ww1.sportszonline.click/channels/pt/eleven2.php
 
 02:00 [g]English Football League Champ[z]	^-
 West Bromwich vs Millwall	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203786/west-bromwich-albion-vs-millwall.html
+West Bromwich vs Millwall	`0https://ww1.sportszonline.click/channels/hd/hd5.php
+West Bromwich vs Millwall	`0https://ww1.sportszonline.click/channels/bra/br6.php
 
 02:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209630/real-madrid-vs-girona-fc.html
+Real Madrid vs Girona	`0https://ww1.sportszonline.click/channels/hd/hd2.php
+Real Madrid vs Girona	`0https://ww1.sportszonline.click/channels/hd/hd6.php
 
 02:05 [y]French Ligue 1[z]	^-
 Marseille vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200155/marseille-vs-metz.html
+Marseille vs Metz	`0https://ww1.sportszonline.click/channels/hd/hd4.php
+Marseille vs Metz	`0https://ww1.sportszonline.click/channels/pt/sporttv4.php
 
 02:45 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216212/fc-famalicao-vs-moreirense.html
+FC Famalicao vs Moreirense	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
