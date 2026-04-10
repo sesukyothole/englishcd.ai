@@ -34,56 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 11.04.2026	^-
 
-01:30 [y]Bundesliga[z]	^-
-FC Augsburg vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199827/fc-augsburg-vs-tsg-hoffenheim.html
-FC Augsburg vs TSG Hoffenheim	`0https://ww1.sportszonline.click/channels/pt/eleven3.php
-FC Augsburg vs TSG Hoffenheim	`0https://ww1.sportszonline.click/channels/bra/br1.php
-FC Augsburg vs TSG Hoffenheim	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CJybDtLYPrm.m3u8
-FC Augsburg vs TSG Hoffenheim	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CJybDtLYPrm.m3u8
-
-01:45 [y]Italian Serie A[z]	^-
-AS Roma vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194787/as-roma-vs-pisa.html
-AS Roma vs Pisa	`0https://ww1.sportszonline.click/channels/hd/hd7.php
-AS Roma vs Pisa	`0https://ww1.sportszonline.click/channels/pt/sporttv2.php
-AS Roma vs Pisa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3GqnA5EwgRkH.m3u8
-AS Roma vs Pisa	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3GqnA5EwgRkH.m3u8
-
-01:45 [g]Belgian Pro League[z]	^-
-Charleroi vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382685/rc-sporting-charleroi-vs-royal-antwerp.html
-Charleroi vs Royal Antwerp	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8kPyo8EKt1ru.m3u8
-
-02:00 [y]English Premier League[z]	^-
-West Ham United vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194089/west-ham-united-vs-wolverhampton-wanderers.html
-West Ham United vs Wolves	`0https://ww1.sportszonline.click/channels/hd/hd1.php
-West Ham United vs Wolves	`0https://ww1.sportszonline.click/channels/pt/eleven2.php
-West Ham United vs Wolves	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1NVf5ZUyM9w.m3u8
-West Ham United vs Wolves	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jy1NVf5ZUyM9w.m3u8
-
-02:00 [g]English Football League Champ[z]	^-
-West Bromwich vs Millwall	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203786/west-bromwich-albion-vs-millwall.html
-West Bromwich vs Millwall	`0https://ww1.sportszonline.click/channels/hd/hd5.php
-West Bromwich vs Millwall	`0https://ww1.sportszonline.click/channels/bra/br6.php
-West Bromwich vs Millwall	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3M5DbWoKMMdGq.m3u8
-
-02:00 [y]Spanish La Liga[z]	^-
-Real Madrid vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209630/real-madrid-vs-girona-fc.html
-Real Madrid vs Girona	`0https://ww1.sportszonline.click/channels/hd/hd2.php
-Real Madrid vs Girona	`0https://ww1.sportszonline.click/channels/hd/hd6.php
-Real Madrid vs Girona	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgmbAxjQPqQfo.m3u8
-Real Madrid vs Girona	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgmbAxjQPqQfo.m3u8
-
-02:05 [y]French Ligue 1[z]	^-
-Marseille vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200155/marseille-vs-metz.html
-Marseille vs Metz	`0https://ww1.sportszonline.click/channels/hd/hd4.php
-Marseille vs Metz	`0https://ww1.sportszonline.click/channels/pt/sporttv4.php
-Marseille vs Metz	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmwDQ2XSchb.m3u8
-Marseille vs Metz	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RmwDQ2XSchb.m3u8
-
-02:45 [g]Portuguese Primera Liga[z]	^-
-FC Famalicao vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216212/fc-famalicao-vs-moreirense.html
-FC Famalicao vs Moreirense	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
-FC Famalicao vs Moreirense	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtWDnG34EW2Ds.m3u8
-
 15:30 Super League	^-
 Madura United vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229535/madura-united-vs-persatuan-sepak-bola-indonesia-kediri.html
 
