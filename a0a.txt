@@ -81,15 +81,20 @@ West Bromwich vs Millwall	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3M5
 Real Madrid vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209630/real-madrid-vs-girona-fc.html
 Real Madrid vs Girona	`0https://ww1.sportszonline.click/channels/hd/hd2.php
 Real Madrid vs Girona	`0https://ww1.sportszonline.click/channels/hd/hd6.php
+Real Madrid vs Girona	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgmbAxjQPqQfo.m3u8
+Real Madrid vs Girona	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgmbAxjQPqQfo.m3u8
 
 02:05 [y]French Ligue 1[z]	^-
 Marseille vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200155/marseille-vs-metz.html
 Marseille vs Metz	`0https://ww1.sportszonline.click/channels/hd/hd4.php
 Marseille vs Metz	`0https://ww1.sportszonline.click/channels/pt/sporttv4.php
+Marseille vs Metz	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmwDQ2XSchb.m3u8
+Marseille vs Metz	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RmwDQ2XSchb.m3u8
 
 02:45 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216212/fc-famalicao-vs-moreirense.html
 FC Famalicao vs Moreirense	`0https://ww1.sportszonline.click/channels/pt/sporttv1.php
+FC Famalicao vs Moreirense	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtWDnG34EW2Ds.m3u8
 
 15:30 Super League	^-
 Madura United vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229535/madura-united-vs-persatuan-sepak-bola-indonesia-kediri.html
