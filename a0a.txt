@@ -50,12 +50,17 @@ Persi Jayapura vs Perse Lamongan	`Fhttps://www.fctv33.net/football/indonesian-ch
 
 18:30 [y]English Premier League[z]	^-
 Arsenal vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194090/arsenal-vs-bournemouth-afc.html
+Arsenal vs Bournemouth AFC	`0https://www2.sportzzonline.click/channels/hd/hd1.php
+Arsenal vs Bournemouth AFC	`0https://www2.sportzzonline.click/channels/hd/hd11.php
 
 18:30 [g]English Football League Champ[z]	^-
 Norwich City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203267/norwich-city-vs-ipswich-town.html
+Norwich City vs Ipswich Town	`0https://www2.sportzzonline.click/channels/hd/hd5.php
 
 19:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209732/real-sociedad-vs-deportivo-alavs.html
+Real Sociedad vs Deportivo Alavés	`0https://www2.sportzzonline.click/channels/hd/hd2.php
+Real Sociedad vs Deportivo Alavés	`0https://www2.sportzzonline.click/channels/hd/hd6.php
 
 19:00 Super League	^-
 Persi Jakarta vs Perse Surabaya	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229474/persatuan-sepakbola-indonesia-jakarta-vs-persebaya-surabaya.html
@@ -64,19 +69,35 @@ Persi Jepara vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-super-l
 19:00 Championship	^-
 Barito Putera vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352280/barito-putera-vs-pss-sleman.html
 
+20:00 [y]Italian Serie A[z]	^-
+Torino vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194782/torino-vs-hellas-verona.html
+Torino vs Verona	`0https://www2.sportzzonline.click/channels/hd/hd7.php
+Torino vs Verona	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
+Cagliari vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194784/cagliari-vs-cremonese.html
+Cagliari vs Cremonese	`0https://www2.sportzzonline.click/channels/hd/hd8.php
+
 20:00 Malaysian Super League	^-
 Selangor vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221171/selangor-fc-vs-sabah-fc.html
 Imigresen FC vs Penang	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221176/imigresen-fc-vs-penang-fc.html
 
 20:30 [y]Bundesliga[z]	^-
 Br Dortmund vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199820/borussia-dortmund-vs-bayer-04-leverkusen.html
+Br Dortmund vs Bayer Leverkusen	`0https://www2.sportzzonline.click/channels/hd/hd11.php
+Br Dortmund vs Bayer Leverkusen	`0https://www2.sportzzonline.click/channels/hd/hd3.php
 VfL Wolfsburg vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199823/vfl-wolfsburg-vs-eintracht-frankfurt.html
+VfL Wolfsburg vs Eintracht Frankfurt	`0https://www2.sportzzonline.click/channels/hd/hd9.php
 RB Leipzig vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199828/rb-leipzig-vs-borussia-monchengladbach.html
+RB Leipzig vs Br Monchengladbach	`0https://www2.sportzzonline.click/channels/hd/hd4.php
 1. FC Heidenheim vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199829/1-fc-heidenheim-1846-vs-1-fc-union-berlin.html
+1. FC Heidenheim vs Union Berlin	`0https://www2.sportzzonline.click/channels/hd/hd10.php
 
 21:00 [y]English Premier League[z]	^-
 Brentford vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194088/brentford-vs-everton.html
+Brentford vs Everton	`0https://www2.sportzzonline.click/channels/hd/hd1.php
+Brentford vs Everton	`0https://www2.sportzzonline.click/channels/bra/br2.php
 Burnley vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194091/burnley-vs-brighton-hove-albion.html
+Burnley vs Brighton Hove Albion	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+Burnley vs Brighton Hove Albion	`0https://www2.sportzzonline.click/channels/pt/eleven3.php
 
 21:00 [g]English Football League Champ[z]	^-
 Sheffield United vs Hull City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203313/sheffield-united-vs-hull-city.html
@@ -89,72 +110,104 @@ Cercle Brugge vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league
 
 21:15 [y]Spanish La Liga[z]	^-
 Elche vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209736/elche-vs-valencia-cf.html
+Elche vs Valencia	`0https://www2.sportzzonline.click/channels/hd/hd6.php
+Elche vs Valencia	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216124/avs-futebol-sad-vs-vitoria-guimaraes.html
 
 23:00 [y]Italian Serie A[z]	^-
 AC Milan vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194609/ac-milan-vs-udinese.html
+AC Milan vs Udinese	`0https://www2.sportzzonline.click/channels/hd/hd7.php
+AC Milan vs Udinese	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
 
 23:15 [g]Belgian Pro League[z]	^-
 Standard Liege vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383050/standard-liege-vs-kvc-westerlo.html
 
 23:30 [y]English Premier League[z]	^-
 Liverpool vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194093/liverpool-vs-fulham.html
+Liverpool vs Fulham	`0https://www2.sportzzonline.click/channels/hd/hd1.php
+Liverpool vs Fulham	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
 
 23:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199833/fc-st-pauli-vs-fc-bayern-munich.html
+FC St. Pauli vs Bayern Munchen	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+FC St. Pauli vs Bayern Munchen	`0https://www2.sportzzonline.click/channels/hd/hd3.php
 
 23:30 [y]Spanish La Liga[z]	^-
 FC Barcelona vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209802/fc-barcelona-vs-rcd-espanyol-de-barcelona.html
+FC Barcelona vs RCD Espanyol	`0https://www2.sportzzonline.click/channels/hd/hd2.php
+FC Barcelona vs RCD Espanyol	`0https://www2.sportzzonline.click/channels/hd/hd6.php
 
 23:30 [g]Scottish League One[z]	^-
 Stenhousemuir vs Inverness	`Fhttps://www.fctv33.net/football/scottish-league-one-match-4224559/stenhousemuir-vs-inverness.html
 
 23:45 [y]Netherlands Eredivisie[z]	^-
 Sparta Rotterdam vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199273/sparta-rotterdam-vs-psv-eindhoven.html
+Sparta Rotterdam vs PSV Eindhoven	`0https://www2.sportzzonline.click/channels/hd/hd9.php
 
 12.04.2026	^-
 
 00:00 [y]French Ligue 1[z]	^-
 AJ Auxerre vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200126/aj-auxerre-vs-fc-nantes.html
+AJ Auxerre vs Nantes	`0https://www2.sportzzonline.click/channels/hd/hd4.php
+AJ Auxerre vs Nantes	`0https://www2.sportzzonline.click/channels/pt/sporttv4.php
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Santa Clara vs Rio Ave	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216163/santa-clara-vs-rio-ave.html
+Santa Clara vs Rio Ave	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
 
 00:00 [g]Turkish Super League[z]	^-
 Kayserispor vs Fenerbahce	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216879/kayserispor-vs-fenerbahce.html
+Kayserispor vs Fenerbahce	`0https://www2.sportzzonline.click/channels/hd/hd10.php
+Kayserispor vs Fenerbahce	`0https://www2.sportzzonline.click/channels/bra/br6.php
 
 00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs FC Cincinnati	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317355/toronto-fc-vs-fc-cincinnati.html
 
 01:00 [g]Saudi Professional League[z]	^-
 Al-Akhdoud vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256077/al-okhdood-vs-al-nassr-fc.html
+Al-Akhdoud vs Al Nassr FC	`0https://www2.sportzzonline.click/channels/hd/hd8.php
+Al-Akhdoud vs Al Nassr FC	`0https://www2.sportzzonline.click/channels/bra/br1.php
 
 01:30 [g]US Major League Soccer[z]	^-
 Austin FC vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317397/austin-fc-vs-los-angeles-galaxy.html
+Austin FC vs Los Angeles Galaxy	`0https://www2.sportzzonline.click/channels/hd/hd11.php
 Montreal Impact vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317431/montreal-impact-vs-philadelphia-union.html
+Montreal Impact vs Philadelphia Union	`0https://www2.sportzzonline.click/channels/hd/hd5.php
 
 01:45 [y]Italian Serie A[z]	^-
 Atalanta vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194641/atalanta-vs-juventus.html
+Atalanta vs Juventus	`0https://www2.sportzzonline.click/channels/hd/hd7.php
+Atalanta vs Juventus	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
 
 01:45 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383093/sint-truidense-vs-club-brugge.html
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199338/heracles-almelo-vs-afc-ajax.html
+Heracles Almelo vs AFC Ajax	`0https://www2.sportzzonline.click/channels/hd/hd9.php
+Heracles Almelo vs AFC Ajax	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
 
 02:00 [y]Spanish La Liga[z]	^-
 Sevilla vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209734/sevilla-fc-vs-atletico-madrid.html
+Sevilla vs Atletico Madrid	`0https://www2.sportzzonline.click/channels/hd/hd6.php
+Sevilla vs Atletico Madrid	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
 
 02:05 [y]French Ligue 1[z]	^-
 Rennes vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200143/stade-rennais-fc-vs-angers-sco.html
+Rennes vs Angers	`0https://www2.sportzzonline.click/channels/hd/hd4.php
+Rennes vs Angers	`0https://www2.sportzzonline.click/channels/pt/sporttv4.php
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216162/cf-estrela-amadora-sad-vs-sporting-cp.html
+Estrela da Amadora vs Sporting CP	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
+Estrela da Amadora vs Sporting CP	`0https://www2.sportzzonline.click/channels/bra/br6.php
 
 03:45 [g]US Major League Soccer[z]	^-
 Portland Timbers vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317398/portland-timbers-vs-los-angeles-fc.html
+Portland Timbers vs Los Angeles FC	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+Portland Timbers vs Los Angeles FC	`0https://www2.sportzzonline.click/channels/hd/hd11.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
