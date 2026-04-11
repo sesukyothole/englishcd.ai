@@ -34,37 +34,46 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 11.04.2026	^-
 
-15:30 Super League	^-
+15:30 Super League	^-6
 Madura United vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229535/madura-united-vs-persatuan-sepak-bola-indonesia-kediri.html
+Madura United vs Persik Kediri	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkauMcFTFAVfs.m3u8
 Borneo FC vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229577/borneo-fc-vs-psbs-biak-numfor.html
 
-15:30 Championship	^-
+15:30 Championship	^-6
 Persiku Kudus vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352279/persiku-kudus-vs-psis-semarang.html
 Garudayaksa FC vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352285/garudayaksa-fc-vs-psms-medan.html
 
 16:30 Malaysian Super League	^-
 Johor Darul Takzim vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221173/johor-darul-tazim-fc-vs-terengganu-fc.html
+Johor Darul Takzim vs Terengganu	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5ve4UvuM5Rsw3.m3u8
 
-17:00 Championship	^-
+17:00 Championship	^-12
 Persi Jayapura vs Perse Lamongan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352275/persipura-jayapura-vs-persela-lamongan.html
 
 18:30 [y]English Premier League[z]	^-
 Arsenal vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194090/arsenal-vs-bournemouth-afc.html
 Arsenal vs Bournemouth AFC	`0https://www2.sportzzonline.click/channels/hd/hd1.php
 Arsenal vs Bournemouth AFC	`0https://www2.sportzzonline.click/channels/hd/hd11.php
+Arsenal vs Bournemouth AFC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxzsCedndMwau.m3u8
+Arsenal vs Bournemouth AFC	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7JxzsCedndMwau.m3u8
 
 18:30 [g]English Football League Champ[z]	^-
 Norwich City vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203267/norwich-city-vs-ipswich-town.html
 Norwich City vs Ipswich Town	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+Norwich City vs Ipswich Town	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3M5PDnrPDCQEZ.m3u8
 
 19:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209732/real-sociedad-vs-deportivo-alavs.html
 Real Sociedad vs Deportivo Alavés	`0https://www2.sportzzonline.click/channels/hd/hd2.php
 Real Sociedad vs Deportivo Alavés	`0https://www2.sportzzonline.click/channels/hd/hd6.php
+Real Sociedad vs Deportivo Alavés	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgm5zYjEyhkZT.m3u8
+Real Sociedad vs Deportivo Alavés	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgm5zYjEyhkZT.m3u8
 
 19:00 Super League	^-
 Persi Jakarta vs Perse Surabaya	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229474/persatuan-sepakbola-indonesia-jakarta-vs-persebaya-surabaya.html
+Persi Jakarta vs Perse Surabaya	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkZjSu9oWiEoF.m3u8
 Persi Jepara vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229672/persatuan-sepakbola-indonesia-jepara-vs-bhayangkara-presisi-indonesia-fc.html
+Persi Jepara vs Bhayangkara	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFmKjQaYHazzJq.m3u8
 
 19:00 Championship	^-
 Barito Putera vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352280/barito-putera-vs-pss-sleman.html
@@ -73,23 +82,37 @@ Barito Putera vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-champio
 Torino vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194782/torino-vs-hellas-verona.html
 Torino vs Verona	`0https://www2.sportzzonline.click/channels/hd/hd7.php
 Torino vs Verona	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
+Torino vs Verona	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3Gfjhjboka6h.m3u8
+Torino vs Verona	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3Gfjhjboka6h.m3u8
 Cagliari vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194784/cagliari-vs-cremonese.html
 Cagliari vs Cremonese	`0https://www2.sportzzonline.click/channels/hd/hd8.php
+Cagliari vs Cremonese	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3Gg3HaZeMuKs.m3u8
+Cagliari vs Cremonese	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3Gg3HaZeMuKs.m3u8
 
 20:00 Malaysian Super League	^-
 Selangor vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221171/selangor-fc-vs-sabah-fc.html
+Selangor vs Sabah	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5ve3zMf2qgxwP.m3u8
 Imigresen FC vs Penang	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221176/imigresen-fc-vs-penang-fc.html
+Imigresen FC vs Penang	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5ve4X8PDZFo5w.m3u8
 
 20:30 [y]Bundesliga[z]	^-
 Br Dortmund vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199820/borussia-dortmund-vs-bayer-04-leverkusen.html
 Br Dortmund vs Bayer Leverkusen	`0https://www2.sportzzonline.click/channels/hd/hd11.php
 Br Dortmund vs Bayer Leverkusen	`0https://www2.sportzzonline.click/channels/hd/hd3.php
+Br Dortmund vs Bayer Leverkusen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CUsFe3ZAatm.m3u8
+Br Dortmund vs Bayer Leverkusen	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CUsFe3ZAatm.m3u8
 VfL Wolfsburg vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199823/vfl-wolfsburg-vs-eintracht-frankfurt.html
 VfL Wolfsburg vs Eintracht Frankfurt	`0https://www2.sportzzonline.click/channels/hd/hd9.php
+VfL Wolfsburg vs Eintracht Frankfurt	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DV36F1zJKLy.m3u8
+VfL Wolfsburg vs Eintracht Frankfurt	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3DV36F1zJKLy.m3u8
 RB Leipzig vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199828/rb-leipzig-vs-borussia-monchengladbach.html
 RB Leipzig vs Br Monchengladbach	`0https://www2.sportzzonline.click/channels/hd/hd4.php
+RB Leipzig vs Br Monchengladbach	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CyyGgU1eQhK.m3u8
+RB Leipzig vs Br Monchengladbach	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CyyGgU1eQhK.m3u8
 1. FC Heidenheim vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199829/1-fc-heidenheim-1846-vs-1-fc-union-berlin.html
 1. FC Heidenheim vs Union Berlin	`0https://www2.sportzzonline.click/channels/hd/hd10.php
+1. FC Heidenheim vs Union Berlin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CJuCG9NtZYy.m3u8
+1. FC Heidenheim vs Union Berlin	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CJuCG9NtZYy.m3u8
 
 21:00 [y]English Premier League[z]	^-
 Brentford vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194088/brentford-vs-everton.html
