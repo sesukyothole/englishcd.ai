@@ -34,47 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 12.04.2026	^-
 
-01:30 [g]US Major League Soccer[z]	^-
-Austin FC vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317397/austin-fc-vs-los-angeles-galaxy.html
-Austin FC vs Los Angeles Galaxy	`0https://www2.sportzzonline.click/channels/hd/hd11.php
-Austin FC vs Los Angeles Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maT43vg6QHK.m3u8
-Montreal Impact vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317431/montreal-impact-vs-philadelphia-union.html
-Montreal Impact vs Philadelphia Union	`0https://www2.sportzzonline.click/channels/hd/hd5.php
-Montreal Impact vs Philadelphia Union	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7n5KtD8FcjAV.m3u8
-Montreal Impact vs Philadelphia Union	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MvZ6B7n5KtD8FcjAV.m3u8
-
-01:45 [y]Italian Serie A[z]	^-
-Atalanta vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194641/atalanta-vs-juventus.html
-Atalanta vs Juventus	`0https://www2.sportzzonline.click/channels/hd/hd7.php
-Atalanta vs Juventus	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
-Atalanta vs Juventus	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3GqrZ2yuLG45.m3u8
-Atalanta vs Juventus	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3GqrZ2yuLG45.m3u8
-
-01:45 [g]Belgian Pro League[z]	^-
-Sint-Truidense vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383093/sint-truidense-vs-club-brugge.html
-Sint-Truidense vs Club Brugge	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8ku81eXGBkpM.m3u8
-
-02:00 [y]Netherlands Eredivisie[z]	^-
-Heracles Almelo vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199338/heracles-almelo-vs-afc-ajax.html
-Heracles Almelo vs AFC Ajax	`0https://www2.sportzzonline.click/channels/hd/hd9.php
-Heracles Almelo vs AFC Ajax	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
-Heracles Almelo vs AFC Ajax	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpwXudPhAQovd.m3u8
-Groningen vs Go Ahead Eagles	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvhk3eVPP1y7.m3u8
-
-02:00 [y]Spanish La Liga[z]	^-
-Sevilla vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209734/sevilla-fc-vs-atletico-madrid.html
-Sevilla vs Atletico Madrid	`0https://www2.sportzzonline.click/channels/hd/hd6.php
-Sevilla vs Atletico Madrid	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
-Sevilla vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgm5YAxoDnkih.m3u8
-Sevilla vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgm5YAxoDnkih.m3u8
-
-02:05 [y]French Ligue 1[z]	^-
-Rennes vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200143/stade-rennais-fc-vs-angers-sco.html
-Rennes vs Angers	`0https://www2.sportzzonline.click/channels/hd/hd4.php
-Rennes vs Angers	`0https://www2.sportzzonline.click/channels/pt/sporttv4.php
-Rennes vs Angers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmNFByL3sQ9.m3u8
-Rennes vs Angers	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RmNFByL3sQ9.m3u8
-
 02:30 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216162/cf-estrela-amadora-sad-vs-sporting-cp.html
 Estrela da Amadora vs Sporting CP	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
@@ -105,8 +64,113 @@ Persis Solo FC vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-supe
 Adhyaksa FC Banten vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352266/adhyaksa-fc-banten-vs-persiraja-aceh.html
 Persekat Tegal vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352270/persekat-tegal-vs-sriwijaya-fc.html
 
-16:00 [g]International W Series[z]	^-
+16:00 [l]International W Series[z]	^-
 Indonesia vs Congo DR	`Fhttps://www.fctv33.net/football/fifa-w-series-match-4387359/indonesia-women-vs-dr-congo-women.html
+
+17:30 [y]Italian Serie A[z]	^-
+Genoa vs Sassuolo	`F
+
+18:00 [g]English Football League Champ[z]	^-
+Birmingham City vs Wrexham	`F
+
+18:00 [g]Scottish Premiership[z]	^-
+Falkirk vs Glasgow Rangers	`F
+
+18:30 Malaysian Super League	^-
+Kuching FA vs PDRM	`F
+
+18:30 [g]Belgian Pro League[z]	^-
+Mechelen vs Saint Gilloise	`F
+
+19:00 [y]Spanish La Liga[z]	^-
+Osasuna vs Real Betis	`F
+
+19:00 Super League	^-
+Malut United vs Dewa United FC	`F
+Persib Bandung vs Bali United	`F
+
+19:00 Championship	^-
+Sumsel United vs FC Bekasi City	`F
+PSPS Riau vs Persikad Depok	`F
+Kendal Tornado vs Persi Balikpapan	`F
+
+19:30 [y]Netherlands Eredivisie[z]	^-
+NEC Nijmegen vs Feyenoord	`F
+
+20:00 [y]English Premier League[z]	^-
+Crystal Palace vs Newcastle United	`F
+Nottingham Forest vs Aston Villa	`F
+Sunderland AFC vs Tottenham Hotspur	`F
+
+20:00 [y]Italian Serie A[z]	^-
+Parma vs Napoli	`F
+
+20:30 [y]Bundesliga[z]	^-
+FC Koln vs Werder Bremen	`F
+
+21:00 [g]Danish Superliga[z]	^-
+Brondby IF vs Midtjylland	`F
+
+21:00 [g]Belgian Pro League[z]	^-
+Racing Genk vs Oud Heverlee	`F
+
+21:15 [y]Spanish La Liga[z]	^-
+Mallorca vs Rayo Vallecano	`F
+
+21:30 [g]Portuguese Primera Liga[z]	^-
+Alverca vs Casa Pia AC	`F
+
+21:45 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs SC Heerenveen	`F
+
+22:15 [y]French Ligue 1[z]	^-
+Nice vs Le Havre	`F
+Toulouse vs Lille	`F
+
+22:30 [y]English Premier League[z]	^-
+Chelsea vs Manchester City	`F
+
+22:30 [y]Bundesliga[z]	^-
+VfB Stuttgart vs Hamburger SV	`F
+
+23:00 [y]Italian Serie A[z]	^-
+Bologna vs Lecce	`F
+
+23:30 [y]Spanish La Liga[z]	^-
+Real Celta Vigo vs Real Oviedo	`F
+
+23:30 [g]Belgian Pro League[z]	^-
+Anderlecht vs KAA Gent	`F
+
+13.04.2026	^-
+
+00:00 [g]Portuguese Primera Liga[z]	^-
+Benfica vs Nacional da Madeira	`F
+Sporting Braga vs FC Arouca	`F
+
+00:00 [g]Turkish Super League[z]	^-
+Galatasaray vs Kocaelispor	`F
+
+00:15 [g]Belgian Pro League[z]	^-
+FCV Dender EH vs Zulte-Waregem	`F
+
+00:30 [y]Bundesliga[z]	^-
+FSV Mainz 05 vs SC Freiburg	`F
+
+01:45 [y]Italian Serie A[z]	^-
+Como vs Inter Milan	`F
+
+01:45 [y]French Ligue 1[z]	^-
+Lyon vs Lorient	`F
+
+02:00 [y]Spanish La Liga[z]	^-
+Athletic Bilbao vs Villarreal	`F
+
+02:30 [g]Portuguese Primera Liga[z]	^-
+Estoril vs FC Porto	`F
+
+03:00 [g]Canadian Premier League[z]	^-
+Cavalry FC vs Atletico Ottawa	`F
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
