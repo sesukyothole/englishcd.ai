@@ -38,35 +38,48 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 Al-Akhdoud vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256077/al-okhdood-vs-al-nassr-fc.html
 Al-Akhdoud vs Al Nassr FC	`0https://www2.sportzzonline.click/channels/hd/hd8.php
 Al-Akhdoud vs Al Nassr FC	`0https://www2.sportzzonline.click/channels/bra/br1.php
+Al-Akhdoud vs Al Nassr FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769coeZGmMECu.m3u8
 
 01:30 [g]US Major League Soccer[z]	^-
 Austin FC vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317397/austin-fc-vs-los-angeles-galaxy.html
 Austin FC vs Los Angeles Galaxy	`0https://www2.sportzzonline.click/channels/hd/hd11.php
+Austin FC vs Los Angeles Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7maT43vg6QHK.m3u8
 Montreal Impact vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317431/montreal-impact-vs-philadelphia-union.html
 Montreal Impact vs Philadelphia Union	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+Montreal Impact vs Philadelphia Union	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7n5KtD8FcjAV.m3u8
+Montreal Impact vs Philadelphia Union	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MvZ6B7n5KtD8FcjAV.m3u8
 
 01:45 [y]Italian Serie A[z]	^-
 Atalanta vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194641/atalanta-vs-juventus.html
 Atalanta vs Juventus	`0https://www2.sportzzonline.click/channels/hd/hd7.php
 Atalanta vs Juventus	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
+Atalanta vs Juventus	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3GqrZ2yuLG45.m3u8
+Atalanta vs Juventus	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3GqrZ2yuLG45.m3u8
 
 01:45 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383093/sint-truidense-vs-club-brugge.html
+Sint-Truidense vs Club Brugge	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8ku81eXGBkpM.m3u8
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199338/heracles-almelo-vs-afc-ajax.html
 Heracles Almelo vs AFC Ajax	`0https://www2.sportzzonline.click/channels/hd/hd9.php
 Heracles Almelo vs AFC Ajax	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
+Heracles Almelo vs AFC Ajax	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpwXudPhAQovd.m3u8
+Groningen vs Go Ahead Eagles	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvhk3eVPP1y7.m3u8
 
 02:00 [y]Spanish La Liga[z]	^-
 Sevilla vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209734/sevilla-fc-vs-atletico-madrid.html
 Sevilla vs Atletico Madrid	`0https://www2.sportzzonline.click/channels/hd/hd6.php
 Sevilla vs Atletico Madrid	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
+Sevilla vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYgm5YAxoDnkih.m3u8
+Sevilla vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYgm5YAxoDnkih.m3u8
 
 02:05 [y]French Ligue 1[z]	^-
 Rennes vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200143/stade-rennais-fc-vs-angers-sco.html
 Rennes vs Angers	`0https://www2.sportzzonline.click/channels/hd/hd4.php
 Rennes vs Angers	`0https://www2.sportzzonline.click/channels/pt/sporttv4.php
+Rennes vs Angers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmNFByL3sQ9.m3u8
+Rennes vs Angers	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y5RmNFByL3sQ9.m3u8
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216162/cf-estrela-amadora-sad-vs-sporting-cp.html
