@@ -89,21 +89,31 @@ Kendal Tornado vs Persi Balikpapan	`0https://www.marza12.shop/football/2941598-b
 19:30 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199343/nec-nijmegen-vs-feyenoord.html
 NEC Nijmegen vs Feyenoord	`0https://www2.sportzzonline.click/channels/hd/hd10.php
+NEC Nijmegen vs Feyenoord	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpusGt4KmjtnR.m3u8
+PEC Zwolle vs Excelsior SBV	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpwCxf8XHLbEM.m3u8
 
 20:00 [y]English Premier League[z]	^-
 Crystal Palace vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194085/crystal-palace-vs-newcastle-united.html
 Crystal Palace vs Newcastle United	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+Crystal Palace vs Newcastle United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jxzru4npnkcMj.m3u8
+Crystal Palace vs Newcastle United	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jxzru4npnkcMj.m3u8
 Nottingham Forest vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194087/nottingham-forest-vs-aston-villa.html
 Nottingham Forest vs Aston Villa	`0https://www2.sportzzonline.click/channels/hd/hd2.php
 Nottingham Forest vs Aston Villa	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
+Nottingham Forest vs Aston Villa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1NTTbh19S13.m3u8
+Nottingham Forest vs Aston Villa	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jy1NTTbh19S13.m3u8
 Sunderland AFC vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194092/sunderland-vs-tottenham-hotspur.html
 Sunderland AFC vs Tottenham Hotspur	`0https://www2.sportzzonline.click/channels/hd/hd1.php
 Sunderland AFC vs Tottenham Hotspur	`0https://www2.sportzzonline.click/channels/hd/hd9.php
+Sunderland AFC vs Tottenham Hotspur	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1NRG7pXKWr9.m3u8
+Sunderland AFC vs Tottenham Hotspur	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jy1NRG7pXKWr9.m3u8
 
 20:00 [y]Italian Serie A[z]	^-
 Parma vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194763/parma-vs-napoli.html
 Parma vs Napoli	`0https://www2.sportzzonline.click/channels/hd/hd7.php
 Parma vs Napoli	`0https://www2.sportzzonline.click/channels/bra/br6.php
+Parma vs Napoli	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3GgGUTnXKQFF.m3u8
+Parma vs Napoli	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3GgGUTnXKQFF.m3u8
 
 20:30 [y]Bundesliga[z]	^-
 FC Koln vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199822/fc-kln-vs-sv-werder-bremen.html
