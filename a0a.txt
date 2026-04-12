@@ -112,8 +112,16 @@ RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 
 HBO	https://hls.iill.top/api/HBO/index.m3u8
+HBO Signature	https://hls.iill.top/api/HBO-Signature/index.m3u8
+HBO Hits	https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Family	https://hls.iill.top/api/HBO-Family/index.m3u8
 Discovery	https://hls.iill.top/api/Discovery/index.m3u8
-Sports-Network	https://hls.iill.top/api/Sports-Network/index.m3u8
+Sports Network	https://hls.iill.top/api/Sports-Network/index.m3u8
+Nippon TV	https://nl.utako.moe/Nippon_TV/index.m3u8
+NHK G	https://nl.utako.moe/NHK_G/index.m3u8
+TBS	https://nl.utako.moe/TBS/index.m3u8
+Fuji TV	https://nl.utako.moe/Fuji_TV/index.m3u8
+TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 
 HBO Cinemax.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 HBO Hits.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
