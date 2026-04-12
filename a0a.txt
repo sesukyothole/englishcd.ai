@@ -32,21 +32,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 	^-
 
-12.04.2026	^-
-
-23:00 [y]Italian Serie A[z]	^-
-Bologna vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194834/bologna-vs-lecce.html
-Bologna vs Lecce	`0https://www2.sportzzonline.click/channels/hd/hd7.php
-
-23:30 [y]Spanish La Liga[z]	^-
-Real Celta Vigo vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209733/rc-celta-vs-real-oviedo.html
-Real Celta Vigo vs Real Oviedo	`0https://www2.sportzzonline.click/channels/hd/hd6.php
-Real Celta Vigo vs Real Oviedo	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
-
-23:30 [g]Belgian Pro League[z]	^-
-Anderlecht vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383670/anderlecht-vs-kaa-gent.html
-Anderlecht vs KAA Gent	`0https://www2.sportzzonline.click/channels/hd/hd10.php
-
 13.04.2026	^-
 
 00:00 [g]Portuguese Primera Liga[z]	^-
