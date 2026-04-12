@@ -34,17 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 12.04.2026	^-
 
-17:30 [y]Italian Serie A[z]	^-
-Genoa vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194823/genoa-vs-sassuolo.html
-Genoa vs Sassuolo	`0https://www2.sportzzonline.click/channels/hd/hd7.php
-Genoa vs Sassuolo	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
-Genoa vs Sassuolo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3Gg9t2B5qenZ.m3u8
-Genoa vs Sassuolo	https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj3Gg9t2B5qenZ.m3u8
-
-17:30 [y]Netherlands Eredivisie[z]	^-
-Fortuna Sittard vs NAC Breda	`0https://www2.sportzzonline.click/channels/hd/hd11.php
-Fortuna Sittard vs NAC Breda	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpwYSQ7ssye5B.m3u8
-
 18:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203490/birmingham-city-vs-wrexham.html
 Birmingham City vs Wrexham	`0https://www2.sportzzonline.click/channels/hd/hd1.php
@@ -148,7 +137,7 @@ Alverca vs Casa Pia AC	`0https://www2.sportzzonline.click/channels/pt/sporttv1.p
 AZ Alkmaar vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199144/az-alkmaar-vs-sc-heerenveen.html
 AZ Alkmaar vs SC Heerenveen	`0https://www2.sportzzonline.click/channels/hd/hd11.php
 
-22:15 [y]French Ligue 1[z]	^-
+22:15 [y]French Ligue 1[z]	^-32
 Nice vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200146/ogc-nice-vs-havre-athletic-club.html
 Toulouse vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200163/toulouse-fc-vs-losc-lille.html
 Toulouse vs Lille	`0https://www2.sportzzonline.click/channels/hd/hd5.php
