@@ -46,12 +46,18 @@ Indonesia vs Congo DR	`Fhttps://www.fctv33.net/football/fifa-w-series-match-4387
 
 17:30 [y]Italian Serie A[z]	^-
 Genoa vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194823/genoa-vs-sassuolo.html
+Genoa vs Sassuolo	https://www2.sportzzonline.click/channels/hd/hd7.php
+Genoa vs Sassuolo	https://www2.sportzzonline.click/channels/pt/sporttv2.php
+Fortuna Sittard vs NAC Breda	`0https://www2.sportzzonline.click/channels/hd/hd11.php
 
 18:00 [g]English Football League Champ[z]	^-
 Birmingham City vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203490/birmingham-city-vs-wrexham.html
+Birmingham City vs Wrexham	`0https://www2.sportzzonline.click/channels/hd/hd1.php
+Birmingham City vs Wrexham	`0https://www2.sportzzonline.click/channels/bra/br2.php
 
 18:00 [g]Scottish Premiership[z]	^-
 Falkirk vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206220/falkirk-vs-rangers.html
+Falkirk vs Glasgow Rangers	`0https://www2.sportzzonline.click/channels/pt/sporttv3.php
 
 18:30 Malaysian Super League	^-
 Kuching FA vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221172/kuching-city-fc-vs-pdrm-fc.html
@@ -61,6 +67,8 @@ Mechelen vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-
 
 19:00 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209711/ca-osasuna-vs-real-betis.html
+Osasuna vs Real Betis	`0https://www2.sportzzonline.click/channels/hd/hd6.php
+Osasuna vs Real Betis	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
 
 19:00 Super League	^-
 Malut United vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229655/malut-united-vs-dewa-united-fc.html
@@ -73,17 +81,27 @@ Kendal Tornado vs Persi Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-
 
 19:30 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199343/nec-nijmegen-vs-feyenoord.html
+NEC Nijmegen vs Feyenoord	`0https://www2.sportzzonline.click/channels/hd/hd10.php
 
 20:00 [y]English Premier League[z]	^-
 Crystal Palace vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194085/crystal-palace-vs-newcastle-united.html
+Crystal Palace vs Newcastle United	`0https://www2.sportzzonline.click/channels/hd/hd5.php
 Nottingham Forest vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194087/nottingham-forest-vs-aston-villa.html
+Nottingham Forest vs Aston Villa	`0https://www2.sportzzonline.click/channels/hd/hd2.php
+Nottingham Forest vs Aston Villa	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
 Sunderland AFC vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194092/sunderland-vs-tottenham-hotspur.html
+Sunderland AFC vs Tottenham Hotspur	`0https://www2.sportzzonline.click/channels/hd/hd1.php
+Sunderland AFC vs Tottenham Hotspur	`0https://www2.sportzzonline.click/channels/hd/hd9.php
 
 20:00 [y]Italian Serie A[z]	^-
 Parma vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194763/parma-vs-napoli.html
+Parma vs Napoli	`0https://www2.sportzzonline.click/channels/hd/hd7.php
+Parma vs Napoli	`0https://www2.sportzzonline.click/channels/bra/br6.php
 
 20:30 [y]Bundesliga[z]	^-
 FC Koln vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199822/fc-kln-vs-sv-werder-bremen.html
+FC Koln vs Werder Bremen	`0https://www2.sportzzonline.click/channels/hd/hd3.php
+FC Koln vs Werder Bremen	`0https://www2.sportzzonline.click/channels/pt/eleven3.php
 
 21:00 [g]Danish Superliga[z]	^-
 Brondby IF vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368393/brondby-if-vs-midtjylland.html
@@ -93,58 +111,83 @@ Racing Genk vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league
 
 21:15 [y]Spanish La Liga[z]	^-
 Mallorca vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209634/rcd-mallorca-vs-rayo-vallecano.html
+Mallorca vs Rayo Vallecano	`0https://www2.sportzzonline.click/channels/hd/hd6.php
+Mallorca vs Rayo Vallecano	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 Alverca vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216139/alverca-vs-casa-pia-ac.html
+Alverca vs Casa Pia AC	`0https://www2.sportzzonline.click/channels/pt/sporttv1.php
 
 21:45 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199144/az-alkmaar-vs-sc-heerenveen.html
+AZ Alkmaar vs SC Heerenveen	`0https://www2.sportzzonline.click/channels/hd/hd11.php
 
 22:15 [y]French Ligue 1[z]	^-
 Nice vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200146/ogc-nice-vs-havre-athletic-club.html
 Toulouse vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200163/toulouse-fc-vs-losc-lille.html
+Toulouse vs Lille	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+Toulouse vs Lille	`0https://www2.sportzzonline.click/channels/hd/hd4.php
 
 22:30 [y]English Premier League[z]	^-
 Chelsea vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194094/chelsea-vs-manchester-city.html
+Chelsea vs Manchester City	`0https://www2.sportzzonline.click/channels/hd/hd1.php
+Chelsea vs Manchester City	`0https://www2.sportzzonline.click/channels/hd/hd2.php
 
 22:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199816/vfb-stuttgart-vs-hamburger-sv.html
+VfB Stuttgart vs Hamburger SV	`0https://www2.sportzzonline.click/channels/hd/hd3.php
+VfB Stuttgart vs Hamburger SV	`0https://www2.sportzzonline.click/channels/pt/eleven3.php
 
 23:00 [y]Italian Serie A[z]	^-
 Bologna vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194834/bologna-vs-lecce.html
+Bologna vs Lecce	`0https://www2.sportzzonline.click/channels/hd/hd7.php
 
 23:30 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209733/rc-celta-vs-real-oviedo.html
+Real Celta Vigo vs Real Oviedo	`0https://www2.sportzzonline.click/channels/hd/hd6.php
+Real Celta Vigo vs Real Oviedo	`0https://www2.sportzzonline.click/channels/pt/eleven2.php
 
 23:30 [g]Belgian Pro League[z]	^-
 Anderlecht vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383670/anderlecht-vs-kaa-gent.html
+Anderlecht vs KAA Gent	`0https://www2.sportzzonline.click/channels/hd/hd10.php
 
 13.04.2026	^-
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Benfica vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216122/benfica-vs-nacional-da-madeira.html
+Benfica vs Nacional da Madeira	`0https://www2.sportzzonline.click/channels/pt/btv.php
 Sporting Braga vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216160/sporting-braga-vs-fc-arouca.html
+Sporting Braga vs FC Arouca	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
 
 00:00 [g]Turkish Super League[z]	^-
 Galatasaray vs Kocaelispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216868/galatasaray-vs-kocaelispor.html
+Galatasaray vs Kocaelispor	`0https://www2.sportzzonline.click/channels/hd/hd5.php
 
 00:15 [g]Belgian Pro League[z]	^-
 FCV Dender EH vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382837/fcv-dender-eh-vs-zulte-waregem.html
 
 00:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199826/1-fsv-mainz-05-vs-sc-freiburg.html
+FSV Mainz 05 vs SC Freiburg	`0https://www2.sportzzonline.click/channels/hd/hd3.php
+FSV Mainz 05 vs SC Freiburg	`0https://www2.sportzzonline.click/channels/pt/eleven3.php
 
 01:45 [y]Italian Serie A[z]	^-
 Como vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194789/como-vs-inter-milan.html
+Como vs Inter Milan	`0https://www2.sportzzonline.click/channels/hd/hd2.php
+Como vs Inter Milan	`0https://www2.sportzzonline.click/channels/hd/hd7.php
 
 01:45 [y]French Ligue 1[z]	^-
 Lyon vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200274/lyon-vs-lorient.html
+Lyon vs Lorient	`0https://www2.sportzzonline.click/channels/hd/hd4.php
 
 02:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209705/athletic-club-vs-villarreal-cf.html
+Athletic Bilbao vs Villarreal	`0https://www2.sportzzonline.click/channels/hd/hd6.php
+Athletic Bilbao vs Villarreal	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216161/estoril-vs-fc-porto.html
+Estoril vs FC Porto	`0https://www2.sportzzonline.click/channels/pt/sporttv1.php
 
 03:00 [g]Canadian Premier League[z]	^-
 Cavalry FC vs Atletico Ottawa	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4352731/cavalry-fc-vs-atletico-ottawa.html
