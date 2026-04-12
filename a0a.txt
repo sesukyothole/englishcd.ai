@@ -51,6 +51,7 @@ Indonesia vs Timor Leste U17	`Fhttps://www.fctv33.net/football/aff-u17-youth-cha
 	^-
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+Movie Sphere	https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 HBO	https://hls.iill.top/api/HBO/index.m3u8
 HBO Signature	https://hls.iill.top/api/HBO-Signature/index.m3u8
 HBO Hits	https://hls.iill.top/api/HBO-Hits/index.m3u8
@@ -104,18 +105,6 @@ NHK G	https://nl.utako.moe/NHK_G/index.m3u8
 TBS	https://nl.utako.moe/TBS/index.m3u8
 Fuji TV	https://nl.utako.moe/Fuji_TV/index.m3u8
 TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
-
-HBO Cinemax.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
-HBO Hits.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-HBO Family.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/master.mpd!!98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
-Nickelodeon.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
-tvN Movies.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
-
-HBO Cinemax,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
-HBO Hits,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-HBO Family,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/master.mpd!!98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
-Nickelodeon,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
-tvN Movies,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
 
 ^=GTV	`Fhttps://m.rctiplus.com/tv/gtv
 ^=MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
@@ -236,22 +225,6 @@ Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
-
-beIN Sports MY 1.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-beIN Sports MY 2.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-beIN Sports MY 3.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-beIN Sports MY 4.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd!!d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
-ESPN 2 AR.	https://cors-proxy.cooks.fyi/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
-TUDN USA.	https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-Unifi Sports.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd!!90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
-
-beIN Sports MY 1,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-beIN Sports MY 2,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-beIN Sports MY 3,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-beIN Sports MY 4,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd!!d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
-ESPN 2 AR,	https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
-TUDN USA,	https://cors-proxy.wangzhishi.net/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-Unifi Sports,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd!!90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 
 Football for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 SportStars 1 for PC	https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -458,6 +431,22 @@ Sport 1 🇩🇪	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc
 Sport 4 🇱🇹	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
 TUDN 🇲🇽	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 TUDN 🇺🇸	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+
+beIN Sports MY 1.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+beIN Sports MY 2.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+beIN Sports MY 3.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+beIN Sports MY 4.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd!!d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+ESPN 2 AR.	https://cors-proxy.cooks.fyi/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
+TUDN USA.	https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+Unifi Sports.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd!!90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+
+beIN Sports MY 1,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd!!d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+beIN Sports MY 2,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd!!efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+beIN Sports MY 3,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!!816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+beIN Sports MY 4,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd!!d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+ESPN 2 AR,	https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd!!02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
+TUDN USA,	https://cors-proxy.wangzhishi.net/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+Unifi Sports,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd!!90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 
 SportStars 1	https://geogersr.itilstrem.workers.dev/https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 SportStars 2	https://geogersr.itilstrem.workers.dev/https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
@@ -2886,6 +2875,18 @@ ZiggoSport1[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport[Netherlands]
 ZiggoSport2[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport2[Netherlands]
 ZiggoSport3[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport3[Netherlands]
 ZiggoSport4[Netherlands]	`1https://viewembed.ru/channel/ZiggoSport4[Netherlands]
+
+HBO Cinemax.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+HBO Hits.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+HBO Family.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/master.mpd!!98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+Nickelodeon.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+tvN Movies.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
+
+HBO Cinemax,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+HBO Hits,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+HBO Family,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/master.mpd!!98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+Nickelodeon,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+tvN Movies,	https://cors-proxy.wangzhishi.net/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd!!52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
 
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
