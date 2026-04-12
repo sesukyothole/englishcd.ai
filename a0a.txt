@@ -34,17 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 12.04.2026	^-
 
-06:30 [g]US Major League Soccer[z]	^-
-Inter Miami CF vs New York Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317377/inter-miami-cf-vs-new-york-red-bulls.html
-Inter Miami CF vs New York Red Bulls	`0https://www2.sportzzonline.click/channels/hd/hd5.php
-Inter Miami CF vs New York Red Bulls	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7n5N5gzjSeKP.m3u8
-Charlotte FC vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317407/charlotte-fc-vs-nashville.html
-Charlotte FC vs Nashville	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7mZvHKjxXa8m.m3u8
-New England Rev vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317371/new-england-revolution-vs-dc-united.html
-New England Rev vs DC United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7n5SUejh6UdB.m3u8
-Vancouver WC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317376/vancouver-whitecaps-vs-new-york-city-fc.html
-Vancouver WC vs New York City FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B7n5QHAsDGZUH.m3u8
-
 15:30 Super League	^-
 Persis Solo FC vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229579/persis-solo-fc-vs-semen-padang.html
 
