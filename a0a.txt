@@ -34,29 +34,11 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 13.04.2026	^-
 
-01:45 [y]Italian Serie A[z]	^-
-Como vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194789/como-vs-inter-milan.html
-Como vs Inter Milan	`0https://www2.sportzzonline.click/channels/hd/hd2.php
-Como vs Inter Milan	`0https://www2.sportzzonline.click/channels/hd/hd7.php
-Como vs Inter Milan	https://hls.livelivelive.space/live/4339772.m3u8?txSecret=f14d776ec5cbe3821da8ac805c2a3261&txTime=1776019254
+15:30 [y]AFF U17 Youth Champ[z]	^-
+Vietnam vs Malaysia	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4387402/vietnam-u17-vs-malaysia-u17.html
 
-01:45 [y]French Ligue 1[z]	^-
-Lyon vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200274/lyon-vs-lorient.html
-Lyon vs Lorient	`0https://www2.sportzzonline.click/channels/hd/hd4.php
-Lyon vs Lorient	https://hls.livelivelive.space/live/4347935.m3u8?txSecret=65fc01a86195bf4181c6f4f41324488d&txTime=1776019326
-
-02:00 [y]Spanish La Liga[z]	^-
-Athletic Bilbao vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209705/athletic-club-vs-villarreal-cf.html
-Athletic Bilbao vs Villarreal	`0https://www2.sportzzonline.click/channels/hd/hd6.php
-Athletic Bilbao vs Villarreal	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
-Athletic Bilbao vs Villarreal	https://hls.livelivelive.space/live/4358829.m3u8?txSecret=5ec5b00ee4f30fa9a4edfdf4c3294a83&txTime=1776020258
-
-02:30 [g]Portuguese Primera Liga[z]	^-
-Estoril vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216161/estoril-vs-fc-porto.html
-Estoril vs FC Porto	`0https://www2.sportzzonline.click/channels/pt/sporttv1.php
-
-03:00 [g]Canadian Premier League[z]	^-
-Cavalry FC vs Atletico Ottawa	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4352731/cavalry-fc-vs-atletico-ottawa.html
+19:30 [y]AFF U17 Youth Champ[z]	^-
+Indonesia vs Timor Leste U17	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4387404/indonesia-u17-vs-timor-leste-u17.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -69,6 +51,10 @@ Cavalry FC vs Atletico Ottawa	`Fhttps://www.fctv33.net/football/canadian-premier
 	^-
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+HBO	https://hls.iill.top/api/HBO/index.m3u8
+HBO Signature	https://hls.iill.top/api/HBO-Signature/index.m3u8
+HBO Hits	https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Family	https://hls.iill.top/api/HBO-Family/index.m3u8
 Drama Hotpot	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 Drama Hebat	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
@@ -111,10 +97,6 @@ MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 
-HBO	https://hls.iill.top/api/HBO/index.m3u8
-HBO Signature	https://hls.iill.top/api/HBO-Signature/index.m3u8
-HBO Hits	https://hls.iill.top/api/HBO-Hits/index.m3u8
-HBO Family	https://hls.iill.top/api/HBO-Family/index.m3u8
 Discovery	https://hls.iill.top/api/Discovery/index.m3u8
 Sports Network	https://hls.iill.top/api/Sports-Network/index.m3u8
 Nippon TV	https://nl.utako.moe/Nippon_TV/index.m3u8
