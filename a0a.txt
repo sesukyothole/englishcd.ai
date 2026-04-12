@@ -34,15 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 13.04.2026	^-
 
-00:15 [g]Belgian Pro League[z]	^-
-FCV Dender EH vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382837/fcv-dender-eh-vs-zulte-waregem.html
-
-00:30 [y]Bundesliga[z]	^-
-FSV Mainz 05 vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199826/1-fsv-mainz-05-vs-sc-freiburg.html
-FSV Mainz 05 vs SC Freiburg	`0https://www2.sportzzonline.click/channels/hd/hd3.php
-FSV Mainz 05 vs SC Freiburg	`0https://www2.sportzzonline.click/channels/pt/eleven3.php
-FSV Mainz 05 vs SC Freiburg	https://hls.livelivelive.space/live/4347611.m3u8?txSecret=c9ac7467f50e70e3d6107eafa7af4469&txTime=1776016536
-
 01:45 [y]Italian Serie A[z]	^-
 Como vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194789/como-vs-inter-milan.html
 Como vs Inter Milan	`0https://www2.sportzzonline.click/channels/hd/hd2.php
@@ -119,6 +110,10 @@ GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+
+HBO	https://hls.iill.top/api/HBO/index.m3u8
+Discovery	https://hls.iill.top/api/Discovery/index.m3u8
+Sports-Network	https://hls.iill.top/api/Sports-Network/index.m3u8
 
 HBO Cinemax.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd!!b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 HBO Hits.	https://cors-proxy.cooks.fyi/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd!!437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
