@@ -34,16 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 13.04.2026	^-
 
-00:00 [g]Portuguese Primera Liga[z]	^-
-Benfica vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216122/benfica-vs-nacional-da-madeira.html
-Benfica vs Nacional da Madeira	`0https://www2.sportzzonline.click/channels/pt/btv.php
-Sporting Braga vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216160/sporting-braga-vs-fc-arouca.html
-Sporting Braga vs FC Arouca	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
-
-00:00 [g]Turkish Super League[z]	^-
-Galatasaray vs Kocaelispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216868/galatasaray-vs-kocaelispor.html
-Galatasaray vs Kocaelispor	`0https://www2.sportzzonline.click/channels/hd/hd5.php
-
 00:15 [g]Belgian Pro League[z]	^-
 FCV Dender EH vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382837/fcv-dender-eh-vs-zulte-waregem.html
 
@@ -51,20 +41,24 @@ FCV Dender EH vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-lea
 FSV Mainz 05 vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199826/1-fsv-mainz-05-vs-sc-freiburg.html
 FSV Mainz 05 vs SC Freiburg	`0https://www2.sportzzonline.click/channels/hd/hd3.php
 FSV Mainz 05 vs SC Freiburg	`0https://www2.sportzzonline.click/channels/pt/eleven3.php
+FSV Mainz 05 vs SC Freiburg	https://hls.livelivelive.space/live/4347611.m3u8?txSecret=c9ac7467f50e70e3d6107eafa7af4469&txTime=1776016536
 
 01:45 [y]Italian Serie A[z]	^-
 Como vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194789/como-vs-inter-milan.html
 Como vs Inter Milan	`0https://www2.sportzzonline.click/channels/hd/hd2.php
 Como vs Inter Milan	`0https://www2.sportzzonline.click/channels/hd/hd7.php
+Como vs Inter Milan	https://hls.livelivelive.space/live/4339772.m3u8?txSecret=f14d776ec5cbe3821da8ac805c2a3261&txTime=1776019254
 
 01:45 [y]French Ligue 1[z]	^-
 Lyon vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200274/lyon-vs-lorient.html
 Lyon vs Lorient	`0https://www2.sportzzonline.click/channels/hd/hd4.php
+Lyon vs Lorient	https://hls.livelivelive.space/live/4347935.m3u8?txSecret=65fc01a86195bf4181c6f4f41324488d&txTime=1776019326
 
 02:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209705/athletic-club-vs-villarreal-cf.html
 Athletic Bilbao vs Villarreal	`0https://www2.sportzzonline.click/channels/hd/hd6.php
 Athletic Bilbao vs Villarreal	`0https://www2.sportzzonline.click/channels/pt/eleven1.php
+Athletic Bilbao vs Villarreal	https://hls.livelivelive.space/live/4358829.m3u8?txSecret=5ec5b00ee4f30fa9a4edfdf4c3294a83&txTime=1776020258
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216161/estoril-vs-fc-porto.html
