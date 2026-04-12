@@ -34,26 +34,6 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 12.04.2026	^-
 
-18:00 [g]English Football League Champ[z]	^-
-Birmingham City vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203490/birmingham-city-vs-wrexham.html
-Birmingham City vs Wrexham	`0https://www2.sportzzonline.click/channels/hd/hd1.php
-Birmingham City vs Wrexham	`0https://www2.sportzzonline.click/channels/bra/br2.php
-Birmingham City vs Wrexham	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3M5Dfum4K1Tad.m3u8
-
-18:00 [g]Scottish Premiership[z]	^-
-Falkirk vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4206220/falkirk-vs-rangers.html
-Falkirk vs Glasgow Rangers	`0https://www2.sportzzonline.click/channels/pt/sporttv3.php
-Falkirk vs Glasgow Rangers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSrvocb9TU3LgBaV.m3u8
-
-18:30 Malaysian Super League	^-
-Kuching FA vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221172/kuching-city-fc-vs-pdrm-fc.html
-Kuching FA vs PDRM	`0https://www.marza12.shop/football/2822419-kuching-fa-vs-pdrm.html
-Kuching FA vs PDRM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5ve3xABAMs3nV.m3u8
-
-18:30 [g]Belgian Pro League[z]	^-
-Mechelen vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383094/kv-mechelen-vs-union-saint-gilloise.html
-Mechelen vs Saint Gilloise	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8ktpRoZRaRbB.m3u8
-
 19:00 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209711/ca-osasuna-vs-real-betis.html
 Osasuna vs Real Betis	`0https://www2.sportzzonline.click/channels/hd/hd6.php
