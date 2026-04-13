@@ -5,6 +5,12 @@
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
+Test 1	`1https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
+Test 2	`2https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
+Test 3	`3https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
+Test 4	`4https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
+Test 5	`5https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
+
 ^=Blank	
 ^=	^-
 
@@ -40,25 +46,6 @@ Al Hilal SFC vs Al-Sadd	`Fhttps://www.fctv33.net/football/afc-champions-league-e
 Al Hilal SFC vs Al-Sadd	`0https://www2.sportzzonline.click/channels/hd/hd5.php
 Al Hilal SFC vs Al-Sadd	`0https://www2.sportzzonline.click/channels/bra/br6.php
 Al Hilal SFC vs Al-Sadd	`0https://stream.livenobarseru.com/id/match/al-hilal-vs-al-sadd-1776103200
-
-01:45 [y]Italian Serie A[z]	^-
-Fiorentina vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194788/fiorentina-vs-lazio.html
-Fiorentina vs Lazio	`0https://www2.sportzzonline.click/channels/hd/hd7.php
-Fiorentina vs Lazio	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
-Fiorentina vs Lazio	`0https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
-Fiorentina vs Lazio	https://hls.livelivelive.space/live/4339774.m3u8?txSecret=c3d14ff570551956b13324d2ca17770b&txTime=1776107420
-
-02:00 [y]English Premier League[z]	^-
-Manchester United vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194086/manchester-united-vs-leeds-united.html
-Manchester United vs Leeds United	`0https://www2.sportzzonline.click/channels/hd/hd1.php
-Manchester United vs Leeds United	`0https://www2.sportzzonline.click/channels/hd/hd11.php
-Manchester United vs Leeds United	`0https://stream.livenobarseru.com/id/match/manchester-united-vs-leeds-united-1776106800
-
-02:00 [y]Spanish La Liga[z]	^-
-Levante vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209743/levante-vs-getafe.html
-Levante vs Getafe	`0https://www2.sportzzonline.click/channels/hd/hd2.php
-Levante vs Getafe	`0https://www2.sportzzonline.click/channels/hd/hd6.php
-Levante vs Getafe	`0https://stream.livenobarseru.com/id/match/levante-vs-getafe-1776106800
 
 02:15 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216130/cd-tondela-vs-gil-vicente.html
