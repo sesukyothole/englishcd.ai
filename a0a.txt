@@ -3,7 +3,7 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
-^=zhiboz	`0https://zhiboz.com/
+^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=Blank	
 ^=	^-
@@ -45,7 +45,8 @@ Al Hilal SFC vs Al-Sadd	`0https://stream.livenobarseru.com/id/match/al-hilal-vs-
 Fiorentina vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194788/fiorentina-vs-lazio.html
 Fiorentina vs Lazio	`0https://www2.sportzzonline.click/channels/hd/hd7.php
 Fiorentina vs Lazio	`0https://www2.sportzzonline.click/channels/pt/sporttv2.php
-Fiorentina vs Lazio	`0https://stream.livenobarseru.com/id/match/fiorentina-vs-lazio-1776105900
+Fiorentina vs Lazio	`0https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
+Fiorentina vs Lazio	https://hls.livelivelive.space/live/4339774.m3u8?txSecret=c3d14ff570551956b13324d2ca17770b&txTime=1776107420
 
 02:00 [y]English Premier League[z]	^-
 Manchester United vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194086/manchester-united-vs-leeds-united.html
