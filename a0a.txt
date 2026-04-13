@@ -5,12 +5,7 @@
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=zhiboz	`0https://zhiboz.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-^=Test 0	`0https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
-^=Test 1	`1https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
-^=Test 2	`2https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
-^=Test 3	`3https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
-^=Test 4	`4https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
-^=Test 5	`5https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
+^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
 ^=Blank	
 ^=	^-
 
@@ -40,13 +35,13 @@ Live Sports TV	`0https://www.marza12.shop/football.html
 
 13.04.2026	^-
 
-16:00 [l]CA U17 C[z]	^-
-Kyrgyzstan vs Turkmenistan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdadgxWq938CTPRX.m3u8
+19:00 [l]CA U17 C[z]	^-
+Uzbekistan vs Tajikistan	`0https://stream.livenobarseru.com/id/match/uzbekistan-u17-vs-tajikistan-u17-1776081600
 
 19:30 [l]AFF U17 Youth Champ[z]	^-
 Indonesia vs Timor Leste	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4387404/indonesia-u17-vs-timor-leste-u17.html
 Indonesia vs Timor Leste	`0https://www.marza12.shop/football/2973721-indonesia-u17-vs-east-timor-u17.html
-Indonesia vs Timor Leste
+Indonesia vs Timor Leste	`0https://stream.livenobarseru.com/id/match/indonesia-u17-vs-timor-leste-u17-1776083400
 
 21:45 [g]AFC Champions League Elite[z]	^-
 Al Ahli Jeddah vs Al Duhail	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4384304/al-ahli-sfc-vs-al-duhail.html
@@ -2955,7 +2950,5 @@ PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 ^=Live 9	`0https://24start.net/homes/blog9/
 ^=Live 10	`0https://24start.net/homes/blog10/
 ^=Live 11	`0https://24start.net/homes/blog11/
-
-^=SLNS	`1https://stream.livenobarseru.com/id/sport/football
 
 	^-
