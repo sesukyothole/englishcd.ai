@@ -5,12 +5,6 @@
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-Test 1	`1https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
-Test 2	`2https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
-Test 3	`3https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
-Test 4	`4https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
-Test 5	`5https://embedsports.top/embed/admin/ppv-fiorentina-vs-lazio/1
-
 ^=Blank	
 ^=	^-
 
@@ -40,17 +34,6 @@ Live Sports Streaming 2	`0https://stream.livenobarseru.com/id/sport/football
 	^-
 
 14.04.2026	^-
-
-01:00 [g]AFC Champions League Elite[z]	^-
-Al Hilal SFC vs Al-Sadd	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4384260/al-hilal-vs-al-sadd.html
-Al Hilal SFC vs Al-Sadd	`0https://www2.sportzzonline.click/channels/hd/hd5.php
-Al Hilal SFC vs Al-Sadd	`0https://www2.sportzzonline.click/channels/bra/br6.php
-Al Hilal SFC vs Al-Sadd	`0https://stream.livenobarseru.com/id/match/al-hilal-vs-al-sadd-1776103200
-
-02:15 [g]Portuguese Primera Liga[z]	^-
-CD Tondela vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216130/cd-tondela-vs-gil-vicente.html
-CD Tondela vs Gil Vicente	`0https://www2.sportzzonline.click/channels/pt/sporttv1.php
-CD Tondela vs Gil Vicente	`0https://stream.livenobarseru.com/id/match/cd-tondela-vs-gil-vicente-1776107700
 
 15:30 [l]ASEAN U17 Boys' Champ[z]	^-
 Brunei Darussalam vs Cambodia	`Fhttps://www.fctv33.net/football/asean-u17-boys-championship-match-4388637/brunei-darussalam-vs--cambodia.html
