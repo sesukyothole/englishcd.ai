@@ -5,7 +5,12 @@
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
 ^=zhiboz	`0https://zhiboz.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-^=Test	`Fhttps://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
+^=Test 0	`0https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
+^=Test 1	`1https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
+^=Test 2	`2https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
+^=Test 3	`3https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
+^=Test 4	`4https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
+^=Test 5	`5https://stream.livenobarseru.com/id/match/etar-vs-fc-dunav-ruse-1776073500
 ^=Blank	
 ^=	^-
 
