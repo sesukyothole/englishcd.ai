@@ -3,8 +3,9 @@
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
-^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
+^=zhiboz.com	`0https://www.popozhibo.tv/
+^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
 ^=Blank	
 ^=	^-
 
@@ -28,8 +29,7 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-Live Sports Streaming 1	`0https://www.marza12.shop/football.html
-Live Sports Streaming 2	`0https://stream.livenobarseru.com/id/sport/football
+Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
