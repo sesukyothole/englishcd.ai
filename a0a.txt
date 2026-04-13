@@ -33,21 +33,6 @@ Live Sports Streaming 2	`0https://stream.livenobarseru.com/id/sport/football
 
 	^-
 
-13.04.2026	^-
-
-19:00 [l]CA U17 C[z]	^-
-Uzbekistan vs Tajikistan	`0https://stream.livenobarseru.com/id/match/uzbekistan-u17-vs-tajikistan-u17-1776081600
-
-19:30 [l]AFF U17 Youth Champ[z]	^-
-Indonesia vs Timor Leste	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4387404/indonesia-u17-vs-timor-leste-u17.html
-Indonesia vs Timor Leste	`0https://www.marza12.shop/football/2973721-indonesia-u17-vs-east-timor-u17.html
-Indonesia vs Timor Leste	`0https://stream.livenobarseru.com/id/match/indonesia-u17-vs-timor-leste-u17-1776083400
-
-21:45 [g]AFC Champions League Elite[z]	^-
-Al Ahli Jeddah vs Al Duhail	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4384304/al-ahli-sfc-vs-al-duhail.html
-Al Ahli Jeddah vs Al Duhail	`0https://www2.sportzzonline.click/channels/hd/hd11.php
-Al Ahli Jeddah vs Al Duhail	`0https://stream.livenobarseru.com/id/match/al-ahli-sfc-vs-al-duhail-1776091500
-
 14.04.2026	^-
 
 01:00 [g]AFC Champions League Elite[z]	^-
@@ -78,6 +63,9 @@ Levante vs Getafe	`0https://stream.livenobarseru.com/id/match/levante-vs-getafe-
 CD Tondela vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216130/cd-tondela-vs-gil-vicente.html
 CD Tondela vs Gil Vicente	`0https://www2.sportzzonline.click/channels/pt/sporttv1.php
 CD Tondela vs Gil Vicente	`0https://stream.livenobarseru.com/id/match/cd-tondela-vs-gil-vicente-1776107700
+
+15:30 [l]ASEAN U17 Boys' Champ[z]	^-
+Brunei Darussalam vs Cambodia	`Fhttps://www.fctv33.net/football/asean-u17-boys-championship-match-4388637/brunei-darussalam-vs--cambodia.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
