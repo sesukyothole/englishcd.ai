@@ -6,6 +6,8 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
+^=Test Home	`0https://www.camelscore.live/g/home
+^=Test Match	`0https://www.camelscore.live/football/maritimo-u23-vs-farense-u23/live/3glrw7hn37eoqdy
 ^=Blank	
 ^=	^-
 
