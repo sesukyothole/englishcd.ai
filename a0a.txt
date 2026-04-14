@@ -33,17 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-14.04.2026	^-
-
-21:45 [g]AFC Champions League Elite[z]	^-
-Tractor SC vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4383065/tractor-sc-vs-shabab-al-ahli.html
-Tractor SC vs Al Ahli UAE	`0https://www2.sportzzonline.click/channels/hd/hd10.php
-Tractor SC vs Al Ahli UAE	https://hls.livelivelive.space/live/4520557.m3u8?txSecret=bdbdd7a8a6eada68161cfad7bfc28da8&txTime=1776177622
-Tractor SC vs Al Ahli UAE	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaaShRapN7o449s.m3u8
-
-23:15 [l]Women's World Cup qualifier UEFA[z]	^-
-Germany vs Austria	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313596/germany-women-vs-austria-women.html
-
 15.04.2026	^-
 
 01:00 [g]Saudi Professional League[z]	^-
@@ -73,9 +62,11 @@ Southampton vs Blackburn Rovers	`0https://www.marza12.shop/football/2798542-sout
 Atletico Madrid vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375177/atletico-madrid-vs-fc-barcelona.html
 Atletico Madrid vs FC Barcelona	`0https://www2.sportzzonline.click/channels/hd/hd1.php
 Atletico Madrid vs FC Barcelona	`0https://www2.sportzzonline.click/channels/hd/hd5.php
+Atletico Madrid vs FC Barcelona	https://hls.livelivelive.space/live/4517582.m3u8?txSecret=6f3263ebef9ccdfb1c797454c8d7c6ef&txTime=1776193081
 Liverpool vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375178/liverpool-vs-paris-saint-germain.html
 Liverpool vs Paris Saint Germain	`0https://www2.sportzzonline.click/channels/hd/hd2.php
 Liverpool vs Paris Saint Germain	`0https://www2.sportzzonline.click/channels/hd/hd3.php
+Liverpool vs Paris Saint Germain	https://hls.livelivelive.space/live/4517583.m3u8?txSecret=c82de01ca5e67e8d3918d204c684f972&txTime=1776192969
 
 02:00 [l]International W Series[z]	^-
 Canada vs South Korea	`Fhttps://www.fctv33.net/football/fifa-w-series-match-4387351/canada-women-vs-south-korea-women.html
