@@ -55,6 +55,31 @@ Bayern Munchen vs Real Madrid	https://play.88player.top/m3u8.html?url=https://hl
 Bayern Munchen vs Real Madrid	https://live.bbs456.com/live/13646166_e5f8a80ac3f6e962079d3dab80de2ee1.m3u8
 Bayern Munchen vs Real Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqV93PxnAQYKqxq.m3u8
 
+05:00 [g]Copa Libertadores[z]	^-
+Libertad vs Rosario Central	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375784/club-libertad-asuncin-vs-rosario-central.html
+Libertad vs Rosario Central	https://hls.livelivelive.space/live/4518359.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Cruzeiro Esporte vs Univ Catolica	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375842/cruzeiro---mg-vs-univ-catolica.html
+Cruzeiro Esporte vs Univ Catolica	https://hls.livelivelive.space/live/4518311.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+05:00 [g]Copa Sudamericana[z]	^-
+Racing Club vs Botafogo RJ	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375946/racing-club-de-avellaneda-vs-botafogo---rj.html
+Racing Club vs Botafogo RJ	https://hls.livelivelive.space/live/4518192.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Caracas vs Independiente Petrolero	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375947/caracas-fc-vs-independiente-petrolero.html
+Caracas vs Independiente Petrolero	https://hls.livelivelive.space/live/4518191.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+07:00 [g]Copa Sudamericana[z]	^-
+Olympia Asunción vs Baracas Central	https://hls.livelivelive.space/live/4518216.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+07:30 [g]Copa Libertadores[z]	^-
+Corinthians Paul vs Indep. Santa Fe	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376060/corinthians---sp-vs-independiente-santa-fe.html
+Corinthians Paul vs Indep. Santa Fe	https://hls.livelivelive.space/live/4518323.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Fluminense RJ vs Indep. Rivadavia	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375930/fluminense---rj-vs-independiente-rivadavia.html
+Fluminense RJ vs Indep. Rivadavia	https://hls.livelivelive.space/live/4518299.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+08:30 [g]Copa Sudamericana[z]	^-
+River Plate vs Carabobo FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375852/river-plate-vs-carabobo.html
+River Plate vs Carabobo FC	https://hls.livelivelive.space/live/4518228.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
 15:30 [l]AFF U17 Youth Champ[z]	^-
 Timor Leste vs Vietnam	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4388142/timor-leste-u17-vs-vietnam-u17.html
 
