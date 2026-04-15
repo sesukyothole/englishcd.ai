@@ -35,13 +35,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 15.04.2026	^-
 
-14:00 [l]WC Qualifying[z]	^-
-New Zealand vs Papua New Guinea	`Fhttps://www.fctv33.net/football/wc-qualifying-match-4388769/new-zealand-women-vs-papua-new-guinea-women.html
-New Zealand vs Papua New Guinea	`0https://www.marza12.shop/football/2975345-new-zealand-w-vs-papua-new-guinea-w.html
-
 15:30 [l]AFF U17 Youth Championship[z]	^-
 Philippines vs Laos	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4387716/philippines-u17-vs-laos-u17.html
 Philippines vs Laos	`0https://www.marza12.shop/football/2973728-philippines-u17-vs-laos-u17.html
+Philippines vs Laos	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2Zd1EG5YF5SBX.m3u8
 
 16:00 [l]AFC U-20 Women's Asian Cup[z]	^-
 North Korea vs Korea Rep	`Fhttps://www.fctv33.net/football/afc-u-20-womens-asian-cup-match-4387717/north-korea-women-u20-vs-south-korea-women-u20.html
