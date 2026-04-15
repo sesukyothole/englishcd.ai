@@ -35,20 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 16.04.2026	^-
 
-02:00 [y]UEFA Champions League[z]	^-
-Arsenal vs Sporting CP	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4374832/arsenal-vs-sporting-cp.html
-Arsenal vs Sporting CP	`0https://v3.sportssonline.click/channels/hd/hd1.php
-Arsenal vs Sporting CP	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Arsenal vs Sporting CP	https://hls.livelivelive.space/live/4517188.m3u8?txSecret=8e3b8ac16c0eb55a472655b00018786a&txTime=1776280238
-Arsenal vs Sporting CP	https://hls.livelivelive.space/live/4517188.m3u8?txSecret=7bb279711d9a4e0a2bd5e713e5840f2d&txTime=1776279339
-Arsenal vs Sporting CP	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqV667cbYigTmvu.m3u8
-Bayern Munchen vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4375176/fc-bayern-munich-vs-real-madrid.html
-Bayern Munchen vs Real Madrid	`0https://v3.sportssonline.click/channels/hd/hd2.php
-Bayern Munchen vs Real Madrid	`0https://v3.sportssonline.click/channels/hd/hd3.php
-Bayern Munchen vs Real Madrid	https://hls.livelivelive.space/live/4517581.m3u8?txSecret=dbb6cab2882059aeeca2896e8f393b14&txTime=1776280325
-Bayern Munchen vs Real Madrid	https://live.bbs456.com/live/13646166_e5f8a80ac3f6e962079d3dab80de2ee1.m3u8
-Bayern Munchen vs Real Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqV93PxnAQYKqxq.m3u8
-
 05:00 [g]Copa Libertadores[z]	^-
 Libertad vs Rosario Central	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375784/club-libertad-asuncin-vs-rosario-central.html
 Libertad vs Rosario Central	https://hls.livelivelive.space/live/4518359.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
