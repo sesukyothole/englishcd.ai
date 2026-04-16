@@ -33,26 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-16.04.2026	^-
-
-23:15 [g]AFC Champions League Elite[z]	^-
-Al-Sadd vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4388979/al-sadd-vs-vissel-kobe.html
-Al-Sadd vs Vissel Kobe	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Al-Sadd vs Vissel Kobe	`0https://v3.sportssonline.click/channels/bra/br6.php
-Al-Sadd vs Vissel Kobe	https://hls.livelivelive.space/live/4531041.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-23:45 [y]UEFA Europa League[z]	^-
-Real Celta Vigo vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4375560/rc-celta-vs-sc-freiburg.html
-Real Celta Vigo vs SC Freiburg	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Real Celta Vigo vs SC Freiburg	`0https://v3.sportssonline.click/channels/hd/hd6.php
-Real Celta Vigo vs SC Freiburg	https://hls.livelivelive.space/live/4517859.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-23:45 [y]UEFA Europa Conference League[z]	^-
-AZ Alkmaar vs FC Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4375583/az-alkmaar-vs-fc-shakhtar-donetsk.html
-AZ Alkmaar vs FC Shakhtar Donetsk	`0https://v3.sportssonline.click/channels/hd/hd9.php
-AZ Alkmaar vs FC Shakhtar Donetsk	`https://v3.sportssonline.click/channels/hd/hd8.php
-AZ Alkmaar vs FC Shakhtar Donetsk	https://hls.livelivelive.space/live/4517874.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 17.04.2026	^-
 
 02:00 [y]UEFA Europa League[z]	^-
@@ -79,6 +59,38 @@ Fiorentina vs Crystal Palace	`0https://v3.sportssonline.click/channels/hd/hd8.ph
 Strasbourg vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4375585/rc-strasbourg-alsace-vs-1-fsv-mainz-05.html
 Strasbourg vs FSV Mainz 05	`0https://v3.sportssonline.click/channels/hd/hd3.php
 Strasbourg vs FSV Mainz 05	`0https://v3.sportssonline.click/channels/hd/hd4.php
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Club Atletico Tigre vs Macara	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375742/club-atletico-tigre-vs-macara.html
+Club Atletico Tigre vs Macara	https://hls.livelivelive.space/live/4518143.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Atletico Mineiro vs CA Juventud	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375752/atltico-mineiro---mg-vs-ca-juventud.html
+Atletico Mineiro vs CA Juventud	https://hls.livelivelive.space/live/4518155.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Palmeiras vs Sporting Cristal	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375835/palmeiras---sp-vs-sporting-cristal.html
+Palmeiras vs Sporting Cristal	https://hls.livelivelive.space/live/4518336.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Lanus vs Always Ready	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375988/club-atltico-lans-vs-always-ready.html
+Lanus vs Always Ready	https://hls.livelivelive.space/live/4518347.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Bragantino vs Blooming	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375853/red-bull-bragantino-vs-blooming.html
+Bragantino vs Blooming	https://hls.livelivelive.space/live/4518227.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+San Lorenzo vs Deportivo Cuenca	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375875/san-lorenzo-vs-deportivo-cuenca.html
+San Lorenzo vs Deportivo Cuenca	https://hls.livelivelive.space/live/4518179.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+CA Penarol vs CA Platense	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376058/ca-penarol-vs-ca-platense.html
+CA Penarol vs CA Platense	https://hls.livelivelive.space/live/4518324.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Flamengo vs Dep.Indep. Medellin	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376133/flamengo---rj-vs-depindependiente-medellin.html
+Flamengo vs Dep.Indep. Medellin	https://hls.livelivelive.space/live/4518276.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Cienciano vs Academia Puerto Cabello	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375753/cienciano-vs-academia-puerto-cabello.html
+Cienciano vs Academia Puerto Cabello	https://hls.livelivelive.space/live/4518156.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+15:20 [l]ASEAN U17 Boys' Championship[z]	^-
+Australia vs Cambodia	`Fhttps://www.fctv33.net/football/asean-u17-boys-championship-match-4390076/australia-vs--cambodia.html
+Singapore vs Brunei Darussalam	`Fhttps://www.fctv33.net/football/asean-u17-boys-championship-match-4390077/singapore-vs--brunei-darussalam.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
