@@ -35,19 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 16.04.2026	^-
 
-07:00 [g]Copa Sudamericana[z]	^-
-Olympia Asunción vs Baracas Central	https://hls.livelivelive.space/live/4518216.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-07:30 [g]Copa Libertadores[z]	^-
-Corinthians Paul vs Indep. Santa Fe	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376060/corinthians---sp-vs-independiente-santa-fe.html
-Corinthians Paul vs Indep. Santa Fe	https://hls.livelivelive.space/live/4518323.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Fluminense RJ vs Indep. Rivadavia	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375930/fluminense---rj-vs-independiente-rivadavia.html
-Fluminense RJ vs Indep. Rivadavia	https://hls.livelivelive.space/live/4518299.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-08:30 [g]Copa Sudamericana[z]	^-
-River Plate vs Carabobo FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375852/river-plate-vs-carabobo.html
-River Plate vs Carabobo FC	https://hls.livelivelive.space/live/4518228.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 15:30 [l]AFF U17 Youth Champ[z]	^-
 Timor Leste vs Vietnam	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4388142/timor-leste-u17-vs-vietnam-u17.html
 
