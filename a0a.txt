@@ -59,29 +59,35 @@ Fenerbahce vs Caykur Rizespor	https://hls.livelivelive.space/live/4366177.m3u8?t
 Machida Zelvia vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4389028/machida-zelvia-vs-al-ittihad-club.html
 Machida Zelvia vs Al Ittihad Club	`0https://v3.sportssonline.click/channels/hd/hd10.php
 Machida Zelvia vs Al Ittihad Club	`0https://v3.sportssonline.click/channels/bra/br6.php
+Machida Zelvia vs Al Ittihad Club	https://hls.livelivelive.space/live/4531043.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 01:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199837/fc-st-pauli-vs-fc-kln.html
 FC St. Pauli vs FC Koln	`0https://v3.sportssonline.click/channels/hd/hd3.php
 FC St. Pauli vs FC Koln	`0https://v3.sportssonline.click/channels/pt/eleven2.php
+FC St. Pauli vs FC Koln	https://hls.livelivelive.space/live/4347629.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 01:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194639/inter-milan-vs-cagliari.html
 Inter Milan vs Cagliari	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Inter Milan vs Cagliari	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Inter Milan vs Cagliari	https://hls.livelivelive.space/live/4339746.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 01:45 [y]French Ligue 1[z]	^-
 Lens vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200162/rc-lens-vs-toulouse-fc.html
 Lens vs Toulouse	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Lens vs Toulouse	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Lens vs Toulouse	https://hls.livelivelive.space/live/4347944.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:00 [g]English Football League Champ[z]	^-
 Blackburn Rovers vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203859/blackburn-rovers-vs-coventry-city.html
 Blackburn Rovers vs Coventry City	`0https://v3.sportssonline.click/channels/bra/br2.php
+Blackburn Rovers vs Coventry City	https://hls.livelivelive.space/live/4351722.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:45 [g]Portuguese Primera Liga[z]	^-
 Rio Ave vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216180/rio-ave-vs-avs-futebol-sad.html
 Rio Ave vs AVS Futebol	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+Rio Ave vs AVS Futebol	https://hls.livelivelive.space/live/4369055.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 08:00 [l]International Women Friendly[z]	^-
 USA vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4390264/usa-women-vs-japan-women.html
@@ -92,6 +98,7 @@ Vancouver Whitecaps vs Kansas City	`0https://v3.sportssonline.click/channels/hd/
 
 12:00 [g]Australia A-League[z]	^-
 Wellington Phoenix vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282107/wellington-phoenix-vs-western-sydney.html
+Wellington Phoenix vs Western Sydney	https://hls.livelivelive.space/live/4426738.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
