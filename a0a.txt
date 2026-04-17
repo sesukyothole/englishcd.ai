@@ -35,18 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 17.04.2026	^-
 
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Club Atletico Tigre vs Macara	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375742/club-atletico-tigre-vs-macara.html
-Club Atletico Tigre vs Macara	https://hls.livelivelive.space/live/4518143.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Atletico Mineiro vs CA Juventud	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375752/atltico-mineiro---mg-vs-ca-juventud.html
-Atletico Mineiro vs CA Juventud	https://hls.livelivelive.space/live/4518155.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-05:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Palmeiras vs Sporting Cristal	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375835/palmeiras---sp-vs-sporting-cristal.html
-Palmeiras vs Sporting Cristal	https://hls.livelivelive.space/live/4518336.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Lanus vs Always Ready	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375988/club-atltico-lans-vs-always-ready.html
-Lanus vs Always Ready	https://hls.livelivelive.space/live/4518347.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Bragantino vs Blooming	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375853/red-bull-bragantino-vs-blooming.html
 Bragantino vs Blooming	https://hls.livelivelive.space/live/4518227.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
