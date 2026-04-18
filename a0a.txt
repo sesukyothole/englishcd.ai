@@ -35,12 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.04.2026	^-
 
-14:30 [g]Korean K League 1[z]	^-
-Bucheon FC 1995 vs Incheon United	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336126/bucheon-fc-1995-vs-incheon-united-club.html
-Bucheon FC 1995 vs Incheon United	https://hls.livelivelive.space/live/4480335.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Jeju United vs Gimcheon Sangmu FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336164/jeju-sk-fc-vs-gimcheon-sangmu-football-club.html
-Jeju United vs Gimcheon Sangmu FC	https://hls.livelivelive.space/live/4480365.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 15:30 Super League	^-
 Arema FC vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229531/arema-fc-vs-persis-solo-fc.html
 Arema FC vs Persis Solo FC	`0https://www.marza12.shop/football/2826392-arema-fc-vs-persis-solo-fc.html
