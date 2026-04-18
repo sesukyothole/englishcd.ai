@@ -33,25 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-18.04.2026	^-
-
-23:15 [g]AFC Champions League Elite[z]	^-
-Buriram United vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4389227/buriram-united-vs-shabab-al-ahli.html
-Buriram United vs Al Ahli UAE	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Buriram United vs Al Ahli UAE	https://hls.livelivelive.space/live/4339796.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-23:30 [y]English Premier League[z]	^-
-Tottenham Hotspur vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193864/tottenham-hotspur-vs-brighton-hove-albion.html
-Tottenham Hotspur vs Brighton Hove	`0https://v3.sportssonline.click/channels/hd/hd1.php
-Tottenham Hotspur vs Brighton Hove	`0https://v3.sportssonline.click/channels/pt/eleven1.php
-Tottenham Hotspur vs Brighton Hove	https://hls.livelivelive.space/live/4343397.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-23:30 [y]Bundesliga[z]	^-
-Eintracht Frankfurt vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199835/eintracht-frankfurt-vs-rb-leipzig.html
-Eintracht Frankfurt vs RB Leipzig	`0https://v3.sportssonline.click/channels/hd/hd3.php
-Eintracht Frankfurt vs RB Leipzig	`0https://v3.sportssonline.click/channels/pt/eleven2.php
-Eintracht Frankfurt vs RB Leipzig	https://hls.livelivelive.space/live/4347633.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 19.04.2026	^-
 
 00:00 [y]French Ligue 1[z]	^-
