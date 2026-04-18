@@ -35,11 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.04.2026	^-
 
-03:30 [g]US Major League Soccer[z]	^-
-Colorado Rapids vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317456/colorado-rapids-vs-inter-miami-cf.html
-Colorado Rapids vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Colorado Rapids vs Inter Miami CF	https://hls.livelivelive.space/live/4460174.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 04:30 [g]Brazilian Serie A[z]	^-
 Chapecoense SC vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324053/chapecoense---sc-vs-botafogo---rj.html
 Chapecoense SC vs Botafogo RJ	https://hls.livelivelive.space/live/4465677.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
@@ -75,6 +70,10 @@ Atlanta United vs Nashville	https://hls.livelivelive.space/live/4460175.m3u8?txS
 06:30 [g]Brazilian Serie A[z]	^-
 Cruzeiro Esporte Clube vs Gremio	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324117/cruzeiro---mg-vs-grmio---rs.html
 Cruzeiro Esporte Clube vs Gremio	https://hls.livelivelive.space/live/4465635.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+07:00 [g]CHI Liga de Primera[z]	^-
+D. Concepcion vs Deportes La Serena	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330218/d-concepcion-vs-deportes-la-serena.html
+D. Concepcion vs Deportes La Serena	https://hls.livelivelive.space/live/4476353.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 07:30 [g]US Major League Soccer[z]	^-
 Minnesota Utd vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317441/minnesota-united-fc-vs-portland-timbers.html
@@ -112,9 +111,32 @@ Club America vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-43
 Club America vs Toluca	https://hls.livelivelive.space/live/4465543.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Leon vs Juarez	https://hls.livelivelive.space/live/4465539.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
+11:00 [g]Japanese J1 League[z]	^-
+Mito Hollyhock vs Kashiwa Reysol	https://hls.livelivelive.space/live/4470693.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+12:00 [g]Korean K League 1[z]	^-
+Ulsan HD vs Gwangju FC	https://hls.livelivelive.space/live/4480339.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
 12:30 [g]Australia A-League[z]	^-
 Adelaide United vs FC Macarthur	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282190/adelaide-united-vs-macarthur-fc.html
 Adelaide United vs FC Macarthur	https://hls.livelivelive.space/live/4426743.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+13:00 [g]Japanese J1 League[z]	^-
+Gamba Osaka vs Okayama Green	https://hls.livelivelive.space/live/4470784.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+14:00 [g]Japanese J1 League[z]	^-
+Nagoya Grampus vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331691/nagoya-grampus-vs-avispa-fukuoka.html
+Nagoya Grampus vs Avispa Fukuoka	https://hls.livelivelive.space/live/4470785.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+14:30 [g]Korean K League 1[z]	^-
+Pohang Steelers vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336087/pohang-steelers-vs-fc-anyang.html
+Pohang Steelers vs FC Anyang	https://hls.livelivelive.space/live/4480413.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+15:30 Super League	^-
+Persik Kediri vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229477/persatuan-sepak-bola-indonesia-kediri-vs-persita-tangerang.html
+
+15:30 Championship	^-
+Deltras Sidoarjo vs Kendal Tornado	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352282/deltras-sidoarjo-vs-kendal-tornado-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
