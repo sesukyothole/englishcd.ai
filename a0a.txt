@@ -34,17 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 	^-
 
 18.04.2026	^-
-13:00 [g]Japanese J1 League[z]	^-
-Tokyo Verdy vs Ichihara Chiba	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331777/tokyo-verdy-vs-jef-united-ichihara-chiba.html
-Tokyo Verdy vs Ichihara Chiba	https://hls.livelivelive.space/live/4470694.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-14:00 [g]Australia A-League[z]	^-
-Brisbane Roar vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282104/brisbane-roar-vs-melbourne-city.html
-Brisbane Roar vs Melbourne City	https://hls.livelivelive.space/live/4426740.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-14:00 [g]Japanese J1 League[z]	^-
-Cerezo Osaka vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331672/cerezo-osaka-vs-kyoto-sanga.html
-Cerezo Osaka vs Kyoto Sanga	https://hls.livelivelive.space/live/4470783.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 14:30 [g]Korean K League 1[z]	^-
 Bucheon FC 1995 vs Incheon United	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336126/bucheon-fc-1995-vs-incheon-united-club.html
@@ -55,6 +44,7 @@ Jeju United vs Gimcheon Sangmu FC	https://hls.livelivelive.space/live/4480365.m3
 15:30 Super League	^-
 Arema FC vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229531/arema-fc-vs-persis-solo-fc.html
 Arema FC vs Persis Solo FC	`0https://www.marza12.shop/football/2826392-arema-fc-vs-persis-solo-fc.html
+Arema FC vs Persis Solo FC https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkaQFbD2ngfsK.m3u8
 
 15:30 Championship	^-
 Persela Lamongan vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352281/persela-lamongan-vs-persipal-palu.html
@@ -63,8 +53,10 @@ FC Bekasi City vs Adhyaksa Banten	`Fhttps://www.fctv33.net/football/indonesian-c
 15:30 [l]AFF U17 Youth Championship[z]	^-
 Thailand vs Laos	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4388078/thailand-u17-vs-laos-u17.html
 Thailand vs Laos	`0https://www.marza12.shop/football/2973731-thailand-u17-vs-laos-u17.html
+Thailand vs Laos	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2Zd1GTZQiuMLR.m3u8
 Myanmar vs Philippines	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4388079/myanmar-u17-vs-philippines-u17.html
 Myanmar vs Philippines	`0https://www.marza12.shop/football/2973730-myanmar-u17-vs-philippines-u17.html
+Myanmar vs Philippines	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2Zd1Jf3HCjGVK.m3u8
 
 16:35 [g]Australia A-League[z]	^-
 Sydney FC vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282143/sydney-fc-vs-perth-glory.html
