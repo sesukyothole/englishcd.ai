@@ -35,37 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.04.2026	^-
 
-18:30 [y]English Premier League[z]	^-
-Brentford vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193945/brentford-vs-fulham.html
-Brentford vs Fulham	`0https://v3.sportssonline.click/channels/hd/hd1.php
-Brentford vs Fulham	`0https://v3.sportssonline.click/channels/pt/eleven1.php
-Brentford vs Fulham	https://hls.livelivelive.space/live/4343377.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-18:30 [g]English Football League Champ[z]	^-
-Portsmouth vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203553/portsmouth-vs-leicester-city.html
-Portsmouth vs Leicester City	https://hls.livelivelive.space/live/4351734.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Millwall vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/english-national-league-match-4219456/halifax-town-vs-southend-united.html
-Millwall vs Queens Park Rangers	https://hls.livelivelive.space/live/4351732.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Derby County vs Oxford United	https://hls.livelivelive.space/live/4351726.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-18:30 [g]Scottish Cup[z]	^-
-Dunfermline Athletic vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-cup-match-4384206/dunfermline-athletic-vs-falkirk.html
-Dunfermline Athletic vs Falkirk	`0https://v3.sportssonline.click/channels/hd/hd2.php
-
-19:00 Super League	^-
-PSBS Biak Numfor vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229528/psbs-biak-numfor-vs-persatuan-sepakbola-indonesia-jakarta.html
-PSBS Biak Numfor vs Persija Jakarta	`0https://www.marza12.shop/football/2826393-psbs-biak-vs-persija-jakarta.html
-PSM Makassar vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229632/persatuan-sepakbola-makassar-vs-borneo-fc.html
-PSM Makassar vs Borneo FC	`0https://www.marza12.shop/football/2826394-psm-makassar-vs-borneo-fc-samarinda.html
-
-19:00 Championship	^-
-Sumsel United vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352265/sumsel-united-vs-persikad-depok.html
-Barito Putera vs Persiba Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352283/barito-putera-vs-persiba-balikpapan.html
-
-19:15 Malaysian Cup	^-
-Kuching FA vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-cup-match-4383157/kuching-city-fc-vs-selangor-fc.html
-Kuching FA vs Selangor	`0https://www.marza12.shop/football/2969565-kuching-fa-vs-selangor.html
-
 20:00 [y]Italian Serie A[z]	^-
 Udinese vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194682/udinese-vs-parma.html
 Udinese vs Parma	`0https://v3.sportssonline.click/channels/hd/hd7.php
