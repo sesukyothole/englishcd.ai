@@ -35,22 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.04.2026	^-
 
-21:30 [g]Portuguese Primera Liga[z]	^-
-Nacional Da Madeira vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216174/nacional-da-madeira-vs-alverca.html
-Nacional Da Madeira vs Alverca	https://hls.livelivelive.space/live/4369054.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-22:00 [y]French Ligue 1[z]	^-
-Lorient vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200216/lorient-vs-marseille.html
-Lorient vs Marseille	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Lorient vs Marseille	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
-Lorient vs Marseille	https://hls.livelivelive.space/live/4347946.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-23:00 [y]Italian Serie A[z]	^-
-Napoli vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194762/napoli-vs-lazio.html
-Napoli vs Lazio	`0https://v3.sportssonline.click/channels/hd/hd7.php
-Napoli vs Lazio	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
-Napoli vs Lazio	https://hls.livelivelive.space/live/4339752.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 23:15 [g]AFC Champions League Elite[z]	^-
 Buriram United vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4389227/buriram-united-vs-shabab-al-ahli.html
 Buriram United vs Al Ahli UAE	`0https://v3.sportssonline.click/channels/hd/hd11.php
