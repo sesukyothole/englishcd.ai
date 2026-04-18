@@ -35,13 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.04.2026	^-
 
-06:30 [g]Argentine Division 1[z]	^-
-Atlético Unión vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321945/club-atltico-unin-vs-club-atltico-newells-old-boys.html
-Atlético Unión vs Newells Old Boys	https://hls.livelivelive.space/live/4465229.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-08:00 [l]International Women Friendly[z]	^-
-USA vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4390264/usa-women-vs-japan-women.html
-
 09:30 [g]US Major League Soccer[z]	^-
 Vancouver Whitecaps vs Kansas City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317440/vancouver-whitecaps-vs-sporting-kansas-city.html
 Vancouver Whitecaps vs Kansas City	`0https://v3.sportssonline.click/channels/hd/hd5.php
