@@ -34,23 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 	^-
 
 18.04.2026	^-
-
-12:00 [g]Australia A-League[z]	^-
-Wellington Phoenix vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282107/wellington-phoenix-vs-western-sydney.html
-Wellington Phoenix vs Western Sydney	https://hls.livelivelive.space/live/4426738.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-12:00 [g]Japanese J1 League[z]	^-
-Hiroshima Sanfrecce vs Varen Nagasaki	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331642/sanfrecce-hiroshima-vs-v-varen-nagasaki.html
-Hiroshima Sanfrecce vs Varen Nagasaki	https://hls.livelivelive.space/live/4470781.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Kashima Antlers vs Urawa Red Diamonds	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331776/kashima-antlers-vs-urawa-red-diamonds.html
-Kashima Antlers vs Urawa Red Diamonds	https://hls.livelivelive.space/live/4470692.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-12:00 [g]Korean K League 1[z]	^-
-Gangwon FC vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336058/gangwon-football-club-vs-jeonbuk-hyundai-motors.html
-Gangwon FC vs Jeonbuk Hyundai	https://hls.livelivelive.space/live/4480403.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-FC Seoul vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336081/football-club-seoul-vs-daejeon-citizen.html
-FC Seoul vs Daejeon Citizen	https://hls.livelivelive.space/live/4480325.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 13:00 [g]Japanese J1 League[z]	^-
 Tokyo Verdy vs Ichihara Chiba	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331777/tokyo-verdy-vs-jef-united-ichihara-chiba.html
 Tokyo Verdy vs Ichihara Chiba	https://hls.livelivelive.space/live/4470694.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
