@@ -90,20 +90,24 @@ Lorient vs Marseille	https://hls.livelivelive.space/live/4347946.m3u8?txSecret=d
 Napoli vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194762/napoli-vs-lazio.html
 Napoli vs Lazio	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Napoli vs Lazio	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Napoli vs Lazio	https://hls.livelivelive.space/live/4339752.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 23:15 [g]AFC Champions League Elite[z]	^-
 Buriram United vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4389227/buriram-united-vs-shabab-al-ahli.html
 Buriram United vs Al Ahli UAE	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Buriram United vs Al Ahli UAE	https://hls.livelivelive.space/live/4339796.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 23:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193864/tottenham-hotspur-vs-brighton-hove-albion.html
 Tottenham Hotspur vs Brighton Hove	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Tottenham Hotspur vs Brighton Hove	`0https://v3.sportssonline.click/channels/pt/eleven1.php
+Tottenham Hotspur vs Brighton Hove	https://hls.livelivelive.space/live/4343397.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 23:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199835/eintracht-frankfurt-vs-rb-leipzig.html
 Eintracht Frankfurt vs RB Leipzig	`0https://v3.sportssonline.click/channels/hd/hd3.php
 Eintracht Frankfurt vs RB Leipzig	`0https://v3.sportssonline.click/channels/pt/eleven2.php
+Eintracht Frankfurt vs RB Leipzig	https://hls.livelivelive.space/live/4347633.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 19.04.2026	^-
 
@@ -111,82 +115,107 @@ Eintracht Frankfurt vs RB Leipzig	`0https://v3.sportssonline.click/channels/pt/e
 Angers vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200203/angers-sco-vs-havre-athletic-club.html
 Angers vs Le Havre	`0https://v3.sportssonline.click/channels/hd/hd4.php
 Angers vs Le Havre	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Angers vs Le Havre	https://hls.livelivelive.space/live/4347943.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216141/casa-pia-ac-vs-santa-clara.html
 Casa Pia AC vs Santa Clara	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+Casa Pia AC vs Santa Clara	https://hls.livelivelive.space/live/4369050.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 00:00 [g]Turkish Super League[z]	^-
 Genclerbirligi vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216896/genclerbirligi-vs-galatasaray.html
 Genclerbirligi vs Galatasaray	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Genclerbirligi vs Galatasaray	`0https://v3.sportssonline.click/channels/bra/br6.php
+Genclerbirligi vs Galatasaray	https://hls.livelivelive.space/live/4366130.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs Austin FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317452/toronto-fc-vs-austin-fc.html
+Toronto FC vs Austin FC	https://hls.livelivelive.space/live/4460172.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 01:00 [g]Argentine Division 1[z]	^-
 Gimnasia Plata vs Estudiantes Rio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322037/gimnasia-la-plata-vs-estudiantes-rio-cuarto.html
 Gimnasia Plata vs Estudiantes Rio	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Gimnasia Plata vs Estudiantes Rio	https://hls.livelivelive.space/live/4465228.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 01:30 [g]US Major League Soccer[z]	^-
 Montreal Impact vs NY Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317436/montreal-impact-vs-new-york-red-bulls.html
+Montreal Impact vs NY Red Bulls	https://hls.livelivelive.space/live/4460177.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 01:45 [y]Italian Serie A[z]	^-
 AS Roma vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194725/as-roma-vs-atalanta.html
 AS Roma vs Atalanta	`0https://v3.sportssonline.click/channels/hd/hd7.php
 AS Roma vs Atalanta	`0https://v3.sportssonline.click/channels/bra/br2.php
+AS Roma vs Atalanta	https://hls.livelivelive.space/live/4339742.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:00 [y]English Premier League[z]	^-
 Chelsea vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193901/chelsea-vs-manchester-united.html
 Chelsea vs Manchester United	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Chelsea vs Manchester United	`0https://v3.sportssonline.click/channels/pt/eleven1.php
+Chelsea vs Manchester United	https://hls.livelivelive.space/live/4343379.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:00 [g]Copa del Rey[z]	^-
 Atletico Madrid vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4366507/atletico-madrid-vs-real-sociedad.html
 Atletico Madrid vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Atletico Madrid vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd6.php
+Atletico Madrid vs Real Sociedad	https://hls.livelivelive.space/live/4508433.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:05 [y]French Ligue 1[z]	^-
 Lille vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200206/losc-lille-vs-ogc-nice.html
 Lille vs Nice	`0https://v3.sportssonline.click/channels/hd/hd4.php
 Lille vs Nice	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Lille vs Nice	https://hls.livelivelive.space/live/4347945.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216133/gil-vicente-vs-vitoria-guimaraes.html
 Gil Vicente vs Vitoria Guimaraes	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+Gil Vicente vs Vitoria Guimaraes	https://hls.livelivelive.space/live/4369052.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 03:15 [g]Argentine Division 1[z]	^-
 Instituto vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321910/instituto-de-crdoba-vs-estudiantes-la-plata.html
 Instituto vs Estudiantes La Plata	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Instituto vs Estudiantes La Plata	https://hls.livelivelive.space/live/4465218.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 03:30 [g]US Major League Soccer[z]	^-
 Colorado Rapids vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317456/colorado-rapids-vs-inter-miami-cf.html
 Colorado Rapids vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Colorado Rapids vs Inter Miami CF	https://hls.livelivelive.space/live/4460174.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 05:30 [g]Argentine Division 1[z]	^-
 Independiente vs Defensa Y Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322030/ca-independiente-vs-defensa-y-justicia.html
 Independiente vs Defensa Y Justicia	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Independiente vs Defensa Y Justicia	`0https://v3.sportssonline.click/channels/bra/br6.php
+Independiente vs Defensa Y Justicia	https://hls.livelivelive.space/live/4465237.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 06:30 [g]US Major League Soccer[z]	^-
 New England Revo vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317435/new-england-revolution-vs-columbus-crew.html
+New England Revo vs Columbus Crew	https://hls.livelivelive.space/live/4460178.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Orlando City vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317437/orlando-city-vs-houston-dynamo.html
+Orlando City vs Houston Dynamo	https://hls.livelivelive.space/live/4460183.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 FC Cincinnati vs Chicago Fire	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317454/fc-cincinnati-vs-chicago-fire.html
+FC Cincinnati vs Chicago Fire	https://hls.livelivelive.space/live/4460176.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 New York City FC vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317476/new-york-city-fc-vs-charlotte-fc.html
+New York City FC vs Charlotte FC	https://hls.livelivelive.space/live/4460181.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Philadelphia Union vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317482/philadelphia-union-vs-dc-united.html
+Philadelphia Union vs DC United	https://hls.livelivelive.space/live/4460185.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Atlanta United vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317488/atlanta-united-vs-nashville.html
+Atlanta United vs Nashville	https://hls.livelivelive.space/live/4460175.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 07:30 [g]US Major League Soccer[z]	^-
 Minnesota Utd vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317441/minnesota-united-fc-vs-portland-timbers.html
+Minnesota Utd vs Portland Timbers	https://hls.livelivelive.space/live/4460191.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 FC Dallas vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317449/fc-dallas-vs-los-angeles-galaxy.html
+FC Dallas vs Los Angeles Galaxy	https://hls.livelivelive.space/live/4460189.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 07:45 [g]Argentine Division 1[z]	^-
 Argentinos Jr vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321953/argentinos-juniors-vs-atletico-tucuman.html
 Argentinos Jr vs Atletico Tucuman	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Argentinos Jr vs Atletico Tucuman	https://hls.livelivelive.space/live/4465225.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 08:30 [g]US Major League Soccer[z]	^-
 Seattle Sounders vs St. Louis City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317416/seattle-sounders-vs-st-louis-city-sc.html
+Seattle Sounders vs St. Louis City	https://hls.livelivelive.space/live/4460195.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Real Salt Lake vs San Diego FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317417/real-salt-lake-vs-san-diego-fc.html
+Real Salt Lake vs San Diego FC	https://hls.livelivelive.space/live/4460194.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 08:30 [l]International W Series[z]	^-
 Brazil vs Canada	`Fhttps://www.fctv33.net/football/fifa-w-series-match-4387354/brazil-women-vs-canada-women.html
