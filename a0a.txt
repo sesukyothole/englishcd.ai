@@ -51,15 +51,23 @@ Gangwon FC vs Jeonbuk Hyundai	https://hls.livelivelive.space/live/4480403.m3u8?t
 FC Seoul vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336081/football-club-seoul-vs-daejeon-citizen.html
 FC Seoul vs Daejeon Citizen	https://hls.livelivelive.space/live/4480325.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
+13:00 [g]Japanese J1 League[z]	^-
+Tokyo Verdy vs Ichihara Chiba	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331777/tokyo-verdy-vs-jef-united-ichihara-chiba.html
+Tokyo Verdy vs Ichihara Chiba	https://hls.livelivelive.space/live/4470694.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
 14:00 [g]Australia A-League[z]	^-
 Brisbane Roar vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282104/brisbane-roar-vs-melbourne-city.html
+Brisbane Roar vs Melbourne City	https://hls.livelivelive.space/live/4426740.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 14:00 [g]Japanese J1 League[z]	^-
 Cerezo Osaka vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331672/cerezo-osaka-vs-kyoto-sanga.html
+Cerezo Osaka vs Kyoto Sanga	https://hls.livelivelive.space/live/4470783.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 14:30 [g]Korean K League 1[z]	^-
 Bucheon FC 1995 vs Incheon United	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336126/bucheon-fc-1995-vs-incheon-united-club.html
+Bucheon FC 1995 vs Incheon United	https://hls.livelivelive.space/live/4480335.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Jeju United vs Gimcheon Sangmu FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336164/jeju-sk-fc-vs-gimcheon-sangmu-football-club.html
+Jeju United vs Gimcheon Sangmu FC	https://hls.livelivelive.space/live/4480365.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 15:30 Super League	^-
 Arema FC vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229531/arema-fc-vs-persis-solo-fc.html
@@ -74,6 +82,7 @@ Myanmar vs Philippines	`Fhttps://www.fctv33.net/football/aff-u17-youth-champions
 
 16:35 [g]Australia A-League[z]	^-
 Sydney FC vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282143/sydney-fc-vs-perth-glory.html
+Sydney FC vs Perth Glory	https://hls.livelivelive.space/live/4426741.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 17:00 Championship	^-
 Persipura Jayapura vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352278/persipura-jayapura-vs-psis-semarang.html
@@ -82,10 +91,14 @@ Persipura Jayapura vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian
 Brentford vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193945/brentford-vs-fulham.html
 Brentford vs Fulham	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Brentford vs Fulham	`0https://v3.sportssonline.click/channels/pt/eleven1.php
+Brentford vs Fulham	https://hls.livelivelive.space/live/4343377.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 18:30 [g]English Football League Champ[z]	^-
 Portsmouth vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203553/portsmouth-vs-leicester-city.html
+Portsmouth vs Leicester City	https://hls.livelivelive.space/live/4351734.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Millwall vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/english-national-league-match-4219456/halifax-town-vs-southend-united.html
+Millwall vs Queens Park Rangers	https://hls.livelivelive.space/live/4351732.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Derby County vs Oxford United	https://hls.livelivelive.space/live/4351726.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 18:30 [g]Scottish Cup[z]	^-
 Dunfermline Athletic vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-cup-match-4384206/dunfermline-athletic-vs-falkirk.html
@@ -106,28 +119,42 @@ Kuching FA vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-cup-match-438
 Udinese vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194682/udinese-vs-parma.html
 Udinese vs Parma	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Udinese vs Parma	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Udinese vs Parma	https://hls.livelivelive.space/live/4339757.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 20:30 [y]Bundesliga[z]	^-
 TSG Hoffenheim vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199843/tsg-hoffenheim-vs-borussia-dortmund.html
 TSG Hoffenheim vs Borussia Dortmund	`0https://v3.sportssonline.click/channels/hd/hd3.php
 TSG Hoffenheim vs Borussia Dortmund	`0https://v3.sportssonline.click/channels/hd/hd6.php
+TSG Hoffenheim vs Borussia Dortmund	https://hls.livelivelive.space/live/4347634.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Werder Bremen vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199838/sv-werder-bremen-vs-hamburger-sv.html
 Werder Bremen vs Hamburger SV	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Werder Bremen vs Hamburger SV	https://hls.livelivelive.space/live/4347608.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Bayer Leverkusen vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199842/bayer-04-leverkusen-vs-fc-augsburg.html
 Bayer Leverkusen vs FC Augsburg	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Bayer Leverkusen vs FC Augsburg	https://hls.livelivelive.space/live/4347623.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Union Berlin vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199852/1-fc-union-berlin-vs-vfl-wolfsburg.html
 Union Berlin vs VfL Wolfsburg	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Union Berlin vs VfL Wolfsburg	https://hls.livelivelive.space/live/4347630.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 21:00 [y]English Premier League[z]	^-
 Newcastle United vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193882/newcastle-united-vs-bournemouth-afc.html
 Newcastle United vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Newcastle United vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/pt/eleven1.php
+Newcastle United vs Bournemouth AFC	https://hls.livelivelive.space/live/4343393.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Leeds United vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194105/leeds-united-vs-wolverhampton-wanderers.html
 Leeds United vs Wolves	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Leeds United vs Wolves	`0https://v3.sportssonline.click/channels/pt/eleven2.php
+Leeds United vs Wolves	https://hls.livelivelive.space/live/4343387.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 21:00 [g]English Football League Champ[z]	^-
 Hull City vs Birmingham City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203492/hull-city-vs-birmingham-city.html
+Hull City vs Birmingham City	https://hls.livelivelive.space/live/4351728.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Sheffield Wednesday vs Charlton	https://hls.livelivelive.space/live/4351738.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Preston vs West Bromwich Albion	https://hls.livelivelive.space/live/4351736.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Bristol City vs Norwich	https://hls.livelivelive.space/live/4351724.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Wrexham vs Stoke City	https://hls.livelivelive.space/live/4351744.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Swansea City vs Southampton	https://hls.livelivelive.space/live/4351742.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Watford vs Sheffield United	https://hls.livelivelive.space/live/4351740.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 21:00 [l]Women's WC Qualifier UEFA[z]	^-
 Spain vs Ukraine	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313625/spain-women-vs-ukraine-women.html
@@ -137,6 +164,7 @@ Spain vs Ukraine	`0https://v3.sportssonline.click/channels/bra/br6.php
 Lorient vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200216/lorient-vs-marseille.html
 Lorient vs Marseille	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Lorient vs Marseille	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Lorient vs Marseille	https://hls.livelivelive.space/live/4347946.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 23:00 [y]Italian Serie A[z]	^-
 Napoli vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194762/napoli-vs-lazio.html
