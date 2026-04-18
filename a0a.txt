@@ -35,15 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.04.2026	^-
 
-09:30 [g]US Major League Soccer[z]	^-
-Vancouver Whitecaps vs Kansas City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317440/vancouver-whitecaps-vs-sporting-kansas-city.html
-Vancouver Whitecaps vs Kansas City	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Vancouver Whitecaps vs Kansas City	https://hls.livelivelive.space/live/4460171.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-11:00 [g]Japanese J1 League[z]	^-
-Yokohama Marinos vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331802/yokohama-f-marinos-vs-kawasaki-frontale.html
-Yokohama Marinos vs Kawasaki Frontale	https://hls.livelivelive.space/live/4470695.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 12:00 [g]Australia A-League[z]	^-
 Wellington Phoenix vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282107/wellington-phoenix-vs-western-sydney.html
 Wellington Phoenix vs Western Sydney	https://hls.livelivelive.space/live/4426738.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
@@ -89,10 +80,16 @@ Persipura Jayapura vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian
 
 18:30 [y]English Premier League[z]	^-
 Brentford vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193945/brentford-vs-fulham.html
+Brentford vs Fulham	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Brentford vs Fulham	`0https://v3.sportssonline.click/channels/pt/eleven1.php
 
 18:30 [g]English Football League Champ[z]	^-
 Portsmouth vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203553/portsmouth-vs-leicester-city.html
 Millwall vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/english-national-league-match-4219456/halifax-town-vs-southend-united.html
+
+18:30 [g]Scottish Cup[z]	^-
+Dunfermline Athletic vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-cup-match-4384206/dunfermline-athletic-vs-falkirk.html
+Dunfermline Athletic vs Falkirk	`0https://v3.sportssonline.click/channels/hd/hd2.php
 
 19:00 Super League	^-
 PSBS Biak Numfor vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229528/psbs-biak-numfor-vs-persatuan-sepakbola-indonesia-jakarta.html
@@ -107,78 +104,121 @@ Kuching FA vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-cup-match-438
 
 20:00 [y]Italian Serie A[z]	^-
 Udinese vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194682/udinese-vs-parma.html
+Udinese vs Parma	`0https://v3.sportssonline.click/channels/hd/hd7.php
+Udinese vs Parma	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 
 20:30 [y]Bundesliga[z]	^-
-Werder Bremen vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199838/sv-werder-bremen-vs-hamburger-sv.html
-Bayer Leverkusen vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199842/bayer-04-leverkusen-vs-fc-augsburg.html
 TSG Hoffenheim vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199843/tsg-hoffenheim-vs-borussia-dortmund.html
+TSG Hoffenheim vs Borussia Dortmund	`0https://v3.sportssonline.click/channels/hd/hd3.php
+TSG Hoffenheim vs Borussia Dortmund	`0https://v3.sportssonline.click/channels/hd/hd6.php
+Werder Bremen vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199838/sv-werder-bremen-vs-hamburger-sv.html
+Werder Bremen vs Hamburger SV	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Bayer Leverkusen vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199842/bayer-04-leverkusen-vs-fc-augsburg.html
+Bayer Leverkusen vs FC Augsburg	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Union Berlin vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199852/1-fc-union-berlin-vs-vfl-wolfsburg.html
+Union Berlin vs VfL Wolfsburg	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 21:00 [y]English Premier League[z]	^-
 Newcastle United vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193882/newcastle-united-vs-bournemouth-afc.html
+Newcastle United vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Newcastle United vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/pt/eleven1.php
 Leeds United vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194105/leeds-united-vs-wolverhampton-wanderers.html
+Leeds United vs Wolves	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Leeds United vs Wolves	`0https://v3.sportssonline.click/channels/pt/eleven2.php
 
 21:00 [g]English Football League Champ[z]	^-
 Hull City vs Birmingham City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203492/hull-city-vs-birmingham-city.html
 
+21:00 [l]Women's WC Qualifier UEFA[z]	^-
+Spain vs Ukraine	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313625/spain-women-vs-ukraine-women.html
+Spain vs Ukraine	`0https://v3.sportssonline.click/channels/bra/br6.php
+
 22:00 [y]French Ligue 1[z]	^-
 Lorient vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200216/lorient-vs-marseille.html
+Lorient vs Marseille	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Lorient vs Marseille	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
 
 23:00 [y]Italian Serie A[z]	^-
 Napoli vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194762/napoli-vs-lazio.html
+Napoli vs Lazio	`0https://v3.sportssonline.click/channels/hd/hd7.php
+Napoli vs Lazio	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 
 23:15 [g]AFC Champions League Elite[z]	^-
 Buriram United vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4389227/buriram-united-vs-shabab-al-ahli.html
+Buriram United vs Al Ahli UAE	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 23:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193864/tottenham-hotspur-vs-brighton-hove-albion.html
+Tottenham Hotspur vs Brighton Hove	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Tottenham Hotspur vs Brighton Hove	`0https://v3.sportssonline.click/channels/pt/eleven1.php
 
 23:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199835/eintracht-frankfurt-vs-rb-leipzig.html
+Eintracht Frankfurt vs RB Leipzig	`0https://v3.sportssonline.click/channels/hd/hd3.php
+Eintracht Frankfurt vs RB Leipzig	`0https://v3.sportssonline.click/channels/pt/eleven2.php
 
 19.04.2026	^-
 
 00:00 [y]French Ligue 1[z]	^-
 Angers vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200203/angers-sco-vs-havre-athletic-club.html
+Angers vs Le Havre	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Angers vs Le Havre	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216141/casa-pia-ac-vs-santa-clara.html
+Casa Pia AC vs Santa Clara	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
 
 00:00 [g]Turkish Super League[z]	^-
 Genclerbirligi vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216896/genclerbirligi-vs-galatasaray.html
+Genclerbirligi vs Galatasaray	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Genclerbirligi vs Galatasaray	`0https://v3.sportssonline.click/channels/bra/br6.php
 
 00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs Austin FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317452/toronto-fc-vs-austin-fc.html
 
 01:00 [g]Argentine Division 1[z]	^-
 Gimnasia Plata vs Estudiantes Rio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322037/gimnasia-la-plata-vs-estudiantes-rio-cuarto.html
+Gimnasia Plata vs Estudiantes Rio	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 01:30 [g]US Major League Soccer[z]	^-
 Montreal Impact vs NY Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317436/montreal-impact-vs-new-york-red-bulls.html
 
 01:45 [y]Italian Serie A[z]	^-
 AS Roma vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194725/as-roma-vs-atalanta.html
+AS Roma vs Atalanta	`0https://v3.sportssonline.click/channels/hd/hd7.php
+AS Roma vs Atalanta	`0https://v3.sportssonline.click/channels/bra/br2.php
 
 02:00 [y]English Premier League[z]	^-
 Chelsea vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193901/chelsea-vs-manchester-united.html
+Chelsea vs Manchester United	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Chelsea vs Manchester United	`0https://v3.sportssonline.click/channels/pt/eleven1.php
 
 02:00 [g]Copa del Rey[z]	^-
 Atletico Madrid vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4366507/atletico-madrid-vs-real-sociedad.html
+Atletico Madrid vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd2.php
+Atletico Madrid vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd6.php
 
 02:05 [y]French Ligue 1[z]	^-
 Lille vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200206/losc-lille-vs-ogc-nice.html
+Lille vs Nice	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Lille vs Nice	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216133/gil-vicente-vs-vitoria-guimaraes.html
+Gil Vicente vs Vitoria Guimaraes	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
 
 03:15 [g]Argentine Division 1[z]	^-
 Instituto vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321910/instituto-de-crdoba-vs-estudiantes-la-plata.html
+Instituto vs Estudiantes La Plata	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 03:30 [g]US Major League Soccer[z]	^-
 Colorado Rapids vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317456/colorado-rapids-vs-inter-miami-cf.html
+Colorado Rapids vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
 05:30 [g]Argentine Division 1[z]	^-
 Independiente vs Defensa Y Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322030/ca-independiente-vs-defensa-y-justicia.html
+Independiente vs Defensa Y Justicia	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Independiente vs Defensa Y Justicia	`0https://v3.sportssonline.click/channels/bra/br6.php
 
 06:30 [g]US Major League Soccer[z]	^-
 New England Revo vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317435/new-england-revolution-vs-columbus-crew.html
@@ -194,10 +234,15 @@ FC Dallas vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-
 
 07:45 [g]Argentine Division 1[z]	^-
 Argentinos Jr vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321953/argentinos-juniors-vs-atletico-tucuman.html
+Argentinos Jr vs Atletico Tucuman	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 08:30 [g]US Major League Soccer[z]	^-
 Seattle Sounders vs St. Louis City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317416/seattle-sounders-vs-st-louis-city-sc.html
 Real Salt Lake vs San Diego FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317417/real-salt-lake-vs-san-diego-fc.html
+
+08:30 [l]International W Series[z]	^-
+Brazil vs Canada	`Fhttps://www.fctv33.net/football/fifa-w-series-match-4387354/brazil-women-vs-canada-women.html
+Brazil vs Canada	`0https://v3.sportssonline.click/channels/bra/br1.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
