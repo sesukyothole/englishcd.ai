@@ -35,45 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.04.2026	^-
 
-20:30 [y]Bundesliga[z]	^-
-TSG Hoffenheim vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199843/tsg-hoffenheim-vs-borussia-dortmund.html
-TSG Hoffenheim vs Borussia Dortmund	`0https://v3.sportssonline.click/channels/hd/hd3.php
-TSG Hoffenheim vs Borussia Dortmund	`0https://v3.sportssonline.click/channels/hd/hd6.php
-TSG Hoffenheim vs Borussia Dortmund	https://hls.livelivelive.space/live/4347634.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Werder Bremen vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199838/sv-werder-bremen-vs-hamburger-sv.html
-Werder Bremen vs Hamburger SV	`0https://v3.sportssonline.click/channels/hd/hd4.php
-Werder Bremen vs Hamburger SV	https://hls.livelivelive.space/live/4347608.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Bayer Leverkusen vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199842/bayer-04-leverkusen-vs-fc-augsburg.html
-Bayer Leverkusen vs FC Augsburg	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Bayer Leverkusen vs FC Augsburg	https://hls.livelivelive.space/live/4347623.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Union Berlin vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199852/1-fc-union-berlin-vs-vfl-wolfsburg.html
-Union Berlin vs VfL Wolfsburg	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Union Berlin vs VfL Wolfsburg	https://hls.livelivelive.space/live/4347630.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-21:00 [y]English Premier League[z]	^-
-Newcastle United vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193882/newcastle-united-vs-bournemouth-afc.html
-Newcastle United vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/hd/hd1.php
-Newcastle United vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/pt/eleven1.php
-Newcastle United vs Bournemouth AFC	https://hls.livelivelive.space/live/4343393.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Leeds United vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194105/leeds-united-vs-wolverhampton-wanderers.html
-Leeds United vs Wolves	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Leeds United vs Wolves	`0https://v3.sportssonline.click/channels/pt/eleven2.php
-Leeds United vs Wolves	https://hls.livelivelive.space/live/4343387.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-21:00 [g]English Football League Champ[z]	^-
-Hull City vs Birmingham City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203492/hull-city-vs-birmingham-city.html
-Hull City vs Birmingham City	https://hls.livelivelive.space/live/4351728.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Sheffield Wednesday vs Charlton	https://hls.livelivelive.space/live/4351738.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Preston vs West Bromwich Albion	https://hls.livelivelive.space/live/4351736.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Bristol City vs Norwich	https://hls.livelivelive.space/live/4351724.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Wrexham vs Stoke City	https://hls.livelivelive.space/live/4351744.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Swansea City vs Southampton	https://hls.livelivelive.space/live/4351742.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Watford vs Sheffield United	https://hls.livelivelive.space/live/4351740.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-21:00 [l]Women's WC Qualifier UEFA[z]	^-
-Spain vs Ukraine	`Fhttps://www.fctv33.net/football/fifa-womens-world-cup-qualificationuefa-match-4313625/spain-women-vs-ukraine-women.html
-Spain vs Ukraine	`0https://v3.sportssonline.click/channels/bra/br6.php
-
 21:30 [g]Portuguese Primera Liga[z]	^-
 Nacional Da Madeira vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216174/nacional-da-madeira-vs-alverca.html
 Nacional Da Madeira vs Alverca	https://hls.livelivelive.space/live/4369054.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
