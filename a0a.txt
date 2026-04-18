@@ -35,12 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.04.2026	^-
 
-04:30 [g]Brazilian Serie A[z]	^-
-Chapecoense SC vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324053/chapecoense---sc-vs-botafogo---rj.html
-Chapecoense SC vs Botafogo RJ	https://hls.livelivelive.space/live/4465677.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Vasco da Gama vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324063/vasco-da-gama-saf---rj-vs-so-paulo---sp.html
-Vasco da Gama vs Sao Paulo	https://hls.livelivelive.space/live/4465623.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 05:30 [g]Argentine Division 1[z]	^-
 Independiente vs Defensa Y Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322030/ca-independiente-vs-defensa-y-justicia.html
 Independiente vs Defensa Y Justicia	`0https://v3.sportssonline.click/channels/hd/hd11.php
@@ -69,10 +63,12 @@ Atlanta United vs Nashville	https://hls.livelivelive.space/live/4460175.m3u8?txS
 
 06:30 [g]Brazilian Serie A[z]	^-
 Cruzeiro Esporte Clube vs Gremio	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324117/cruzeiro---mg-vs-grmio---rs.html
+Cruzeiro Esporte Clube vs Gremio	`0https://v3.sportssonline.click/channels/bra/br3.php
 Cruzeiro Esporte Clube vs Gremio	https://hls.livelivelive.space/live/4465635.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 07:00 [g]CHI Liga de Primera[z]	^-
 D. Concepcion vs Deportes La Serena	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330218/d-concepcion-vs-deportes-la-serena.html
+D. Concepcion vs Deportes La Serena	``0https://v3.sportssonline.click/channels/hd/hd10.php
 D. Concepcion vs Deportes La Serena	https://hls.livelivelive.space/live/4476353.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 07:30 [g]US Major League Soccer[z]	^-
@@ -88,6 +84,7 @@ Argentinos Jr vs Atletico Tucuman	https://hls.livelivelive.space/live/4465225.m3
 
 08:00 [g]Mexico Liga MX[z]	^-
 Monterrey vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322546/monterrey-vs-pachuca.html
+Monterrey vs Pachuca	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Monterrey vs Pachuca	https://hls.livelivelive.space/live/4465536.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Chivas Guadalajara vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322556/club-deportivo-guadalajara-vs-puebla.html
 Chivas Guadalajara vs Puebla	https://hls.livelivelive.space/live/4465567.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
@@ -108,6 +105,7 @@ Auckland FC vs Coast Mariners	https://hls.livelivelive.space/live/4426742.m3u8?t
 
 10:00 [g]Mexico Liga MX[z]	^-
 Club America vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322545/club-america-vs-toluca.html
+Club America vs Toluca	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Club America vs Toluca	https://hls.livelivelive.space/live/4465543.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Leon vs Juarez	https://hls.livelivelive.space/live/4465539.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
