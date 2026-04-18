@@ -35,13 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.04.2026	^-
 
-16:35 [g]Australia A-League[z]	^-
-Sydney FC vs Perth Glory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282143/sydney-fc-vs-perth-glory.html
-Sydney FC vs Perth Glory	https://hls.livelivelive.space/live/4426741.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-17:00 Championship	^-
-Persipura Jayapura vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352278/persipura-jayapura-vs-psis-semarang.html
-
 18:30 [y]English Premier League[z]	^-
 Brentford vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193945/brentford-vs-fulham.html
 Brentford vs Fulham	`0https://v3.sportssonline.click/channels/hd/hd1.php
