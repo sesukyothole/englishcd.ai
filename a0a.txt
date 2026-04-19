@@ -6,6 +6,7 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
+^=test html	https://ddkanq.vip/zhibo/34915.html
 ^=Blank	
 ^=	^-
 
