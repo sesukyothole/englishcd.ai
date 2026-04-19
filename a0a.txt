@@ -35,30 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.04.2026	^-
 
-06:30 [g]US Major League Soccer[z]	^-
-New England Revo vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317435/new-england-revolution-vs-columbus-crew.html
-New England Revo vs Columbus Crew	https://hls.livelivelive.space/live/4460178.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Orlando City vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317437/orlando-city-vs-houston-dynamo.html
-Orlando City vs Houston Dynamo	https://hls.livelivelive.space/live/4460183.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-FC Cincinnati vs Chicago Fire	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317454/fc-cincinnati-vs-chicago-fire.html
-FC Cincinnati vs Chicago Fire	https://hls.livelivelive.space/live/4460176.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-New York City FC vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317476/new-york-city-fc-vs-charlotte-fc.html
-New York City FC vs Charlotte FC	https://hls.livelivelive.space/live/4460181.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Philadelphia Union vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317482/philadelphia-union-vs-dc-united.html
-Philadelphia Union vs DC United	https://hls.livelivelive.space/live/4460185.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Atlanta United vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317488/atlanta-united-vs-nashville.html
-Atlanta United vs Nashville	https://hls.livelivelive.space/live/4460175.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-06:30 [g]Brazilian Serie A[z]	^-
-Cruzeiro Esporte Clube vs Gremio	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324117/cruzeiro---mg-vs-grmio---rs.html
-Cruzeiro Esporte Clube vs Gremio	`0https://v3.sportssonline.click/channels/bra/br3.php
-Cruzeiro Esporte Clube vs Gremio	https://hls.livelivelive.space/live/4465635.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-07:00 [g]CHI Liga de Primera[z]	^-
-D. Concepcion vs Deportes La Serena	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330218/d-concepcion-vs-deportes-la-serena.html
-D. Concepcion vs Deportes La Serena	``0https://v3.sportssonline.click/channels/hd/hd10.php
-D. Concepcion vs Deportes La Serena	https://hls.livelivelive.space/live/4476353.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 07:30 [g]US Major League Soccer[z]	^-
 Minnesota Utd vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317441/minnesota-united-fc-vs-portland-timbers.html
 Minnesota Utd vs Portland Timbers	https://hls.livelivelive.space/live/4460191.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
@@ -98,6 +74,7 @@ Club America vs Toluca	https://hls.livelivelive.space/live/4465543.m3u8?txSecret
 Leon vs Juarez	https://hls.livelivelive.space/live/4465539.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 11:00 [g]Japanese J1 League[z]	^-
+Mito Hollyhock vs Kashiwa Reysol	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331778/mito-hollyhock-vs-kashiwa-reysol.html
 Mito Hollyhock vs Kashiwa Reysol	https://hls.livelivelive.space/live/4470693.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 12:00 [g]Korean K League 1[z]	^-
@@ -123,6 +100,159 @@ Persik Kediri vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-
 
 15:30 Championship	^-
 Deltras Sidoarjo vs Kendal Tornado	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352282/deltras-sidoarjo-vs-kendal-tornado-fc.html
+
+17:30 [y]Italian Serie A[z]	^-
+Cremonese vs Torino	`F
+
+18:00 [g]English Football League Champ[z]	^-
+Ipswich Town vs Middlesbrough	`F
+
+18:30 [g]Belgian Pro League[z]	^-
+KAA Gent vs Sint-Truidense	`F
+
+19:00 Super League	^-
+Bali United vs Malut United	`F
+
+19:00 Championship	^-
+PSPS Riau vs Persekat Tegal	`F
+PSMS Medan vs Sriwijaya FC	`F
+
+19:15 Malaysian Challenge Cup	^-
+Sabah vs Penang	`F
+
+19:30 [l]AFF U17 Youth Championship[z]	^-
+Indonesia vs Vietnam	`F
+Malaysia vs Timor Leste	`F
+
+20:00 [y]English Premier League[z]	^-
+Nottingham Forest vs Burnley	`F
+Everton vs Liverpool	`F
+Aston Villa vs Sunderland AFC	`F
+
+20:00 [y]Italian Serie A[z]	^-
+Verona vs AC Milan	`F
+
+20:00 [y]French Ligue 1[z]	^-
+Monaco vs AJ Auxerre	`F
+
+20:00 [g]Scottish Cup[z]	^-
+Celtic FC vs Saint Mirren	`F
+
+20:30 [y]Bundesliga[z]	^-
+SC Freiburg vs 1. FC Heidenheim	`F
+
+20:30 Championship	^-
+Persiraja Aceh vs Garudayaksa FC	`F
+
+21:00 [g]Turkish Super League[z]	^-
+Samsunspor vs Besiktas JK	`F
+
+21:00 [g]Brazilian Serie A[z]	^-
+Internacional RS vs Mirassol	`F
+
+21:00 [g]Belgian Pro League[z]	^-
+FCV Dender EH vs Cercle Brugge	`F
+
+21:00 [g]AFC Champions League 2[z]	^-
+Al-Wasl vs Al Nassr FC	`F
+
+21:30 [g]Portuguese Primera Liga[z]	^-
+FC Arouca vs Estrela da Amadora	`F
+
+22:15 [y]French Ligue 1[z]	^-
+Metz vs Paris FC	`F
+Nantes vs Stade Brestois	`F
+Strasbourg vs Rennes	`F
+
+22:30 [y]English Premier League[z]	^-
+Manchester City vs Arsenal	`F
+
+22:30 [y]Bundesliga[z]	^-
+Bayern Munchen vs VfB Stuttgart	`F
+
+23:00 [y]Italian Serie A[z]	^-
+Pisa vs Genoa	`F
+
+23:00 [y]Netherlands KNVB Cup[z]	^-
+AZ Alkmaar vs NEC Nijmegen	`F
+
+23:30 [g]Argentine Division 1[z]	^-
+Aldosivi Mar Plata vs Racing Club	`F
+
+23:30 [g]CHI Liga de Primera[z]	^-
+Coquimbo Unido vs Nublense	`F
+
+23:30 [g]Belgian Pro League[z]	^-
+Saint Gilloise vs Club Brugge	`F
+
+20.04.2026	^-
+
+00:00 [g]Portuguese Primera Liga[z]	^-
+Sporting CP vs Benfica	`F
+
+00:00 [g]Turkish Super League[z]	^-
+Trabzonspor vs Istanbul Buyuksehir	`F
+
+00:15 [g]Belgian Pro League[z]	^-
+LaLouviere vs Zulte-Waregem	`F
+
+00:30 [y]Bundesliga[z]	^-
+Br Monchengladbach vs FSV Mainz 05	`F
+
+01:45 [y]Italian Serie A[z]	^-
+Juventus vs Bologna	`F
+
+01:45 [y]French Ligue 1[z]	^-
+Paris Saint Germain vs Lyon	`F
+
+02:00 [g]Brazilian Serie A[z]	^-
+Santos vs Fluminense RJ	`F
+Coritiba PR vs Atletico Mineiro	`F
+
+02:00 [g]Categoría Primera A[z]	^-
+Independiente Santa Fe vs Cucuta	`F
+
+02:00 [g]AFC Champions League 2[z]	^-
+Al-Ahli Doha vs Al Hussein Irbid	`F
+
+02:30 [g]Portuguese Primera Liga[z]	^-
+FC Porto vs CD Tondela	`F
+Sporting Braga vs FC Famalicao	`F
+
+02:30 [g]CHI Liga de Primera[z]	^-
+Cobresal vs O.Higgins	`F
+
+03:00 [g]Argentine Division 1[z]	^-
+River Plate vs Boca Juniors	`F
+
+04:10 [g]Categoría Primera A[z]	^-
+Alianza Petrolera vs Indep Medellin	`F
+
+04:30 [g]Brazilian Serie A[z]	^-
+Palmeiras vs Athletico Paranaense	`F
+Bragantino vs Remo Belem PA	`F
+
+05:30 [g]Brazilian Serie A[z]	^-
+Flamengo vs Bahia	`F
+
+05:30 [g]CHI Liga de Primera[z]	^-
+Colo Colo vs Palestino	`F
+
+06:00 [g]US Major League Soccer[z]	^-
+Los Angeles vs San Jose Earthquakes	`F
+
+06:00 [g]Mexico Liga MX[z]	^-
+Santos Laguna vs Atlas	`F
+
+06:20 [g]Categoría Primera A[z]	^-
+Atl. Jr Barranquilla vs Llaneros FC	`F
+
+06:30 [g]Argentine Division 1[z]	^-
+Talleres Cordoba vs Dep. Riestra	`F
+Rosario Central vs Sarmiento Junin	`F
+
+07:45 [g]CHI Liga de Primera[z]	^-
+Huachipato vs Audax Italiano	`F
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
