@@ -196,11 +196,13 @@ Paris Saint Germain vs Lyon	`0https://v3.sportssonline.click/channels/hd/hd4.php
 
 02:00 [g]Brazilian Serie A[z]	^-
 Santos vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324012/santos-fc---sp-vs-fluminense---rj.html
+Santos vs Fluminense RJ	`0https://v3.sportssonline.click/channels/bra/br3.php
 Coritiba PR vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324015/coritiba-saf---pr-vs-atltico-mineiro---mg.html
 Coritiba PR vs Atletico Mineiro	`0https://v3.sportssonline.click/channels/bra/br4.php
 
 02:00 [g]Categoría Primera A[z]	^-
 Independiente Santa Fe vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331586/independiente-santa-fe-vs-cucuta-deportivo.html
+Independiente Santa Fe vs Cucuta	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 02:00 [g]AFC Champions League 2[z]	^-
 Al-Ahli Doha vs Al Hussein Irbid	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4382325/al-ahli-doha-vs-al-hussein-sc-irbid.html
@@ -221,35 +223,46 @@ River Plate vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd6.php
 
 04:10 [g]Categoría Primera A[z]	^-
 Alianza Petrolera vs Indep Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331590/alianza-ftbol-club-vs-depindependiente-medellin.html
+Alianza Petrolera vs Indep Medellin	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 04:30 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Athletico Paranaense	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324051/palmeiras---sp-vs-athletico-paranaense---pr.html
+Palmeiras vs Athletico Paranaense	`0https://v3.sportssonline.click/channels/bra/br4.php
 Bragantino vs Remo Belem PA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324062/red-bull-bragantino-vs-remo---pa.html
+Bragantino vs Remo Belem PA	`0https://v3.sportssonline.click/channels/bra/br5.php
 
 05:30 [g]Brazilian Serie A[z]	^-
 Flamengo vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324049/flamengo---rj-vs-bahia---ba.html
+Flamengo vs Bahia	`0https://v3.sportssonline.click/channels/bra/br3.php
 
 05:30 [g]CHI Liga de Primera[z]	^-
 Colo Colo vs Palestino	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330217/colo-colo-vs-palestino.html
+Colo Colo vs Palestino	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
 06:00 [g]US Major League Soccer[z]	^-
 Los Angeles vs San Jose Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317438/los-angeles-fc-vs-san-jose-earthquakes.html
 
 06:00 [g]Mexico Liga MX[z]	^-
 Santos Laguna vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322544/santos-laguna-vs-atlas.html
+Santos Laguna vs Atlas	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 06:20 [g]Categoría Primera A[z]	^-
 Atl. Jr Barranquilla vs Llaneros FC	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331588/atletico-junior-barranquilla-vs-llaneros-fc.html
+Atl. Jr Barranquilla vs Llaneros FC	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 06:30 [g]Argentine Division 1[z]	^-
 Talleres Cordoba vs Dep. Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322031/talleres-cordoba-vs-deportivo-riestra.html
 Rosario Central vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322035/rosario-central-vs-sarmiento-junin.html
+Rosario Central vs Sarmiento Junin	`0https://v3.sportssonline.click/channels/hd/hd6.php
+Rosario Central vs Sarmiento Junin	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 
 07:45 [g]CHI Liga de Primera[z]	^-
 Huachipato vs Audax Italiano	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330220/huachipato-vs-audax-italiano.html
+Huachipato vs Audax Italiano	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
 08:30 [g]Categoría Primera A[z]	^-
 America de Cali vs Millonarios	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331587/america-de-cali-vs-millonarios.html
+America de Cali vs Millonarios	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
