@@ -60,14 +60,20 @@ Al Shabab OMA vs Al Kuwait SC	`Fhttps://www.fctv33.net/football/afc-challenge-le
 Cremonese vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194786/cremonese-vs-torino.html
 Cremonese vs Torino	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Cremonese vs Torino	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Cremonese vs Torino	https://hls.livelivelive.space/live/4339744.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 18:00 [g]English Football League Champ[z]	^-
 Ipswich Town vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203493/ipswich-town-vs-middlesbrough.html
 Ipswich Town vs Middlesbrough	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Ipswich Town vs Middlesbrough	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Ipswich Town vs Middlesbrough	https://hls.livelivelive.space/live/4351730.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 18:30 [g]Belgian Pro League[z]	^-
 KAA Gent vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383092/kaa-gent-vs-sint-truidense.html
+KAA Gent vs Sint-Truidense	https://hls.livelivelive.space/live/4521197.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+18:30 [g]Turkish Super League[z]	^-
+Kasparsa vs Alania Spor	https://hls.livelivelive.space/live/4366159.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 19:00 Super League	^-
 Bali United vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229668/bali-united-vs-malut-united.html
@@ -75,6 +81,10 @@ Bali United vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-super-l
 19:00 Championship	^-
 PSPS Riau vs Persekat Tegal	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352272/psps-riau-vs-persekat-tegal.html
 PSMS Medan vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352274/psms-medan-vs-sriwijaya-fc.html
+
+19:00 [g]Danish Superliga[z]	^-
+Odense vs Lanas	https://hls.livelivelive.space/live/4510748.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Schickburg vs Fredericia	https://hls.livelivelive.space/live/4510749.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 19:15 Malaysian Challenge Cup	^-
 Sabah vs Penang	`Fhttps://www.fctv33.net/football/malaysian-challenge-cup-match-4385030/sabah-fc-vs-penang-fc.html
@@ -87,22 +97,27 @@ Malaysia vs Timor Leste	`Fhttps://www.fctv33.net/football/aff-u17-youth-champion
 Nottingham Forest vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193900/nottingham-forest-vs-burnley.html
 Nottingham Forest vs Burnley	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Nottingham Forest vs Burnley	`0https://v3.sportssonline.click/channels/pt/eleven3.php
+Nottingham Forest vs Burnley	https://hls.livelivelive.space/live/4343395.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Everton vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193909/everton-vs-liverpool.html
 Everton vs Liverpool	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Everton vs Liverpool	`0https://v3.sportssonline.click/channels/pt/eleven1.php
+Everton vs Liverpool	https://hls.livelivelive.space/live/4343384.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Aston Villa vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193939/aston-villa-vs-sunderland.html
 Aston Villa vs Sunderland AFC	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Aston Villa vs Sunderland AFC	`0https://v3.sportssonline.click/channels/pt/eleven2.php
+Aston Villa vs Sunderland AFC	https://hls.livelivelive.space/live/4343374.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 20:00 [y]Italian Serie A[z]	^-
 Verona vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194680/hellas-verona-vs-ac-milan.html
 Verona vs AC Milan	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Verona vs AC Milan	`0https://v3.sportssonline.click/channels/bra/br6.php
+Verona vs AC Milan	https://hls.livelivelive.space/live/4339759.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 20:00 [y]French Ligue 1[z]	^-
 Monaco vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200147/as-monaco-vs-aj-auxerre.html
 Monaco vs AJ Auxerre	`0https://v3.sportssonline.click/channels/hd/hd4.php
 Monaco vs AJ Auxerre	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Monaco vs AJ Auxerre	https://hls.livelivelive.space/live/4347948.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 20:00 [g]Scottish Cup[z]	^-
 Celtic FC vs Saint Mirren	`Fhttps://www.fctv33.net/football/scottish-cup-match-4384205/celtic-fc-vs-saint-mirren.html
@@ -111,6 +126,7 @@ Celtic FC vs Saint Mirren	`0https://v3.sportssonline.click/channels/hd/hd10.php
 20:30 [y]Bundesliga[z]	^-
 SC Freiburg vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199845/sc-freiburg-vs-1-fc-heidenheim-1846.html
 SC Freiburg vs 1. FC Heidenheim	`0https://v3.sportssonline.click/channels/hd/hd3.php
+SC Freiburg vs 1. FC Heidenheim	https://hls.livelivelive.space/live/4347667.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 20:30 Championship	^-
 Persiraja Aceh vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352269/persiraja-aceh-vs-garudayaksa-fc.html
@@ -118,16 +134,23 @@ Persiraja Aceh vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-ch
 21:00 [g]Turkish Super League[z]	^-
 Samsunspor vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216878/samsunspor-vs-besiktas-jk.html
 Samsunspor vs Besiktas JK	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Samsunspor vs Besiktas JK	https://hls.livelivelive.space/live/4366174.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 21:00 [g]Brazilian Serie A[z]	^-
 Internacional RS vs Mirassol	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324048/internacional---rs-vs-mirassol---sp.html
 Internacional RS vs Mirassol	`0https://v3.sportssonline.click/channels/bra/br3.php
+Internacional RS vs Mirassol	https://hls.livelivelive.space/live/4465665.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 21:00 [g]Belgian Pro League[z]	^-
 FCV Dender EH vs Cercle Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382838/fcv-dender-eh-vs-cercle-brugge.html
+FCV Dender EH vs Cercle Brugge	https://hls.livelivelive.space/live/4521170.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 21:00 [g]AFC Champions League 2[z]	^-
 Al-Wasl vs Al Nassr FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4383628/al-wasl-sc-vs-al-nassr-fc.html
+Al-Wasl vs Al Nassr FC	https://hls.livelivelive.space/live/4520572.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+21:00 [g]Danish Superliga[z]	^-
+North Zealand vs Viborg	https://hls.livelivelive.space/live/4510720.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 FC Arouca vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216211/fc-arouca-vs-cf-estrela-amadora-sad.html
@@ -140,18 +163,23 @@ AEK Athens vs PAOK Saloniki	`0https://v3.sportssonline.click/channels/hd/hd9.php
 22:15 [y]French Ligue 1[z]	^-
 Metz vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200154/metz-vs-paris-fc.html
 Metz vs Paris FC	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Metz vs Paris FC	https://hls.livelivelive.space/live/4347947.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Nantes vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200156/fc-nantes-vs-stade-brestois-29.html
+Nantes vs Stade Brestois	https://hls.livelivelive.space/live/4347949.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Strasbourg vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200201/rc-strasbourg-alsace-vs-stade-rennais-fc.html
+Strasbourg vs Rennes	https://hls.livelivelive.space/live/4347951.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 22:30 [y]English Premier League[z]	^-
 Manchester City vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193980/manchester-city-vs-arsenal.html
 Manchester City vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Manchester City vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Manchester City vs Arsenal	https://hls.livelivelive.space/live/4343390.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 22:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199846/fc-bayern-munich-vs-vfb-stuttgart.html
 Bayern Munchen vs VfB Stuttgart	`0https://v3.sportssonline.click/channels/hd/hd3.php
 Bayern Munchen vs VfB Stuttgart	`0https://v3.sportssonline.click/channels/pt/eleven2.php
+Bayern Munchen vs VfB Stuttgart	https://hls.livelivelive.space/live/4347652.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 23:00 [y]Italian Serie A[z]	^-
 Pisa vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194785/pisa-vs-genoa.html
