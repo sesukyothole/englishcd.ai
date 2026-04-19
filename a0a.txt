@@ -6,7 +6,6 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
-^=test html	https://ddkanq.vip/zhibo/34915.html
 ^=Blank	
 ^=	^-
 
@@ -101,24 +100,39 @@ PSS Sleman vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-champio
 
 23:15 [g]AFC Champions League Elite[z]	^-
 Vissel Kobe vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4390766/vissel-kobe-vs-al-ahli-sfc.html
+Vissel Kobe vs Al Ahli Jeddah	https://ddkanq.vip/zhibo/34937.html
 
 21.04.2026	^-
+
+00:00 [g]Danish Superliga[z]	^-
+Midtjylland vs Aarhus AGF	https://ddkanq.vip/zhibo/34939.html
+
+00:00 [g]Turkish Super League[z]	^-
+Gaziantep vs Kayserispor	https://ddkanq.vip/zhibo/34938.html
+
+00:30 [g]Romanian Super Liga[z]	^-
+FC Farul Constanța vs FCSB	https://ddkanq.vip/zhibo/34941.html
 
 01:00 [g]Argentine Division 1[z]	^-
 Barracas Central vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322033/barracas-central-vs-belgrano.html
 
 01:45 [y]Italian Serie A[z]	^-
 Lecce vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194835/lecce-vs-fiorentina.html
+Lecce vs Fiorentina	https://ddkanq.vip/zhibo/34943.html
 
 02:00 [y]English Premier League[z]	^-
 Crystal Palace vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193938/crystal-palace-vs-west-ham-united.html
+Crystal Palace vs West Ham United	https://ddkanq.vip/zhibo/34944.html
 
 02:15 [g]Portuguese Primera Liga[z]	^-
 Moreirense vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216214/moreirense-vs-estoril.html
+Moreirense vs Estoril	https://ddkanq.vip/zhibo/34945.html
 
 03:15 [g]Argentine Division 1[z]	^-
 Central Cordoba SDE vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321911/central-cordoba-sde-vs-ca-platense.html
+Central Cordoba SDE vs CA Platense	https://ddkanq.vip/zhibo/34946.html
 Banfield vs Independiente Rivadavia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321952/banfield-vs-independiente-rivadavia.html
+Banfield vs Independiente Rivadavia	https://ddkanq.vip/zhibo/34947.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
