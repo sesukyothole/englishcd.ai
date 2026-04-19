@@ -83,37 +83,46 @@ River Plate vs Boca Juniors	https://hls.livelivelive.space/live/4465212.m3u8?txS
 04:10 [g]Categoría Primera A[z]	^-
 Alianza Petrolera vs Indep Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331590/alianza-ftbol-club-vs-depindependiente-medellin.html
 Alianza Petrolera vs Indep Medellin	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Alianza Petrolera vs Indep Medellin	https://hls.livelivelive.space/live/4477784.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 04:30 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Athletico Paranaense	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324051/palmeiras---sp-vs-athletico-paranaense---pr.html
 Palmeiras vs Athletico Paranaense	`0https://v3.sportssonline.click/channels/bra/br4.php
 Bragantino vs Remo Belem PA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324062/red-bull-bragantino-vs-remo---pa.html
 Bragantino vs Remo Belem PA	`0https://v3.sportssonline.click/channels/bra/br5.php
+Bragantino vs Remo Belem PA	https://hls.livelivelive.space/live/4465631.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 05:30 [g]Brazilian Serie A[z]	^-
 Flamengo vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324049/flamengo---rj-vs-bahia---ba.html
 Flamengo vs Bahia	`0https://v3.sportssonline.click/channels/bra/br3.php
+Flamengo vs Bahia	https://hls.livelivelive.space/live/4465597.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 05:30 [g]CHI Liga de Primera[z]	^-
 Colo Colo vs Palestino	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330217/colo-colo-vs-palestino.html
 Colo Colo vs Palestino	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Colo Colo vs Palestino	https://hls.livelivelive.space/live/4476351.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 06:00 [g]US Major League Soccer[z]	^-
 Los Angeles vs San Jose Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317438/los-angeles-fc-vs-san-jose-earthquakes.html
+Los Angeles vs San Jose Earthquakes	https://hls.livelivelive.space/live/4460198.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 06:00 [g]Mexico Liga MX[z]	^-
 Santos Laguna vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322544/santos-laguna-vs-atlas.html
 Santos Laguna vs Atlas	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Santos Laguna vs Atlas	https://hls.livelivelive.space/live/4465540.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 06:20 [g]Categoría Primera A[z]	^-
 Atl. Jr Barranquilla vs Llaneros FC	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331588/atletico-junior-barranquilla-vs-llaneros-fc.html
 Atl. Jr Barranquilla vs Llaneros FC	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Atl. Jr Barranquilla vs Llaneros FC	https://hls.livelivelive.space/live/4477783.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 06:30 [g]Argentine Division 1[z]	^-
 Talleres Cordoba vs Dep. Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322031/talleres-cordoba-vs-deportivo-riestra.html
+Talleres Cordoba vs Dep. Riestra	https://hls.livelivelive.space/live/4465235.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Rosario Central vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322035/rosario-central-vs-sarmiento-junin.html
 Rosario Central vs Sarmiento Junin	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Rosario Central vs Sarmiento Junin	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Rosario Central vs Sarmiento Junin	https://hls.livelivelive.space/live/4465230.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 07:45 [g]CHI Liga de Primera[z]	^-
 Huachipato vs Audax Italiano	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330220/huachipato-vs-audax-italiano.html
