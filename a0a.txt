@@ -35,10 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.04.2026	^-
 
-13:00 [g]Japanese J1 League[z]	^-
-Gamba Osaka vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331698/gamba-osaka-vs-fagiano-okayama.html
-Gamba Osaka vs Fagiano Okayama	https://hls.livelivelive.space/live/4470784.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 14:00 [g]Japanese J1 League[z]	^-
 Nagoya Grampus vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331691/nagoya-grampus-vs-avispa-fukuoka.html
 Nagoya Grampus vs Avispa Fukuoka	https://hls.livelivelive.space/live/4470785.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
