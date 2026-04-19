@@ -35,11 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 20.04.2026	^-
 
-04:10 [g]Categoría Primera A[z]	^-
-Alianza Petrolera vs Indep Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331590/alianza-ftbol-club-vs-depindependiente-medellin.html
-Alianza Petrolera vs Indep Medellin	`0https://v3.sportssonline.click/channels/hd/hd8.php
-Alianza Petrolera vs Indep Medellin	https://hls.livelivelive.space/live/4477784.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 04:30 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Athletico Paranaense	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324051/palmeiras---sp-vs-athletico-paranaense---pr.html
 Palmeiras vs Athletico Paranaense	`0https://v3.sportssonline.click/channels/bra/br4.php
@@ -100,6 +95,8 @@ PSS Sleman vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-champio
 
 23:15 [g]AFC Champions League Elite[z]	^-
 Vissel Kobe vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4390766/vissel-kobe-vs-al-ahli-sfc.html
+Vissel Kobe vs Al Ahli Jeddah	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Vissel Kobe vs Al Ahli Jeddah	`0https://v3.sportssonline.click/channels/bra/br6.php
 Vissel Kobe vs Al Ahli Jeddah	https://ddkanq.vip/zhibo/34937.html
 
 21.04.2026	^-
@@ -108,6 +105,7 @@ Vissel Kobe vs Al Ahli Jeddah	https://ddkanq.vip/zhibo/34937.html
 Midtjylland vs Aarhus AGF	https://ddkanq.vip/zhibo/34939.html
 
 00:00 [g]Turkish Super League[z]	^-
+Gaziantep vs Kayserispor	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Gaziantep vs Kayserispor	https://ddkanq.vip/zhibo/34938.html
 
 00:30 [g]Romanian Super Liga[z]	^-
@@ -115,13 +113,18 @@ FC Farul Constanța vs FCSB	https://ddkanq.vip/zhibo/34941.html
 
 01:00 [g]Argentine Division 1[z]	^-
 Barracas Central vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322033/barracas-central-vs-belgrano.html
+Barracas Central vs Belgrano	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 01:45 [y]Italian Serie A[z]	^-
 Lecce vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194835/lecce-vs-fiorentina.html
+Lecce vs Fiorentina	`0https://v3.sportssonline.click/channels/hd/hd7.php
+Lecce vs Fiorentina	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 Lecce vs Fiorentina	https://ddkanq.vip/zhibo/34943.html
 
 02:00 [y]English Premier League[z]	^-
 Crystal Palace vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193938/crystal-palace-vs-west-ham-united.html
+Crystal Palace vs West Ham United	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Crystal Palace vs West Ham United	`0https://v3.sportssonline.click/channels/pt/eleven2.php
 Crystal Palace vs West Ham United	https://ddkanq.vip/zhibo/34944.html
 
 02:15 [g]Portuguese Primera Liga[z]	^-
@@ -129,10 +132,19 @@ Moreirense vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-
 Moreirense vs Estoril	https://ddkanq.vip/zhibo/34945.html
 
 03:15 [g]Argentine Division 1[z]	^-
-Central Cordoba SDE vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321911/central-cordoba-sde-vs-ca-platense.html
-Central Cordoba SDE vs CA Platense	https://ddkanq.vip/zhibo/34946.html
 Banfield vs Independiente Rivadavia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321952/banfield-vs-independiente-rivadavia.html
+Banfield vs Independiente Rivadavia	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Banfield vs Independiente Rivadavia	`0https://v3.sportssonline.click/channels/bra/br6.php
 Banfield vs Independiente Rivadavia	https://ddkanq.vip/zhibo/34947.html
+Central Cordoba SDE vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321911/central-cordoba-sde-vs-ca-platense.html
+Central Cordoba SDE vs CA Platense	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Central Cordoba SDE vs CA Platense	https://ddkanq.vip/zhibo/34946.html
+
+05:30 [g]Argentine Division 1[z]	^-
+San Lorenzo vs Velez Sarsfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321909/san-lorenzo-vs-velez-sarsfield.html
+San Lorenzo vs Velez Sarsfield	`0https://v3.sportssonline.click/channels/hd/hd10.php
+San Lorenzo vs Velez Sarsfield	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+San Lorenzo vs Velez Sarsfield	https://ddkanq.vip/zhibo/34948.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
