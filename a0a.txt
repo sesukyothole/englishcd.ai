@@ -35,29 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 20.04.2026	^-
 
-02:00 [g]Brazilian Serie A[z]	^-
-Santos vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324012/santos-fc---sp-vs-fluminense---rj.html
-Santos vs Fluminense RJ	`0https://v3.sportssonline.click/channels/bra/br3.php
-Santos vs Fluminense RJ	https://hls.livelivelive.space/live/4465608.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-02:30 [g]Portuguese Primera Liga[z]	^-
-FC Porto vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216137/fc-porto-vs-cd-tondela.html
-FC Porto vs CD Tondela	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
-FC Porto vs CD Tondela	https://hls.livelivelive.space/live/4369051.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Sporting Braga vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216213/sporting-braga-vs-fc-famalicao.html
-Sporting Braga vs FC Famalicao	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
-Sporting Braga vs FC Famalicao	https://hls.livelivelive.space/live/4369049.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-02:30 [g]CHI Liga de Primera[z]	^-
-Cobresal vs O.Higgins	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330219/cobresal-vs-ohiggins.html
-Cobresal vs O.Higgins	https://hls.livelivelive.space/live/4476350.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-03:00 [g]Argentine Division 1[z]	^-
-River Plate vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322032/river-plate-vs-boca-juniors.html
-River Plate vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd10.php
-River Plate vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd6.php
-River Plate vs Boca Juniors	https://hls.livelivelive.space/live/4465212.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 04:10 [g]Categoría Primera A[z]	^-
 Alianza Petrolera vs Indep Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331590/alianza-ftbol-club-vs-depindependiente-medellin.html
 Alianza Petrolera vs Indep Medellin	`0https://v3.sportssonline.click/channels/hd/hd8.php
