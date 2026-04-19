@@ -35,40 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.04.2026	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-Monterrey vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322546/monterrey-vs-pachuca.html
-Monterrey vs Pachuca	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Monterrey vs Pachuca	https://hls.livelivelive.space/live/4465536.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Chivas Guadalajara vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322556/club-deportivo-guadalajara-vs-puebla.html
-Chivas Guadalajara vs Puebla	https://hls.livelivelive.space/live/4465567.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-08:30 [g]US Major League Soccer[z]	^-
-Seattle Sounders vs St. Louis City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317416/seattle-sounders-vs-st-louis-city-sc.html
-Seattle Sounders vs St. Louis City	https://hls.livelivelive.space/live/4460195.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Real Salt Lake vs San Diego FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317417/real-salt-lake-vs-san-diego-fc.html
-Real Salt Lake vs San Diego FC	https://hls.livelivelive.space/live/4460194.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-08:30 [l]International W Series[z]	^-
-Brazil vs Canada	`Fhttps://www.fctv33.net/football/fifa-w-series-match-4387354/brazil-women-vs-canada-women.html
-Brazil vs Canada	`0https://v3.sportssonline.click/channels/bra/br1.php
-
-10:00 [g]Australia A-League[z]	^-
-Auckland FC vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282188/auckland-fc-vs-central-coast-mariners.html
-Auckland FC vs Coast Mariners	https://hls.livelivelive.space/live/4426742.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-10:00 [g]Mexico Liga MX[z]	^-
-Club America vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322545/club-america-vs-toluca.html
-Club America vs Toluca	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Club America vs Toluca	https://hls.livelivelive.space/live/4465543.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Leon vs Juarez	https://hls.livelivelive.space/live/4465539.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-11:00 [g]Japanese J1 League[z]	^-
-Mito Hollyhock vs Kashiwa Reysol	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331778/mito-hollyhock-vs-kashiwa-reysol.html
-Mito Hollyhock vs Kashiwa Reysol	https://hls.livelivelive.space/live/4470693.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-12:00 [g]Korean K League 1[z]	^-
-Ulsan HD vs Gwangju FC	https://hls.livelivelive.space/live/4480339.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 12:30 [g]Australia A-League[z]	^-
 Adelaide United vs FC Macarthur	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282190/adelaide-united-vs-macarthur-fc.html
 Adelaide United vs FC Macarthur	https://hls.livelivelive.space/live/4426743.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
@@ -192,56 +158,59 @@ Br Monchengladbach vs FSV Mainz 05	`F
 Juventus vs Bologna	`F
 
 01:45 [y]French Ligue 1[z]	^-
-Paris Saint Germain vs Lyon	`F
+Paris Saint Germain vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200164/paris-saint-germain-vs-lyon-04-2026.html
 
 02:00 [g]Brazilian Serie A[z]	^-
-Santos vs Fluminense RJ	`F
-Coritiba PR vs Atletico Mineiro	`F
+Santos vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324012/santos-fc---sp-vs-fluminense---rj-04-2026.html
+Coritiba PR vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324015/coritiba-saf---pr-vs-atltico-mineiro---mg-04-2026.html
 
 02:00 [g]Categoría Primera A[z]	^-
-Independiente Santa Fe vs Cucuta	`F
+Independiente Santa Fe vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331586/independiente-santa-fe-vs-cucuta-deportivo-04-2026.html
 
 02:00 [g]AFC Champions League 2[z]	^-
-Al-Ahli Doha vs Al Hussein Irbid	`F
+Al-Ahli Doha vs Al Hussein Irbid	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4382325/al-ahli-doha-vs-al-hussein-sc-irbid-04-2026.html
 
 02:30 [g]Portuguese Primera Liga[z]	^-
-FC Porto vs CD Tondela	`F
-Sporting Braga vs FC Famalicao	`F
+FC Porto vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216137/fc-porto-vs-cd-tondela-04-2026.html
+Sporting Braga vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216213/sporting-braga-vs-fc-famalicao-04-2026.html
 
 02:30 [g]CHI Liga de Primera[z]	^-
-Cobresal vs O.Higgins	`F
+Cobresal vs O.Higgins	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330219/cobresal-vs-ohiggins-04-2026.html
 
 03:00 [g]Argentine Division 1[z]	^-
-River Plate vs Boca Juniors	`F
+River Plate vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322032/river-plate-vs-boca-juniors-04-2026.html
 
 04:10 [g]Categoría Primera A[z]	^-
-Alianza Petrolera vs Indep Medellin	`F
+Alianza Petrolera vs Indep Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331590/alianza-ftbol-club-vs-depindependiente-medellin-04-2026.html
 
 04:30 [g]Brazilian Serie A[z]	^-
-Palmeiras vs Athletico Paranaense	`F
-Bragantino vs Remo Belem PA	`F
+Palmeiras vs Athletico Paranaense	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324051/palmeiras---sp-vs-athletico-paranaense---pr-04-2026.html
+Bragantino vs Remo Belem PA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324062/red-bull-bragantino-vs-remo---pa-04-2026.html
 
 05:30 [g]Brazilian Serie A[z]	^-
-Flamengo vs Bahia	`F
+Flamengo vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324049/flamengo---rj-vs-bahia---ba-04-2026.html
 
 05:30 [g]CHI Liga de Primera[z]	^-
-Colo Colo vs Palestino	`F
+Colo Colo vs Palestino	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330217/colo-colo-vs-palestino-04-2026.html
 
 06:00 [g]US Major League Soccer[z]	^-
-Los Angeles vs San Jose Earthquakes	`F
+Los Angeles vs San Jose Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317438/los-angeles-fc-vs-san-jose-earthquakes-04-2026.html
 
 06:00 [g]Mexico Liga MX[z]	^-
-Santos Laguna vs Atlas	`F
+Santos Laguna vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322544/santos-laguna-vs-atlas-04-2026.html
 
 06:20 [g]Categoría Primera A[z]	^-
-Atl. Jr Barranquilla vs Llaneros FC	`F
+Atl. Jr Barranquilla vs Llaneros FC	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331588/atletico-junior-barranquilla-vs-llaneros-fc-04-2026.html
 
 06:30 [g]Argentine Division 1[z]	^-
-Talleres Cordoba vs Dep. Riestra	`F
-Rosario Central vs Sarmiento Junin	`F
+Talleres Cordoba vs Dep. Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322031/talleres-cordoba-vs-deportivo-riestra-04-2026.html
+Rosario Central vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322035/rosario-central-vs-sarmiento-junin-04-2026.html
 
 07:45 [g]CHI Liga de Primera[z]	^-
-Huachipato vs Audax Italiano	`F
+Huachipato vs Audax Italiano	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330220/huachipato-vs-audax-italiano-04-2026.html
+
+08:30 [g]Categoría Primera A[z]	^-
+America de Cali vs Millonarios	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331587/america-de-cali-vs-millonarios-04-2026.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
