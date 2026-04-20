@@ -35,16 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 20.04.2026	^-
 
-05:30 [g]Brazilian Serie A[z]	^-
-Flamengo vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324049/flamengo---rj-vs-bahia---ba.html
-Flamengo vs Bahia	`0https://v3.sportssonline.click/channels/bra/br3.php
-Flamengo vs Bahia	https://hls.livelivelive.space/live/4465597.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-05:30 [g]CHI Liga de Primera[z]	^-
-Colo Colo vs Palestino	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330217/colo-colo-vs-palestino.html
-Colo Colo vs Palestino	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Colo Colo vs Palestino	https://hls.livelivelive.space/live/4476351.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 06:00 [g]US Major League Soccer[z]	^-
 Los Angeles vs San Jose Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317438/los-angeles-fc-vs-san-jose-earthquakes.html
 Los Angeles vs San Jose Earthquakes	https://hls.livelivelive.space/live/4460198.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
@@ -140,8 +130,9 @@ San Lorenzo vs Velez Sarsfield	`0https://v3.sportssonline.click/channels/pt/spor
 San Lorenzo vs Velez Sarsfield	https://ddkanq.vip/zhibo/34948.html
 
 06:20 [g]Categoría Primera A[z]	^-
-Once Caldas vs Inter Bogotá	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Once Caldas vs Inter Bogotá	https://ddkanq.vip/zhibo/34950.html
+Dep Once Caldas vs La Equidad	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331589/deportiva-once-caldas-vs-internacional-de-bogota.html
+Dep Once Caldas vs La Equidad	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Dep Once Caldas vs La Equidad	https://ddkanq.vip/zhibo/34950.html
 
 07:00 [g]CHI Liga de Primera[z]	^-
 Universidad Católica vs Unión Calera	`0https://v3.sportssonline.click/channels/hd/hd9.php
