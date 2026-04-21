@@ -44,17 +44,20 @@ Sao Paulo vs Juventude	`Fhttps://www.fctv33.net/football/brazilian-cup-match-438
 Sao Paulo vs Juventude	`0https://v3.sportssonline.click/channels/bra/br1.php
 
 05:30 [g]Brazilian Cup[z]	^-
+Grêmio vs Confiança	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388609/grmio---rs-vs-ad-confiana.html
 Grêmio vs Confiança	`0https://v3.sportssonline.click/channels/bra/br4.php
 
 07:30 [g]Brazilian Cup[z]	^-
 Paysandu vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388618/sc-paysandu-para-vs-vasco-da-gama-saf---rj.html
 Paysandu vs Vasco da Gama	`0https://v3.sportssonline.click/channels/bra/br1.php
+Barra vs Corinthians	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387647/barra-fc-vs-corinthians---sp.html
 Barra vs Corinthians	`0https://v3.sportssonline.click/channels/bra/br4.php
 
 08:00 [g]Mexico Liga MX[z]	^-
 Querétaro FC vs Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322553/queretaro-fc-vs-cruz-azul.html
 Querétaro FC vs Cruz Azul	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Querétaro FC vs Cruz Azul	https://hls.livelivelive.space/live/4465541.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Pumas UNAM vs Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322552/pumas-unam-vs-fc-juarez.html
 Pumas UNAM vs Juarez	https://hls.livelivelive.space/live/4339796.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 10:05 [g]Mexico Liga MX[z]	^-
