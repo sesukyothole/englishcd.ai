@@ -23,7 +23,7 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
-^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
+^@[].f[w]👉Settings	`0Site settings	`0Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
 ^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
@@ -34,10 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 	^-
 
 22.04.2026	^-
-
-03:00 [g]Brazilian Cup[z]	^-
-Botafogo RJ vs Chapecoense SC	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388893/botafogo---rj-vs-chapecoense---sc.html
-Botafogo RJ vs Chapecoense SC	`0https://v3.sportssonline.click/channels/bra/br1.php
 
 05:15 [g]Brazilian Cup[z]	^-
 Sao Paulo vs Juventude	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388610/so-paulo---sp-vs-juventude.html
@@ -67,23 +63,156 @@ Monterrey vs Puebla	https://hls.livelivelive.space/live/4465549.m3u8?txSecret=d3
 Club León vs Club América	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322554/club-leon-vs-club-america.html
 Club León vs Club América	https://hls.livelivelive.space/live/4465553.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
+15:30 Super League	^-
+PSIM Yogyakarta vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229527/psim-yogyakarta-vs-persatuan-sepakbola-indonesia-jakarta.html
+Persis Solo FC vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229626/persis-solo-fc-vs-bhayangkara-presisi-indonesia-fc.html
+
 17:00 [g]Japanese J1 League[z]	^-
+Gamba Osaka vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331690/gamba-osaka-vs-avispa-fukuoka.html
 Gamba Osaka vs Avispa Fukuoka	https://hls.livelivelive.space/live/4470811.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 17:30 [g]Korean K League 1[z]	^-
-Anyang FC vs Ulsan HD	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336125/fc-anyang-vs-ulsan-hd-fc.html
-Anyang FC vs Ulsan HD	https://hls.livelivelive.space/live/4480342.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Daejeon Citizen vs Jeju United	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336091/daejeon-citizen-vs-jeju-sk-fc.html
 Daejeon Citizen vs Jeju United	https://hls.livelivelive.space/live/4480347.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Anyang FC vs Ulsan HD	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336125/fc-anyang-vs-ulsan-hd-fc.html
+Anyang FC vs Ulsan HD	https://hls.livelivelive.space/live/4480342.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Pohang Steelers vs Gwangju FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336132/pohang-steelers-vs-gwangju-football-club.html
 Pohang Steelers vs Gwangju FC	https://hls.livelivelive.space/live/4480345.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
+18:30 [g]ASEAN Club Championship[z]	^-
+Svay Rieng FC vs Bangkok United FC	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261084/preah-khan-reach-svay-rieng-fc-vs-bangkok-united-fc.html
+
+19:30 [g]AFF U17 Youth Championship[z]	^-
+Vietnam vs Australia	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4392069/vietnam-u17-vs-australia-u17.html
+
 21:30 [g]Russian Premier League[z]	^-
+Orenburg vs Pari NN	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4227301/gazovik-orenburg-vs-fc-pari-nizhniy-novgorod.html
 Orenburg vs Pari NN	https://hls.livelivelive.space/live/4379136.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+
+23:00 [g]AFC Champions League 2[z]	^-
+Al Nassr FC vs Al-Ahli Doha	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4391720/al-nassr-fc-vs-al-ahli-doha.html
+
+23:00 [g]Danish Superliga[z]	^-
+Vejle BK vs Silkeborg	https://ddkanq.vip/zhibo/35008.html
+Copenhagen vs Odense Boldklub	https://ddkanq.vip/zhibo/35007.html
+
+23:45 [g]Russian Premier League[z]	^-
+Lokomotiv Moscow vs Zenit	https://ddkanq.vip/zhibo/35010.html
+Dynamo Moscow vs Rubin Kazan	https://ddkanq.vip/zhibo/35009.html
+
+23.04.2026	^-
+
+00:00 [y]French Ligue 1[z]	^-
+Paris Saint Germain vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200108/paris-saint-germain-vs-fc-nantes.html
+
+00:00 [y]Spanish La Liga[z]	^-
+Elche vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209764/elche-vs-atletico-madrid.html
+
+00:00 [g]Sweden Allsvenskan[z]	^-
+Västerås vs Häcken	https://ddkanq.vip/zhibo/35016.html
+Örgryte vs Brommapojkarna	https://ddkanq.vip/zhibo/35015.html
+Hammarby vs Halmstad	https://ddkanq.vip/zhibo/35014.html
+Elfsborg dan Djurgarden	https://ddkanq.vip/zhibo/35013.html
+
+00:30 [g]Turkish Cup[z]	^-
+Galatasaray vs Genclerbirligi	`Fhttps://www.fctv33.net/football/turkish-cup-match-4387420/galatasaray-vs-genclerbirligi.html
+
+01:00 [y]Spanish La Liga[z]	^-
+Real Sociedad vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209769/real-sociedad-vs-getafe.html
+
+01:00 [y]Netherlands Eredivisie[z]	^-
+Telstar vs Sparta Rotterdam	https://ddkanq.vip/zhibo/35018.html
+
+01:30 [g]Belgian Pro League[z]	^-
+Club Brugge vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383150/club-brugge-vs-kv-mechelen.html
+Saint Gilloise vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383152/union-saint-gilloise-vs-kaa-gent.html
+
+01:45 [g]English Football League Champ[z]	^-
+Charlton Athletic vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203496/charlton-athletic-vs-ipswich-town.html
+Birmingham vs Preston	https://ddkanq.vip/zhibo/35022.html
+Middlesbrough vs Sheffield Wednes	https://ddkanq.vip/zhibo/35021.html
+Cardiff City vs Port Vale	https://ddkanq.vip/zhibo/35020.html
+Sheffield Utd vs Blackburn Rovers	https://ddkanq.vip/zhibo/35024.html
+
+01:45 [g]DFB Pokal[z]	^-
+Bayer Leverkusen vs Bayern Munchen	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4371521/bayer-04-leverkusen-vs-fc-bayern-munich.html
+
+02:00 [y]English Premier League[z]	^-
+Burnley vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193908/burnley-vs-manchester-city.html
+Bournemouth AFC vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193954/bournemouth-afc-vs-leeds-united.html
+
+02:00 [g]Coppa Italia[z]	^-
+Atalanta vs Lazio	`Fhttps://www.fctv33.net/football/coppa-italia-match-4353972/atalanta-vs-lazio.html
+
+02:00 [g]Coupe de France[z]	^-
+Strasbourg vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4367519/rc-strasbourg-alsace-vs-ogc-nice.html
+
+02:30 [y]Spanish La Liga[z]	^-
+FC Barcelona vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209771/fc-barcelona-vs-rc-celta.html
+
+02:45 [g]Portuguese Cup[z]	^-
+FC Porto vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4350355/fc-porto-vs-sporting-cp.html
+
+05:00 [g]Brazilian Cup[z]	^-
+Goias vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387592/gois-ec-vs-cruzeiro---mg.html
+Bahia vs Remo Belem PA	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387633/bahia---ba-vs-remo---pa.html
+
+05:30 [g]Brazilian Cup[z]	^-
+Santos vs Coritiba	`0https://v3.sportssonline.click/channels/bra/br4.php
+
+05:00 [g]Copa Argentina[z]	^-
+Atletico Acassuso vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/copa-argentina-match-4391171/club-atletico-acassuso-vs-gimnasia-la-plata.html
+
+06:20 [g]Categoría Primera A[z]	^-
+Medellín vs Boyacá Chicó	`0https://v3.sportssonline.click/channels/hd/hd8.php
+
+06:30 [g]Brazilian Cup[z]	^-
+Fortaleza vs CRB	`0https://v3.sportssonline.click/channels/bra/br5.php
+Athletic Club vs Internacional	`0https://v3.sportssonline.click/channels/bra/br3.php
+
+06:30 [g]US Major League Soccer[z]	^-
+Toronto FC vs Philadelphia Union	https://ddkanq.vip/zhibo/35036.html
+Orlando City vs Charlotte FC	https://ddkanq.vip/zhibo/35035.html
+New York Red Bull vs DC United	https://ddkanq.vip/zhibo/35034.html
+New York City vs Cincinnati FC	https://ddkanq.vip/zhibo/35033.html
+Columbus Crew vs Los Angeles Galaxy	https://ddkanq.vip/zhibo/35032.html
+
+06:45 [g]US Major League Soccer[z]	^-
+Atlanta United vs New England Revo	https://ddkanq.vip/zhibo/35038.html
+
+07:15 [g]Copa Argentina[z]	^-
+Deportivo Morón vs Midland	`0https://v3.sportssonline.click/channels/hd/hd9.php
+
+07:30 [g]US Major League Soccer[z]	^-
+Houston Dynamo vs San Diego FC	https://ddkanq.vip/zhibo/35040.html
+FC Dallas vs Minnesota United	https://ddkanq.vip/zhibo/35039.html
+
+07:30 [g]Brazilian Cup[z]	^-
+RB Bragantino vs Mirassol	`0https://v3.sportssonline.click/channels/bra/br2.php
+Flamengo vs Vitória	`0https://v3.sportssonline.click/channels/bra/br1.php
+
+08:00 [g]Mexico Liga MX[z]	^-
+Atlas vs Tigres UANL	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Mazatlán vs Toluca	`0https://v3.sportssonline.click/channels/hd/hd10.php
+San Luis vs Santos Laguna	https://ddkanq.vip/zhibo/35041.html
+
+08:30 [g]Categoría Primera A[z]	^-
+Fortaleza CEIF vs América de Cali	`0https://v3.sportssonline.click/channels/hd/hd8.php
+
+08:30 [g]US Major League Soccer[z]	^-
+Real Salt Lake vs Inter Miami	`0https://v3.sportssonline.click/channels/hd/hd1.php
+
+09:30 [g]US Major League Soccer[z]	^-
+San Jose Earthquake vs Austin FC	https://ddkanq.vip/zhibo/35049.html
+Los Angeles FC vs Colorado Rapids	https://ddkanq.vip/zhibo/35048.html
+
+10:05 [g]Mexico Liga MX[z]	^-
+Necaxa vs Guadalajara	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Tijuana vs Pachuca	https://ddkanq.vip/zhibo/35051.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
-^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
+^@[].f[w]👉Settings	`0Site settings	`0Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
 ^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
@@ -1781,9 +1910,9 @@ TSN 3 🇨🇦	09!08b00!00/6000003?zyy
 ^=Huhu.To	`0https://huhu.to/
 ^=espn	`1https://streamtp11.com/global1.php?stream=espn
 
-[g]⚠️ Settings | Privacy & security | Security | Use secure DNS | Select DNS provider: OpenDNS.[z][][g]⚠️ Settings | Privacy & security | Use secure DNS | Choose another provider: OpenDNS.[z]	^-
+[g]⚠️ Settings	`0Privacy & security	`0Security	`0Use secure DNS	`0Select DNS provider: OpenDNS.[z][][g]⚠️ Settings	`0Privacy & security	`0Use secure DNS	`0Choose another provider: OpenDNS.[z]	^-
 
-Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] ⚠️ [g]Install 3 Chrome Browser Extensions: CORS Unblock, Allow CORS, & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z][]Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] [g]⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z]	^-
+Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] ⚠️ [g]Install 3 Chrome Browser Extensions: CORS Unblock, Allow CORS, & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings	`0Privacy & security	`0Insecure content: Allow.👈 ⚠️ Settings	`0Privacy & security	`0Security	`0Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z][]Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] [g]⚠️ Settings	`0Privacy & security	`0Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z]	^-
 [][g]Try Dolphin browser if Chrome doesn't work![z]	^-
 
 	^-
