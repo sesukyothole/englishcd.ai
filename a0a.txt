@@ -63,26 +63,30 @@ Konyaspor vs Fenerbahce	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Konyaspor vs Fenerbahce	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
 
 01:30 [g]Austrian Bundesliga[z]	^-
-Ried vs Grazer AK	`0https://v3.sportssonline.click/channels/hd/hd11.php
+SV Ried vs Grazer AK	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370489/sv-ried-vs-grazer-ak.html
+SV Ried vs Grazer AK	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 01:30 [g]Belgian Pro League[z]	^-
 Standard Liege vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382735/standard-liege-vs-royal-antwerp.html
 Standard Liege vs Royal Antwerp	https://hls.livelivelive.space/live/4521171.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Racing Genk vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382746/racing-genk-vs-rc-sporting-charleroi.html
 Racing Genk vs Charleroi	https://hls.livelivelive.space/live/4521193.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Oud-Heverlee Leuven vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382732/oud-heverlee-leuven-vs-kvc-westerlo.html
 Oud-Heverlee Leuven vs Westerlo	https://hls.livelivelive.space/live/4521188.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 01:45 [g]English Football League Champ[z]	^-
 Leicester City vs Hull City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203554/leicester-city-vs-hull-city.html
 Leicester City vs Hull City	`0https://v3.sportssonline.click/channels/pt/sporttv4.php
 Leicester City vs Hull City	https://hls.livelivelive.space/live/4351766.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Queens Park Rangers vs Swansea	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203555/queens-park-rangers-vs-swansea-city.html
 Queens Park Rangers vs Swansea	https://hls.livelivelive.space/live/4351760.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Coventry vs Portsmouth	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203777/coventry-city-vs-portsmouth.html
+Coventry vs Portsmouth	https://hls.livelivelive.space/live/4351746.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Oxford United vs Wrexham	https://hls.livelivelive.space/live/4351758.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 West Bromwich Albion vs Watford	https://hls.livelivelive.space/live/4351756.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Stoke City vs Millwall	https://hls.livelivelive.space/live/4351754.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Southampton vs Bristol City	https://hls.livelivelive.space/live/4351752.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Norwich City vs Derby County	https://hls.livelivelive.space/live/4351750.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Coventry vs Portsmouth	httpshttps://hls.livelivelive.space/live/4351746.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:00 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193922/brighton-hove-albion-vs-chelsea.html
