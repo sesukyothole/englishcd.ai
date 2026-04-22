@@ -35,19 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 22.04.2026	^-
 
-07:30 [g]Brazilian Cup[z]	^-
-Paysandu vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388618/sc-paysandu-para-vs-vasco-da-gama-saf---rj.html
-Paysandu vs Vasco da Gama	`0https://v3.sportssonline.click/channels/bra/br1.php
-Barra vs Corinthians	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387647/barra-fc-vs-corinthians---sp.html
-Barra vs Corinthians	`0https://v3.sportssonline.click/channels/bra/br4.php
-
-08:00 [g]Mexico Liga MX[z]	^-
-Querétaro FC vs Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322553/queretaro-fc-vs-cruz-azul.html
-Querétaro FC vs Cruz Azul	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Querétaro FC vs Cruz Azul	https://hls.livelivelive.space/live/4465541.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Pumas UNAM vs Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322552/pumas-unam-vs-fc-juarez.html
-Pumas UNAM vs Juarez	https://hls.livelivelive.space/live/4339796.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 10:05 [g]Mexico Liga MX[z]	^-
 Monterrey vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322557/monterrey-vs-puebla.html
 Monterrey vs Puebla	`0https://v3.sportssonline.click/channels/hd/hd11.php
@@ -78,6 +65,7 @@ Pohang Steelers vs Gwangju FC	https://hls.livelivelive.space/live/4480345.m3u8?t
 
 18:30 [g]ASEAN Club Championship[z]	^-
 Svay Rieng FC vs Bangkok United FC	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261084/preah-khan-reach-svay-rieng-fc-vs-bangkok-united-fc.html
+Svay Rieng FC vs Bangkok United FC	`0https://www.marza12.shop/football/2852952-svay-rieng-fc-vs-bangkok-united-fc.html
 
 19:30 [g]AFF U17 Youth Championship[z]	^-
 Vietnam vs Australia	`Fhttps://www.fctv33.net/football/aff-u17-youth-championship-match-4392069/vietnam-u17-vs-australia-u17.html
@@ -134,7 +122,9 @@ Telstar vs Sparta Rotterdam	https://ddkanq.vip/zhibo/35018.html
 
 01:30 [g]Belgian Pro League[z]	^-
 Club Brugge vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383150/club-brugge-vs-kv-mechelen.html
+Club Brugge vs Mechelen	`0https://www.marza12.shop/football/2969464-club-brugge-vs-mechelen.html
 Saint Gilloise vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383152/union-saint-gilloise-vs-kaa-gent.html
+Saint Gilloise vs KAA Gent	`0https://www.marza12.shop/football/2969465-saint-gilloise-vs-kaa-gent.html
 
 01:45 [g]English Football League Champ[z]	^-
 Charlton Athletic vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203496/charlton-athletic-vs-ipswich-town.html
