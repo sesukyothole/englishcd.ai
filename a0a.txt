@@ -35,17 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23.04.2026	^-
 
-02:30 [y]Spanish La Liga[z]	^-
-FC Barcelona vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209771/fc-barcelona-vs-rc-celta.html
-FC Barcelona vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd5.php
-FC Barcelona vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd6.php
-FC Barcelona vs Real Celta Vigo	https://hls.livelivelive.space/live/4358446.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-02:45 [g]Portuguese Cup[z]	^-
-FC Porto vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4350355/fc-porto-vs-sporting-cp.html
-FC Porto vs Sporting CP	`0https://v3.sportssonline.click/channels/hd/hd8.php
-FC Porto vs Sporting CP	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
-
 05:00 [g]Brazilian Cup[z]	^-
 Goias vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387592/gois-ec-vs-cruzeiro---mg.html
 Goias vs Cruzeiro Esporte	`0https://v3.sportssonline.click/channels/bra/br1.php
