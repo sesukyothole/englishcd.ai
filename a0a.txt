@@ -2,7 +2,7 @@
 	^-
 ^=	^-
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
-^=Live Soccer TV Guide	`0https://www.livesoccertv.com/
+^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
@@ -34,10 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 	^-
 
 22.04.2026	^-
-
-05:15 [g]Brazilian Cup[z]	^-
-Sao Paulo vs Juventude	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388610/so-paulo---sp-vs-juventude.html
-Sao Paulo vs Juventude	`0https://v3.sportssonline.click/channels/bra/br1.php
 
 05:30 [g]Brazilian Cup[z]	^-
 Grêmio vs Confiança	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388609/grmio---rs-vs-ad-confiana.html
@@ -91,6 +87,8 @@ Orenburg vs Pari NN	https://hls.livelivelive.space/live/4379136.m3u8?txSecret=d3
 
 23:00 [g]AFC Champions League 2[z]	^-
 Al Nassr FC vs Al-Ahli Doha	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4391720/al-nassr-fc-vs-al-ahli-doha.html
+Al Nassr FC vs Al-Ahli Doha	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Al Nassr FC vs Al-Ahli Doha	`0https://v3.sportssonline.click/channels/bra/br6.php
 
 23:00 [g]Danish Superliga[z]	^-
 Vejle BK vs Silkeborg	https://ddkanq.vip/zhibo/35008.html
@@ -104,9 +102,13 @@ Dynamo Moscow vs Rubin Kazan	https://ddkanq.vip/zhibo/35009.html
 
 00:00 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200108/paris-saint-germain-vs-fc-nantes.html
+Paris Saint Germain vs Nantes	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Paris Saint Germain vs Nantes	`0https://v3.sportssonline.click/channels/hd/hd4.php
 
 00:00 [y]Spanish La Liga[z]	^-
 Elche vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209764/elche-vs-atletico-madrid.html
+Elche vs Atletico Madrid	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Elche vs Atletico Madrid	`0https://v3.sportssonline.click/channels/hd/hd6.php
 
 00:00 [g]Sweden Allsvenskan[z]	^-
 Västerås vs Häcken	https://ddkanq.vip/zhibo/35016.html
@@ -119,6 +121,7 @@ Galatasaray vs Genclerbirligi	`Fhttps://www.fctv33.net/football/turkish-cup-matc
 
 01:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209769/real-sociedad-vs-getafe.html
+Real Sociedad vs Getafe	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
 01:00 [y]Netherlands Eredivisie[z]	^-
 Telstar vs Sparta Rotterdam	https://ddkanq.vip/zhibo/35018.html
@@ -136,25 +139,39 @@ Sheffield Utd vs Blackburn Rovers	https://ddkanq.vip/zhibo/35024.html
 
 01:45 [g]DFB Pokal[z]	^-
 Bayer Leverkusen vs Bayern Munchen	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4371521/bayer-04-leverkusen-vs-fc-bayern-munich.html
+Bayer Leverkusen vs Bayern Munchen	`0https://v3.sportssonline.click/channels/hd/hd2.php
+Bayer Leverkusen vs Bayern Munchen	`0https://v3.sportssonline.click/channels/hd/hd3.php
 
 02:00 [y]English Premier League[z]	^-
 Burnley vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193908/burnley-vs-manchester-city.html
+Burnley vs Manchester City	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Burnley vs Manchester City	`0https://v3.sportssonline.click/channels/pt/eleven2.php
 Bournemouth AFC vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193954/bournemouth-afc-vs-leeds-united.html
+Bournemouth AFC vs Leeds United	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 02:00 [g]Coppa Italia[z]	^-
 Atalanta vs Lazio	`Fhttps://www.fctv33.net/football/coppa-italia-match-4353972/atalanta-vs-lazio.html
+Atalanta vs Lazio	`0https://v3.sportssonline.click/channels/hd/hd7.php
+Atalanta vs Lazio	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 
 02:00 [g]Coupe de France[z]	^-
 Strasbourg vs Nice	`Fhttps://www.fctv33.net/football/coupe-de-france-match-4367519/rc-strasbourg-alsace-vs-ogc-nice.html
+Strasbourg vs Nice	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Strasbourg vs Nice	`0https://v3.sportssonline.click/channels/pt/sporttv4.php
 
 02:30 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209771/fc-barcelona-vs-rc-celta.html
+FC Barcelona vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd5.php
+FC Barcelona vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd6.php
 
 02:45 [g]Portuguese Cup[z]	^-
 FC Porto vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4350355/fc-porto-vs-sporting-cp.html
+FC Porto vs Sporting CP	`0https://v3.sportssonline.click/channels/hd/hd8.php
+FC Porto vs Sporting CP	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
 
 05:00 [g]Brazilian Cup[z]	^-
 Goias vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387592/gois-ec-vs-cruzeiro---mg.html
+Goias vs Cruzeiro Esporte	`0https://v3.sportssonline.click/channels/bra/br1.php
 Bahia vs Remo Belem PA	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387633/bahia---ba-vs-remo---pa.html
 
 05:30 [g]Brazilian Cup[z]	^-
@@ -162,6 +179,7 @@ Santos vs Coritiba	`0https://v3.sportssonline.click/channels/bra/br4.php
 
 05:00 [g]Copa Argentina[z]	^-
 Atletico Acassuso vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/copa-argentina-match-4391171/club-atletico-acassuso-vs-gimnasia-la-plata.html
+Atletico Acassuso vs Gimnasia Plata	`https://v3.sportssonline.click/channels/hd/hd9.php
 
 06:20 [g]Categoría Primera A[z]	^-
 Medellín vs Boyacá Chicó	`0https://v3.sportssonline.click/channels/hd/hd8.php
