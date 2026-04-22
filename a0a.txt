@@ -35,13 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 22.04.2026	^-
 
-10:05 [g]Mexico Liga MX[z]	^-
-Monterrey vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322557/monterrey-vs-puebla.html
-Monterrey vs Puebla	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Monterrey vs Puebla	https://hls.livelivelive.space/live/4465549.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Club León vs Club América	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322554/club-leon-vs-club-america.html
-Club León vs Club América	https://hls.livelivelive.space/live/4465553.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 15:30 Super League	^-
 PSIM Yogyakarta vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229527/psim-yogyakarta-vs-persatuan-sepakbola-indonesia-jakarta.html
 PSIM Yogyakarta vs Persija Jakarta	`0https://www.marza12.shop/football/2826400-psim-yogyakarta-vs-persija-jakarta.html
@@ -185,6 +178,7 @@ Atletico Acassuso vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/copa-argen
 Atletico Acassuso vs Gimnasia Plata	`https://v3.sportssonline.click/channels/hd/hd9.php
 
 06:20 [g]Categoría Primera A[z]	^-
+Medellín vs Boyacá Chicó	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331518/depindependiente-medellin-vs-boyaca-chico.html
 Medellín vs Boyacá Chicó	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Medellín vs Boyacá Chicó	https://ddkanq.vip/zhibo/35031.html
 
@@ -193,13 +187,19 @@ Fortaleza vs CRB	`0https://v3.sportssonline.click/channels/bra/br5.php
 Athletic Club vs Internacional	`0https://v3.sportssonline.click/channels/bra/br3.php
 
 06:30 [g]US Major League Soccer[z]	^-
+Toronto FC vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317455/toronto-fc-vs-philadelphia-union.html
 Toronto FC vs Philadelphia Union	https://ddkanq.vip/zhibo/35036.html
+Orlando City vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317551/orlando-city-vs-charlotte-fc.html
 Orlando City vs Charlotte FC	https://ddkanq.vip/zhibo/35035.html
+New York Red Bull vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317485/new-york-red-bulls-vs-dc-united.html
 New York Red Bull vs DC United	https://ddkanq.vip/zhibo/35034.html
+New York City vs Cincinnati FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317453/new-york-city-fc-vs-fc-cincinnati.html
 New York City vs Cincinnati FC	https://ddkanq.vip/zhibo/35033.html
+Columbus Crew vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317533/columbus-crew-vs-los-angeles-galaxy.html
 Columbus Crew vs Los Angeles Galaxy	https://ddkanq.vip/zhibo/35032.html
 
 06:45 [g]US Major League Soccer[z]	^-
+Atlanta United vs New England Revo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317486/atlanta-united-vs-new-england-revolution.html
 Atlanta United vs New England Revo	https://ddkanq.vip/zhibo/35038.html
 
 07:15 [g]Copa Argentina[z]	^-
@@ -207,33 +207,44 @@ Deportivo Morón vs Midland	`Fhttps://www.fctv33.net/football/copa-argentina-mat
 Deportivo Morón vs Midland	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
 07:30 [g]US Major League Soccer[z]	^-
+Houston Dynamo vs San Diego FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317549/houston-dynamo-vs-san-diego-fc.html
 Houston Dynamo vs San Diego FC	https://ddkanq.vip/zhibo/35040.html
+FC Dallas vs Minnesota United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317547/fc-dallas-vs-minnesota-united-fc.html
 FC Dallas vs Minnesota United	https://ddkanq.vip/zhibo/35039.html
 
 07:30 [g]Brazilian Cup[z]	^-
 RB Bragantino vs Mirassol	`0https://v3.sportssonline.click/channels/bra/br2.php
+Flamengo vs Vitória	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388916/flamengo---rj-vs-vitria---ba.html
 Flamengo vs Vitória	`0https://v3.sportssonline.click/channels/bra/br1.php
 
 08:00 [g]Mexico Liga MX[z]	^-
+Atlas vs Tigres UANL	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322562/atlas-vs-tigres-uanl.html
 Atlas vs Tigres UANL	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Atlas vs Tigres UANL	https://ddkanq.vip/zhibo/35042.html
+Mazatlán vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322551/mazatlan-fc-vs-toluca.html
 Mazatlán vs Toluca	`0https://v3.sportssonline.click/channels/hd/hd10.php
 Mazatlán vs Toluca	https://ddkanq.vip/zhibo/35043.html
+San Luis vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322555/atletico-san-luis-vs-santos-laguna.html
 San Luis vs Santos Laguna	https://ddkanq.vip/zhibo/35041.html
 
 08:30 [g]Categoría Primera A[z]	^-
+Fortaleza CEIF vs América de Cali	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331470/fortaleza-fc-vs-america-de-cali.html
 Fortaleza CEIF vs América de Cali	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Fortaleza CEIF vs América de Cali	https://ddkanq.vip/zhibo/35045.html
 
 08:30 [g]US Major League Soccer[z]	^-
+Real Salt Lake vs Inter Miami	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317419/real-salt-lake-vs-inter-miami-cf.html
 Real Salt Lake vs Inter Miami	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Real Salt Lake vs Inter Miami	https://ddkanq.vip/zhibo/35044.html
 
 09:30 [g]US Major League Soccer[z]	^-
+San Jose Earthquake vs Austin FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317536/san-jose-earthquakes-vs-austin-fc.html
 San Jose Earthquake vs Austin FC	https://ddkanq.vip/zhibo/35049.html
+Los Angeles FC vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317535/los-angeles-fc-vs-colorado-rapids.html
 Los Angeles FC vs Colorado Rapids	https://ddkanq.vip/zhibo/35048.html
 
 10:05 [g]Mexico Liga MX[z]	^-
+Necaxa vs Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322558/necaxa-vs-club-deportivo-guadalajara.html
 Necaxa vs Guadalajara	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Necaxa vs Guadalajara	https://ddkanq.vip/zhibo/35050.html
 Tijuana vs Pachuca	https://ddkanq.vip/zhibo/35051.html
