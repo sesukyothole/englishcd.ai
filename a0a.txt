@@ -39,7 +39,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 FC Barcelona vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209771/fc-barcelona-vs-rc-celta.html
 FC Barcelona vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd5.php
 FC Barcelona vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd6.php
-FC Barcelona vs Real Celta Vigo	https://hls.livelivelive.space/live/4358446.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&amp;txTime=1775317118
+FC Barcelona vs Real Celta Vigo	https://hls.livelivelive.space/live/4358446.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 02:45 [g]Portuguese Cup[z]	^-
 FC Porto vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-cup-match-4350355/fc-porto-vs-sporting-cp.html
@@ -61,7 +61,7 @@ Atletico Acassuso vs Gimnasia Plata	`https://v3.sportssonline.click/channels/hd/
 06:20 [g]Categoría Primera A[z]	^-
 Medellín vs Boyacá Chicó	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331518/depindependiente-medellin-vs-boyaca-chico.html
 Medellín vs Boyacá Chicó	`0https://v3.sportssonline.click/channels/hd/hd8.php
-Medellín vs Boyacá Chicó	https://ddkanq.vip/zhibo/35031.html
+Medellín vs Boyacá Chicó	https://hls.livelivelive.space/live/4477713.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 06:30 [g]Brazilian Cup[z]	^-
 Fortaleza vs CRB	`0https://v3.sportssonline.click/channels/bra/br5.php
@@ -69,15 +69,15 @@ Athletic Club vs Internacional	`0https://v3.sportssonline.click/channels/bra/br3
 
 06:30 [g]US Major League Soccer[z]	^-
 Toronto FC vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317455/toronto-fc-vs-philadelphia-union.html
-Toronto FC vs Philadelphia Union	https://ddkanq.vip/zhibo/35036.html
+Toronto FC vs Philadelphia Union	https://hls.livelivelive.space/live/4460209.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Orlando City vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317551/orlando-city-vs-charlotte-fc.html
-Orlando City vs Charlotte FC	https://ddkanq.vip/zhibo/35035.html
+Orlando City vs Charlotte FC	https://hls.livelivelive.space/live/4460208.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 New York Red Bull vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317485/new-york-red-bulls-vs-dc-united.html
-New York Red Bull vs DC United	https://ddkanq.vip/zhibo/35034.html
+New York Red Bull vs DC United	https://hls.livelivelive.space/live/4460207.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 New York City vs Cincinnati FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317453/new-york-city-fc-vs-fc-cincinnati.html
-New York City vs Cincinnati FC	https://ddkanq.vip/zhibo/35033.html
+New York City vs Cincinnati FC	https://hls.livelivelive.space/live/4460206.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 Columbus Crew vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317533/columbus-crew-vs-los-angeles-galaxy.html
-Columbus Crew vs Los Angeles Galaxy	https://ddkanq.vip/zhibo/35032.html
+Columbus Crew vs Los Angeles Galaxy	https://hls.livelivelive.space/live/4460205.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 06:45 [g]US Major League Soccer[z]	^-
 Atlanta United vs New England Revo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317486/atlanta-united-vs-new-england-revolution.html
