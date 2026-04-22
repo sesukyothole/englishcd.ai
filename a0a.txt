@@ -35,10 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 22.04.2026	^-
 
-17:00 [g]Japanese J1 League[z]	^-
-Gamba Osaka vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331690/gamba-osaka-vs-avispa-fukuoka.html
-Gamba Osaka vs Avispa Fukuoka	https://hls.livelivelive.space/live/4470811.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 17:30 [g]Korean K League 1[z]	^-
 Daejeon Citizen vs Jeju United	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336091/daejeon-citizen-vs-jeju-sk-fc.html
 Daejeon Citizen vs Jeju United	https://hls.livelivelive.space/live/4480347.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
