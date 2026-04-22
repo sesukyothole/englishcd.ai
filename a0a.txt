@@ -85,6 +85,7 @@ FC Dallas vs Minnesota United	https://hls.livelivelive.space/live/4460211.m3u8?t
 07:30 [g]Brazilian Cup[z]	^-
 Flamengo vs Vitória	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388916/flamengo---rj-vs-vitria---ba.html
 Flamengo vs Vitória	`0https://v3.sportssonline.click/channels/bra/br1.php
+RB Bragantino vs Mirassol	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4385170/red-bull-bragantino-vs-mirassol---sp.html
 RB Bragantino vs Mirassol	`0https://v3.sportssonline.click/channels/bra/br2.php
 
 08:00 [g]Mexico Liga MX[z]	^-
@@ -117,6 +118,7 @@ Los Angeles FC vs Colorado Rapids	https://hls.livelivelive.space/live/4460214.m3
 Necaxa vs Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322558/necaxa-vs-club-deportivo-guadalajara.html
 Necaxa vs Guadalajara	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Necaxa vs Guadalajara	https://hls.livelivelive.space/live/4465545.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
+Tijuana vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322559/club-tijuana-vs-pachuca.html
 Tijuana vs Pachuca	https://hls.livelivelive.space/live/4465576.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
 
 	^-
