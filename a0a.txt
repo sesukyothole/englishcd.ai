@@ -35,15 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 22.04.2026	^-
 
-15:30 Super League	^-
-PSIM Yogyakarta vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229527/psim-yogyakarta-vs-persatuan-sepakbola-indonesia-jakarta.html
-PSIM Yogyakarta vs Persija Jakarta	`0https://www.marza12.shop/football/2826400-psim-yogyakarta-vs-persija-jakarta.html
-Persis Solo FC vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229626/persis-solo-fc-vs-bhayangkara-presisi-indonesia-fc.html
-Persis Solo FC vs Bhayangkara	`0https://www.marza12.shop/football/2826399-persis-solo-fc-vs-bhayangkara-solo-fc.html
-
-15:30 [l]AFF U17 Youth Championship[z]	^-
-Laos vs Malaysia	`0https://www.marza12.shop/football/2978131-laos-u17-vs-malaysia-u17.html
-
 17:00 [g]Japanese J1 League[z]	^-
 Gamba Osaka vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331690/gamba-osaka-vs-avispa-fukuoka.html
 Gamba Osaka vs Avispa Fukuoka	https://hls.livelivelive.space/live/4470811.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
@@ -75,6 +66,7 @@ Al Nassr FC vs Al-Ahli Doha	`0https://v3.sportssonline.click/channels/bra/br6.ph
 Al Nassr FC vs Al-Ahli Doha	https://ddkanq.vip/zhibo/35006.html
 
 23:00 [g]Danish Superliga[z]	^-
+Vejle BK vs Silkeborg	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368406/vejle-vs-silkeborg.html
 Vejle BK vs Silkeborg	https://ddkanq.vip/zhibo/35008.html
 Copenhagen vs Odense Boldklub	https://ddkanq.vip/zhibo/35007.html
 
