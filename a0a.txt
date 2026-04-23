@@ -35,17 +35,8 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23.04.2026	^-
 
-05:00 [g]Brazilian Cup[z]	^-
-Goias vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387592/gois-ec-vs-cruzeiro---mg.html
-Goias vs Cruzeiro Esporte	`0https://v3.sportssonline.click/channels/bra/br1.php
-Bahia vs Remo Belem PA	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387633/bahia---ba-vs-remo---pa.html
-
 05:30 [g]Brazilian Cup[z]	^-
 Santos vs Coritiba	`0https://v3.sportssonline.click/channels/bra/br4.php
-
-05:00 [g]Copa Argentina[z]	^-
-Atletico Acassuso vs Gimnasia Plata	`Fhttps://www.fctv33.net/football/copa-argentina-match-4391171/club-atletico-acassuso-vs-gimnasia-la-plata.html
-Atletico Acassuso vs Gimnasia Plata	`https://v3.sportssonline.click/channels/hd/hd9.php
 
 06:20 [g]Categoría Primera A[z]	^-
 Medellín vs Boyacá Chicó	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331518/depindependiente-medellin-vs-boyaca-chico.html
