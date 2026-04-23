@@ -35,19 +35,15 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23.04.2026	^-
 
-10:05 [g]Mexico Liga MX[z]	^-
-Necaxa vs Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322558/necaxa-vs-club-deportivo-guadalajara.html
-Necaxa vs Guadalajara	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Necaxa vs Guadalajara	https://hls.livelivelive.space/live/4465545.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-Tijuana vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322559/club-tijuana-vs-pachuca.html
-Tijuana vs Pachuca	https://hls.livelivelive.space/live/4465576.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
 15:30 Super League	^-
 Persita Tangerang vs Bali United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229529/persita-tangerang-vs-bali-united.html
 PSM Makassar vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229539/persatuan-sepakbola-makassar-vs-persatuan-sepak-bola-indonesia-kediri.html
 
 19:00 Super League	^-
 Malut United vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229526/malut-united-vs-persebaya-surabaya.html
+
+19:15 Malaysian Super League	^-
+Melaka FC vs Sabah FC	`0https://www.marza12.shop/football/2822368-melaka-fc-vs-sabah.html
 
 21:30 [g]Russian Premier League[z]	^-
 Akron Togliatti vs FK Makhachkala	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201341/akron-togliatti-vs-dynamo-makhachkala.html
@@ -94,7 +90,7 @@ Sonderjyske vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-ma
 
 01:00 [g]Saudi Arabia Kings Cup[z]	^-
 Al Hilal SFC vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4391441/al-hilal-vs-al-kholood.html
-Damac vs Akordo	https://ddkanq.vip/zhibo/35069.html
+Damac vs Al Okhdood	https://ddkanq.vip/zhibo/35069.html
 
 01:30 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383151/sint-truidense-vs-anderlecht.html
@@ -119,11 +115,9 @@ Palmeiras vs Jacuipense	`0https://v3.sportssonline.click/channels/bra/br4.php
 
 06:00 [g]Argentine Division 1[z]	^-
 Defensa y Justicia vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322044/defensa-y-justicia-vs-boca-juniors.html
-Defensa y Justicia vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
 06:00 [g]Categoría Primera A[z]	^-
 Deportivo Pasto vs Santa Fe	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331593/deportivo-pasto-vs-independiente-santa-fe.html
-Deportivo Pasto vs Santa Fe	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 07:00 [g]CHI Liga de Primera[z]	^-
 Palestino vs Concepción	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330217/colo-colo-vs-palestino.html
