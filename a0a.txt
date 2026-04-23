@@ -41,19 +41,6 @@ Samsunspor vs Trabzonspor	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Samsunspor vs Trabzonspor	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
 Samsunspor vs Trabzonspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqpe5mfW5VjzWp5.m3u8
 
-23:00 [g]Danish Superliga[z]	^-
-Randers vs Fredericia	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368401/randers-fc-vs-fredericia.html
-Randers vs Fredericia https://ddkanq.vip/zhibo/35056.html
-Randers vs Fredericia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuXntZBo7rwe5.m3u8
-Nordsjaelland vs Aarhus AGF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368427/nordsjaelland-vs-aarhus-agf.html
-Nordsjaelland vs Aarhus AGF https://ddkanq.vip/zhibo/35055.html
-Nordsjaelland vs Aarhus AGF	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYxoGHSrKCWh.m3u8
-
-23:10 [g]Saudi Arabia Kings Cup[z]	^-
-Al Najma vs Al Taawoun	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256073/al-najmaksa-vs-al-taawoun.html
-Al Najma vs Al Taawoun https://ddkanq.vip/zhibo/35057.html
-Al Najma vs Al Taawoun	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76BHUbNWdr4W1.m3u8
-
 23:45 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199196/go-ahead-eagles-vs-az-alkmaar.html
 Go Ahead Eagles vs AZ Alkmaar	`0https://v3.sportssonline.click/channels/hd/hd11.php
@@ -101,22 +88,26 @@ Besiktas JK vs Alanyaspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqpe5
 Rayo Vallecano vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209719/rayo-vallecano-vs-rcd-espanyol-de-barcelona.html
 Rayo Vallecano vs RCD Espanyol	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Rayo Vallecano vs RCD Espanyol	`0https://v3.sportssonline.click/channels/pt/eleven3.php
-Rayo Vallecano vs RCD Espanyol	https://ddkanq.vip/zhibo/35067.html
+Rayo Vallecano vs RCD Espanyol https://ddkanq.vip/zhibo/35067.html
+Rayo Vallecano vs RCD Espanyol	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYdoyTdZyNp3Fj.m3u8
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216097/casa-pia-ac-vs-sporting-braga.html
 Casa Pia AC vs Sporting Braga	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
-Casa Pia AC vs Sporting Braga	https://ddkanq.vip/zhibo/35068.html
+Casa Pia AC vs Sporting Braga https://ddkanq.vip/zhibo/35068.html
+Casa Pia AC vs Sporting Braga	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtWivUZMAomBK.m3u8
 
 01:00 [g]Danish Superliga[z]	^-
 Sonderjyske vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368417/sonderjyske-vs-midtjylland.html
-Sonderjyske vs Midtjylland	https://ddkanq.vip/zhibo/35070.html
+Sonderjyske vs Midtjylland https://ddkanq.vip/zhibo/35070.html
+Sonderjyske vs Midtjylland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYxurj4HnwyP.m3u8
 
 01:00 [g]Saudi Arabia Kings Cup[z]	^-
+Damac vs Al Okhdood	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256075/damac-vs-al-okhdood.html
+Damac vs Al Okhdood https://ddkanq.vip/zhibo/35069.html
+Damac vs Al Okhdood	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76B87hgY8nhcZ.m3u8
 Al Hilal SFC vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4391441/al-hilal-vs-al-kholood.html
 Al Hilal SFC vs Al Kholood	`0https://v3.sportssonline.click/channels/hd/hd4.php
-Damac vs Al Okhdood	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256075/damac-vs-al-okhdood.html
-Damac vs Al Okhdood	https://ddkanq.vip/zhibo/35069.html
 
 01:30 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383151/sint-truidense-vs-anderlecht.html
