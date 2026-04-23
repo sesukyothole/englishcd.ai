@@ -35,10 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23.04.2026	^-
 
-21:30 [g]Russian Premier League[z]	^-
-Akron Togliatti vs FK Makhachkala	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201341/akron-togliatti-vs-dynamo-makhachkala.html
-Akron Togliatti vs FK Makhachkala	https://hls.livelivelive.space/live/4357082.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&amp;txTime=1775317118
-
 22:45 [g]Turkish Cup[z]	^-
 Samsunspor vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4387517/samsunspor-vs-trabzonspor.html
 Samsunspor vs Trabzonspor	`0https://v3.sportssonline.click/channels/hd/hd8.php
@@ -58,11 +54,13 @@ Al Najma vs Al Taawoun	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76BHUb
 23:45 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199196/go-ahead-eagles-vs-az-alkmaar.html
 Go Ahead Eagles vs AZ Alkmaar	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Go Ahead Eagles vs AZ Alkmaar	https://ddkanq.vip/zhibo/35058.html
+Go Ahead Eagles vs AZ Alkmaar https://ddkanq.vip/zhibo/35058.html
+Go Ahead Eagles vs AZ Alkmaar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvhyEXiGLWtV.m3u8
 
 23:45 [g]Russian Premier League[z]	^-
 Spartak Moscow vs Krasnodar	https://ddkanq.vip/zhibo/35060.html
-Akhmat Grozny vs Baltika Kaliningrad	https://ddkanq.vip/zhibo/35059.html
+Akhmat Grozny vs Baltika Kaliningrad https://ddkanq.vip/zhibo/35059.html
+Akhmat Grozny vs Baltika Kaliningrad	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs9msoUh3nVyqBb.m3u8
 
 24.04.2026	^-
 
