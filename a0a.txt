@@ -35,19 +35,13 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 24.04.2026	^-
 
-07:00 [g]CHI Liga de Primera[z]	^-
-Palestino vs Concepción	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330217/colo-colo-vs-palestino.html
-Palestino vs Concepción	https://ddkanq.vip/zhibo/35078.html
-
-07:30 [g]Brazilian Cup[z]	^-
-Athletico-PR vs Atlético Goianiense	`0https://v3.sportssonline.click/channels/bra/br1.php
-Operário PR vs Fluminense	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388891/operario-ferroviario-pr-vs-fluminense---rj.html
-Operário PR vs Fluminense	`0https://v3.sportssonline.click/channels/bra/br3.php
-
 08:00 [g]Categoría Primera A[z]	^-
 Millonarios vs Deportes Tolima	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331580/millonarios-vs-deportes-tolima.html
 Millonarios vs Deportes Tolima	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Millonarios vs Deportes Tolima	https://ddkanq.vip/zhibo/35080.html
+
+15:30 Super League	^-
+Persijap Jepara vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229621/persatuan-sepakbola-indonesia-jepara-vs-psbs-biak-numfor.html
 
 16:35 [g]Australia A-League[z]	^-
 MacArthur vs Wellington Phoenix	https://ddkanq.vip/zhibo/35082.html
@@ -56,18 +50,83 @@ MacArthur vs Wellington Phoenix	https://ddkanq.vip/zhibo/35082.html
 Kashiwa Reysol vs Kashima Antlers	https://ddkanq.vip/zhibo/35084.html
 FC Tokyo vs Mito Hollyhock	https://ddkanq.vip/zhibo/35083.html
 
+19:00 Super League	^-
+Persib Bandung vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229530/persib-bandung-vs-arema-fc.html
+
 19:00 [g]Thai Super League[z]	^-
-Sukhothai vs Lachabri Province	https://ddkanq.vip/zhibo/35095.html
+Sukhothai vs Ratchaburi FC	https://ddkanq.vip/zhibo/35095.html
+
+20:00 Malaysian Super League	^-
+Kelantan United vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221182/kelantan-the-real-warriors-vs-selangor-fc.html
 
 21:00 [g]Romanian Super Liga[z]	^-
 Hermannstadt vs Miejurchuk	https://ddkanq.vip/zhibo/35098.html
 
 21:00 [g]Finnish Super League[z]	^-
-Vasa vs Elvis	https://ddkanq.vip/zhibo/35097.html
-TPS Turku vs Gernistan	https://ddkanq.vip/zhibo/35096.html
+TPS Turku vs Gnistan Helsinki	https://ddkanq.vip/zhibo/35096.html
+Vaasa VPS vs Ilves Tampere	https://ddkanq.vip/zhibo/35097.html
 
 22:45 [g]Saudi Professional League[z]	^-d
 Al Fateh vs Al Khaleej	https://ddkanq.vip/zhibo/35099.html
+
+00:00 [g]Turkish Super League[z]	^-
+Istanbul Buyuksehir vs Kasimpasa	`0https://v3.sportssonline.click/channels/hd/hd11.php
+
+01:00 [g]Saudi Arabia Kings Cup[z]	^-
+Al Nassr vs Al Ittifaq	`0https://v3.sportssonline.click/channels/hd/hd8.php
+
+01:30 [y]Bundesliga[z]	^-
+RB Leipzig vs Union Berlin	`0https://v3.sportssonline.click/channels/hd/hd3.php
+
+01:30 [g]Poland Liga 1[z]	^-
+Wisła Kraków vs Puszcza Niepołomice	`0https://v3.sportssonline.click/channels/hd/hd10.php
+
+01:45 [y]Italian Serie A[z]	^-
+Napoli vs Cremonese	`0https://v3.sportssonline.click/channels/hd/hd5.php
+
+01:45 [y]French Ligue 1[z]	^-
+Stade Brestois vs Lens	`0https://v3.sportssonline.click/channels/hd/hd4.php
+
+01:45 [g]Belgian Pro League[z]	^-
+Cercle Brugge vs FCV Dender EH	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382863/cercle-brugge-vs-fcv-dender-eh.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Real Betis vs Real Madrid	`0https://v3.sportssonline.click/channels/hd/hd2.php
+
+02:00 [y]English Premier League[z]	^-
+Sunderland AFC vs Nottingham Forest	`0https://v3.sportssonline.click/channels/hd/hd1.php
+
+02:00 [g]English Football League Champ[z]	^-
+Leicester City vs Millwall	`0https://v3.sportssonline.click/channels/hd/hd11.php
+
+02:15 [g]Portuguese Primera Liga[z]	^-
+Alverca vs FC Arouca	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+
+03:00 [g]Argentine Division 1[z]	^-
+Deportivo Riestra vs Independiente	`0https://v3.sportssonline.click/channels/hd/hd9.php
+
+04:00 [g]Categoria Primera A[z]	^-
+Cúcuta Deportivo vs Atletico Junior	`0https://v3.sportssonline.click/channels/hd/hd8.php
+
+05:00 [g]CHI Liga de Primera[z]	^-
+Union La Calera vs Coquimbo Unido	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330246/union-la-calera-vs-coquimbo-unido.html
+
+05:15 [g]Argentine Division 1[z]	^-
+Lanús vs Central Córdoba SDE	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Estudiantes Río vs Rosario Central	`0https://v3.sportssonline.click/channels/hd/hd10.php
+
+06:00 [g]Canadian Premier League[z]	^-
+Supra du Quebec vs HFX Wanderers	`0https://v3.sportssonline.click/channels/hd/hd11.php
+
+07:30 [g]Argentine Division 1[z]	^-
+CA Platense vs San Lorenzo	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Racing Club vs Barracas Central	`0https://v3.sportssonline.click/channels/hd/hd10.php
+
+07:30 [g]CHI Liga de Primera[z]	^-
+Audax Italiano vs Deportes Limache	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330256/audax-italiano-vs-deportes-limache.html
+
+10:00 [g]Mexico Liga MX[z]	^-
+Puebla vs Querétaro	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -984,9 +1043,11 @@ fox1mex	`0https://tv.sportsnews.id/p/fox1mex.html
 fox2	`0https://tv.sportsnews.id/p/fox2.html
 fox2ar	`0https://tv.sportsnews.id/p/fox2ar.html
 fox2mex	`0https://tv.sportsnews.id/p/fox2mex.html
-fox3	`0https://tv.sportsnews.id/p/fox3.html   
+fox3	`0https://tv.sportsnews.id/p/fox3.html 
+
 fox3ar	`0https://tv.sportsnews.id/p/fox3ar.html  
-fox3mex	`0https://tv.sportsnews.id/p/fox3mex.html    
+fox3mex	`0https://tv.sportsnews.id/p/fox3mex.html 
+ 
 fubo1	`0https://tv.sportsnews.id/p/fubo1.html
 fubo2	`0https://tv.sportsnews.id/p/fubo2.html  
 go3s1	`0https://tv.sportsnews.id/p/go3s1.html
@@ -1025,12 +1086,14 @@ nova2sk	`0https://tv.sportsnews.id/p/nova2sk.html
 nova2y	`0https://tv.sportsnews.id/p/nova2y.html
 nova3y	`0https://tv.sportsnews.id/p/nova3y.html
 nova4y	`0https://tv.sportsnews.id/p/nova4y.html 
-nova5y	`0https://tv.sportsnews.id/p/nova5y.html   
+nova5y	`0https://tv.sportsnews.id/p/nova5y.html 
+
 nova6y	`0https://tv.sportsnews.id/p/nova6y.html 
 npo1	`0https://tv.sportsnews.id/p/npo-nl.html
 plays1	`0https://tv.sportsnews.id/p/plays1.html
 plays2	`0https://tv.sportsnews.id/p/plays2.html
-plays3	`0https://tv.sportsnews.id/p/plays3.html    
+plays3	`0https://tv.sportsnews.id/p/plays3.html 
+ 
 pptv	`0https://tv.sportsnews.id/p/pptv.html
 premier1	`0https://tv.sportsnews.id/p/premier1.html
 premier2	`0https://tv.sportsnews.id/p/premier2.html  
@@ -1059,7 +1122,8 @@ skycalcio	`0https://tv.sportsnews.id/p/skycalcio.html
 skyf1	`0https://tv.sportsnews.id/p/skyf1.html
 skyfbl	`0https://tv.sportsnews.id/p/skyfbl.html
 skygp	`0https://tv.sportsnews.id/p/skygp.html
-skylaliga	`0https://tv.sportsnews.id/p/skylaliga.html    
+skylaliga	`0https://tv.sportsnews.id/p/skylaliga.html 
+ 
 skyme	`0https://tv.sportsnews.id/p/skyme.html
 skymix	`0https://tv.sportsnews.id/p/skymix.html
 skypl	`0https://tv.sportsnews.id/p/skypl.html
@@ -2601,7 +2665,7 @@ TV ONE USA	`1https://daddylives.click/embed/stream-660.php
 TV2 Bornholm Denmark	`1https://daddylives.click/embed/stream-807.php
 TV2 Denmark	`1https://daddylives.click/embed/stream-817.php
 TV2 Sport Denmark	`1https://daddylives.click/embed/stream-810.php
-TV2 Sport X Denmark	`1https://daddylives.click/embed/stream-808.php
+TV2 Sport vs Denmark	`1https://daddylives.click/embed/stream-808.php
 TV2 Zulu	`1https://daddylives.click/embed/stream-818.php
 TV3 Max Dnmark	`1https://daddylives.click/embed/stream-223.php
 TV3 Sport Denmark	`1https://daddylives.click/embed/stream-809.php
