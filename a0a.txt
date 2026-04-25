@@ -23,7 +23,7 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
-^@[].f[w]👉Settings	`0Site settings	`0Pop-ups & redirects: Allow.👈[z]f.	^-
+^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
 ^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
@@ -73,6 +73,7 @@ Kawasaki Frontale vs Ichihara Chiba	https://ddkanq.vip/zhibo/35132.html
 
 14:00 [g]Australia A-League[z]	^-
 Newcastle Jets vs Coast Mariners	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282205/newcastle-jets-vs-central-coast-mariners.html
+Newcastle Jets vs Coast Mariners	`0https://www.marza12.shop/football/2871800-newcastle-jets-vs-central-coast-mariners.html
 
 14:00 [g]Japanese J1 League[z]	^-
 Hiroshima Sanfrecce vs Cerezo Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331676/sanfrecce-hiroshima-vs-cerezo-osaka.html
@@ -86,6 +87,7 @@ Bucheon FC 1995 vs Gimcheon Sangmu	https://ddkanq.vip/zhibo/35135.html
 
 15:30 Super League	^-
 Madura United vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229534/madura-united-vs-dewa-united-fc.html
+Madura United vs Dewa United FC	`0https://www.marza12.shop/football/2826407-madura-united-vs-dewa-united-fc.html
 
 15:30 Championship	^-
 Sriwijaya FC vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352295/sriwijaya-fc-vs-garudayaksa-fc.html
@@ -93,6 +95,7 @@ Persela Lamongan vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-c
 
 16:00 Malaysian Super League	^-
 PDRM vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221181/pdrm-fc-vs-imigresen-fc.html
+PDRM vs Imigresen FC	`0https://www.marza12.shop/football/2822422-pdrm-vs-imigresen-fc.html
 
 16:35 [g]Australia A-League[z]	^-
 Western Sydney vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282142/western-sydney-vs-melbourne-victory.html
@@ -100,6 +103,7 @@ Western Sydney vs Melbourne Victory	https://ddkanq.vip/zhibo/35138.html
 
 18:00 [g]Thai League 1[z]	^-
 Chiangrai United vs Bangkok United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320333/chiangrai-united-vs-bangkok-united-fc.html
+Chiangrai United vs Bangkok United	`0https://www.marza12.shop/football/2910398-chiangrai-united-vs-bangkok-united-fc.html
 
 18:30 [y]English Premier League[z]	^-
 Fulham vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194032/fulham-vs-aston-villa.html
@@ -115,9 +119,11 @@ Charlton vs Hull City	https://ddkanq.vip/zhibo/35148.html
 
 18:30 [g]Thai League 1[z]	^-
 BG Pathum Utd vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320332/bg-pathum-united-vs-nakhon-ratchasima-mazda-fc.html
+BG Pathum Utd vs Nakhon Ratchasima	`0https://www.marza12.shop/football/2910399-bg-pathum-united-vs-nakhon-ratchasima.html
 
 18:45 [g]Australia A-League[z]	^-
 Perth Glory vs Brisbane Roar	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282145/perth-glory-vs-brisbane-roar.html
+Perth Glory vs Brisbane Roar	`0https://www.marza12.shop/football/2871802-perth-glory-vs-brisbane-roar.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209629/deportivo-alavs-vs-rcd-mallorca.html
@@ -127,9 +133,11 @@ Deportivo Alavés vs Mallorca	https://ddkanq.vip/zhibo/35155.html
 
 19:00 Super League	^-
 Borneo FC vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229664/borneo-fc-vs-semen-padang.html
+Borneo FC vs Semen Padang	`0https://www.marza12.shop/football/2826406-borneo-fc-samarinda-vs-semen-padang.html
 
 19:00 [g]Thai League 1[z]	^-
 Uthai Thani Forest vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320334/uthai-thani-forest-vs-port-fc.html
+Uthai Thani Forest vs Port FC	`0https://www.marza12.shop/football/2910400-uthai-thani-fc-vs-port-fc.html
 
 19:00 Championship	^-
 Persikad Depok vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352289/persikad-depok-vs-fc-bekasi-city.html
@@ -138,6 +146,7 @@ PSIS Semarang vs Kendal Tornado FC	`Fhttps://www.fctv33.net/football/indonesian-
 
 19:15 Malaysian Super League	^-
 DPMM FC vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221174/dpmm-fc-vs-kuching-city-fc.html
+DPMM FC vs Kuching FA	`0https://www.marza12.shop/football/2822423-dpmm-fc-vs-kuching-fa.html
 
 20:00 [y]Italian Serie A[z]	^-
 Parma vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194770/parma-vs-pisa.html
@@ -153,6 +162,7 @@ Lyon vs AJ Auxerre	https://ddkanq.vip/zhibo/35160.html
 
 20:00 Malaysian Super League	^-
 Terengganu vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221262/terengganu-fc-vs-negeri-sembilan.html
+Terengganu vs Negeri Sembilan	`0https://www.marza12.shop/football/2822424-terengganu-vs-negeri-sembilan.html
 
 20:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199867/1-fsv-mainz-05-vs-fc-bayern-munich.html
@@ -255,6 +265,7 @@ Celtic FC vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-premiership-matc
 Celtic FC vs Falkirk	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 21:30 [y]Netherlands Eredivisie[z]	^-
+SC Heerenveen vs Fortuna Sittard	`0https://www.marza12.shop/football/2790977-sc-heerenveen-vs-fortuna-sittard.html
 SC Heerenveen vs Fortuna Sittard	https://ddkanq.vip/zhibo/35188.html
 
 26.04.2026	^-
@@ -304,7 +315,8 @@ Atletico Madrid vs Athletic Bilbao	`0https://v3.sportssonline.click/channels/pt/
 Atletico Madrid vs Athletic Bilbao	https://ddkanq.vip/zhibo/35200.html
 
 02:00 [y]Netherlands Eredivisie[z]	^-
-Twente vs Nijmegen	https://ddkanq.vip/zhibo/35201.html
+Twente vs NEC Nijmegen	`0https://www.marza12.shop/football/2790982-fc-twente-enschede-vs-nec-nijmegen.html
+Twente vs NEC Nijmegen	https://ddkanq.vip/zhibo/35201.html
 
 02:00 [g]CHI Liga de Primera[z]	^-
 Nublense vs O.Higgins	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330247/nublense-vs-ohiggins.html
@@ -358,10 +370,11 @@ Univ de Chile vs Univ Catolica	https://ddkanq.vip/zhibo/35213.html
 
 05:15 [g]Argentine Division 1[z]	^-
 Sarmiento Junin vs Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322042/sarmiento-junin-vs-club-atletico-tigre.html
+Sarmiento Junin vs Atletico Tigre	`0https://www.marza12.shop/football/2910290-sarmiento-junin-vs-club-atletico-tigre.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
-^@[].f[w]👉Settings	`0Site settings	`0Pop-ups & redirects: Allow.👈[z]f.	^-
+^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
 ^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
