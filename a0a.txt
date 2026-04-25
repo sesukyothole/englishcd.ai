@@ -41,7 +41,6 @@ Madura United vs Dewa United FC	`0https://www.marza12.shop/football/2826407-madu
 
 15:30 Championship	^-
 Sriwijaya FC vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352295/sriwijaya-fc-vs-garudayaksa-fc.html
-https://stream.livenobarseru.com/id/match/sriwijaya-fc-vs-garudayaksa-fc-1777105800
 Persela Lamongan vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352299/persela-lamongan-vs-barito-putera.html
 
 16:00 Malaysian Super League	^-
@@ -99,6 +98,7 @@ Borneo FC vs Semen Padang	`0https://www.marza12.shop/football/2826406-borneo-fc-
 19:00 [g]Thai League 1[z]	^-
 Uthai Thani Forest vs Port FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320334/uthai-thani-forest-vs-port-fc.html
 Uthai Thani Forest vs Port FC	`0https://www.marza12.shop/football/2910400-uthai-thani-fc-vs-port-fc.html
+Uthai Thani Forest vs Port FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61SgtYYqZ1iUCM.m3u8
 
 19:00 Championship	^-
 Persikad Depok vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352289/persikad-depok-vs-fc-bekasi-city.html
@@ -108,22 +108,26 @@ PSIS Semarang vs Kendal Tornado FC	`Fhttps://www.fctv33.net/football/indonesian-
 19:15 Malaysian Super League	^-
 DPMM FC vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221174/dpmm-fc-vs-kuching-city-fc.html
 DPMM FC vs Kuching FA	`0https://www.marza12.shop/football/2822423-dpmm-fc-vs-kuching-fa.html
+DPMM FC vs Kuching FA	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vdDpmuq4fAys.m3u8
 
 20:00 [y]Italian Serie A[z]	^-
 Parma vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194770/parma-vs-pisa.html
 Parma vs Pisa	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Parma vs Pisa	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 Parma vs Pisa	https://ddkanq.vip/zhibo/35158.html
+Parma vs Pisa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3HLvNbXszAhj.m3u8
 
 20:00 [y]French Ligue 1[z]	^-
 Lyon vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200170/lyon-vs-aj-auxerre.html
 Lyon vs AJ Auxerre	`0https://v3.sportssonline.click/channels/hd/hd4.php
 Lyon vs AJ Auxerre	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
 Lyon vs AJ Auxerre	https://ddkanq.vip/zhibo/35160.html
+Lyon vs AJ Auxerre	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5QmjBKBcUy6V.m3u8
 
 20:00 Malaysian Super League	^-
 Terengganu vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221262/terengganu-fc-vs-negeri-sembilan.html
 Terengganu vs Negeri Sembilan	`0https://www.marza12.shop/football/2822424-terengganu-vs-negeri-sembilan.html
+Terengganu vs Negeri Sembilan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vdDwNMSW8vSZ.m3u8
 
 20:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199867/1-fsv-mainz-05-vs-fc-bayern-munich.html
