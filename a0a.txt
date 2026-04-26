@@ -35,20 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 26.04.2026	^-
 
-08:07 [g]Mexico Liga MX[z]	^-
-Chivas Guadalajara vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322563/club-deportivo-guadalajara-vs-club-tijuana.html
-Chivas Guadalajara vs Club Tijuana	`0https://v3.sportssonline.click/channels/hd/hd5.php
-
-08:30 [g]US Major League Soccer[z]	^-
-San Diego FC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317534/san-diego-fc-vs-portland-timbers.html
-San Diego FC vs Portland Timbers	`0https://www.marza12.shop/football/2908553-san-diego-fc-vs-portland-timbers.html
-San Diego FC vs Portland Timbers	https://hls.livelivelive.space/live/4460227.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-08:30 [g]Categoría Primera A[z]	^-
-Dep.Indep Medellin vs Fortaleza FC	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331599/depindependiente-medellin-vs-fortaleza-fc.html
-Dep.Indep Medellin vs Fortaleza FC	`0https://v3.sportssonline.click/channels/hd/hd8.php
-Dep.Indep Medellin vs Fortaleza FC	https://hls.livelivelive.space/live/4477791.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 09:30 [g]US Major League Soccer[z]	^-
 Seattle Sounders vs FC Dallas	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317418/seattle-sounders-vs-fc-dallas.html
 Seattle Sounders vs FC Dallas	`0https://www.marza12.shop/football/2908554-seattle-sounders-vs-fc-dallas.html
@@ -224,31 +210,38 @@ Hibernian vs Heart of Midlothian	`0https://www.marza12.shop/football/2974193-hib
 Torino vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194559/torino-vs-inter-milan.html
 Torino vs Inter Milan	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Torino vs Inter Milan	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Torino vs Inter Milan	https://ddkanq.vip/zhibo/35279.html
 
 23:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209773/ca-osasuna-vs-sevilla-fc.html
 Osasuna vs Sevilla	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Osasuna vs Sevilla	`0https://v3.sportssonline.click/channels/hd/hd6.php
+Osasuna vs Sevilla	https://ddkanq.vip/zhibo/35282.html
 
 23:30 [g]CHI Liga de Primera[z]	^-
 Deportes La Serena vs Huachipato	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330249/deportes-la-serena-vs-huachipato.html
+Deportes La Serena vs Huachipato	https://ddkanq.vip/zhibo/35286.html
 
 23:30 [g]Belgian Pro League[z]	^-
 Anderlecht vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383156/anderlecht-vs-union-saint-gilloise.html
 Anderlecht vs Saint Gilloise	`0https://www.marza12.shop/football/2969469-anderlecht-vs-saint-gilloise.html
+Anderlecht vs Saint Gilloise	https://ddkanq.vip/zhibo/35287.html
 
 27.04.2026	^-
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Estrela da Amadora vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216196/cf-estrela-amadora-sad-vs-fc-porto.html
 Estrela da Amadora vs FC Porto	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+Estrela da Amadora vs FC Porto	https://ddkanq.vip/zhibo/35288.html
 Santa Clara vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216207/santa-clara-vs-sporting-braga.html
 Santa Clara vs Sporting Braga	`0https://v3.sportssonline.click/channels/pt/sporttv4.php
+Santa Clara vs Sporting Braga	https://ddkanq.vip/zhibo/35289.html
 
 00:00 [g]Turkish Super League[z]	^-
 Galatasaray vs Fenerbahce	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216906/galatasaray-vs-fenerbahce.html
 Galatasaray vs Fenerbahce	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Galatasaray vs Fenerbahce	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Galatasaray vs Fenerbahce	https://ddkanq.vip/zhibo/35290.html
 
 00:00 [g]Canadian Premier League[z]	^-
 Atletico Ottawa vs Vancouver FC	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4352734/atletico-ottawa-vs-vancouver-fc.html
@@ -259,47 +252,59 @@ AEL Larisa vs Panserraikos	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
 00:15 [g]Belgian Pro League[z]	^-
 Zulte-Waregem vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382864/zulte-waregem-vs-raal-la-louvire.html
+Zulte-Waregem vs LaLouviere	https://ddkanq.vip/zhibo/35292.html
 
 01:00 [g]Argentine Division 1[z]	^-
 Indep Rivadavia vs Gimnasia Mendoza	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321943/independiente-rivadavia-vs-gimnasia-y-esgrima-de-mendoza.html
 Indep Rivadavia vs Gimnasia Mendoza	`0https://www.marza12.shop/football/2910280-independiente-rivadavia-vs-gimnasia-mendoza.html
+Indep Rivadavia vs Gimnasia Mendoza	https://ddkanq.vip/zhibo/35293.html
 
 01:00 [g]Danish Superliga[z]	^-
 Aarhus AGF vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368428/aarhus-agf-vs-midtjylland.html
+Aarhus AGF vs Midtjylland	https://ddkanq.vip/zhibo/35294.html
 
 01:45 [y]Italian Serie A[z]	^-
 AC Milan vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194676/ac-milan-vs-juventus.html
 AC Milan vs Juventus	`0https://v3.sportssonline.click/channels/hd/hd1.php
 AC Milan vs Juventus	`0https://v3.sportssonline.click/channels/hd/hd7.php
+AC Milan vs Juventus	https://ddkanq.vip/zhibo/35297.html
 
 01:45 [y]French Ligue 1[z]	^-
 Marseille vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200205/marseille-vs-ogc-nice.html
 Marseille vs Nice	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Marseille vs Nice	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Marseille vs Nice	https://ddkanq.vip/zhibo/35296.html
 
 02:00 [y]Spanish La Liga[z]	^-
 Villarreal vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209775/villarreal-cf-vs-rc-celta.html
 Villarreal vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Villarreal vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd3.php
+Villarreal vs Real Celta Vigo	https://ddkanq.vip/zhibo/35298.html
 
 02:00 [g]Brazilian Serie A[z]	^-
 Corinthians SP vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323209/corinthians---sp-vs-vasco-da-gama-saf---rj.html
 Corinthians SP vs Vasco da Gama	`0https://v3.sportssonline.click/channels/bra/br3.php
+Corinthians SP vs Vasco da Gama	https://ddkanq.vip/zhibo/35301.html
 Gremio RS vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324057/grmio---rs-vs-coritiba-saf---pr.html
 Gremio RS vs Coritiba PR	`0https://v3.sportssonline.click/channels/bra/br4.php
+Gremio RS vs Coritiba PR	https://ddkanq.vip/zhibo/35300.html
 
 02:00 [g]CHI Liga de Primera[z]	^-
 Univ de Concepcion vs Colo Colo	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330248/universidad-de-concepcion-vs-colo-colo.html
+Univ de Concepcion vs Colo Colo	https://ddkanq.vip/zhibo/35302.html
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216183/avs-futebol-sad-vs-sporting-cp.html
 AVS Futebol SAD vs Sporting CP	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+AVS Futebol SAD vs Sporting CP	https://ddkanq.vip/zhibo/35303.html
 
 03:30 [g]Argentine Division 1[z]	^-
 Newells Old Boys vs Instituto	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321946/club-atltico-newells-old-boys-vs-instituto-de-crdoba.html
 Newells Old Boys vs Instituto	`0https://www.marza12.shop/football/2910284-newells-old-boys-vs-instituto-ac-cordoba.html
+Newells Old Boys vs Instituto	https://ddkanq.vip/zhibo/35305.html
 Belgrano vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322041/belgrano-vs-gimnasia-la-plata.html
 Belgrano vs Gimnasia La Plata	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Belgrano vs Gimnasia La Plata	https://ddkanq.vip/zhibo/35306.html
 
 04:00 [g]Categoría Primera A[z]	^-
 Aguilas Doradas vs Dep Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331596/aguilas-doradas-vs-deportiva-once-caldas.html
@@ -308,11 +313,14 @@ Aguilas Doradas vs Dep Once Caldas	`0https://v3.sportssonline.click/channels/hd/
 04:30 [g]Brazilian Serie A[z]	^-
 Athletico Paranaense vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324054/athletico-paranaense---pr-vs-vitria---ba.html
 Athletico Paranaense vs Vitoria BA	`0https://v3.sportssonline.click/channels/bra/br5.php
+Athletico Paranaense vs Vitoria BA	https://ddkanq.vip/zhibo/35308.html
 Bragantino vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324095/red-bull-bragantino-vs-palmeiras---sp.html
 Bragantino vs Palmeiras	`0https://v3.sportssonline.click/channels/bra/br4.php
+Bragantino vs Palmeiras	https://ddkanq.vip/zhibo/35307.html
 
 04:30 [g]CHI Liga de Primera[z]	^-
 Everton CD vs Cobresal	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330252/everton-cd-vs-cobresal.html
+Everton CD vs Cobresal	https://ddkanq.vip/zhibo/35309.html
 
 05:00 [g]Canadian Premier League[z]	^-
 Pacific vs Forge	`0https://v3.sportssonline.click/channels/hd/hd5.php
@@ -320,32 +328,40 @@ Pacific vs Forge	`0https://v3.sportssonline.click/channels/hd/hd5.php
 06:00 [g]US Major League Soccer[z]	^-
 Los Angeles Galaxy vs Real Salt Lake	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317567/los-angeles-galaxy-vs-real-salt-lake.html
 Los Angeles Galaxy vs Real Salt Lake	`0https://www.marza12.shop/football/2908557-los-angeles-galaxy-vs-real-salt-lake.html
+Los Angeles Galaxy vs Real Salt Lake	https://ddkanq.vip/zhibo/35310.html
 
 06:00 [g]Argentine Division 1[z]	^-
 Atletico Tucuman vs Banfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321951/atletico-tucuman-vs-banfield.html
 Atletico Tucuman vs Banfield	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Atletico Tucuman vs Banfield	https://ddkanq.vip/zhibo/35311.html
 
 06:00 [g]Mexico Liga MX[z]	^-
 Santos Laguna vs Monterrey	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322565/santos-laguna-vs-monterrey.html
 Santos Laguna vs Monterrey	`0https://v3.sportssonline.click/channels/hd/hd6.php
+Santos Laguna vs Monterrey	https://ddkanq.vip/zhibo/35312.html
 
 06:10 [g]Categoría Primera A[z]	^-
 Llaneros FC vs Alianza Petrolera	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331598/llaneros-fc-vs-alianza-ftbol-club.html
 Llaneros FC vs Alianza Petrolera	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Llaneros FC vs Alianza Petrolera	https://ddkanq.vip/zhibo/35314.html
 
 06:30 [g]Brazilian Serie A[z]	^-
 Fluminense RJ vs Chapecoense SC	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324052/fluminense---rj-vs-chapecoense---sc.html
 Fluminense RJ vs Chapecoense SC	`0https://v3.sportssonline.click/channels/bra/br3.php
+Fluminense RJ vs Chapecoense SC	https://ddkanq.vip/zhibo/35316.html
 Atletico Mineiro vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324059/atltico-mineiro---mg-vs-flamengo---rj.html
 Atletico Mineiro vs Flamengo	`0https://v3.sportssonline.click/channels/bra/br1.php
+Atletico Mineiro vs Flamengo	https://ddkanq.vip/zhibo/35315.html
 
 08:05 [g]Mexico Liga MX[z]	^-
 CDSyC Cruz Azul vs Necaxa	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322560/cruz-azul-vs-necaxa.html
 CDSyC Cruz Azul vs Necaxa	`0https://v3.sportssonline.click/channels/hd/hd6.php
+CDSyC Cruz Azul vs Necaxa	https://ddkanq.vip/zhibo/35317.html
 
 08:20 [g]Categoría Primera A[z]	^-
 La Equidad vs Boyaca Chico	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331591/internacional-de-bogota-vs-boyaca-chico.html
 La Equidad vs Boyaca Chico	`0https://v3.sportssonline.click/channels/hd/hd8.php
+La Equidad vs Boyaca Chico	https://ddkanq.vip/zhibo/35318.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
