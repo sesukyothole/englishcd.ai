@@ -65,22 +65,28 @@ FC Juarez vs Atletico San Luis	https://hls.livelivelive.space/live/4465542.m3u8?
 10:10 [g]Mexico Liga MX[z]	^-
 Club America vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322564/club-america-vs-atlas.html
 Club America vs Atlas	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Club America vs Atlas	https://hls.livelivelive.space/live/4465554.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 12:00 [g]Australia A-League[z]	^-
 Sydney FC vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282144/sydney-fc-vs-auckland-fc.html
 Sydney FC vs Auckland FC	`0https://www.marza12.shop/football/2871803-sydney-fc-vs-auckland-fc.html
+Sydney FC vs Auckland FC	https://hls.livelivelive.space/live/4426748.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 12:00 [g]Korean K League 1[z]	^-
 Jeonbuk Hyundai vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336119/jeonbuk-hyundai-motors-vs-pohang-steelers.html
 Jeonbuk Hyundai vs Pohang Steelers	`0https://www.marza12.shop/football/2929612-jeonbuk-hyundai-motors-vs-pohang-steelers.html
+Jeonbuk Hyundai vs Pohang Steelers	https://hls.livelivelive.space/live/4480343.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 14:30 [g]Australia A-League[z]	^-
 Melbourne City vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282134/melbourne-city-vs-adelaide-united.html
 Melbourne City vs Adelaide United	`0https://www.marza12.shop/football/2871804-melbourne-city-vs-adelaide-united.html
+Melbourne City vs Adelaide United	https://hls.livelivelive.space/live/4426749.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 14:30 [g]Korean K League 1[z]	^-
 Gwangju FC vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336130/gwangju-football-club-vs-fc-anyang.html
+Gwangju FC vs FC Anyang	https://hls.livelivelive.space/live/4480400.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Ulsan Hyundai FC vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336131/ulsan-hd-fc-vs-daejeon-citizen.html
+Ulsan Hyundai FC vs Daejeon Citizen	https://hls.livelivelive.space/live/4480396.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 15:30 Championship	^-
 Persekat Tegal vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352293/persekat-tegal-vs-persiraja-aceh.html
@@ -89,14 +95,19 @@ Persipal Palu vs Persipura Jayapura	`Fhttps://www.fctv33.net/football/indonesian
 16:00 Malaysian Super League	^-
 Penang vs Sabah FC	`0https://www.marza12.shop/football/2822425-penang-vs-sabah.html
 
+16:30 [g]Japanese J1 League[z]	^-
+V-Varen Nagasaki vs Gamba Osaka	https://hls.livelivelive.space/live/4505302.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
 17:15 [y]Netherlands Eredivisie[z]	^-
 Excelsior vs Utrecht	`0https://www.marza12.shop/football/2790974-excelsior-sbv-vs-fc-utrecht.html
 Excelsior vs Utrecht	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Excelsior vs Utrecht	https://hls.livelivelive.space/live/4344793.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 17:30 [y]Italian Serie A[z]	^-
 Fiorentina vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194849/fiorentina-vs-sassuolo.html
 Fiorentina vs Sassuolo	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Fiorentina vs Sassuolo	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Fiorentina vs Sassuolo	https://hls.livelivelive.space/live/4344793.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 18:00 [g]English Football League Champ[z]	^-
 Coventry City vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203677/coventry-city-vs-wrexham.html
@@ -124,6 +135,7 @@ KAA Gent vs Club Brugge	`0https://www.marza12.shop/football/2969467-kaa-gent-vs-
 Rayo Vallecano vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209720/rayo-vallecano-vs-real-sociedad.html
 Rayo Vallecano vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Rayo Vallecano vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd6.php
+Rayo Vallecano vs Real Sociedad	https://hls.livelivelive.space/live/4358456.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 [g]Thai League 1[z]	^-
 Ayutthaya Utd vs Prachuap Khiri	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320329/ayutthaya-united-vs-pt-prachuap-fc.html
@@ -139,16 +151,19 @@ Persiba Balikpapan vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-ch
 19:30 [y]Netherlands Eredivisie[z]	^-
 Heracles vs Volendam	`0https://www.marza12.shop/football/2790978-heracles-almelo-vs-volendam.html
 Heracles vs Volendam	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Heracles vs Volendam	https://hls.livelivelive.space/live/4344734.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:00 [y]Italian Serie A[z]	^-
 Genoa vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194847/genoa-vs-como.html
 Genoa vs Como	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Genoa vs Como	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Genoa vs Como	https://hls.livelivelive.space/live/4339727.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:00 [y]French Ligue 1[z]	^-
 Lorient vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200204/lorient-vs-rc-strasbourg-alsace.html
 Lorient vs Strasbourg	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Lorient vs Strasbourg	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Lorient vs Strasbourg	https://hls.livelivelive.space/live/4347955.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:00 [g]Greek Super League[z]	^-
 AE Kifisias vs Panaitolikos Agrinio	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386210/ae-kifisias-vs-panetolikos-agrinio.html
@@ -158,30 +173,38 @@ AE Kifisias vs Panaitolikos Agrinio	`0https://v3.sportssonline.click/channels/hd
 VfB Stuttgart vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199854/vfb-stuttgart-vs-sv-werder-bremen.html
 VfB Stuttgart vs Werder Bremen	`0https://v3.sportssonline.click/channels/hd/hd3.php
 VfB Stuttgart vs Werder Bremen	`0https://v3.sportssonline.click/channels/pt/eleven2.php
+VfB Stuttgart vs Werder Bremen	https://hls.livelivelive.space/live/4347624.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:00 [g]Belgian Pro League[z]	^-
 Mechelen vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383147/kv-mechelen-vs-sint-truidense.html
+Mechelen vs Sint-Truidense	https://hls.livelivelive.space/live/4521200.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:00 [y]FA Cup[z]	^-
 Chelsea vs Leeds United	`Fhttps://www.fctv33.net/football/fa-cup-match-4390277/chelsea-vs-leeds-united.html
 Chelsea vs Leeds United	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Chelsea vs Leeds United	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+Chelsea vs Leeds United	https://hls.livelivelive.space/live/4527722.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:15 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209667/real-oviedo-vs-elche.html
 Real Oviedo vs Elche	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Real Oviedo vs Elche	`0https://v3.sportssonline.click/channels/pt/eleven1.php
+Real Oviedo vs Elche	https://hls.livelivelive.space/live/4358455.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 Estoril vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216215/estoril-vs-fc-famalicao.html
 Estoril vs FC Famalicao	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Estoril vs FC Famalicao	https://hls.livelivelive.space/live/4369060.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 22:15 [y]French Ligue 1[z]	^-
 Rennes vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200166/stade-rennais-fc-vs-fc-nantes.html
+Rennes vs Nantes	https://hls.livelivelive.space/live/4347959.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Le Havre vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200188/havre-athletic-club-vs-metz.html
+Le Havre vs Metz	https://hls.livelivelive.space/live/4347954.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Paris FC vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200215/paris-fc-vs-losc-lille.html
 Paris FC vs Lille	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Paris FC vs Lille	`0https://v3.sportssonline.click/channels/hd/hd4.php
+Paris FC vs Lille	https://hls.livelivelive.space/live/4347958.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 22:30 [g]PKO Bank Polski EKSTRAKLASA[z]	^-
 Lech Poznan vs Legia Warszawa	`Fhttps://www.fctv33.net/football/pko-bank-polski-ekstraklasa-match-4195380/lech-poznan-vs-legia-warszawa.html
@@ -191,6 +214,7 @@ Lech Poznan vs Legia Warszawa	`0https://www.marza12.shop/football/2785536-lech-p
 Borussia Dortmund vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199858/borussia-dortmund-vs-sc-freiburg.html
 Borussia Dortmund vs SC Freiburg	`0https://v3.sportssonline.click/channels/hd/hd3.php
 Borussia Dortmund vs SC Freiburg	`0https://v3.sportssonline.click/channels/pt/eleven2.php
+Borussia Dortmund vs SC Freiburg	https://hls.livelivelive.space/live/4347654.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 22:30 [g]Scottish Premiership[z]	^-
 Hibernian vs Heart of Midlothian	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387795/hibernian-vs-heart-of-midlothian.html
