@@ -35,14 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 26.04.2026	^-
 
-12:00 [g]Australia A-League[z]	^-
-Sydney FC vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282144/sydney-fc-vs-auckland-fc.html
-Sydney FC vs Auckland FC	https://hls.livelivelive.space/live/4426748.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-12:00 [g]Korean K League 1[z]	^-
-Jeonbuk Hyundai vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336119/jeonbuk-hyundai-motors-vs-pohang-steelers.html
-Jeonbuk Hyundai vs Pohang Steelers	https://hls.livelivelive.space/live/4480343.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 14:30 [g]Australia A-League[z]	^-
 Melbourne City vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282134/melbourne-city-vs-adelaide-united.html
 Melbourne City vs Adelaide United	https://hls.livelivelive.space/live/4426749.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
