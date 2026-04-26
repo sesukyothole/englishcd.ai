@@ -35,16 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 26.04.2026	^-
 
-17:15 [y]Netherlands Eredivisie[z]	^-
-Excelsior vs Utrecht	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Excelsior vs Utrecht	https://hls.livelivelive.space/live/4344793.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-17:30 [y]Italian Serie A[z]	^-
-Fiorentina vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194849/fiorentina-vs-sassuolo.html
-Fiorentina vs Sassuolo	`0https://v3.sportssonline.click/channels/hd/hd7.php
-Fiorentina vs Sassuolo	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
-Fiorentina vs Sassuolo	https://hls.livelivelive.space/live/4344793.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 18:00 [g]English Football League Champ[z]	^-
 Coventry City vs Wrexham	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203677/coventry-city-vs-wrexham.html
 Coventry City vs Wrexham	`0https://v3.sportssonline.click/channels/hd/hd1.php
