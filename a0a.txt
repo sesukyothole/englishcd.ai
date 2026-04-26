@@ -35,26 +35,26 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 26.04.2026	^-
 
-05:15 [g]Argentine Division 1[z]	^-
-Sarmiento Junin vs Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322042/sarmiento-junin-vs-club-atletico-tigre.html
-Sarmiento Junin vs Atletico Tigre	`0https://www.marza12.shop/football/2910290-sarmiento-junin-vs-club-atletico-tigre.html
-Sarmiento Junin vs Atletico Tigre	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LuWTpxGdwfwCZ.m3u8
-
 06:00 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Mazatlan FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322561/tigres-uanl-vs-mazatlan-fc.html
+Tigres UANL vs Mazatlan FC	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Pachuca vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322567/pachuca-vs-pumas-unam.html
+Pachuca vs Pumas UNAM	``0https://v3.sportssonline.click/channels/hd/hd10.php
 
 06:10 [g]Categoría Primera A[z]	^-
 Deportivo Cali vs America de Cali	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331600/deportivo-cali-vs-america-de-cali.html
+Deportivo Cali vs America de Cali	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 06:30 [g]US Major League Soccer[z]	^-
-FC Cincinnati vs New York Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317463/fc-cincinnati-vs-new-york-red-bulls.html
 Inter Miami CF vs New England Revo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317572/inter-miami-cf-vs-new-england-revolution.html
+Inter Miami CF vs New England Revo	`0https://v3.sportssonline.click/channels/hd/hd1.php
+FC Cincinnati vs New York Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317463/fc-cincinnati-vs-new-york-red-bulls.html
 Columbus Crew vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317596/columbus-crew-vs-philadelphia-union.html
 DC United vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317600/dc-united-vs-orlando-city.html
 
 07:00 [g]Brazilian Serie A[z]	^-
 Sao Paulo vs Mirassol	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324046/so-paulo---sp-vs-mirassol---sp.html
+Sao Paulo vs Mirassol	``0https://v3.sportssonline.click/channels/bra/br4.php
 
 07:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs FC Kansas City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317484/chicago-fire-vs-sporting-kansas-city.html
@@ -64,28 +64,34 @@ Austin FC vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-majo
 
 07:30 [g]Argentine Division 1[z]	^-
 River Plate vs Aldosivi Mar Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322040/river-plate-vs-aldosivi-mar-del-plata.html
+River Plate vs Aldosivi Mar Plata	`0https://v3.sportssonline.click/channels/hd/hd9.php
+River Plate vs Aldosivi Mar Plata	`0https://v3.sportssonline.click/channels/bra/br6.php
 
 08:00 [g]Mexico Liga MX[z]	^-
 Toluca vs Club Leon	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322566/toluca-vs-club-leon.html
+Toluca vs Club Leon	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 08:07 [g]Mexico Liga MX[z]	^-
 Chivas Guadalajara vs Club Tijuana	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322563/club-deportivo-guadalajara-vs-club-tijuana.html
+Chivas Guadalajara vs Club Tijuana	`0https://v3.sportssonline.click/channels/hd/hd5.php
 
 08:30 [g]US Major League Soccer[z]	^-
-San Diego FC vs Portland Timbers	`F
+San Diego FC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317534/san-diego-fc-vs-portland-timbers.html
 
 08:30 [g]Categoría Primera A[z]	^-
-Dep.Indep Medellin vs Fortaleza FC	`F
+Dep.Indep Medellin vs Fortaleza FC	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331599/depindependiente-medellin-vs-fortaleza-fc.html
+Dep.Indep Medellin vs Fortaleza FC	`0https://v3.sportssonline.click/channels/hd/hd8.php
 
 09:30 [g]US Major League Soccer[z]	^-
-Seattle Sounders vs FC Dallas	`F
-Vancouver WC vs Colorado Rapids	`F
+Seattle Sounders vs FC Dallas	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317418/seattle-sounders-vs-fc-dallas.html
+Vancouver WC vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317490/vancouver-whitecaps-vs-colorado-rapids.html
 
 10:00 [g]Mexico Liga MX[z]	^-
-FC Juarez vs Atletico San Luis	`F
+FC Juarez vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322569/fc-juarez-vs-atletico-san-luis.html
 
 10:10 [g]Mexico Liga MX[z]	^-
-Club America vs Atlas	`F
+Club America vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322564/club-america-vs-atlas.html
+Club America vs Atlas	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 12:00 [g]Australia A-League[z]	^-
 Sydney FC vs Auckland FC	`F
