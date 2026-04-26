@@ -45,6 +45,7 @@ Chivas Guadalajara vs Club Tijuana	`0https://v3.sportssonline.click/channels/hd/
 
 08:30 [g]US Major League Soccer[z]	^-
 San Diego FC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317534/san-diego-fc-vs-portland-timbers.html
+San Diego FC vs Portland Timbers	`0https://www.marza12.shop/football/2908553-san-diego-fc-vs-portland-timbers.html
 
 08:30 [g]Categoría Primera A[z]	^-
 Dep.Indep Medellin vs Fortaleza FC	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331599/depindependiente-medellin-vs-fortaleza-fc.html
@@ -52,10 +53,13 @@ Dep.Indep Medellin vs Fortaleza FC	`0https://v3.sportssonline.click/channels/hd/
 
 09:30 [g]US Major League Soccer[z]	^-
 Seattle Sounders vs FC Dallas	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317418/seattle-sounders-vs-fc-dallas.html
+Seattle Sounders vs FC Dallas	`0https://www.marza12.shop/football/2908554-seattle-sounders-vs-fc-dallas.html
 Vancouver WC vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317490/vancouver-whitecaps-vs-colorado-rapids.html
+Vancouver WC vs Colorado Rapids	`0https://www.marza12.shop/football/2908555-vancouver-whitecaps-vs-colorado-rapids.html
 
 10:00 [g]Mexico Liga MX[z]	^-
 FC Juarez vs Atletico San Luis	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322569/fc-juarez-vs-atletico-san-luis.html
+FC Juarez vs Atletico San Luis	`0https://www.marza12.shop/football/2911843-fc-juarez-vs-atletico-san-luis.html
 
 10:10 [g]Mexico Liga MX[z]	^-
 Club America vs Atlas	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4322564/club-america-vs-atlas.html
@@ -63,22 +67,29 @@ Club America vs Atlas	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 12:00 [g]Australia A-League[z]	^-
 Sydney FC vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282144/sydney-fc-vs-auckland-fc.html
+Sydney FC vs Auckland FC	`0https://www.marza12.shop/football/2871803-sydney-fc-vs-auckland-fc.html
 
 12:00 [g]Korean K League 1[z]	^-
 Jeonbuk Hyundai vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336119/jeonbuk-hyundai-motors-vs-pohang-steelers.html
+Jeonbuk Hyundai vs Pohang Steelers	`0https://www.marza12.shop/football/2929612-jeonbuk-hyundai-motors-vs-pohang-steelers.html
 
 14:30 [g]Australia A-League[z]	^-
 Melbourne City vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282134/melbourne-city-vs-adelaide-united.html
+Melbourne City vs Adelaide United	`0https://www.marza12.shop/football/2871804-melbourne-city-vs-adelaide-united.html
 
 14:30 [g]Korean K League 1[z]	^-
-Gwangju Football Club vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336130/gwangju-football-club-vs-fc-anyang.html
+Gwangju FC vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336130/gwangju-football-club-vs-fc-anyang.html
 Ulsan Hyundai FC vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336131/ulsan-hd-fc-vs-daejeon-citizen.html
 
 15:30 Championship	^-
 Persekat Tegal vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352293/persekat-tegal-vs-persiraja-aceh.html
 Persipal Palu vs Persipura Jayapura	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352298/persipal-palu-vs-persipura-jayapura.html
 
+16:00 Malaysian Super League	^-
+Penang vs Sabah FC	`0https://www.marza12.shop/football/2822425-penang-vs-sabah.html
+
 17:15 [y]Netherlands Eredivisie[z]	^-
+Excelsior vs Utrecht	`0https://www.marza12.shop/football/2790974-excelsior-sbv-vs-fc-utrecht.html
 Excelsior vs Utrecht	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 17:30 [y]Italian Serie A[z]	^-
@@ -93,16 +104,20 @@ Coventry City vs Wrexham	`0https://v3.sportssonline.click/channels/pt/sporttv2.p
 
 18:00 [g]Thai League 1[z]	^-
 Rayong FC vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320335/rayong-fc-vs-lamphun-warriors.html
+Rayong FC vs Lamphun Warrior	`0https://www.marza12.shop/football/2910401-rayong-fc-vs-lamphun-warrior.html
 
 18:30 [g]Singapore Premier League[z]	^-
 Geylang United vs Lion City Sailors	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258831/geylang-united-fc-vs-lion-city-sailors.html
 
 18:30 [g]Thai League 1[z]	^-
 Singha Kanchanaburi vs Buriram Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320330/kanchanaburi-power-fc-vs-buriram-united.html
+Singha Kanchanaburi vs Buriram Utd	`0https://www.marza12.shop/football/2910403-dp-kanchanaburi-vs-buriram-united.html
 Chonburi Shark vs Muang Thong Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320331/chonburi-fc-vs-muangthong-united.html
+Chonburi Shark vs Muang Thong Utd	`0https://www.marza12.shop/football/2910402-chonburi-shark-fc-vs-muang-thong-united.html
 
 18:30 [g]Belgian Pro League[z]	^-
 KAA Gent vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383149/kaa-gent-vs-club-brugge.html
+KAA Gent vs Club Brugge	`0https://www.marza12.shop/football/2969467-kaa-gent-vs-club-brugge.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209720/rayo-vallecano-vs-real-sociedad.html
@@ -111,6 +126,7 @@ Rayo Vallecano vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd6
 
 19:00 [g]Thai League 1[z]	^-
 Ayutthaya Utd vs Prachuap Khiri	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320329/ayutthaya-united-vs-pt-prachuap-fc.html
+Ayutthaya Utd vs Prachuap Khiri	`0https://www.marza12.shop/football/2910404-ayutthaya-united-vs-prachuap-khiri-khan.html
 
 19:00 [g]Sweden Allsvenskan[z]	^-
 Djurgardens vs Hammarby	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4331954/djurgardens-vs-hammarby.html
@@ -120,6 +136,7 @@ PSPS Riau vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-champion
 Persiba Balikpapan vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352305/persiba-balikpapan-vs-pss-sleman.html
 
 19:30 [y]Netherlands Eredivisie[z]	^-
+Heracles vs Volendam	`0https://www.marza12.shop/football/2790978-heracles-almelo-vs-volendam.html
 Heracles vs Volendam	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 20:00 [y]Italian Serie A[z]	^-
@@ -167,6 +184,7 @@ Paris FC vs Lille	`0https://v3.sportssonline.click/channels/hd/hd4.php
 
 22:30 [g]PKO Bank Polski EKSTRAKLASA[z]	^-
 Lech Poznan vs Legia Warszawa	`Fhttps://www.fctv33.net/football/pko-bank-polski-ekstraklasa-match-4195380/lech-poznan-vs-legia-warszawa.html
+Lech Poznan vs Legia Warszawa	`0https://www.marza12.shop/football/2785536-lech-poznan-vs-legia-warszawa.html
 
 22:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199858/borussia-dortmund-vs-sc-freiburg.html
@@ -175,6 +193,7 @@ Borussia Dortmund vs SC Freiburg	`0https://v3.sportssonline.click/channels/pt/el
 
 22:30 [g]Scottish Premiership[z]	^-
 Hibernian vs Heart of Midlothian	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387795/hibernian-vs-heart-of-midlothian.html
+Hibernian vs Heart of Midlothian	`0https://www.marza12.shop/football/2974193-hibernian-vs-heart-of-midlothian.html
 
 23:00 [y]Italian Serie A[z]	^-
 Torino vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194559/torino-vs-inter-milan.html
@@ -191,6 +210,7 @@ Deportes La Serena vs Huachipato	`Fhttps://www.fctv33.net/football/chi-liga-de-p
 
 23:30 [g]Belgian Pro League[z]	^-
 Anderlecht vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383156/anderlecht-vs-union-saint-gilloise.html
+Anderlecht vs Saint Gilloise	`0https://www.marza12.shop/football/2969469-anderlecht-vs-saint-gilloise.html
 
 27.04.2026	^-
 
@@ -217,6 +237,7 @@ Zulte-Waregem vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league
 
 01:00 [g]Argentine Division 1[z]	^-
 Indep Rivadavia vs Gimnasia Mendoza	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321943/independiente-rivadavia-vs-gimnasia-y-esgrima-de-mendoza.html
+Indep Rivadavia vs Gimnasia Mendoza	`0https://www.marza12.shop/football/2910280-independiente-rivadavia-vs-gimnasia-mendoza.html
 
 01:00 [g]Danish Superliga[z]	^-
 Aarhus AGF vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368428/aarhus-agf-vs-midtjylland.html
@@ -251,6 +272,7 @@ AVS Futebol SAD vs Sporting CP	`0https://v3.sportssonline.click/channels/pt/spor
 
 03:30 [g]Argentine Division 1[z]	^-
 Newells Old Boys vs Instituto	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321946/club-atltico-newells-old-boys-vs-instituto-de-crdoba.html
+Newells Old Boys vs Instituto	`0https://www.marza12.shop/football/2910284-newells-old-boys-vs-instituto-ac-cordoba.html
 Belgrano vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4322041/belgrano-vs-gimnasia-la-plata.html
 Belgrano vs Gimnasia La Plata	`0https://v3.sportssonline.click/channels/hd/hd9.php
 
@@ -272,6 +294,7 @@ Pacific vs Forge	`0https://v3.sportssonline.click/channels/hd/hd5.php
 
 06:00 [g]US Major League Soccer[z]	^-
 Los Angeles Galaxy vs Real Salt Lake	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317567/los-angeles-galaxy-vs-real-salt-lake.html
+Los Angeles Galaxy vs Real Salt Lake	`0https://www.marza12.shop/football/2908557-los-angeles-galaxy-vs-real-salt-lake.html
 
 06:00 [g]Argentine Division 1[z]	^-
 Atletico Tucuman vs Banfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321951/atletico-tucuman-vs-banfield.html
