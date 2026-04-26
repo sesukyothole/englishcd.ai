@@ -6,7 +6,8 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
-^=Test 808ontv	`Fhttps://play33.808ontv.com/football/2785538-widzew-lodz-vs-motor-lublin.html
+^=808ontv	`Fhttps://play33.808ontv.com/
+^=goals365	`0https://www.goals365.live/
 ^=Blank	
 ^=	^-
 
