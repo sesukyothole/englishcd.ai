@@ -6,6 +6,7 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
+^=Test 808ontv	`0https://play33.808ontv.com/football/2785538-widzew-lodz-vs-motor-lublin.html
 ^=Blank	
 ^=	^-
 
@@ -40,17 +41,6 @@ Rayo Vallecano vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-lig
 Rayo Vallecano vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Rayo Vallecano vs Real Sociedad	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Rayo Vallecano vs Real Sociedad	https://hls.livelivelive.space/live/4358456.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-19:00 [g]Thai League 1[z]	^-
-Ayutthaya Utd vs Prachuap Khiri	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320329/ayutthaya-united-vs-pt-prachuap-fc.html
-Ayutthaya Utd vs Prachuap Khiri	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61Sgtf9HATCDf3.m3u8
-
-19:00 [g]Sweden Allsvenskan[z]	^-
-Djurgardens vs Hammarby	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4331954/djurgardens-vs-hammarby.html
-
-19:00 Championship	^-
-PSPS Riau vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352292/psps-riau-vs-sumsel-united.html
-Persiba Balikpapan vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352305/persiba-balikpapan-vs-pss-sleman.html
 
 19:30 [y]Netherlands Eredivisie[z]	^-
 Heracles vs Volendam	`0https://v3.sportssonline.click/channels/hd/hd11.php
