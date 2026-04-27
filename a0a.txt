@@ -6,8 +6,6 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
-^=808ontv	`Fhttps://play33.808ontv.com/
-^=goals365	`0https://www.goals365.live/
 ^=Blank	
 ^=	^-
 
@@ -37,14 +35,8 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 27.04.2026	^-
 
-05:10 [g]Canadian Premier League[z]	^-
-Pacific vs Forge	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4352738/pacific-fc-vs-forge-fc.html
-Pacific vs Forge	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Pacific vs Forge	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNKoK4Ns8p9Jfam.m3u8
-
 06:00 [g]US Major League Soccer[z]	^-
 Los Angeles Galaxy vs Real Salt Lake	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317567/los-angeles-galaxy-vs-real-salt-lake.html
-Los Angeles Galaxy vs Real Salt Lake	https://ddkanq.vip/zhibo/35310.html
 
 06:00 [g]Argentine Division 1[z]	^-
 Atletico Tucuman vs Banfield	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321951/atletico-tucuman-vs-banfield.html
@@ -2991,6 +2983,8 @@ PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
 PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 
 ^=ddkanq.vip	`0https://ddkanq.vip/
+^=808ontv	`Fhttps://play33.808ontv.com/
+^=goals365	`Fhttps://www.goals365.live/
 ^=Live 1	`0https://24start.net/homes/blog1/
 ^=Live 2	`0https://24start.net/homes/blog2/
 ^=Live 3	`0https://24start.net/homes/blog3/
