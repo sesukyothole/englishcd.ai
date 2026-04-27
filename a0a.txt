@@ -38,6 +38,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 15:30 Super League	^-
 Bali United vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229623/bali-united-vs-persatuan-sepakbola-makassar.html
 Bali United vs PSM Makassar	`0https://www.marza12.shop/football/2826408-bali-united-vs-psm-makassar.html
+Bali United vs PSM Makassar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTNFkZjwUQ7kT9nu.m3u8
 
 15:30 Championship	^-
 Persiku Kudus vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352301/persiku-kudus-vs-deltras-sidoarjo.html
