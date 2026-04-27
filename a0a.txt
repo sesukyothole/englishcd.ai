@@ -56,6 +56,7 @@ Konyaspor vs Trabzonspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcHK
 Lazio vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194681/lazio-vs-udinese.html
 Lazio vs Udinese	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Lazio vs Udinese	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Lazio vs Udinese	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3HWCsKmRPhHP.m3u8
 
 02:00 [y]English Premier League[z]	^-
 Manchester United vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193977/manchester-united-vs-brentford.html
