@@ -35,13 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 27.04.2026	^-
 
-16:45 [g]Australia FFA Cup[z]	^-
-Keilor Park SC vs Preston Lions	`Fhttps://www.fctv33.net/football/australia-ffa-cup-match-4393976/keilor-park-sc-vs-preston-lions.html
-
-18:30 [g]Singapore Premier League[z]	^-
-Balestier Khalsa vs Hougang United	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258837/balestier-khalsa-fc-vs-hougang-united-fc.html
-Balestier Khalsa vs Hougang United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXbzYgzPnhsEVhfT.m3u8
-
 19:00 Super League	^-
 Persija Jakarta vs Persis Solo	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229617/persatuan-sepakbola-indonesia-jakarta-vs-persis-solo-fc.html
 Persija Jakarta vs Persis Solo	`0https://www.marza12.shop/football/2826409-persija-jakarta-vs-persis-solo-fc.html
@@ -91,6 +84,9 @@ Velez Sarsfield vs Atlético Unión	`0https://v3.sportssonline.click/channels/hd
 07:00 [g]Argentine Division 1[z]	^-
 CA Huracan vs Argentinos Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321954/ca-huracan-vs-argentinos-juniors.html
 CA Huracan vs Argentinos Juniors	`0https://v3.sportssonline.click/channels/hd/hd10.php
+
+15:30 Super League	^-
+Arema FC vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229532/arema-fc-vs-persebaya-surabaya.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
