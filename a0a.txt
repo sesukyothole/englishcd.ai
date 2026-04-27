@@ -44,6 +44,7 @@ Alanyaspor vs Samsunspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGo
 Cagliari vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194723/cagliari-vs-atalanta.html
 Cagliari vs Atalanta	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Cagliari vs Atalanta	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Cagliari vs Atalanta	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3HWar8UDerpM.m3u8
 
 28.04.2026	^-
 
@@ -51,8 +52,10 @@ Cagliari vs Atalanta	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 Besiktas JK vs Karagumruk	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216904/besiktas-jk-vs-karagumruk.html
 Besiktas JK vs Karagumruk	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Besiktas JK vs Karagumruk	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Besiktas JK vs Karagumruk	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcG94D6odwp5K.m3u8
 Konyaspor vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216903/konyaspor-vs-trabzonspor.html
 Konyaspor vs Trabzonspor	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
+Konyaspor vs Trabzonspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcHK9ubomXeiR.m3u8
 
 01:45 [y]Italian Serie A[z]	^-
 Lazio vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194681/lazio-vs-udinese.html
