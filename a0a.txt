@@ -66,6 +66,9 @@ Lanus vs Liga Dep. Univ Quito	`Fhttps://www.fctv33.net/football/conmebol-copa-li
 Lanus vs Liga Dep. Univ Quito	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Lanus vs Liga Dep. Univ Quito	`0https://v3.sportssonline.click/channels/hd/hd10.php
 Lanus vs Liga Dep. Univ Quito	https://hls.livelivelive.space/live/4518349.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Libertad vs Indep Jose Teran	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4387004/club-libertad-asuncin-vs-independiente-del-valle.html
+Libertad vs Indep Jose Teran	`0https://v3.sportssonline.click/channels/bra/br4.php
+Libertad vs Indep Jose Teran	https://hls.livelivelive.space/live/4518361.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 San Lorenzo vs Santos	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387018/san-lorenzo-vs-santos-fc---sp.html
@@ -78,11 +81,22 @@ Univ Venezuela vs Rosario Central	`Fhttps://www.fctv33.net/football/conmebol-cop
 Univ Venezuela vs Rosario Central	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 Univ Venezuela vs Rosario Central	https://hls.livelivelive.space/live/4518362.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
+07:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Barracas Central vs Audax Italiano	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387017/barracas-central-vs-audax-italiano.html
+Barracas Central vs Audax Italiano	https://hls.livelivelive.space/live/4518218.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Cruzeiro Esporte vs Boca Juniors	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4387001/cruzeiro---mg-vs-boca-juniors.html
 Cruzeiro Esporte vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Cruzeiro Esporte vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd10.php
 Cruzeiro Esporte vs Boca Juniors	https://hls.livelivelive.space/live/4518313.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Millonarios vs Sao Paulo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387015/millonarios-vs-so-paulo---sp.html
+Millonarios vs Sao Paulo	`0https://v3.sportssonline.click/channels/bra/br2.php
+Millonarios vs Sao Paulo	https://hls.livelivelive.space/live/4518169.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Dep Recoleta vs Dep Cuenca	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387016/deportivo-recoleta-vs-deportivo-cuenca.html
+Dep Recoleta vs Dep Cuenca	https://hls.livelivelive.space/live/4518182.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 07:30 [g]CONCACAF Champions Cup[z]	^-
 Nashville vs Tigres UANL	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4390280/nashville-vs-tigres-uanl.html
