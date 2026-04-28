@@ -35,10 +35,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 28.04.2026	^-
 
-19:00 Super League	^-
+19:50 Super League	^-
 PSBS Biak Numfor vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229618/psbs-biak-numfor-vs-malut-united.html
 PSBS Biak Numfor vs Malut United	`0https://www.marza12.shop/football/2826411-psbs-biak-vs-malut-united.html
-PSBS Biak Numfor vs Malut United	https://live5.msrktz.app/live/87547578.m3u8
+PSBS Biak Numfor vs Malut United	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
 20:00 Malaysian Super League	^-
 Melaka FC vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221189/melaka-fc-vs-johor-darul-tazim-fc.html
