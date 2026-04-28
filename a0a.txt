@@ -48,21 +48,33 @@ Melaka FC vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-supe
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256153/al-hilal-vs-damac.html
+Al Hilal SFC vs Dhamk	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Al Hilal SFC vs Dhamk	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
 
 01:45 [g]English Football League Champ[z]	^-
 Southampton vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203007/southampton-vs-ipswich-town.html
+Southampton vs Ipswich Town	`0https://v3.sportssonline.click/channels/hd/hd2.php
+Southampton vs Ipswich Town	`0https://v3.sportssonline.click/channels/bra/br6.php
 
 02:00 [y]UEFA Champions League[z]	^-
 Paris Saint Germain vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390117/paris-saint-germain-vs-fc-bayern-munich.html
+Paris Saint Germain vs Bayern Munchen	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Paris Saint Germain vs Bayern Munchen	`0https://v3.sportssonline.click/channels/hd/hd3.php
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Botafogo RJ vs Indep Petrolero	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4379676/botafogo---rj-vs-independiente-petrolero.html
+Botafogo RJ vs Indep Petrolero	`0https://v3.sportssonline.click/channels/bra/br6.php
+Botafogo RJ vs Indep Petrolero	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Lanus vs Liga Dep. Univ Quito	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4387003/club-atltico-lans-vs-liga-dep-universitaria-quito.html
+Lanus vs Liga Dep. Univ Quito	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Lanus vs Liga Dep. Univ Quito	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 San Lorenzo vs Santos	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387018/san-lorenzo-vs-santos-fc---sp.html
+San Lorenzo vs Santos	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+San Lorenzo vs Santos	`0https://v3.sportssonline.click/channels/bra/br2.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
