@@ -35,23 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 29.04.2026	^-
 
-01:00 [g]Saudi Professional League[z]	^-
-Al Hilal SFC vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256153/al-hilal-vs-damac.html
-Al Hilal SFC vs Dhamk	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Al Hilal SFC vs Dhamk	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
-Al Hilal SFC vs Dhamk	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769T4n4bU2hnV.m3u8
-Al Hilal SFC vs Dhamk	https://hls.livelivelive.space/live/4404690.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Al Khaleej vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256154/al-khaleej-club-vs-al-najmaksa.html
-Al Khaleej vs Al Najma KSA	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AHeY6NX9aRs.m3u8
-Al Khaleej vs Al Najma KSA	https://hls.livelivelive.space/live/4404642.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-01:45 [g]English Football League Champ[z]	^-
-Southampton vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203007/southampton-vs-ipswich-town.html
-Southampton vs Ipswich Town	`0https://v3.sportssonline.click/channels/hd/hd2.php
-Southampton vs Ipswich Town	`0https://v3.sportssonline.click/channels/bra/br6.php
-Southampton vs Ipswich Town	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3LLEQqhjPRGfo.m3u8
-Southampton vs Ipswich Town	https://hls.livelivelive.space/live/4351664.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 02:00 [y]UEFA Champions League[z]	^-
 Paris Saint Germain vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390117/paris-saint-germain-vs-fc-bayern-munich.html
 Paris Saint Germain vs Bayern Munchen	`0https://v3.sportssonline.click/channels/hd/hd1.php
