@@ -76,11 +76,13 @@ San Lorenzo vs Santos	https://hls.livelivelive.space/live/4518181.m3u8?txSecret=
 07:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Univ Venezuela vs Rosario Central	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4387002/universidad-central-de-venezuela-vs-rosario-central.html
 Univ Venezuela vs Rosario Central	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
+Univ Venezuela vs Rosario Central	https://hls.livelivelive.space/live/4518362.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Cruzeiro Esporte vs Boca Juniors	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4387001/cruzeiro---mg-vs-boca-juniors.html
 Cruzeiro Esporte vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Cruzeiro Esporte vs Boca Juniors	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Cruzeiro Esporte vs Boca Juniors	https://hls.livelivelive.space/live/4518313.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 07:30 [g]CONCACAF Champions Cup[z]	^-
 Nashville vs Tigres UANL	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4390280/nashville-vs-tigres-uanl.html
@@ -90,6 +92,7 @@ Nashville vs Tigres UANL	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Sporting Cristal vs Jr Barranquilla	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4387000/sporting-cristal-vs-atletico-junior-barranquilla.html
 Sporting Cristal vs Jr Barranquilla	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Sporting Cristal vs Jr Barranquilla	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Sporting Cristal vs Jr Barranquilla	https://hls.livelivelive.space/live/4518338.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
