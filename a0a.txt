@@ -6,7 +6,7 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
-^=maxstream	https://maxstream.tv/home
+^=Maxstream	`Fhttps://maxstream.tv/home
 ^=Blank	
 ^=	^-
 
