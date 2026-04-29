@@ -59,8 +59,10 @@ Urawa Diamonds vs Kawasaki Frontale	https://hls.livelivelive.space/live/4470705.
 14:00 [g]Japanese J1 League[z]	^-
 Mito Hollyhock vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331740/mito-hollyhock-vs-machida-zelvia.html
 Mito Hollyhock vs Machida Zelvia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEjXnKw4qKT.m3u8
+Mito Hollyhock vs Machida Zelvia	https://hls.livelivelive.space/live/4470703.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Kashiwa Reysol vs FC Tokyo	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331801/kashiwa-reysol-vs-fc-tokyo.html
 Kashiwa Reysol vs FC Tokyo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEmjGCQtkUM.m3u8
+Kashiwa Reysol vs FC Tokyo	https://hls.livelivelive.space/live/4470702.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 15:30 Super League	^-
 Semen Padang vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229533/semen-padang-vs-madura-united.html
@@ -69,10 +71,12 @@ Persik Kediri vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-le
 18:00 [g]Thai League 1[z]	^-
 Chiangrai United vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320307/chiangrai-united-vs-ratchaburi-fc.html
 Chiangrai United vs Ratchaburi FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61ShZTqLPjAej7.m3u8
+Chiangrai United vs Ratchaburi FC	https://hls.livelivelive.space/live/4463915.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 18:30 [g]Thai League 1[z]	^-
 Uthai Thani Forest vs Bangkok Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320300/uthai-thani-forest-vs-bangkok-united-fc.html
 Uthai Thani Forest vs Bangkok Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61ShZaRn1AeQBo.m3u8
+Uthai Thani Forest vs Bangkok Utd	https://hls.livelivelive.space/live/4463916.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 Super League	^-
 Dewa United FC vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229631/dewa-united-fc-vs-persatuan-sepakbola-indonesia-jepara.html
@@ -80,6 +84,7 @@ Dewa United FC vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-s
 19:00 [g]Thai League 1[z]	^-
 Rayong FC vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320289/rayong-fc-vs-buriram-united.html
 Rayong FC vs Buriram United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61Shj8JsL4qLqj.m3u8
+Rayong FC vs Buriram United	https://hls.livelivelive.space/live/4463902.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 23:10 [g]Saudi Professional League[z]	^-
 Al-Taawon vs Al Ittihad	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256156/al-taawoun-vs-al-ittihad-club.html
