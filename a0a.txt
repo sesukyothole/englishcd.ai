@@ -45,6 +45,61 @@ Ichihara Chiba vs Yokohama Marinos	https://hls.livelivelive.space/live/4470701.m
 Avispa Fukuoka vs Hiroshima San	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjM5hKbyXc1.m3u8
 Avispa Fukuoka vs Hiroshima San	https://hls.livelivelive.space/live/4470791.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
+13:00 [g]Japanese J1 League[z]	^-
+Nagoya Grampus vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331699/nagoya-grampus-vs-fagiano-okayama.html
+Kyoto Sanga vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331713/kyoto-sanga-vs-gamba-osaka.html
+Urawa Diamonds vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331773/urawa-red-diamonds-vs-kawasaki-frontale.html
+
+14:00 [g]Japanese J1 League[z]	^-
+Mito Hollyhock vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331740/mito-hollyhock-vs-machida-zelvia.html
+Kashiwa Reysol vs FC Tokyo	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331801/kashiwa-reysol-vs-fc-tokyo.html
+
+15:30 Super League	^-
+Semen Padang vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229533/semen-padang-vs-madura-united.html
+Persik Kediri vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229538/persatuan-sepak-bola-indonesia-kediri-vs-borneo-fc.html
+
+18:00 [g]Thai League 1[z]	^-
+Chiangrai United vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320307/chiangrai-united-vs-ratchaburi-fc.html
+
+18:30 [g]Thai League 1[z]	^-
+Uthai Thani Forest vs Bangkok Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320300/uthai-thani-forest-vs-bangkok-united-fc.html
+
+19:00 Super League	^-
+Dewa United FC vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229631/dewa-united-fc-vs-persatuan-sepakbola-indonesia-jepara.html
+
+19:00 [g]Thai League 1[z]	^-
+Rayong FC vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320289/rayong-fc-vs-buriram-united.html
+
+23:10 [g]Saudi Professional League[z]	^-
+Al-Taawon vs Al Ittihad	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256156/al-taawoun-vs-al-ittihad-club.html
+
+30.04.2026	^-
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Nassr FC vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256152/al-nassr-fc-vs-al-ahli-sfc.html
+
+02:00 [y]UEFA Champions League[z]	^-
+Atletico Madrid vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390116/atletico-madrid-vs-arsenal.html
+
+02:15 [g]Portuguese Primera Liga[z]	^-
+Sporting CP vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216092/sporting-cp-vs-cd-tondela.html
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+CA Platense vs Indep Santa Fe	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386998/ca-platense-vs-independiente-santa-fe.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Caracas FC vs Racing Club	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387014/caracas-fc-vs-racing-club-de-avellaneda.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Cerro Porteno vs Palmeiras	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4384743/cerro-porteno-vs-palmeiras---sp.html
+Estudiantes La Plata vs Flamengo	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386996/estudiantes-la-plata-vs-flamengo---rj.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Palestino vs Gremio RS	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387013/palestino-vs-grmio---rs.html
+
+09:30 [g]CONCACAF Champions Cup[z]	^-
+Los Angeles FC vs Toluca	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4390253/los-angeles-fc-vs-toluca.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
