@@ -35,16 +35,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 29.04.2026	^-
 
-12:00 [g]Japanese J1 League[z]	^-
-Vissel Kobe vs Cerezo Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331701/vissel-kobe-vs-cerezo-osaka.html
-Vissel Kobe vs Cerezo Osaka	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjVscoXHCDb.m3u8
-Vissel Kobe vs Cerezo Osaka	https://hls.livelivelive.space/live/4470795.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Ichihara Chiba vs Yokohama Marinos	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331770/jef-united-ichihara-chiba-vs-yokohama-f-marinos.html
-Ichihara Chiba vs Yokohama Marinos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEf8payR11f.m3u8
-Ichihara Chiba vs Yokohama Marinos	https://hls.livelivelive.space/live/4470701.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Avispa Fukuoka vs Hiroshima San	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjM5hKbyXc1.m3u8
-Avispa Fukuoka vs Hiroshima San	https://hls.livelivelive.space/live/4470791.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 13:00 [g]Japanese J1 League[z]	^-
 Nagoya Grampus vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331699/nagoya-grampus-vs-fagiano-okayama.html
 Nagoya Grampus vs Fagiano Okayama	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjRUf4ZdMuo.m3u8
