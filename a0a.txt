@@ -34,37 +34,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-29.04.2026	^-
-
-23:10 [g]Saudi Professional League[z]	^-
-Al-Taawon vs Al Ittihad	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256156/al-taawoun-vs-al-ittihad-club.html
-Al-Taawon vs Al Ittihad	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Al-Taawon vs Al Ittihad	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
-Al-Taawon vs Al Ittihad	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AdCg3U5STaV.m3u8
-Al-Taawon vs Al Ittihad	https://hls.livelivelive.space/live/4404666.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&amp;txTime=1776963459
-
 30.04.2026	^-
-
-01:00 [g]Saudi Professional League[z]	^-
-Al Nassr FC vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256152/al-nassr-fc-vs-al-ahli-sfc.html
-Al Nassr FC vs Al Ahli Jeddah	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Al Nassr FC vs Al Ahli Jeddah	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
-Al Nassr FC vs Al Ahli Jeddah	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769Sizjm9bTQR.m3u8
-Al Nassr FC vs Al Ahli Jeddah	https://ddkanq.vip/zhibo/35395.html
-
-02:00 [y]UEFA Champions League[z]	^-
-Atletico Madrid vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390116/atletico-madrid-vs-arsenal.html
-Atletico Madrid vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd1.php
-Atletico Madrid vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd3.php
-Atletico Madrid vs Arsenal	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL933t8Fk7XZMmX.m3u8
-Atletico Madrid vs Arsenal	https://ddkanq.vip/zhibo/35397.html
-
-02:15 [g]Portuguese Primera Liga[z]	^-
-Sporting CP vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216092/sporting-cp-vs-cd-tondela.html
-Sporting CP vs CD Tondela	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
-Sporting CP vs CD Tondela	`0https://v3.sportssonline.click/channels/bra/br4.php
-Sporting CP vs CD Tondela	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtWiRuK2w4rBf.m3u8
-Sporting CP vs CD Tondela	https://ddkanq.vip/zhibo/35398.html
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 CA Platense vs Indep Santa Fe	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386998/ca-platense-vs-independiente-santa-fe.html
