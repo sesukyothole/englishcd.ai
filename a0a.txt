@@ -48,10 +48,13 @@ Avispa Fukuoka vs Hiroshima San	https://hls.livelivelive.space/live/4470791.m3u8
 13:00 [g]Japanese J1 League[z]	^-
 Nagoya Grampus vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331699/nagoya-grampus-vs-fagiano-okayama.html
 Nagoya Grampus vs Fagiano Okayama	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjRUf4ZdMuo.m3u8
+Nagoya Grampus vs Fagiano Okayama	https://hls.livelivelive.space/live/4470793.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Kyoto Sanga vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331713/kyoto-sanga-vs-gamba-osaka.html
 Kyoto Sanga vs Gamba Osaka	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjTg8w3TH4h.m3u8
+Kyoto Sanga vs Gamba Osaka	https://hls.livelivelive.space/live/4470792.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Urawa Diamonds vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331773/urawa-red-diamonds-vs-kawasaki-frontale.html
 Urawa Diamonds vs Kawasaki Frontale	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEovk4tifdF.m3u8
+Urawa Diamonds vs Kawasaki Frontale	https://hls.livelivelive.space/live/4470705.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 14:00 [g]Japanese J1 League[z]	^-
 Mito Hollyhock vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331740/mito-hollyhock-vs-machida-zelvia.html
