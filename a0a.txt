@@ -47,12 +47,17 @@ Avispa Fukuoka vs Hiroshima San	https://hls.livelivelive.space/live/4470791.m3u8
 
 13:00 [g]Japanese J1 League[z]	^-
 Nagoya Grampus vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331699/nagoya-grampus-vs-fagiano-okayama.html
+Nagoya Grampus vs Fagiano Okayama	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjRUf4ZdMuo.m3u8
 Kyoto Sanga vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331713/kyoto-sanga-vs-gamba-osaka.html
+Kyoto Sanga vs Gamba Osaka	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjTg8w3TH4h.m3u8
 Urawa Diamonds vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331773/urawa-red-diamonds-vs-kawasaki-frontale.html
+Urawa Diamonds vs Kawasaki Frontale	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEovk4tifdF.m3u8
 
 14:00 [g]Japanese J1 League[z]	^-
 Mito Hollyhock vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331740/mito-hollyhock-vs-machida-zelvia.html
+Mito Hollyhock vs Machida Zelvia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEjXnKw4qKT.m3u8
 Kashiwa Reysol vs FC Tokyo	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331801/kashiwa-reysol-vs-fc-tokyo.html
+Kashiwa Reysol vs FC Tokyo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEmjGCQtkUM.m3u8
 
 15:30 Super League	^-
 Semen Padang vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229533/semen-padang-vs-madura-united.html
@@ -72,33 +77,59 @@ Rayong FC vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-1-matc
 
 23:10 [g]Saudi Professional League[z]	^-
 Al-Taawon vs Al Ittihad	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256156/al-taawoun-vs-al-ittihad-club.html
+Al-Taawon vs Al Ittihad	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Al-Taawon vs Al Ittihad	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
 
 30.04.2026	^-
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256152/al-nassr-fc-vs-al-ahli-sfc.html
+Al Nassr FC vs Al Ahli Jeddah	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Al Nassr FC vs Al Ahli Jeddah	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 
 02:00 [y]UEFA Champions League[z]	^-
 Atletico Madrid vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390116/atletico-madrid-vs-arsenal.html
+Atletico Madrid vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Atletico Madrid vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd3.php
 
 02:15 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216092/sporting-cp-vs-cd-tondela.html
+Sporting CP vs CD Tondela	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+Sporting CP vs CD Tondela	`0https://v3.sportssonline.click/channels/bra/br4.php
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 CA Platense vs Indep Santa Fe	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386998/ca-platense-vs-independiente-santa-fe.html
+CA Platense vs Indep Santa Fe	`0https://v3.sportssonline.click/channels/hd/hd9.php
+CA Platense vs Indep Santa Fe	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Mirassol vs Always Ready	`0https://v3.sportssonline.click/channels/bra/br3.php
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Caracas FC vs Racing Club	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387014/caracas-fc-vs-racing-club-de-avellaneda.html
+Caracas FC vs Racing Club	`0https://v3.sportssonline.click/channels/bra/br2.php
+Dep Riestra vs Montevideo Torque	`0https://v3.sportssonline.click/channels/bra/br6.php
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Cerro Porteno vs Palmeiras	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4384743/cerro-porteno-vs-palmeiras---sp.html
+Cerro Porteno vs Palmeiras	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
+Cerro Porteno vs Palmeiras	`0https://v3.sportssonline.click/channels/bra/br2.php
 Estudiantes La Plata vs Flamengo	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386996/estudiantes-la-plata-vs-flamengo---rj.html
+Estudiantes La Plata vs Flamengo	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Estudiantes La Plata vs Flamengo	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Palestino vs Gremio RS	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387013/palestino-vs-grmio---rs.html
+Palestino vs Gremio RS	`0https://v3.sportssonline.click/channels/pt/sporttv4.php
+Palestino vs Gremio RS	`0https://v3.sportssonline.click/channels/bra/br6.php
+Cienciano vs Atlético Mineiro	`0https://v3.sportssonline.click/channels/bra/br4.php
+
+09:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Universitario vs Nacional	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Universitario vs Nacional	`0https://v3.sportssonline.click/channels/hd/hd10.php
 
 09:30 [g]CONCACAF Champions Cup[z]	^-
 Los Angeles FC vs Toluca	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4390253/los-angeles-fc-vs-toluca.html
+Los Angeles FC vs Toluca	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Los Angeles FC vs Toluca	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
