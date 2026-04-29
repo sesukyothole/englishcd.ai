@@ -91,6 +91,25 @@ Los Angeles FC vs Toluca	`0https://v3.sportssonline.click/channels/pt/sporttv1.p
 15:30 Super League	^-
 PSIM Yogyakarta vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229537/psim-yogyakarta-vs-persita-tangerang.html
 
+19:00 Super League	^-
+Bhayangkara vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229625/bhayangkara-presisi-indonesia-fc-vs-persib-bandung.html
+
+01.05.2026	^-
+
+02:00 [y]UEFA Europa League[z]	^-
+Sporting Braga vs SC Freiburg	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4390471/sporting-braga-vs-sc-freiburg.html
+Nottingham Forest vs Aston Villa	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4390472/nottingham-forest-vs-aston-villa.html
+
+02:00 [y]UEFA Europa Conference League[z]	^-
+Rayo Vallecano vs Strasbourg	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4390475/rayo-vallecano-vs-rc-strasbourg-alsace.html
+Shakhtar Donetsk vs Crystal Palace	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4390476/fc-shakhtar-donetsk-vs-crystal-palace.html
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Bolivar vs Fluminense RJ	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375934/bolivar-vs-fluminense---rj.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Vasco da Gama vs Olimpia Asuncion	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387011/vasco-da-gama-saf---rj-vs-olimpia-asuncion.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
