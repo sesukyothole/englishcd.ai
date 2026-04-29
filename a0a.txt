@@ -6,6 +6,7 @@
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
+^=maxstream	https://maxstream.tv/home
 ^=Blank	
 ^=	^-
 
@@ -175,8 +176,6 @@ MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 
-Discovery	https://hls.iill.top/api/Discovery/index.m3u8
-Sports Network	https://hls.iill.top/api/Sports-Network/index.m3u8
 Nippon TV	https://nl.utako.moe/Nippon_TV/index.m3u8
 NHK G	https://nl.utako.moe/NHK_G/index.m3u8
 TBS	https://nl.utako.moe/TBS/index.m3u8
@@ -187,43 +186,6 @@ TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 ^=MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
 ^=RCTI	`Fhttps://m.rctiplus.com/tv/rcti
 ^=iNews	`Fhttps://m.rctiplus.com/tv/inews
-
-	^-
-[w]Linked TV Channels[z]	^-
-
-Makkah TV	`Fhttps://www.indihometv.com/livetv/alquran
-Antara TV	`Fhttps://www.indihometv.com/livetv/antara
-ANTV	`Fhttps://www.indihometv.com/livetv/antv
-Bali TV	`Fhttps://www.indihometv.com/livetv/balitv
-Berita Satu	`Fhttps://www.indihometv.com/livetv/idtv
-BTV	`Fhttps://www.indihometv.com/livetv/beritasatu
-CCTV4	`Fhttps://www.indihometv.com/livetv/cctv4
-Chinese Drama	`Fhttps://www.indihometv.com/livetv/chinesedrama
-DAAI TV	`Fhttps://www.indihometv.com/livetv/daaitv
-DMI TV	`Fhttps://www.indihometv.com/livetv/tawaftv
-DW TV	`Fhttps://www.indihometv.com/livetv/dwtv
-Euro News	`Fhttps://www.indihometv.com/livetv/euronews
-iNews	`Fhttps://www.indihometv.com/livetv/inews
-Jak TV	`Fhttps://www.indihometv.com/livetv/jaktv
-Jawapos	`Fhttps://www.indihometv.com/livetv/jawapos
-JTV	`Fhttps://www.indihometv.com/livetv/jtv
-Kompas TV	`Fhttps://www.indihometv.com/livetv/kompastv
-MAXreels	`Fhttps://www.indihometv.com/livetv/useeprime
-MAXstream	`Fhttps://www.indihometv.com/livetv/maxstream
-MDTV	`Fhttps://www.indihometv.com/livetv/net
-Metro TV	`Fhttps://www.indihometv.com/livetv/metrotv
-MQTV	`Fhttps://www.indihometv.com/livetv/mqtv
-Muhammadiyah TV	`Fhttps://www.indihometv.com/livetv/muhammadiyahtv
-MUI TV	`Fhttps://www.indihometv.com/livetv/muitv
-Nusantara TV	`Fhttps://www.indihometv.com/livetv/nusantaratv
-Prambors TV	`Fhttps://www.indihometv.com/livetv/pramborstv
-Rodja TV	`Fhttps://www.indihometv.com/livetv/rodjatv
-RTV	`Fhttps://www.indihometv.com/livetv/rtv
-Sindo News TV	`Fhttps://www.indihometv.com/livetv/mncnews
-Trans 7	`Fhttps://www.indihometv.com/livetv/trans7
-Trans TV	`Fhttps://www.indihometv.com/livetv/transtv
-TV One	`Fhttps://www.indihometv.com/livetv/tvone
-TVRI	`Fhttps://www.indihometv.com/livetv/tvri
 
 	^-
 [w]Sports TV Channels[z]	^-
