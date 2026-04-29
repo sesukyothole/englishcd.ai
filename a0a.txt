@@ -145,6 +145,8 @@ Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazona
 Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -152,7 +154,6 @@ CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 Dens ShowBiz	https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 Garuda TV	https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 Indonesiana	https://tvstreamcast.com/indonesiana.m3u8
-Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 LifeStyle	https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -166,7 +167,6 @@ Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
