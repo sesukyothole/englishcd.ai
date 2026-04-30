@@ -36,27 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 30.04.2026	^-
 
-05:00 [g]CONMEBOL Copa Libertadores[z]	^-
-CA Platense vs Indep Santa Fe	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386998/ca-platense-vs-independiente-santa-fe.html
-CA Platense vs Indep Santa Fe	`0https://v3.sportssonline.click/channels/hd/hd9.php
-CA Platense vs Indep Santa Fe	`0https://v3.sportssonline.click/channels/hd/hd10.php
-CA Platense vs Indep Santa Fe	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsvZfFkGmTTDcy.m3u8
-CA Platense vs Indep Santa Fe	https://hls.livelivelive.space/live/4518326.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Mirassol vs Always Ready	`0https://v3.sportssonline.click/channels/bra/br3.php
-Mirassol vs Always Ready	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsvYV7rHtr3Tpy.m3u8
-Mirassol vs Always Ready	https://hls.livelivelive.space/live/4518350.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Caracas FC vs Racing Club	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387014/caracas-fc-vs-racing-club-de-avellaneda.html
-Caracas FC vs Racing Club	`0https://v3.sportssonline.click/channels/bra/br2.php
-Caracas FC vs Racing Club	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsu4BRZ2rEqNPf.m3u8
-Caracas FC vs Racing Club	https://hls.livelivelive.space/live/4518194.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Dep Riestra vs Montevideo Torque	`0https://v3.sportssonline.click/channels/bra/br6.php
-Dep Riestra vs Montevideo Torque	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsupWLCgWCCLbX.m3u8
-Dep Riestra vs Montevideo Torque	https://hls.livelivelive.space/live/4518206.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-CA Juventud vs Aca Puerto Cabello	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsu4rGSZwzdicd.m3u8
-CA Juventud vs Aca Puerto Cabello	https://hls.livelivelive.space/live/4518157.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Cerro Porteno vs Palmeiras	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4384743/cerro-porteno-vs-palmeiras---sp.html
 Cerro Porteno vs Palmeiras	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
