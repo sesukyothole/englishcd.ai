@@ -54,6 +54,16 @@ Fagiano Okayama vs Hiroshima San	https://hls.livelivelive.space/live/4470797.m3u
 Auckland FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4394540/auckland-fc-vs-melbourne-city.html
 Auckland FC vs Melbourne City	https://hls.livelivelive.space/live/4535937.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
+12:00 [g]Korean K League 1[z]	^-
+FC Seoul vs Gimcheon Sangmu FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336170/football-club-seoul-vs-gimcheon-sangmu-football-club.html
+Ulsan Hyundai FC vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336196/ulsan-hd-fc-vs-pohang-steelers.html
+
+12:00 [g]Japanese J1 League[z]	^-
+FC Tokyo vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331804/fc-tokyo-vs-kawasaki-frontale.html
+
+13:00 [g]Japanese J1 League[z]	^-
+Gamba Osaka vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331706/gamba-osaka-vs-vissel-kobe.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
