@@ -36,21 +36,23 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-05:30 [g]Canadian Premier League[z]	^-
-Inter Toronto vs Atl. Ottawa	`0https://v3.sportssonline.click/channels/hd/hd5.php
-
 06:00 [g]Colombia Primera A[z]	^-
 Dep Once Caldas vs Atl Nac Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331608/deportiva-once-caldas-vs-atletico-nacional-medellin.html
 Dep Once Caldas vs Atl Nac Medellin	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Dep Once Caldas vs Atl Nac Medellin	https://hls.livelivelive.space/live/4477805.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Dep Once Caldas vs Atl Nac Medellin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqrH4odAQnc8DXb.m3u8
 
+06:30 [g]Canadian Premier League[z]	^-
+Inter Toronto vs Atl. Ottawa	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4352747/york-united-fc-vs-atletico-ottawa.html
+Inter Toronto vs Atl. Ottawa	`0https://v3.sportssonline.click/channels/hd/hd5.php
+
 10:55 [g]Japanese J1 League[z]	^-
-Fagiano Okayama vs Hiroshima San	https://ddkanq.vip/zhibo/35451.html
+Fagiano Okayama vs Hiroshima San	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331659/fagiano-okayama-vs-sanfrecce-hiroshima.html
+Fagiano Okayama vs Hiroshima San	https://hls.livelivelive.space/live/4470797.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 12:00 [g]Australia A-League[z]	^-
 Auckland FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4394540/auckland-fc-vs-melbourne-city.html
-Auckland FC vs Melbourne City	https://ddkanq.vip/zhibo/35457.html
+Auckland FC vs Melbourne City	https://hls.livelivelive.space/live/4535937.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
