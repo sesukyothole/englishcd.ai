@@ -98,6 +98,9 @@ Leeds United vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league
 02:00 [y]Spanish La Liga[z]	^-
 Girona vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209710/girona-fc-vs-rcd-mallorca.html
 
+05:00 [y]Colombia Primera A[z]	^-
+Dep Once Caldas vs Atl Nac Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331608/deportiva-once-caldas-vs-atletico-nacional-medellin.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
