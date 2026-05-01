@@ -36,27 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 01.05.2026	^-
 
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Vasco da Gama vs Olimpia Asuncion	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387011/vasco-da-gama-saf---rj-vs-olimpia-asuncion.html
-Vasco da Gama vs Olimpia Asuncion	`0https://v3.sportssonline.click/channels/pt/sporttv3.php
-Vasco da Gama vs Olimpia Asuncion	`0https://v3.sportssonline.click/channels/bra/br4.php
-Vasco da Gama vs Olimpia Asuncion	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsupLbLBptspB7.m3u8
-Vasco da Gama vs Olimpia Asuncion	https://hls.livelivelive.space/live/4518217.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Carabobo FC vs Blooming	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375850/carabobo-vs-blooming.html
-Carabobo FC vs Blooming	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsupfogp68jSwf.m3u8
-Carabobo FC vs Blooming	https://hls.livelivelive.space/live/4518230.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-05:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Bolivar vs Fluminense RJ	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375934/bolivar-vs-fluminense---rj.html
-Bolivar vs Fluminense RJ	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Bolivar vs Fluminense RJ	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Bolivar vs Fluminense RJ	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsvZKb1t4Tgb1f.m3u8
-Bolivar vs Fluminense RJ	https://hls.livelivelive.space/live/4518301.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Indep Rivadavia vs Deportivo Guaira	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386995/independiente-rivadavia-vs-deportivo-la-guaira.html
-Indep Rivadavia vs Deportivo Guaira	`0https://v3.sportssonline.click/channels/bra/br6.php
-Indep Rivadavia vs Deportivo Guaira	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsvZKhcKfuALUM.m3u8
-Indep Rivadavia vs Deportivo Guaira	https://hls.livelivelive.space/live/4518302.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 07:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Corinthians Paulista vs CA Penarol	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376062/corinthians---sp-vs-ca-penarol.html
 Corinthians Paulista vs CA Penarol	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
@@ -98,6 +77,26 @@ Kuching FA vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-super-leagu
 
 21:00 [g]Turkish Super League[z]	^-
 Caykur Rizespor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216915/caykur-rizespor-vs-konyaspor.html
+
+02.05.2026	^-
+
+00:00 [g]Turkish Super League[z]	^-
+Gazisehir Gaziantep vs Besiktas JK	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216917/gazisehir-gaziantep-vs-besiktas-jk.html
+
+01:45 [y]Italian Serie A[z]	^-
+Pisa vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194838/pisa-vs-lecce.html
+
+01:45 [g]Belgian Pro League[z]	^-
+Cercle Brugge vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382836/cercle-brugge-vs-zulte-waregem.html
+
+01:45 [g]Scottish Premiership[z]	^-
+Livingston vs Aberdeen	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388064/livingston-vs-aberdeen.html
+
+02:00 [y]English Premier League[z]	^-
+Leeds United vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193983/leeds-united-vs-burnley.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Girona vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209710/girona-fc-vs-rcd-mallorca.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
