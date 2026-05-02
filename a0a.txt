@@ -36,9 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-16:15 Championship	^-
-Persiraja Aceh vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352296/persiraja-aceh-vs-psms-medan.html
-
 16:40 [g]Australia A-League[z]	^-
 Melbourne Victory vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4394541/melbourne-victory-vs-sydney-fc.html
 Melbourne Victory vs Sydney FC	https://hls.livelivelive.space/live/4535938.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -282,39 +279,55 @@ Nice vs Lens	https://ddkanq.vip/zhibo/35551.html
 
 02:15 [g]Argentine Division 1[z]	^-
 Central Cordoba SDE vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321960/central-cordoba-sde-vs-boca-juniors.html
+Central Cordoba SDE vs Boca Juniors	https://ddkanq.vip/zhibo/35552.html
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216202/fc-porto-vs-alverca.html
+FC Porto vs Alverca	https://ddkanq.vip/zhibo/35553.html
 
 03:45 [g]US Major League Soccer[z]	^-
 Real Salt Lake vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317571/real-salt-lake-vs-portland-timbers.html
+Real Salt Lake vs Portland Timbers	https://ddkanq.vip/zhibo/35554.html
 
 04:00 [g]Colombia Primera A[z]	^-
 Jaguares de Cordoba vs Cucuta	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331602/jaguares-de-cordoba-vs-cucuta-deportivo.html
+Jaguares de Cordoba vs Cucuta	https://ddkanq.vip/zhibo/35555.html
 
 04:30 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Santos	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324055/palmeiras---sp-vs-santos-fc---sp.html
+Palmeiras vs Santos	https://ddkanq.vip/zhibo/35556.html
 Vitoria BA vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324060/vitria---ba-vs-coritiba-saf---pr.html
+Vitoria BA vs Coritiba PR	https://ddkanq.vip/zhibo/35557.html
 
 04:45 [g]Argentine Division 1[z]	^-
 Atlético Unión vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321964/club-atltico-unin-vs-talleres-cordoba.html
+Atlético Unión vs Talleres Cordoba	https://ddkanq.vip/zhibo/35559.html
 San Lorenzo vs Independiente	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321965/san-lorenzo-vs-ca-independiente.html
+San Lorenzo vs Independiente	https://ddkanq.vip/zhibo/35558.html
 
-06:00 [g]US Major League Soccer[z]	^-
+06:15 [g]US Major League Soccer[z]	^-
 Inter Miami CF vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317303/inter-miami-cf-vs-orlando-city.html
+Inter Miami CF vs Orlando City	https://ddkanq.vip/zhibo/35560.html
 
 06:30 [g]US Major League Soccer[z]	^-
 New York Red Bulls vs FC Dallas	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317570/new-york-red-bulls-vs-fc-dallas.html
+New York Red Bulls vs FC Dallas	https://ddkanq.vip/zhibo/35564.html
 Atlanta United vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317599/atlanta-united-vs-montreal-impact.html
+Atlanta United vs Montreal Impact	https://ddkanq.vip/zhibo/35561.html
 Philadelphia Union vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317628/philadelphia-union-vs-nashville.html
+Philadelphia Union vs Nashville	https://ddkanq.vip/zhibo/35565.html
 New England Revo vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317667/new-england-revolution-vs-charlotte-fc.html
+New England Revo vs Charlotte FC	https://ddkanq.vip/zhibo/35563.html
 Columbus Crew vs Minnesota United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317698/columbus-crew-vs-minnesota-united-fc.html
+Columbus Crew vs Minnesota United	https://ddkanq.vip/zhibo/35562.html
 
 06:30 [g]Brazilian Serie A[z]	^-
 Athletico Paranaense vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324097/athletico-paranaense---pr-vs-grmio---rs.html
+Athletico Paranaense vs Gremio RS	https://ddkanq.vip/zhibo/35566.html
 
 07:00 [g]Brazilian Serie A[z]	^-
 Cruzeiro Esporte vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324061/cruzeiro---mg-vs-atltico-mineiro---mg.html
+Cruzeiro Esporte vs Atletico Mineiro	https://ddkanq.vip/zhibo/35568.html
 
 07:15 [g]Argentine Division 1[z]	^-
 CA Platense vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321848/ca-platense-vs-estudiantes-la-plata.html
