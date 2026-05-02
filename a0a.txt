@@ -36,34 +36,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-10:55 [g]Japanese J1 League[z]	^-
-Fagiano Okayama vs Hiroshima San	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331659/fagiano-okayama-vs-sanfrecce-hiroshima.html
-Fagiano Okayama vs Hiroshima San	https://hls.livelivelive.space/live/4470797.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Fagiano Okayama vs Hiroshima San	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1JjaGaYUw2XP.m3u8
-
 12:00 [g]Australia A-League[z]	^-
 Auckland FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4394540/auckland-fc-vs-melbourne-city.html
 Auckland FC vs Melbourne City	https://hls.livelivelive.space/live/4535937.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Auckland FC vs Melbourne City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLN5mrZUDioh6L5.m3u8
-
-12:00 [g]Korean K League 1[z]	^-
-FC Seoul vs Gimcheon Sangmu FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336170/football-club-seoul-vs-gimcheon-sangmu-football-club.html
-FC Seoul vs Gimcheon Sangmu FC	https://hls.livelivelive.space/live/4480382.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-FC Seoul vs Gimcheon Sangmu FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWuTYnaYfMDE5.m3u8
-Ulsan Hyundai FC vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336196/ulsan-hd-fc-vs-pohang-steelers.html
-Ulsan Hyundai FC vs Pohang Steelers	https://hls.livelivelive.space/live/4480357.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Ulsan Hyundai FC vs Pohang Steelers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWuxmQ4aZJnVK.m3u8
-
-12:00 [g]Japanese J1 League[z]	^-
-Kyoto Sanga vs Shimizu S-Pulse	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331710/kyoto-sanga-vs-shimizu-s-pulse.html
-Kyoto Sanga vs Shimizu S-Pulse	https://hls.livelivelive.space/live/4470799.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Kyoto Sanga vs Shimizu S-Pulse	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1Jj3VrMmNCNq.m3u8
-Yokohama Marinos vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331769/yokohama-f-marinos-vs-mito-hollyhock.html
-Yokohama Marinos vs Mito Hollyhock	https://hls.livelivelive.space/live/4470710.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Yokohama Marinos vs Mito Hollyhock	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1L4zfHedkJu3.m3u8
-FC Tokyo vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331804/fc-tokyo-vs-kawasaki-frontale.html
-FC Tokyo vs Kawasaki Frontale	https://hls.livelivelive.space/live/4470706.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-FC Tokyo vs Kawasaki Frontale	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEvXBgLCR5w.m3u8
 
 13:00 [g]Japanese J1 League[z]	^-
 Gamba Osaka vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331706/gamba-osaka-vs-vissel-kobe.html
@@ -109,8 +85,17 @@ Nakhon Ratchasima vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-m
 
 18:30 [g]English Football League Champ[z]	^-
 Ipswich Town vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203701/ipswich-town-vs-queens-park-rangers.html
+Ipswich Town vs Queens Park Rangers	https://hls.livelivelive.space/live/4351803.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Millwall vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203865/millwall-vs-oxford-united.html
+Millwall vs Oxford United	https://hls.livelivelive.space/live/4351805.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Wrexham vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203867/wrexham-vs-middlesbrough.html
+Wrexham vs Middlesbrough	https://hls.livelivelive.space/live/4351817.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Preston vs Southampton	https://hls.livelivelive.space/live/4351809.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Portsmouth vs Birmingham	https://hls.livelivelive.space/live/4351807.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Hull City vs Norwich	https://hls.livelivelive.space/live/4351801.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Derbyshire vs Sheffield United	https://hls.livelivelive.space/live/4351799.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Bristol City vs Stoke City	https://hls.livelivelive.space/live/4351797.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Blackburn vs Leicester City	https://hls.livelivelive.space/live/4351795.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 18:30 Malaysian Super League	^-
 Sabah vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221271/sabah-fc-vs-pdrm-fc.html
