@@ -36,48 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-18:30 [g]English Football League Champ[z]	^-
-Ipswich Town vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203701/ipswich-town-vs-queens-park-rangers.html
-Ipswich Town vs Queens Park Rangers	https://hls.livelivelive.space/live/4351803.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Ipswich Town vs Queens Park Rangers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3MpCjzR2qU4iy.m3u8
-Millwall vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203865/millwall-vs-oxford-united.html
-Millwall vs Oxford United	https://hls.livelivelive.space/live/4351805.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Millwall vs Oxford United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3MpCpPNmo7u2m.m3u8
-Wrexham vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203867/wrexham-vs-middlesbrough.html
-Wrexham vs Middlesbrough	https://hls.livelivelive.space/live/4351817.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Wrexham vs Middlesbrough	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3Mp3C7KhwH853.m3u8
-Preston vs Southampton	https://hls.livelivelive.space/live/4351809.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Preston vs Southampton	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3MpCN1cL3CuC1.m3u8
-Portsmouth vs Birmingham	https://hls.livelivelive.space/live/4351807.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Portsmouth vs Birmingham	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3MpCtnLWkmjLZ.m3u8
-Hull City vs Norwich	https://hls.livelivelive.space/live/4351801.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Hull City vs Norwich	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3MpCfbTHspERB.m3u8
-Derbyshire vs Sheffield United	https://hls.livelivelive.space/live/4351799.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Derbyshire vs Sheffield United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3M3sXkvR3VmHw.m3u8
-Bristol City vs Stoke City	https://hls.livelivelive.space/live/4351797.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Bristol City vs Stoke City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3M3t4Xebm4bSV.m3u8
-Blackburn vs Leicester City	https://hls.livelivelive.space/live/4351795.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Blackburn vs Leicester City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3M3sz8groQm8h.m3u8
-Swansea vs Charlton	https://hls.livelivelive.space/live/4351815.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Swansea vs Charlton	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3Mp37iMxydHmF.m3u8
-Watford vs Coventry	https://hls.livelivelive.space/live/4351813.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Watford vs Coventry	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3Mp33KQE1yTTT.m3u8
-Sheffield Wednesday vs West Bromwich	https://hls.livelivelive.space/live/4351811.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Sheffield Wednesday vs West Bromwich	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs3Mp2xvSV4Kd9f.m3u8
-
-18:30 Malaysian Super League	^-
-Sabah vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221271/sabah-fc-vs-pdrm-fc.html
-Sabah vs PDRM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vdDUzazkDvbo.m3u8
-Sabah vs PDRM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vdDUzazkDvbo.m3u8
-
-18:30 [g]Singapore Premier League[z]	^-
-Geylang United vs Balestier Khalsa	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258873/geylang-united-fc-vs-balestier-khalsa-fc.html
-Geylang United vs Balestier Khalsa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXbzYgzUBfcC9XyF.m3u8
-
-18:30 [g]Thai League 1[z]	^-
-Bangkok United vs Ayutthaya United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320339/bangkok-united-fc-vs-ayutthaya-united.html
-Bangkok United vs Ayutthaya United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61SgtCmWihHDpH.m3u8
-
 19:00 [y]Spanish La Liga[z]	^-
 Villarreal vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209842/villarreal-cf-vs-levante.html
 Villarreal vs Levante	https://hls.livelivelive.space/live/4358408.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
