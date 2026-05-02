@@ -36,31 +36,9 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-12:00 [g]Australia A-League[z]	^-
-Auckland FC vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4394540/auckland-fc-vs-melbourne-city.html
-Auckland FC vs Melbourne City	https://hls.livelivelive.space/live/4535937.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Auckland FC vs Melbourne City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLN5mrZUDioh6L5.m3u8
-
-13:00 [g]Japanese J1 League[z]	^-
-Gamba Osaka vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331706/gamba-osaka-vs-vissel-kobe.html
-Gamba Osaka vs Vissel Kobe	https://hls.livelivelive.space/live/4470798.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Gamba Osaka vs Vissel Kobe	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1Jj5hLEFC7Xj.m3u8
-
-14:00 [g]Japanese J1 League[z]	^-
-Urawa Diamonds vs Ichihara Chiba	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331772/urawa-red-diamonds-vs-jef-united-ichihara-chiba.html
-Urawa Diamonds vs Ichihara Chiba	https://hls.livelivelive.space/live/4470709.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Urawa Diamonds vs Ichihara Chiba	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LEMYyd8ofnV.m3u8
-
-14:30 [g]Korean K League 1[z]	^-
-Jeju United vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336155/jeju-sk-fc-vs-jeonbuk-hyundai-motors.html
-Jeju United vs Jeonbuk Hyundai	https://hls.livelivelive.space/live/4480360.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Jeju United vs Jeonbuk Hyundai	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWvTgRhecf2XP.m3u8
-Incheon United vs Gangwon FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336157/incheon-united-club-vs-gangwon-football-club.html
-Incheon United vs Gangwon FC	https://hls.livelivelive.space/live/4480334.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Incheon United vs Gangwon FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWvxwEfYzSWwX.m3u8
-
 15:30 Super League	^-
 Persebaya vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229620/persebaya-surabaya-vs-psbs-biak-numfor.html
+Persebaya vs PSBS Biak Numfor	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
 15:30 Championship	^-
 Garudayaksa FC vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352290/garudayaksa-fc-vs-persikad-depok.html
@@ -111,6 +89,7 @@ Villarreal vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-42
 
 19:00 Super League	^-
 Malut United vs Persis Solo	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229619/malut-united-vs-persis-solo-fc.html
+Malut United vs Persis Solo	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
 19:00 [g]Thai League 1[z]	^-
 Singha Kanchana vs Chonburi Shark	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320213/kanchanaburi-power-fc-vs-chonburi-fc.html
