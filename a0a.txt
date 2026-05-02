@@ -133,93 +133,139 @@ Degerfors vs Hacken	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EN2fjaCoZ
 20:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199875/eintracht-frankfurt-vs-hamburger-sv.html
 Eintracht Frankfurt vs Hamburger SV	https://hls.livelivelive.space/live/4347619.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Eintracht Frankfurt vs Hamburger SV	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CyQJUQpFfPs.m3u8
 Union Berlin vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199878/1-fc-union-berlin-vs-fc-kln.html
 Union Berlin vs FC Koln	https://hls.livelivelive.space/live/4347631.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Union Berlin vs FC Koln	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DK7ELzHrDA5.m3u8
 Werder Bremen vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199879/sv-werder-bremen-vs-fc-augsburg.html
 Werder Bremen vs FC Augsburg	https://hls.livelivelive.space/live/4347637.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Werder Bremen vs FC Augsburg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DKLREDAoi5T.m3u8
 TSG Hoffenheim vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199887/tsg-hoffenheim-vs-vfb-stuttgart.html
 TSG Hoffenheim vs VfB Stuttgart	https://hls.livelivelive.space/live/4347665.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+TSG Hoffenheim vs VfB Stuttgart	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CpA1E3kg3y7.m3u8
 Bayern Munchen vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199889/fc-bayern-munich-vs-1-fc-heidenheim-1846.html
 Bayern Munchen vs 1. FC Heidenheim	https://hls.livelivelive.space/live/4347648.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Bayern Munchen vs 1. FC Heidenheim	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CULUurqbkkD.m3u8
 
 20:30 [g]Russian Premier League[z]	^-
 Baltika Kaliningrad vs Rubin Kazan	https://hls.livelivelive.space/live/4357099.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Baltika Kaliningrad vs Rubin Kazan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs9msdUSC1qstgu.m3u8
 
 21:00 [y]English Premier League[z]	^-
 Newcastle Utd vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193924/newcastle-united-vs-brighton-hove-albion.html
 Newcastle Utd vs Brighton Hove	https://hls.livelivelive.space/live/4343346.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Newcastle Utd vs Brighton Hove	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy138WXpKp3mo.m3u8
 Wolves vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194019/wolverhampton-wanderers-vs-sunderland.html
 Wolves vs Sunderland AFC	https://hls.livelivelive.space/live/4343369.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Wolves vs Sunderland AFC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1MxtMNmQX1P.m3u8
 Brentford vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194028/brentford-vs-west-ham-united.html
 Brentford vs West Ham United	https://hls.livelivelive.space/live/4343336.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Brentford vs West Ham United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1sdsbrRH67P.m3u8
 
 21:00 [g]Belgian Pro League[z]	^-
 Westerlo vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382823/kvc-westerlo-vs-oud-heverlee-leuven.html
+Westerlo vs Oud Heverlee	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8ju4mVAGXmpq.m3u8
 
 21:00 [g]Greek Super League[z]	^-
 Panaitolikos vs AE Kifisias	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386209/panetolikos-agrinio-vs-ae-kifisias.html
+Panaitolikos vs AE Kifisias	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBkti5PFbpUV.m3u8
 
 21:00 [g]Finnish Super League[z]	^-
-FF Jaro vs Turun	https://hls.livelivelive.space/live/4468081.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Port Mary vs Vasa	https://hls.livelivelive.space/live/4468082.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+FF Jaro vs TPS Turku	https://hls.livelivelive.space/live/4468081.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+FF Jaro vs TPS Turku	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzDwwQCRUWNR.m3u8
+IFK Mariehamn vs Vaasa	https://hls.livelivelive.space/live/4468082.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+IFK Mariehamn vs Vaasa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzE4XqorxFq7.m3u8
+
+21:00 [g]Scottish Premiership[z]	^-
+Falkirk vs Motherwell	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayFg9bJDYxBREM.m3u8
+Dundee vs Saint Mirren	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayGPns1MiXZaU5.m3u8
+Kilmarnock vs Dundee United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayGPnposr3jfKB.m3u8
 
 21:15 [y]Spanish La Liga[z]	^-
 Valencia vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209810/valencia-cf-vs-atletico-madrid.html
 Valencia vs Atletico Madrid	https://hls.livelivelive.space/live/4358404.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Valencia vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYdpeR7Yga68wP.m3u8
 
 21:30 [y]Netherlands Eredivisie[z]	^-
 Utrecht vs NAC Breda	https://hls.livelivelive.space/live/4344765.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Utrecht vs NAC Breda	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvsZK6ueMNhK.m3u8
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 FC Arouca vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216208/fc-arouca-vs-santa-clara.html
 FC Arouca vs Santa Clara	https://hls.livelivelive.space/live/4369066.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+FC Arouca vs Santa Clara	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtWZJCWHJxzDb.m3u8
 Moreirense vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216224/moreirense-vs-cf-estrela-amadora-sad.html
 Moreirense vs Estrela da Amadora	https://hls.livelivelive.space/live/4369071.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Moreirense vs Estrela da Amadora	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtWPL98P8gxso.m3u8
 Nacional da Madeira vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216225/nacional-da-madeira-vs-avs-futebol-sad.html
 Nacional da Madeira vs AVS Futebol	https://hls.livelivelive.space/live/4369072.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Nacional da Madeira vs AVS Futebol	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcdtWPSjZzaAiLV.m3u8
+
+21:30 [g]Greek Super League[z]	^-
+Panserraikos VS AEL Larisa	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBkQ8q51ruUq.m3u8
 
 22:00 [y]French Ligue 1[z]	^-
 Paris Saint Germain vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200142/paris-saint-germain-vs-lorient.html
 Paris Saint Germain vs Lorient	https://hls.livelivelive.space/live/4358431.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Paris Saint Germain vs Lorient	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RGJRdRMPxkV.m3u8
+
+21:30 [g]Austrian Bundesliga[z]	^-
+Grazer AK vs WSG Tirol	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN4A7sL4kk6sw.m3u8
+SV Ried vs  Blau Weiss Linz	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN4A5frCGvBj3.m3u8
 
 22:50 [g]Saudi Professional League[z]	^-
-Al Fateh vs Neom	https://hls.livelivelive.space/live/4404619.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Al Fateh vs NEOM	https://hls.livelivelive.space/live/4404619.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Al Fateh vs NEOM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AnLNrDhYKYZ.m3u8
 
 23:00 [y]Italian Serie A[z]	^-
 Como vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194807/como-vs-napoli.html
 Como vs Napoli	https://ddkanq.vip/zhibo/35520.html
+Como vs Napoli	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3H1SdcBHM7ru.m3u8
 
 23:00 [g]Switzerland Super League[z]	^-
 Winterthur vs Zurich	https://ddkanq.vip/zhibo/35524.html
+Winterthur vs Zurich	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1pawSWMoaNH.m3u8
 Lausanne vs Luzern	https://ddkanq.vip/zhibo/35523.html
+Lausanne vs Luzern	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1ywq8UrrwFj.m3u8
 
 23:00 [g]Finnish Super League[z]	^-
-AC Oulu vs Koops	https://ddkanq.vip/zhibo/35522.html
+AC Oulu vs KuPs	https://ddkanq.vip/zhibo/35522.html
+AC Oulu vs KuPs	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzE2LMwP8LgD.m3u8
+
+20:30 [g]Russian Premier League[z]	^-
+CSKA Moscow vs Zenit St. Ptersburg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs9ndxeUCmA2Gy3.m3u8
 
 23:10 [g]Saudi Professional League[z]	^-
 Damac vs Al Khaleej	https://ddkanq.vip/zhibo/35525.html
+Damac vs Al Khaleej	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769T2aaizCndb.m3u8
 
 23:15 [g]Belgian Pro League[z]	^-
 Charleroi vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382827/rc-sporting-charleroi-vs-racing-genk.html
 Charleroi vs Racing Genk	https://ddkanq.vip/zhibo/35527.html
+Charleroi vs Racing Genk	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8jjHhWcVPLFX.m3u8
 
 23:30 [y]English Premier League[z]	^-
 Arsenal vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194038/arsenal-vs-fulham.html
 Arsenal vs Fulham	https://ddkanq.vip/zhibo/35530.html
+Arsenal vs Fulham	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1sQgidYKbC1.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199873/bayer-04-leverkusen-vs-rb-leipzig.html
 Bayer Leverkusen vs RB Leipzig	https://ddkanq.vip/zhibo/35529.html
+Bayer Leverkusen vs RB Leipzig	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DUr6qfbAjaV.m3u8
 
 23:30 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209708/deportivo-alavs-vs-athletic-club.html
 Deportivo Alavés vs Athletic Bilbao	https://ddkanq.vip/zhibo/35528.html
+Deportivo Alavés vs Athletic Bilbao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd4VD8uqSDn13.m3u8
 
 23:30 [g]Greek Super League[z]	^-
 Asteras Tripolis vs Atromitos Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386211/asteras-aktor-vs-atromitos-athens.html
+Asteras Tripolis vs Atromitos Athens	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBkMwMCY2zKw.m3u8
 
 23:45 [y]Netherlands Eredivisie[z]	^-
-Groningen vs SBV Elite	https://ddkanq.vip/zhibo/35531.html
+Groningen vs Excelsior SBV	https://ddkanq.vip/zhibo/35531.html
+Groningen vs Excelsior SBV	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpwNd8fTd1HLy.m3u8
 
 03.05.2026	^-
 
