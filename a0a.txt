@@ -36,31 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-20:30 Super League	^-
-Malut United vs Persis Solo	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229619/malut-united-vs-persis-solo-fc.html
-Malut United vs Persis Solo	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-
-20:30 [y]Bundesliga[z]	^-
-Eintracht Frankfurt vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199875/eintracht-frankfurt-vs-hamburger-sv.html
-Eintracht Frankfurt vs Hamburger SV	https://hls.livelivelive.space/live/4347619.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Eintracht Frankfurt vs Hamburger SV	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CyQJUQpFfPs.m3u8
-Union Berlin vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199878/1-fc-union-berlin-vs-fc-kln.html
-Union Berlin vs FC Koln	https://hls.livelivelive.space/live/4347631.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Union Berlin vs FC Koln	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DK7ELzHrDA5.m3u8
-Werder Bremen vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199879/sv-werder-bremen-vs-fc-augsburg.html
-Werder Bremen vs FC Augsburg	https://hls.livelivelive.space/live/4347637.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Werder Bremen vs FC Augsburg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DKLREDAoi5T.m3u8
-TSG Hoffenheim vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199887/tsg-hoffenheim-vs-vfb-stuttgart.html
-TSG Hoffenheim vs VfB Stuttgart	https://hls.livelivelive.space/live/4347665.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-TSG Hoffenheim vs VfB Stuttgart	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CpA1E3kg3y7.m3u8
-Bayern Munchen vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199889/fc-bayern-munich-vs-1-fc-heidenheim-1846.html
-Bayern Munchen vs 1. FC Heidenheim	https://hls.livelivelive.space/live/4347648.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Bayern Munchen vs 1. FC Heidenheim	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CULUurqbkkD.m3u8
-
-20:30 [g]Russian Premier League[z]	^-
-Baltika Kaliningrad vs Rubin Kazan	https://hls.livelivelive.space/live/4357099.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Baltika Kaliningrad vs Rubin Kazan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs9msdUSC1qstgu.m3u8
-
 21:00 [y]English Premier League[z]	^-
 Newcastle Utd vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193924/newcastle-united-vs-brighton-hove-albion.html
 Newcastle Utd vs Brighton Hove	https://hls.livelivelive.space/live/4343346.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
