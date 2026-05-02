@@ -36,41 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-21:00 [y]English Premier League[z]	^-
-Newcastle Utd vs Brighton Hove	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193924/newcastle-united-vs-brighton-hove-albion.html
-Newcastle Utd vs Brighton Hove	https://hls.livelivelive.space/live/4343346.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Newcastle Utd vs Brighton Hove	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy138WXpKp3mo.m3u8
-Wolves vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194019/wolverhampton-wanderers-vs-sunderland.html
-Wolves vs Sunderland AFC	https://hls.livelivelive.space/live/4343369.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Wolves vs Sunderland AFC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1MxtMNmQX1P.m3u8
-Brentford vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194028/brentford-vs-west-ham-united.html
-Brentford vs West Ham United	https://hls.livelivelive.space/live/4343336.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Brentford vs West Ham United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1sdsbrRH67P.m3u8
-
-21:00 [g]Belgian Pro League[z]	^-
-Westerlo vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382823/kvc-westerlo-vs-oud-heverlee-leuven.html
-Westerlo vs Oud Heverlee	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8ju4mVAGXmpq.m3u8
-
-21:00 [g]Greek Super League[z]	^-
-Panaitolikos vs AE Kifisias	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386209/panetolikos-agrinio-vs-ae-kifisias.html
-Panaitolikos vs AE Kifisias	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBkti5PFbpUV.m3u8
-
-21:00 [g]Finnish Super League[z]	^-
-FF Jaro vs TPS Turku	https://hls.livelivelive.space/live/4468081.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-FF Jaro vs TPS Turku	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzDwwQCRUWNR.m3u8
-IFK Mariehamn vs Vaasa	https://hls.livelivelive.space/live/4468082.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-IFK Mariehamn vs Vaasa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzE4XqorxFq7.m3u8
-
-21:00 [g]Scottish Premiership[z]	^-
-Falkirk vs Motherwell	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayFg9bJDYxBREM.m3u8
-Dundee vs Saint Mirren	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayGPns1MiXZaU5.m3u8
-Kilmarnock vs Dundee United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayGPnposr3jfKB.m3u8
-
-21:15 [y]Spanish La Liga[z]	^-
-Valencia vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209810/valencia-cf-vs-atletico-madrid.html
-Valencia vs Atletico Madrid	https://hls.livelivelive.space/live/4358404.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Valencia vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYdpeR7Yga68wP.m3u8
-
 21:30 [y]Netherlands Eredivisie[z]	^-
 Utrecht vs NAC Breda	https://hls.livelivelive.space/live/4344765.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Utrecht vs NAC Breda	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvsZK6ueMNhK.m3u8
