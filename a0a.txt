@@ -36,13 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-17:00 [g]Korean K League 1[z]	^-
-Gwangju FC vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336171/gwangju-football-club-vs-daejeon-citizen.html
-Gwangju FC vs Daejeon Citizen	https://hls.livelivelive.space/live/4480328.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Gwangju FC vs Daejeon Citizen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWw8BXuv428NH.m3u8
-Anyang FC vs Fuchuan 1995	https://hls.livelivelive.space/live/4480374.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Anyang FC vs Fuchuan 1995	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWvJ8YcKiU5sT.m3u8
-
 18:00 [g]Thai League 1[z]	^-
 Nakhon Ratchasima vs Sukhothai	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320266/nakhon-ratchasima-mazda-fc-vs-sukhothai.html
 Nakhon Ratchasima vs Sukhothai	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61SgtExzbB78yB.m3u8
