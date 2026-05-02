@@ -36,23 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-19:00 [y]Spanish La Liga[z]	^-
-Villarreal vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209842/villarreal-cf-vs-levante.html
-Villarreal vs Levante	https://hls.livelivelive.space/live/4358408.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Villarreal vs Levante	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYdpdxjnEpB96d.m3u8
-
-19:00 Super League	^-
-Malut United vs Persis Solo	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229619/malut-united-vs-persis-solo-fc.html
-Malut United vs Persis Solo	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-
-19:00 [g]Thai League 1[z]	^-
-Singha Kanchana vs Chonburi Shark	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320213/kanchanaburi-power-fc-vs-chonburi-fc.html
-Singha Kanchana vs Chonburi Shark	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ61ShPeZsyUCHzu.m3u8
-
-19:00 [g]Finnish Super League[z]	^-
-SJK Seinajoen vs Ilvis Tampere	https://hls.livelivelive.space/live/4468080.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-SJK Seinajoen vs Ilvis Tampere	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzDz8t4uJRXK.m3u8
-
 19:15 Malaysian Super League	^-
 Johor Darul Ta'zim vs Kuala Lumpur	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vdDSo78GQ1Su.m3u8
 
@@ -79,6 +62,10 @@ Sirius vs Kalmar	https://hls.livelivelive.space/live/4467047.m3u8?txSecret=737a2
 Sirius vs Kalmar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EN2fvZc9xTEUM.m3u8
 Degerfors vs Hacken	https://hls.livelivelive.space/live/4467040.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Degerfors vs Hacken	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EN2fjaCoZKehs.m3u8
+
+20:30 Super League	^-
+Malut United vs Persis Solo	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229619/malut-united-vs-persis-solo-fc.html
+Malut United vs Persis Solo	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
 20:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199875/eintracht-frankfurt-vs-hamburger-sv.html
@@ -344,10 +331,13 @@ Cruzeiro Esporte vs Atletico Mineiro	https://ddkanq.vip/zhibo/35568.html
 
 07:15 [g]Argentine Division 1[z]	^-
 CA Platense vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321848/ca-platense-vs-estudiantes-la-plata.html
+CA Platense vs Estudiantes La Plata	https://ddkanq.vip/zhibo/35569.html
 
 07:30 [g]US Major League Soccer[z]	^-
 Houston Dynamo vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317548/houston-dynamo-vs-colorado-rapids.html
+Houston Dynamo vs Colorado Rapids	https://ddkanq.vip/zhibo/35571.html
 Chicago Fire vs FC Cincinnati	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317626/chicago-fire-vs-fc-cincinnati.html
+Chicago Fire vs FC Cincinnati	https://ddkanq.vip/zhibo/35570.html
 
 08:00 [g]Mexico Liga MX[z]	^-
 Tigres UANL vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4394898/tigres-uanl-vs-club-deportivo-guadalajara.html
