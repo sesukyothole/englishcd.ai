@@ -211,14 +211,19 @@ Groningen vs SBV Elite	https://ddkanq.vip/zhibo/35531.html
 
 00:00 [y]French Ligue 1[z]	^-
 Metz vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200186/metz-vs-as-monaco.html
+Metz vs Monaco	https://ddkanq.vip/zhibo/35532.html
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216206/fc-famalicao-vs-benfica.html
+FC Famalicao vs Benfica	https://ddkanq.vip/zhibo/35533.html
 
 00:00 [g]Turkish Super League[z]	^-
 Samsunspor vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216918/samsunspor-vs-galatasaray.html
+Samsunspor vs Galatasaray	https://ddkanq.vip/zhibo/35534.html
 Fenerbahce vs Istanbul Buyuksehir	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216933/fenerbahce-vs-baakehir-futbol-kulb.html
+Fenerbahce vs Istanbul Buyuksehir	https://ddkanq.vip/zhibo/35536.html
 Trabzonspor vs Goztepe	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216934/trabzonspor-vs-goztepe.html
+Trabzonspor vs Goztepe	https://ddkanq.vip/zhibo/35535.html
 
 00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs San Jose Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317602/toronto-fc-vs-san-jose-earthquakes.html
@@ -230,6 +235,7 @@ Barracas Central vs Banfield	https://ddkanq.vip/zhibo/35538.html
 
 00:30 [g]Argentine Division 1[z]	^-
 Lanus vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321961/club-atltico-lans-vs-deportivo-riestra.html
+Lanus vs Deportivo Riestra	https://ddkanq.vip/zhibo/35539.html
 
 01:00 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199165/afc-ajax-vs-psv-eindhoven.html
@@ -237,18 +243,22 @@ AFC Ajax vs PSV Eindhoven	https://ddkanq.vip/zhibo/35541.html
 
 01:00 [g]Saudi Professional League[z]	^-
 Al-Hazm vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256160/al-hazem-vs-al-hilal.html
+Al-Hazm vs Al Hilal SFC	https://ddkanq.vip/zhibo/35542.html
 
 01:30 [g]Switzerland Super League[z]	^-
 Basel vs Thun	https://ddkanq.vip/zhibo/35544.html
 
 01:30 [g]US Major League Soccer[z]	^-
 FC Kansas City vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317566/sporting-kansas-city-vs-seattle-sounders.html
+FC Kansas City vs Seattle Sounders	https://ddkanq.vip/zhibo/35543.html
 
 01:45 [y]Italian Serie A[z]	^-
 Atalanta vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194813/atalanta-vs-genoa.html
+Atalanta vs Genoa	https://ddkanq.vip/zhibo/35545.html
 
 01:45 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383097/sint-truidense-vs-union-saint-gilloise.html
+Sint-Truidense vs Saint Gilloise	https://ddkanq.vip/zhibo/35546.html
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199286/nec-nijmegen-vs-sc-telstar.html
@@ -256,15 +266,19 @@ NEC Nijmegen vs SC Telstar	https://ddkanq.vip/zhibo/35548.html
 
 02:00 [y]Spanish La Liga[z]	^-
 Osasuna vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209768/ca-osasuna-vs-fc-barcelona.html
+Osasuna vs FC Barcelona	https://ddkanq.vip/zhibo/35547.html
 
 02:00 [g]Brazilian Serie A[z]	^-
 Botafogo RJ vs Remo Belem PA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324100/botafogo---rj-vs-remo---pa.html
+Botafogo RJ vs Remo Belem PA	https://ddkanq.vip/zhibo/35549.html
 
-02:00 [g]Categoría Primera A[z]	^-
+02:00 [g]Colombia Primera A[z]	^-
 Boyaca Chico vs Llaneros FC	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331604/boyaca-chico-vs-llaneros-fc.html
+Boyaca Chico vs Llaneros FC	https://ddkanq.vip/zhibo/35550.html
 
 02:05 [y]French Ligue 1[z]	^-
 Nice vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200229/ogc-nice-vs-rc-lens.html
+Nice vs Lens	https://ddkanq.vip/zhibo/35551.html
 
 02:15 [g]Argentine Division 1[z]	^-
 Central Cordoba SDE vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321960/central-cordoba-sde-vs-boca-juniors.html
