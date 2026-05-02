@@ -36,15 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.05.2026	^-
 
-22:00 [y]French Ligue 1[z]	^-
-Paris Saint Germain vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200142/paris-saint-germain-vs-lorient.html
-Paris Saint Germain vs Lorient	https://hls.livelivelive.space/live/4358431.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Paris Saint Germain vs Lorient	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RGJRdRMPxkV.m3u8
-
-21:30 [g]Austrian Bundesliga[z]	^-
-Grazer AK vs WSG Tirol	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN4A7sL4kk6sw.m3u8
-SV Ried vs  Blau Weiss Linz	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKN4A5frCGvBj3.m3u8
-
 22:50 [g]Saudi Professional League[z]	^-
 Al Fateh vs NEOM	https://hls.livelivelive.space/live/4404619.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Al Fateh vs NEOM	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AnLNrDhYKYZ.m3u8
