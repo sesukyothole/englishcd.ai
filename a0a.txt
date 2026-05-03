@@ -114,6 +114,7 @@ Red Bull Salzburg vs Sturm Graz	https://streaming.cdnx-sportnobar.xyz/live/sd-6M
 
 22:15 [y]Spanish La Liga[z]	^-z
 Getafe vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209767/getafe-vs-rayo-vallecano-05-2026.html
+Getafe vs Rayo Vallecano	``0https://v3.sportssonline.click/channels/hd/hd10.php
 Getafe vs Rayo Vallecano	https://hls.livelivelive.space/live/4358395.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 22:15 [y]French Ligue 1[z]	^-
@@ -134,6 +135,7 @@ Juventus vs Verona	https://ddkanq.vip/zhibo/35623.html
 
 23:00 [g]Greek Super League[z]	^-
 PAOK Saloniki vs Olympiakos Piraeus	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386796/paok-saloniki-vs-olympiacos-piraeus-05-2026.html
+PAOK Saloniki vs Olympiakos Piraeus	`0https://v3.sportssonline.click/channels/hd/hd11.php
 
 23:00 [g]Saudi Professional League[z]	^-
 Al Shabab vs Al Taawoun	https://ddkanq.vip/zhibo/35624.html
