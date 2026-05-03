@@ -36,70 +36,198 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 03.05.2026	^-
 
+10:15 [g]Mexico Liga MX[z]	^-
+Atlas vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4394964/atlas-vs-cruz-azul-05-2026.html
+
+12:00 [g]Japanese J1 League[z]	^-
+Tokyo Verdy vs Kashiwa Reysol	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331807/tokyo-verdy-vs-kashiwa-reysol-05-2026.html
+
+13:00 [g]Japanese J1 League[z]	^-
+Cerezo Osaka vs Avispa Fukuoka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331711/cerezo-osaka-vs-avispa-fukuoka-05-2026.html
+
+14:00 [g]Japanese J1 League[z]	^-
+Kashima Antlers vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331806/kashima-antlers-vs-machida-zelvia-05-2026.html
+
+15:00 [g]Japanese J1 League[z]	^-
+V-Varen Nagasaki vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331712/v-varen-nagasaki-vs-nagoya-grampus-05-2026.html
+
+15:30 Super League	^-
+Persik Kediri vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229624/persatuan-sepak-bola-indonesia-kediri-vs-arema-fc-05-2026.html
+
+15:30 Championship[z]	^-
+PSS Sleman vs PSIS Semarang	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352303/pss-sleman-vs-psis-semarang-05-2026.html
+Persipura Jayapura vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352306/persipura-jayapura-vs-persiku-kudus-05-2026.html
+Kendal Tornado vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352307/kendal-tornado-fc-vs-persela-lamongan-05-2026.html
+Barito Putera vs Persipal Palu	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352308/barito-putera-vs-persipal-palu-05-2026.html
+Deltras Sidoarjo vs Persi Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4352309/deltras-sidoarjo-vs-persiba-balikpapan-05-2026.html
+
+17:30 [y]Italian Serie A[z]	^-
+Bologna vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194724/bologna-vs-cagliari-05-2026.html
+
+18:00 [g]Thai League 1[z]	^-
+Prachuap Khiri vs Uthai Thani Forest	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320342/pt-prachuap-fc-vs-uthai-thani-forest-05-2026.html
+
+18:00 [g]Scottish Premiership[z]	^-
+Hibernian vs Celtic FC	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387803/hibernian-vs-celtic-fc-05-2026.html
+
+18:30 [g]Singapore Premier League[z]	^-
+Tampines Rovers vs Lion City Sailors	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258794/tampines-rovers-fc-vs-lion-city-sailors-05-2026.html
+
+18:30 [g]Thai League 1[z]	^-
+Ratchaburi FC vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320338/ratchaburi-fc-vs-rayong-fc-05-2026.html
+
+18:30 [g]Belgian Pro League[z]	^-
+Mechelen vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383171/kv-mechelen-vs-kaa-gent-05-2026.html
+
+19:00 [y]Spanish La Liga[z]	^-
+Real Celta Vigo vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209765/rc-celta-vs-elche-05-2026.html
+
+19:00 Super League	^-
+Dewa United FC vs Semen Padang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229627/dewa-united-fc-vs-semen-padang-05-2026.html
+
+19:00 [g]Thai League 1[z]	^-
+Lamphun Warrior vs Chiangrai United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4320341/lamphun-warriors-vs-chiangrai-united-05-2026.html
+
+19:30 [y]Netherlands Eredivisie[z]	^-
+Fortuna Sittard vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199274/fortuna-sittard-vs-feyenoord-05-2026.html
+
+20:00 [y]English Premier League[z]	^-
+Bournemouth AFC vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193959/bournemouth-afc-vs-crystal-palace-05-2026.html
+
+20:00 [y]Italian Serie A[z]	^-
+Sassuolo vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194765/sassuolo-vs-ac-milan-05-2026.html
+
+20:00 [y]French Ligue 1[z]	^-
+Lille vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200267/losc-lille-vs-havre-athletic-club-05-2026.html
+
+20:00 Malaysian Super League	^-
+Imigresen FC vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221273/imigresen-fc-vs-dpmm-fc-05-2026.html
+
+20:30 [y]Bundesliga[z]	^-
+FC St. Pauli vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199877/fc-st-pauli-vs-1-fsv-mainz-05-05-2026.html
+
+21:00 [g]Belgian Pro League[z]	^-
+Royal Antwerp vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382824/royal-antwerp-vs-standard-liege-05-2026.html
+
+21:00 [g]Greek Super League[z]	^-
+OFI Crete vs Aris Thessaloniki	`Fhttps://www.fctv33.net/football/greek-super-league-match-4387342/ofi-crete-vs-aris-thessaloniki-05-2026.html
+
+21:15 [y]Spanish La Liga[z]	^-
+Getafe vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209767/getafe-vs-rayo-vallecano-05-2026.html
+
+21:30 [y]English Premier League[z]	^-
+Manchester United vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193985/manchester-united-vs-liverpool-05-2026.html
+
+21:30 [g]Portuguese Primera Liga[z]	^-
+Casa Pia AC vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216203/casa-pia-ac-vs-cd-tondela-05-2026.html
+
+21:45 [y]Netherlands Eredivisie[z]	^-
+Sparta Rotterdam vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199194/sparta-rotterdam-vs-go-ahead-eagles-05-2026.html
+AZ Alkmaar vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199201/az-alkmaar-vs-fc-twente-enschede-05-2026.html
+
+22:15 [y]French Ligue 1[z]	^-
+AJ Auxerre vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200139/aj-auxerre-vs-angers-sco-05-2026.html
+Paris FC vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200218/paris-fc-vs-stade-brestois-29-05-2026.html
+Strasbourg vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200228/rc-strasbourg-alsace-vs-toulouse-fc-05-2026.html
+
+22:30 [y]Bundesliga[z]	^-
+Br Monchengladbach vs Br Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199885/borussia-monchengladbach-vs-borussia-dortmund-05-2026.html
+
+23:00 [y]Italian Serie A[z]	^-
+Juventus vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194644/juventus-vs-hellas-verona-05-2026.html
+
+23:00 [g]Greek Super League[z]	^-
+PAOK Saloniki vs Olympiakos Piraeus	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386796/paok-saloniki-vs-olympiacos-piraeus-05-2026.html
+
+23:30 [y]Spanish La Liga[z]	^-
+Real Betis vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209718/real-betis-vs-real-oviedo-05-2026.html
+
+23:30 [g]Argentine Division 1[z]	^-
+Aldosivi Plata vs Indep Rivadavia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321969/aldosivi-mar-del-plata-vs-independiente-rivadavia-05-2026.html
+
+23:30 [g]Belgian Pro League[z]	^-
+Anderlecht vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383174/anderlecht-vs-club-brugge-05-2026.html
+
+04.05.2026	^-
+
+00:00 [g]Portuguese Primera Liga[z]	^-
+Sporting Braga vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216253/sporting-braga-vs-estoril-05-2026.html
+
+00:15 [g]Belgian Pro League[z]	^-
+FCV Dender EH vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382865/fcv-dender-eh-vs-raal-la-louvire-05-2026.html
+
+00:30 [y]Bundesliga[z]	^-
+SC Freiburg vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199888/sc-freiburg-vs-vfl-wolfsburg-05-2026.html
+
+01:00 [y]English Premier League[z]	^-
+Aston Villa vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193923/aston-villa-vs-tottenham-hotspur-05-2026.html
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Ahli Jeddah vs Al-Akhdoud	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256162/al-ahli-sfc-vs-al-okhdood-05-2026.html
+Al-Qadasiya vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256222/al-qadsiah-vs-al-nassr-fc-05-2026.html
+
+01:00 [g]Greek Super League[z]	^-
+Panathinaikos vs AEK Athens	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386797/panathinaikos-vs-aek-athens-05-2026.html
+
+01:45 [y]Italian Serie A[z]	^-
+Inter Milan vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194568/inter-milan-vs-parma-05-2026.html
+
+01:45 [y]French Ligue 1[z]	^-
+Lyon vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200196/lyon-vs-stade-rennais-fc-05-2026.html
+
+02:00 [y]Spanish La Liga[z]	^-
+RCD Espanyol vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209623/rcd-espanyol-de-barcelona-vs-real-madrid-05-2026.html
+
+02:00 [g]US Major League Soccer[z]	^-
+New York City FC vs DC United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317624/new-york-city-fc-vs-dc-united-05-2026.html
+
+02:00 [g]Argentine Division 1[z]	^-
+Racing Club vs CA Huracan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321974/racing-club-de-avellaneda-vs-ca-huracan-05-2026.html
+Gimnasia La Plata vs Argentinos Jr	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321977/gimnasia-la-plata-vs-argentinos-juniors-05-2026.html
+Rosario Central vs Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321978/rosario-central-vs-club-atletico-tigre-05-2026.html
+Belgrano vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321980/belgrano-vs-sarmiento-junin-05-2026.html
+
+02:00 [g]Brazilian Serie A[z]	^-
+Sao Paulo vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324092/so-paulo---sp-vs-bahia---ba-05-2026.html
+
+02:30 [g]Portuguese Primera Liga[z]	^-
+Rio Ave vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216191/rio-ave-vs-gil-vicente-05-2026.html
+
+03:30 [g]Categoría Primera A[z]	^-
+Alianza Petrolera vs Millonarios	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331594/alianza-ftbol-club-vs-millonarios-05-2026.html
+Deportes Tolima vs Deportivo Cali	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331601/deportes-tolima-vs-deportivo-cali-05-2026.html
+Dep.Indep Medellin vs Aguilas Doradas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331605/depindependiente-medellin-vs-aguilas-doradas-05-2026.html
+Fortaleza vs Atletico Bucaramanga	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331606/fortaleza-fc-vs-atletico-bucaramanga-05-2026.html
+Independiente Santa Fe vs La Equidad	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331609/independiente-santa-fe-vs-internacional-de-bogota-05-2026.html
+
+04:30 [g]US Major League Soccer[z]	^-
+Austin FC vs St. Louis City SC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317565/austin-fc-vs-st-louis-city-sc-05-2026.html
+
+04:30 [g]Argentine Division 1[z]	^-
+River Plate vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321967/river-plate-vs-atletico-tucuman-05-2026.html
+
 04:30 [g]Brazilian Serie A[z]	^-
-Palmeiras vs Santos	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324055/palmeiras---sp-vs-santos-fc---sp.html
-Palmeiras vs Santos	https://hls.livelivelive.space/live/4465724.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Palmeiras vs Santos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCuKsMowkPBK.m3u8
-Vitoria BA vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324060/vitria---ba-vs-coritiba-saf---pr.html
-Vitoria BA vs Coritiba PR	https://hls.livelivelive.space/live/4465739.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Vitoria BA vs Coritiba PR	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCj8d6gtWrv9.m3u8
+Internacional RS vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324056/internacional---rs-vs-fluminense---rj-05-2026.html
+Chapecoense SC vs Bragantino	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324098/chapecoense---sc-vs-red-bull-bragantino-05-2026.html
 
-04:45 [g]Argentine Division 1[z]	^-
-Atlético Unión vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321964/club-atltico-unin-vs-talleres-cordoba.html
-Atlético Unión vs Talleres Cordoba	https://hls.livelivelive.space/live/4465186.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Atlético Unión vs Talleres Cordoba	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtkKGLoaxr9sT.m3u8
-San Lorenzo vs Independiente	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321965/san-lorenzo-vs-ca-independiente.html
-San Lorenzo vs Independiente	https://hls.livelivelive.space/live/4465130.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-San Lorenzo vs Independiente	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtmpMD3dTL8Mj.m3u8
+04:30 [g]CHI Liga de Primera[z]	^-
+Colo Colo vs Coquimbo Unido	`Fhttps://www.fctv33.net/football/chi-liga-de-primera-match-4330194/colo-colo-vs-coquimbo-unido-05-2026.html
 
-06:15 [g]US Major League Soccer[z]	^-
-Inter Miami CF vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317303/inter-miami-cf-vs-orlando-city.html
-Inter Miami CF vs Orlando City	https://hls.livelivelive.space/live/4460239.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Inter Miami CF vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8XPeWyEVktEH.m3u8
+05:45 [g]Colombia Primera A[z]	^-
+Atl Jr Barranquilla vs Dep Pasto	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331603/atletico-junior-barranquilla-vs-deportivo-pasto-05-2026.html
+America de Cali vs Dep Pereira	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4331607/america-de-cali-vs-deportivo-pereira-05-2026.html
 
-06:30 [g]US Major League Soccer[z]	^-
-New York Red Bulls vs FC Dallas	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317570/new-york-red-bulls-vs-fc-dallas.html
-New York Red Bulls vs FC Dallas	https://hls.livelivelive.space/live/4460243.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-New York Red Bulls vs FC Dallas	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WZX8huCZ1Rf.m3u8
-Atlanta United vs Montreal Impact	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317599/atlanta-united-vs-montreal-impact.html
-Atlanta United vs Montreal Impact	https://hls.livelivelive.space/live/4460240.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Atlanta United vs Montreal Impact	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WZUwE2ij6Gm.m3u8
-Philadelphia Union vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317628/philadelphia-union-vs-nashville.html
-Philadelphia Union vs Nashville	https://hls.livelivelive.space/live/4460244.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Philadelphia Union vs Nashville	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WZdj9We2ktM.m3u8
-New England Revo vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317667/new-england-revolution-vs-charlotte-fc.html
-New England Revo vs Charlotte FC	https://hls.livelivelive.space/live/4460242.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-New England Revo vs Charlotte FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WZZLBmgNvaZ.m3u8
-Columbus Crew vs Minnesota United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317698/columbus-crew-vs-minnesota-united-fc.html
-Columbus Crew vs Minnesota United	https://hls.livelivelive.space/live/4465713.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Columbus Crew vs Minnesota United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WZSjkAEuB7s.m3u8
+06:00 [g]Canadian Premier League[z]	^-
+Pacific FC vs Vancouver FC	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4352756/pacific-fc-vs-vancouver-fc-05-2026.html
+
+06:00 [g]Mexico Liga MX[z]	^-
+Club America vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4395427/club-america-vs-pumas-unam-05-2026.html
 
 06:30 [g]Brazilian Serie A[z]	^-
-Athletico Paranaense vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324097/athletico-paranaense---pr-vs-grmio---rs.html
-Athletico Paranaense vs Gremio RS	https://hls.livelivelive.space/live/4465713.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Athletico Paranaense vs Gremio RS	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCQ7Fsn3nov5.m3u8
+Mirassol vs Corinthians Paulista	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323211/mirassol---sp-vs-corinthians---sp-05-2026.html
 
-07:00 [g]Brazilian Serie A[z]	^-
-Cruzeiro Esporte vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324061/cruzeiro---mg-vs-atltico-mineiro---mg.html
-Cruzeiro Esporte vs Atletico Mineiro	https://hls.livelivelive.space/live/4465765.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Cruzeiro Esporte vs Atletico Mineiro	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCEUypiBx2xM.m3u8
-
-07:15 [g]Argentine Division 1[z]	^-
-CA Platense vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321848/ca-platense-vs-estudiantes-la-plata.html
-CA Platense vs Estudiantes La Plata	https://hls.livelivelive.space/live/4465159.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-CA Platense vs Estudiantes La Plata	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LtkooPdxDwENZ.m3u8
-
-07:30 [g]US Major League Soccer[z]	^-
-Houston Dynamo vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317548/houston-dynamo-vs-colorado-rapids.html
-Houston Dynamo vs Colorado Rapids	https://hls.livelivelive.space/live/4460247.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Houston Dynamo vs Colorado Rapids	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WZfvdP7rg3F.m3u8
-Chicago Fire vs FC Cincinnati	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317626/chicago-fire-vs-fc-cincinnati.html
-Chicago Fire vs FC Cincinnati	https://hls.livelivelive.space/live/4460246.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Chicago Fire vs FC Cincinnati	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WZi87FbgbC9.m3u8
-
-08:00 [g]Mexico Liga MX[z]	^-
-Tigres UANL vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4394898/tigres-uanl-vs-club-deportivo-guadalajara.html
-Tigres UANL vs Chivas Guadalajara	https://hls.livelivelive.space/live/4536375.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+08:15 [g]Mexico Liga MX[z]	^-
+Toluca vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4394903/toluca-vs-pachuca-05-2026.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
