@@ -36,15 +36,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 04.05.2026	^-
 
-19:00 Super League[z]	^-
-Persijap Jepara vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229616/persatuan-sepakbola-indonesia-jepara-vs-persatuan-sepakbola-indonesia-jakarta.html
-Persijap Jepara vs Persija Jakarta	`0https://www.marza12.shop/football/2826423-persijap-jepara-vs-persija-jakarta.html
-Persijap Jepara vs Persija Jakarta	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-Persijap Jepara vs Persija Jakarta	https://cdn-hls.taoxanh.biz/live/69f8557042283_6308/index.m3u8?expire=1778487280&sign=eaa93d6059b70f9c4b65ebd693576db6
-
 21:00 [y]English Premier League[z]	^-
 Chelsea vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193984/chelsea-vs-nottingham-forest.html
 Chelsea vs Nottingham Forest	https://hls.livelivelive.space/live/4343339.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&amp;txTime=1776963459
+Chelsea vs Nottingham Forest	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 
 23:00 [g]Finnish Super League[z]	^-
 Helsinki vs Lahti	https://ddkanq.vip/zhibo/35674.html
