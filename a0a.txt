@@ -62,21 +62,21 @@ FC Seoul vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-
 19:00 Super League[z]	^-
 Borneo FC vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229622/borneo-fc-vs-persita-tangerang.html
 
-23:00 [g]AFC U17 Asian Cup[z]	^-
+23:00 [l]AFC U17 Asian Cup[z]	^-
 Japan vs Qatar	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4394138/japan-u17-vs-qatar-u17.html
 
-23:30 [g]AFC U17 Asian Cup[z]	^-
+23:30 [l]AFC U17 Asian Cup[z]	^-
 Indonesia vs China	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390315/indonesia-u17-vs-china-u17.html
 
 06.05.2026	^-
 
-00:00 [g]AFC U17 Asian Cup[z]	^-
+00:00 [l]AFC U17 Asian Cup[z]	^-
 Saudi Arabia vs Myanmar	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4365264/saudi-arabia-u17-vs-myanmar-u17.html
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Khaleej Club vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256070/al-khaleej-club-vs-al-hilal.html
 
-02:00 [g]UEFA Champions League[z]	^-
+02:00 [y]UEFA Champions League[z]	^-
 Arsenal vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390115/arsenal-vs-atletico-madrid.html
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
