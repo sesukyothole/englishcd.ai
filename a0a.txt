@@ -4,9 +4,7 @@
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-^=zhiboz.com	`0https://www.popozhibo.tv/
-^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
-^=Maxstream	`Fhttps://maxstream.tv/home
+^=goals365	`Fhttps://www.goals365.live/
 ^=Blank	
 ^=	^-
 
@@ -1927,8 +1925,10 @@ PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
 PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 
 ^=ddkanq.vip	`0https://ddkanq.vip/
+^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
+^=zhiboz.com	`0https://www.popozhibo.tv/
 ^=808ontv	`Fhttps://play33.808ontv.com/
-^=goals365	`Fhttps://www.goals365.live/
+^=Maxstream	`Fhttps://maxstream.tv/home
 ^=Live 1	`0https://24start.net/homes/blog1/
 ^=Live 2	`0https://24start.net/homes/blog2/
 ^=Live 3	`0https://24start.net/homes/blog3/
