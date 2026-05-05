@@ -49,6 +49,7 @@ Al Khaleej Club vs Al Hilal SFC	https://hls.livelivelive.space/live/4404677.m3u8
 02:00 [y]UEFA Champions League[z]	^-
 Arsenal vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390115/arsenal-vs-atletico-madrid.html
 Arsenal vs Atletico Madrid	https://hls.livelivelive.space/live/4531805.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Arsenal vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL933t64GF3jScd.m3u8
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Rosario Central vs Libertad	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375785/rosario-central-vs-club-libertad-asuncin.html
