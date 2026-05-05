@@ -52,16 +52,21 @@ Arsenal vs Atletico Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Rosario Central vs Libertad	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375785/rosario-central-vs-club-libertad-asuncin.html
 Rosario Central vs Libertad	https://hls.livelivelive.space/live/4518363.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Rosario Central vs Libertad	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsvYzG4pBnMCnR.m3u8
 Sporting Cristal vs Palmeiras	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375837/sporting-cristal-vs-palmeiras---sp.html
 Sporting Cristal vs Palmeiras	https://hls.livelivelive.space/live/4518340.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Sporting Cristal vs Palmeiras	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsvYepXJhfY56V.m3u8
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 CA Juventud vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375754/ca-juventud-vs-atltico-mineiro---mg.html
 CA Juventud vs Atletico Mineiro	https://hls.livelivelive.space/live/4518160.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+CA Juventud vs Atletico Mineiro	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsu5MBUD23yxeh.m3u8
 Indep Petrolero vs Caracas FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375949/independiente-petrolero-vs-caracas-fc.html
 Indep Petrolero vs Caracas FC	https://hls.livelivelive.space/live/4518195.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Indep Petrolero vs Caracas FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsu4BPMYym1TEm.m3u8
 Deportivo Riestra vs Gremio RS	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377146/deportivo-riestra-vs-grmio---rs.html
 Deportivo Riestra vs Gremio RS	https://hls.livelivelive.space/live/4518208.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Deportivo Riestra vs Gremio RS	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsupVoRxKUdWSy.m3u8
 
 07:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Barcelona SC ECU vs Boca Juniors	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375844/barcelona-scecu-vs-boca-juniors.html
