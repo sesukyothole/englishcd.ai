@@ -41,10 +41,12 @@ Saudi Arabia vs Myanmar	https://hls.livelivelive.space/live/4497030.m3u8?txSecre
 00:30 [l]AFC U17 Asian Cup[z]	^-
 Tajikistan vs Thailand	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4375593/tajikistan-u17-vs-thailand-u17.html
 Tajikistan vs Thailand	https://hls.livelivelive.space/live/4497031.m3u8?txSecret=9d2f8a25af1802bfd9bdf5e9ed7cf397&txTime=1778001944
+Tajikistan vs Thailand	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVNVYqAHPtH8puVP.m3u8
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Khaleej Club vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256070/al-khaleej-club-vs-al-hilal.html
 Al Khaleej Club vs Al Hilal SFC	https://hls.livelivelive.space/live/4404677.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Al Khaleej Club vs Al Hilal SFC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76ATToYnn7wA5.m3u8
 
 02:00 [y]UEFA Champions League[z]	^-
 Arsenal vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390115/arsenal-vs-atletico-madrid.html
