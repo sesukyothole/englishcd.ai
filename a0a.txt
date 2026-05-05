@@ -40,21 +40,20 @@ Gnistan vs Inter Turku	https://hls.livelivelive.space/live/4468085.m3u8?txSecret
 23:00 [l]AFC U17 Asian Cup[z]	^-
 Japan vs Qatar	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4394138/japan-u17-vs-qatar-u17.html
 Japan vs Qatar	https://hls.livelivelive.space/live/4531922.m3u8?txSecret=2b506dadd1e33c59e1a7fc991a60fa02&txTime=1777996505
-Japan vs Qatar	https://liveplay1.camel4.live/live/sd-6MwdL93o2yQNdqA519.m3u8?txSecret=0c7339af39ece687ab7f7ef313304781&txTime=69FA17F4
 
 23:30 [l]AFC U17 Asian Cup[z]	^-
 Indonesia vs China	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390315/indonesia-u17-vs-china-u17.html
 Indonesia vs China	https://hls.livelivelive.space/live/4531923.m3u8?txSecret=6976891c0df5bead751d4bf51ec2830f&txTime=1777997465
-Indonesia vs China	https://liveplay1.camel4.live/live/sd-6MwdL93o2wCtmML9rF_md.m3u8?txSecret=6b692d95c12bde03e6fd78acea408283&txTime=69FA289A
 
 06.05.2026	^-
 
 00:00 [l]AFC U17 Asian Cup[z]	^-
 Saudi Arabia vs Myanmar	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4365264/saudi-arabia-u17-vs-myanmar-u17.html
-Saudi Arabia vs Myanmar	https://liveplay1.camel4.live/live/sd-6MvVNVYqAKbN9ceVAF.m3u8?txSecret=d122f5ba0339cb64ed650f29195929df&txTime=69FA293E
+Saudi Arabia vs Myanmar	https://hls.livelivelive.space/live/4497030.m3u8?txSecret=55071f633e75a4d5c7f278d5c93317b2&txTime=1778001906
 
 00:30 [l]AFC U17 Asian Cup[z]	^-
 Tajikistan vs Thailand	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4375593/tajikistan-u17-vs-thailand-u17.html
+Tajikistan vs Thailand	https://hls.livelivelive.space/live/4497031.m3u8?txSecret=9d2f8a25af1802bfd9bdf5e9ed7cf397&txTime=1778001944
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Khaleej Club vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256070/al-khaleej-club-vs-al-hilal.html
