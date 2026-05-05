@@ -36,10 +36,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 05.05.2026	^-
 
-05:15 [g]Argentine Division 1[z]	^-
-Velez Sarsfield vs Newells Old Boys	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321963/velez-sarsfield-vs-club-atltico-newells-old-boys.html
-Velez Sarsfield vs Newells Old Boys	https://hls.livelivelive.space/live/4465155.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 07:30 [g]Argentine Division 1[z]	^-
 Estudiantes Rio Cuarto vs Instituto	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4321979/estudiantes-rio-cuarto-vs-instituto-de-crdoba.html
 Estudiantes Rio Cuarto vs Instituto	https://hls.livelivelive.space/live/4465169.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -89,6 +85,16 @@ Sporting Cristal vs Palmeiras	`Fhttps://www.fctv33.net/football/conmebol-copa-li
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Indep Petrolero vs Caracas FC	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375949/independiente-petrolero-vs-caracas-fc.html
 Deportivo Riestra vs Gremio RS	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377146/deportivo-riestra-vs-grmio---rs.html
+
+07:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Barcelona SC ECU vs Boca Juniors	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375844/barcelona-scecu-vs-boca-juniors.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Aca Puerto Cabello vs Cienciano	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375757/academia-puerto-cabello-vs-cienciano.html
+Deportivo Recoleta vs Santos	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375879/deportivo-recoleta-vs-santos-fc---sp.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Always Ready vs Lanus	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375991/always-ready-vs-club-atltico-lans.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
