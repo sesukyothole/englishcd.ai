@@ -35,8 +35,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 05.05.2026	^-
 
 23:00 [g]Finnish Super League[z]	^-
-Gnistan vs Inter Turku	https://ddkanq.vip/zhibo/35705.html
-Gnistan vs Inter Turku	https://hls.livelivelive.space/live/4468085.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&amp;txTime=1776963459
+Gnistan vs Inter Turku	https://hls.livelivelive.space/live/4468085.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 23:00 [l]AFC U17 Asian Cup[z]	^-
 Japan vs Qatar	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4394138/japan-u17-vs-qatar-u17.html
@@ -58,7 +57,7 @@ Tajikistan vs Thailand	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Khaleej Club vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256070/al-khaleej-club-vs-al-hilal.html
-Al Khaleej Club vs Al Hilal SFC	https://ddkanq.vip/zhibo/35711.html
+Al Khaleej Club vs Al Hilal SFC	https://hls.livelivelive.space/live/4404677.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 02:00 [y]UEFA Champions League[z]	^-
 Arsenal vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390115/arsenal-vs-atletico-madrid.html
