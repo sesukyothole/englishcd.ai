@@ -50,6 +50,7 @@ Al Ahli Jeddah vs Al-Fateh	https://hls.livelivelive.space/live/4404652.m3u8?txSe
 Bayern Munchen vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390114/fc-bayern-munich-vs-paris-saint-germain.html
 Bayern Munchen vs Paris Saint Germain	https://hls.livelivelive.space/live/4531807.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Bayern Munchen vs Paris Saint Germain	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL933tATDz1PGvR.m3u8
+Bayern Munchen vs Paris Saint Germain	https://cdn-1.ttvb.eu.org/api/beIN-Sports-1/index.m3u8
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Audax Italiano vs Vasco da Gama	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375868/audax-italiano-vs-vasco-da-gama-saf---rj.html
@@ -160,6 +161,9 @@ TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 
 Arena Sport CZ 1	https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
 Arena Sport CZ 2	https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
+beIN Sports 1	https://cdn-1.ttvb.eu.org/api/beIN-Sports-1/index.m3u8
+beIN Sports 2	https://cdn-1.ttvb.eu.org/api/beIN-Sports-2/index.m3u8
+beIN Sports 3	https://cdn-1.ttvb.eu.org/api/beIN-Sports-3/index.m3u8
 beIN Sports AU 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 beIN Sports AU 2	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 beIN Sports AU 3	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd!!7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
