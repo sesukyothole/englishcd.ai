@@ -34,18 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 06.05.2026	^-
 
-11:00 [g]Japanese J1 League[z]	^-
-V-Varen Nagasaki vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331693/v-varen-nagasaki-vs-fagiano-okayama.html
-V-Varen Nagasaki vs Fagiano Okayama	https://hls.livelivelive.space/live/4470805.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Shimizu S-Pulse vs Cerezo Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331726/shimizu-s-pulse-vs-cerezo-osaka.html
-Shimizu S-Pulse vs Cerezo Osaka	https://hls.livelivelive.space/live/4470804.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-12:00 [g]Japanese J1 League[z]	^-
-Avispa Fukuoka vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331728/avispa-fukuoka-vs-kyoto-sanga.html
-Avispa Fukuoka vs Kyoto Sanga	https://hls.livelivelive.space/live/4470801.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Nagoya Grampus vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331729/nagoya-grampus-vs-gamba-osaka.html
-Nagoya Grampus vs Gamba Osaka	https://hls.livelivelive.space/live/4470802.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 13:00 [g]Japanese J1 League[z]	^-
 Hiroshima Sanfrecce vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331687/sanfrecce-hiroshima-vs-vissel-kobe.html
 Hiroshima Sanfrecce vs Vissel Kobe	https://hls.livelivelive.space/live/4470803.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
