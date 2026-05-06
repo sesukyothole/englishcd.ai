@@ -48,17 +48,23 @@ Nagoya Grampus vs Gamba Osaka	https://hls.livelivelive.space/live/4470802.m3u8?t
 
 13:00 [g]Japanese J1 League[z]	^-
 Hiroshima Sanfrecce vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331687/sanfrecce-hiroshima-vs-vissel-kobe.html
+Hiroshima Sanfrecce vs Vissel Kobe	https://hls.livelivelive.space/live/4470803.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 FC Tokyo vs Ichihara Chiba	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331800/fc-tokyo-vs-jef-united-ichihara-chiba.html
+FC Tokyo vs Ichihara Chiba	https://hls.livelivelive.space/live/4470711.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 14:00 [g]Japanese J1 League[z]	^-
 Machida Zelvia vs Yokohama Marinos	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331721/machida-zelvia-vs-yokohama-f-marinos.html
+Machida Zelvia vs Yokohama Marinos	https://hls.livelivelive.space/live/4470715.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Kashima Antlers vs Mito Hollyhock	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331811/kashima-antlers-vs-mito-hollyhock.html
+Kashima Antlers vs Mito Hollyhock	https://hls.livelivelive.space/live/4470712.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 15:00 [g]Japanese J1 League[z]	^-
 Kawasaki Frontale vs Tokyo Verdy	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331782/kawasaki-frontale-vs-tokyo-verdy.html
+Kawasaki Frontale vs Tokyo Verdy	https://hls.livelivelive.space/live/4470714.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 17:00 [g]Japanese J1 League[z]	^-
 Kashiwa Reysol vs Urawa Diamonds	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331799/kashiwa-reysol-vs-urawa-red-diamonds.html
+Kashiwa Reysol vs Urawa Diamonds	https://hls.livelivelive.space/live/4470713.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 [g]Asean Club Championship[z]	^-
 Johor Darul Takzim vs Buriram Utd	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4392754/johor-darul-tazim-fc-vs-buriram-united.html
