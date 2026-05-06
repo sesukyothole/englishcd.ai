@@ -54,11 +54,13 @@ Bayern Munchen vs Paris Saint Germain	https://streaming.cdnx-sportnobar.xyz/live
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Audax Italiano vs Vasco da Gama	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375868/audax-italiano-vs-vasco-da-gama-saf---rj.html
 Audax Italiano vs Vasco da Gama	https://hls.livelivelive.space/live/4518219.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Torque vs Palestino	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377145/montevideo-city-torque-vs-palestino.html
 Torque vs Palestino	https://hls.livelivelive.space/live/4518207.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Cusco FC vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376134/cusco-fc-vs-estudiantes-la-plata.html
 Cusco FC vs Estudiantes La Plata	https://hls.livelivelive.space/live/4518279.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Dep La Guaira vs Bolivar	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375933/deportivo-la-guaira-vs-bolivar.html
 Dep La Guaira vs Bolivar	https://hls.livelivelive.space/live/4518304.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 07:00 [g]CONMEBOL Copa Sudamericana[z]	^-
@@ -72,6 +74,7 @@ Botafogo RJ vs Racing Club	https://hls.livelivelive.space/live/4518196.m3u8?txSe
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Indep Santa Fe vs Corinthians Paul	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376063/independiente-santa-fe-vs-corinthians---sp.html
 Indep Santa Fe vs Corinthians Paul	https://hls.livelivelive.space/live/4518327.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Indep Rivadavia vs Fluminense	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375932/independiente-rivadavia-vs-fluminense---rj.html
 Indep Rivadavia vs Fluminense	https://hls.livelivelive.space/live/4518303.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 08:30 [g]CONCACAF Champions Cup[z]	^-
