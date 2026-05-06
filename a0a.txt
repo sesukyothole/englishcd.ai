@@ -34,10 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 07.05.2026	^-
 
-00:00 [l]AFC U17 Asian Cup[z]	^-
-Yemen vs Vietnam	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390308/yemen-u17-vs-vietnam-u17.html
-Yemen vs Vietnam	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93o2bRZw2uExD.m3u8
-
 00:30 [l]AFC U17 Asian Cup[z]	^-
 Korea Republic vs UAE	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390517/south-korea-u17-vs-united-arab-emirates-u17.html
 Korea Republic vs UAE	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93o2ZE64Z5KoK.m3u8
