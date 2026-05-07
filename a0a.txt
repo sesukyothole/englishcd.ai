@@ -34,16 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 07.05.2026	^-
 
-07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
-Botafogo RJ vs Racing Club	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375950/botafogo---rj-vs-racing-club-de-avellaneda.html
-Botafogo RJ vs Racing Club	https://hls.livelivelive.space/live/4518196.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-Indep Santa Fe vs Corinthians Paul	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376063/independiente-santa-fe-vs-corinthians---sp.html
-Indep Santa Fe vs Corinthians Paul	https://hls.livelivelive.space/live/4518327.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Indep Rivadavia vs Fluminense	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375932/independiente-rivadavia-vs-fluminense---rj.html
-Indep Rivadavia vs Fluminense	https://hls.livelivelive.space/live/4518303.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 08:30 [g]CONCACAF Champions Cup[z]	^-
 Toluca vs Los Angeles FC	`Fhttps://www.fctv33.net/football/concacaf-champions-cup-match-4390252/toluca-vs-los-angeles-fc.html
 Toluca vs Los Angeles FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL933NueG5dbnWH.m3u8
