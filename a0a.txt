@@ -60,6 +60,52 @@ Coquimbo Unido vs Univ De Deportes	https://streaming.cdnx-sportnobar.xyz/live/sd
 09:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Atl Jr Barranquilla vs Cerro Porteno	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375836/atletico-junior-barranquilla-vs-cerro-porteno.html
 
+15:00 Championship	^-
+Persekat Tegal vs Persiba	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4397967/persekat-tegal-vs-persiba-balikpapan.html
+Persipura vs Adhyaksa Banten	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4397968/persipura-jayapura-vs-adhyaksa-fc-banten.html
+
+15:30 Super League	^-
+Semen Padang vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229628/semen-padang-vs-persatuan-sepak-bola-indonesia-kediri.html
+
+19:00 Super League	^-
+PSBS Biak Numfor vs Dewa United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229569/psbs-biak-numfor-vs-dewa-united-fc.html
+
+20:00 Malaysian Super League	^-
+PDRM vs Penang	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221276/pdrm-fc-vs-penang-fc.html
+Terengganu vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221281/terengganu-fc-vs-imigresen-fc.html
+
+22:00 [g]Finnish Veikkausliiga[z]	^-
+Ilves Tampere vs AC Oulu	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329707/ilves-tampere-vs-ac-oulu.html
+
+09.05.2026	^-
+
+00:00 [g]Sweden Allsvenskan[z]	^-
+Elfsborg vs Brommapojkarna	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332028/elfsborg-vs-brommapojkarna.html
+
+01:00 [g]Saudi Arabia Kings Cup[z]	^-
+Al Hilal SFC vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4391441/al-hilal-vs-al-kholood.html
+
+01:30 [g]Polski EKSTRAKLASA[z]	^-
+Lech Poznan vs Arka Gdynia	`Fhttps://www.fctv33.net/football/pko-bank-polski-ekstraklasa-match-4195434/lech-poznan-vs-arka-gdynia.html
+
+01:30 [y]Bundesliga[z]	^-
+Br Dortmund vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/bundesliga-match-4199899/borussia-dortmund-vs-eintracht-frankfurt.html
+
+01:45 [y]Italian Serie A[z]	^-
+Torino vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194572/torino-vs-sassuolo.html
+
+01:45 [y]French Ligue 1[z]	^-
+Lens vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200231/rc-lens-vs-fc-nantes.html
+
+01:45 [g]Belgian Pro League[z]	^-
+Standard Liege vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382826/standard-liege-vs-oud-heverlee-leuven.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Levante vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209847/levante-vs-ca-osasuna.html
+
+02:00 [g]English Football League Champ[z]	^-
+Hull City vs Millwall	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4397426/hull-city-vs-millwall.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
