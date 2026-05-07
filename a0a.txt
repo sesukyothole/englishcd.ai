@@ -36,14 +36,19 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Shabab Riyadh vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256231/al-shabab-fc-vs-al-nassr-fc.html
+Al Shabab Riyadh vs Al Nassr FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76ATW12fFwrJy.m3u8
 
 02:00 [y]UEFA Europa League[z]	^-
 SC Freiburg vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4390469/sc-freiburg-vs-sporting-braga.html
+SC Freiburg vs Sporting Braga	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL5g8k1U9LRVTV7.m3u8
 Aston Villa vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4390470/aston-villa-vs-nottingham-forest.html
+Aston Villa vs Nottingham Forest	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL5g8jyGfTwfYLD.m3u8
 
 02:00 [y]UEFA Europa Conference League[z]	^-
 Strasbourg vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4390473/rc-strasbourg-alsace-vs-rayo-vallecano.html
+Strasbourg vs Rayo Vallecano	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL5g8upjbkgTpDK.m3u8
 Crystal Palace vs Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4390474/crystal-palace-vs-fc-shakhtar-donetsk.html
+Crystal Palace vs Shakhtar Donetsk	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL5g8uNMqJvYpNZ.m3u8
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Mirassol vs Liga Dep. Univ Quito	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375990/mirassol---sp-vs-liga-dep-universitaria-quito.html
