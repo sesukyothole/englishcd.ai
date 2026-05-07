@@ -34,32 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 07.05.2026	^-
 
-01:00 [g]Saudi Professional League[z]	^-
-Al Ahli Jeddah vs Al-Fateh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256069/al-ahli-sfc-vs-al-fateh-sc.html
-Al Ahli Jeddah vs Al-Fateh	https://hls.livelivelive.space/live/4404652.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-02:00 [y]UEFA Champions League[z]	^-
-Bayern Munchen vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4390114/fc-bayern-munich-vs-paris-saint-germain.html
-Bayern Munchen vs Paris Saint Germain	https://hls.livelivelive.space/live/4531807.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Bayern Munchen vs Paris Saint Germain	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL933tATDz1PGvR.m3u8
-Bayern Munchen vs Paris Saint Germain	https://cdn-1.ttvb.eu.org/api/beIN-Sports-1/index.m3u8
-
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Audax Italiano vs Vasco da Gama	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375868/audax-italiano-vs-vasco-da-gama-saf---rj.html
-Audax Italiano vs Vasco da Gama	https://hls.livelivelive.space/live/4518219.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Torque vs Palestino	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377145/montevideo-city-torque-vs-palestino.html
-Torque vs Palestino	https://hls.livelivelive.space/live/4518207.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-05:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Cusco FC vs Estudiantes La Plata	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376134/cusco-fc-vs-estudiantes-la-plata.html
-Cusco FC vs Estudiantes La Plata	https://hls.livelivelive.space/live/4518279.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Dep La Guaira vs Bolivar	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375933/deportivo-la-guaira-vs-bolivar.html
-Dep La Guaira vs Bolivar	https://hls.livelivelive.space/live/4518304.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-07:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Macara vs Tigre	https://hls.livelivelive.space/live/4518148.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Barracas Central vs Olimpia	https://hls.livelivelive.space/live/4518220.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Botafogo RJ vs Racing Club	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375950/botafogo---rj-vs-racing-club-de-avellaneda.html
 Botafogo RJ vs Racing Club	https://hls.livelivelive.space/live/4518196.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
