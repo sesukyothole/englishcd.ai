@@ -58,6 +58,33 @@ Dep Tolima vs Nacional Montevideo	https://hls.livelivelive.space/live/4518292.m3
 Univ Catolica vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375845/univ-catolica-vs-cruzeiro---mg.html
 Univ Catolica vs Cruzeiro Esporte	https://hls.livelivelive.space/live/4518315.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
+08.05.2026	^-
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Shabab Riyadh vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256231/al-shabab-fc-vs-al-nassr-fc.html
+
+02:00 [y]UEFA Europa League[z]	^-
+SC Freiburg vs Sporting Braga	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4390469/sc-freiburg-vs-sporting-braga.html
+Aston Villa vs Nottingham Forest	`Fhttps://www.fctv33.net/football/uefa-europa-league-match-4390470/aston-villa-vs-nottingham-forest.html
+
+02:00 [y]UEFA Europa Conference League[z]	^-
+Strasbourg vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4390473/rc-strasbourg-alsace-vs-rayo-vallecano.html
+Crystal Palace vs Shakhtar Donetsk	`Fhttps://www.fctv33.net/football/uefa-europa-conference-league-match-4390474/crystal-palace-vs-fc-shakhtar-donetsk.html
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Mirassol vs Liga Dep. Univ Quito	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375990/mirassol---sp-vs-liga-dep-universitaria-quito.html
+CA Platense vs CA Penarol	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376061/ca-platense-vs-ca-penarol.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+O.Higgins vs Sao Paulo	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377529/ohiggins-vs-so-paulo---sp.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Carabobo FC vs River Plate	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375855/carabobo-vs-river-plate.html
+Blooming vs Bragantino	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375857/blooming-vs-red-bull-bragantino.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Dep.Indep Medellin vs Flamengo	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376135/depindependiente-medellin-vs-flamengo---rj.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
