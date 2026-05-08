@@ -241,7 +241,8 @@ SportStars 4 for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e
 [l]{s} 👉Ⓜa1 🤹Multi Drama Dubbing Indonesia👈[z]	^^sa1
 
 	^-
-[w]Sports TV Channels[z]	^-
+[w]Sports Onlie Programs[z]
+Schedule	`0https://sportsonline.st/prog.txt
 
 Sport TV 1 🇵🇹	`0https://w2.sportzsonline.click/channels/pt/sporttv1.php
 Sport TV 2 🇵🇹	`0https://w2.sportzsonline.click/channels/pt/sporttv2.php
