@@ -34,14 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 08.05.2026	^-
 
-20:00 Malaysian Super League	^-
-PDRM vs Penang	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221276/pdrm-fc-vs-penang-fc.html
-PDRM vs Penang	`0https://www.marza12.shop/football/2822433-pdrm-vs-penang.html
-PDRM vs Penang	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vd486u2FAZiM.m3u8
-Terengganu vs Imigresen FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221281/terengganu-fc-vs-imigresen-fc.html
-Terengganu vs Imigresen FC	`0https://www.marza12.shop/football/2822434-terengganu-vs-imigresen-fc.html
-Terengganu vs Imigresen FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vd4EhLdgeKB3.m3u8
-
 22:00 [g]Finnish Veikkausliiga[z]	^-
 TPS Turku vs HJK Helsinki	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329616/tps-turku-vs-hjk-helsinki.html
 TPS Turku vs HJK Helsinki	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzEB8HRJS1Ho.m3u8
@@ -50,12 +42,24 @@ Ilves Tampere vs AC Oulu	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzE
 
 09.05.2026	^-
 
+00:00 [g]Bulgarian Premier League[z]	^-
+CSKA 1948 vs CSKA Sofia	https://hls.livelivelive.space/live/4533182.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
+00:00 [g]Danish Superliga[z]	^-
+VfB SønderjyskE vs SønderjyskE	https://hls.livelivelive.space/live/4510733.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
 00:00 [g]Sweden Allsvenskan[z]	^-
 Elfsborg vs Brommapojkarna	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332028/elfsborg-vs-brommapojkarna.html
 Elfsborg vs Brommapojkarna	https://hls.livelivelive.space/live/4467050.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
+00:00 [g]Finnish Veikkausliiga[z]	^-
+KuPS vs SJK Senajohn	https://hls.livelivelive.space/live/4468088.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
 01:00 [g]Saudi Arabia Kings Cup[z]	^-
 Al Hilal SFC vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4391441/al-hilal-vs-al-kholood.html
+
+01:00 [g]Romanian First Division[z]	^-
+CFR Cluj vs Universidad de Craiova	https://hls.livelivelive.space/live/4513219.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 01:30 [g]Polski EKSTRAKLASA[z]	^-
 Lech Poznan vs Arka Gdynia	`Fhttps://www.fctv33.net/football/pko-bank-polski-ekstraklasa-match-4195434/lech-poznan-vs-arka-gdynia.html
