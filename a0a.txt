@@ -34,15 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 08.05.2026	^-
 
-15:00 Championship	^-
-Persekat Tegal vs Persiba	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4397967/persekat-tegal-vs-persiba-balikpapan.html
-Persipura vs Adhyaksa Banten	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4397968/persipura-jayapura-vs-adhyaksa-fc-banten.html
-
-15:30 Super League	^-
-Semen Padang vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229628/semen-padang-vs-persatuan-sepak-bola-indonesia-kediri.html
-Semen Padang vs Persik Kediri	`0https://www.marza12.shop/football/2826426-semen-padang-vs-persik-kediri.html
-Semen Padang vs Persik Kediri	https://cdn-hls.taoxanh.biz/live/69fd98bc42283_88186/index.m3u8?expire=1778832188&sign=c09a41fbc822c3f23779e22474cc75db
-
 19:00 Super League	^-
 PSBS Biak Numfor vs Dewa United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229569/psbs-biak-numfor-vs-dewa-united-fc.html
 PSBS Biak Numfor vs Dewa United	`0https://www.marza12.shop/football/2826427-psbs-biak-vs-dewa-united-fc.html
