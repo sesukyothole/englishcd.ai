@@ -34,23 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 08.05.2026	^-
 
-07:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Coquimbo Unido vs Univ De Deportes	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375796/coquimbo-unido-vs-universitario-de-deportes.html
-Coquimbo Unido vs Univ De Deportes	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsunzkmC9TyT7b.m3u8
-
-07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
-Carabobo FC vs River Plate	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375855/carabobo-vs-river-plate.html
-Carabobo FC vs River Plate	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwcqsupft5mq6PHFT.m3u8
-Blooming vs Bragantino	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375857/blooming-vs-red-bull-bragantino.html
-Blooming vs Bragantino	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsupfmVLDeuXnm.m3u8
-
-07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-Dep.Indep Medellin vs Flamengo	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376135/depindependiente-medellin-vs-flamengo---rj.html
-Dep.Indep Medellin vs Flamengo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqsuoAVdgpmHyY1.m3u8
-
-09:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Atl Jr Barranquilla vs Cerro Porteno	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375836/atletico-junior-barranquilla-vs-cerro-porteno.html
-
 15:00 Championship	^-
 Persekat Tegal vs Persiba	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4397967/persekat-tegal-vs-persiba-balikpapan.html
 Persipura vs Adhyaksa Banten	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4397968/persipura-jayapura-vs-adhyaksa-fc-banten.html
