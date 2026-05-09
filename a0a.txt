@@ -203,14 +203,17 @@ Montreal Impact vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6M
 Fluminense RJ vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324099/fluminense---rj-vs-vitria---ba.html
 Fluminense RJ vs Vitoria BA	`0https://v3.sportssonline.click/channels/bra/br1.php
 Fluminense RJ vs Vitoria BA	https://hls.livelivelive.space/live/4465721.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Fluminense RJ vs Vitoria BA	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCu8sxTYcoQq.m3u8
 
 04:00 [g]Colombia Primera A[z]	^-
 La Equidad vs Atl Nacional Medellin	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398200/internacional-de-bogota-vs-atletico-nacional-medellin.html
 La Equidad vs Atl Nacional Medellin	https://hls.livelivelive.space/live/4539262.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+La Equidad vs Atl Nacional Medellin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2abscDRtPRHf.m3u8
 
 05:00 [g]Argentine Division 1[z]	^-
 Boca Juniors vs CA Huracan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4398679/boca-juniors-vs-ca-huracan.html
 Boca Juniors vs CA Huracan	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Boca Juniors vs CA Huracan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb5Y3mfvSeSRyX.m3u8
 
 06:10 [g]Colombia Primera A[z]	^-
 Deportes Tolima vs Deportivo Pasto	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398039/deportes-tolima-vs-deportivo-pasto.html
