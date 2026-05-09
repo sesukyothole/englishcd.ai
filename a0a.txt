@@ -34,51 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 10.05.2026	^-
 
-00:00 [g]Turkish Super League[z]	^-
-Goztepe vs Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216943/goztepe-vs-gazisehir-gaziantep.html
-Goztepe vs Gaziantep	https://hls.livelivelive.space/live/4366148.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Goztepe vs Gaziantep	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGJR6nn91Axm.m3u8
-Istanbul Buyuksehir vs Samsunspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216939/baakehir-futbol-kulb-vs-samsunspor.html
-Istanbul Buyuksehir vs Samsunspor	https://hls.livelivelive.space/live/4366123.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Istanbul Buyuksehir vs Samsunspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcHJxvCTNQ4ww.m3u8
-Konyaspor vs Fenerbahce	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216940/konyaspor-vs-fenerbahce.html
-Konyaspor vs Fenerbahce	https://hls.livelivelive.space/live/4366162.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Konyaspor vs Fenerbahce	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGeCRd6aFZ2m.m3u8
-Besiktas JK vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216941/besiktas-jk-vs-trabzonspor.html
-Besiktas JK vs Trabzonspor	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Besiktas JK vs Trabzonspor	https://hls.livelivelive.space/live/4366129.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Besiktas JK vs Trabzonspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcHJawPka8uQy.m3u8
-Galatasaray vs Antalyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216942/galatasaray-vs-antalyaspor.html
-Galatasaray vs Antalyaspor	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Galatasaray vs Antalyaspor	https://hls.livelivelive.space/live/4366187.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Galatasaray vs Antalyaspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFe6yys6metM.m3u8
-Eyupsor vs Rizespor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216944/eyupspor-vs-caykur-rizespor.html
-Eyupsor vs Rizespor	https://hls.livelivelive.space/live/4366104.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Eyupsor vs Rizespor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGygAcTAtbsb.m3u8
-Kocaelispor vs Fatih Karagumruk	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216938/kocaelispor-vs-karagumruk.html
-Kocaelispor vs Fatih Karagumruk	https://hls.livelivelive.space/live/4366166.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Kocaelispor vs Fatih Karagumruk	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGeMDYaVZDeM.m3u8
-Genclerbirligi vs Kasimpasa	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216937/genclerbirligi-vs-kasimpasa.html
-Genclerbirligi vs Kasimpasa	https://hls.livelivelive.space/live/4366171.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Genclerbirligi vs Kasimpasa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcGUPAAgKHCJZ.m3u8
-Alanyaspor vs Kayserispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216945/alanyaspor-vs-kayserispor.html
-Alanyaspor vs Kayserispor	https://hls.livelivelive.space/live/4366195.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Alanyaspor vs Kayserispor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTcMcFUKv1KKdDK3.m3u8
-
-00:00 [g]US Major League Soccer[z]	^-
-Toronto FC vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317326/toronto-fc-vs-inter-miami-cf.html
-Toronto FC vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Toronto FC vs Inter Miami CF	https://hls.livelivelive.space/live/4460258.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Toronto FC vs Inter Miami CF	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WPUgNG4d9n5.m3u8
-
-00:00 [g]Danish 1st Division[z]	^-
-Esbjerg vs Kolding FC	`Fhttps://www.fctv33.net/football/danish-1st-division-match-4382240/esbjerg-vs-kolding-fc.html
-Esbjerg vs Kolding FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaQeFDMQYE7bkYd.m3u8
-
-00:00 [l]AFC U17 Asian Cup[z]	^-
-Thailand vs Saudi Arabia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390481/thailand-u17-vs-saudi-arabia-u17.html
-Thailand vs Saudi Arabia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93nXVQXWaRR9f.m3u8
-
 00:30 [l]AFC U17 Asian Cup[z]	^-
 Myanmar vs Tajikistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390485/myanmar-u17-vs-tajikistan-u17.html
 Myanmar vs Tajikistan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93nXTD3e6bVzm.m3u8
