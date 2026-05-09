@@ -44,6 +44,7 @@ Cerezo Osaka vs V-Varen Nagasaki	https://hls.livelivelive.space/live/4470806.m3u
 15:30 Super League	^-
 Arema FC vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229630/arema-fc-vs-persatuan-sepakbola-makassar.html
 Arema FC vs PSM Makassar	`0https://www.marza12.shop/football/2826428-arema-fc-vs-psm-makassar.html
+Arema FC vs PSM Makassar	https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 16:40 [g]Australia A-League[z]	^-
 Sydney FC vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4396971/sydney-fc-vs-newcastle-jets.html
