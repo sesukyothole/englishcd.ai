@@ -34,28 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 09.05.2026	^-
 
-20:15 [g]Bulgarian Premier League[z]	^-
-Chalomori vs Botev Plovdiv	https://hls.livelivelive.space/live/4533150.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Chalomori vs Botev Plovdiv	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2RspEdbuxdEZb.m3u8
-
-20:30 [y]Bundesliga[z]	^-
-TSG Hoffenheim vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199892/tsg-hoffenheim-vs-sv-werder-bremen.html
-TSG Hoffenheim vs Werder Bremen	`0https://v3.sportssonline.click/channels/hd/hd9.php
-TSG Hoffenheim vs Werder Bremen	https://hls.livelivelive.space/live/4347647.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-TSG Hoffenheim vs Werder Bremen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CUq4AB5Lfjs.m3u8
-VfB Stuttgart vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199893/vfb-stuttgart-vs-bayer-04-leverkusen.html
-VfB Stuttgart vs Bayer Leverkusen	`0https://v3.sportssonline.click/channels/hd/hd3.php
-VfB Stuttgart vs Bayer Leverkusen	https://hls.livelivelive.space/live/4347609.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-VfB Stuttgart vs Bayer Leverkusen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3D96yVDdkGfP.m3u8
-FC Augsburg vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199903/fc-augsburg-vs-borussia-monchengladbach.html
-FC Augsburg vs Br Monchengladbach	`0https://v3.sportssonline.click/channels/hd/hd10.php
-FC Augsburg vs Br Monchengladbach	https://hls.livelivelive.space/live/4347599.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-FC Augsburg vs Br Monchengladbach	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y2SpGioJe38mK.m3u8
-RB Leipzig vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199907/rb-leipzig-vs-fc-st-pauli.html
-RB Leipzig vs FC St. Pauli	`0https://v3.sportssonline.click/channels/hd/hd4.php
-RB Leipzig vs FC St. Pauli	https://hls.livelivelive.space/live/4347635.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-RB Leipzig vs FC St. Pauli	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3DKG2GUD9smf.m3u8
-
 21:00 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193928/brighton-hove-albion-vs-wolverhampton-wanderers.html
 Brighton Hove Albion vs Wolves	`0https://v3.sportssonline.click/channels/hd/hd2.php
@@ -104,15 +82,16 @@ Al Khaleej vs Al Ettifaq	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769c
 23:00 [y]Italian Serie A[z]	^-
 Lazio vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194566/lazio-vs-inter-milan.html
 Lazio vs Inter Milan	`0https://v3.sportssonline.click/channels/bra/br3.php
-Lazio vs Inter Milan	https://ddkanq.vip/zhibo/35840.html
+Lazio vs Inter Milan	https://hls.livelivelive.space/live/4339697.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 23:00 [l]AFC U17 Asian Cup[z]	^-
 China vs Japan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390318/china-u17-vs-japan-u17.html
+China vs Japan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93o33oLNnpEny.m3u8
 
 23:00 [g]Switzerland Super League[z]	^-
-Zurich vs Grasshopper	https://ddkanq.vip/zhibo/35842.html
+Zurich vs Grasshopper	https://hls.livelivelive.space/live/4526036.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Zurich vs Grasshopper	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1pp8KjEm5Hf.m3u8
-Winterthur vs Lausanne	https://ddkanq.vip/zhibo/35841.html
+Winterthur vs Lausanne	https://hls.livelivelive.space/live/4526035.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Winterthur vs Lausanne	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1phXt7oHKpy.m3u8
 
 23:15 [g]Saudi Professional League[z]	^-
@@ -122,19 +101,19 @@ Al Najma KSA vs Al Hazem	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76Ad
 23:30 [y]English Premier League[z]	^-
 Manchester City vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193989/manchester-city-vs-brentford.html
 Manchester City vs Brentford	`0https://v3.sportssonline.click/channels/hd/hd1.php
-Manchester City vs Brentford	https://ddkanq.vip/zhibo/35844.html
+Manchester City vs Brentford	https://hls.livelivelive.space/live/4343259.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Manchester City vs Brentford	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxG3LfkJgf2iR.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 VfL Wolfsburg vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199904/vfl-wolfsburg-vs-fc-bayern-munich.html
 VfL Wolfsburg vs Bayern Munchen	`0https://v3.sportssonline.click/channels/hd/hd5.php
-VfL Wolfsburg vs Bayern Munchen	https://ddkanq.vip/zhibo/35845.html
+VfL Wolfsburg vs Bayern Munchen	https://hls.livelivelive.space/live/4347603.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 VfL Wolfsburg vs Bayern Munchen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3D9UxHvS1SCM.m3u8
 
 23:30 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209781/atletico-madrid-vs-rc-celta.html
 Atletico Madrid vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd6.php
-Atletico Madrid vs Real Celta Vigo	https://ddkanq.vip/zhibo/35843.html
+Atletico Madrid vs Real Celta Vigo	https://hls.livelivelive.space/live/4358327.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Atletico Madrid vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd6ALTVX4dc8u.m3u8
 
 23:30 [g]Greek Super League[z]	^-
@@ -149,25 +128,25 @@ Qatar vs Indonesia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93o31brWJz
 
 00:00 [g]Turkish Super League[z]	^-
 Goztepe vs Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216943/goztepe-vs-gazisehir-gaziantep.html
-Goztepe vs Gaziantep	https://ddkanq.vip/zhibo/35850.html
+Goztepe vs Gaziantep	https://hls.livelivelive.space/live/4366148.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Istanbul Buyuksehir vs Samsunspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216939/baakehir-futbol-kulb-vs-samsunspor.html
-Istanbul Buyuksehir vs Samsunspor	https://ddkanq.vip/zhibo/35848.html
+Istanbul Buyuksehir vs Samsunspor	https://hls.livelivelive.space/live/4366123.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Konyaspor vs Fenerbahce	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216940/konyaspor-vs-fenerbahce.html
-Konyaspor vs Fenerbahce	https://ddkanq.vip/zhibo/35855.html
+Konyaspor vs Fenerbahce	https://hls.livelivelive.space/live/4366162.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Besiktas JK vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216941/besiktas-jk-vs-trabzonspor.html
 Besiktas JK vs Trabzonspor	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Besiktas JK vs Trabzonspor	https://ddkanq.vip/zhibo/35849.html
+Besiktas JK vs Trabzonspor	https://hls.livelivelive.space/live/4366129.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Galatasaray vs Antalyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216942/galatasaray-vs-antalyaspor.html
 Galatasaray vs Antalyaspor	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Galatasaray vs Antalyaspor	https://ddkanq.vip/zhibo/35853.html
+Galatasaray vs Antalyaspor	https://hls.livelivelive.space/live/4366187.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Eyupsor vs Rizespor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216944/eyupspor-vs-caykur-rizespor.html
-Eyupsor vs Rizespor	https://ddkanq.vip/zhibo/35847.html
+Eyupsor vs Rizespor	https://hls.livelivelive.space/live/4366104.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Kocaelispor vs Fatih Karagumruk	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216938/kocaelispor-vs-karagumruk.html
-Kocaelispor vs Fatih Karagumruk	https://ddkanq.vip/zhibo/35851.html
+Kocaelispor vs Fatih Karagumruk	https://hls.livelivelive.space/live/4366166.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Genclerbirligi vs Kasimpasa	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216937/genclerbirligi-vs-kasimpasa.html
-Genclerbirligi vs Kasimpasa	https://ddkanq.vip/zhibo/35852.html
+Genclerbirligi vs Kasimpasa	https://hls.livelivelive.space/live/4366171.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Alanyaspor vs Kayserispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216945/alanyaspor-vs-kayserispor.html
-Alanyaspor vs Kayserispor	https://ddkanq.vip/zhibo/35854.html
+Alanyaspor vs Kayserispor	https://hls.livelivelive.space/live/4366195.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 00:00 [g]US Major League Soccer[z]	^-
 Toronto FC vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317326/toronto-fc-vs-inter-miami-cf.html
