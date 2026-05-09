@@ -51,11 +51,16 @@ Montana vs Lokomotiv Sofia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2R
 Liverpool vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193981/liverpool-vs-chelsea.html
 Liverpool vs Chelsea	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Liverpool vs Chelsea	https://hls.livelivelive.space/live/4343256.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Liverpool vs Chelsea	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxG3udxMt3n1s.m3u8
 
 18:30 [g]English Football League Champ[z]	^-
 Middlesbrough vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4397467/middlesbrough-vs-southampton.html
 Middlesbrough vs Southampton	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Middlesbrough vs Southampton	https://hls.livelivelive.space/live/4538277.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Middlesbrough vs Southampton	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLeHaBaZkJbWStm.m3u8
+
+18:30 [g]Singapore Premier League[z]	^-
+Young Lions vs Geylang United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXbzYhVM1pomfrrR.m3u8
 
 19:00 [y]Spanish La Liga[z]	^-
 Elche vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209759/elche-vs-deportivo-alavs.html
