@@ -95,9 +95,11 @@ Sevilla vs RCD Espanyol	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5A1
 
 22:45 [g]Bulgarian Premier League[z]	^-
 Sofia Livski vs Ludogorets	https://hls.livelivelive.space/live/4533183.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Sofia Livski vs Ludogorets	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2RsKAp3MyyKuw.m3u8
 
 22:55 [g]Saudi Professional League[z]	^-
 Al Khaleej vs Al Ettifaq	https://hls.livelivelive.space/live/4404684.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Al Khaleej vs Al Ettifaq	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc769cvEztCpyfb.m3u8
 
 23:00 [y]Italian Serie A[z]	^-
 Lazio vs Inter Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194566/lazio-vs-inter-milan.html
@@ -109,31 +111,39 @@ China vs Japan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390318
 
 23:00 [g]Switzerland Super League[z]	^-
 Zurich vs Grasshopper	https://ddkanq.vip/zhibo/35842.html
+Zurich vs Grasshopper	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1pp8KjEm5Hf.m3u8
 Winterthur vs Lausanne	https://ddkanq.vip/zhibo/35841.html
+Winterthur vs Lausanne	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1phXt7oHKpy.m3u8
 
 23:15 [g]Saudi Professional League[z]	^-
 Al Najma KSA vs Al Hazem	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256226/al-najmaksa-vs-al-hazem.html
+Al Najma KSA vs Al Hazem	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76Ad65brdxi7o.m3u8
 
 23:30 [y]English Premier League[z]	^-
 Manchester City vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193989/manchester-city-vs-brentford.html
 Manchester City vs Brentford	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Manchester City vs Brentford	https://ddkanq.vip/zhibo/35844.html
+Manchester City vs Brentford	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxG3LfkJgf2iR.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 VfL Wolfsburg vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199904/vfl-wolfsburg-vs-fc-bayern-munich.html
 VfL Wolfsburg vs Bayern Munchen	`0https://v3.sportssonline.click/channels/hd/hd5.php
 VfL Wolfsburg vs Bayern Munchen	https://ddkanq.vip/zhibo/35845.html
+VfL Wolfsburg vs Bayern Munchen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3D9UxHvS1SCM.m3u8
 
 23:30 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209781/atletico-madrid-vs-rc-celta.html
 Atletico Madrid vs Real Celta Vigo	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Atletico Madrid vs Real Celta Vigo	https://ddkanq.vip/zhibo/35843.html
+Atletico Madrid vs Real Celta Vigo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd6ALTVX4dc8u.m3u8
 
 23:30 [g]Greek Super League[z]	^-
 Atromitos Athens vs Panaitolikos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386218/atromitos-athens-vs-panetolikos-agrinio.html
+Atromitos Athens vs Panaitolikos	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VCFt8gCGbtpM.m3u8
 
 23:30 [l]AFC U17 Asian Cup[z]	^-
 Qatar vs Indonesia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390319/qatar-u17-vs-indonesia-u17.html
+Qatar vs Indonesia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93o31brWJzKe5.m3u8
 
 10.05.2026	^-
 
