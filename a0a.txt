@@ -34,16 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 09.05.2026	^-
 
-16:40 [g]Australia A-League[z]	^-
-Sydney FC vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4396971/sydney-fc-vs-newcastle-jets.html
-Sydney FC vs Newcastle Jets	https://hls.livelivelive.space/live/4538194.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Sydney FC vs Newcastle Jets	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLeGpMp8cwaTDeM.m3u8
-
-17:00 [g]Korean K League 1[z]	^-
-Daejeon Citizen vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336084/daejeon-citizen-vs-pohang-steelers.html
-Daejeon Citizen vs Pohang Steelers	https://hls.livelivelive.space/live/4480416.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Daejeon Citizen vs Pohang Steelers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpXfT8VAKwNoCh.m3u8
-
 17:45 [g]Bulgarian Premier League[z]	^-
 Montana vs Lokomotiv Sofia	https://hls.livelivelive.space/live/4533168.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Montana vs Lokomotiv Sofia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2RtK34oNaVj8y.m3u8
@@ -67,6 +57,7 @@ Young Lions vs Geylang United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvX
 Elche vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209759/elche-vs-deportivo-alavs.html
 Elche vs Deportivo Alavés	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Elche vs Deportivo Alavés	https://hls.livelivelive.space/live/4358332.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Elche vs Deportivo Alavés	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5zXC36ofFQh.m3u8
 
 19:00 Super League	^-
 Persis Solo vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229629/persis-solo-fc-vs-persebaya-surabaya.html
@@ -78,6 +69,7 @@ PSS Sleman vs Garudayaksa	`Fhttps://www.fctv33.net/football/indonesian-champions
 19:00 [g]Finnish Super League[z]	^-
 Inter Turku vs FF Jaro	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329615/inter-turku-vs-jaro.html
 Inter Turku vs FF Jaro	https://hls.livelivelive.space/live/4468089.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Inter Turku vs FF Jaro	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAzDeMZEasB9F.m3u8
 
 19:00 [g]Danish 1st Division[z]	^-
 AC Horsens vs Hillerod Fodbold	`Fhttps://www.fctv33.net/football/danish-1st-division-match-4382296/ac-horsens-vs-hillerod-fodbold.html
