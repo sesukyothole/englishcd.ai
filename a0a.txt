@@ -93,25 +93,35 @@ Melaka FC vs Kuching FA	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vd4C
 Cagliari vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194603/cagliari-vs-udinese.html
 Cagliari vs Udinese	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Cagliari vs Udinese	https://hls.livelivelive.space/live/4339673.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Cagliari vs Udinese	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj2XrZHVnVv9zM.m3u8
 
 20:00 [g]Sweden Allsvenskan[z]	^-
 Degerfors vs Mjällby	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332035/degerfors-if-vs-mjallby-aif.html
 Degerfors vs Mjällby	https://hls.livelivelive.space/live/4467049.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Degerfors vs Mjällby	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EN2fPnsyEtQKo.m3u8
 Västerås vs GAIS	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332029/vasteras-sk-fk-vs-gais.html
 Västerås vs GAIS	https://hls.livelivelive.space/live/4467055.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Västerås vs GAIS	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EN2W9VdcBJnu3.m3u8
 Göteborg vs Hammarby	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332048/ifk-goteborg-vs-hammarby.html
 Göteborg vs Hammarby	https://hls.livelivelive.space/live/4467051.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Göteborg vs Hammarby	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EN2Vzhi8G18HT.m3u8
+
+20:00 [g]Greek Super League[z]	^-
+Panserraikos vs AE Kifisias	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VCFojiTJx4WZ.m3u8
 
 20:15 [g]Bulgarian Premier League[z]	^-
 Chalomori vs Botev Plovdiv	https://hls.livelivelive.space/live/4533150.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Chalomori vs Botev Plovdiv	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2RspEdbuxdEZb.m3u8
 
 20:30 [y]Bundesliga[z]	^-
 TSG Hoffenheim vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199892/tsg-hoffenheim-vs-sv-werder-bremen.html
 TSG Hoffenheim vs Werder Bremen	`0https://v3.sportssonline.click/channels/hd/hd9.php
 TSG Hoffenheim vs Werder Bremen	https://hls.livelivelive.space/live/4347647.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+TSG Hoffenheim vs Werder Bremen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CUq4AB5Lfjs.m3u8
 VfB Stuttgart vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199893/vfb-stuttgart-vs-bayer-04-leverkusen.html
 VfB Stuttgart vs Bayer Leverkusen	`0https://v3.sportssonline.click/channels/hd/hd3.php
 VfB Stuttgart vs Bayer Leverkusen	https://hls.livelivelive.space/live/4347609.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+VfB Stuttgart vs Bayer Leverkusen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3D96yVDdkGfP.m3u8
 FC Augsburg vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199903/fc-augsburg-vs-borussia-monchengladbach.html
 FC Augsburg vs Br Monchengladbach	`0https://v3.sportssonline.click/channels/hd/hd10.php
 FC Augsburg vs Br Monchengladbach	https://hls.livelivelive.space/live/4347599.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
