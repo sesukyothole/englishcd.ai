@@ -40,8 +40,9 @@ Sydney FC vs Newcastle Jets	https://hls.livelivelive.space/live/4538194.m3u8?txS
 Sydney FC vs Newcastle Jets	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLeGpMp8cwaTDeM.m3u8
 
 17:00 [g]Korean K League 1[z]	^-
-Daejeon Hana vs Pohang Steelers	https://hls.livelivelive.space/live/4480416.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Daejeon Hana vs Pohang Steelers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpXfT8VAKwNoCh.m3u8
+Daejeon Citizen vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336084/daejeon-citizen-vs-pohang-steelers.html
+Daejeon Citizen vs Pohang Steelers	https://hls.livelivelive.space/live/4480416.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Daejeon Citizen vs Pohang Steelers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpXfT8VAKwNoCh.m3u8
 
 17:45 [g]Bulgarian Premier League[z]	^-
 Montana vs Lokomotiv Sofia	https://hls.livelivelive.space/live/4533168.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -75,14 +76,20 @@ Persis Solo vs Persebaya Surabaya	`0https://www.marza12.shop/football/2826429-pe
 PSS Sleman vs Garudayaksa	`Fhttps://www.fctv33.net/football/indonesian-championship-match-4398025/pss-sleman-vs-garudayaksa-fc.html
 
 19:00 [g]Finnish Super League[z]	^-
+Inter Turku vs FF Jaro	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329615/inter-turku-vs-jaro.html
 Inter Turku vs FF Jaro	https://hls.livelivelive.space/live/4468089.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
+19:00 [g]Danish 1st Division[z]	^-
+AC Horsens vs Hillerod Fodbold	`Fhttps://www.fctv33.net/football/danish-1st-division-match-4382296/ac-horsens-vs-hillerod-fodbold.html
+Aarhus Fremad vs Herfolge Boldklub	`Fhttps://www.fctv33.net/football/danish-1st-division-match-4382309/aarhus-fremad-vs-herfolge-boldklub-koge.html
 
 19:15 Malaysian Super League	^-
 DPMM FC vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221274/dpmm-fc-vs-sabah-fc.html
 DPMM FC vs Sabah	`0https://www.marza12.shop/football/2822436-dpmm-fc-vs-sabah.html
 
 19:30 Malaysian Super League	^-
-Melaka FC vs Kuching	`0https://www.marza12.shop/football/2822435-melaka-fc-vs-kuching-fa.html
+Melaka FC vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221275/melaka-fc-vs-kuching-city-fc.html
+Melaka FC vs Kuching FA	`0https://www.marza12.shop/football/2822435-melaka-fc-vs-kuching-fa.html
 
 20:00 [y]Italian Serie A[z]	^-
 Cagliari vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194603/cagliari-vs-udinese.html
@@ -90,8 +97,11 @@ Cagliari vs Udinese	`0https://v3.sportssonline.click/channels/hd/hd7.php
 Cagliari vs Udinese	https://hls.livelivelive.space/live/4339673.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:00 [g]Sweden Allsvenskan[z]	^-
+Degerfors vs Mjällby	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332035/degerfors-if-vs-mjallby-aif.html
 Degerfors vs Mjällby	https://hls.livelivelive.space/live/4467049.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Västerås vs GAIS	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332029/vasteras-sk-fk-vs-gais.html
 Västerås vs GAIS	https://hls.livelivelive.space/live/4467055.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Göteborg vs Hammarby	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332048/ifk-goteborg-vs-hammarby.html
 Göteborg vs Hammarby	https://hls.livelivelive.space/live/4467051.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:15 [g]Bulgarian Premier League[z]	^-
@@ -132,7 +142,8 @@ LaLouviere vs Cercle Brugge	https://hls.livelivelive.space/live/4521206.m3u8?txS
 AEL Larisa vs Asteras Tripolis	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386213/ael-larisa-vs-asteras-aktor.html
 
 21:00 [g]Finnish Super League[z]	^-
-VPS vs Gnistan	https://hls.livelivelive.space/live/4468090.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Vaasa VPS vs Gnistan Helsinki	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329656/vaasa-vps-vs-gnistan-helsinki.html
+Vaasa VPS vs Gnistan Helsinki	https://hls.livelivelive.space/live/4468090.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:15 [y]Spanish La Liga[z]	^-
 Sevilla vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209698/sevilla-fc-vs-rcd-espanyol-de-barcelona.html
@@ -158,7 +169,7 @@ Zurich vs Grasshopper	https://ddkanq.vip/zhibo/35842.html
 Winterthur vs Lausanne	https://ddkanq.vip/zhibo/35841.html
 
 23:15 [g]Saudi Professional League[z]	^-
-Al Najma vs Al Hazem	
+Al Najma KSA vs Al Hazem	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256226/al-najmaksa-vs-al-hazem.html
 
 23:30 [y]English Premier League[z]	^-
 Manchester City vs Brentford	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193989/manchester-city-vs-brentford.html
@@ -184,6 +195,7 @@ Qatar vs Indonesia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-439
 10.05.2026	^-
 
 00:00 [g]Turkish Super League[z]	^-
+Goztepe vs Gaziantep	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216943/goztepe-vs-gazisehir-gaziantep.html
 Goztepe vs Gaziantep	https://ddkanq.vip/zhibo/35850.html
 Istanbul Buyuksehir vs Samsunspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216939/baakehir-futbol-kulb-vs-samsunspor.html
 Istanbul Buyuksehir vs Samsunspor	https://ddkanq.vip/zhibo/35848.html
@@ -195,9 +207,13 @@ Besiktas JK vs Trabzonspor	https://ddkanq.vip/zhibo/35849.html
 Galatasaray vs Antalyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216942/galatasaray-vs-antalyaspor.html
 Galatasaray vs Antalyaspor	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Galatasaray vs Antalyaspor	https://ddkanq.vip/zhibo/35853.html
+Eyupsor vs Rizespor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216944/eyupspor-vs-caykur-rizespor.html
 Eyupsor vs Rizespor	https://ddkanq.vip/zhibo/35847.html
+Kocaelispor vs Fatih Karagumruk	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216938/kocaelispor-vs-karagumruk.html
 Kocaelispor vs Fatih Karagumruk	https://ddkanq.vip/zhibo/35851.html
+Genclerbirligi vs Kasimpasa	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216937/genclerbirligi-vs-kasimpasa.html
 Genclerbirligi vs Kasimpasa	https://ddkanq.vip/zhibo/35852.html
+Alanyaspor vs Kayserispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216945/alanyaspor-vs-kayserispor.html
 Alanyaspor vs Kayserispor	https://ddkanq.vip/zhibo/35854.html
 
 00:00 [g]US Major League Soccer[z]	^-
@@ -205,11 +221,17 @@ Toronto FC vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-maj
 Toronto FC vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Toronto FC vs Inter Miami CF	https://ddkanq.vip/zhibo/35846.html
 
+00:00 [g]Danish 1st Division[z]	^-
+Esbjerg vs Kolding FC	`Fhttps://www.fctv33.net/football/danish-1st-division-match-4382240/esbjerg-vs-kolding-fc.html
+
 00:00 [l]AFC U17 Asian Cup[z]	^-
 Thailand vs Saudi Arabia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390481/thailand-u17-vs-saudi-arabia-u17.html
 
 00:30 [l]AFC U17 Asian Cup[z]	^-
 Myanmar vs Tajikistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390485/myanmar-u17-vs-tajikistan-u17.html
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Feiha vs Al Qadasiya	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256228/al-fayha-vs-al-qadsiah.html
 
 01:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs New York Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317637/chicago-fire-vs-new-york-red-bulls.html
