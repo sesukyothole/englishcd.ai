@@ -34,38 +34,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 09.05.2026	^-
 
-21:00 [y]English Premier League[z]	^-
-Brighton Hove Albion vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193928/brighton-hove-albion-vs-wolverhampton-wanderers.html
-Brighton Hove Albion vs Wolves	`0https://v3.sportssonline.click/channels/hd/hd2.php
-Brighton Hove Albion vs Wolves	https://hls.livelivelive.space/live/4343243.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Brighton Hove Albion vs Wolves	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxGDRKZpJQoWu.m3u8
-Fulham vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193957/fulham-vs-bournemouth-afc.html
-Fulham vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Fulham vs Bournemouth AFC	https://hls.livelivelive.space/live/4343253.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Fulham vs Bournemouth AFC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxG3ieZ1UvCFP.m3u8
-Sunderland AFC vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193978/sunderland-vs-manchester-united.html
-Sunderland AFC vs Manchester United	`0https://v3.sportssonline.click/channels/hd/hd1.php
-Sunderland AFC vs Manchester United	https://hls.livelivelive.space/live/4343263.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Sunderland AFC vs Manchester United	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxGYpfbRwQ23w.m3u8
-
-21:00 [g]Belgian Pro League[z]	^-
-Zulte-Waregem vs FCV Dender EH	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382861/zulte-waregem-vs-fcv-dender-eh.html
-Zulte-Waregem vs FCV Dender EH	https://hls.livelivelive.space/live/4521190.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Zulte-Waregem vs FCV Dender EH	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8jjDJYsXjVwj.m3u8
-LaLouviere vs Cercle Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382862/raal-la-louvire-vs-cercle-brugge.html
-LaLouviere vs Cercle Brugge	https://hls.livelivelive.space/live/4521206.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-LaLouviere vs Cercle Brugge	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9W4Gk81QQ8mB.m3u8
-
-21:00 [g]Greek Super League[z]	^-
-AEL Larisa vs Asteras Tripolis	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386213/ael-larisa-vs-asteras-aktor.html
-AEL Larisa vs Asteras Tripolis	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VCFmYEaq89Mf.m3u8
-
-21:00 [g]Finnish Super League[z]	^-
-Vaasa VPS vs Gnistan Helsinki	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329656/vaasa-vps-vs-gnistan-helsinki.html
-Vaasa VPS vs Gnistan Helsinki	https://hls.livelivelive.space/live/4468090.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Vaasa VPS vs Gnistan Helsinki	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAz4HTsG5opFo.m3u8
-
-21:15 [y]Spanish La Liga[z]	^-
+21:20 [y]Spanish La Liga[z]	^-
 Sevilla vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209698/sevilla-fc-vs-rcd-espanyol-de-barcelona.html
 Sevilla vs RCD Espanyol	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Sevilla vs RCD Espanyol	https://hls.livelivelive.space/live/4358342.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -183,40 +152,52 @@ Al Feiha vs Al Qadasiya	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76Ad1
 01:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs New York Red Bulls	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317637/chicago-fire-vs-new-york-red-bulls.html
 Chicago Fire vs New York Red Bulls	https://hls.livelivelive.space/live/4460253.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Chicago Fire vs New York Red Bulls	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WPpTh6P4QA9.m3u8
+
+01:30 [g]Switzerland Super League[z]	^-
+Luzern vs Servette	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1pmvqrkwA8m.m3u8
 
 01:45 [y]Italian Serie A[z]	^-
 Lecce vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194727/lecce-vs-juventus.html
 Lecce vs Juventus	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Lecce vs Juventus	https://hls.livelivelive.space/live/4339699.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Lecce vs Juventus	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj2WqyGcEnhLrH.m3u8
 
 01:45 [g]Belgian Pro League[z]	^-
 Club Brugge vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383146/club-brugge-vs-sint-truidense.html
 Club Brugge vs Sint-Truidense	https://hls.livelivelive.space/live/4521186.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Club Brugge vs Sint-Truidense	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8ju9ASuEBc8d.m3u8
 
 02:00 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209654/real-sociedad-vs-real-betis.html
 Real Sociedad vs Real Betis	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Real Sociedad vs Real Betis	https://hls.livelivelive.space/live/4358338.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Real Sociedad vs Real Betis	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5z9DEQ1Q5sj.m3u8
 
 02:00 [g]Brazilian Serie A[z]	^-
 Coritiba PR vs Internacional RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324104/coritiba-saf---pr-vs-internacional---rs.html
 Coritiba PR vs Internacional RS	`0https://v3.sportssonline.click/channels/bra/br5.php
 Coritiba PR vs Internacional RS	https://hls.livelivelive.space/live/4465746.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Coritiba PR vs Internacional RS	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBuCEEhzSZt1.m3u8
 
 02:00 [g]Scottish Premiership[z]	^-
 Motherwell vs Heart of Midlothian	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387792/motherwell-vs-heart-of-midlothian.html
 Motherwell vs Heart of Midlothian	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Motherwell vs Heart of Midlothian	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayFg9k692sV5qw.m3u8
 
 02:00 [g]CAF Confederation Cup[z]	^-
 USM Alger vs Zamalek	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4394543/usm-alger-vs-zamalek-sc.html
+USM Alger vs Zamalek	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2TMx5Tvfq347o.m3u8
 
 02:30 [g]Argentine Division 1[z]	^-
 Talleres Cordoba vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4398677/talleres-cordoba-vs-belgrano.html
 Talleres Cordoba vs Belgrano	https://hls.livelivelive.space/live/4539616.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Talleres Cordoba vs Belgrano	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb5Y3osQK8GM8R.m3u8
 
 03:30 [g]US Major League Soccer[z]	^-
 Montreal Impact vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317333/montreal-impact-vs-orlando-city.html
 Montreal Impact vs Orlando City	https://hls.livelivelive.space/live/4460256.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Montreal Impact vs Orlando City	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WQ1T6SnByvd.m3u8
 
 04:00 [g]Brazilian Serie A[z]	^-
 Fluminense RJ vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324099/fluminense---rj-vs-vitria---ba.html
