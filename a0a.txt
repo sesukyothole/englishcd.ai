@@ -66,14 +66,17 @@ Montana vs Lokomotiv Sofia	https://hls.livelivelive.space/live/4533168.m3u8?txSe
 
 18:30 [y]English Premier League[z]	^-
 Liverpool vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193981/liverpool-vs-chelsea.html
+Liverpool vs Chelsea	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Liverpool vs Chelsea	https://hls.livelivelive.space/live/4343256.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 18:30 [g]English Football League Champ[z]	^-
 Middlesbrough vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4397467/middlesbrough-vs-southampton.html
+Middlesbrough vs Southampton	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Middlesbrough vs Southampton	https://hls.livelivelive.space/live/4538277.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 [y]Spanish La Liga[z]	^-
 Elche vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209759/elche-vs-deportivo-alavs.html
+Elche vs Deportivo Alavés	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Elche vs Deportivo Alavés	https://hls.livelivelive.space/live/4358332.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 Super League	^-
@@ -90,27 +93,35 @@ DPMM FC vs Sabah	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-
 
 20:00 [y]Italian Serie A[z]	^-
 Cagliari vs Udinese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194603/cagliari-vs-udinese.html
+Cagliari vs Udinese	`0https://v3.sportssonline.click/channels/hd/hd7.php
+Cagliari vs Udinese	https://hls.livelivelive.space/live/4339673.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:15 [g]Bulgarian Premier League[z]	^-
 Chalomori vs Botev Plovdiv	https://hls.livelivelive.space/live/4533150.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:30 [y]Bundesliga[z]	^-
 TSG Hoffenheim vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199892/tsg-hoffenheim-vs-sv-werder-bremen.html
+TSG Hoffenheim vs Werder Bremen	`0https://v3.sportssonline.click/channels/hd/hd9.php
 TSG Hoffenheim vs Werder Bremen	https://hls.livelivelive.space/live/4347647.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 VfB Stuttgart vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199893/vfb-stuttgart-vs-bayer-04-leverkusen.html
+VfB Stuttgart vs Bayer Leverkusen	`0https://v3.sportssonline.click/channels/hd/hd3.php
 VfB Stuttgart vs Bayer Leverkusen	https://hls.livelivelive.space/live/4347609.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 FC Augsburg vs Br Monchengladbach	`Fhttps://www.fctv33.net/football/bundesliga-match-4199903/fc-augsburg-vs-borussia-monchengladbach.html
+FC Augsburg vs Br Monchengladbach	`0https://v3.sportssonline.click/channels/hd/hd10.php
 FC Augsburg vs Br Monchengladbach	https://hls.livelivelive.space/live/4347599.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 RB Leipzig vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199907/rb-leipzig-vs-fc-st-pauli.html
+RB Leipzig vs FC St. Pauli	`0https://v3.sportssonline.click/channels/hd/hd4.php
 RB Leipzig vs FC St. Pauli	https://hls.livelivelive.space/live/4347635.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:00 [y]English Premier League[z]	^-
 Brighton Hove Albion vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193928/brighton-hove-albion-vs-wolverhampton-wanderers.html
+Brighton Hove Albion vs Wolves	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Brighton Hove Albion vs Wolves	https://hls.livelivelive.space/live/4343243.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Fulham vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193957/fulham-vs-bournemouth-afc.html
+Fulham vs Bournemouth AFC	`0https://v3.sportssonline.click/channels/hd/hd11.php
 Fulham vs Bournemouth AFC	https://hls.livelivelive.space/live/4343253.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Sunderland AFC vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193978/sunderland-vs-manchester-united.html
+Sunderland AFC vs Manchester United	`0https://v3.sportssonline.click/channels/hd/hd1.php
 Sunderland AFC vs Manchester United	https://hls.livelivelive.space/live/4343263.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:00 [g]Belgian Pro League[z]	^-
@@ -127,6 +138,7 @@ VPS vs Gnistan	https://hls.livelivelive.space/live/4468090.m3u8?txSecret=737a25f
 
 21:15 [y]Spanish La Liga[z]	^-
 Sevilla vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209698/sevilla-fc-vs-rcd-espanyol-de-barcelona.html
+Sevilla vs RCD Espanyol	`0https://v3.sportssonline.click/channels/hd/hd6.php
 Sevilla vs RCD Espanyol	https://hls.livelivelive.space/live/4358342.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 22:45 [g]Bulgarian Premier League[z]	^-
