@@ -50,25 +50,33 @@ Gazovik Orenburg vs Krylya Sovetov	https://streaming.cdnx-sportnobar.xyz/live/sd
 17:30 [y]Italian Serie A[z]	^-
 Verona vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194730/hellas-verona-vs-como.html
 Verona vs Como	https://hls.livelivelive.space/live/4339705.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Verona vs Como	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj3HBFu4bYKUb7.m3u8
 
 18:00 [g]Scottish Premiership[z]	^-
 Celtic FC vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387796/celtic-fc-vs-rangers.html
 Celtic FC vs Glasgow Rangers	`0https://www.marza12.shop/football/2974199-celtic-fc-vs-glasgow-rangers.html
 
 18:15 [g]Bulgarian Premier League[z]	^-
-Warner Sparta vs Sofia Slavia	https://hls.livelivelive.space/live/4533169.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Spartak Varna vs Slavia Sofia	https://hls.livelivelive.space/live/4533169.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Spartak Varna vs Slavia Sofia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2RtJzsKW6foz5.m3u8
 
 18:30 [g]Belgian Pro League[z]	^-
 KAA Gent vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383175/kaa-gent-vs-anderlecht.html
 KAA Gent vs Anderlecht	https://hls.livelivelive.space/live/4521152.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+KAA Gent vs Anderlecht	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8kQ6PZqmMmKb.m3u8
+
+18:30 [g]Singapore Premier League[z]	^-
+Lion City Sailors vs Albirex Niigata	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXbzYhVRQnYjKhAD.m3u8
 
 19:00 [g]Russian Premier League[z]	^-
 Zenit St. Petersburg vs FK Sochi	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201401/zenit-st-petersburg-vs-fc-sochi.html
 Zenit St. Petersburg vs FK Sochi	https://hls.livelivelive.space/live/4357112.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Zenit St. Petersburg vs FK Sochi	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs9ndo2C9hJBW1K.m3u8
 
 19:00 [y]Spanish La Liga[z]	^-
 Mallorca vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209809/rcd-mallorca-vs-villarreal-cf.html
 Mallorca vs Villarreal	https://hls.livelivelive.space/live/4358334.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Mallorca vs Villarreal	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5zbazqmK5iV.m3u8
 
 19:00 Super League	^-
 PSIM Yogyakarta vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229486/psim-yogyakarta-vs-malut-united.html
@@ -77,45 +85,54 @@ PSIM Yogyakarta vs Malut United	`0https://www.marza12.shop/football/2826432-psim
 19:00 [g]Finnish Veikkausliiga[z]	^-
 Lahti vs IFK Mariehamn	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329619/lahti-vs-ifk-mariehamn.html
 Lahti vs IFK Mariehamn	https://hls.livelivelive.space/live/4468091.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Lahti vs IFK Mariehamn	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6dAz4FGPPbyu6u.m3u8
 
 19:00 [g]Sweden Allsvenskan[z]	^-
 Kalmar vs Halmstads	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332038/kalmar-vs-halmstads.html
 Kalmar vs Halmstads	https://hls.livelivelive.space/live/4467053.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 AIK Solna vs Djurgardens	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332043/aik-vs-djurgardens.html
 AIK Solna vs Djurgardens	https://hls.livelivelive.space/live/4467048.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+AIK Solna vs Djurgardens	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EN2fRzMqiiKUh.m3u8
 
 19:00 [g]Danish Superliga[z]	^-
 Vejle vs Fredericia	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368405/vejle-vs-fredericia.html
 Vejle vs Fredericia	https://hls.livelivelive.space/live/4510762.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Vejle vs Fredericia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYJ2mi64AgbX.m3u8
 Nordsjaelland vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368419/nordsjaelland-vs-midtjylland.html
 Nordsjaelland vs Midtjylland	https://hls.livelivelive.space/live/4510732.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Nordsjaelland vs Midtjylland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYo8nkWWeWQ5.m3u8
 
 19:00 [g]Switzerland Super League[z]	^-
 Lugano vs St. Gallen	https://hls.livelivelive.space/live/4526038.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Lugano vs St. Gallen	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdagu1pHMbYXCF97.m3u8
 
 19:15 Malaysian Super League	^-
 Kuala Lumpur vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221268/kuala-lumpur-city-fc-vs-negeri-sembilan.html
 Kuala Lumpur vs Negeri Sembilan	`0https://www.marza12.shop/football/2822437-kuala-lumpur-city-fc-vs-negeri-sembilan.html
+Kuala Lumpur vs Negeri Sembilan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuTN5vd4GtpWAUEKw.m3u8
 
 19:30 [g]Norwegian Eliteserien[z]	^-
 Rosenborg vs Lillestrom	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332529/rosenborg-vs-lillestrom.html
-
-19:45 [g]Bulgarian Premier League[z]	^-
-Varadesa vs Septemri	https://hls.livelivelive.space/live/4533166.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Rosenborg vs Lillestrom	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6ERibiHxypqCCD.m3u8
 
 20:00 [y]English Premier League[z]	^-
 Nottingham Forest vs Newcastle Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193961/nottingham-forest-vs-newcastle-united.html
 Nottingham Forest vs Newcastle Utd	https://hls.livelivelive.space/live/4343282.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Nottingham Forest vs Newcastle Utd	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxFYepzTWGHbj.m3u8
 Burnley vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193987/burnley-vs-aston-villa.html
 Burnley vs Aston Villa	https://hls.livelivelive.space/live/4343246.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Burnley vs Aston Villa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxGDcJyAhYPHP.m3u8
 Crystal Palace vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193995/crystal-palace-vs-everton.html
 Crystal Palace vs Everton	https://hls.livelivelive.space/live/4343250.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Crystal Palace vs Everton	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxG3gT5916H6V.m3u8
 
 20:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194775/fiorentina-vs-genoa.html
 Fiorentina vs Genoa	https://hls.livelivelive.space/live/4339695.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Fiorentina vs Genoa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj2WrReNgYcLh3.m3u8
 Cremonese vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194839/cremonese-vs-pisa.html
 Cremonese vs Pisa	https://hls.livelivelive.space/live/4339692.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Cremonese vs Pisa	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj2WrPStp4nRY9.m3u8
 
 20:00 Malaysian Super League	^-
 Kelantan Utd vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221267/kelantan-the-real-warriors-vs-johor-darul-tazim-fc.html
@@ -124,9 +141,14 @@ Kelantan Utd vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-s
 Hamburger SV vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199891/hamburger-sv-vs-sc-freiburg.html
 Hamburger SV vs SC Freiburg	https://hls.livelivelive.space/live/4347605.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
+20:45 [g]Bulgarian Premier League[z]	^-
+Botev Vratsa vs Septemvri Sofia	https://hls.livelivelive.space/live/4533166.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Botev Vratsa vs Septemvri Sofia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2RtKZqXZJ4ZHX.m3u8
+
 21:00 [g]Danish Superliga[z]	^-
 Silkeborg vs FC Copenhagen	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368432/silkeborg-vs-fc-copenhagen.html
 Silkeborg vs FC Copenhagen	https://hls.livelivelive.space/live/4510761.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Silkeborg vs FC Copenhagen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYHvBGUcgw8q.m3u8
 
 21:00 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382745/royal-antwerp-vs-rc-sporting-charleroi.html
@@ -134,7 +156,9 @@ Royal Antwerp vs Charleroi	https://hls.livelivelive.space/live/4521179.m3u8?txSe
 
 21:00 [g]Greek Super League[z]	^-
 Aris Thessaloniki vs OFI Crete	`Fhttps://www.fctv33.net/football/greek-super-league-match-4387339/aris-thessaloniki-vs-ofi-crete.html
-Volos NFC vs Levadiakos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4387340/volos-nps-vs-levadiakos.html
+Aris Thessaloniki vs OFI Crete	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBFptWqGwupq.m3u8
+Volos NPS vs Levadiakos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4387340/volos-nps-vs-levadiakos.html
+Volos NPS vs Levadiakos	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBFnh2xo7zfw.m3u8
 
 21:15 [g]Russian Premier League[z]	^-
 Terek Grozny vs FK Makhachkala	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201457/akhmat-grozny-vs-dynamo-makhachkala.html
