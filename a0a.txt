@@ -34,12 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 10.05.2026	^-
 
-14:00 [g]Japanese J1 League[z]	^-
-Nagoya Grampus vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331708/nagoya-grampus-vs-kyoto-sanga.html
-Nagoya Grampus vs Kyoto Sanga	https://hls.livelivelive.space/live/4470808.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Kashiwa Reysol vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331809/kashiwa-reysol-vs-kawasaki-frontale.html
-Kashiwa Reysol vs Kawasaki Frontale	https://hls.livelivelive.space/live/4470718.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 14:30 [g]Korean K League 1[z]	^-
 FC Anyang vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336102/fc-anyang-vs-jeonbuk-hyundai-motors.html
 FC Anyang vs Jeonbuk Hyundai	https://hls.livelivelive.space/live/4480389.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -50,6 +44,7 @@ Ichihara Chiba vs Machida Zelvia	https://hls.livelivelive.space/live/4470717.m3u
 
 15:30 Super League	^-
 Persija Jakarta vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229482/persatuan-sepakbola-indonesia-jakarta-vs-persib-bandung.html
+Persija Jakarta vs Persib Bandung	https://cdn-hls.taoxanh.biz/live/6a002cce42283_124958/index.m3u8?expire=1779001166&sign=12f441265abb5a5eedd74be2fb1dd5db
 Persita Tangerang vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229512/persita-tangerang-vs-persatuan-sepakbola-indonesia-jepara.html
 
 16:30 [g]Russian Premier League[z]	^-
