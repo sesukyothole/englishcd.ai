@@ -34,10 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 10.05.2026	^-
 
-14:30 [g]Korean K League 1[z]	^-
-FC Anyang vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336102/fc-anyang-vs-jeonbuk-hyundai-motors.html
-FC Anyang vs Jeonbuk Hyundai	https://hls.livelivelive.space/live/4480389.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 15:00 [g]Japanese J1 League[z]	^-
 Ichihara Chiba vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331735/jef-united-ichihara-chiba-vs-machida-zelvia.html
 Ichihara Chiba vs Machida Zelvia	https://hls.livelivelive.space/live/4470717.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -105,6 +101,9 @@ Kuala Lumpur vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-supe
 19:30 [g]Norwegian Eliteserien[z]	^-
 Rosenborg vs Lillestrom	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332529/rosenborg-vs-lillestrom.html
 
+19:45 [g]Bulgarian Premier League[z]	^-
+Varadesa vs Septemri	https://hls.livelivelive.space/live/4533166.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
 20:00 [y]English Premier League[z]	^-
 Nottingham Forest vs Newcastle Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193961/nottingham-forest-vs-newcastle-united.html
 Nottingham Forest vs Newcastle Utd	https://hls.livelivelive.space/live/4343282.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -128,9 +127,11 @@ Hamburger SV vs SC Freiburg	https://hls.livelivelive.space/live/4347605.m3u8?txS
 
 21:00 [g]Danish Superliga[z]	^-
 Silkeborg vs FC Copenhagen	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368432/silkeborg-vs-fc-copenhagen.html
+Silkeborg vs FC Copenhagen	https://hls.livelivelive.space/live/4510761.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:00 [g]Belgian Pro League[z]	^-
 Royal Antwerp vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382745/royal-antwerp-vs-rc-sporting-charleroi.html
+Royal Antwerp vs Charleroi	https://hls.livelivelive.space/live/4521179.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:00 [g]Greek Super League[z]	^-
 Aris Thessaloniki vs OFI Crete	`Fhttps://www.fctv33.net/football/greek-super-league-match-4387339/aris-thessaloniki-vs-ofi-crete.html
@@ -138,23 +139,39 @@ Volos NFC vs Levadiakos	`Fhttps://www.fctv33.net/football/greek-super-league-mat
 
 21:15 [g]Russian Premier League[z]	^-
 Terek Grozny vs FK Makhachkala	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201457/akhmat-grozny-vs-dynamo-makhachkala.html
+Terek Grozny vs FK Makhachkala	https://hls.livelivelive.space/live/4357105.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:15 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209692/athletic-club-vs-valencia-cf.html
+Athletic Bilbao vs Valencia	https://hls.livelivelive.space/live/4358323.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:30 [g]Sweden Allsvenskan[z]	^-
 Hacken vs Malmo FF	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332042/hacken-vs-malmo-ff.html
+Hacken vs Malmo FF	https://hls.livelivelive.space/live/4467052.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
+21:30 [g]Switzerland Super League[z]	^-
+Young Boys vs Basel	https://hls.livelivelive.space/live/4526040.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Sion vs Thun	https://hls.livelivelive.space/live/4526039.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:45 [y]Netherlands Eredivisie[z]	^-
 Excelsior SBV vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199146/excelsior-sbv-vs-volendam.html
+Excelsior SBV vs Volendam	https://hls.livelivelive.space/live/4344748.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Feyenoord vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199188/feyenoord-vs-az-alkmaar.html
+Feyenoord vs AZ Alkmaar	https://hls.livelivelive.space/live/4344767.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Go Ahead Eagles vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199248/go-ahead-eagles-vs-psv-eindhoven.html
+Go Ahead Eagles vs PSV Eindhoven	https://hls.livelivelive.space/live/4344700.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 AFC Ajax vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199249/afc-ajax-vs-fc-utrecht.html
+AFC Ajax vs FC Utrecht	https://hls.livelivelive.space/live/4344796.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Groningen vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199282/groningen-vs-nec-nijmegen.html
+Groningen vs NEC Nijmegen	https://hls.livelivelive.space/live/4344795.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Twente Enschede vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199284/fc-twente-enschede-vs-sparta-rotterdam.html
+Twente Enschede vs Sparta Rotterdam	https://hls.livelivelive.space/live/4344709.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 SC Telstar vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199287/sc-telstar-vs-heracles-almelo.html
+SC Telstar vs Heracles Almelo	https://hls.livelivelive.space/live/4344773.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 NAC Breda vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199290/nac-breda-vs-sc-heerenveen.html
+NAC Breda vs SC Heerenveen	https://hls.livelivelive.space/live/4344757.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Fortuna Sittard vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199291/fortuna-sittard-vs-pec-zwolle.html
+Fortuna Sittard vs PEC Zwolle	https://hls.livelivelive.space/live/4344791.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 22:00 [g]Norwegian Eliteserien[z]	^-
 KFUM Oslo vs Viking	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332469/kfum-oslo-vs-viking.html
@@ -163,9 +180,11 @@ Tromso IL vs Molde	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match
 
 22:30 [y]English Premier League[z]	^-
 West Ham United vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194029/west-ham-united-vs-arsenal.html
+West Ham United vs Arsenal	https://hls.livelivelive.space/live/4343269.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 22:30 [y]Bundesliga[z]	^-
 FC Koln vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199901/fc-kln-vs-1-fc-heidenheim-1846.html
+FC Koln vs 1. FC Heidenheim	https://hls.livelivelive.space/live/4347642.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 23:00 [y]Italian Serie A[z]	^-
 Parma vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194600/parma-vs-as-roma.html
