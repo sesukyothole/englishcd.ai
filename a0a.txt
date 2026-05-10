@@ -90,6 +90,14 @@ Rosario Central vs Independiente	https://hls.livelivelive.space/live/4539622.m3u
 AC Milan vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194766/ac-milan-vs-atalanta.html
 AC Milan vs Atalanta	`0https://v3.sportssonline.click/channels/hd/hd5.php
 AC Milan vs Atalanta	https://hls.livelivelive.space/live/4339670.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+AC Milan vs Atalanta	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSNj2XrX61v26EqT.m3u8
+
+02:00 [y]Spanish La Liga[z]	^-
+FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209694/fc-barcelona-vs-real-madrid.html
+FC Barcelona vs Real Madrid	`0https://v3.sportssonline.click/channels/hd/hd2.php
+FC Barcelona vs Real Madrid	`0https://v3.sportssonline.click/channels/hd/hd6.php
+FC Barcelona vs Real Madrid	https://hls.livelivelive.space/live/4358331.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+FC Barcelona vs Real Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5zQbbVNBVx1.m3u8
 
 02:00 [y]French Ligue 1[z]	^-
 PSG vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200140/paris-saint-germain-vs-stade-brestois-29.html
@@ -97,12 +105,14 @@ PSG vs Stade Brestois	`0https://v3.sportssonline.click/channels/hd/hd4.php
 PSG vs Stade Brestois	https://hls.livelivelive.space/live/4347976.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Angers vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200141/angers-sco-vs-rc-strasbourg-alsace.html
 Angers vs Strasbourg	https://hls.livelivelive.space/live/4347970.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Angers vs Strasbourg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R6uLTaNWgi9.m3u8
 AJ Auxerre vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200198/aj-auxerre-vs-ogc-nice.html
 AJ Auxerre vs Nice	https://hls.livelivelive.space/live/4347971.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Metz vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200202/metz-vs-lorient.html
 Metz vs Lorient	https://hls.livelivelive.space/live/4347974.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Toulouse vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200232/toulouse-fc-vs-lyon.html
 Toulouse vs Lyon	https://hls.livelivelive.space/live/4347978.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Toulouse vs Lyon	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R6bkccXuMUy.m3u8
 Rennes vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200233/stade-rennais-fc-vs-paris-fc.html
 Rennes vs Paris FC	https://hls.livelivelive.space/live/4347977.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Monaco vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200264/as-monaco-vs-losc-lille.html
@@ -110,12 +120,6 @@ Monaco vs Lille	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Monaco vs Lille	https://hls.livelivelive.space/live/4347975.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Le Havre vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200266/havre-athletic-club-vs-marseille.html
 Le Havre vs Marseille	https://hls.livelivelive.space/live/4347972.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-02:00 [y]Spanish La Liga[z]	^-
-FC Barcelona vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209694/fc-barcelona-vs-real-madrid.html
-FC Barcelona vs Real Madrid	`0https://v3.sportssonline.click/channels/hd/hd2.php
-FC Barcelona vs Real Madrid	`0https://v3.sportssonline.click/channels/hd/hd6.php
-FC Barcelona vs Real Madrid	https://hls.livelivelive.space/live/4358331.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 02:00 [g]Brazilian Serie A[z]	^-
 Remo Belem PA vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324102/remo---pa-vs-palmeiras---sp.html
