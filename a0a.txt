@@ -69,29 +69,42 @@ Verona vs Como	https://hls.livelivelive.space/live/4339705.m3u8?txSecret=737a25f
 18:00 [g]Scottish Premiership[z]	^-
 Celtic FC vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387796/celtic-fc-vs-rangers.html
 
+18:15 [g]Bulgarian Premier League[z]	^-
+Warner Sparta vs Sofia Slavia	https://hls.livelivelive.space/live/4533169.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
 18:30 [g]Belgian Pro League[z]	^-
 KAA Gent vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383175/kaa-gent-vs-anderlecht.html
 KAA Gent vs Anderlecht	https://hls.livelivelive.space/live/4521152.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 [g]Russian Premier League[z]	^-
 Zenit St. Petersburg vs FK Sochi	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201401/zenit-st-petersburg-vs-fc-sochi.html
+Zenit St. Petersburg vs FK Sochi	https://hls.livelivelive.space/live/4357112.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 [y]Spanish La Liga[z]	^-
 Mallorca vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209809/rcd-mallorca-vs-villarreal-cf.html
+Mallorca vs Villarreal	https://hls.livelivelive.space/live/4358334.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 Super League	^-
 PSIM Yogyakarta vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229486/psim-yogyakarta-vs-malut-united.html
 
 19:00 [g]Finnish Veikkausliiga[z]	^-
 Lahti vs IFK Mariehamn	`Fhttps://www.fctv33.net/football/finnish-veikkausliiga-match-4329619/lahti-vs-ifk-mariehamn.html
+Lahti vs IFK Mariehamn	https://hls.livelivelive.space/live/4468091.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 [g]Sweden Allsvenskan[z]	^-
 Kalmar vs Halmstads	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332038/kalmar-vs-halmstads.html
+Kalmar vs Halmstads	https://hls.livelivelive.space/live/4467053.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 AIK Solna vs Djurgardens	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332043/aik-vs-djurgardens.html
+AIK Solna vs Djurgardens	https://hls.livelivelive.space/live/4467048.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:00 [g]Danish Superliga[z]	^-
 Vejle vs Fredericia	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368405/vejle-vs-fredericia.html
+Vejle vs Fredericia	https://hls.livelivelive.space/live/4510762.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Nordsjaelland vs Midtjylland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368419/nordsjaelland-vs-midtjylland.html
+Nordsjaelland vs Midtjylland	https://hls.livelivelive.space/live/4510732.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+
+19:00 [g]Switzerland Super League[z]	^-
+Lugano vs St. Gallen	https://hls.livelivelive.space/live/4526038.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 19:15 Malaysian Super League	^-
 Kuala Lumpur vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221268/kuala-lumpur-city-fc-vs-negeri-sembilan.html
@@ -101,18 +114,24 @@ Rosenborg vs Lillestrom	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-
 
 20:00 [y]English Premier League[z]	^-
 Nottingham Forest vs Newcastle Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193961/nottingham-forest-vs-newcastle-united.html
+Nottingham Forest vs Newcastle Utd	https://hls.livelivelive.space/live/4343282.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Burnley vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193987/burnley-vs-aston-villa.html
+Burnley vs Aston Villa	https://hls.livelivelive.space/live/4343246.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Crystal Palace vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193995/crystal-palace-vs-everton.html
+Crystal Palace vs Everton	https://hls.livelivelive.space/live/4343250.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194775/fiorentina-vs-genoa.html
+Fiorentina vs Genoa	https://hls.livelivelive.space/live/4339695.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Cremonese vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194839/cremonese-vs-pisa.html
+Cremonese vs Pisa	https://hls.livelivelive.space/live/4339692.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 20:00 Malaysian Super League	^-
 Kelantan Utd vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221267/kelantan-the-real-warriors-vs-johor-darul-tazim-fc.html
 
 20:30 [y]Bundesliga[z]	^-
 Hamburger SV vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199891/hamburger-sv-vs-sc-freiburg.html
+Hamburger SV vs SC Freiburg	https://hls.livelivelive.space/live/4347605.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 
 21:00 [g]Danish Superliga[z]	^-
 Silkeborg vs FC Copenhagen	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368432/silkeborg-vs-fc-copenhagen.html
