@@ -34,45 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 10.05.2026	^-
 
-21:45 [y]Netherlands Eredivisie[z]	^-
-Excelsior SBV vs Volendam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199146/excelsior-sbv-vs-volendam.html
-Excelsior SBV vs Volendam	https://hls.livelivelive.space/live/4344748.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Excelsior SBV vs Volendam	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvXjnnijH5UR.m3u8
-Feyenoord vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199188/feyenoord-vs-az-alkmaar.html
-Feyenoord vs AZ Alkmaar	https://hls.livelivelive.space/live/4344767.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Feyenoord vs AZ Alkmaar	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvsdi4ec1D17.m3u8
-Go Ahead Eagles vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199248/go-ahead-eagles-vs-psv-eindhoven.html
-Go Ahead Eagles vs PSV Eindhoven	`0https://v3.sportssonline.click/channels/hd/hd9.php
-Go Ahead Eagles vs PSV Eindhoven	https://hls.livelivelive.space/live/4344700.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Go Ahead Eagles vs PSV Eindhoven	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpwCr4guqrqmf.m3u8
-AFC Ajax vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199249/afc-ajax-vs-fc-utrecht.html
-AFC Ajax vs FC Utrecht	`0https://v3.sportssonline.click/channels/hd/hd4.php
-AFC Ajax vs FC Utrecht	https://hls.livelivelive.space/live/4344796.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-AFC Ajax vs FC Utrecht	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpuhmCSsMNsHP.m3u8
-Groningen vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199282/groningen-vs-nec-nijmegen.html
-Groningen vs NEC Nijmegen	https://hls.livelivelive.space/live/4344795.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Groningen vs NEC Nijmegen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpuhec1Fuu7ph.m3u8
-Twente Enschede vs Sparta Rotterdam	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199284/fc-twente-enschede-vs-sparta-rotterdam.html
-Twente Enschede vs Sparta Rotterdam	https://hls.livelivelive.space/live/4344709.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Twente Enschede vs Sparta Rotterdam	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpwCWHN5XRbPb.m3u8
-SC Telstar vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199287/sc-telstar-vs-heracles-almelo.html
-SC Telstar vs Heracles Almelo	https://hls.livelivelive.space/live/4344773.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-SC Telstar vs Heracles Almelo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvhnF8MsCw81.m3u8
-NAC Breda vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199290/nac-breda-vs-sc-heerenveen.html
-NAC Breda vs SC Heerenveen	https://hls.livelivelive.space/live/4344757.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-NAC Breda vs SC Heerenveen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpvNXh2E9XPCZ.m3u8
-Fortuna Sittard vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199291/fortuna-sittard-vs-pec-zwolle.html
-Fortuna Sittard vs PEC Zwolle	https://hls.livelivelive.space/live/4344791.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Fortuna Sittard vs PEC Zwolle	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7hpuhVp5mzbTD7.m3u8
-
-22:00 [g]Norwegian Eliteserien[z]	^-
-KFUM Oslo vs Viking	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332469/kfum-oslo-vs-viking.html
-KFUM Oslo vs Viking	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EQz7ddupKNfPj.m3u8
-Sandefjord vs Kristiansund BK	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332523/sandefjord-vs-kristiansund-bk.html
-Sandefjord vs Kristiansund BK	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6ERikznhDNEims.m3u8
-Tromso IL vs Molde	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332620/tromso-il-vs-molde.html
-Tromso IL vs Molde	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EQyH65Muk5huF.m3u8
-
 22:30 [y]English Premier League[z]	^-
 West Ham United vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194029/west-ham-united-vs-arsenal.html
 West Ham United vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd1.php
