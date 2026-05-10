@@ -89,13 +89,17 @@ Fortuna Sittard vs PEC Zwolle	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT
 
 22:00 [g]Norwegian Eliteserien[z]	^-
 KFUM Oslo vs Viking	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332469/kfum-oslo-vs-viking.html
+KFUM Oslo vs Viking	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EQz7ddupKNfPj.m3u8
 Sandefjord vs Kristiansund BK	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332523/sandefjord-vs-kristiansund-bk.html
+Sandefjord vs Kristiansund BK	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6ERikznhDNEims.m3u8
 Tromso IL vs Molde	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332620/tromso-il-vs-molde.html
+Tromso IL vs Molde	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6EQyH65Muk5huF.m3u8
 
 22:30 [y]English Premier League[z]	^-
 West Ham United vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194029/west-ham-united-vs-arsenal.html
 West Ham United vs Arsenal	`0https://v3.sportssonline.click/channels/hd/hd1.php
 West Ham United vs Arsenal	https://hls.livelivelive.space/live/4343269.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+West Ham United vs Arsenal	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7JxGYSgnj98rWy.m3u8
 
 22:30 [y]Bundesliga[z]	^-
 FC Koln vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199901/fc-kln-vs-1-fc-heidenheim-1846.html
