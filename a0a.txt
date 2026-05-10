@@ -34,12 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 10.05.2026	^-
 
-13:00 [g]Japanese J1 League[z]	^-
-Gamba Osaka vs Hiroshima Sanfrecce	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331694/gamba-osaka-vs-sanfrecce-hiroshima.html
-Gamba Osaka vs Hiroshima Sanfrecce	https://hls.livelivelive.space/live/4470807.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-FC Tokyo vs Tokyo Verdy	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331808/fc-tokyo-vs-tokyo-verdy.html
-FC Tokyo vs Tokyo Verdy	https://hls.livelivelive.space/live/4470716.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 14:00 [g]Japanese J1 League[z]	^-
 Nagoya Grampus vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331708/nagoya-grampus-vs-kyoto-sanga.html
 Nagoya Grampus vs Kyoto Sanga	https://hls.livelivelive.space/live/4470808.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
