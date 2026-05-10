@@ -34,32 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 10.05.2026	^-
 
-20:30 [y]Bundesliga[z]	^-
-Hamburger SV vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199891/hamburger-sv-vs-sc-freiburg.html
-Hamburger SV vs SC Freiburg	`0https://v3.sportssonline.click/channels/hd/hd3.php
-Hamburger SV vs SC Freiburg	https://hls.livelivelive.space/live/4347605.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Hamburger SV vs SC Freiburg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3D9ZMFfPfGW9.m3u8
-
-20:45 [g]Bulgarian Premier League[z]	^-
-Botev Vratsa vs Septemvri Sofia	https://hls.livelivelive.space/live/4533166.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Botev Vratsa vs Septemvri Sofia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL2RtKZqXZJ4ZHX.m3u8
-
-21:00 [g]Danish Superliga[z]	^-
-Silkeborg vs FC Copenhagen	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368432/silkeborg-vs-fc-copenhagen.html
-Silkeborg vs FC Copenhagen	https://hls.livelivelive.space/live/4510761.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Silkeborg vs FC Copenhagen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqRuYHvBGUcgw8q.m3u8
-
-21:00 [g]Belgian Pro League[z]	^-
-Royal Antwerp vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382745/royal-antwerp-vs-rc-sporting-charleroi.html
-Royal Antwerp vs Charleroi	https://hls.livelivelive.space/live/4521179.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Royal Antwerp vs Charleroi	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX8kj5ZJt8FuAm.m3u8
-
-21:00 [g]Greek Super League[z]	^-
-Aris Thessaloniki vs OFI Crete	`Fhttps://www.fctv33.net/football/greek-super-league-match-4387339/aris-thessaloniki-vs-ofi-crete.html
-Aris Thessaloniki vs OFI Crete	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBFptWqGwupq.m3u8
-Volos NPS vs Levadiakos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4387340/volos-nps-vs-levadiakos.html
-Volos NPS vs Levadiakos	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBFnh2xo7zfw.m3u8
-
 21:15 [g]Russian Premier League[z]	^-
 Terek Grozny vs FK Makhachkala	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201457/akhmat-grozny-vs-dynamo-makhachkala.html
 Terek Grozny vs FK Makhachkala	https://hls.livelivelive.space/live/4357105.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
