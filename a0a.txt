@@ -32,39 +32,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-10.05.2026	^-
-
-23:30 [g]Russian Premier League[z]	^-
-Lokomotiv Moscow vs B Kaliningrad	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201438/lokomotiv-moscow-vs-baltika-kaliningrad.html
-Lokomotiv Moscow vs B Kaliningrad	https://hls.livelivelive.space/live/4357108.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-23:30 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209605/real-oviedo-vs-getafe.html
-Real Oviedo vs Getafe	`0https://v3.sportssonline.click/channels/hd/hd2.php
-Real Oviedo vs Getafe	https://hls.livelivelive.space/live/4358335.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-23:30 [g]Belgian Pro League[z]	^-
-Saint Gilloise vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383154/union-saint-gilloise-vs-kv-mechelen.html
-Saint Gilloise vs Mechelen	https://hls.livelivelive.space/live/4521175.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-23:30 [g]Greek Super League[z]	^-
-AEK Athens vs Panathinaikos	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386793/aek-athens-vs-panathinaikos.html
-AEK Athens vs Panathinaikos	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Olympiakos Piraeus vs PAOK Saloniki	`Fhttps://www.fctv33.net/football/greek-super-league-match-4386794/olympiacos-piraeus-vs-paok-saloniki.html
-Olympiakos Piraeus vs PAOK Saloniki	`0https://v3.sportssonline.click/channels/hd/hd9.php
-
-23:30 [l]AFC U17 Asian Cup[z]	^-
-United Arab Emirates vs Yemen	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390310/united-arab-emirates-u17-vs-yemen-u17.html
-
 11.05.2026	^-
-
-00:00 [g]Portuguese Primera Liga[z]	^-
-AVS Futebol SAD vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216233/avs-futebol-sad-vs-fc-porto.html
-AVS Futebol SAD vs FC Porto	`0https://v3.sportssonline.click/channels/pt/sporttv1.php
-AVS Futebol SAD vs FC Porto	https://hls.livelivelive.space/live/4369075.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
-00:00 [l]AFC U17 Asian Cup[z]	^-
-India vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390518/india-u17-vs-uzbekistan-u17.html
 
 00:15 [g]Belgian Pro League[z]	^-
 Racing Genk vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382748/racing-genk-vs-kvc-westerlo.html
@@ -103,28 +71,35 @@ FC Barcelona vs Real Madrid	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsY
 PSG vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200140/paris-saint-germain-vs-stade-brestois-29.html
 PSG vs Stade Brestois	`0https://v3.sportssonline.click/channels/hd/hd4.php
 PSG vs Stade Brestois	https://hls.livelivelive.space/live/4347976.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+PSG vs Stade Brestois	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R78XLoFUBdX.m3u8
 Angers vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200141/angers-sco-vs-rc-strasbourg-alsace.html
 Angers vs Strasbourg	https://hls.livelivelive.space/live/4347970.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Angers vs Strasbourg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R6uLTaNWgi9.m3u8
 AJ Auxerre vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200198/aj-auxerre-vs-ogc-nice.html
 AJ Auxerre vs Nice	https://hls.livelivelive.space/live/4347971.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+AJ Auxerre vs Nice	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R6s8yhtgmZF.m3u8
 Metz vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200202/metz-vs-lorient.html
 Metz vs Lorient	https://hls.livelivelive.space/live/4347974.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Metz vs Lorient	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R748P4HpMKj.m3u8
 Toulouse vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200232/toulouse-fc-vs-lyon.html
 Toulouse vs Lyon	https://hls.livelivelive.space/live/4347978.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
 Toulouse vs Lyon	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R6bkccXuMUy.m3u8
 Rennes vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200233/stade-rennais-fc-vs-paris-fc.html
 Rennes vs Paris FC	https://hls.livelivelive.space/live/4347977.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Rennes vs Paris FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R76KrvmeGUd.m3u8
 Monaco vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200264/as-monaco-vs-losc-lille.html
 Monaco vs Lille	`0https://v3.sportssonline.click/channels/hd/hd9.php
 Monaco vs Lille	https://hls.livelivelive.space/live/4347975.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Monaco vs Lille	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R71vuBozSAq.m3u8
 Le Havre vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200266/havre-athletic-club-vs-marseille.html
 Le Havre vs Marseille	https://hls.livelivelive.space/live/4347972.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Le Havre vs Marseille	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5R6yjRKLAX1w.m3u8
 
 02:00 [g]Brazilian Serie A[z]	^-
 Remo Belem PA vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324102/remo---pa-vs-palmeiras---sp.html
 Remo Belem PA vs Palmeiras	`0https://v3.sportssonline.click/channels/bra/br4.php
 Remo Belem PA vs Palmeiras	https://hls.livelivelive.space/live/4465745.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Remo Belem PA vs Palmeiras	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBu5do6YxpRK.m3u8
 Atletico Mineiro vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324105/atltico-mineiro---mg-vs-botafogo---rj.html
 Atletico Mineiro vs Botafogo RJ	`0https://v3.sportssonline.click/channels/bra/br1.php
 Atletico Mineiro vs Botafogo RJ	https://hls.livelivelive.space/live/4465763.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -136,30 +111,37 @@ Alverca vs Estoril	https://hls.livelivelive.space/live/4369076.m3u8?txSecret=737
 
 03:00 [g]The Botola Pro[z]	^-
 Hassania Agadir vs F Armee Royales	`Fhttps://www.fctv33.net/football/the-botola-pro-match-4395621/hassania-agadir-vs-as-far-rabat.html
+Hassania Agadir vs F Armee Royales	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLJp1nKaz8HNKZP.m3u8
 
 03:00 [g]Argentine Division 1[z]	^-
 Estudiantes La Plata vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4398425/estudiantes-la-plata-vs-racing-club-de-avellaneda.html
 Estudiantes La Plata vs Racing Club	https://hls.livelivelive.space/live/4539623.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Estudiantes La Plata vs Racing Club	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb5YYiu3PBcbAV.m3u8
 
 03:30 [g]US Major League Soccer[z]	^-
 New York City FC vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317733/new-york-city-fc-vs-columbus-crew.html
 New York City FC vs Columbus Crew	https://hls.livelivelive.space/live/4460265.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+New York City FC vs Columbus Crew	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WtzshFoC4GV.m3u8
 
 04:30 [g]Brazilian Serie A[z]	^-
 Corinthians Paulista vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323212/corinthians---sp-vs-so-paulo---sp.html
 Corinthians Paulista vs Sao Paulo	`0https://v3.sportssonline.click/channels/hd/hd2.php
 Corinthians Paulista vs Sao Paulo	https://hls.livelivelive.space/live/4465703.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Corinthians Paulista vs Sao Paulo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCZovtasHRBb.m3u8
 Mirassol vs Chapecoense SC	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323220/mirassol---sp-vs-chapecoense---sc.html
 Mirassol vs Chapecoense SC	`0https://v3.sportssonline.click/channels/bra/br5.php
 Mirassol vs Chapecoense SC	https://hls.livelivelive.space/live/4465752.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Mirassol vs Chapecoense SC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBjLmJRFeHzu.m3u8
 Santos vs Bragantino	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324094/santos-fc---sp-vs-red-bull-bragantino.html
 Santos vs Bragantino	`0https://v3.sportssonline.click/channels/bra/br4.php
 Santos vs Bragantino	https://hls.livelivelive.space/live/4465780.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Santos vs Bragantino	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBEAMJFqWdtZ.m3u8
 
 05:00 [g]Argentine Division 1[z]	^-
 River Plate vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4398676/river-plate-vs-san-lorenzo.html
 River Plate vs San Lorenzo	`0https://v3.sportssonline.click/channels/hd/hd9.php
 River Plate vs San Lorenzo	https://hls.livelivelive.space/live/4539624.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+River Plate vs San Lorenzo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb5YYqVUzd6LdB.m3u8
 
 05:30 [g]Brazilian Serie A[z]	^-
 Gremio RS vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323227/grmio---rs-vs-flamengo---rj.html
@@ -169,6 +151,7 @@ Gremio RS vs Flamengo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBtfTW
 
 06:00 [g]US Major League Soccer[z]	^-
 Minnesota United FC vs Austin FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317721/minnesota-united-fc-vs-austin-fc.html
+Minnesota United FC vs Austin FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wu7U8sEfojB.m3u8
 Minnesota United FC vs Austin FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wu7U8sEfojB.m3u8
 
 06:00 [g]Mexico Liga MX[z]	^-
