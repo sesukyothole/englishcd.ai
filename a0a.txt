@@ -34,25 +34,26 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 11.05.2026	^-
 
-00:15 [g]Belgian Pro League[z]	^-
-Racing Genk vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382748/racing-genk-vs-kvc-westerlo.html
-Racing Genk vs Westerlo	https://hls.livelivelive.space/live/4521187.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-
 00:30 [y]Bundesliga[z]	^-
 FSV Mainz 05 vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199906/1-fsv-mainz-05-vs-1-fc-union-berlin.html
 FSV Mainz 05 vs Union Berlin	https://hls.livelivelive.space/live/4347658.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+FSV Mainz 05 vs Union Berlin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y3CJdou4279Uh.m3u8
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Ittihad Club vs Dhamk	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256224/al-ittihad-club-vs-damac.html
 Al Ittihad Club vs Dhamk	https://hls.livelivelive.space/live/4404667.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Al Ittihad Club vs Dhamk	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AdAUZbbcYRb.m3u8
 
 01:00 [g]The Botola Pro[z]	^-
 Touarga Sport Rabat vs Maghreb Fez	`Fhttps://www.fctv33.net/football/the-botola-pro-match-4395607/uts-union-touarga-sport-rabat-vs-maghreb-fez.html
+Touarga Sport Rabat vs Maghreb Fez	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLJp1nCzYWqta6h.m3u8
 CODM Meknes vs Renaissance Berkane	`Fhttps://www.fctv33.net/football/the-botola-pro-match-4395610/codm-meknes-vs-renaissance-de-berkane.html
+CODM Meknes vs Renaissance Berkane	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLJp1nFC2PKiVFb.m3u8
 
 01:00 [g]Argentine Division 1[z]	^-
 Rosario Central vs Independiente	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4398770/rosario-central-vs-ca-independiente.html
 Rosario Central vs Independiente	https://hls.livelivelive.space/live/4539622.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
+Rosario Central vs Independiente	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb5YYm6XFfSWKP.m3u8
 
 01:45 [y]Italian Serie A[z]	^-
 AC Milan vs Atalanta	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194766/ac-milan-vs-atalanta.html
