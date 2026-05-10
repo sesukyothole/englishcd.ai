@@ -34,17 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 10.05.2026	^-
 
-21:15 [g]Russian Premier League[z]	^-
-Terek Grozny vs FK Makhachkala	`Fhttps://www.fctv33.net/football/russian-premier-league-match-4201457/akhmat-grozny-vs-dynamo-makhachkala.html
-Terek Grozny vs FK Makhachkala	https://hls.livelivelive.space/live/4357105.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Terek Grozny vs FK Makhachkala	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSs9ndxm4eNbW2Rj.m3u8
-
-21:15 [y]Spanish La Liga[z]	^-
-Athletic Bilbao vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209692/athletic-club-vs-valencia-cf.html
-Athletic Bilbao vs Valencia	`0https://v3.sportssonline.click/channels/hd/hd2.php
-Athletic Bilbao vs Valencia	https://hls.livelivelive.space/live/4358323.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Athletic Bilbao vs Valencia	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd6ABfa39KwXK.m3u8
-
 21:30 [g]Sweden Allsvenskan[z]	^-
 Hacken vs Malmo FF	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332042/hacken-vs-malmo-ff.html
 Hacken vs Malmo FF	https://hls.livelivelive.space/live/4467052.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
