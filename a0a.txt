@@ -52,6 +52,7 @@ Verona vs Como	https://hls.livelivelive.space/live/4339705.m3u8?txSecret=737a25f
 
 18:00 [g]Scottish Premiership[z]	^-
 Celtic FC vs Glasgow Rangers	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387796/celtic-fc-vs-rangers.html
+Celtic FC vs Glasgow Rangers	`0https://www.marza12.shop/football/2974199-celtic-fc-vs-glasgow-rangers.html
 
 18:15 [g]Bulgarian Premier League[z]	^-
 Warner Sparta vs Sofia Slavia	https://hls.livelivelive.space/live/4533169.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
@@ -93,6 +94,7 @@ Lugano vs St. Gallen	https://hls.livelivelive.space/live/4526038.m3u8?txSecret=7
 
 19:15 Malaysian Super League	^-
 Kuala Lumpur vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221268/kuala-lumpur-city-fc-vs-negeri-sembilan.html
+Kuala Lumpur vs Negeri Sembilan	`0https://www.marza12.shop/football/2822437-kuala-lumpur-city-fc-vs-negeri-sembilan.html
 
 19:30 [g]Norwegian Eliteserien[z]	^-
 Rosenborg vs Lillestrom	`Fhttps://www.fctv33.net/football/norwegian-eliteserien-match-4332529/rosenborg-vs-lillestrom.html
