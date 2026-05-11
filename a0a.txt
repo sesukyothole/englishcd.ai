@@ -34,75 +34,12 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 11.05.2026	^-
 
-03:30 [g]US Major League Soccer[z]	^-
-New York City FC vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317733/new-york-city-fc-vs-columbus-crew.html
-New York City FC vs Columbus Crew	https://hls.livelivelive.space/live/4460265.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-New York City FC vs Columbus Crew	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WtzshFoC4GV.m3u8
+19:00 Super League
+Bhayangkara vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229564/bhayangkara-presisi-indonesia-fc-vs-madura-united.html
+Bali United vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229614/bali-united-vs-borneo-fc.html
 
-04:30 [g]Brazilian Serie A[z]	^-
-Corinthians Paulista vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323212/corinthians---sp-vs-so-paulo---sp.html
-Corinthians Paulista vs Sao Paulo	`0https://v3.sportssonline.click/channels/hd/hd2.php
-Corinthians Paulista vs Sao Paulo	https://hls.livelivelive.space/live/4465703.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Corinthians Paulista vs Sao Paulo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCZovtasHRBb.m3u8
-Mirassol vs Chapecoense SC	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323220/mirassol---sp-vs-chapecoense---sc.html
-Mirassol vs Chapecoense SC	`0https://v3.sportssonline.click/channels/bra/br5.php
-Mirassol vs Chapecoense SC	https://hls.livelivelive.space/live/4465752.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Mirassol vs Chapecoense SC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBjLmJRFeHzu.m3u8
-Santos vs Bragantino	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324094/santos-fc---sp-vs-red-bull-bragantino.html
-Santos vs Bragantino	`0https://v3.sportssonline.click/channels/bra/br4.php
-Santos vs Bragantino	https://hls.livelivelive.space/live/4465780.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Santos vs Bragantino	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBEAMJFqWdtZ.m3u8
-
-05:00 [g]Argentine Division 1[z]	^-
-River Plate vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4398676/river-plate-vs-san-lorenzo.html
-River Plate vs San Lorenzo	`0https://v3.sportssonline.click/channels/hd/hd9.php
-River Plate vs San Lorenzo	https://hls.livelivelive.space/live/4539624.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-River Plate vs San Lorenzo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb5YYqVUzd6LdB.m3u8
-
-05:30 [g]Brazilian Serie A[z]	^-
-Gremio RS vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323227/grmio---rs-vs-flamengo---rj.html
-Gremio RS vs Flamengo	`0https://v3.sportssonline.click/channels/bra/br1.php
-Gremio RS vs Flamengo	https://hls.livelivelive.space/live/4465748.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Gremio RS vs Flamengo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyBtfTWXGsjjT.m3u8
-
-06:00 [g]US Major League Soccer[z]	^-
-Minnesota United FC vs Austin FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317721/minnesota-united-fc-vs-austin-fc.html
-Minnesota United FC vs Austin FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wu7U8sEfojB.m3u8
-Minnesota United FC vs Austin FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wu7U8sEfojB.m3u8
-
-06:00 [g]Mexico Liga MX[z]	^-
-Pachuca vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4394904/pachuca-vs-toluca.html
-Pachuca vs Toluca	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Pachuca vs Toluca	https://hls.livelivelive.space/live/4536379.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Pachuca vs Toluca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLJkLWomxLyPxm3.m3u8
-
-06:10 [g]Categoría Primera A[z]	^-
-Once Caldas vs Atl Jr Barranquilla	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398041/deportiva-once-caldas-vs-atletico-junior-barranquilla.html
-Once Caldas vs Atl Jr Barranquilla	https://hls.livelivelive.space/live/4539265.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Once Caldas vs Atl Jr Barranquilla	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2abuohJNDLSZ.m3u8
-
-06:30 [g]Brazilian Serie A[z]	^-
-Vasco da Gama vs Athl Paranaense	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323214/vasco-da-gama-saf---rj-vs-athletico-paranaense---pr.html
-Vasco da Gama vs Athl Paranaense	`0https://v3.sportssonline.click/channels/bra/br5.php
-Vasco da Gama vs Athl Paranaense	https://hls.livelivelive.space/live/4465769.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Vasco da Gama vs Athl Paranaense	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6LyCE2c4GS337b.m3u8
-
-07:30 [g]Argentine Division 1[z]	^-
-Velez Sarsfield vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4398772/velez-sarsfield-vs-gimnasia-la-plata.html
-Velez Sarsfield vs Gimnasia La Plata	`0https://v3.sportssonline.click/channels/hd/hd11.php
-Velez Sarsfield vs Gimnasia La Plata	https://hls.livelivelive.space/live/4539625.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Velez Sarsfield vs Gimnasia La Plata	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb5YYoJ189GRUH.m3u8
-
-08:00 [g]US Major League Soccer[z]	^-
-Los Angeles FC vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317315/los-angeles-fc-vs-houston-dynamo.html
-Los Angeles FC vs Houston Dynamo	https://hls.livelivelive.space/live/4460269.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Los Angeles FC vs Houston Dynamo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WtYVvp3H4Rj.m3u8
-
-08:15 [g]Mexico Liga MX[z]	^-
-Pumas UNAM vs Club America	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4395441/pumas-unam-vs-club-america.html
-Pumas UNAM vs Club America	`0https://v3.sportssonline.click/channels/hd/hd10.php
-Pumas UNAM vs Club America	https://hls.livelivelive.space/live/4536380.m3u8?txSecret=737a25f87d7f18353fb9e3ea6724de4d&txTime=1776963459
-Pumas UNAM vs Club America	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLJkKgeCD9CNAoX.m3u8
+23:50 [g]Saudi Professional League[z]	^-
+NEOM vs Al Shabab Riyadh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256219/neom-sports-club-vs-al-shabab-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
