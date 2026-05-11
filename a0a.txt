@@ -95,6 +95,31 @@ Estrela da Amadora vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-
 Estrela da Amadora vs FC Famalicao	`0https://v3.sportssonline.click/channels/pt/sporttv2.php
 Estrela da Amadora vs FC Famalicao	https://pull.livecdn.cc/live/4369078.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
 
+17:30 [g]Korean K League 1[z]	^-
+Gangwon FC vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336090/gangwon-football-club-vs-daejeon-citizen.html
+Gwangju Football Club vs FC Seoul	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336093/gwangju-football-club-vs-football-club-seoul.html
+Incheon United vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336161/incheon-united-club-vs-pohang-steelers.html
+
+23:00 [l]AFC U17 Asian Cup[z]	^-
+China vs Qatar	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390316/china-u17-vs-qatar-u17.html
+Japan vs Indonesia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390317/japan-u17-vs-indonesia-u17.html
+
+23:20 [g]Saudi Professional League[z]	^-
+Al Kholood vs Al Akhdoud	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256227/al-kholood-vs-al-okhdood.html
+
+13.05.2026	^-
+
+00:00 [y]Spanish La Liga[z]	^-
+Real Celta Vigo SAD vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209845/rc-celta-vs-levante.html
+
+00:00 [g]Sweden Superettan[z]	^-
+Landskrona BoIS vs Norrby IF	`Fhttps://www.fctv33.net/football/sweden-superettan-match-4332078/landskrona-bois-vs-norrby-if.html
+IFK Varnamo vs Orebro	`Fhttps://www.fctv33.net/football/sweden-superettan-match-4332140/ifk-varnamo-vs-orebro.html
+
+00:00 [l]AFC U17 Asian Cup[z]	^-
+Thailand vs Myanmar	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390483/thailand-u17-vs-myanmar-u17.html
+Saudi Arabia vs Tajikistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390484/saudi-arabia-u17-vs-tajikistan-u17.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
