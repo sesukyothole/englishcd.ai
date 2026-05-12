@@ -36,13 +36,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 17:30 [g]Korean K League 1[z]	^-
 Gangwon FC vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336090/gangwon-football-club-vs-daejeon-citizen.html
-Gangwon FC vs Daejeon Citizen	https://pull.livecdn.cc/live/4480324.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&amp;txTime=1778495907
 Gangwon FC vs Daejeon Citizen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWw8dugMow8D3.m3u8
 Gwangju Football Club vs FC Seoul	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336093/gwangju-football-club-vs-football-club-seoul.html
-Gwangju Football Club vs FC Seoul	https://pull.livecdn.cc/live/4480397.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&amp;txTime=1778495907
 Gwangju Football Club vs FC Seoul	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWuHxi1MHLMRF.m3u8
 Incheon United vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336161/incheon-united-club-vs-pohang-steelers.html
-Incheon United vs Pohang Steelers	https://pull.livecdn.cc/live/4480404.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&amp;txTime=1778495907
 Incheon United vs Pohang Steelers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpXfckmDPoDaAR.m3u8
 
 23:00 [l]AFC U17 Asian Cup[z]	^-
