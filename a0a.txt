@@ -52,16 +52,16 @@ Stade Brestois vs Strasbourg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7
 00:00 [g]Sweden Superettan[z]	^-
 Flakenberg vs Varbergs BoIS FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6ZxEGpt6Xm6UZs.m3u8
 
-00:30 [g]Turkish Cup[z]	^-
-Genclerbirligi vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4393199/genclerbirligi-vs-trabzonspor.html
-Genclerbirligi vs Trabzonspor	`0https://v3.sportssonline.click/channels/hd/hd3.php
-Genclerbirligi vs Trabzonspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLRKHTDWukx4uxy.m3u8
-
 00:00 [l]AFC U17 Asian Cup[z]	^-
 Korea Republic vs Yemen	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390309/south-korea-u17-vs-yemen-u17.html
 Korea Republic vs Yemen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93nsGjMq1foDf.m3u8
 Vietnam vs United Arab Emirates	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390312/vietnam-u17-vs-united-arab-emirates-u17.html
 Vietnam vs United Arab Emirates	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93nsEXsxXqt4m.m3u8
+
+00:30 [g]Turkish Cup[z]	^-
+Genclerbirligi vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4393199/genclerbirligi-vs-trabzonspor.html
+Genclerbirligi vs Trabzonspor	`0https://v3.sportssonline.click/channels/hd/hd3.php
+Genclerbirligi vs Trabzonspor	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLRKHTDWukx4uxy.m3u8
 
 02:00 [y]English Premier League[z]	^-
 Manchester City vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194064/manchester-city-vs-crystal-palace.html
