@@ -82,6 +82,7 @@ Manchester City vs Crystal Palace	`0https://v3.sportssonline.click/channels/hd/h
 02:00 [y]French Ligue 1[z]	^-
 Lens vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200131/rc-lens-vs-paris-saint-germain.html
 Lens vs Paris Saint Germain	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Lens vs Paris Saint Germain	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmrpSHZnnPo.m3u8
 
 02:00 [g]Scottish Premiership[z]	^-
 Heart of Midlothian vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387798/heart-of-midlothian-vs-falkirk.html
@@ -102,8 +103,10 @@ CA Platense vs San Martin San Juan	`Fhttps://www.fctv33.net/football/copa-argent
 02:30 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209793/deportivo-alavs-vs-fc-barcelona.html
 Deportivo Alavés vs FC Barcelona	`0https://v3.sportssonline.click/channels/hd/hd2.php
+Deportivo Alavés vs FC Barcelona	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5pnKYRWLizH.m3u8
 Getafe vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209661/getafe-vs-rcd-mallorca.html
 Getafe vs Mallorca	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Getafe vs Mallorca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5f7r1VAg2sf.m3u8
 
 05:00 [g]Argentine Division 1[z]	^-
 Rosario Central vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4400364/rosario-central-vs-racing-club-de-avellaneda.html
@@ -124,6 +127,7 @@ Deportivo Pasto vs Deportes Tolima	`Fhttps://www.fctv33.net/football/categoria-p
 06:15 [g]US Major League Soccer[z]	^-
 Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317658/charlotte-fc-vs-new-york-city-fc.html
 Charlotte FC vs New York City FC	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Charlotte FC vs New York City FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjBcEqYDhYH.m3u8
 
 06:30 [g]Brazilian Cup[z]	^-
 Mirassol vs RB Bragantino	`0https://v3.sportssonline.click/channels/bra/br5.php
@@ -131,18 +135,28 @@ Mirassol vs RB Bragantino	`0https://v3.sportssonline.click/channels/bra/br5.php
 06:30 [g]US Major League Soccer[z]	^-
 FC Cincinnati vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317327/fc-cincinnati-vs-inter-miami-cf.html
 FC Cincinnati vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd10.php
+FC Cincinnati vs Inter Miami CF	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wj9Qky4PnPP.m3u8
 Montreal Impact vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317412/montreal-impact-vs-portland-timbers.html
 Montreal Impact vs Portland Timbers	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Montreal Impact vs Portland Timbers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjDoii23chB.m3u8
 Orlando City vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317332/orlando-city-vs-philadelphia-union.html
+Orlando City vs Philadelphia Union	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjQo84RBCTf.m3u8
 DC United vs Chicago Fire	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317382/dc-united-vs-chicago-fire.html
+DC United vs Chicago Fire	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjG1CaVsXr5.m3u8
 New York Red Bulls vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317725/new-york-red-bulls-vs-columbus-crew.html
+New York Red Bulls vs Columbus Crew	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjJCgSyhSzy.m3u8
 New England Revolution vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317749/new-england-revolution-vs-nashville.html
+New England Revolution vs Nashville	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjLQAKTXN9s.m3u8
 
 07:30 [g]US Major League Soccer[z]	^-
 St. Louis City SC vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317359/st-louis-city-sc-vs-los-angeles-fc.html
+St. Louis City SC vs Los Angeles FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Vte3gvxvk3o.m3u8
 FC Dallas vs Vancouver Whitecaps	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317610/fc-dallas-vs-vancouver-whitecaps.html
+FC Dallas vs Vancouver Whitecaps	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjNbeBwMHJm.m3u8
 Minnesota United vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317712/minnesota-united-fc-vs-colorado-rapids.html
+Minnesota United vs Colorado Rapids	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8VtgFAoSkfCh.m3u8
 FC Kansas City vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317723/sporting-kansas-city-vs-los-angeles-galaxy.html
+FC Kansas City vs Los Angeles Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wit2PshcNK7.m3u8
 
 07:30 [g]Brazilian Cup[z]	^-
 Remo Belem PA vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387634/remo---pa-vs-bahia---ba.html
@@ -154,14 +168,19 @@ Jacuipense vs Palmeiras	`0https://v3.sportssonline.click/channels/bra/br2.php
 07:30 [g]Argentine Division 1[z]	^-
 River Plate vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4400557/river-plate-vs-gimnasia-la-plata.html
 River Plate vs Gimnasia La Plata	`0https://v3.sportssonline.click/channels/hd/hd9.php
+River Plate vs Gimnasia La Plata	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5HawVXma5twmCy.m3u8
 
 08:15 [g]Colombia Primera A[z]	^-
 Atl Jr Barranquilla vs Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398042/atletico-junior-barranquilla-vs-deportiva-once-caldas.html
+Atl Jr Barranquilla vs Once Caldas	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2ZbdNeiVbrXf.m3u8
 
 08:30 [g]US Major League Soccer[z]	^-
 San Diego vs Austin	`0https://v3.sportssonline.click/channels/hd/hd5.php
+San Diego vs Austin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8VtiSefvaaMb.m3u8
 Real Salt Lake vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317362/real-salt-lake-vs-houston-dynamo.html
+Real Salt Lake vs Houston Dynamo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Vtke8YQQVWV.m3u8
 Seattle Sounders vs SJ Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317415/seattle-sounders-vs-san-jose-earthquakes.html
+Seattle Sounders vs SJ Earthquakes	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Vtq36HN4KpH.m3u8
 
 09:00 [g]Mexico Liga MX[z]	^-
 CDSyC Cruz Azul vs Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400183/cruz-azul-vs-club-deportivo-guadalajara.html
