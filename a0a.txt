@@ -100,14 +100,17 @@ CA Platense vs San Martin San Juan	https://streaming.cdnx-sportnobar.xyz/live/sd
 02:30 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209793/deportivo-alavs-vs-fc-barcelona.html
 Deportivo Alavés vs FC Barcelona	`0https://v3.sportssonline.click/channels/hd/hd2.php
+Deportivo Alavés vs FC Barcelona	https://qinl-play.agiaexpress.com/live/sd-6MuSsYd5pnKYRWLj4i.m3u8?auth_key=1778721113-0-0-da5a909c6befb01dbf79b7a7d30a57b9
 Deportivo Alavés vs FC Barcelona	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5pnKYRWLizH.m3u8
 Getafe vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209661/getafe-vs-rcd-mallorca.html
 Getafe vs Mallorca	`0https://v3.sportssonline.click/channels/hd/hd10.php
+Getafe vs Mallorca	https://qinl-play.agiaexpress.com/live/sd-6MuSsYd5f7r1VAg2x6.m3u8?auth_key=1778721112-0-0-daec4656267038cd5b7bcee8078903d7
 Getafe vs Mallorca	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5f7r1VAg2sf.m3u8
 
 05:00 [g]Argentine Division 1[z]	^-
 Rosario Central vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4400364/rosario-central-vs-racing-club-de-avellaneda.html
 Rosario Central vs Racing Club	`0https://v3.sportssonline.click/channels/hd/hd8.php
+Rosario Central vs Racing Club	https://qinl-play.agiaexpress.com/live/sd-6Mwe5HZUrmoVNX1vDU.m3u8?auth_key=1778721566-0-0-5d8c358090139818d022b38823cb4362
 Rosario Central vs Racing Club	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5HZUrmoVNX1v93.m3u8
 
 05:00 [g]Brazilian Cup[z]	^-XX
@@ -125,6 +128,7 @@ Deportivo Pasto vs Deportes Tolima	`Fhttps://www.fctv33.net/football/categoria-p
 06:15 [g]US Major League Soccer[z]	^-
 Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317658/charlotte-fc-vs-new-york-city-fc.html
 Charlotte FC vs New York City FC	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Charlotte FC vs New York City FC	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8WjBcEqYDhci.m3u8?auth_key=1778722559-0-0-c7c435ef0045908320ff708856a24bf9
 Charlotte FC vs New York City FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjBcEqYDhYH.m3u8
 
 06:30 [g]Brazilian Cup[z]	^-X
@@ -133,27 +137,37 @@ Mirassol vs RB Bragantino	`0https://v3.sportssonline.click/channels/bra/br5.php
 06:30 [g]US Major League Soccer[z]	^-
 FC Cincinnati vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317327/fc-cincinnati-vs-inter-miami-cf.html
 FC Cincinnati vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd10.php
+FC Cincinnati vs Inter Miami CF	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8Wj9Qky4PnTp.m3u8?auth_key=1778722563-0-0-9c7204c04aaa8c6630e41bff6915e040
 FC Cincinnati vs Inter Miami CF	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wj9Qky4PnPP.m3u8
 Montreal Impact vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317412/montreal-impact-vs-portland-timbers.html
 Montreal Impact vs Portland Timbers	`0https://v3.sportssonline.click/channels/hd/hd11.php
+Montreal Impact vs Portland Timbers	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8WjDoii23cmc.m3u8?auth_key=1778722561-0-0-ab6522183c8af557e8538071fd171439
 Montreal Impact vs Portland Timbers	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjDoii23chB.m3u8
 Orlando City vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317332/orlando-city-vs-philadelphia-union.html
+Orlando City vs Philadelphia Union	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8WjQo84RBCY6.m3u8?auth_key=1778722559-0-0-f0236fc3d04d4678f0af2d129fbbff6f
 Orlando City vs Philadelphia Union	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjQo84RBCTf.m3u8
 DC United vs Chicago Fire	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317382/dc-united-vs-chicago-fire.html
+DC United vs Chicago Fire	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8WjG1CaVsXvW.m3u8?auth_key=1778722562-0-0-14962d574804ce63869ffb2e3a6d017d
 DC United vs Chicago Fire	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjG1CaVsXr5.m3u8
 New York Red Bulls vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317725/new-york-red-bulls-vs-columbus-crew.html
+New York Red Bulls vs Columbus Crew	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8WjJCgSyhT5Q.m3u8?auth_key=1778722560-0-0-f69a254817969ea4920413a14a6004a7
 New York Red Bulls vs Columbus Crew	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjJCgSyhSzy.m3u8
 New England Revolution vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317749/new-england-revolution-vs-nashville.html
+New England Revolution vs Nashville	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8WjLQAKTXNEJ.m3u8?auth_key=1778722561-0-0-25a1f33942828464cb8ebc6ec79d685d
 New England Revolution vs Nashville	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjLQAKTXN9s.m3u8
 
 07:30 [g]US Major League Soccer[z]	^-
 St. Louis City SC vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317359/st-louis-city-sc-vs-los-angeles-fc.html
+St. Louis City SC vs Los Angeles FC	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8Vte3gvxvk8E.m3u8?auth_key=1778723420-0-0-db60e203161d68f490097f3b568e7403
 St. Louis City SC vs Los Angeles FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Vte3gvxvk3o.m3u8
 FC Dallas vs Vancouver Whitecaps	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317610/fc-dallas-vs-vancouver-whitecaps.html
+FC Dallas vs Vancouver Whitecaps	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8WjNbeBwMHPC.m3u8?auth_key=1778723393-0-0-0e1093b31a3526cda02fef7c86525eaf
 FC Dallas vs Vancouver Whitecaps	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjNbeBwMHJm.m3u8
 Minnesota United vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317712/minnesota-united-fc-vs-colorado-rapids.html
+Minnesota United vs Colorado Rapids	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8VtgFAoSkfH8.m3u8?auth_key=1778723403-0-0-e3afcf32840b79f23036aa9d8828e1c5
 Minnesota United vs Colorado Rapids	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8VtgFAoSkfCh.m3u8
 FC Kansas City vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317723/sporting-kansas-city-vs-los-angeles-galaxy.html
+FC Kansas City vs Los Angeles Galaxy	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8Wit2PshcNPY.m3u8?auth_key=1778723411-0-0-21e0279290b828ee04fec56881d5318a
 FC Kansas City vs Los Angeles Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wit2PshcNK7.m3u8
 
 07:30 [g]Brazilian Cup[z]	^-XXX
@@ -166,18 +180,23 @@ Jacuipense vs Palmeiras	`0https://v3.sportssonline.click/channels/bra/br2.php
 07:30 [g]Argentine Division 1[z]	^-
 River Plate vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4400557/river-plate-vs-gimnasia-la-plata.html
 River Plate vs Gimnasia La Plata	`0https://v3.sportssonline.click/channels/hd/hd9.php
+River Plate vs Gimnasia La Plata	https://qinl-play.agiaexpress.com/live/sd-6Mwe5HawVXma5twmHQ.m3u8?auth_key=1778721579-0-0-8e97c3e49182ad55ae0ca36b10669854
 River Plate vs Gimnasia La Plata	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5HawVXma5twmCy.m3u8
 
 08:15 [g]Colombia Primera A[z]	^-
 Atl Jr Barranquilla vs Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398042/atletico-junior-barranquilla-vs-deportiva-once-caldas.html
+Atl Jr Barranquilla vs Once Caldas	https://qinl-play.agiaexpress.com/live/sd-6MwdLb2ZbdNeiVbrc6.m3u8?auth_key=1778722566-0-0-34ffa7b5efef002d03ab7a8d3b2adf3a
 Atl Jr Barranquilla vs Once Caldas	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2ZbdNeiVbrXf.m3u8
 
 08:30 [g]US Major League Soccer[z]	^-
 San Diego vs Austin	`0https://v3.sportssonline.click/channels/hd/hd5.php
+San Diego vs Austin	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8VtiSefvaaS2.m3u8?auth_key=1778723465-0-0-065f17c9dbe6d9b1d9cf1e729ee86348
 San Diego vs Austin	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8VtiSefvaaMb.m3u8
 Real Salt Lake vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317362/real-salt-lake-vs-houston-dynamo.html
+Real Salt Lake vs Houston Dynamo	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8Vtke8YQQVav.m3u8?auth_key=1778723464-0-0-4e683e05306ff0f10f3bbaf4174b88d4
 Real Salt Lake vs Houston Dynamo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Vtke8YQQVWV.m3u8
 Seattle Sounders vs SJ Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317415/seattle-sounders-vs-san-jose-earthquakes.html
+Seattle Sounders vs SJ Earthquakes	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8Vtq36HN4Kti.m3u8?auth_key=1778723464-0-0-5710447abc1161fc9fe29b118d1974d6
 Seattle Sounders vs SJ Earthquakes	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Vtq36HN4KpH.m3u8
 
 09:00 [g]Mexico Liga MX[z]	^-X
