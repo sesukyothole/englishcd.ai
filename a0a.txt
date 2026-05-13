@@ -33,31 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 14.05.2026	^-
 
-00:00 [y]Spanish La Liga[z]	^-
-RCD Espanyol vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209693/rcd-espanyol-de-barcelona-vs-athletic-club.html
-RCD Espanyol vs Athletic Bilbao	`0https://v3.sportssonline.click/channels/hd/hd11.php
-RCD Espanyol vs Athletic Bilbao	https://qinl-play.agiaexpress.com/live/sd-6MuSsYd5f1FZsjCHVQ.m3u8?auth_key=1778720211-0-0-cdf0469eea3bc7551880d7385b65d4d2
-RCD Espanyol vs Athletic Bilbao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5f1FZsjCHQy.m3u8
-Villarreal vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209717/villarreal-cf-vs-sevilla-fc.html
-Villarreal vs Sevilla	`0https://v3.sportssonline.click/channels/hd/hd6.php
-Villarreal vs Sevilla	https://qinl-play.agiaexpress.com/live/sd-6MuSsYd5ehfiutaxGE.m3u8?auth_key=1778720211-0-0-107a1f2279971cd1fe139e0a9d22a884
-Villarreal vs Sevilla	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5ehfiutaxBo.m3u8
-
-00:00 [y]French Ligue 1[z]	^-
-Stade Brestois vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200145/stade-brestois-29-vs-rc-strasbourg-alsace.html
-Stade Brestois vs Strasbourg	`0https://v3.sportssonline.click/channels/hd/hd5.php
-Stade Brestois vs Strasbourg	https://qinl-play.agiaexpress.com/live/sd-6MuT7Y5RmkDzg8K31Y.m3u8?auth_key=1778720211-0-0-503e828188063dfc6f483622de4eaeea
-Stade Brestois vs Strasbourg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmkDzg8K2w7.m3u8
-
-00:00 [g]Sweden Superettan[z]	^-
-Flakenberg vs Varbergs BoIS FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6ZxEGpt6Xm6UZs.m3u8
-
-00:00 [l]AFC U17 Asian Cup[z]	^-
-Korea Republic vs Yemen	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390309/south-korea-u17-vs-yemen-u17.html
-Korea Republic vs Yemen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93nsGjMq1foDf.m3u8
-Vietnam vs United Arab Emirates	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390312/vietnam-u17-vs-united-arab-emirates-u17.html
-Vietnam vs United Arab Emirates	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdL93nsEXsxXqt4m.m3u8
-
 00:30 [g]Turkish Cup[z]	^-
 Genclerbirligi vs Trabzonspor	`Fhttps://www.fctv33.net/football/turkish-cup-match-4393199/genclerbirligi-vs-trabzonspor.html
 Genclerbirligi vs Trabzonspor	`0https://v3.sportssonline.click/channels/hd/hd3.php
