@@ -5,6 +5,7 @@
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=goals365	`Fhttps://www.goals365.live/
+^=Atl Nacional Medellin vs La Equidad	`0https://mut.st/watch/atletico-nacional-vs-internacional-de-bogota/echo/1
 ^=Blank	
 ^=	^-
 
@@ -44,7 +45,6 @@ Internacional RS vs Athletic Club	`https://v3.sportssonline.click/channels/bra/b
 
 06:20 [g]Colombia Primera A[z]	^-
 Atl Nacional Medellin vs La Equidad	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398204/atletico-nacional-medellin-vs-internacional-de-bogota.html
-Atl Nacional Medellin vs La Equidad	`0https://embedsports.top/embed-noads/echo/atletico-nacional-vs-internacional-de-bogota-football-1544227/1
 Atl Nacional Medellin vs La Equidad	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2ZbbBAr1mwNm.m3u8
 
 07:30 [g]Brazilian Cup[z]	^-
