@@ -5,7 +5,7 @@
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
 ^=goals365	`Fhttps://www.goals365.live/
-^=Atl Nacional Medellin vs3 La Equidad	`3https://mut.st/watch/atletico-nacional-vs-internacional-de-bogota/echo/1
+^=Atl Nacional Medellin vs1 La Equidad	`1https://mut.st/watch/atletico-nacional-vs-internacional-de-bogota/echo/1
 ^=Blank	
 ^=	^-
 
