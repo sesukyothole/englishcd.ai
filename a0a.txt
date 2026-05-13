@@ -33,6 +33,15 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 13.05.2026	^-
 
+17:00 [g]Japanese J1 League[z]	^-
+Vissel Kobe vs Kyoto Sanga	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331725/vissel-kobe-vs-kyoto-sanga.html
+Machida Zelvia vs Tokyo Verdy	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331760/machida-zelvia-vs-tokyo-verdy.html
+
+17:30 [g]Korean K League 1[z]	^-
+Bucheon FC 1995 vs Jeonbuk Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336032/bucheon-fc-1995-vs-jeonbuk-hyundai-motors.html
+Ulsan Hyundai FC vs Jeju United	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336127/ulsan-hd-fc-vs-jeju-sk-fc.html
+FC Anyang vs Gimcheon Sangmu FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336181/fc-anyang-vs-gimcheon-sangmu-football-club.html
+
 17:30 [g]Asean Club Championship[z]	^-
 Nam Dinh FC vs Selangor	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4350664/thep-xanh-nam-dinh-fc-vs-selangor-fc.html
 
@@ -40,11 +49,8 @@ Nam Dinh FC vs Selangor	`Fhttps://www.fctv33.net/football/asean-club-championshi
 Buriram United vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4392753/buriram-united-vs-johor-darul-tazim-fc.html
 
 20:00 [l]CAF U17 Championship[z]	^-
-Mali vs Angola	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399010/mali-u17-vs-angola-u17.html
-Algeria vs Ghana	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399013/algeria-u17-vs-ghana-u17.html
 Egypt vs Ethiopia	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399098/egypt-u17-vs-ethiopia-u17.html
 Ivory Coast vs Cameroon	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399099/cote-divoire-u17-vs-cameroon-u17.html
-Tanzania vs Mozambique	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399101/tanzania-u17-vs-mozambique-u17.html
 
 23:00 [l]AFC U17 Asian Cup[z]	^-
 Uzbekistan vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390479/uzbekistan-u17-vs-australia-u17.html
@@ -121,6 +127,9 @@ Deportivo Pasto vs Deportes Tolima	`Fhttps://www.fctv33.net/football/categoria-p
 Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317658/charlotte-fc-vs-new-york-city-fc.html
 Charlotte FC vs New York City FC	`0https://v3.sportssonline.click/channels/hd/hd5.php
 
+06:30 [g]Brazilian Cup[z]	^-
+Mirassol vs RB Bragantino	`0https://v3.sportssonline.click/channels/bra/br5.php
+
 06:30 [g]US Major League Soccer[z]	^-
 FC Cincinnati vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317327/fc-cincinnati-vs-inter-miami-cf.html
 FC Cincinnati vs Inter Miami CF	`0https://v3.sportssonline.click/channels/hd/hd10.php
@@ -131,8 +140,11 @@ DC United vs Chicago Fire	`Fhttps://www.fctv33.net/football/united-states-major-
 New York Red Bulls vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317725/new-york-red-bulls-vs-columbus-crew.html
 New England Revolution vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317749/new-england-revolution-vs-nashville.html
 
-06:30 [g]Brazilian Cup[z]	^-
-Mirassol vs RB Bragantino	`0https://v3.sportssonline.click/channels/bra/br5.php
+07:30 [g]US Major League Soccer[z]	^-
+St. Louis City SC vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317359/st-louis-city-sc-vs-los-angeles-fc.html
+FC Dallas vs Vancouver Whitecaps	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317610/fc-dallas-vs-vancouver-whitecaps.html
+Minnesota United vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317712/minnesota-united-fc-vs-colorado-rapids.html
+FC Kansas City vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317723/sporting-kansas-city-vs-los-angeles-galaxy.html
 
 07:30 [g]Brazilian Cup[z]	^-
 Remo Belem PA vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387634/remo---pa-vs-bahia---ba.html
@@ -150,9 +162,12 @@ Atl Jr Barranquilla vs Once Caldas	`Fhttps://www.fctv33.net/football/categoria-p
 
 08:30 [g]US Major League Soccer[z]	^-
 San Diego vs Austin	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Real Salt Lake vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317362/real-salt-lake-vs-houston-dynamo.html
+Seattle Sounders vs SJ Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317415/seattle-sounders-vs-san-jose-earthquakes.html
 
 09:00 [g]Mexico Liga MX[z]	^-
-Cruz Azul vs Guadalajara	`0https://v3.sportssonline.click/channels/hd/hd6.php
+CDSyC Cruz Azul vs Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400183/cruz-azul-vs-club-deportivo-guadalajara.html
+CDSyC Cruz Azul vs Guadalajara	`0https://v3.sportssonline.click/channels/hd/hd6.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
