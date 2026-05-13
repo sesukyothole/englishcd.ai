@@ -46,14 +46,17 @@ Uganda vs Democratic Rep Congo	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mw
 00:00 [y]Spanish La Liga[z]	^-
 RCD Espanyol vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209693/rcd-espanyol-de-barcelona-vs-athletic-club.html
 RCD Espanyol vs Athletic Bilbao	`0https://v3.sportssonline.click/channels/hd/hd11.php
+RCD Espanyol vs Athletic Bilbao	https://qinl-play.agiaexpress.com/live/sd-6MuSsYd5f1FZsjCHVQ.m3u8?auth_key=1778720211-0-0-cdf0469eea3bc7551880d7385b65d4d2
 RCD Espanyol vs Athletic Bilbao	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5f1FZsjCHQy.m3u8
 Villarreal vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209717/villarreal-cf-vs-sevilla-fc.html
 Villarreal vs Sevilla	`0https://v3.sportssonline.click/channels/hd/hd6.php
+Villarreal vs Sevilla	https://qinl-play.agiaexpress.com/live/sd-6MuSsYd5ehfiutaxGE.m3u8?auth_key=1778720211-0-0-107a1f2279971cd1fe139e0a9d22a884
 Villarreal vs Sevilla	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5ehfiutaxBo.m3u8
 
 00:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200145/stade-brestois-29-vs-rc-strasbourg-alsace.html
 Stade Brestois vs Strasbourg	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Stade Brestois vs Strasbourg	https://qinl-play.agiaexpress.com/live/sd-6MuT7Y5RmkDzg8K31Y.m3u8?auth_key=1778720211-0-0-503e828188063dfc6f483622de4eaeea
 Stade Brestois vs Strasbourg	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmkDzg8K2w7.m3u8
 
 00:00 [g]Sweden Superettan[z]	^-
@@ -73,11 +76,13 @@ Vietnam vs United Arab Emirates	https://streaming.cdnx-sportnobar.xyz/live/sd-6M
 02:00 [y]English Premier League[z]	^-
 Manchester City vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194064/manchester-city-vs-crystal-palace.html
 Manchester City vs Crystal Palace	`0https://v3.sportssonline.click/channels/hd/hd1.php
+Manchester City vs Crystal Palace	https://qinl-play.agiaexpress.com/live/sd-6MuT7Jy1sNVEm4Vg7Y.m3u8?auth_key=1778720752-0-0-2f87c098be43dedc2aaaa6a9c15c50fb
 Manchester City vs Crystal Palace	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Jy1sNVEm4Vg37.m3u8
 
 02:00 [y]French Ligue 1[z]	^-
 Lens vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200131/rc-lens-vs-paris-saint-germain.html
 Lens vs Paris Saint Germain	`0https://v3.sportssonline.click/channels/hd/hd5.php
+Lens vs Paris Saint Germain	https://qinl-play.agiaexpress.com/live/sd-6MuT7Y5RmrpSHZnnUE.m3u8?auth_key=1778720392-0-0-c3e6be3896921d4cfba7793155f805fe
 Lens vs Paris Saint Germain	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuT7Y5RmrpSHZnnPo.m3u8
 
 02:00 [g]Scottish Premiership[z]	^-
@@ -91,6 +96,7 @@ Rangers vs Hibernian	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdayFfypEF1
 02:00 [y]Coppa Italia[z]	^-
 Lazio vs Inter Milan	`Fhttps://www.fctv33.net/football/coppa-italia-match-4392862/lazio-vs-inter-milan.html
 Lazio vs Inter Milan	`0https://v3.sportssonline.click/channels/hd/hd9.php
+Lazio vs Inter Milan	https://qinl-play.agiaexpress.com/live/sd-6MwdLRH3q8Bvs94qEW.m3u8?auth_key=1778720753-0-0-88f03da65864664bacaca693f9a7d3c6
 Lazio vs Inter Milan	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLRH3q8Bvs94qA5.m3u8
 
 02:00 [l]CAF U17 Championship[z]	^-
@@ -114,16 +120,16 @@ Rosario Central vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-divis
 Rosario Central vs Racing Club	`0https://v3.sportssonline.click/channels/hd/hd8.php
 Rosario Central vs Racing Club	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5HZUrmoVNX1v93.m3u8
 
-05:00 [g]Brazilian Cup[z]	^-
+05:00 [g]Brazilian Cup[z]	^-XX
 Juventude vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388612/juventude-vs-so-paulo---sp.html
 Juventude vs Sao Paulo	`0https://v3.sportssonline.click/channels/bra/br1.php
 Vasco da Gama vs SC Paysandu Para	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388619/vasco-da-gama-saf---rj-vs-sc-paysandu-para.html
 Vasco da Gama vs SC Paysandu Para	`0https://v3.sportssonline.click/channels/bra/br4.php
 
-05:30 [g]Brazilian Cup[z]	^-
+05:30 [g]Brazilian Cup[z]	^-X
 Coritiba vs Santos	`0https://v3.sportssonline.click/channels/bra/br3.php
 
-06:00 [g]Colombia Primera A[z]	^-
+06:00 [g]Colombia Primera A[z]	^-X
 Deportivo Pasto vs Deportes Tolima	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398040/deportivo-pasto-vs-deportes-tolima.html
 
 06:15 [g]US Major League Soccer[z]	^-
@@ -131,7 +137,7 @@ Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states
 Charlotte FC vs New York City FC	`0https://v3.sportssonline.click/channels/hd/hd5.php
 Charlotte FC vs New York City FC	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8WjBcEqYDhYH.m3u8
 
-06:30 [g]Brazilian Cup[z]	^-
+06:30 [g]Brazilian Cup[z]	^-X
 Mirassol vs RB Bragantino	`0https://v3.sportssonline.click/channels/bra/br5.php
 
 06:30 [g]US Major League Soccer[z]	^-
@@ -160,7 +166,7 @@ Minnesota United vs Colorado Rapids	https://streaming.cdnx-sportnobar.xyz/live/s
 FC Kansas City vs Los Angeles Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317723/sporting-kansas-city-vs-los-angeles-galaxy.html
 FC Kansas City vs Los Angeles Galaxy	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Wit2PshcNK7.m3u8
 
-07:30 [g]Brazilian Cup[z]	^-
+07:30 [g]Brazilian Cup[z]	^-XXX
 Remo Belem PA vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387634/remo---pa-vs-bahia---ba.html
 Remo Belem PA vs Bahia	`0https://v3.sportssonline.click/channels/bra/br4.php
 Ceara vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388625/ceara-vs-atltico-mineiro---mg.html
@@ -184,7 +190,7 @@ Real Salt Lake vs Houston Dynamo	https://streaming.cdnx-sportnobar.xyz/live/sd-6
 Seattle Sounders vs SJ Earthquakes	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317415/seattle-sounders-vs-san-jose-earthquakes.html
 Seattle Sounders vs SJ Earthquakes	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvZ6B8Vtq36HN4KpH.m3u8
 
-09:00 [g]Mexico Liga MX[z]	^-
+09:00 [g]Mexico Liga MX[z]	^-X
 CDSyC Cruz Azul vs Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400183/cruz-azul-vs-club-deportivo-guadalajara.html
 CDSyC Cruz Azul vs Guadalajara	`0https://v3.sportssonline.click/channels/hd/hd6.php
 
