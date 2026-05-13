@@ -4,8 +4,6 @@
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-^=goals365	`Fhttps://www.goals365.live/
-^=Atl Nacional Medellin vs1 La Equidad	`1https://mut.st/watch/atletico-nacional-vs-internacional-de-bogota/echo/1
 ^=Blank	
 ^=	^-
 
@@ -40,6 +38,85 @@ Nam Dinh FC vs Selangor	`Fhttps://www.fctv33.net/football/asean-club-championshi
 
 19:00 [g]Asean Club Championship[z]	^-
 Buriram United vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4392753/buriram-united-vs-johor-darul-tazim-fc.html
+
+20:00 [l]CAF U17 Championship[z]	^-
+Mali vs Angola	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399010/mali-u17-vs-angola-u17.html
+Algeria vs Ghana	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399013/algeria-u17-vs-ghana-u17.html
+Egypt vs Ethiopia	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399098/egypt-u17-vs-ethiopia-u17.html
+Ivory Coast vs Cameroon	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399099/cote-divoire-u17-vs-cameroon-u17.html
+Tanzania vs Mozambique	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399101/tanzania-u17-vs-mozambique-u17.html
+
+23:00 [l]AFC U17 Asian Cup[z]	^-
+Uzbekistan vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390479/uzbekistan-u17-vs-australia-u17.html
+
+23:00 [l]CAF U17 Championship[z]	^-
+Uganda vs Democratic Rep Congo	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399100/uganda-u17-vs-democratic-rep-congo-u17.html
+
+14.05.2026	^-
+
+00:00 [y]Spanish La Liga[z]	^-
+RCD Espanyol vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209693/rcd-espanyol-de-barcelona-vs-athletic-club.html
+Villarreal vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209717/villarreal-cf-vs-sevilla-fc.html
+
+00:00 [y]French Ligue 1[z]	^-
+Stade Brestois vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200145/stade-brestois-29-vs-rc-strasbourg-alsace.html
+
+00:00 [l]AFC U17 Asian Cup[z]	^-
+Korea Republic vs Yemen	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390309/south-korea-u17-vs-yemen-u17.html
+Vietnam vs United Arab Emirates	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4390312/vietnam-u17-vs-united-arab-emirates-u17.html
+
+02:00 [y]English Premier League[z]	^-
+Manchester City vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194064/manchester-city-vs-crystal-palace.html
+
+02:00 [y]French Ligue 1[z]	^-
+Lens vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200131/rc-lens-vs-paris-saint-germain.html
+
+02:00 [g]Scottish Premiership[z]	^-
+Heart of Midlothian vs Falkirk	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387798/heart-of-midlothian-vs-falkirk.html
+
+02:00 [y]Coppa Italia[z]	^-
+Lazio vs Inter Milan	`Fhttps://www.fctv33.net/football/coppa-italia-match-4392862/lazio-vs-inter-milan.html
+
+02:00 [l]CAF U17 Championship[z]	^-
+Morocco vs Tunisia	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399447/morocco-u17-vs-tunisia-u17.html
+
+02:15 [g]Copa Argentina[z]	^-
+CA Platense vs San Martin San Juan	`Fhttps://www.fctv33.net/football/copa-argentina-match-4390106/ca-platense-vs-san-martin-san-juan.html
+
+02:30 [y]Spanish La Liga[z]	^-
+Getafe vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209661/getafe-vs-rcd-mallorca.html
+Deportivo Alavés vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209793/deportivo-alavs-vs-fc-barcelona.html
+
+05:00 [g]Brazilian Cup[z]	^-
+Juventude vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388612/juventude-vs-so-paulo---sp.html
+Vasco da Gama vs SC Paysandu Para	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388619/vasco-da-gama-saf---rj-vs-sc-paysandu-para.html
+
+05:00 [g]Argentine Division 1[z]	^-
+Rosario Central vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4400364/rosario-central-vs-racing-club-de-avellaneda.html
+
+06:00 [g]Colombia Primera A[z]	^-
+Deportivo Pasto vs Deportes Tolima	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398040/deportivo-pasto-vs-deportes-tolima.html
+
+06:15 [g]US Major League Soccer[z]	^-
+Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317658/charlotte-fc-vs-new-york-city-fc.html
+
+06:30 [g]US Major League Soccer[z]	^-
+FC Cincinnati vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317327/fc-cincinnati-vs-inter-miami-cf.html
+Orlando City vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317332/orlando-city-vs-philadelphia-union.html
+DC United vs Chicago Fire	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317382/dc-united-vs-chicago-fire.html
+Montreal Impact vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317412/montreal-impact-vs-portland-timbers.html
+New York Red Bulls vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317725/new-york-red-bulls-vs-columbus-crew.html
+New England Revolution vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317749/new-england-revolution-vs-nashville.html
+
+07:30 [g]Brazilian Cup[z]	^-
+Remo Belem PA vs Bahia	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387634/remo---pa-vs-bahia---ba.html
+Ceara vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388625/ceara-vs-atltico-mineiro---mg.html
+
+07:30 [g]Argentine Division 1[z]	^-
+River Plate vs Gimnasia La Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4400557/river-plate-vs-gimnasia-la-plata.html
+
+08:15 [g]Colombia Primera A[z]	^-
+Atl Jr Barranquilla vs Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398042/atletico-junior-barranquilla-vs-deportiva-once-caldas.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -1883,11 +1960,6 @@ PSN 3	https://cdn3.skygo.mn/live/disk1/PSN3/STRM-CH2-1/PSN3.mpd
 PSN 4	https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
 PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 
-^=ddkanq.vip	`0https://ddkanq.vip/
-^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
-^=zhiboz.com	`0https://www.popozhibo.tv/
-^=808ontv	`Fhttps://play33.808ontv.com/
-^=Maxstream	`Fhttps://maxstream.tv/home
 ^=Live 1	`0https://24start.net/homes/blog1/
 ^=Live 2	`0https://24start.net/homes/blog2/
 ^=Live 3	`0https://24start.net/homes/blog3/
@@ -1899,5 +1971,12 @@ PSN 5	https://cdn3.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 ^=Live 9	`0https://24start.net/homes/blog9/
 ^=Live 10	`0https://24start.net/homes/blog10/
 ^=Live 11	`0https://24start.net/homes/blog11/
+^=ddkanq.vip	`0https://ddkanq.vip/
+^=SLNS	`0https://stream.livenobarseru.com/id/sport/football
+^=zhiboz.com	`0https://www.popozhibo.tv/
+^=808ontv	`Fhttps://play33.808ontv.com/
+^=goals365	`Fhttps://www.goals365.live/
+^=mut.st	`1https://mut.st/
+^=Maxstream	`Fhttps://maxstream.tv/home
 
 	^-
