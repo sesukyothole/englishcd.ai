@@ -191,8 +191,10 @@ Valencia vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-mat
 01:00 [y]Spanish La Liga[z]	^-
 Girona vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209750/girona-fc-vs-real-sociedad.html
 
-icon_top
-FC	^-
+02:00 [l]CAF U17 Championship[z]	^-
+Algeria vs Ghana	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399013/algeria-u17-vs-ghana-u17.html
+
+	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
