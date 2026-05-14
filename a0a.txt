@@ -39,14 +39,6 @@ Rosario Central vs Racing Club	`0https://v3.sportssonline.click/channels/hd/hd8.
 Rosario Central vs Racing Club	https://qinl-play.agiaexpress.com/live/sd-6Mwe5HZUrmoVNX1vDU.m3u8?auth_key=1778721566-0-0-5d8c358090139818d022b38823cb4362
 Rosario Central vs Racing Club	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5HZUrmoVNX1v93.m3u8
 
-05:00 [g]Brazilian Cup[z]	^-
-Juventude vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388612/juventude-vs-so-paulo---sp.html
-Juventude vs Sao Paulo	`0https://v3.sportssonline.click/channels/bra/br1.php
-Juventude vs Sao Paulo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaoTxmBfoGjc7Lh.m3u8
-Vasco da Gama vs SC Paysandu Para	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388619/vasco-da-gama-saf---rj-vs-sc-paysandu-para.html
-Vasco da Gama vs SC Paysandu Para	`0https://v3.sportssonline.click/channels/bra/br4.php
-Vasco da Gama vs SC Paysandu Para	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaoTxm7GqXmxH2u.m3u8
-
 05:30 [g]Brazilian Cup[z]	^-
 Coritiba vs Santos	`0https://v3.sportssonline.click/channels/bra/br3.php
 Coritiba vs Santos	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaoTxkxUv3recRK.m3u8
