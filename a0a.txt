@@ -4,6 +4,8 @@
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
+Test0	`0https://embedsports.top/embed/admin/ppv-girona-vs-real-sociedad/1
+Test1	`1https://embedsports.top/embed/admin/ppv-girona-vs-real-sociedad/1
 ^=Blank	
 ^=	^-
 
