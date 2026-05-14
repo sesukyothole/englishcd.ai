@@ -33,14 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 14.05.2026	^-
 
-20:00 [g]Belgian Cup[z]	^-
-Saint Gilloise vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-cup-match-4371543/union-saint-gilloise-vs-anderlecht.html
-Saint Gilloise vs Anderlecht	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5eLv7s6JaJkKoj.m3u8
-
-20:00 [l]CAF U17 Championship[z]	^-
-Mali vs Angola	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399010/mali-u17-vs-angola-u17.html
-Mali vs Angola	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5LmXKc4Y9Joz4M.m3u8
-
 21:30 [g]Switzerland Super League[z]	^-
 FC Sion vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384287/fc-sion-vs-lugano.html
 FC Sion vs Lugano	https://pull.livecdn.cc/live/4526046.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
