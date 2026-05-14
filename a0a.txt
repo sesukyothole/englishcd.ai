@@ -39,6 +39,14 @@ Saint Gilloise vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-cup-match
 20:00 [l]CAF U17 Championship[z]	^-
 Mali vs Angola	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399010/mali-u17-vs-angola-u17.html
 
+21:30 [g]Switzerland Super League[z]	^-
+FC Sion vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384287/fc-sion-vs-lugano.html
+Thun vs Young Boys	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384288/thun-vs-young-boys.html
+Basel vs St. Gallen	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384289/fc-basel-1893-vs-st-gallen.html
+
+22:55 [g]Saudi Professional League[z]	^-
+Al-Fateh vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256229/al-fateh-sc-vs-al-najmaksa.html
+
 23:00 [l]CAF U17 Championship[z]	^-
 Tanzania vs Mozambique	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399101/tanzania-u17-vs-mozambique-u17.html
 Senegal vs South Africa	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399102/senegal-u17-vs-south-africa-u17.html
@@ -50,6 +58,10 @@ Valencia vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-mat
 
 01:00 [y]Spanish La Liga[z]	^-
 Girona vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209750/girona-fc-vs-real-sociedad.html
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Ettifaq vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256230/al-ettifaq-fc-vs-al-ittihad-club.html
+Al-Qadasiya vs Al-Hazm	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256234/al-qadsiah-vs-al-hazem.html
 
 02:00 [l]CAF U17 Championship[z]	^-
 Algeria vs Ghana	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399013/algeria-u17-vs-ghana-u17.html
@@ -68,6 +80,15 @@ Vitoria BA vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-cup-match-438
 
 08:00 [g]Mexico Liga MX[z]	^-
 Pachuca vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400556/pachuca-vs-pumas-unam.html
+
+15:30 Super League	^-
+Semen Padang vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229510/semen-padang-vs-persebaya-surabaya.html
+
+16:00 Malaysian Super League	^-
+Penang vs DPMM FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221324/penang-fc-vs-dpmm-fc.html
+
+16:35 [g]Australia A-League[z]	^-
+Adelaide United vs Auckland FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4396905/adelaide-united-vs-auckland-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
