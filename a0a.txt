@@ -31,40 +31,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-14.05.2026	^-
-
-21:30 [g]Switzerland Super League[z]	^-
-FC Sion vs Lugano	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384287/fc-sion-vs-lugano.html
-FC Sion vs Lugano	https://pull.livecdn.cc/live/4526046.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
-FC Sion vs Lugano	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdagtzzCAp5hpHVP.m3u8
-Thun vs Young Boys	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384288/thun-vs-young-boys.html
-Thun vs Young Boys	https://pull.livecdn.cc/live/4404702.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
-Thun vs Young Boys	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdagtzzJmFh9J2x5.m3u8
-Basel vs St. Gallen	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384289/fc-basel-1893-vs-st-gallen.html
-Basel vs St. Gallen	`0https://v3.sportssonline.click/channels/hd/hd3.php
-Basel vs St. Gallen	https://pull.livecdn.cc/live/4526044.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
-Basel vs St. Gallen	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdagtzzENHxBeCeH.m3u8
-
-22:00 [g]Danish Cup[z]	^-
-FC Copenhagen vs Midtjylland	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKQHndNbXqqGNh.m3u8
-
-22:55 [g]Saudi Professional League[z]	^-
-Al-Fateh vs Al Najma KSA	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256229/al-fateh-sc-vs-al-najmaksa.html
-Al-Fateh vs Al Najma KSA	https://pull.livecdn.cc/live/4404702.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
-Al-Fateh vs Al Najma KSA	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76umyRiFRPfzM.m3u8
-
-23:00 [l]CAF U17 Championship[z]	^-
-Tanzania vs Mozambique	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399101/tanzania-u17-vs-mozambique-u17.html
-Tanzania vs Mozambique	`0https://www.marza12.shop/football/2984889-tanzania-u17-vs-mozambique-u17.html
-Senegal vs South Africa	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399102/senegal-u17-vs-south-africa-u17.html
-Senegal vs South Africa	`0https://www.marza12.shop/football/2984894-senegal-u17-vs-south-africa-u17.html
-
 15.05.2026	^-
-
-00:00 [y]Spanish La Liga[z]	^-
-Valencia vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209791/valencia-cf-vs-rayo-vallecano.html
-Valencia vs Rayo Vallecano	`0https://v3.sportssonline.click/channels/hd/hd2.php
-Valencia vs Rayo Vallecano	https://streaming.cdnx-sportnobar.xyz/live/sd-6MuSsYd5ejsCnNQsLh.m3u8
 
 01:00 [y]Spanish La Liga[z]	^-
 Girona vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209750/girona-fc-vs-real-sociedad.html
