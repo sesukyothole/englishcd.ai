@@ -33,11 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 14.05.2026	^-
 
-08:15 [g]Colombia Primera A[z]	^-
-Atl Jr Barranquilla vs Once Caldas	`Fhttps://www.fctv33.net/football/categoria-primera-a-match-4398042/atletico-junior-barranquilla-vs-deportiva-once-caldas.html
-Atl Jr Barranquilla vs Once Caldas	https://qinl-play.agiaexpress.com/live/sd-6MwdLb2ZbdNeiVbrc6.m3u8?auth_key=1778722566-0-0-34ffa7b5efef002d03ab7a8d3b2adf3a
-Atl Jr Barranquilla vs Once Caldas	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2ZbdNeiVbrXf.m3u8
-
 08:30 [g]US Major League Soccer[z]	^-
 San Diego vs Austin	`0https://v3.sportssonline.click/channels/hd/hd5.php
 San Diego vs Austin	https://qinl-play.agiaexpress.com/live/sd-6MvZ6B8VtiSefvaaS2.m3u8?auth_key=1778723465-0-0-065f17c9dbe6d9b1d9cf1e729ee86348
@@ -82,6 +77,12 @@ Chapecoense SC vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-cup-ma
 
 05:00 [g]Brazilian Cup[z]	^-
 Atl Goianiense vs Athl Paranaense	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4387807/atletico-clube-goianiense-vs-athletico-paranaense---pr.html
+
+07:30 [g]Brazilian Cup[z]	^-
+Vitoria BA vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-cup-match-4388917/vitria---ba-vs-flamengo---rj.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Pachuca vs Pumas UNAM	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400556/pachuca-vs-pumas-unam.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
