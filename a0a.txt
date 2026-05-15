@@ -93,8 +93,29 @@ Nacional Madeira vs Vit Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-p
 FC Arouca vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216251/fc-arouca-vs-cd-tondela.html
 Sporting Braga vs Estrela Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216257/sporting-braga-vs-cf-estrela-amadora-sad.html
 
+00:00 [l]AFC U17 Asian Cup[z]	^-
+Vietnam vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4401501/vietnam-u17-vs-australia-u17.html
+
 00:45 [l]AFC Champions League 2[z]	^-
 Al Nassr FC vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4392838/al-nassr-fc-vs-gamba-osaka.html
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Ahli Jeddah vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256235/al-ahli-sfc-vs-al-kholood.html
+
+01:00 [l]CAF Confederation Cup[z]	^-
+Zamalek vs USM Alger	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4394544/zamalek-sc-vs-usm-alger.html
+
+01:45 [g]Belgian Pro League[z]	^-
+Sint-Truidense vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383148/sint-truidense-vs-kaa-gent.html
+
+02:00 [l]CAF U17 Championship[z]	^-
+Morocco vs Ethiopia	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4400438/morocco-u17-vs-ethiopia-u17.html
+Democratic Rep Congo vs Ivory Coast	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4400439/democratic-rep-congo-u17-vs-cote-divoire-u17.html
+
+02:30 [g]Portuguese Primera Liga[z]	^-
+Sporting CP vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216239/sporting-cp-vs-gil-vicente.html
+FC Famalicao vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216250/fc-famalicao-vs-alverca.html
+Estoril vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216252/estoril-vs-benfica.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
