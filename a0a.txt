@@ -33,10 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 15.05.2026	^-
 
-19:00 Super League	^-
-PSBS Biak Numfor vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229657/psbs-biak-numfor-vs-arema-fc.html
-PSBS Biak Numfor vs Arema FC	`0https://www.marza12.shop/football/2826436-psbs-biak-vs-arema-fc.html
-
 23:15 [g]Saudi Professional League[z]	^-
 Damac vs Al Fayha	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256237/damac-vs-al-fayha.html
 Damac vs Al Fayha	`0https://www.marza12.shop/football/2852351-damac-fc-vs-alfeiha.html
@@ -61,6 +57,20 @@ Aston Villa vs Liverpool	`0https://v4.sportssonline.click/channels/hd/hd1.php
 
 15:30 Super League	^-
 Persik Kediri vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229551/persatuan-sepak-bola-indonesia-kediri-vs-persatuan-sepakbola-indonesia-jakarta.html
+
+08:30 [g]Scottish Premiership[z]	^-
+Celtic FC vs Heart of Midlothian	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387799/celtic-fc-vs-heart-of-midlothian.html
+
+19:00 Super League	^-
+Malut United vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229558/malut-united-vs-persita-tangerang.html
+Persis Solo FC vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229656/persis-solo-fc-vs-dewa-united-fc.html
+
+20:00 Malaysian Super League	^-
+Negeri Sembilan vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221282/negeri-sembilan-vs-kelantan-the-real-warriors.html
+Imigresen FC vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221322/imigresen-fc-vs-melaka-fc.html
+
+20:00 [l]CAF U17 Championship[z]	^-
+Tunisia vs Egypt	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4400437/tunisia-u17-vs-egypt-u17.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
