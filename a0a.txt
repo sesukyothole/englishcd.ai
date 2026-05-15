@@ -38,6 +38,7 @@ Persik Kediri vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-su
 
 08:30 [g]Scottish Premiership[z]	^-
 Celtic FC vs Heart of Midlothian	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4387799/celtic-fc-vs-heart-of-midlothian.html
+Celtic FC vs Heart of Midlothian	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 19:00 Super League	^-
 Malut United vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229558/malut-united-vs-persita-tangerang.html
@@ -52,23 +53,32 @@ Tunisia vs Egypt	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-44
 
 20:30 [y]Bundesliga[z]	^-
 SC Freiburg vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199910/sc-freiburg-vs-rb-leipzig.html
+SC Freiburg vs RB Leipzig	`0https://v4.sportssonline.click/channels/hd/hd8.php
 Bayer Leverkusen vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199911/bayer-04-leverkusen-vs-hamburger-sv.html
+Bayer Leverkusen vs Hamburger SV	`0https://v4.sportssonline.click/channels/hd/hd10.php
 Eintracht Frankfurt vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199913/eintracht-frankfurt-vs-vfb-stuttgart.html
+Eintracht Frankfurt vs VfB Stuttgart	`0https://v4.sportssonline.click/channels/hd/hd11.php
 FC St. Pauli vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199915/fc-st-pauli-vs-vfl-wolfsburg.html
+FC St. Pauli vs VfL Wolfsburg	`0https://v4.sportssonline.click/channels/hd/hd9.php
 1. FC Heidenheim vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199916/1-fc-heidenheim-1846-vs-1-fsv-mainz-05.html
 Union Berlin vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199918/1-fc-union-berlin-vs-fc-augsburg.html
 Bayern Munchen vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199919/fc-bayern-munich-vs-fc-kln.html
+Bayern Munchen vs FC Koln	`0https://v4.sportssonline.click/channels/bra/br1.php
 Werder Bremen vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199920/sv-werder-bremen-vs-borussia-dortmund.html
+Werder Bremen vs Borussia Dortmund	`0https://v4.sportssonline.click/channels/hd/hd4.php
 Br Monchengladbach vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199923/borussia-monchengladbach-vs-tsg-hoffenheim.html
+Br Monchengladbach vs TSG Hoffenheim	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 21:00 [g]Belgian Pro League[z]	^-
 Charleroi vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382830/rc-sporting-charleroi-vs-kvc-westerlo.html
 
 21:00 [y]FA Cup[z]	^-
 Chelsea vs Manchester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4394607/chelsea-vs-manchester-city.html
+Chelsea vs Manchester City	`0https://v4.sportssonline.click/channels/hd/hd1.php
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216248/fc-porto-vs-santa-clara.html
+FC Porto vs Santa Clara	`0https://v4.sportssonline.click/channels/pt/sporttv1.php
 Moreirense vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216256/moreirense-vs-avs-futebol-sad.html
 
 23:00 [l]CAF U17 Championship[z]	^-
@@ -76,6 +86,7 @@ Cameroon vs Uganda	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-
 
 23:05 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs NEOM Sports Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256233/al-hilal-vs-neom-sports-club.html
+Al Hilal SFC vs NEOM Sports Club	`0https://v4.sportssonline.click/channels/pt/sporttv3.php
 
 23:15 [g]Belgian Pro League[z]	^-
 Standard Liege vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382832/standard-liege-vs-racing-genk.html
@@ -172,6 +183,11 @@ TBS	https://nl.utako.moe/TBS/index.m3u8
 Fuji TV	https://nl.utako.moe/Fuji_TV/index.m3u8
 TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 
+Football for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+SportStars 1 for PC	https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+SportStars 2 for PC	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+SportStars 4 for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+
 ^=GTV	`Fhttps://m.rctiplus.com/tv/gtv
 ^=MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
 ^=RCTI	`Fhttps://m.rctiplus.com/tv/rcti
@@ -199,7 +215,7 @@ CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wm
 Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb563e1e796c628d84cb3d78d1f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da86852db80148b6f4adafb8c2360625f5c98435ee3b24aa7ade80f42de68a9ac1d1a977b58e68314c8c915bd82d64699458e72f3429897a48bd414e0f8ab4191d2613d733a0f44dbe85492c55cafc993684bf31b4a672d252d270e9c3458a7544a5d829f81df37bc7b46ee54e10057db60f82ba449ea0bca69c7a17280e7d7fe514838ebef4e622fa9eba7b0365459b24bf4b8e0d17f7dd6a35a2807815ad12c2f3787ee8b3ab08344c6f873def45e143696c51edb85e4d7a6f0ac5a8c29cff0f19a164b5a2c5151d113f1cc2d9302f54c85e25f6150444fa8da72c185d25179226c8e9251d91654e88fdecd8f406b84305b69e966d8490c2399673b32b67b8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f6b4a165f060e8b90fa88621a17f335407f3bf6c684c4279dff9754f575dc656efc7c5f17d6b52ba17ac5017849561171381b0dcb8980b3554714b99c31bfb/26/854x480_1821600/index.m3u8
 F1 Italy	https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=PmzCRLgZpgmP3ygroDqj7A
-FanCode	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+FanCode	https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd!!065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 Fubo Sports 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo Sports 2	https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd!!bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
@@ -234,6 +250,8 @@ SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.
 SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
+TVE La 1	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd!!fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa
+TVE La W	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/arv0kf9ndp/out/v1/aa299e8d19994d78b35977495064e64c/cenc.mpd!!92eb4fb693ddc7b72909828ad62cdff5:0b6f7e58c4566ca418447332b228d488
 Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
 Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Tennis Channel	https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8
@@ -265,11 +283,6 @@ MNB2	https://cdn3.skygo.mn/live/disk1/MNB2/HLS-FTA/MNB2.m3u8
 MNB Sport	https://cdn3.skygo.mn/live/disk1/MNBSport/HLS-FTA/MNBSport.m3u8
 Moviebox	https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 Star TV	https://cdn3.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
-
-Football for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-SportStars 1 for PC	https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-SportStars 2 for PC	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-SportStars 4 for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 
 	^-
 [l]{s} 👉Ⓜa1 🤹Multi Drama Dubbing Indonesia👈[z]	^^sa1
