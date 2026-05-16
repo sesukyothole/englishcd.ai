@@ -108,20 +108,24 @@ Standard Liege vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-leag
 00:00 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs Rio Ave	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216240/casa-pia-ac-vs-rio-ave.html
 Nacional Madeira vs Vit Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216242/nacional-da-madeira-vs-vitoria-guimaraes.html
+Nacional Madeira vs Vit Guimaraes	`0https://v4.sportssonline.click/channels/pt/sporttv5.php
 FC Arouca vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216251/fc-arouca-vs-cd-tondela.html
 Sporting Braga vs Estrela Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216257/sporting-braga-vs-cf-estrela-amadora-sad.html
+Sporting Braga vs Estrela Amadora	`0https://v4.sportssonline.click/channels/pt/sporttv4.php
 
 00:00 [l]AFC U17 Asian Cup[z]	^-
 Vietnam vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4401501/vietnam-u17-vs-australia-u17.html
 
 00:45 [l]AFC Champions League 2[z]	^-
 Al Nassr FC vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4392838/al-nassr-fc-vs-gamba-osaka.html
+Al Nassr FC vs Gamba Osaka	`0https://v4.sportssonline.click/channels/hd/hd2.php
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Ahli Jeddah vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256235/al-ahli-sfc-vs-al-kholood.html
 
 01:00 [l]CAF Confederation Cup[z]	^-
 Zamalek vs USM Alger	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4394544/zamalek-sc-vs-usm-alger.html
+Zamalek vs USM Alger	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 01:45 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383148/sint-truidense-vs-kaa-gent.html
@@ -132,8 +136,44 @@ Democratic Rep Congo vs Ivory Coast	`Fhttps://www.fctv33.net/football/caf-u17-ch
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216239/sporting-cp-vs-gil-vicente.html
+Sporting CP vs Gil Vicente	`0https://v4.sportssonline.click/channels/pt/sporttv2.php
 FC Famalicao vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216250/fc-famalicao-vs-alverca.html
+FC Famalicao vs Alverca	`0https://v4.sportssonline.click/channels/pt/sporttv4.php
 Estoril vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216252/estoril-vs-benfica.html
+Estoril vs Benfica	`0https://v4.sportssonline.click/channels/pt/sporttv3.php
+
+04:30 [g]Brazilian Serie A
+Atletico Mineiro vs Mirassol	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323221/atltico-mineiro---mg-vs-mirassol---sp.html
+Atletico Mineiro vs Mirassol	`0https://v4.sportssonline.click/channels/bra/br3.php
+Internacional RS vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323225/internacional---rs-vs-vasco-da-gama-saf---rj.html
+
+05:00 [g]Brazilian Serie A[z]	^-
+Fluminense RJ vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323222/fluminense---rj-vs-so-paulo---sp.html
+Fluminense RJ vs Sao Paulo	`0https://v4.sportssonline.click/channels/bra/br4.php
+
+05:30 [g]Argentine Division 1[z]	^-
+River Plate vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4401398/river-plate-vs-rosario-central.html
+River Plate vs Rosario Central	`0https://v4.sportssonline.click/channels/hd/hd8.php
+
+06:30 [g]US Major League Soccer[z]	^-
+Charlotte FC vs Toronto FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317390/charlotte-fc-vs-toronto-fc.html
+Charlotte FC vs Toronto FC	`0https://v4.sportssonline.click/channels/hd/hd10.php
+
+07:00 [g]Brazilian Serie A[z]	^-
+Palmeiras vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324103/palmeiras---sp-vs-cruzeiro---mg.html
+Palmeiras vs Cruzeiro Esporte	`0https://v4.sportssonline.click/channels/bra/br1.php
+
+08:07 [g]Mexico Liga MX[z]	^-
+Chivas Guadalajara vs Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400182/club-deportivo-guadalajara-vs-cruz-azul.html
+Chivas Guadalajara vs Cruz Azul	`0https://v4.sportssonline.click/channels/hd/hd9.php
+
+08:15 [g]US Major League Soccer[z]	^-
+Seattle Sounders vs LA Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317563/seattle-sounders-vs-los-angeles-galaxy.html
+Seattle Sounders vs LA Galaxy	`0https://v4.sportssonline.click/channels/hd/hd5.php
+
+08:30 [g]US Major League Soccer[z]	^-
+Real Salt Lake vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317473/real-salt-lake-vs-colorado-rapids.html
+Real Salt Lake vs Colorado Rapids	`0https://v4.sportssonline.click/channels/hd/hd10.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
