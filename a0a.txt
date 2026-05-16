@@ -33,21 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 16.05.2026	^-
 
-14:00 [g]Japanese J1 League[z]	^-
-Urawa Red Diamonds vs FC Tokyo	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331794/urawa-red-diamonds-vs-fc-tokyo.html
-Urawa Red Diamonds vs FC Tokyo	`0https://www.marza12.shop/football/2915998-urawa-red-diamonds-vs-fc-tokyo.html
-Urawa Red Diamonds vs FC Tokyo	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LaFUFZ1XoKB.m3u8
-
-14:30 [g]Korean K League 1[z]	^-
-Daejeon Citizen vs FC Seoul	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336158/daejeon-citizen-vs-football-club-seoul.html
-Daejeon Citizen vs FC Seoul	`0https://www.marza12.shop/football/2929639-daejeon-citizen-vs-fc-seoul.html
-Daejeon Citizen vs FC Seoul	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvVcpWuxEdLPqjxLm.m3u8
-
-15:00 [g]Japanese J1 League[z]	^-
-Yokohama Marinos vs Kashiwa Reysol	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331733/yokohama-f-marinos-vs-kashiwa-reysol.html
-Yokohama Marinos vs Kashiwa Reysol	`0https://www.marza12.shop/football/2915999-yokohama-marinos-vs-kashiwa-reysol.html
-Yokohama Marinos vs Kashiwa Reysol	https://streaming.cdnx-sportnobar.xyz/live/sd-6MvYqo1LaDGmgXhtAH.m3u8
-
 15:30 Super League	^-
 Persik Kediri vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229551/persatuan-sepak-bola-indonesia-kediri-vs-persatuan-sepakbola-indonesia-jakarta.html
 Persik Kediri vs Persija Jakarta	`0https://www.marza12.shop/football/2826437-persik-kediri-vs-persija-jakarta.html
