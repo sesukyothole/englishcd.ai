@@ -35,31 +35,40 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 20:00 Malaysian Super League	^-
 Negeri Sembilan vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221282/negeri-sembilan-vs-kelantan-the-real-warriors.html
-Negeri Sembilan vs Kelantan United	`0https://www.marza12.shop/football/2822441-negeri-sembilan-vs-kelantan-united.html
+Negeri Sembilan vs Kelantan United	`0https://www.marza12.shop/football/2822441.html
 Imigresen FC vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221322/imigresen-fc-vs-melaka-fc.html
-Imigresen FC vs Melaka FC	`0https://www.marza12.shop/football/2822439-imigresen-fc-vs-melaka-fc.html
+Imigresen FC vs Melaka FC	`0https://www.marza12.shop/football/2822439.html
 
 20:00 [l]CAF U17 Championship[z]	^-
 Tunisia vs Egypt	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4400437/tunisia-u17-vs-egypt-u17.html
-Tunisia vs Egypt	`0https://www.marza12.shop/football/2984878-tunisia-u17-vs-egypt-u17.html
+Tunisia vs Egypt	`0https://www.marza12.shop/football/2984878.html
 
 20:30 [y]Bundesliga[z]	^-
 SC Freiburg vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199910/sc-freiburg-vs-rb-leipzig.html
 SC Freiburg vs RB Leipzig	`0https://v4.sportssonline.click/channels/hd/hd8.php
+SC Freiburg vs RB Leipzig	https://pull.livecdn.cc/live/4347664.m3u8
 Bayer Leverkusen vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199911/bayer-04-leverkusen-vs-hamburger-sv.html
 Bayer Leverkusen vs Hamburger SV	`0https://v4.sportssonline.click/channels/hd/hd10.php
+Bayer Leverkusen vs Hamburger SV	https://pull.livecdn.cc/live/4347597.m3u8
 Eintracht Frankfurt vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199913/eintracht-frankfurt-vs-vfb-stuttgart.html
 Eintracht Frankfurt vs VfB Stuttgart	`0https://v4.sportssonline.click/channels/hd/hd11.php
+Eintracht Frankfurt vs VfB Stuttgart	https://pull.livecdn.cc/live/4347663.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
 FC St. Pauli vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199915/fc-st-pauli-vs-vfl-wolfsburg.html
 FC St. Pauli vs VfL Wolfsburg	`0https://v4.sportssonline.click/channels/hd/hd9.php
-1. FC Heidenheim vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199916/1-fc-heidenheim-1846-vs-1-fsv-mainz-05.html
-Union Berlin vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199918/1-fc-union-berlin-vs-fc-augsburg.html
+FC St. Pauli vs VfL Wolfsburg	https://pull.livecdn.cc/live/4347600.m3u8
 Bayern Munchen vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199919/fc-bayern-munich-vs-fc-kln.html
 Bayern Munchen vs FC Koln	`0https://v4.sportssonline.click/channels/bra/br1.php
+Bayern Munchen vs FC Koln	https://pull.livecdn.cc/live/4347649.m3u8
 Werder Bremen vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199920/sv-werder-bremen-vs-borussia-dortmund.html
 Werder Bremen vs Borussia Dortmund	`0https://v4.sportssonline.click/channels/hd/hd4.php
+Werder Bremen vs Borussia Dortmund	https://pull.livecdn.cc/live/4347640.m3u8
 Br Monchengladbach vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199923/borussia-monchengladbach-vs-tsg-hoffenheim.html
 Br Monchengladbach vs TSG Hoffenheim	`0https://v4.sportssonline.click/channels/hd/hd5.php
+Br Monchengladbach vs TSG Hoffenheim	https://pull.livecdn.cc/live/4347617.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
+1. FC Heidenheim vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199916/1-fc-heidenheim-1846-vs-1-fsv-mainz-05.html
+1. FC Heidenheim vs FSV Mainz 05	https://pull.livecdn.cc/live/4347650.m3u8?txSecret=4dfcb8c04fa44063463e00b18a3a05e6&txTime=1778495907
+Union Berlin vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199918/1-fc-union-berlin-vs-fc-augsburg.html
+Union Berlin vs FC Augsburg	https://pull.livecdn.cc/live/4347613.m3u8
 
 21:00 [g]Belgian Pro League[z]	^-
 Charleroi vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382830/rc-sporting-charleroi-vs-kvc-westerlo.html
