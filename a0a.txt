@@ -62,6 +62,7 @@ Standard Liege vs Racing Genk	`0https://www.marza12.shop/football/2969509-standa
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Casa Pia AC vs Rio Ave	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216240/casa-pia-ac-vs-rio-ave.html
+Casa Pia AC vs Rio Ave	`0https://www.marza12.shop/football/2815022-casa-pia-ac-vs-rio-ave.html
 Nacional Madeira vs Vit Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216242/nacional-da-madeira-vs-vitoria-guimaraes.html
 Nacional Madeira vs Vit Guimaraes	`0https://v4.sportssonline.click/channels/pt/sporttv5.php
 FC Arouca vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216251/fc-arouca-vs-cd-tondela.html
@@ -77,6 +78,7 @@ Al Nassr FC vs Gamba Osaka	`0https://v4.sportssonline.click/channels/hd/hd2.php
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Ahli Jeddah vs Al Kholood	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256235/al-ahli-sfc-vs-al-kholood.html
+Al Ahli Jeddah vs Al Kholood	`0https://www.marza12.shop/football/2852343-alahli-sfc-vs-al-kholood.html
 
 01:00 [l]CAF Confederation Cup[z]	^-
 Zamalek vs USM Alger	`Fhttps://www.fctv33.net/football/caf-confederation-cup-match-4394544/zamalek-sc-vs-usm-alger.html
@@ -100,6 +102,9 @@ FC Famalicao vs Alverca	`0https://v4.sportssonline.click/channels/pt/sporttv4.ph
 Estoril vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216252/estoril-vs-benfica.html
 Estoril vs Benfica	`0https://v4.sportssonline.click/channels/pt/sporttv3.php
 
+03:30 [g]US Major League Soccer[z]	^-
+Montreal vs Chicago	`0https://www.marza12.shop/football/2908602-cf-montreal-vs-chicago-fire.html
+
 04:30 [g]Brazilian Serie A
 Atletico Mineiro vs Mirassol	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323221/atltico-mineiro---mg-vs-mirassol---sp.html
 Atletico Mineiro vs Mirassol	`0https://v4.sportssonline.click/channels/bra/br3.php
@@ -116,6 +121,11 @@ River Plate vs Rosario Central	`0https://v4.sportssonline.click/channels/hd/hd8.
 06:30 [g]US Major League Soccer[z]	^-
 Charlotte FC vs Toronto FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317390/charlotte-fc-vs-toronto-fc.html
 Charlotte FC vs Toronto FC	`0https://v4.sportssonline.click/channels/hd/hd10.php
+DC United vs St Louis	`0https://www.marza12.shop/football/2908604-dc-united-vs-st-louis-city.html
+New England vs Minnesota	`0https://www.marza12.shop/football/2908605-new-england-revolution-vs-minnesota-united-fc.html
+NY Red Bulls vs NY City	`0https://www.marza12.shop/football/2908606-new-york-red-bulls-vs-new-york-city-fc.html
+Orlando vs Atlanta	`0https://www.marza12.shop/football/2908607-orlando-city-vs-atlanta-united.html
+Philadelphia vs Colombus	`0https://www.marza12.shop/football/2908608-philadelphia-union-vs-columbus-crew.html
 
 07:00 [g]Brazilian Serie A[z]	^-
 Palmeiras vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324103/palmeiras---sp-vs-cruzeiro---mg.html
@@ -132,6 +142,9 @@ Seattle Sounders vs LA Galaxy	`0https://v4.sportssonline.click/channels/hd/hd5.p
 08:30 [g]US Major League Soccer[z]	^-
 Real Salt Lake vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317473/real-salt-lake-vs-colorado-rapids.html
 Real Salt Lake vs Colorado Rapids	`0https://v4.sportssonline.click/channels/hd/hd10.php
+
+09:30 [g]US Major League Soccer[z]	^-
+San Jose vs Dallas	`0https://www.marza12.shop/football/2908614-san-jose-earthquakes-vs-fc-dallas.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
