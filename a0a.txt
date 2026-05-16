@@ -33,19 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 16.05.2026	^-
 
-21:00 [g]Belgian Pro League[z]	^-
-Charleroi vs Westerlo	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382830/rc-sporting-charleroi-vs-kvc-westerlo.html
-
-21:00 [y]FA Cup[z]	^-
-Chelsea vs Manchester City	`Fhttps://www.fctv33.net/football/fa-cup-match-4394607/chelsea-vs-manchester-city.html
-Chelsea vs Manchester City	`0https://v4.sportssonline.click/channels/hd/hd1.php
-Chelsea vs Manchester City	https://pull.livecdn.cc/live/4535977.m3u8
-
-21:30 [g]Portuguese Primera Liga[z]	^-
-FC Porto vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216248/fc-porto-vs-santa-clara.html
-FC Porto vs Santa Clara	`0https://v4.sportssonline.click/channels/pt/sporttv1.php
-Moreirense vs AVS Futebol	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216256/moreirense-vs-avs-futebol-sad.html
-
 23:00 [l]CAF U17 Championship[z]	^-
 Cameroon vs Uganda	`Fhttps://www.fctv33.net/football/caf-u17-championship-match-4399908/cameroon-u17-vs-uganda-u17.html
 Cameroon vs Uganda	`0https://www.marza12.shop/football/2984884-cameroon-u17-vs-uganda-u17.html
