@@ -40,8 +40,10 @@ Celtic FC vs Heart of Midlothian	`0https://v4.sportssonline.click/channels/hd/hd
 19:00 Super League	^-
 Malut United vs Persita Tangerang	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229558/malut-united-vs-persita-tangerang.html
 Malut United vs Persita Tangerang	`0https://www.marza12.shop/football/2826438-malut-united-vs-persita-tangerang.html
+Malut United vs Persita Tangerang	https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 Persis Solo FC vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229656/persis-solo-fc-vs-dewa-united-fc.html
 Persis Solo FC vs Dewa United FC	`0https://www.marza12.shop/football/2826439-persis-solo-fc-vs-dewa-united-fc.html
+Persis Solo FC vs Dewa United FC	https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 20:00 Malaysian Super League	^-
 Negeri Sembilan vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221282/negeri-sembilan-vs-kelantan-the-real-warriors.html
