@@ -77,8 +77,15 @@ Persijap Jepara vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-
 
 19:00 [g]Danish Superliga[z]	^-
 FC Copenhagen vs Randers FC	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368400/fc-copenhagen-vs-randers-fc.html
+FC Copenhagen vs Randers FC	https://pull.livecdn.cc/live/4510763.m3u8
 Odense BK vs Vejle	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368423/odense-bk-vs-vejle.html
+Odense BK vs Vejle	https://pull.livecdn.cc/live/4510765.m3u8
 Fredericia vs Silkeborg	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368434/fredericia-vs-silkeborg.html
+Fredericia vs Silkeborg	https://pull.livecdn.cc/live/4510764.m3u8
+
+19:00 [g]Sweden Allsvenskan[z]	^-
+IF Brommapojkarna vs Kalmar	https://pull.livecdn.cc/live/4467056.m3u8
+Hammarby vs Malmo	https://pull.livecdn.cc/live/4467060.m3u8
 
 19:15 Malaysian Super League	^-
 Kuching FA vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221269/kuching-city-fc-vs-kuala-lumpur-city-fc.html
@@ -86,10 +93,19 @@ Selangor vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-
 
 19:30 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199145/az-alkmaar-vs-nac-breda.html
+AZ Alkmaar vs NAC Breda	https://pull.livecdn.cc/live/4344701.m3u8
 PSV Eindhoven vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199246/psv-eindhoven-vs-fc-twente-enschede.html
+PSV Eindhoven vs FC Twente Enschede	https://pull.livecdn.cc/live/4344718.m3u8
 SC Heerenveen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199247/sc-heerenveen-vs-afc-ajax.html
+SC Heerenveen vs AFC Ajax	https://pull.livecdn.cc/live/4344752.m3u8
 PEC Zwolle vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199278/pec-zwolle-vs-feyenoord.html
+PEC Zwolle vs Feyenoord	https://pull.livecdn.cc/live/4344742.m3u8
 NEC Nijmegen vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199285/nec-nijmegen-vs-go-ahead-eagles.html
+NEC Nijmegen vs Go Ahead Eagles	https://pull.livecdn.cc/live/4344782.m3u8
+Utrecht vs Fortuna Sittard	https://pull.livecdn.cc/live/4344719.m3u8
+Hercules vs Groningen	https://pull.livecdn.cc/live/4344703.m3u8
+Volendam vs Telstar	https://pull.livecdn.cc/live/4344760.m3u8
+Sparta Rotterdam vs SBV Excelsior	https://pull.livecdn.cc/live/4344754.m3u8
 
 19:30 [g]Austrian Bundesliga[z]	^-
 Austria Wien vs LASK Linz	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370383/austria-vienna-vs-lask-linz.html
@@ -99,6 +115,7 @@ Red Bull Salzburg vs TSV Hartberg	`Fhttps://www.fctv33.net/football/austrian-bun
 20:00 [y]Italian Serie A[z]	^-
 Inter Milan vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194592/inter-milan-vs-hellas-verona.html
 Inter Milan vs Verona	`0https://v4.sportssonline.click/channels/hd/hd7.php
+Inter Milan vs Verona	https://pull.livecdn.cc/live/4339665.m3u8
 
 20:00 [g]Scottish Premiership[z]	^-
 Livingston vs Kilmarnock	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388062/livingston-vs-kilmarnock.html
