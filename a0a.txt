@@ -33,53 +33,11 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 17.05.2026	^-
 
-04:30 [g]Brazilian Serie A
-Atletico Mineiro vs Mirassol	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323221/atltico-mineiro---mg-vs-mirassol---sp.html
-Atletico Mineiro vs Mirassol	`0https://v4.sportssonline.click/channels/bra/br3.php
-Internacional RS vs Vasco da Gama	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323225/internacional---rs-vs-vasco-da-gama-saf---rj.html
+14:30 [g]Korean K League 1[z]	^-
+Jeju United vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336182/jeju-sk-fc-vs-fc-anyang.html
 
-05:00 [g]Brazilian Serie A[z]	^-
-Fluminense RJ vs Sao Paulo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323222/fluminense---rj-vs-so-paulo---sp.html
-Fluminense RJ vs Sao Paulo	`0https://v4.sportssonline.click/channels/bra/br4.php
-
-05:30 [g]Argentine Division 1[z]	^-
-River Plate vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4401398/river-plate-vs-rosario-central.html
-River Plate vs Rosario Central	`0https://v4.sportssonline.click/channels/hd/hd8.php
-
-06:30 [g]US Major League Soccer[z]	^-
-Charlotte FC vs Toronto FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317390/charlotte-fc-vs-toronto-fc.html
-Charlotte FC vs Toronto FC	`0https://v4.sportssonline.click/channels/hd/hd10.php
-Philadelphia vs Colombus	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317408/philadelphia-union-vs-columbus-crew.html
-Philadelphia vs Colombus	`0https://www.marza12.shop/football/2908608-philadelphia-union-vs-columbus-crew.html
-Orlando vs Atlanta	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317410/orlando-city-vs-atlanta-united.html
-Orlando vs Atlanta	`0https://www.marza12.shop/football/2908607-orlando-city-vs-atlanta-united.html
-DC United vs St Louis	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317461/dc-united-vs-st-louis-city-sc.html
-DC United vs St Louis	`0https://www.marza12.shop/football/2908604-dc-united-vs-st-louis-city.html
-NY Red Bulls vs NY City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317753/new-york-red-bulls-vs-new-york-city-fc.html
-NY Red Bulls vs NY City	`0https://www.marza12.shop/football/2908606-new-york-red-bulls-vs-new-york-city-fc.html
-New England vs Minnesota	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317770/new-england-revolution-vs-minnesota-united-fc.html
-New England vs Minnesota	`0https://www.marza12.shop/football/2908605-new-england-revolution-vs-minnesota-united-fc.html
-
-07:00 [g]Brazilian Serie A[z]	^-
-Palmeiras vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324103/palmeiras---sp-vs-cruzeiro---mg.html
-Palmeiras vs Cruzeiro Esporte	`0https://v4.sportssonline.click/channels/bra/br1.php
-
-08:07 [g]Mexico Liga MX[z]	^-
-Chivas Guadalajara vs Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400182/club-deportivo-guadalajara-vs-cruz-azul.html
-Chivas Guadalajara vs Cruz Azul	`0https://v4.sportssonline.click/channels/hd/hd9.php
-
-08:15 [g]US Major League Soccer[z]	^-
-Seattle Sounders vs LA Galaxy	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317563/seattle-sounders-vs-los-angeles-galaxy.html
-Seattle Sounders vs LA Galaxy	`0https://v4.sportssonline.click/channels/hd/hd5.php
-
-08:30 [g]US Major League Soccer[z]	^-
-Real Salt Lake vs Colorado Rapids	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317473/real-salt-lake-vs-colorado-rapids.html
-Real Salt Lake vs Colorado Rapids	`0https://v4.sportssonline.click/channels/hd/hd10.php
-San Diego FC vs FC Cincinnati	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317393/san-diego-fc-vs-fc-cincinnati.html
-
-09:30 [g]US Major League Soccer[z]	^-
-San Jose vs Dallas	`Fhttps://www.fctv33.net/football/ofc-pro-league-match-4402267/bula-fc-vs-vanuatu-united-fc.html
-San Jose vs Dallas	`0https://www.marza12.shop/football/2908614-san-jose-earthquakes-vs-fc-dallas.html
+15:30 Super League	^-
+Bali United vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229615/bali-united-vs-bhayangkara-presisi-indonesia-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
