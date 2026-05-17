@@ -33,44 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 17.05.2026	^-
 
-21:00 [y]English Premier League[z]	^-
-Leeds Utd vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194017/leeds-united-vs-brighton-hove-albion.html
-Leeds Utd vs Brighton Hove Albion	`0https://v4.sportssonline.click/channels/hd/hd1.php
-Leeds Utd vs Brighton Hove Albion	https://pull.livecdn.cc/live/4343234.m3u8
-Leeds Utd vs Brighton Hove Albion	https://live.yultech.online/live/sd-6MuT7JxH43H5TqMbKB/index.m3u8
-Wolves vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194020/wolverhampton-wanderers-vs-fulham.html
-Wolves vs Fulham	`0https://v4.sportssonline.click/channels/hd/hd2.php
-Wolves vs Fulham	https://pull.livecdn.cc/live/4343221.m3u8
-Wolves vs Fulham	https://live.yultech.online/live/sd-6MuT7JxHDYxgvFicpD/index.m3u8
-Brentford vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194052/brentford-vs-crystal-palace.html
-Brentford vs Crystal Palace	`0https://v4.sportssonline.click/channels/hd/hd5.php
-Brentford vs Crystal Palace	https://pull.livecdn.cc/live/4343209.m3u8
-Brentford vs Crystal Palace	https://live.yultech.online/live/sd-6MuT7JxGsr2pLn8541/index.m3u8
-Everton vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194069/everton-vs-sunderland.html
-Everton vs Sunderland AFC	`0https://v4.sportssonline.click/channels/hd/hd11.php
-Everton vs Sunderland AFC	https://pull.livecdn.cc/live/4343212.m3u8
-Everton vs Sunderland AFC	https://live.yultech.online/live/sd-6MuT7JxGiZY67EiYUM/index.m3u8
-
-21:00 [g]Turkish Super League[z]	^-
-Kayserispor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216954/kayserispor-vs-konyaspor.html
-Kayserispor vs Konyaspor	https://pull.livecdn.cc/live/4366193.m3u8
-Kayserispor vs Konyaspor	https://live.yultech.online/live/sd-6MuTcMcFUFX3aMyP1F/index.m3u8
-
-21:00 [g]Brazilian Serie A[z]	^-
-Santos vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324101/santos-fc---sp-vs-coritiba-saf---pr.html
-Santos vs Coritiba PR	`0https://v4.sportssonline.click/channels/bra/br3.php
-Santos vs Coritiba PR	https://pull.livecdn.cc/live/4465751.m3u8
-Santos vs Coritiba PR	https://live.yultech.online/live/sd-6MvZ6LyBjEAropAYYD/index.m3u8
-
-21:00 [g]CAF Champions League[z]	^-
-Mamelodi Sundowns vs Armee Royales	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4395622/mamelodi-sundowns-vs-as-far-rabat.html
-Mamelodi Sundowns vs Armee Royales	`0https://v4.sportssonline.click/channels/hd/hd9.php
-Mamelodi Sundowns vs Armee Royales	https://live.yultech.online/live/sd-6MwdLJpnGrWgr6a4iy/index.m3u8
-
-21:00 [g]Belgian Pro League[z]	^-
-KVSK Lommel vs FCV Dender EH	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4401962/kvsk-lommel-vs-fcv-dender-eh.html
-KVSK Lommel vs FCV Dender EH	https://pull.livecdn.cc/live/4542887.m3u8
-
 21:30 [g]Sweden Allsvenskan[z]	^-
 Vasteras SK FK vs AIK Solna	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332046/vasteras-sk-fk-vs-aik.html
 Vasteras SK FK vs AIK Solna	https://pull.livecdn.cc/live/4469315.m3u8
