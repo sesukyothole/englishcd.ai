@@ -55,23 +55,29 @@ Lugano vs Basel	https://live.yultech.online/live/sd-6MwdagtzpNuMfSqvmB/index.m3u
 23:00 [y]Italian Serie A[z]	^-
 Atalanta vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194815/atalanta-vs-bologna.html
 Atalanta vs Bologna	`0https://v4.sportssonline.click/channels/hd/hd7.php
+Atalanta vs Bologna	https://pull.livecdn.cc/live/4339661.m3u8
 Atalanta vs Bologna	https://live.yultech.online/live/sd-6MuSNj2Y2BZYrMkvx5/index.m3u8
 
 23:00 [g]Danish Superliga[z]	^-
 Aarhus AGF vs Viborgv	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368410/aarhus-agf-vs-viborg.html
+Aarhus AGF vs Viborgv	https://pull.livecdn.cc/live/4510734.m3u8
 Aarhus AGF vs Viborgv	https://live.yultech.online/live/sd-6MwcqRuYoDBiFUJLhs/index.m3u8
 Midtjylland vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368416/midtjylland-vs-brondby-if.html
+Midtjylland vs Brondby IF	https://pull.livecdn.cc/live/4510735.m3u8
 Midtjylland vs Brondby IF	https://live.yultech.online/live/sd-6MwcqRuYoAzENzURYy/index.m3u8
 Sonderjyske vs Nordsjaelland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368431/sonderjyske-vs-nordsjaelland.html
+Sonderjyske vs Nordsjaelland	https://pull.livecdn.cc/live/4510736.m3u8
 Sonderjyske vs Nordsjaelland	https://live.yultech.online/live/sd-6MwcqRuYoHafzRxB1f/index.m3u8
 
 23:30 [y]English Premier League[z]	^-
 Newcastle United vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194015/newcastle-united-vs-west-ham-united.html
 Newcastle United vs West Ham United	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Newcastle United vs West Ham United	https://pull.livecdn.cc/live/4343218.m3u8
 Newcastle United vs West Ham United	https://live.yultech.online/live/sd-6MuT7JxGiBZHQSTNwP/index.m3u8
 
 23:30 [g]Belgian Pro League[z]	^-
 Club Brugge vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383155/club-brugge-vs-union-saint-gilloise.html
+Club Brugge vs Saint Gilloise	https://pull.livecdn.cc/live/4521208.m3u8
 Club Brugge vs Saint Gilloise	https://live.yultech.online/live/sd-6MwdaX9W3jyPpgqJcd/index.m3u8
 
 18.05.2026	^-
