@@ -33,12 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.05.2026	^-
 
-02:15 [y]Spanish La Liga[z]	^-
-FC Barcelona vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209752/fc-barcelona-vs-real-betis.html
-FC Barcelona vs Real Betis	`0https://v4.sportssonline.click/channels/hd/hd2.php
-FC Barcelona vs Real Betis	https://pull.livecdn.cc/live/4358281.m3u8
-FC Barcelona vs Real Betis	https://live.yultech.online/live/sd-6MuSsYcKfaLuaNUN3w/index.m3u8
-
 03:00 [g]Argentine Division 1[z]	^-
 Argentinos Juniors vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4401399/argentinos-juniors-vs-belgrano.html
 Argentinos Juniors vs Belgrano	https://pull.livecdn.cc/live/4542573.m3u8
