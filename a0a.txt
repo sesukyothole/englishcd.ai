@@ -44,7 +44,9 @@ Livingston vs Kilmarnock	`Fhttps://www.fctv33.net/football/scottish-premiership-
 Livingston vs Kilmarnock	`0https://v4.sportssonline.click/channels/hd/hd10.php
 Livingston vs Kilmarnock	https://live.yultech.online/live/sd-6MwdayHA8BqHwm1dMo/index.m3u8
 Dundee vs Aberdeen	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388065/dundee-vs-aberdeen.html
+Dundee vs Aberdeen	https://live.yultech.online/live/sd-6MwdayHA8E2mpEqYWh/index.m3u8
 Saint Mirren vs Dundee United	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388067/saint-mirren-vs-dundee-united.html
+Saint Mirren vs Dundee United	https://live.yultech.online/live/sd-6MwdayHA7hG3dXGiN9/index.m3u8
 
 20:00 [g]Ireland FAI Cup[z]	^-
 Baldoyle United vs Leicester Celtic	`Fhttps://www.fctv33.net/football/ireland-fai-cup-match-4400788/baldoyle-united-vs-leicester-celtic.html
