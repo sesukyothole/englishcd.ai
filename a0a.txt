@@ -33,21 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 17.05.2026	^-
 
-18:30 [y]English Premier League[z]	^-
-Manchester Utd vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194053/manchester-united-vs-nottingham-forest.html
-Manchester Utd vs Nottingham Forest	`0https://v4.sportssonline.click/channels/hd/hd1.php
-Manchester Utd vs Nottingham Forest	https://pull.livecdn.cc/live/4343216.m3u8
-Manchester Utd vs Nottingham Forest	https://live.yultech.online/live/sd-6MuT7JxGiiL1bA2D5w/index.m3u8
-
-18:30 [g]Singapore Premier League[z]	^-
-Tampines Rovers vs Lion City Sailors	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258781/tampines-rovers-fc-vs-lion-city-sailors.html
-Tampines Rovers vs Lion City Sailors	https://live.yultech.online/live/sd-6MvXbzYhpiANYvqAEZ/index.m3u8
-
-18:30 [g]Belgian Pro League[z]	^-
-Anderlecht vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383176/anderlecht-vs-kv-mechelen.html
-Anderlecht vs Mechelen	https://live.yultech.online/live/sd-6MwdaX8kjTY7avX4hj/index.m3u8
-Anderlecht vs Mechelen	https://pull.livecdn.cc/live/4521173.m3u8
-
 19:00 Super League	^-
 PSIM Yogyakarta vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229483/psim-yogyakarta-vs-madura-united.html
 PSIM Yogyakarta vs Madura United	`0https://www.marza12.shop/football/2826442-psim-yogyakarta-vs-madura-united.html
@@ -123,24 +108,30 @@ Baldoyle United vs Leicester Celtic	`Fhttps://www.fctv33.net/football/ireland-fa
 21:00 [y]English Premier League[z]	^-
 Leeds Utd vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194017/leeds-united-vs-brighton-hove-albion.html
 Leeds Utd vs Brighton Hove Albion	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Leeds Utd vs Brighton Hove Albion	https://pull.livecdn.cc/live/4343234.m3u8
 Leeds Utd vs Brighton Hove Albion	https://live.yultech.online/live/sd-6MuT7JxH43H5TqMbKB/index.m3u8
 Wolves vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194020/wolverhampton-wanderers-vs-fulham.html
 Wolves vs Fulham	`0https://v4.sportssonline.click/channels/hd/hd2.php
+Wolves vs Fulham	https://pull.livecdn.cc/live/4343221.m3u8
 Wolves vs Fulham	https://live.yultech.online/live/sd-6MuT7JxHDYxgvFicpD/index.m3u8
 Brentford vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194052/brentford-vs-crystal-palace.html
 Brentford vs Crystal Palace	`0https://v4.sportssonline.click/channels/hd/hd5.php
+Brentford vs Crystal Palace	https://pull.livecdn.cc/live/4343209.m3u8
 Brentford vs Crystal Palace	https://live.yultech.online/live/sd-6MuT7JxGsr2pLn8541/index.m3u8
 Everton vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194069/everton-vs-sunderland.html
 Everton vs Sunderland AFC	`0https://v4.sportssonline.click/channels/hd/hd11.php
+Everton vs Sunderland AFC	https://pull.livecdn.cc/live/4343212.m3u8
 Everton vs Sunderland AFC	https://live.yultech.online/live/sd-6MuT7JxGiZY67EiYUM/index.m3u8
 
 21:00 [g]Turkish Super League[z]	^-
 Kayserispor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216954/kayserispor-vs-konyaspor.html
 Kayserispor vs Konyaspor	https://live.yultech.online/live/sd-6MuTcMcFUFX3aMyP1F/index.m3u8
+Kayserispor vs Konyaspor	https://pull.livecdn.cc/live/4366193.m3u8
 
 21:00 [g]Brazilian Serie A[z]	^-
 Santos vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324101/santos-fc---sp-vs-coritiba-saf---pr.html
 Santos vs Coritiba PR	`0https://v4.sportssonline.click/channels/bra/br3.php
+Santos vs Coritiba PR	https://pull.livecdn.cc/live/4465751.m3u8
 Santos vs Coritiba PR	https://live.yultech.online/live/sd-6MvZ6LyBjEAropAYYD/index.m3u8
 
 21:00 [g]CAF Champions League[z]	^-
@@ -150,19 +141,25 @@ Mamelodi Sundowns vs Armee Royales	https://live.yultech.online/live/sd-6MwdLJpnG
 
 21:00 [g]Belgian Pro League[z]	^-
 KVSK Lommel vs FCV Dender EH	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4401962/kvsk-lommel-vs-fcv-dender-eh.html
+KVSK Lommel vs FCV Dender EH	https://pull.livecdn.cc/live/4542887.m3u8
 
 21:30 [g]Sweden Allsvenskan[z]	^-
 Vasteras SK FK vs AIK Solna	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332046/vasteras-sk-fk-vs-aik.html
+Vasteras SK FK vs AIK Solna	https://pull.livecdn.cc/live/4469315.m3u8
 Vasteras SK FK vs AIK Solna	https://live.yultech.online/live/sd-6MvZ6EN31B7iHg8nPo/index.m3u8
 Mjallby AIF vs Hacken	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332047/mjallby-aif-vs-hacken.html
+Mjallby AIF vs Hacken	https://pull.livecdn.cc/live/4467061.m3u8
 Mjallby AIF vs Hacken	https://live.yultech.online/live/sd-6MvZ6EN316ikYiUx61/index.m3u8
 
 21:30 [g]Switzerland Super League[z]	^-
 Young Boys vs FC Sion	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384290/young-boys-vs-fc-sion.html
+Young Boys vs FC Sion	https://pull.livecdn.cc/live/4526052.m3u8
 Young Boys vs FC Sion	https://live.yultech.online/live/sd-6MwdagtzpTJKQQVm4y/index.m3u8
 St. Gallen vs Thun	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384291/st-gallen-vs-thun.html
+St. Gallen vs Thun	https://pull.livecdn.cc/live/4526051.m3u8
 St. Gallen vs Thun	https://live.yultech.online/live/sd-6MwdagtzpLhsny21cH/index.m3u8
 Lugano vs Basel	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384294/lugano-vs-fc-basel-1893.html
+Lugano vs Basel	https://pull.livecdn.cc/live/4526050.m3u8
 Lugano vs Basel	https://live.yultech.online/live/sd-6MwdagtzpNuMfSqvmB/index.m3u8
 
 23:00 [y]Italian Serie A[z]	^-
