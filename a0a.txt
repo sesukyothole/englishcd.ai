@@ -58,13 +58,17 @@ Gangwon FC vs Ulsan Hyundai FC	https://live.yultech.online/live/sd-6MvVcpWuxYDBM
 18:30 [y]English Premier League[z]	^-
 Manchester Utd vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194053/manchester-united-vs-nottingham-forest.html
 Manchester Utd vs Nottingham Forest	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Manchester Utd vs Nottingham Forest	https://pull.livecdn.cc/live/4343216.m3u8
 Manchester Utd vs Nottingham Forest	https://live.yultech.online/live/sd-6MuT7JxGiiL1bA2D5w/index.m3u8
 
 18:30 [g]Singapore Premier League[z]	^-
 Tampines Rovers vs Lion City Sailors	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258781/tampines-rovers-fc-vs-lion-city-sailors.html
+Tampines Rovers vs Lion City Sailors	https://live.yultech.online/live/sd-6MvXbzYhpiANYvqAEZ/index.m3u8
 
 18:30 [g]Belgian Pro League[z]	^-
 Anderlecht vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383176/anderlecht-vs-kv-mechelen.html
+Anderlecht vs Mechelen	https://live.yultech.online/live/sd-6MwdaX8kjTY7avX4hj/index.m3u8
+Anderlecht vs Mechelen	https://pull.livecdn.cc/live/4521173.m3u8
 
 19:00 Super League	^-
 PSIM Yogyakarta vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229483/psim-yogyakarta-vs-madura-united.html
