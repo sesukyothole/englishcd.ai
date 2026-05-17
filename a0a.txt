@@ -75,32 +75,45 @@ Selangor vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-
 19:30 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199145/az-alkmaar-vs-nac-breda.html
 AZ Alkmaar vs NAC Breda	https://pull.livecdn.cc/live/4344701.m3u8
+AZ Alkmaar vs NAC Breda	https://live.yultech.online/live/sd-6MuT7hpwCosD3N2vcm/index.m3u8
 PSV Eindhoven vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199246/psv-eindhoven-vs-fc-twente-enschede.html
 PSV Eindhoven vs FC Twente Enschede	https://pull.livecdn.cc/live/4344718.m3u8
+PSV Eindhoven vs FC Twente Enschede	https://live.yultech.online/live/sd-6MuT7hpw2qoq9BkuGy/index.m3u8
 SC Heerenveen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199247/sc-heerenveen-vs-afc-ajax.html
 SC Heerenveen vs AFC Ajax	https://pull.livecdn.cc/live/4344752.m3u8
+SC Heerenveen vs AFC Ajax	https://live.yultech.online/live/sd-6MuT7hpvNR6aci3djs/index.m3u8
 PEC Zwolle vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199278/pec-zwolle-vs-feyenoord.html
 PEC Zwolle vs Feyenoord	https://pull.livecdn.cc/live/4344742.m3u8
+PEC Zwolle vs Feyenoord	https://live.yultech.online/live/sd-6MuT7hpvY7mbRXYF1P/index.m3u8
 NEC Nijmegen vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199285/nec-nijmegen-vs-go-ahead-eagles.html
 NEC Nijmegen vs Go Ahead Eagles	https://pull.livecdn.cc/live/4344782.m3u8
 Utrecht vs Fortuna Sittard	https://pull.livecdn.cc/live/4344719.m3u8
-Hercules vs Groningen	https://pull.livecdn.cc/live/4344703.m3u8
+Utrecht vs Fortuna Sittard	https://live.yultech.online/live/sd-6MuT7hpw2ocMGhvz85/index.m3u8
+Heracles Almelo vs Groningen	https://pull.livecdn.cc/live/4344703.m3u8
+Heracles Almelo vs Groningen	https://live.yultech.online/live/sd-6MuT7hpwCtGAnKgkvZ/index.m3u8
 Volendam vs Telstar	https://pull.livecdn.cc/live/4344760.m3u8
+Volendam vs Telstar	https://live.yultech.online/live/sd-6MuT7hpvsSifJCsdEd/index.m3u8
 Sparta Rotterdam vs SBV Excelsior	https://pull.livecdn.cc/live/4344754.m3u8
+Sparta Rotterdam vs SBV Excelsior	https://live.yultech.online/live/sd-6MuT7hpvNVVYMfhU3f/index.m3u8
 
 19:30 [g]Austrian Bundesliga[z]	^-
 Austria Wien vs LASK Linz	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370383/austria-vienna-vs-lask-linz.html
+Austria Wien vs LASK Linz	https://live.yultech.online/live/sd-6MwcqKN4et73etngJR/index.m3u8
 Sturm Graz vs Rapid Wien	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370392/sturm-graz-vs-rapid-wien.html
+Sturm Graz vs Rapid Wien	https://live.yultech.online/live/sd-6MwcqKN5AHhw3BsqL9/index.m3u8
 Red Bull Salzburg vs TSV Hartberg	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370395/red-bull-salzburg-vs-tsv-hartberg.html
+Red Bull Salzburg vs TSV Hartberg	https://live.yultech.online/live/sd-6MwcqKN5AKuQufhkV3/index.m3u8
 
 20:00 [y]Italian Serie A[z]	^-
 Inter Milan vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194592/inter-milan-vs-hellas-verona.html
 Inter Milan vs Verona	`0https://v4.sportssonline.click/channels/hd/hd7.php
 Inter Milan vs Verona	https://pull.livecdn.cc/live/4339665.m3u8
+Inter Milan vs Verona	https://live.yultech.online/live/sd-6MuSNj2Y2LMULH4bZf/index.m3u8
 
 20:00 [g]Scottish Premiership[z]	^-
 Livingston vs Kilmarnock	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388062/livingston-vs-kilmarnock.html
 Livingston vs Kilmarnock	`0https://v4.sportssonline.click/channels/hd/hd10.php
+Livingston vs Kilmarnock	https://live.yultech.online/live/sd-6MwdayHA8BqHwm1dMo/index.m3u8
 Dundee vs Aberdeen	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388065/dundee-vs-aberdeen.html
 Saint Mirren vs Dundee United	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388067/saint-mirren-vs-dundee-united.html
 
@@ -110,48 +123,65 @@ Baldoyle United vs Leicester Celtic	`Fhttps://www.fctv33.net/football/ireland-fa
 21:00 [y]English Premier League[z]	^-
 Leeds Utd vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194017/leeds-united-vs-brighton-hove-albion.html
 Leeds Utd vs Brighton Hove Albion	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Leeds Utd vs Brighton Hove Albion	https://live.yultech.online/live/sd-6MuT7JxH43H5TqMbKB/index.m3u8
 Wolves vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194020/wolverhampton-wanderers-vs-fulham.html
 Wolves vs Fulham	`0https://v4.sportssonline.click/channels/hd/hd2.php
+Wolves vs Fulham	https://live.yultech.online/live/sd-6MuT7JxHDYxgvFicpD/index.m3u8
 Brentford vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194052/brentford-vs-crystal-palace.html
 Brentford vs Crystal Palace	`0https://v4.sportssonline.click/channels/hd/hd5.php
+Brentford vs Crystal Palace	https://live.yultech.online/live/sd-6MuT7JxGsr2pLn8541/index.m3u8
 Everton vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194069/everton-vs-sunderland.html
 Everton vs Sunderland AFC	`0https://v4.sportssonline.click/channels/hd/hd11.php
+Everton vs Sunderland AFC	https://live.yultech.online/live/sd-6MuT7JxGiZY67EiYUM/index.m3u8
 
 21:00 [g]Turkish Super League[z]	^-
 Kayserispor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216954/kayserispor-vs-konyaspor.html
+Kayserispor vs Konyaspor	https://live.yultech.online/live/sd-6MuTcMcFUFX3aMyP1F/index.m3u8
 
 21:00 [g]Brazilian Serie A[z]	^-
 Santos vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324101/santos-fc---sp-vs-coritiba-saf---pr.html
 Santos vs Coritiba PR	`0https://v4.sportssonline.click/channels/bra/br3.php
+Santos vs Coritiba PR	https://live.yultech.online/live/sd-6MvZ6LyBjEAropAYYD/index.m3u8
 
 21:00 [g]CAF Champions League[z]	^-
 Mamelodi Sundowns vs Armee Royales	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4395622/mamelodi-sundowns-vs-as-far-rabat.html
 Mamelodi Sundowns vs Armee Royales	`0https://v4.sportssonline.click/channels/hd/hd9.php
+Mamelodi Sundowns vs Armee Royales	https://live.yultech.online/live/sd-6MwdLJpnGrWgr6a4iy/index.m3u8
 
 21:00 [g]Belgian Pro League[z]	^-
 KVSK Lommel vs FCV Dender EH	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4401962/kvsk-lommel-vs-fcv-dender-eh.html
 
 21:30 [g]Sweden Allsvenskan[z]	^-
 Vasteras SK FK vs AIK Solna	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332046/vasteras-sk-fk-vs-aik.html
+Vasteras SK FK vs AIK Solna	https://live.yultech.online/live/sd-6MvZ6EN31B7iHg8nPo/index.m3u8
 Mjallby AIF vs Hacken	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332047/mjallby-aif-vs-hacken.html
+Mjallby AIF vs Hacken	https://live.yultech.online/live/sd-6MvZ6EN316ikYiUx61/index.m3u8
 
 21:30 [g]Switzerland Super League[z]	^-
 Young Boys vs FC Sion	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384290/young-boys-vs-fc-sion.html
+Young Boys vs FC Sion	https://live.yultech.online/live/sd-6MwdagtzpTJKQQVm4y/index.m3u8
 St. Gallen vs Thun	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384291/st-gallen-vs-thun.html
+St. Gallen vs Thun	https://live.yultech.online/live/sd-6MwdagtzpLhsny21cH/index.m3u8
 Lugano vs Basel	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384294/lugano-vs-fc-basel-1893.html
+Lugano vs Basel	https://live.yultech.online/live/sd-6MwdagtzpNuMfSqvmB/index.m3u8
 
 23:00 [y]Italian Serie A[z]	^-
 Atalanta vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194815/atalanta-vs-bologna.html
 Atalanta vs Bologna	`0https://v4.sportssonline.click/channels/hd/hd7.php
+Atalanta vs Bologna	https://live.yultech.online/live/sd-6MuSNj2Y2BZYrMkvx5/index.m3u8
 
 23:00 [g]Danish Superliga[z]	^-
 Aarhus AGF vs Viborgv	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368410/aarhus-agf-vs-viborg.html
+Aarhus AGF vs Viborgv	https://live.yultech.online/live/sd-6MwcqRuYoDBiFUJLhs/index.m3u8
 Midtjylland vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368416/midtjylland-vs-brondby-if.html
+Midtjylland vs Brondby IF	https://live.yultech.online/live/sd-6MwcqRuYoAzENzURYy/index.m3u8
 Sonderjyske vs Nordsjaelland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368431/sonderjyske-vs-nordsjaelland.html
+Sonderjyske vs Nordsjaelland	https://live.yultech.online/live/sd-6MwcqRuYoHafzRxB1f/index.m3u8
 
 23:30 [y]English Premier League[z]	^-
 Newcastle United vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194015/newcastle-united-vs-west-ham-united.html
 Newcastle United vs West Ham United	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Newcastle United vs West Ham United	https://live.yultech.online/live/sd-6MuT7JxGiBZHQSTNwP/index.m3u8
 
 23:30 [g]Belgian Pro League[z]	^-
 Club Brugge vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383155/club-brugge-vs-union-saint-gilloise.html
