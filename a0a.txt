@@ -84,25 +84,34 @@ Club Brugge vs Saint Gilloise	https://live.yultech.online/live/sd-6MwdaX9W3jyPpg
 
 00:00 [y]Spanish La Liga[z]	^-
 Osasuna vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209586/ca-osasuna-vs-rcd-espanyol-de-barcelona.html
+Osasuna vs RCD Espanyol	https://pull.livecdn.cc/live/4358287.m3u8
 Osasuna vs RCD Espanyol	https://live.yultech.online/live/sd-6MuSsYcKfoXnoFRryK/index.m3u8
 Sevilla vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209596/sevilla-fc-vs-real-madrid.html
 Sevilla vs Real Madrid	`0https://v4.sportssonline.click/channels/hd/hd2.php
+Sevilla vs Real Madrid	https://pull.livecdn.cc/live/4358300.m3u8
 Sevilla vs Real Madrid	https://live.yultech.online/live/sd-6MuSsYd5pk84Z2WoqP/index.m3u8
 Real Oviedo vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209597/real-oviedo-vs-deportivo-alavs.html
+Real Oviedo vs Deportivo Alavés	https://pull.livecdn.cc/live/4358292.m3u8
 Real Oviedo vs Deportivo Alavés	https://live.yultech.online/live/sd-6MuSsYcKVzGLNzTWF7/index.m3u8
 Elche vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209662/elche-vs-getafe.html
+Elche vs Getafe	https://pull.livecdn.cc/live/4358282.m3u8
 Elche vs Getafe	https://live.yultech.online/live/sd-6MuSsYcKfgwMBox7Wd/index.m3u8
 Real Sociedad vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209749/real-sociedad-vs-valencia-cf.html
+Real Sociedad vs Valencia	https://pull.livecdn.cc/live/4358297.m3u8
 Real Sociedad vs Valencia	https://live.yultech.online/live/sd-6MuSsYcKW6rmzRwFho/index.m3u8
 Levante vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209755/levante-vs-rcd-mallorca.html
+Levante vs Mallorca	https://pull.livecdn.cc/live/4358284.m3u8
 Levante vs Mallorca	https://live.yultech.online/live/sd-6MuSsYcKfmLJvmbwpR/index.m3u8
 Athletic Bilbao vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209792/athletic-club-vs-rc-celta.html
 Athletic Bilbao vs Real Celta Vigo	`0https://v4.sportssonline.click/channels/bra/br6.php
+Athletic Bilbao vs Real Celta Vigo	https://pull.livecdn.cc/live/4358278.m3u8
 Athletic Bilbao vs Real Celta Vigo	https://live.yultech.online/live/sd-6MuSsYcLVpKcX79zKF/index.m3u8
 Rayo Vallecano vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209817/rayo-vallecano-vs-villarreal-cf.html
+Rayo Vallecano vs Villarreal	https://pull.livecdn.cc/live/4358295.m3u8
 Rayo Vallecano vs Villarreal	https://live.yultech.online/live/sd-6MuSsYcKW2TpFUHRQ1/index.m3u8
 Atletico Madrid vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209836/atletico-madrid-vs-girona-fc.html
 Atletico Madrid vs Girona	`0https://v4.sportssonline.click/channels/hd/hd11.php
+Atletico Madrid vs Girona	https://pull.livecdn.cc/live/4358280.m3u8
 Atletico Madrid vs Girona	https://live.yultech.online/live/sd-6MuSsYcKfcYPSrJHCq/index.m3u8
 
 00:00 [g]Canadian Premier League[z]	^-
@@ -110,17 +119,22 @@ Atletico Ottawa vs HFX Wanderers	https://live.yultech.online/live/sd-6MvVNKoK4Xf
 
 00:00 [g]Turkish Super League[z]	^-
 Antalyaspor vs Kocaelispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216955/antalyaspor-vs-kocaelispor.html
+Antalyaspor vs Kocaelispor	https://pull.livecdn.cc/live/4366142.m3u8
 Antalyaspor vs Kocaelispor	https://live.yultech.online/live/sd-6MuTcMcGJo5bUwGLVj/index.m3u8
 Kasimpasa vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216960/kasimpasa-vs-galatasaray.html
 Kasimpasa vs Galatasaray	`0https://v4.sportssonline.click/channels/hd/hd9.php
+Kasimpasa vs Galatasaray	https://pull.livecdn.cc/live/4366180.m3u8
 Kasimpasa vs Galatasaray	https://live.yultech.online/live/sd-6MuTcMcFduzaWhe57s/index.m3u8
 Fenerbahce vs Eyupspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216961/fenerbahce-vs-eyupspor.html
+Fenerbahce vs Eyupspor	https://pull.livecdn.cc/live/4366161.m3u8
 Fenerbahce vs Eyupspor	https://live.yultech.online/live/sd-6MuTcMcGe5qBV8moa5/index.m3u8
 Trabzonspor vs Genclerbirligi	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216969/trabzonspor-vs-genclerbirligi.html
+Trabzonspor vs Genclerbirligi	https://pull.livecdn.cc/live/4366138.m3u8
 Trabzonspor vs Genclerbirligi	https://live.yultech.online/live/sd-6MuTcMcH8vTrpEUDJM/index.m3u8
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Shabab Riyadh vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256122/al-shabab-fc-vs-al-ittihad-club.html
+Al Shabab Riyadh vs Al Ittihad Club	https://pull.livecdn.cc/live/4404646.m3u8
 Al Shabab Riyadh vs Al Ittihad Club	https://live.yultech.online/live/sd-6MvXc76AHoL1rSTF3T/index.m3u8
 
 01:45 [y]Italian Serie A[z]	^-
