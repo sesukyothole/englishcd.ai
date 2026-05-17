@@ -33,14 +33,170 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 17.05.2026	^-
 
-14:30 [g]Korean K League 1[z]	^-
-Jeju United vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336182/jeju-sk-fc-vs-fc-anyang.html
-Jeju United vs FC Anyang	https://pull.livecdn.cc/live/4480355.m3u8
-Jeonbuk vs Gimcheon Sangmu	https://pull.livecdn.cc/live/4480415.m3u8
+17:00 [y]Italian Serie A[z]	^-
+AS Roma vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194597/as-roma-vs-lazio.html
+Como vs Parma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194599/como-vs-parma.html
+Pisa vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194649/pisa-vs-napoli.html
+Juventus vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194729/juventus-vs-fiorentina.html
+Genoa vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194837/genoa-vs-ac-milan.html
 
-15:30 Super League	^-
-Bali United vs Bhayangkara	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229615/bali-united-vs-bhayangkara-presisi-indonesia-fc.html
-Bali United vs Bhayangkara	https://live.yultech.online/live/sd-6MuTNFkbQj1ey4RjYh/index.m3u8
+17:00 [g]Japanese J1 League[z]	^-
+Kawasaki Frontale vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4331734/kawasaki-frontale-vs-machida-zelvia.html
+
+17:00 [g]Korean K League 1[z]	^-
+Bucheon FC 1995 vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336049/bucheon-fc-1995-vs-pohang-steelers.html
+Gangwon FC vs Ulsan Hyundai FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4336128/gangwon-football-club-vs-ulsan-hd-fc.html
+
+18:30 [y]English Premier League[z]	^-
+Manchester Utd vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194053/manchester-united-vs-nottingham-forest.html
+
+18:30 [g]Singapore Premier League[z]	^-
+Tampines Rovers vs Lion City Sailors	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258781/tampines-rovers-fc-vs-lion-city-sailors.html
+
+18:30 [g]Belgian Pro League[z]	^-
+Anderlecht vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383176/anderlecht-vs-kv-mechelen.html
+
+19:00 Super League	^-
+PSIM Yogyakarta vs Madura United	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229483/psim-yogyakarta-vs-madura-united.html
+PSM Makassar vs Persib Bandung	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229485/persatuan-sepakbola-makassar-vs-persib-bandung.html
+Persijap Jepara vs Borneo FC	`Fhttps://www.fctv33.net/football/indonesian-super-league-match-4229602/persatuan-sepakbola-indonesia-jepara-vs-borneo-fc.html
+
+19:00 [g]Danish Superliga[z]	^-
+FC Copenhagen vs Randers FC	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368400/fc-copenhagen-vs-randers-fc.html
+Odense BK vs Vejle	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368423/odense-bk-vs-vejle.html
+Fredericia vs Silkeborg	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368434/fredericia-vs-silkeborg.html
+
+19:15 Malaysian Super League	^-
+Kuching FA vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221269/kuching-city-fc-vs-kuala-lumpur-city-fc.html
+Selangor vs PDRM	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221283/selangor-fc-vs-pdrm-fc.html
+
+19:30 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199145/az-alkmaar-vs-nac-breda.html
+PSV Eindhoven vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199246/psv-eindhoven-vs-fc-twente-enschede.html
+SC Heerenveen vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199247/sc-heerenveen-vs-afc-ajax.html
+PEC Zwolle vs Feyenoord	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199278/pec-zwolle-vs-feyenoord.html
+NEC Nijmegen vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199285/nec-nijmegen-vs-go-ahead-eagles.html
+
+19:30 [g]Austrian Bundesliga[z]	^-
+Austria Wien vs LASK Linz	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370383/austria-vienna-vs-lask-linz.html
+Sturm Graz vs Rapid Wien	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370392/sturm-graz-vs-rapid-wien.html
+Red Bull Salzburg vs TSV Hartberg	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4370395/red-bull-salzburg-vs-tsv-hartberg.html
+
+20:00 [y]Italian Serie A[z]	^-
+Inter Milan vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194592/inter-milan-vs-hellas-verona.html
+
+20:00 [g]Scottish Premiership[z]	^-
+Livingston vs Kilmarnock	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388062/livingston-vs-kilmarnock.html
+Dundee vs Aberdeen	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388065/dundee-vs-aberdeen.html
+Saint Mirren vs Dundee United	`Fhttps://www.fctv33.net/football/scottish-premiership-match-4388067/saint-mirren-vs-dundee-united.html
+
+20:00 [g]Ireland FAI Cup[z]	^-
+Baldoyle United vs Leicester Celtic	`Fhttps://www.fctv33.net/football/ireland-fai-cup-match-4400788/baldoyle-united-vs-leicester-celtic.html
+
+21:00 [y]English Premier League[z]	^-
+Leeds Utd vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194017/leeds-united-vs-brighton-hove-albion.html
+Wolves vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194020/wolverhampton-wanderers-vs-fulham.html
+Brentford vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194052/brentford-vs-crystal-palace.html
+Everton vs Sunderland AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194069/everton-vs-sunderland.html
+
+21:00 [g]Turkish Super League[z]	^-
+Kayserispor vs Konyaspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216954/kayserispor-vs-konyaspor.html
+
+21:00 [g]Brazilian Serie A[z]	^-
+Santos vs Coritiba PR	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324101/santos-fc---sp-vs-coritiba-saf---pr.html
+
+21:00 [g]CAF Champions League[z]	^-
+Mamelodi Sundowns vs Armee Royales	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4395622/mamelodi-sundowns-vs-as-far-rabat.html
+
+21:00 [g]Belgian Pro League[z]	^-
+KVSK Lommel vs FCV Dender EH	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4401962/kvsk-lommel-vs-fcv-dender-eh.html
+
+21:30 [g]Sweden Allsvenskan[z]	^-
+Vasteras SK FK vs AIK Solna	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332046/vasteras-sk-fk-vs-aik.html
+Mjallby AIF vs Hacken	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332047/mjallby-aif-vs-hacken.html
+
+21:30 [g]Switzerland Super League[z]	^-
+Young Boys vs FC Sion	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384290/young-boys-vs-fc-sion.html
+St. Gallen vs Thun	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384291/st-gallen-vs-thun.html
+Lugano vs Basel	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4384294/lugano-vs-fc-basel-1893.html
+
+23:00 [y]Italian Serie A[z]	^-
+Atalanta vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194815/atalanta-vs-bologna.html
+
+23:00 [g]Danish Superliga[z]	^-
+Aarhus AGF vs Viborgv	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368410/aarhus-agf-vs-viborg.html
+Midtjylland vs Brondby IF	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368416/midtjylland-vs-brondby-if.html
+Sonderjyske vs Nordsjaelland	`Fhttps://www.fctv33.net/football/danish-superliga-match-4368431/sonderjyske-vs-nordsjaelland.html
+
+23:30 [y]English Premier League[z]	^-
+Newcastle United vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194015/newcastle-united-vs-west-ham-united.html
+
+23:30 [g]Belgian Pro League[z]	^-
+Club Brugge vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4383155/club-brugge-vs-union-saint-gilloise.html
+
+18.05.2026	^-
+
+00:00 [y]Spanish La Liga
+Osasuna vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209586/ca-osasuna-vs-rcd-espanyol-de-barcelona.html
+Sevilla vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209596/sevilla-fc-vs-real-madrid.html
+Real Oviedo vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209597/real-oviedo-vs-deportivo-alavs.html
+Elche vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209662/elche-vs-getafe.html
+Real Sociedad vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209749/real-sociedad-vs-valencia-cf.html
+Levante vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209755/levante-vs-rcd-mallorca.html
+Athletic Bilbao vs Real Celta Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209792/athletic-club-vs-rc-celta.html
+Rayo Vallecano vs Villarreal	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209817/rayo-vallecano-vs-villarreal-cf.html
+Atletico Madrid vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209836/atletico-madrid-vs-girona-fc.html
+
+00:00 [g]Turkish Super League[z]	^-
+Antalyaspor vs Kocaelispor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216955/antalyaspor-vs-kocaelispor.html
+Kasimpasa vs Galatasaray	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216960/kasimpasa-vs-galatasaray.html
+Fenerbahce vs Eyupspor	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216961/fenerbahce-vs-eyupspor.html
+Trabzonspor vs Genclerbirligi	`Fhttps://www.fctv33.net/football/turkish-super-league-match-4216969/trabzonspor-vs-genclerbirligi.html
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Shabab Riyadh vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256122/al-shabab-fc-vs-al-ittihad-club.html
+
+01:45 [y]Italian Serie A[z]	^-
+Cagliari vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194601/cagliari-vs-torino.html
+Udinese vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194602/udinese-vs-cremonese.html
+Sassuolo vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194612/sassuolo-vs-lecce.html
+
+02:00 [y]French Ligue 1[z]	^-
+Strasbourg vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200152/rc-strasbourg-alsace-vs-as-monaco.html
+Stade Brestois vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200192/stade-brestois-29-vs-angers-sco.html
+Paris FC vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200197/paris-fc-vs-paris-saint-germain.html
+Lille vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200199/losc-lille-vs-aj-auxerre.html
+Lorient vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200200/lorient-vs-havre-athletic-club.html
+Nantes vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200217/fc-nantes-vs-toulouse-fc.html
+Nice vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200265/ogc-nice-vs-metz.html
+Marseille vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200275/marseille-vs-stade-rennais-fc.html
+Lyon vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200276/lyon-vs-rc-lens.html
+
+02:00 [g]Brazilian Serie A[z]	^-
+Botafogo RJ vs Corinthians Paul	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323219/botafogo---rj-vs-corinthians---sp.html
+Bahia vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323256/bahia---ba-vs-grmio---rs.html
+
+02:15 [y]Spanish La Liga[z]	^-
+FC Barcelona vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209752/fc-barcelona-vs-real-betis.html
+
+03:00 [g]Argentine Division 1[z]	^-
+Argentinos Juniors vs Belgrano	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4401399/argentinos-juniors-vs-belgrano.html
+
+04:30 [g]Brazilian Serie A[z]	^-
+Bragantino vs Vitoria BA	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324106/red-bull-bragantino-vs-vitria---ba.html
+Chapecoense SC vs Remo Belem	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4324119/chapecoense---sc-vs-remo---pa.html
+
+05:00 [g]US Major League Soccer[z]	^-
+Inter Miami CF vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317388/inter-miami-cf-vs-portland-timbers.html
+
+05:30 [g]Brazilian Serie A[z]	^-
+Athletico Paranaense vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323226/athletico-paranaense---pr-vs-flamengo---rj.html
+
+07:00 [g]US Major League Soccer[z]	^-
+Nashville vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4317363/nashville-vs-los-angeles-fc.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Pumas UNAM vs Pachuca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4400943/pumas-unam-vs-pachuca.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
