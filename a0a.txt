@@ -33,67 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.05.2026	^-
 
-01:00 [g]Saudi Professional League[z]	^-
-Al Shabab Riyadh vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256122/al-shabab-fc-vs-al-ittihad-club.html
-Al Shabab Riyadh vs Al Ittihad Club	https://pull.livecdn.cc/live/4404646.m3u8
-Al Shabab Riyadh vs Al Ittihad Club	https://live.yultech.online/live/sd-6MvXc76AHoL1rSTF3T/index.m3u8
-
-01:45 [y]Italian Serie A[z]	^-
-Cagliari vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194601/cagliari-vs-torino.html
-Cagliari vs Torino	`0https://v4.sportssonline.click/channels/hd/hd7.php
-Cagliari vs Torino	https://pull.livecdn.cc/live/4339662.m3u8
-Cagliari vs Torino	https://live.yultech.online/live/sd-6MuSNj2Y2J9zToEgQm/index.m3u8
-Udinese vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194602/udinese-vs-cremonese.html
-Udinese vs Cremonese	https://pull.livecdn.cc/live/4339685.m3u8
-Udinese vs Cremonese	https://live.yultech.online/live/sd-6MuSNj2X28KPVN6wxZ/index.m3u8
-Sassuolo vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194612/sassuolo-vs-lecce.html
-Sassuolo vs Lecce	`0https://v4.sportssonline.click/channels/hd/hd8.php
-Sassuolo vs Lecce	https://pull.livecdn.cc/live/4339669.m3u8
-Sassuolo vs Lecce	https://live.yultech.online/live/sd-6MuSNj2Y1syhtX9biu/index.m3u8
-
-02:00 [y]French Ligue 1[z]	^-
-Strasbourg vs Monaco	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200152/rc-strasbourg-alsace-vs-as-monaco.html
-Strasbourg vs Monaco	`0https://v4.sportssonline.click/channels/hd/hd10.php
-Strasbourg vs Monaco	https://pull.livecdn.cc/live/4347678.m3u8
-Strasbourg vs Monaco	https://live.yultech.online/live/sd-6MuT7Y3Ce39vff6N1j/index.m3u8
-Stade Brestois vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200192/stade-brestois-29-vs-angers-sco.html
-Stade Brestois vs Angers	https://pull.livecdn.cc/live/4347670.m3u8
-Stade Brestois vs Angers	https://live.yultech.online/live/sd-6MuT7Y3CeLjmdVhhEu/index.m3u8
-Paris FC vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200197/paris-fc-vs-paris-saint-germain.html
-Paris FC vs Paris Saint Germain	`0https://v4.sportssonline.click/channels/hd/hd4.php
-Paris FC vs Paris Saint Germain	https://pull.livecdn.cc/live/4347677.m3u8
-Paris FC vs Paris Saint Germain	https://live.yultech.online/live/sd-6MuT7Y3CeXjAytqH1P/index.m3u8
-Lille vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200199/losc-lille-vs-aj-auxerre.html
-Lille vs AJ Auxerre	https://pull.livecdn.cc/live/4347671.m3u8
-Lille vs AJ Auxerre	https://live.yultech.online/live/sd-6MuT7Y3CeJYHm1sn61/index.m3u8
-Lorient vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200200/lorient-vs-havre-athletic-club.html
-Lorient vs Le Havre	https://pull.livecdn.cc/live/4347672.m3u8
-Lorient vs Le Havre	https://live.yultech.online/live/sd-6MuT7Y3CeR8jNTMXYh/index.m3u8
-Nantes vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200217/fc-nantes-vs-toulouse-fc.html
-Nantes vs Toulouse	https://pull.livecdn.cc/live/4347675.m3u8
-Nantes vs Toulouse	https://live.yultech.online/live/sd-6MuT7Y3CeTLDEwBShb/index.m3u8
-Nice vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200265/ogc-nice-vs-metz.html
-Nice vs Metz	https://pull.livecdn.cc/live/4347676.m3u8
-Nice vs Metz	https://live.yultech.online/live/sd-6MuT7Y3CeZverNfCAH/index.m3u8
-Marseille vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200275/marseille-vs-stade-rennais-fc.html
-Marseille vs Rennes	`0https://v4.sportssonline.click/channels/hd/hd3.php
-Marseille vs Rennes	https://pull.livecdn.cc/live/4347674.m3u8
-Marseille vs Rennes	https://live.yultech.online/live/sd-6MuT7Y3CeVXh7R1MrV/index.m3u8
-Lyon vs Lens	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200276/lyon-vs-rc-lens.html
-Lyon vs Lens	`0https://v4.sportssonline.click/channels/hd/hd11.php
-Lyon vs Lens	https://pull.livecdn.cc/live/4347673.m3u8
-Lyon vs Lens	https://live.yultech.online/live/sd-6MuT7Y3CeNwFVyXcPo/index.m3u8
-
-02:00 [g]Brazilian Serie A[z]	^-
-Botafogo RJ vs Corinthians Paul	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323219/botafogo---rj-vs-corinthians---sp.html
-Botafogo RJ vs Corinthians Paul	`0https://v4.sportssonline.click/channels/bra/br3.php
-Botafogo RJ vs Corinthians Paul	https://pull.livecdn.cc/live/4465710.m3u8
-Botafogo RJ vs Corinthians Paul	https://live.yultech.online/live/sd-6MvZ6LyCQ54PuZxtmB/index.m3u8
-Bahia vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4323256/bahia---ba-vs-grmio---rs.html
-Bahia vs Gremio RS	`0https://v4.sportssonline.click/channels/bra/br4.php
-Bahia vs Gremio RS	https://pull.livecdn.cc/live/4465735.m3u8
-Bahia vs Gremio RS	https://live.yultech.online/live/sd-6MvZ6LyCjazs8eRrku/index.m3u8
-
 02:15 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209752/fc-barcelona-vs-real-betis.html
 FC Barcelona vs Real Betis	`0https://v4.sportssonline.click/channels/hd/hd2.php
