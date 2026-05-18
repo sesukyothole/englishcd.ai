@@ -35,6 +35,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18:00 [g]Singapore Premier League[z]	^-
 Tanjong Pagar Utd vs Hougang United	`Fhttps://www.fctv33.net/football/singapore-premier-league-match-4258855/tanjong-pagar-utd-vs-hougang-united-fc.html
+Tanjong Pagar Utd vs Hougang United	https://live.yultech.online/live/sd-6MvXbzYhppkpANJuhF/index.m3u8
 
 22:00 [g]Finnish Super League[z]	^-
 Lahti vs Vaasa	https://pull.livecdn.cc/live/4468097.m3u8
@@ -47,7 +48,6 @@ Djurgardens vs IK Sirius FK	`Fhttps://www.fctv33.net/football/sweden-allsvenskan
 
 00:30 [g]Romanian Super Liga[z]	^-
 Hermannstadt vs Fotbal Club FCSB	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370750/hermannstadt-vs-fotbal-club-fcsb.html
-Hermannstadt vs Fotbal Club FCSB	`0https://v4.sportssonline.click/channels/hd/hd8.php
 FC Unirea 2004 Slobozia vs UTA Arad	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370751/fc-unirea-2004-slobozia-vs-uta-arad.html
 Petrolul Ploiesti vs Otelul Galati	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370753/petrolul-ploiesti-vs-fc-otelul-galati.html
 Farul Constanta vs Metaloglobus	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370754/farul-constanta-vs-metaloglobus.html
