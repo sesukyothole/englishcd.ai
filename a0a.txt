@@ -41,22 +41,29 @@ Lahti vs Vaasa	https://live.yultech.online/live/sd-6MvZ6dAz4UTGcUwQ2H/index.m3u8
 
 00:00 [g]Sweden Allsvenskan[z]	^-
 Orgryte vs IFK Goteborg	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332033/orgryte-vs-ifk-goteborg.html
+Orgryte vs IFK Goteborg	https://pull.livecdn.cc/live/4467062.m3u8
 Orgryte vs IFK Goteborg	https://live.yultech.online/live/sd-6MvZ6EN31DKCA9xhYh/index.m3u8
 Djurgardens vs IK Sirius FK	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332053/djurgardens-vs-ik-sirius-fk.html
+Djurgardens vs IK Sirius FK	https://pull.livecdn.cc/live/4467057.m3u8
 Djurgardens vs IK Sirius FK	https://live.yultech.online/live/sd-6MvZ6EN2WDtbM8xdCq/index.m3u8
 
 00:30 [g]Romanian Super Liga[z]	^-
 Hermannstadt vs Fotbal Club FCSB	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370750/hermannstadt-vs-fotbal-club-fcsb.html
+Hermannstadt vs Fotbal Club FCSB	https://pull.livecdn.cc/live/4512745.m3u8
 Hermannstadt vs Fotbal Club FCSB	https://live.yultech.online/live/sd-6MwcqKPYU5YxCijcPX/index.m3u8
 FC Unirea 2004 Slobozia vs UTA Arad	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370751/fc-unirea-2004-slobozia-vs-uta-arad.html
+FC Unirea 2004 Slobozia vs UTA Arad	https://pull.livecdn.cc/live/4512747.m3u8
 FC Unirea 2004 Slobozia vs UTA Arad	https://live.yultech.online/live/sd-6MwcqKPYU9wuwgPShK/index.m3u8
 Petrolul Ploiesti vs Otelul Galati	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370753/petrolul-ploiesti-vs-fc-otelul-galati.html
+Petrolul Ploiesti vs Otelul Galati	https://pull.livecdn.cc/live/4512746.m3u8
 Petrolul Ploiesti vs Otelul Galati	https://live.yultech.online/live/sd-6MwcqKPYUC9PpADMrD/index.m3u8
 Farul Constanta vs Metaloglobus	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370754/farul-constanta-vs-metaloglobus.html
+Farul Constanta vs Metaloglobus	https://pull.livecdn.cc/live/4512744.m3u8
 Farul Constanta vs Metaloglobus	https://live.yultech.online/live/sd-6MwcqKPYU7kS5CZXYR/index.m3u8
 
 01:15 [g]Switzerland Super League[z]	^-
 Aarau vs Grasshopper	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4402446/aarau-vs-grasshopper.html
+Aarau vs Grasshopper	https://pull.livecdn.cc/live/4543515.m3u8
 
 01:30 [g]ARG Primera Nacional[z]	^-
 Defensores Belgrano vs Chaco Forever	`Fhttps://www.fctv33.net/football/arg-primera-nacional-match-4331029/defensores-de-belgrano-vs-chaco-for-ever.html
@@ -69,6 +76,7 @@ Waterford United vs Drogheda United	https://live.yultech.online/live/sd-6MvZ6Zv1
 02:00 [y]English Premier League[z]	^-
 Arsenal vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194071/arsenal-vs-burnley.html
 Arsenal vs Burnley	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Arsenal vs Burnley	https://pull.livecdn.cc/live/4343225.m3u8
 Arsenal vs Burnley	https://live.yultech.online/live/sd-6MuT7JxHDhkcQB2HRo/index.m3u8
 
 06:00 [g]ARG Primera Nacional[z]	^-
