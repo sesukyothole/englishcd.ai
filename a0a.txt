@@ -42,6 +42,22 @@ Japan vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-44
 23:30 [g]Austrian Bundesliga[z]	^-
 SV Ried vs Wolfsberger AC	`Fhttps://www.fctv33.net/football/austrian-bundesliga-match-4402738/sv-ried-vs-wolfsberger-ac.html
 
+20.05.2026	^-
+
+01:30 [y]English Premier League[z]	^-
+Bournemouth AFC vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194050/bournemouth-afc-vs-manchester-city.html
+
+01:30 [g]Belgian Pro League[z]	^-
+Racing Genk vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382684/racing-genk-vs-royal-antwerp.html
+Charleroi vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382822/rc-sporting-charleroi-vs-oud-heverlee-leuven.html
+Westerlo vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382833/kvc-westerlo-vs-standard-liege.html
+
+01:30 [l]AFC U17 Asian Cup[z]	^-
+China vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4402044/china-u17-vs-australia-u17.html
+
+02:15 [y]English Premier League[z]	^-
+Chelsea vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194013/chelsea-vs-tottenham-hotspur.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
