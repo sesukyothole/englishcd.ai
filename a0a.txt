@@ -40,7 +40,9 @@ Lahti vs Vaasa	https://pull.livecdn.cc/live/4468097.m3u8
 
 00:00 [g]Sweden Allsvenskan[z]	^-
 Orgryte vs IFK Goteborg	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332033/orgryte-vs-ifk-goteborg.html
+Orgryte vs IFK Goteborg	https://live.yultech.online/live/sd-6MvZ6EN31DKCA9xhYh/index.m3u8
 Djurgardens vs IK Sirius FK	`Fhttps://www.fctv33.net/football/sweden-allsvenskan-match-4332053/djurgardens-vs-ik-sirius-fk.html
+Djurgardens vs IK Sirius FK	https://live.yultech.online/live/sd-6MvZ6EN2WDtbM8xdCq/index.m3u8
 
 00:30 [g]Romanian Super Liga[z]	^-
 Hermannstadt vs Fotbal Club FCSB	`Fhttps://www.fctv33.net/football/romanian-super-liga-match-4370750/hermannstadt-vs-fotbal-club-fcsb.html
@@ -53,6 +55,7 @@ Aarau vs Grasshopper	`Fhttps://www.fctv33.net/football/switzerland-super-league-
 
 01:30 [g]ARG Primera Nacional[z]	^-
 Defensores Belgrano vs Chaco Forever	`Fhttps://www.fctv33.net/football/arg-primera-nacional-match-4331029/defensores-de-belgrano-vs-chaco-for-ever.html
+Defensores Belgrano vs Chaco Forever	https://live.yultech.online/live/sd-6MvYqjftuUQmGLWck5/index.m3u8
 
 01:45 [g]Ireland Premier Division[z]	^-
 Waterford United vs Drogheda United	`Fhttps://www.fctv33.net/football/ireland-premier-division-match-4327490/waterford-united-vs-drogheda-united.html
@@ -60,6 +63,7 @@ Waterford United vs Drogheda United	`Fhttps://www.fctv33.net/football/ireland-pr
 02:00 [y]English Premier League[z]	^-
 Arsenal vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194071/arsenal-vs-burnley.html
 Arsenal vs Burnley	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Arsenal vs Burnley	https://live.yultech.online/live/sd-6MuT7JxHDhkcQB2HRo/index.m3u8
 
 06:00 [g]ARG Primera Nacional[z]	^-
 All Boys vs Deportivo Moron	`Fhttps://www.fctv33.net/football/arg-primera-nacional-match-4331070/all-boys-vs-deportivo-moron.html
