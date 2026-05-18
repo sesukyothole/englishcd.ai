@@ -57,6 +57,9 @@ Waterford United vs Drogheda United	`Fhttps://www.fctv33.net/football/ireland-pr
 02:00 [y]English Premier League[z]	^-
 Arsenal vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194071/arsenal-vs-burnley.html
 
+06:00 [g]ARG Primera Nacional[z]	^-
+All Boys vs Deportivo Moron	`Fhttps://www.fctv33.net/football/arg-primera-nacional-match-4331070/all-boys-vs-deportivo-moron.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
