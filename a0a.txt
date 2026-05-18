@@ -33,26 +33,11 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.05.2026	^-
 
-01:15 [g]Switzerland Super League[z]	^-
-Aarau vs Grasshopper	`Fhttps://www.fctv33.net/football/switzerland-super-league-match-4402446/aarau-vs-grasshopper.html
-Aarau vs Grasshopper	https://pull.livecdn.cc/live/4543515.m3u8
-
-01:30 [g]ARG Primera Nacional[z]	^-
-Defensores Belgrano vs Chaco Forever	`Fhttps://www.fctv33.net/football/arg-primera-nacional-match-4331029/defensores-de-belgrano-vs-chaco-for-ever.html
-Defensores Belgrano vs Chaco Forever	https://live.yultech.online/live/sd-6MvYqjftuUQmGLWck5/index.m3u8
-
-01:45 [g]Ireland Premier Division[z]	^-
-Waterford United vs Drogheda United	`Fhttps://www.fctv33.net/football/ireland-premier-division-match-4327490/waterford-united-vs-drogheda-united.html
-Waterford United vs Drogheda United	https://live.yultech.online/live/sd-6MvZ6Zv1ozu3VXW52M/index.m3u8
-
-02:00 [y]English Premier League[z]	^-
-Arsenal vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194071/arsenal-vs-burnley.html
-Arsenal vs Burnley	`0https://v4.sportssonline.click/channels/hd/hd1.php
-Arsenal vs Burnley	https://pull.livecdn.cc/live/4343225.m3u8
-Arsenal vs Burnley	https://live.yultech.online/live/sd-6MuT7JxHDhkcQB2HRo/index.m3u8
-
 06:00 [g]ARG Primera Nacional[z]	^-
 All Boys vs Deportivo Moron	`Fhttps://www.fctv33.net/football/arg-primera-nacional-match-4331070/all-boys-vs-deportivo-moron.html
+
+22:00 [l]AFC U17 Asian Cup[z]	^-
+Japan vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4402045/japan-u17-vs-uzbekistan-u17.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
