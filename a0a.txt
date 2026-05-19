@@ -66,22 +66,27 @@ Orlando City vs Atlanta United	`Fhttps://www.fctv33.net/football/united-states-o
 Always Ready vs Mirassol	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375992/always-ready-vs-mirassol---sp.html
 Always Ready vs Mirassol	`0https://v4.sportssonline.click/channels/hd/hd11.php
 Always Ready vs Mirassol	https://pull.livecdn.cc/live/4518354.m3u8
+Always Ready vs Mirassol	https://live.yultech.online/live/sd-6MwcqsvYVGeDNmM8SZ/index.m3u8
 Indep Santa Fe vs CA Platense	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376065/independiente-santa-fe-vs-ca-platense.html
 Indep Santa Fe vs CA Platense	`0https://v4.sportssonline.click/channels/bra/br6.php
 Indep Santa Fe vs CA Platense	https://pull.livecdn.cc/live/4518329.m3u8
+Indep Santa Fe vs CA Platense	https://live.yultech.online/live/sd-6MwcqsvZegn4iG4UKX/index.m3u8
 
 07:00 [g]US Open Cup[z]	^-
 St. Louis City SC vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-open-cup-match-4401240/st-louis-city-sc-vs-houston-dynamo.html
+St. Louis City SC vs Houston Dynamo	https://live.yultech.online/live/sd-6Mwe5EH1dm4U7Ca9Uq/index.m3u8
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Boca Juniors vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375846/boca-juniors-vs-cruzeiro---mg.html
 Boca Juniors vs Cruzeiro Esporte	`0https://v4.sportssonline.click/channels/hd/hd5.php
 Boca Juniors vs Cruzeiro Esporte	https://pull.livecdn.cc/live/4518317.m3u8
+Boca Juniors vs Cruzeiro Esporte	https://live.yultech.online/live/sd-6MwcqsvZA7XkUX9UfX/index.m3u8
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Sao Paulo vs Millonarios	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377532/so-paulo---sp-vs-millonarios.html
 Sao Paulo vs Millonarios	`0https://v4.sportssonline.click/channels/bra/br2.php
 Sao Paulo vs Millonarios	https://pull.livecdn.cc/live/4518173.m3u8
+Sao Paulo vs Millonarios	https://live.yultech.online/live/sd-6Mwcqsu5BWzg5iKGY5/index.m3u8
 
 09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 America de Cali vs Atletico Tigre	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375745/america-de-cali-vs-club-atletico-tigre.html
