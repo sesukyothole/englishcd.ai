@@ -43,6 +43,7 @@ SV Ried vs Wolfsberger AC	`Fhttps://www.fctv33.net/football/austrian-bundesliga-
 
 01:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194050/bournemouth-afc-vs-manchester-city.html
+Bournemouth AFC vs Manchester City	`0https://v4.sportssonline.click/channels/hd/hd1.php
 
 01:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382684/racing-genk-vs-royal-antwerp.html
@@ -54,16 +55,20 @@ China vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-440
 
 02:15 [y]English Premier League[z]	^-
 Chelsea vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194013/chelsea-vs-tottenham-hotspur.html
+Chelsea vs Tottenham Hotspur	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Rosario Central vs Univ Venezuela	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375787/rosario-central-vs-universidad-central-de-venezuela.html
+Rosario Central vs Univ Venezuela	`0https://v4.sportssonline.click/channels/pt/sporttv1.php
 Coquimbo Unido vs Deportes Tolima	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375797/coquimbo-unido-vs-deportes-tolima.html
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Audax Italiano vs Barracas Central	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375870/audax-italiano-vs-barracas-central.html
+Audax Italiano vs Barracas Central	`0https://v4.sportssonline.click/channels/hd/hd11.php
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Fluminense RJ vs Bolivar	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375937/fluminense---rj-vs-bolivar.html
+Fluminense RJ vs Bolivar	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Torque vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377144/montevideo-city-torque-vs-deportivo-riestra.html
@@ -73,22 +78,28 @@ Orlando City vs Atlanta United	`Fhttps://www.fctv33.net/football/united-states-o
 
 07:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Always Ready vs Mirassol	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375992/always-ready-vs-mirassol---sp.html
+Always Ready vs Mirassol	`0https://v4.sportssonline.click/channels/hd/hd11.php
 Indep Santa Fe vs CA Platense	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376065/independiente-santa-fe-vs-ca-platense.html
+Indep Santa Fe vs CA Platense	`0https://v4.sportssonline.click/channels/bra/br6.php
 
 07:00 [g]US Open Cup[z]	^-
 St. Louis City SC vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-open-cup-match-4401240/st-louis-city-sc-vs-houston-dynamo.html
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Boca Juniors vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375846/boca-juniors-vs-cruzeiro---mg.html
+Boca Juniors vs Cruzeiro Esporte	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Sao Paulo vs Millonarios	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377532/so-paulo---sp-vs-millonarios.html
+Sao Paulo vs Millonarios	`0https://v4.sportssonline.click/channels/bra/br2.php
 
 09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 America de Cali vs Atletico Tigre	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375745/america-de-cali-vs-club-atletico-tigre.html
+America de Cali vs Atletico Tigre	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 09:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Indep Jose Teran vs Libertad	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386993/independiente-del-valle-vs-club-libertad-asuncin.html
+Indep Jose Teran vs Libertad	`0https://v4.sportssonline.click/channels/bra/br6.php
 
 09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Dep Cuenca vs Dep Recoleta	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387008/deportivo-cuenca-vs-deportivo-recoleta.html
