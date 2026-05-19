@@ -33,9 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.05.2026	^-
 
-06:00 [g]ARG Primera Nacional[z]	^-
-All Boys vs Deportivo Moron	`Fhttps://www.fctv33.net/football/arg-primera-nacional-match-4331070/all-boys-vs-deportivo-moron.html
-
 22:00 [l]AFC U17 Asian Cup[z]	^-
 Japan vs Uzbekistan	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4402045/japan-u17-vs-uzbekistan-u17.html
 
@@ -57,6 +54,44 @@ China vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-440
 
 02:15 [y]English Premier League[z]	^-
 Chelsea vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194013/chelsea-vs-tottenham-hotspur.html
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Rosario Central vs Univ Venezuela	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375787/rosario-central-vs-universidad-central-de-venezuela.html
+Coquimbo Unido vs Deportes Tolima	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375797/coquimbo-unido-vs-deportes-tolima.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Audax Italiano vs Barracas Central	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375870/audax-italiano-vs-barracas-central.html
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Fluminense RJ vs Bolivar	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375937/fluminense---rj-vs-bolivar.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Torque vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377144/montevideo-city-torque-vs-deportivo-riestra.html
+
+06:30 [g]US Open Cup[z]	^-
+Orlando City vs Atlanta United	`Fhttps://www.fctv33.net/football/united-states-open-cup-match-4401291/orlando-city-vs-atlanta-united.html
+
+07:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Always Ready vs Mirassol	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375992/always-ready-vs-mirassol---sp.html
+Indep Santa Fe vs CA Platense	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4376065/independiente-santa-fe-vs-ca-platense.html
+
+07:00 [g]US Open Cup[z]	^-
+St. Louis City SC vs Houston Dynamo	`Fhttps://www.fctv33.net/football/united-states-open-cup-match-4401240/st-louis-city-sc-vs-houston-dynamo.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Boca Juniors vs Cruzeiro Esporte	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375846/boca-juniors-vs-cruzeiro---mg.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Sao Paulo vs Millonarios	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4377532/so-paulo---sp-vs-millonarios.html
+
+09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+America de Cali vs Atletico Tigre	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4375745/america-de-cali-vs-club-atletico-tigre.html
+
+09:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Indep Jose Teran vs Libertad	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4386993/independiente-del-valle-vs-club-libertad-asuncin.html
+
+09:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Dep Cuenca vs Dep Recoleta	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4387008/deportivo-cuenca-vs-deportivo-recoleta.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
