@@ -44,11 +44,15 @@ SV Ried vs Wolfsberger AC	`Fhttps://www.fctv33.net/football/austrian-bundesliga-
 01:30 [y]English Premier League[z]	^-
 Bournemouth AFC vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194050/bournemouth-afc-vs-manchester-city.html
 Bournemouth AFC vs Manchester City	`0https://v4.sportssonline.click/channels/hd/hd1.php
+Bournemouth AFC vs Manchester City	https://pull.livecdn.cc/live/4343192.m3u8
 
 01:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382684/racing-genk-vs-royal-antwerp.html
+Racing Genk vs Royal Antwerp	https://pull.livecdn.cc/live/4521159.m3u8
 Charleroi vs Oud Heverlee	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382822/rc-sporting-charleroi-vs-oud-heverlee-leuven.html
+Charleroi vs Oud Heverlee	https://pull.livecdn.cc/live/4521215.m3u8
 Westerlo vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4382833/kvc-westerlo-vs-standard-liege.html
+Westerlo vs Standard Liege	https://pull.livecdn.cc/live/4521199.m3u8
 
 01:30 [l]AFC U17 Asian Cup[z]	^-
 China vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-4402044/china-u17-vs-australia-u17.html
@@ -56,6 +60,7 @@ China vs Australia	`Fhttps://www.fctv33.net/football/afc-u17-asian-cup-match-440
 02:15 [y]English Premier League[z]	^-
 Chelsea vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194013/chelsea-vs-tottenham-hotspur.html
 Chelsea vs Tottenham Hotspur	`0https://v4.sportssonline.click/channels/hd/hd5.php
+Chelsea vs Tottenham Hotspur	https://pull.livecdn.cc/live/4343210.m3u8
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Rosario Central vs Univ Venezuela	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4375787/rosario-central-vs-universidad-central-de-venezuela.html
