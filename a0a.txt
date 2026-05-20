@@ -33,20 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 21.05.2026	^-
 
-01:00 [g]Saudi Professional League[z]	^-
-Al Khaleej Club vs Al Ahli Jeddah	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256266/al-khaleej-club-vs-al-ahli-sfc.html
-Al Khaleej Club vs Al Ahli Jeddah	`0https://v4.sportssonline.click/channels/pt/sporttv1.php
-Al Khaleej Club vs Al Ahli Jeddah	https://pull.livecdn.cc/live/4404694.m3u8
-Al Khaleej Club vs Al Ahli Jeddah	https://live.yultech.online/live/sd-6MvXc769TDZz5PLNQ5/index.m3u8
-Al Najma vs Al Shabab Riyadh	`0https://v4.sportssonline.click/channels/hd/hd5.php
-Al Najma vs Al Shabab Riyadh	https://pull.livecdn.cc/live/4404700.m3u8
-Al Najma vs Al Shabab Riyadh	https://live.yultech.online/live/sd-6MvXc76umu2kWTjqgZ/index.m3u8
-
-02:00 [y]UEFA Europa League[z]	^-
-SC Freiburg vs Aston Villa	`Fhttps://www.fctv33.ws/football/uefa-europa-league-match-4396135/sc-freiburg-vs-aston-villa.html
-SC Freiburg vs Aston Villa	https://live.yultech.online/live/sd-6MwdLJmpKYr6T3Ru1P/index.m3u8
-SC Freiburg vs Aston Villa	https://pull.livecdn.cc/live/4536569.m3u8
-
 03:00 [g]Copa Argentina[z]	^-
 Talleres Cordoba vs Atletico Tucuman	`Fhttps://www.fctv33.ws/football/copa-argentina-match-4390104/talleres-cordoba-vs-atletico-tucuman.html
 Talleres Cordoba vs Atletico Tucuman	https://live.yultech.online/live/sd-6MwdayFfpGM9gGr317/index.m3u8
