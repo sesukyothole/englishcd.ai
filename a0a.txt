@@ -69,8 +69,33 @@ Flamengo vs Estudiantes La Plata	https://pull.livecdn.cc/live/4518282.m3u8
 Palmeiras vs Cerro Porteno	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4384744/palmeiras---sp-vs-cerro-porteno.html
 Palmeiras vs Cerro Porteno	https://pull.livecdn.cc/live/4518341.m3u8
 
+09:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Cusco FC vs Dep.Indep Medellin	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4376138/cusco-fc-vs-depindependiente-medellin.html
+Atl Jr Barranquilla vs Sport Cristal	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375838/atletico-junior-barranquilla-vs-sporting-cristal.html
+
+23:30 [g]Danish Superliga[z]	^-
+Brondby IF vs FC Copenhagen	`Fhttps://www.fctv33.ws/football/danish-superliga-match-4402848/brondby-if-vs-fc-copenhagen.html
+
 23:45 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Groningen	`Fhttps://www.fctv33.ws/football/netherlands-eredivisie-match-4402849/afc-ajax-vs-groningen.html
+
+00:00 [g]Sweden Allsvenskan[z]	^-
+Elfsborg vs Mjallby AIF	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4331989/elfsborg-vs-mjallby-aif.html
+
+01:00 [g]Saudi Professional League[z]	^-
+Al-Feiha vs Al Hilal SFC	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256264/al-fayha-vs-al-hilal.html
+Al Nassr FC vs Dhamk	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256265/al-nassr-fc-vs-damac.html
+
+01:30 [g]Belgian Pro League[z]	^-
+Mechelen vs Club Brugge	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383168/kv-mechelen-vs-club-brugge.html
+Anderlecht vs Sint-Truidense	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383169/anderlecht-vs-sint-truidense.html
+KAA Gent vs Saint Gilloise	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383172/kaa-gent-vs-union-saint-gilloise.html
+
+02:00 [g]Scottish Championship[z]	^-
+Partick Thistle vs Saint Mirren	`Fhttps://www.fctv33.ws/football/scottish-championship-match-4402419/partick-thistle-fc-vs-saint-mirren.html
+
+02:00 [y]Netherlands Eredivisie[z]	^-
+FC Utrecht vs SC Heerenveen	`Fhttps://www.fctv33.ws/football/netherlands-eredivisie-match-4402850/fc-utrecht-vs-sc-heerenveen.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
