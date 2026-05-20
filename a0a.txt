@@ -44,6 +44,37 @@ Al Najma vs Al Shabab Riyadh	https://live.yultech.online/live/sd-6MvXc76umu2kWTj
 SC Freiburg vs Aston Villa	`Fhttps://www.fctv33.ws/football/uefa-europa-league-match-4396135/sc-freiburg-vs-aston-villa.html
 SC Freiburg vs Aston Villa	https://live.yultech.online/live/sd-6MwdLJmpKYr6T3Ru1P/index.m3u8
 
+03:00 [g]Copa Argentina[z]	^-
+Talleres Cordoba vs Atletico Tucuman	`Fhttps://www.fctv33.ws/football/copa-argentina-match-4390104/talleres-cordoba-vs-atletico-tucuman.html
+Talleres Cordoba vs Atletico Tucuman	https://live.yultech.online/live/sd-6MwdayFfpGM9gGr317/index.m3u8
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Nacional Montevideo vs Univ Deportes	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375798/nacional-montevideo-vs-universitario-de-deportes.html
+Nacional Montevideo vs Univ Deportes	https://live.yultech.online/live/sd-6MwcqsunzqA9tRdHRP/index.m3u8
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Santos vs San Lorenzo	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375880/santos-fc---sp-vs-san-lorenzo.html
+Santos vs San Lorenzo	https://live.yultech.online/live/sd-6Mwcqsu4M62ZnaW4WH/index.m3u8
+Boston River vs O.Higgins	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4377531/boston-river-vs-ohiggins.html
+Boston River vs O.Higgins	https://live.yultech.online/live/sd-6Mwcqsu5Bdb7h9o1zm/index.m3u8
+Olimpia Asuncion vs Vasco da Gama	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4387007/olimpia-asuncion-vs-vasco-da-gama-saf---rj.html
+Olimpia Asuncion vs Vasco da Gama	https://live.yultech.online/live/sd-6MwcqsupqUAM2UQ94H/index.m3u8
+
+07:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Indep Petrolero vs Botafogo RJ	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375951/independiente-petrolero-vs-botafogo---rj.html
+Gremio RS vs Palestino	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4377148/grmio---rs-vs-palestino.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+River Plate vs Bragantino	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375860/river-plate-vs-red-bull-bragantino.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Liga Dep. Univ Quito vs Lanus	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375993/liga-dep-universitaria-quito-vs-club-atltico-lans.html
+Flamengo vs Estudiantes La Plata	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4376136/flamengo---rj-vs-estudiantes-la-plata.html
+Palmeiras vs Cerro Porteno	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4384744/palmeiras---sp-vs-cerro-porteno.html
+
+23:45 [y]Netherlands Eredivisie[z]	^-
+AFC Ajax vs Groningen	`Fhttps://www.fctv33.ws/football/netherlands-eredivisie-match-4402849/afc-ajax-vs-groningen.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
