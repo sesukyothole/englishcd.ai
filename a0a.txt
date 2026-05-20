@@ -33,10 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 21.05.2026	^-
 
-03:00 [g]Copa Argentina[z]	^-
-Talleres Cordoba vs Atletico Tucuman	`Fhttps://www.fctv33.ws/football/copa-argentina-match-4390104/talleres-cordoba-vs-atletico-tucuman.html
-Talleres Cordoba vs Atletico Tucuman	https://live.yultech.online/live/sd-6MwdayFfpGM9gGr317/index.m3u8
-
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
 Nacional Montevideo vs Univ Deportes	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375798/nacional-montevideo-vs-universitario-de-deportes.html
 Nacional Montevideo vs Univ Deportes	https://pull.livecdn.cc/live/4518293.m3u8
