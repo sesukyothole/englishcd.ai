@@ -43,9 +43,11 @@ Al Khaleej Club vs Al Ahli Jeddah	`Fhttps://www.fctv33.ws/football/saudi-profess
 Al Khaleej Club vs Al Ahli Jeddah	`0https://v4.sportssonline.click/channels/pt/sporttv1.php
 Al Khaleej Club vs Al Ahli Jeddah	https://live.yultech.online/live/sd-6MvXc769TDZz5PLNQ5/index.m3u8
 Al Najma vs Al Shabab Riyadh	`0https://v4.sportssonline.click/channels/hd/hd5.php
+Al Najma vs Al Shabab Riyadh	https://live.yultech.online/live/sd-6MvXc76umu2kWTjqgZ/index.m3u8
 
 02:00 [y]UEFA Europa League[z]	^-
 SC Freiburg vs Aston Villa	`Fhttps://www.fctv33.ws/football/uefa-europa-league-match-4396135/sc-freiburg-vs-aston-villa.html
+SC Freiburg vs Aston Villa	https://live.yultech.online/live/sd-6MwdLJmpKYr6T3Ru1P/index.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
