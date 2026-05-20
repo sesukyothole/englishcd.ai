@@ -43,6 +43,8 @@ Spelle-Venhaus vs Br Monchengladbach	`Fhttps://www.fctv33.ws/football/internatio
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Khaleej Club vs Al Ahli Jeddah	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256266/al-khaleej-club-vs-al-ahli-sfc.html
+Al Khaleej Club vs Al Ahli Jeddah	`0https://v4.sportssonline.click/channels/pt/sporttv1.php
+Al Najma vs Al Shabab Riyadh	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 02:00 [y]UEFA Europa League[z]	^-
 SC Freiburg vs Aston Villa	`Fhttps://www.fctv33.ws/football/uefa-europa-league-match-4396135/sc-freiburg-vs-aston-villa.html
@@ -56,7 +58,7 @@ SC Freiburg vs Aston Villa	`Fhttps://www.fctv33.ws/football/uefa-europa-league-m
 ^#	^-
 
 	^-
-Pesta Babi .Full Movie	https://www.youtube.com/watch?v=rVPExg88B4E
+Pesta Babi .Full Movie	https://www.youtube.com/watch?v=Kkl-u7do3tE
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 Movie Sphere	https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
