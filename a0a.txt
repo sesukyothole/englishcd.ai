@@ -45,12 +45,22 @@ Brondby IF vs FC Copenhagen	`Fhttps://www.fctv33.ws/football/danish-superliga-ma
 23:45 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Groningen	`Fhttps://www.fctv33.ws/football/netherlands-eredivisie-match-4402849/afc-ajax-vs-groningen.html
 
+22.05.2026	^-
+
 00:00 [g]Sweden Allsvenskan[z]	^-
 Elfsborg vs Mjallby AIF	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4331989/elfsborg-vs-mjallby-aif.html
 
 01:00 [g]Saudi Professional League[z]	^-
+NEOM Sports Club vs Al Ettifaq	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256260/neom-sports-club-vs-al-ettifaq-fc.html
+Al-Riyadh vs Al-Akhdoud	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256262/al-riyadh-vs-al-okhdood.html
+Al Kholood vs Al-Fateh	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256263/al-kholood-vs-al-fateh-sc.html
 Al-Feiha vs Al Hilal SFC	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256264/al-fayha-vs-al-hilal.html
 Al Nassr FC vs Dhamk	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256265/al-nassr-fc-vs-damac.html
+Al-Hazm vs Al-Taawon	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256267/al-hazem-vs-al-taawoun.html
+Al Ittihad Club vs Al-Qadasiya	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256268/al-ittihad-club-vs-al-qadsiah.html
+
+01:15 [g]Switzerland Super League[z]	^-
+Grasshopper vs Aarau	`Fhttps://www.fctv33.ws/football/switzerland-super-league-match-4402418/grasshopper-vs-aarau.html
 
 01:30 [g]Belgian Pro League[z]	^-
 Mechelen vs Club Brugge	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383168/kv-mechelen-vs-club-brugge.html
