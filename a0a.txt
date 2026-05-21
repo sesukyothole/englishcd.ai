@@ -115,11 +115,6 @@ SportStars 1 for PC	https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470
 SportStars 2 for PC	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 SportStars 4 for PC	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 
-^=GTV	`Fhttps://m.rctiplus.com/tv/gtv
-^=MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
-^=RCTI	`Fhttps://m.rctiplus.com/tv/rcti
-^=iNews	`Fhttps://m.rctiplus.com/tv/inews
-
 	^-
 [w]Sports TV Channels[z]	^-
 
@@ -1899,6 +1894,11 @@ NHK G	https://nl.utako.moe/NHK_G/index.m3u8
 TBS	https://nl.utako.moe/TBS/index.m3u8
 Fuji TV	https://nl.utako.moe/Fuji_TV/index.m3u8
 TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
+
+^=GTV	`Fhttps://m.rctiplus.com/tv/gtv
+^=MNC TV	`Fhttps://m.rctiplus.com/tv/mnctv
+^=RCTI	`Fhttps://m.rctiplus.com/tv/rcti
+^=iNews	`Fhttps://m.rctiplus.com/tv/inews
 
 ^=Live 1	`0https://24start.net/homes/blog1/
 ^=Live 2	`0https://24start.net/homes/blog2/
