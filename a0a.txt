@@ -35,37 +35,57 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23:30 [g]Danish Superliga[z]	^-
 Brondby IF vs FC Copenhagen	`Fhttps://www.fctv33.ws/football/danish-superliga-match-4402848/brondby-if-vs-fc-copenhagen.html
+Brondby IF vs FC Copenhagen	`0https://v4.sportssonline.click/channels/hd/hd11.php
+Brondby IF vs FC Copenhagen	https://pull.livecdn.cc/live/4543846.m3u8
 
 23:45 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs Groningen	`Fhttps://www.fctv33.ws/football/netherlands-eredivisie-match-4402849/afc-ajax-vs-groningen.html
+AFC Ajax vs Groningen	`0https://v4.sportssonline.click/channels/hd/hd5.php
+AFC Ajax vs Groningen	https://pull.livecdn.cc/live/4543843.m3u8
 
 22.05.2026	^-
 
 00:00 [g]Sweden Allsvenskan[z]	^-
 Elfsborg vs Mjallby AIF	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4331989/elfsborg-vs-mjallby-aif.html
+Elfsborg vs Mjallby AIF	https://pull.livecdn.cc/live/4467115.m3u8
 
 01:00 [g]Saudi Professional League[z]	^-
 NEOM Sports Club vs Al Ettifaq	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256260/neom-sports-club-vs-al-ettifaq-fc.html
+NEOM Sports Club vs Al Ettifaq	https://pull.livecdn.cc/live/4404639.m3u8
 Al-Riyadh vs Al-Akhdoud	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256262/al-riyadh-vs-al-okhdood.html
+Al-Riyadh vs Al-Akhdoud	https://pull.livecdn.cc/live/4404653.m3u8
 Al Kholood vs Al-Fateh	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256263/al-kholood-vs-al-fateh-sc.html
+Al Kholood vs Al-Fateh	https://pull.livecdn.cc/live/4404661.m3u8
 Al-Feiha vs Al Hilal SFC	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256264/al-fayha-vs-al-hilal.html
+Al-Feiha vs Al Hilal SFC	`0https://v4.sportssonline.click/channels/pt/sporttv2.php
+Al-Feiha vs Al Hilal SFC	https://pull.livecdn.cc/live/4404654.m3u8
 Al Nassr FC vs Dhamk	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256265/al-nassr-fc-vs-damac.html
+Al Nassr FC vs Dhamk	`0https://v4.sportssonline.click/channels/hd/hd2.php
+Al Nassr FC vs Dhamk	https://pull.livecdn.cc/live/4404655.m3u8
 Al-Hazm vs Al-Taawon	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256267/al-hazem-vs-al-taawoun.html
+Al-Hazm vs Al-Taawon	https://pull.livecdn.cc/live/4404659.m3u8
 Al Ittihad Club vs Al-Qadasiya	`Fhttps://www.fctv33.ws/football/saudi-professional-league-match-4256268/al-ittihad-club-vs-al-qadsiah.html
+Al Ittihad Club vs Al-Qadasiya	https://pull.livecdn.cc/live/4404630.m3u8
 
 01:15 [g]Switzerland Super League[z]	^-
 Grasshopper vs Aarau	`Fhttps://www.fctv33.ws/football/switzerland-super-league-match-4402418/grasshopper-vs-aarau.html
+Grasshopper vs Aarau	https://pull.livecdn.cc/live/4543506.m3u8
 
 01:30 [g]Belgian Pro League[z]	^-
 Mechelen vs Club Brugge	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383168/kv-mechelen-vs-club-brugge.html
+Mechelen vs Club Brugge	https://pull.livecdn.cc/live/4521182.m3u8
 Anderlecht vs Sint-Truidense	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383169/anderlecht-vs-sint-truidense.html
+Anderlecht vs Sint-Truidense	https://pull.livecdn.cc/live/4521205.m3u8
 KAA Gent vs Saint Gilloise	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383172/kaa-gent-vs-union-saint-gilloise.html
+KAA Gent vs Saint Gilloise	https://pull.livecdn.cc/live/4521212.m3u8
 
 02:00 [g]Scottish Championship[z]	^-
 Partick Thistle vs Saint Mirren	`Fhttps://www.fctv33.ws/football/scottish-championship-match-4402419/partick-thistle-fc-vs-saint-mirren.html
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 FC Utrecht vs SC Heerenveen	`Fhttps://www.fctv33.ws/football/netherlands-eredivisie-match-4402850/fc-utrecht-vs-sc-heerenveen.html
+FC Utrecht vs SC Heerenveen	`0https://v4.sportssonline.click/channels/hd/hd4.php
+FC Utrecht vs SC Heerenveen	https://pull.livecdn.cc/live/4543844.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
