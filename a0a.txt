@@ -33,14 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23.05.2026	^-
 
-00:45 [g]Turkish Cup[z]	^-
-Trabzonspor vs Konyaspor	`Fhttps://www.fctv33.ws/football/turkish-cup-match-4401332/trabzonspor-vs-konyaspor.html
-Trabzonspor vs Konyaspor	https://live.yultech.online/live/sd-6Mwe5EHjHkXjoteidb/index.m3u8
-
-01:45 [y]Italian Serie A[z]	^-
-Fiorentina vs Atalanta	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194817/fiorentina-vs-atalanta.html
-Fiorentina vs Atalanta	https://live.yultech.online/live/sd-6MuSNj2Xgw1Sie5P2d/index.m3u8
-
 02:00 [y]Coupe de France[z]	^-
 Lens vs Nice	`Fhttps://www.fctv33.ws/football/coupe-de-france-match-4396002/rc-lens-vs-ogc-nice.html
 Lens vs Nice	https://live.yultech.online/live/sd-6MwdLRH3pkD8ALofd7/index.m3u8
