@@ -55,6 +55,9 @@ Fiorentina vs Atalanta	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-41
 02:00 [y]Coupe de France[z]	^-
 Lens vs Nice	`Fhttps://www.fctv33.ws/football/coupe-de-france-match-4396002/rc-lens-vs-ogc-nice.html
 
+06:00 [g]Copa Argentina[z]	^-
+Atlético Unión vs Independiente	`Fhttps://www.fctv33.ws/football/copa-argentina-match-4390105/club-atltico-unin-vs-ca-independiente.html
+
 09:00 [l]International Friendly[z]	^-
 Mexico vs Ghana	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370242/mexico-vs-ghana.html
 
