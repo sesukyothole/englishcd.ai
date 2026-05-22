@@ -35,6 +35,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 15:30 Super League	^-
 Arema FC vs PSIM Yogyakarta	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229506/arema-fc-vs-psim-yogyakarta.html
+Arema FC vs PSIM Yogyakarta	https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
 17:30 [g]Japanese J1 League[z]	^-
 Machida Zelvia vs Urawa Diamonds	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331748/machida-zelvia-vs-urawa-red-diamonds.html
