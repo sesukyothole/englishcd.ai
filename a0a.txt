@@ -42,13 +42,20 @@ Kashima Antlers vs FC Tokyo	`Fhttps://www.fctv33.ws/football/japanese-j1-league-
 Kashima Antlers vs FC Tokyo	https://pull.livecdn.cc/live/4470726.m3u8
 
 16:00 Super League[z]	^-
-Madura United vs PSM Makassar	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229547/madura-united-vs-persatuan-sepakbola-makassar.html
-Persija Jakarta vs Semen Padang	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229554/persatuan-sepakbola-indonesia-jakarta-vs-semen-padang.html
 Persib Bandung vs Persijap Jepara	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229555/persib-bandung-vs-persatuan-sepakbola-indonesia-jepara.html
-Borneo FC vs Malut United	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229559/borneo-fc-vs-malut-united.html
+Persib Bandung vs Persijap Jepara	https://live.yultech.online/live/sd-6MuTNFmLEFDDcghQ37/index.m3u8
+Persija Jakarta vs Semen Padang	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229554/persatuan-sepakbola-indonesia-jakarta-vs-semen-padang.html
+Persija Jakarta vs Semen Padang	https://live.yultech.online/live/sd-6MuTNFkaF3VSYCvybT/index.m3u8
+Madura United vs PSM Makassar	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229547/madura-united-vs-persatuan-sepakbola-makassar.html
+Madura United vs PSM Makassar	https://live.yultech.online/live/sd-6MuTNFkZjkUzmMKa2R/index.m3u8
 Persebaya Surabaya vs Persik Kediri	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229599/persebaya-surabaya-vs-persatuan-sepak-bola-indonesia-kediri.html
+Persebaya Surabaya vs Persik Kediri	https://live.yultech.online/live/sd-6MuTNFkajziZUk78nR/index.m3u8
 Persita Tangerang vs Persis Solo FC	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229603/persita-tangerang-vs-persis-solo-fc.html
+Persita Tangerang vs Persis Solo FC	https://live.yultech.online/live/sd-6MuTNFkbFFXXP7tdCZ/index.m3u8
+Borneo FC vs Malut United	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229559/borneo-fc-vs-malut-united.html
+Borneo FC vs Malut United	https://live.yultech.online/live/sd-6MuTNFkauKQmamLaWy/index.m3u8
 Bhayangkara vs PSBS Biak Numfor	`Fhttps://www.fctv33.ws/football/indonesian-super-league-match-4229653/bhayangkara-presisi-indonesia-fc-vs-psbs-biak-numfor.html
+Bhayangkara vs PSBS Biak Numfor	https://live.yultech.online/live/sd-6MuTNFmKu7FZ6QVbaM/index.m3u8
 
 16:00 [g]Japanese J1 League[z]	^-
 Kashiwa Reysol vs Ichihara Chiba	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331753/kashiwa-reysol-vs-jef-united-ichihara-chiba.html
