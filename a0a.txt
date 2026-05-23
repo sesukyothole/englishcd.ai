@@ -74,15 +74,18 @@ Johor Darul Takzim vs Kuching FA	`Fhttps://www.fctv33.ws/football/malaysian-cup-
 
 21:00 [g]Scottish Cup[z]	^-
 Celtic FC vs Dunfermline Athletic	`Fhttps://www.fctv33.ws/football/scottish-cup-match-4392983/celtic-fc-vs-dunfermline-athletic.html
+Celtic FC vs Dunfermline Athletic	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 21:30 [g]English Football League Champ[z]	^-
 Hull City vs Middlesbrough	`Fhttps://www.fctv33.ws/football/english-football-league-championship-match-4403149/hull-city-vs-middlesbrough.html
+Hull City vs Middlesbrough	`0https://v4.sportssonline.click/channels/hd/hd1.php
 
 22:00 [g]Sweden Superettan[z]	^-
 Falkenberg vs IFK Varnamo	`Fhttps://www.fctv33.ws/football/sweden-superettan-match-4332156/falkenberg-vs-ifk-varnamo.html
 
 23:00 [y]Italian Serie A[z]	^-
 Bologna vs Inter Milan	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194591/bologna-vs-inter-milan.html
+Bologna vs Inter Milan	`0https://v4.sportssonline.click/channels/hd/hd7.php
 
 23:15 [g]Belgian Pro League[z]	^-
 FCV Dender EH vs KVSK Lommel	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4401963/fcv-dender-eh-vs-kvsk-lommel.html
@@ -91,9 +94,11 @@ FCV Dender EH vs KVSK Lommel	`Fhttps://www.fctv33.ws/football/belgian-pro-league
 
 01:00 [y]DFB Pokal[z]	^-
 Bayern Munchen vs VfB Stuttgart	`Fhttps://www.fctv33.ws/football/dfb-pokal-match-4393220/fc-bayern-munich-vs-vfb-stuttgart.html
+Bayern Munchen vs VfB Stuttgart	`0https://v4.sportssonline.click/channels/hd/hd5.php
 
 01:45 [y]Italian Serie A[z]	^-
 Lazio vs Pisa	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194593/lazio-vs-pisa.html
+Lazio vs Pisa	`0https://v4.sportssonline.click/channels/hd/hd7.php
 
 01:45 [g]US Major League Soccer[z]	^-
 St. Louis City SC vs Austin FC	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317462/st-louis-city-sc-vs-austin-fc.html
@@ -105,10 +110,12 @@ Standard Liege vs Charleroi	`Fhttps://www.fctv33.ws/football/belgian-pro-league-
 
 02:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Athletic Bilbao	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209595/real-madrid-vs-athletic-club.html
+Real Madrid vs Athletic Bilbao	`0https://v4.sportssonline.click/channels/hd/hd9.php
+Valencia vs FC Barcelona	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209620/valencia-cf-vs-fc-barcelona.html
+Valencia vs FC Barcelona	`0https://v4.sportssonline.click/channels/hd/hd6.php
 Mallorca vs Real Oviedo	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209600/rcd-mallorca-vs-real-oviedo.html
 RCD Espanyol vs Real Sociedad	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209618/rcd-espanyol-de-barcelona-vs-real-sociedad.html
 Getafe vs Osasuna	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209619/getafe-vs-ca-osasuna.html
-Valencia vs FC Barcelona	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209620/valencia-cf-vs-fc-barcelona.html
 Deportivo Alavés vs Rayo Vallecano	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209641/deportivo-alavs-vs-rayo-vallecano.html
 Real Celta Vigo vs Sevilla	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209642/rc-celta-vs-sevilla-fc.html
 Girona vs Elche	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209756/girona-fc-vs-elche.html
@@ -116,17 +123,22 @@ Real Betis vs Levante	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-420
 
 02:00 [g]Canadian Premier League[z]	^-
 HFX Wanderers FC vs York United FC	`Fhttps://www.fctv33.ws/football/canadian-premier-league-match-4352784/hfx-wanderers-fc-vs-inter-toronto-fc.html
+HFX Wanderers FC vs York United FC	`0https://v4.sportssonline.click/channels/hd/hd11.php
 
 03:00 [g]Brazilian Serie A[z]	^-
 Sao Paulo vs Botafogo RJ	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323224/so-paulo---sp-vs-botafogo---rj.html
+Sao Paulo vs Botafogo RJ	`0https://v4.sportssonline.click/channels/bra/br5.php
 Vitoria BA vs Internacional RS	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323253/vitria---ba-vs-internacional---rs.html
+Vitoria BA vs Internacional RS	`0https://v4.sportssonline.click/channels/bra/br6.php
 
 03:30 [g]US Major League Soccer[z]	^-
 Minnesota United vs Real Salt Lake	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317474/minnesota-united-fc-vs-real-salt-lake.html
 
 05:00 [g]Brazilian Serie A[z]	^-
 Mirassol vs Fluminense RJ	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323245/mirassol---sp-vs-fluminense---rj.html
+Mirassol vs Fluminense RJ	`0https://v4.sportssonline.click/channels/bra/br3.php
 Gremio RS vs Santos	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323257/grmio---rs-vs-santos-fc---sp.html
+Gremio RS vs Santos	`0https://v4.sportssonline.click/channels/bra/br4.php
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
