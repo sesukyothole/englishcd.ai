@@ -4,8 +4,6 @@
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-^=pr	i0`00.reel/843619455466130/
-^=pb	https://www.facebook.com/reel/843619455466130/
 ^=Blank	
 ^=	^-
 
@@ -139,6 +137,7 @@ Gremio RS vs Santos	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-432
 ^#	^-
 
 	^-
+Pesta Babi .Full Movie	i0`00.reel/843619455466130/
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=fkBd7z2imgM
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
 Pesta Babi .Alur Cerita	https://www.youtube.com/watch?v=EF3JsA-Y1kI
