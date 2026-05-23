@@ -33,18 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23.05.2026	^-
 
-20:00 [g]Sweden Allsvenskan[z]	^-
-Kalmar vs Degerfors IF	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332109/kalmar-vs-degerfors-if.html
-Kalmar vs Degerfors IF	https://pull.livecdn.cc/live/4467069.m3u8
-Kalmar vs Degerfors IF	https://live.yultech.online/live/sd-6MvZ6EN2zo8uasscrq/index.m3u8
-Halmstads vs Orgryte	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332110/halmstads-vs-orgryte.html
-Halmstads vs Orgryte	https://pull.livecdn.cc/live/4467067.m3u8
-Halmstads vs Orgryte	https://live.yultech.online/live/sd-6MvZ6EN31KudmbST1P/index.m3u8
-
-20:00 Malaysian Cup	^-
-Johor Darul Takzim vs Kuching FA	`Fhttps://www.fctv33.ws/football/malaysian-cup-match-4402445/johor-darul-tazim-fc-vs-kuching-city-fc.html
-Johor Darul Takzim vs Kuching FA	https://live.yultech.online/live/sd-6Mwe5B3VY3CDX5YRCH/index.m3u8
-
 21:00 [g]Scottish Cup[z]	^-
 Celtic FC vs Dunfermline Athletic	`Fhttps://www.fctv33.ws/football/scottish-cup-match-4392983/celtic-fc-vs-dunfermline-athletic.html
 Celtic FC vs Dunfermline Athletic	`0https://v4.sportssonline.click/channels/hd/hd5.php
