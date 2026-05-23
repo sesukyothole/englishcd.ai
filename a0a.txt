@@ -33,16 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 24.05.2026	^-
 
-03:00 [g]Brazilian Serie A[z]	^-
-Sao Paulo vs Botafogo RJ	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323224/so-paulo---sp-vs-botafogo---rj.html
-Sao Paulo vs Botafogo RJ	`0https://v4.sportssonline.click/channels/bra/br5.php
-Sao Paulo vs Botafogo RJ	https://pull.livecdn.cc/live/4465729.m3u8
-Sao Paulo vs Botafogo RJ	https://live.yultech.online/live/sd-6MvZ6LyCtqJ7Vi1UBf/index.m3u8
-Vitoria BA vs Internacional RS	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323253/vitria---ba-vs-internacional---rs.html
-Vitoria BA vs Internacional RS	`0https://v4.sportssonline.click/channels/bra/br6.php
-Vitoria BA vs Internacional RS	https://pull.livecdn.cc/live/4465708.m3u8
-Vitoria BA vs Internacional RS	https://live.yultech.online/live/sd-6MvZ6LyCZU9ZkYrAoX/index.m3u8
-
 03:30 [g]US Major League Soccer[z]	^-
 Minnesota United vs Real Salt Lake	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317474/minnesota-united-fc-vs-real-salt-lake.html
 Minnesota United vs Real Salt Lake	https://pull.livecdn.cc/live/4460306.m3u8
