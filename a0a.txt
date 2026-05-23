@@ -4,6 +4,7 @@
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
+^=pr	i0`00.reel/843619455466130/
 ^=pb	https://www.facebook.com/reel/843619455466130/
 ^=Blank	
 ^=	^-
