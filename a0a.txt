@@ -44,10 +44,11 @@ Halmstads vs Orgryte	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4
 Halmstads vs Orgryte	https://pull.livecdn.cc/live/4467067.m3u8
 
 20:00 [g]Sweden Superettan[z]	^-
-Assyriska United IK vs IK Brage	`Fhttps://www.fctv33.ws/football/sweden-superettan-match-4332153/nordic-united-fc-vs-ik-brage.html
+Nordic United Assyriska vs IK Brage	`Fhttps://www.fctv33.ws/football/sweden-superettan-match-4332153/nordic-united-fc-vs-ik-brage.html
 
 20:00 Malaysian Cup	^-
 Johor Darul Takzim vs Kuching FA	`Fhttps://www.fctv33.ws/football/malaysian-cup-match-4402445/johor-darul-tazim-fc-vs-kuching-city-fc.html
+Johor Darul Takzim vs Kuching FA	https://live.yultech.online/live/sd-6Mwe5B3VY3CDX5YRCH/index.m3u8
 
 21:00 [g]Scottish Cup[z]	^-
 Celtic FC vs Dunfermline Athletic	`Fhttps://www.fctv33.ws/football/scottish-cup-match-4392983/celtic-fc-vs-dunfermline-athletic.html
