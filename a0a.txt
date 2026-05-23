@@ -33,18 +33,13 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23.05.2026	^-
 
-17:00 [g]Japanese J1 League[z]	^-
-Kyoto Sanga vs V-Varen Nagasaki	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331654/kyoto-sanga-vs-v-varen-nagasaki.html
-Kyoto Sanga vs V-Varen Nagasaki	https://pull.livecdn.cc/live/4470818.m3u8
-
 20:00 [g]Sweden Allsvenskan[z]	^-
 Kalmar vs Degerfors IF	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332109/kalmar-vs-degerfors-if.html
 Kalmar vs Degerfors IF	https://pull.livecdn.cc/live/4467069.m3u8
+Kalmar vs Degerfors IF	https://live.yultech.online/live/sd-6MvZ6EN2zo8uasscrq/index.m3u8
 Halmstads vs Orgryte	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332110/halmstads-vs-orgryte.html
 Halmstads vs Orgryte	https://pull.livecdn.cc/live/4467067.m3u8
-
-20:00 [g]Sweden Superettan[z]	^-
-Nordic United Assyriska vs IK Brage	`Fhttps://www.fctv33.ws/football/sweden-superettan-match-4332153/nordic-united-fc-vs-ik-brage.html
+Halmstads vs Orgryte	https://live.yultech.online/live/sd-6MvZ6EN31KudmbST1P/index.m3u8
 
 20:00 Malaysian Cup	^-
 Johor Darul Takzim vs Kuching FA	`Fhttps://www.fctv33.ws/football/malaysian-cup-match-4402445/johor-darul-tazim-fc-vs-kuching-city-fc.html
