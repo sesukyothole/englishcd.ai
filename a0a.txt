@@ -33,48 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 24.05.2026	^-
 
-05:00 [g]Brazilian Serie A[z]	^-
-Mirassol vs Fluminense RJ	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323245/mirassol---sp-vs-fluminense---rj.html
-Mirassol vs Fluminense RJ	`0https://v4.sportssonline.click/channels/bra/br3.php
-Mirassol vs Fluminense RJ	https://pull.livecdn.cc/live/4465768.m3u8
-Mirassol vs Fluminense RJ	https://live.yultech.online/live/sd-6MvZ6LyCE4oY8urxGV/index.m3u8
-Gremio RS vs Santos	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323257/grmio---rs-vs-santos-fc---sp.html
-Gremio RS vs Santos	`0https://v4.sportssonline.click/channels/bra/br4.php
-Gremio RS vs Santos	https://pull.livecdn.cc/live/4465727.m3u8
-Gremio RS vs Santos	https://live.yultech.online/live/sd-6MvZ6LyCuN4qgRaJLD/index.m3u8
-
-06:30 [g]US Major League Soccer[z]	^-
-FC Cincinnati vs Orlando City	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317392/fc-cincinnati-vs-orlando-city.html
-FC Cincinnati vs Orlando City	https://pull.livecdn.cc/live/4460302.m3u8
-DC United vs Montreal Impact	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317496/dc-united-vs-montreal-impact.html
-DC United vs Montreal Impact	https://pull.livecdn.cc/live/4460303.m3u8
-Charlotte vs New England Revolution	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317511/charlotte-fc-vs-new-england-revolution.html
-Charlotte vs New England Revolution	https://pull.livecdn.cc/live/4460301.m3u8
-
-07:00 [g]Brazilian Serie A[z]	^-
-Flamengo vs Palmeiras	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323254/flamengo---rj-vs-palmeiras---sp.html
-Flamengo vs Palmeiras	https://pull.livecdn.cc/live/4465740.m3u8
-
-07:30 [g]US Major League Soccer[z]	^-
-Chicago Fire vs Toronto FC	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317389/chicago-fire-vs-toronto-fc.html
-Chicago Fire vs Toronto FC	https://pull.livecdn.cc/live/4460304.m3u8
-Nashville vs New York City FC	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317470/nashville-vs-new-york-city-fc.html
-Nashville vs New York City FC	https://pull.livecdn.cc/live/4460307.m3u8
-Kansas City vs New York Red Bulls	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317773/sporting-kansas-city-vs-new-york-red-bulls.html
-Kansas City vs New York Red Bulls	https://pull.livecdn.cc/live/4460305.m3u8
-
-08:30 [g]US Major League Soccer[z]	^-
-San Diego vs Vancouver Whitecaps	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317465/san-diego-fc-vs-vancouver-whitecaps.html
-San Diego vs Vancouver Whitecaps	https://pull.livecdn.cc/live/4460309.m3u8
-Portland Timbers vs SJ Earthquakes	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317513/portland-timbers-vs-san-jose-earthquakes.html
-Portland Timbers vs SJ Earthquakes	https://pull.livecdn.cc/live/4460310.m3u8
-Colorado Rapids vs FC Dallas	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317654/colorado-rapids-vs-fc-dallas.html
-Colorado Rapids vs FC Dallas	https://pull.livecdn.cc/live/4460308.m3u8
-
-09:30 [g]US Major League Soccer[z]	^-
-Los Angeles Galaxy vs Houston Dynamo	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317469/los-angeles-galaxy-vs-houston-dynamo.html
-Los Angeles Galaxy vs Houston Dynamo	https://pull.livecdn.cc/live/4460311.m3u8
-
 10:55 [g]Japanese J1 League[z]	^-
 Fagiano Okayama vs Cerezo Osaka	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331709/fagiano-okayama-vs-cerezo-osaka.html
 Fagiano Okayama vs Cerezo Osaka	https://pull.livecdn.cc/live/4470817.m3u8
