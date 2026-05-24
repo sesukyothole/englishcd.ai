@@ -33,12 +33,9 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 24.05.2026	^-
 
-15:00 [g]Japanese J1 League[z]	^-
-Shimizu S-Pulse vs Gamba Osaka	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331682/shimizu-s-pulse-vs-gamba-osaka.html
-Shimizu S-Pulse vs Gamba Osaka	https://pull.livecdn.cc/live/4470820.m3u8
-
 17:15 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs FC Utrecht	`Fhttps://www.fctv33.ws/football/netherlands-eredivisie-match-4403857/afc-ajax-vs-fc-utrecht.html
+AFC Ajax vs FC Utrecht	https://live.yultech.online/live/sd-6Mwe5ZtfDLR7WDsDVF/index.m3u8
 
 19:00 [g]Sweden Allsvenskan[z]	^-
 IK Sirius FK vs GAIS	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332107/ik-sirius-fk-vs-gais.html
