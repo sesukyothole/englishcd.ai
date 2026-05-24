@@ -33,12 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 24.05.2026	^-
 
-12:00 [g]Japanese J1 League[z]	^-
-Mito Hollyhock vs Kawasaki Frontale	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331749/mito-hollyhock-vs-kawasaki-frontale.html
-Mito Hollyhock vs Kawasaki Frontale	https://pull.livecdn.cc/live/4470729.m3u8
-Tokyo Verdy vs Yokohama F Marinos	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331750/tokyo-verdy-vs-yokohama-f-marinos.html
-Tokyo Verdy vs Yokohama F Marinos	https://pull.livecdn.cc/live/4470730.m3u8
-
 15:00 [g]Japanese J1 League[z]	^-
 Shimizu S-Pulse vs Gamba Osaka	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4331682/shimizu-s-pulse-vs-gamba-osaka.html
 Shimizu S-Pulse vs Gamba Osaka	https://pull.livecdn.cc/live/4470820.m3u8
