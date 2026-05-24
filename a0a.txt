@@ -33,10 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 24.05.2026	^-
 
-20:00 [y]Italian Serie A[z]	^-
-Parma vs Sassuolo	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194614/parma-vs-sassuolo.html
-Parma vs Sassuolo	https://pull.livecdn.cc/live/4339654.m3u8
-
 21:30 [g]Sweden Allsvenskan[z]	^-
 Malmo FF vs Vasteras SK FK	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332106/malmo-ff-vs-vasteras-sk-fk.html
 Malmo FF vs Vasteras SK FK	https://pull.livecdn.cc/live/4467070.m3u8
@@ -69,6 +65,7 @@ Crystal Palace vs Arsenal	https://pull.livecdn.cc/live/4343148.m3u8
 
 23:00 [y]Italian Serie A[z]	^-
 Napoli vs Udinese	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194665/napoli-vs-udinese.html
+Napoli vs Udinese	https://pull.livecdn.cc/live/4339652.m3u8
 
 23:15 [g]Portuguese Cup[z]	^-
 Sporting CP vs SCU Torreense	`Fhttps://www.fctv33.ws/football/portuguese-cup-match-4393221/sporting-cp-vs-scu-torreense.html
@@ -76,7 +73,9 @@ Sporting CP vs SCU Torreense	`Fhttps://www.fctv33.ws/football/portuguese-cup-mat
 23:30 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Mechelen	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383170/sint-truidense-vs-kv-mechelen.html
 Club Brugge vs KAA Gent	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383173/club-brugge-vs-kaa-gent.html
+Club Brugge vs KAA Gent	https://pull.livecdn.cc/live/4521165.m3u8
 Saint Gilloise vs Anderlecht	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4383177/union-saint-gilloise-vs-anderlecht.html
+Saint Gilloise vs Anderlecht	https://pull.livecdn.cc/live/4521185.m3u8
 
 25.05.2026	^-
 
@@ -85,26 +84,36 @@ River Plate vs Belgrano	`Fhttps://www.fctv33.ws/football/argentine-division-1-ma
 
 01:45 [y]Italian Serie A[z]	^-
 Torino vs Juventus	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194613/torino-vs-juventus.html
+Torino vs Juventus	https://pull.livecdn.cc/live/4339656.m3u8
 Verona vs AS Roma	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194626/hellas-verona-vs-as-roma.html
+Verona vs AS Roma	https://pull.livecdn.cc/live/4339658.m3u8
 Cremonese vs Como	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194663/cremonese-vs-como.html
+Cremonese vs Como	https://pull.livecdn.cc/live/4339644.m3u8
 AC Milan vs Cagliari	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194664/ac-milan-vs-cagliari.html
+AC Milan vs Cagliari	https://pull.livecdn.cc/live/4339637.m3u8
 Lecce vs Genoa	`Fhttps://www.fctv33.ws/football/italian-serie-a-match-4194683/lecce-vs-genoa.html
+Lecce vs Genoa	https://pull.livecdn.cc/live/4339649.m3u8
 
 02:00 [y]Spanish La Liga[z]	^-
 Villarreal vs Atletico Madrid	`Fhttps://www.fctv33.ws/football/spanish-la-liga-match-4209816/villarreal-cf-vs-atletico-madrid.html
+Villarreal vs Atletico Madrid	https://pull.livecdn.cc/live/4358277.m3u8
 
 02:00 [g]Brazilian Serie A[z]	^-
 Remo Belem vs Athletico Paranaense	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323232/remo---pa-vs-athletico-paranaense---pr.html
+Remo Belem vs Athletico Paranaense	https://pull.livecdn.cc/live/4465706.m3u8
 Cruzeiro Esporte vs Chapecoense SC	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4324118/cruzeiro---mg-vs-chapecoense---sc.html
+Cruzeiro Esporte vs Chapecoense SC	https://pull.livecdn.cc/live/4465725.m3u8
 
 02:00 [g]CAF Champions League[z]	^-
 Armee Royales vs Mamelodi Sundowns	`Fhttps://www.fctv33.ws/football/caf-champions-league-match-4395623/as-far-rabat-vs-mamelodi-sundowns.html
 
 04:00 [g]US Major League Soccer[z]	^-
 Columbus Crew vs Atlanta United	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317489/columbus-crew-vs-atlanta-united.html
+Columbus Crew vs Atlanta United	https://pull.livecdn.cc/live/4460312.m3u8
 
 04:30 [g]Brazilian Serie A[z]	^-
 Corinthians Paulista vs Atl Mineiro	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323223/corinthians---sp-vs-atltico-mineiro---mg.html
+Corinthians Paulista vs Atl Mineiro	https://pull.livecdn.cc/live/4465776.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
