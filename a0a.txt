@@ -31,7 +31,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-25.05.2026^-
+25.05.2026	^-
+
+22:00 [g]Austrian Bundesliga[z]	^-
+Rapid Wien vs SV Ried	`Fhttps://www.fctv33.ws/football/austrian-bundesliga-match-4403265/rapid-wien-vs-sv-ried.html
 
 26.05.2026	^-
 
@@ -41,6 +44,9 @@ IFK Goteborg vs Mjallby AIF	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-
 
 00:30 [g]Romanian Super Liga[z]	^-
 Rapid Bucuresti vs Univ Craiova	`Fhttps://www.fctv33.ws/football/romanian-super-liga-match-4370952/fc-rapid-1923-vs-cs-universitatea-craiova.html
+
+06:00 [g]Brazilian Serie A[z]	^-
+Coritiba PR vs Bahia	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323300/coritiba-saf---pr-vs-bahia---ba.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
