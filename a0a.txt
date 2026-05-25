@@ -41,13 +41,18 @@ Rapid Wien vs SV Ried	https://live.yultech.online/live/sd-6Mwe5ZoVeH6kADzRsB/ind
 
 00:00 [g]Sweden Allsvenskan[z]	^-
 Elfsborg vs Hacken	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332105/elfsborg-vs-hacken.html
+Elfsborg vs Hacken	https://pull.livecdn.cc/live/4467066.m3u8
 IFK Goteborg vs Mjallby AIF	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332113/ifk-goteborg-vs-mjallby-aif.html
+IFK Goteborg vs Mjallby AIF	https://pull.livecdn.cc/live/4467065.m3u8
+OIS vs IF Elfsborg	https://pull.livecdn.cc/live/4469319.m3u8
 
 00:30 [g]Romanian Super Liga[z]	^-
 Rapid Bucuresti vs Univ Craiova	`Fhttps://www.fctv33.ws/football/romanian-super-liga-match-4370952/fc-rapid-1923-vs-cs-universitatea-craiova.html
+Rapid Bucuresti vs Univ Craiova	https://pull.livecdn.cc/live/4513226.m3u8
 
 06:00 [g]Brazilian Serie A[z]	^-
 Coritiba PR vs Bahia	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323300/coritiba-saf---pr-vs-bahia---ba.html
+Coritiba PR vs Bahia	https://pull.livecdn.cc/live/4465771.m3u8
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
