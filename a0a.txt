@@ -31,23 +31,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-25.05.2026	^-
-
-06:00 [g]US Major League Soccer[z]	^-
-Inter Miami vs Philadelphia Union	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317395/inter-miami-cf-vs-philadelphia-union.html
-Inter Miami vs Philadelphia Union	https://pull.livecdn.cc/live/4460313.m3u8
-
-06:30 [g]Brazilian Serie A[z]	^-
-Vasco da Gama vs Bragantino	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323228/vasco-da-gama-saf---rj-vs-red-bull-bragantino.html
-Vasco da Gama vs Bragantino	https://pull.livecdn.cc/live/4465770.m3u8
-
-08:00 [g]Mexico Liga MX[z]	^-
-Pumas UNAM vs CDSyC Cruz Azul	`Fhttps://www.fctv33.ws/football/mexico-liga-mx-match-4402736/pumas-unam-vs-cruz-azul.html
-Pumas UNAM vs CDSyC Cruz Azul	https://pull.livecdn.cc/live/4543791.m3u8
-
-08:15 [g]US Major League Soccer[z]	^-
-Los Angeles FC vs Seattle Sounders	`Fhttps://www.fctv33.ws/football/united-states-major-league-soccer-match-4317460/los-angeles-fc-vs-seattle-sounders.html
-Los Angeles FC vs Seattle Sounders	https://pull.livecdn.cc/live/4460314.m3u8
+25.05.2026^-
 
 26.05.2026	^-
 
