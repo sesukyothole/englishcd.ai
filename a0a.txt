@@ -29,13 +29,16 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 Live Sports Streaming	`0https://www.marza12.shop/football.html
 
-	^-
+	^-  live.yultech.online = streaming.cdnx-sportnobar.xyz
+^=	^-#/index.m3u8 = #.m3u8
 
 26.05.2026	^-
 
 22:00 [g]Finland Suomen Cup[z]	^-
 Vaasa VPS vs FC Haka	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403330/vaasa-vps-vs-fc-haka.html
+Vaasa VPS vs FC Haka	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpEy1unqkDfcq.m3u8
 IFK Mariehamn vs Lahti	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403541/ifk-mariehamn-vs-lahti.html
+IFK Mariehamn vs Lahti	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpEy47GiE3amj.m3u8
 
 22:30 [g]Finland Suomen Cup[z]	^-
 JaPS vs KuPs	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403331/japs-vs-kups.html
@@ -1951,5 +1954,8 @@ TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 ^=goals365	`Fhttps://www.goals365.live/
 ^=mut.st	`1https://mut.st/
 ^=Maxstream	`Fhttps://maxstream.tv/home
+
+^=1	https://live.yultech.online/live/sd-6Mwe5ZpEy1unqkDfcq/index.m3u8
+^=2	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpEy1unqkDfcq.m3u8
 
 	^-
