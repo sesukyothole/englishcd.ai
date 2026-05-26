@@ -31,26 +31,11 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-26.05.2026	^-
-
-22:00 [g]Finland Suomen Cup[z]	^-
-Vaasa VPS vs FC Haka	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403330/vaasa-vps-vs-fc-haka.html
-Vaasa VPS vs FC Haka	https://live.yultech.online/live/sd-6Mwe5ZpEy1unqkDfcq/index.m3u8
-IFK Mariehamn vs Lahti	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403541/ifk-mariehamn-vs-lahti.html
-IFK Mariehamn vs Lahti	https://live.yultech.online/live/sd-6Mwe5ZpEy47GiE3amj/index.m3u8
-
-22:30 [g]Finland Suomen Cup[z]	^-
-JaPS vs KuPs	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403331/japs-vs-kups.html
-JaPS vs KuPs	https://live.yultech.online/live/sd-6Mwe5ZpExZY2PzJfn5/index.m3u8
-
-23:00 [g]Finland Suomen Cup[z]	^-
-Honka Espoo vs Vantaa	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403526/honka-espoo-vs-vantaa.html
-Honka Espoo vs Vantaa	https://live.yultech.online/live/sd-6Mwe5ZpEoCeLRVFJtd/index.m3u8
-
 27.05.2026	^-
 
 01:30 [l]International Friendly[z]	^-
 Nigeria vs Zimbabwe	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401654/nigeria-vs-zimbabwe.html
+Nigeria vs Zimbabwe	https://live.yultech.online/live/sd-6Mwe5EKDRrkRf7qxG5/index.m3u8
 
 01:45 [g]French Ligue 2[z]	^-
 Saint Etienne vs Nice	`Fhttps://www.fctv33.ws/football/french-ligue-2-match-4402610/as-saint-tienne-vs-ogc-nice.html
