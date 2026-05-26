@@ -1,7 +1,6 @@
 	^-
 	^-
 ^=	^-
-^=Vaasa VPS vs FC Haka	https://live.yultech.online/live/sd-6Mwe5ZpEy1unqkDfcq/index.m3u8
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
@@ -36,17 +35,17 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 22:00 [g]Finland Suomen Cup[z]	^-
 Vaasa VPS vs FC Haka	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403330/vaasa-vps-vs-fc-haka.html
-Vaasa VPS vs FC Haka	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpEy1unqkDfcq.m3u8
+Vaasa VPS vs FC Haka	https://live.yultech.online/live/sd-6Mwe5ZpEy1unqkDfcq/index.m3u8
 IFK Mariehamn vs Lahti	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403541/ifk-mariehamn-vs-lahti.html
-IFK Mariehamn vs Lahti	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpEy47GiE3amj.m3u8
+IFK Mariehamn vs Lahti	https://live.yultech.online/live/sd-6Mwe5ZpEy47GiE3amj/index.m3u8
 
 22:30 [g]Finland Suomen Cup[z]	^-
 JaPS vs KuPs	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403331/japs-vs-kups.html
-JaPS vs KuPs	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpExZY2PzJfn5.m3u8
+JaPS vs KuPs	https://live.yultech.online/live/sd-6Mwe5ZpExZY2PzJfn5/index.m3u8
 
 23:00 [g]Finland Suomen Cup[z]	^-
 Honka Espoo vs Vantaa	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403526/honka-espoo-vs-vantaa.html
-Honka Espoo vs Vantaa	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpEoCeLRVFJtd.m3u8
+Honka Espoo vs Vantaa	https://live.yultech.online/live/sd-6Mwe5ZpEoCeLRVFJtd/index.m3u8
 
 27.05.2026	^-
 
@@ -1956,8 +1955,5 @@ TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 ^=goals365	`Fhttps://www.goals365.live/
 ^=mut.st	`1https://mut.st/
 ^=Maxstream	`Fhttps://maxstream.tv/home
-
-^=1	https://live.yultech.online/live/sd-6Mwe5ZpEy1unqkDfcq/index.m3u8
-^=2	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZpEy1unqkDfcq.m3u8
 
 	^-
