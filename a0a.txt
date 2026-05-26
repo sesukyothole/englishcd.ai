@@ -33,15 +33,42 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 26.05.2026	^-
 
-06:00 [g]Brazilian Serie A[z]	^-
-Coritiba PR vs Bahia	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323300/coritiba-saf---pr-vs-bahia---ba.html
-Coritiba PR vs Bahia	`0https://v4.sportssonline.click/channels/bra/br1.php
-Coritiba PR vs Bahia	https://pull.livecdn.cc/live/4465771.m3u8
+22:00 [g]Finland Suomen Cup[z]	^-
+Vaasa VPS vs FC Haka	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403330/vaasa-vps-vs-fc-haka.html
+IFK Mariehamn vs Lahti	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403541/ifk-mariehamn-vs-lahti.html
+
+22:30 [g]Finland Suomen Cup[z]	^-
+JaPS vs KuPs	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403331/japs-vs-kups.html
+
+23:00 [g]Finland Suomen Cup[z]	^-
+Honka Espoo vs Vantaa	`Fhttps://www.fctv33.ws/football/finland-suomen-cup-match-4403526/honka-espoo-vs-vantaa.html
 
 27.05.2026	^-
 
 01:30 [l]International Friendly[z]	^-
 Nigeria vs Zimbabwe	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401654/nigeria-vs-zimbabwe.html
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Lanus vs Mirassol	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375994/club-atltico-lans-vs-mirassol---sp.html
+Liga Dep Univ Quito vs Always Ready	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375989/liga-dep-universitaria-quito-vs-always-ready.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Gremio RS vs Torque	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4377140/grmio---rs-vs-montevideo-city-torque.html
+Palestino vs Deportivo Riestra	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4377147/palestino-vs-deportivo-riestra.html
+Sao Paulo vs Boston River	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4377526/so-paulo---sp-vs-boston-river.html
+Millonarios vs O.Higgins	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4377533/millonarios-vs-ohiggins.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Univ De Deportes vs Deportes Tolima	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375791/universitario-de-deportes-vs-deportes-tolima.html
+Nac Montevideo vs Coquimbo Unido	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375799/nacional-montevideo-vs-coquimbo-unido.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Flamengo vs Cusco FC	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4376131/flamengo---rj-vs-cusco-fc.html
+Estudiantes Plata vs Dep Medellin	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4376137/estudiantes-la-plata-vs-depindependiente-medellin.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Santos vs Deportivo Cuenca	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375877/santos-fc---sp-vs-deportivo-cuenca.html
+San Lorenzo vs Deportivo Recoleta	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375881/san-lorenzo-vs-deportivo-recoleta.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
