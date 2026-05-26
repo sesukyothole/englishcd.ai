@@ -1,6 +1,7 @@
 	^-
 	^-
 ^=	^-
+^=Vaasa VPS vs FC Haka	https://live.yultech.online/live/sd-6Mwe5ZpEy1unqkDfcq/index.m3u8
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
@@ -29,8 +30,7 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 Live Sports Streaming	`0https://www.marza12.shop/football.html
 
-	^-  live.yultech.online = streaming.cdnx-sportnobar.xyz
-^=	^-#/index.m3u8 = #.m3u8
+	^-
 
 26.05.2026	^-
 
