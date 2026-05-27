@@ -33,14 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 27.05.2026	^-
 
-16:30 [g]Australia FFA Cup[z]	^-
-Blacktown City vs Sydney Utd	https://live.yultech.online/live/sd-6Mwe5ZpynTiPkQqVoT/index.m3u8
-^=Blacktown City vs Sydney Utd	`Fhttps://www.fctv33.ws/football/australia-ffa-cup-match-4403404/blacktown-city-demons-vs-sydney-united-58-fc.html
-Fraser Park FC vs Sydney Olympic	https://live.yultech.online/live/sd-6Mwe5ZpynaJqMrKFG9/index.m3u8
-^=Fraser Park FC vs Sydney Olympic	`Fhttps://www.fctv33.ws/football/australia-ffa-cup-match-4403405/fraser-park-fc-vs-sydney-olympic.html
-Brunswick Juventus vs Oak Cannons	https://live.yultech.online/live/sd-6Mwe5ZpycgeRCdh4E9/index.m3u8
-Preston Lions vs Caroline Springs	https://live.yultech.online/live/sd-6Mwe5Zpyciqu57WyP3/index.m3u8
-
 16:45 [g]Australia FFA Cup[z]	^-
 APIA Leichhardt vs Rockdale City	https://live.yultech.online/live/sd-6Mwe5ZpynY7MVNVL7F/index.m3u8
 ^=APIA Leichhardt vs Rockdale City	`Fhttps://www.fctv33.ws/football/australia-ffa-cup-match-4403403/apia-leichhardt-tigers-vs-rockdale-city-suns.html
