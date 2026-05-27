@@ -69,14 +69,20 @@ Libertad vs Univ Central Venezuela	https://live.yultech.online/live/sd-6MwcqsvYy
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 River Plate vs Blooming	`0https://ww2.sporttsonline.click/channels/hd/hd5.php
+River Plate vs Blooming	https://live.yultech.online/live/sd-6MwcqsupfvHFhaDCQM/index.m3u8
 ^=River Plate vs Blooming	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375851/river-plate-vs-blooming.html
 RB Bragantino vs Carabobo	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
+RB Bragantino vs Carabobo	https://live.yultech.online/live/sd-6Mwcqsupg2shK1gws3/index.m3u8
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Corinthians Paulista vs CA Platense	`0https://ww2.sporttsonline.click/channels/pt/sporttv1.php
+Corinthians Paulista vs CA Platense	https://live.yultech.online/live/sd-6MwcqsvZVHgtsHBCHB/index.m3u8
 ^=Corinthians Paulista vs CA Platense	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4376059/corinthians---sp-vs-ca-platense.html
-Peñarol vs Santa Fe	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
+CA Peñarol vs Santa Fe	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
+CA Peñarol vs Santa Fe	https://live.yultech.online/live/sd-6MwcqsvZVQHLUiewjs/index.m3u8
 Fluminense vs Deportivo La Guaira	`0https://ww2.sporttsonline.click/channels/bra/br2.php
+Fluminense vs Deportivo La Guaira	https://live.yultech.online/live/sd-6MwcqsvZKKdWy6uAwP/index.m3u8
+Bolivar vs Indep Rivadavia	https://live.yultech.online/live/sd-6MwcqsvZKpCmHLe5w3/index.m3u8
 
 19:00 [l]International Friendly[z]	^-
 Egypt vs Russia	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
