@@ -36,6 +36,32 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 19:00 [g]Asean Club Championship[z]	^-
 Buriram United vs Selangor	`Fhttps://www.fctv33.ws/football/asean-club-championship-shopee-cup-match-4401755/buriram-united-vs-selangor-fc.html
 
+28.05.2026	^-
+
+01:00 [l]International Friendly[z]	^-
+Egypt vs Russia	
+
+01:30 [l]International Friendly[z]	^-
+Jamaica vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404069/jamaica-vs-india.html
+
+02:00 [y]UEFA Europa Conference League[z]	^-
+Crystal Palace vs Rayo Vallecano	`Fhttps://www.fctv33.ws/football/uefa-europa-conference-league-match-4396136/crystal-palace-vs-rayo-vallecano.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Cienciano vs CA Juventud	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375750/cienciano-vs-ca-juventud.html
+
+Vasco da Gama vs Barracas Central
+Caracas FC vs Botafogo RJ	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375948/caracas-fc-vs-botafogo---rj.html
+
+05:00 [g]CONMEBOL Copa Libertadores[z]	^-
+Indep Jose Teran vs Rosario Central	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375782/independiente-del-valle-vs-rosario-central.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+River Plate vs Blooming	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375851/river-plate-vs-blooming.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Corinthians Paulista vs CA Platense	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4376059/corinthians---sp-vs-ca-platense.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
