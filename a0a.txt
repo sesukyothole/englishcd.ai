@@ -40,22 +40,30 @@ Egypt vs Russia	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
 ^=Egypt vs Russia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400596/egypt-vs-russia.html
 
 01:45 [l]International Friendly[z]	^-
-Ireland vs Qatar	`Fhttps://www.fctv33.ws/football/international-friendly-match-4375995/ireland-vs-qatar.html
+Ireland vs Qatar	`0https://ww2.sporttsonline.click/channels/hd/hd2.php
+^=Ireland vs Qatar	`Fhttps://www.fctv33.ws/football/international-friendly-match-4375995/ireland-vs-qatar.html
 
 02:0 [g]Portuguese Primera Liga[z]	^-
-Casa Pia AC vs SCU Torreense	`Fhttps://www.fctv33.ws/football/portuguese-primera-liga-match-4402748/casa-pia-ac-vs-scu-torreense.html
+Casa Pia AC vs SCU Torreense	`0https://ww2.sporttsonline.click/channels/pt/sporttv1.php
+^=Casa Pia AC vs SCU Torreense	`Fhttps://www.fctv33.ws/football/portuguese-primera-liga-match-4402748/casa-pia-ac-vs-scu-torreense.html
 
 05:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Cerro Porteno vs Sporting Cristal	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375833/cerro-porteno-vs-sporting-cristal.html
-Palmeiras vs Atl Jr Barranquilla	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375839/palmeiras---sp-vs-atletico-junior-barranquilla.html
+Cerro Porteno vs Sporting Cristal	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
+^=Cerro Porteno vs Sporting Cristal	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375833/cerro-porteno-vs-sporting-cristal.html
+Palmeiras vs Atl Jr Barranquilla	`0https://ww2.sporttsonline.click/channels/hd/hd5.php
+^=Palmeiras vs Atl Jr Barranquilla	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375839/palmeiras---sp-vs-atletico-junior-barranquilla.html
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
-Atl Tigre vs Alianza Atl Sullana	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375740/club-atletico-tigre-vs-alianza-atletico-sullana.html
-America de Cali vs Macara	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375746/america-de-cali-vs-macara.html
+Atl Tigre vs Alianza Atlético	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
+^=Atl Tigre vs Alianza Atlético	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375740/club-atletico-tigre-vs-alianza-atletico-sullana.html
+America de Cali vs Macara	`0https://ww2.sporttsonline.click/channels/bra/br3.php
+^=America de Cali vs Macara	`Fhttps://www.fctv33.ws/football/conmebol-copa-sudamericana-match-4375746/america-de-cali-vs-macara.html
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
-Boca Juniors vs Univ Catolica	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375847/boca-juniors-vs-univ-catolica.html
-Cruzeiro Esporte vs Barcelona SC ECU	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375843/cruzeiro---mg-vs-barcelona-scecu.html
+Boca Juniors vs Univ Catolica	`0https://ww2.sporttsonline.click/channels/hd/hd5.php
+^=Boca Juniors vs Univ Catolica	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375847/boca-juniors-vs-univ-catolica.html
+Cruzeiro Esporte vs Barcelona ECU	`0https://ww2.sporttsonline.click/channels/pt/sporttv1.php
+^=Cruzeiro Esporte vs Barcelona ECU	`Fhttps://www.fctv33.ws/football/conmebol-copa-libertadores-match-4375843/cruzeiro---mg-vs-barcelona-scecu.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
