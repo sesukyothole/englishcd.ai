@@ -53,21 +53,6 @@ Bosnia-Herzegovina vs N Macedonia	`Fhttps://www.fctv33.ws/football/international
 ^#	^-
 
 	^-
-Pesta Babi .Full Movie	i0`00.reel/843619455466130/
-Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
-Pesta Babi .Alur Cerita	https://www.youtube.com/watch?v=EF3JsA-Y1kI
-Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-Movie Sphere	https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-Drama Hotpot	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-Drama Hebat	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
-Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-Lawak Sentral	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-Oh My Ceria!	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
-Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
-Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 AXN	https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
@@ -117,6 +102,22 @@ Sinpo TV	https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 Usee Prime	https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 Z Bioskop	https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 
+Pesta Babi .Full Movie	i0`00.reel/843619455466130/
+Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
+Pesta Babi .Alur Cerita	https://www.youtube.com/watch?v=EF3JsA-Y1kI
+
+Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+Movie Sphere	https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+Drama Hotpot	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+Drama Hebat	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+Filem Mantap	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+Lawak Sentral	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+Oh My Ceria!	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
+Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
