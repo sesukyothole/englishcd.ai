@@ -31,17 +31,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-29.05.2026	^-
-
-22:30 [l]International Friendly[z]	^-
-Iran vs Gambia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Hbh9fveP4ADVf.m3u8
-
-23:00 [l]International Friendly[z]	^-
-Andorra vs Iraq	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKDRw9PQ5VnZs.m3u8
-^=Andorra vs Iraq	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401652/andorra-vs-iraq.html
-South Africa vs Nicaragua	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKDRyLsGZKhim.m3u8
-^=South Africa vs Nicaragua	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401653/south-africa-vs-nicaragua.html
-
 30.05.2026	^-
 
 00:00 [g]Sweden Allsvenskan[z]	^-
