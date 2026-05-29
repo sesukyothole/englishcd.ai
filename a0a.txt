@@ -74,9 +74,6 @@ TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 AXN	https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 BBC Drama Series	https://stream1.freetv.fun/29d9cd989e3d57ab50d527e42b73589d525ce00b52c343244885a5b5c523d840.m3u8
 Drama Movies Rakuten TV UK	https://stream1.freetv.fun/a0b9690751be25a52de90082f3478abd8647bc8f6aa9893ed8a289875b7069c7.m3u8
-GEM Drama	https://stream1.freetv.fun/fc8d9f5e6854d54ccedd7de2f8ce0ea26e7017e500b96170d16a29a1222ef7d5.m3u8
-Jordan Drama	https://stream1.freetv.fun/f298398853edbc444f1f6788b2d71be1041a373d3496e7de10c97cc2c9a46693.m3u8
-Drama Channel	https://stream1.freetv.fun/0731342225b6bfd29c883a664caf406d6ac271095db7518c80648fe25059d3a2.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -89,6 +86,8 @@ Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 MDTV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Moji TV	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+RCTI	https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
+MNCTV	https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 MoonBug	https://moonbug-rokuus.amagi.tv/playlist.m3u8
 MotorVision	https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
@@ -100,6 +99,9 @@ Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+GEM Drama	https://stream1.freetv.fun/fc8d9f5e6854d54ccedd7de2f8ce0ea26e7017e500b96170d16a29a1222ef7d5.m3u8
+Jordan Drama	https://stream1.freetv.fun/f298398853edbc444f1f6788b2d71be1041a373d3496e7de10c97cc2c9a46693.m3u8
+Drama Channel	https://stream1.freetv.fun/0731342225b6bfd29c883a664caf406d6ac271095db7518c80648fe25059d3a2.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
