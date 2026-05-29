@@ -47,8 +47,28 @@ Bosnia-Herzegovina vs N Macedonia	`0https://ww2.sporttsonline.click/channels/hd/
 Bosnia-Herzegovina vs N Macedonia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKDS1YM939csf.m3u8
 ^=Bosnia-Herzegovina vs N Macedonia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401651/bosnia-and-herzegovina-vs-north-macedonia.html
 
+12:00 [g]Japanese J1 League[z]	^-
+Vissel Kobe vs Kashima Antlers	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404701/vissel-kobe-vs-kashima-antlers.html
+Nagoya Grampus vs Machida Zelvia	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404704/nagoya-grampus-vs-machida-zelvia.html
+Hiroshima San vs Kawasaki Frontale	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404705/sanfrecce-hiroshima-vs-kawasaki-frontale.html
+
+13:00 [g]Japanese J1 League[z]	^-
+Cerezo Osaka vs FC Tokyo	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404703/cerezo-osaka-vs-fc-tokyo.html
+
+14:00 [g]Japanese J1 League[z]	^-
+Avispa Fukuoka vs Ichihara Chiba	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404702/avispa-fukuoka-vs-jef-united-ichihara-chiba.html
+Gamba Osaka vs Tokyo Verdy	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404706/gamba-osaka-vs-tokyo-verdy.html
+
+15:00 [g]Japanese J1 League[z]	^-
+V-Varen Nagasaki vs Mito Hollyhock	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404710/v-varen-nagasaki-vs-mito-hollyhock.html
+
 19:00 [l]International Friendly[z]	^-
 Scotland vs Curacao	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400593/scotland-vs-curacao.html
+
+20:00 [g]Sweden Allsvenskan[z]	^-
+GAIS vs Kalmar	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332108/gais-vs-kalmar.html
+Malmo FF vs Halmstads	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332115/malmo-ff-vs-halmstads.html
+AIK Solna vs IK Sirius FK	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332118/aik-vs-ik-sirius-fk.html
 
 20:30 [l]International Friendly[z]	^-
 Zimbabwe vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406125/zimbabwe-vs-india.html
