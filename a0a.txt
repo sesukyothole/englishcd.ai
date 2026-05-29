@@ -68,7 +68,7 @@ Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazona
 Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-Indosiar	http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8?zxx
+Indosiar	http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8?7
 SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 AXN	https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
@@ -104,7 +104,7 @@ TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 GEM Drama	https://stream1.freetv.fun/fc8d9f5e6854d54ccedd7de2f8ce0ea26e7017e500b96170d16a29a1222ef7d5.m3u8
 Jordan Drama	https://stream1.freetv.fun/f298398853edbc444f1f6788b2d71be1041a373d3496e7de10c97cc2c9a46693.m3u8
-Drama Channel	https://stream1.freetv.fun/0731342225b6bfd29c883a664caf406d6ac271095db7518c80648fe25059d3a2.m3u8
+Drama Channel	https://stream1.freetv.fun/0731342225b6bfd29c883a664caf406d6ac271095db7518c80648fe25059d3a2.m3u8?7
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
