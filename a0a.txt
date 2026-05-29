@@ -61,6 +61,12 @@ Bosnia-Herzegovina vs N Macedonia	https://streaming.cdnx-sportnobar.xyz/live/sd-
 19:00 [l]International Friendly[z]	^-
 Scotland vs Curacao	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400593/scotland-vs-curacao.html
 
+20:30 [l]International Friendly[z]	^-
+Zimbabwe vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406125/zimbabwe-vs-india.html
+
+23:00 [y]UEFA Champions League[z]	^-
+Paris Saint Germain vs Arsenal	`Fhttps://www.fctv33.ws/football/uefa-champions-league-match-4395348/paris-saint-germain-vs-arsenal.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
