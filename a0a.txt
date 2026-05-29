@@ -68,7 +68,7 @@ Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazona
 Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-Indosiar	http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+Indosiar	http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8?zxx
 SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 AXN	https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
@@ -86,8 +86,11 @@ Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 MDTV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Moji TV	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+GTV	https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd
+MNC TV	https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 RCTI	https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
-MNCTV	https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+iNews	https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
+Rajawali TV	https://indihuy.streamized.net/atm/DASH/RAJAWALI_TV/manifest.mpd
 MoonBug	https://moonbug-rokuus.amagi.tv/playlist.m3u8
 MotorVision	https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
