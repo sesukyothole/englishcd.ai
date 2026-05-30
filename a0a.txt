@@ -58,15 +58,21 @@ Manila Digger FC vs One Taguig	https://stream.yultech.online/hls/live/sd-6MwdLb2
 
 21:00 [g]Finnish Super League[z]	^-
 Kups vs Inter Turku	https://pull.livecdn.cc/live/4468106.m3u8
+Kups vs Inter Turku	https://stream.yultech.online/hls/live/sd-6MvZ6dBkPLuSPxUT5F/index.m3u8
 Gonigsande vs Sannajorn	https://pull.livecdn.cc/live/4468105.m3u8
+Gonigsande vs Sannajorn	https://stream.yultech.online/hls/live/sd-6MvZ6dBkPEJznWzhcZ/index.m3u8
 Lahti vs Ilves	https://pull.livecdn.cc/live/4468108.m3u8
+Lahti vs Ilves	https://stream.yultech.online/hls/live/sd-6MvZ6dBkNp8iDEucvh/index.m3u8
 TPS Turku vs Vaasa	https://pull.livecdn.cc/live/4468107.m3u8
+TPS Turku vs Vaasa	https://stream.yultech.online/hls/live/sd-6MvZ6dBkPJhxXUeXvM/index.m3u8
 
 20:30 [l]International Friendly[z]	^-
 Zimbabwe vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406125/zimbabwe-vs-india.html
+Zimbabwe vs India	https://stream.yultech.online/hls/live/sd-6Mwe5Q2Va7pF8k5EDB/index.m3u8
 
 23:00 [y]UEFA Champions League[z]	^-
 Paris Saint Germain vs Arsenal	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
+Paris Saint Germain vs Arsenal	https://stream.yultech.online/hls/live/sd-6MwdL933iPPFSEEqM7/index.m3u8
 ^=Paris Saint Germain vs Arsenal	`Fhttps://www.fctv33.ws/football/uefa-champions-league-match-4395348/paris-saint-germain-vs-arsenal.html
 
 31.05.2026	^-
