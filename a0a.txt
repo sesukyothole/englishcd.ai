@@ -34,12 +34,16 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 30.05.2026	^-
 
 12:00 [g]Japanese J1 League[z]	^-
-Vissel Kobe vs Kashima Antlers	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404701/vissel-kobe-vs-kashima-antlers.html
-Nagoya Grampus vs Machida Zelvia	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404704/nagoya-grampus-vs-machida-zelvia.html
-Hiroshima San vs Kawasaki Frontale	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404705/sanfrecce-hiroshima-vs-kawasaki-frontale.html
+Vissel Kobe vs Kashima Antlers	https://pull.livecdn.cc/live/4545818.m3u8
+^=Vissel Kobe vs Kashima Antlers	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404701/vissel-kobe-vs-kashima-antlers.html
+Nagoya Grampus vs Machida Zelvia	https://pull.livecdn.cc/live/4545830.m3u8
+^=Nagoya Grampus vs Machida Zelvia	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404704/nagoya-grampus-vs-machida-zelvia.html
+Hiroshima San vs Kawasaki Frontale	https://pull.livecdn.cc/live/4545831.m3u8
+^=Hiroshima San vs Kawasaki Frontale	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404705/sanfrecce-hiroshima-vs-kawasaki-frontale.html
 
 13:00 [g]Japanese J1 League[z]	^-
-Cerezo Osaka vs FC Tokyo	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404703/cerezo-osaka-vs-fc-tokyo.html
+Cerezo Osaka vs FC Tokyo	https://pull.livecdn.cc/live/4545829.m3u8
+^=Cerezo Osaka vs FC Tokyo	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404703/cerezo-osaka-vs-fc-tokyo.html
 
 14:00 [g]Japanese J1 League[z]	^-
 Avispa Fukuoka vs Ichihara Chiba	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404702/avispa-fukuoka-vs-jef-united-ichihara-chiba.html
