@@ -35,10 +35,12 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 17:00 [g]Japanese J1 League[z]	^-
 Kyoto Sanga vs Kashiwa Reysol	https://pull.livecdn.cc/live/4545835.m3u8
+Kyoto Sanga vs Kashiwa Reysol	https://stream.yultech.online/hls/live/sd-6Mwe5WdgJYk5UECNQu/index.m3u8
 ^=Kyoto Sanga vs Kashiwa Reysol	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404709/kyoto-sanga-vs-kashiwa-reysol.html
 
 19:00 [l]International Friendly[z]	^-
 Scotland vs Curaçao	https://ww2.sporttsonline.click/channels/hd/hd9.php
+Scotland vs Curaçao	https://stream.yultech.online/hls/live/sd-6Mwe5HbhV5Gfzh9S2h/index.m3u8
 ^=Scotland vs Curaçao	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400593/scotland-vs-curacao.html
 
 19:00 [g]Finnish Super League[z]	^-
