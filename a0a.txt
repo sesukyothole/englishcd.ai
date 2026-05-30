@@ -33,16 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 30.05.2026	^-
 
-13:00 [g]Japanese J1 League[z]	^-
-Cerezo Osaka vs FC Tokyo	https://pull.livecdn.cc/live/4545829.m3u8
-^=Cerezo Osaka vs FC Tokyo	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404703/cerezo-osaka-vs-fc-tokyo.html
-
-14:00 [g]Japanese J1 League[z]	^-
-Avispa Fukuoka vs Ichihara Chiba	https://pull.livecdn.cc/live/4545819.m3u8
-^=Avispa Fukuoka vs Ichihara Chiba	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404702/avispa-fukuoka-vs-jef-united-ichihara-chiba.html
-Gamba Osaka vs Tokyo Verdy	https://pull.livecdn.cc/live/4545832.m3u8
-^=Gamba Osaka vs Tokyo Verdy	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404706/gamba-osaka-vs-tokyo-verdy.html
-
 15:00 [g]Japanese J1 League[z]	^-
 V-Varen Nagasaki vs Mito Hollyhock	https://pull.livecdn.cc/live/4545836.m3u8
 ^=V-Varen Nagasaki vs Mito Hollyhock	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404710/v-varen-nagasaki-vs-mito-hollyhock.html
