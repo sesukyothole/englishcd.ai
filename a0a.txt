@@ -43,7 +43,7 @@ Lahti vs Ilves	https://stream.yultech.online/hls/live/sd-6MvZ6dBkNp8iDEucvh/inde
 TPS Turku vs Vaasa	https://pull.livecdn.cc/live/4468107.m3u8
 TPS Turku vs Vaasa	https://stream.yultech.online/hls/live/sd-6MvZ6dBkPJhxXUeXvM/index.m3u8
 
-23:00 [y]UEFA Champions League[z]	^-
+23:00 [y]UEFA Champions League FINAL[z]	^-
 Paris Saint Germain vs Arsenal	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Paris Saint Germain vs Arsenal	https://pull.livecdn.cc/live/4531815.m3u8
 Paris Saint Germain vs Arsenal	https://stream.yultech.online/hls/live/sd-6MwdL933iPPFSEEqM7/index.m3u8
