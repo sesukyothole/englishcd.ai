@@ -59,56 +59,56 @@ TPS Turku vs Vaasa	https://pull.livecdn.cc/live/4468107.m3u8
 Zimbabwe vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406125/zimbabwe-vs-india.html
 
 23:00 [y]UEFA Champions League[z]	^-
-Paris Saint Germain vs Arsenal	https://ww2.sporttsonline.click/channels/hd/hd1.php
+Paris Saint Germain vs Arsenal	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 ^=Paris Saint Germain vs Arsenal	`Fhttps://www.fctv33.ws/football/uefa-champions-league-match-4395348/paris-saint-germain-vs-arsenal.html
 
 31.05.2026	^-
 
 01:30 [g]Copa Argentina[z]	^-
-Gimnasia Jujuy vs Belgrano	https://ww2.sporttsonline.click/channels/hd/hd8.php
+Gimnasia Jujuy vs Belgrano	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
 ^=Gimnasia Jujuy vs Belgrano	`Fhttps://www.fctv33.ws/football/copa-argentina-match-4390100/gimnasia-jujuy-vs-belgrano.html
 
 01:30 [l]International Friendly[z]	^-
 Nigeria vs Jamaica	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406252/nigeria-vs-jamaica.html
 
 02:00 [g]Brazilian Serie A[z]	^-
-Athletico Paranaense vs Mirassol	https://ww2.sporttsonline.click/channels/bra/br4.php
+Athletico Paranaense vs Mirassol	`0https://ww2.sporttsonline.click/channels/bra/br4.php
 ^=Athletico Paranaense vs Mirassol	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323244/athletico-paranaense---pr-vs-mirassol---sp.html
-Flamengo vs Coritiba PR	https://ww2.sporttsonline.click/channels/bra/br1.php
+Flamengo vs Coritiba PR	`0https://ww2.sporttsonline.click/channels/bra/br1.php
 ^=Flamengo vs Coritiba PR	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323255/flamengo---rj-vs-coritiba-saf---pr.html
 
 02:00 [g]Canadian Premier League[z]	^-
-HFX Wanderers FC vs Vancouver FC	https://ww2.sporttsonline.click/channels/hd/hd11.php
+HFX Wanderers FC vs Vancouver FC	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
 ^=HFX Wanderers FC vs Vancouver FC	`Fhttps://www.fctv33.ws/football/canadian-premier-league-match-4352795/hfx-wanderers-fc-vs-vancouver-fc.html
 
 03:30 [g]Brazilian Serie A[z]	^-
-Bahia vs Botafogo RJ	https://ww2.sporttsonline.click/channels/bra/br5.php
+Bahia vs Botafogo RJ	`0https://ww2.sporttsonline.click/channels/bra/br5.php
 ^=Bahia vs Botafogo RJ	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323241/bahia---ba-vs-botafogo---rj.html
-Grêmio RS vs Corinthians Paulista	https://ww2.sporttsonline.click/channels/bra/br2.php
+Grêmio RS vs Corinthians `0Paulista	https://ww2.sporttsonline.click/channels/bra/br2.php
 ^=Grêmio RS vs Corinthians Paulista	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323242/grmio---rs-vs-corinthians---sp.html
 
 04:00 [g]Copa Argentina[z]	^-
-Instituto vs Lanus	https://ww2.sporttsonline.click/channels/hd/hd8.php
+Instituto vs Lanus	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
 ^=Instituto vs Lanus	`Fhttps://www.fctv33.ws/football/copa-argentina-match-4390107/instituto-de-crdoba-vs-club-atltico-lans.html
 
 06:00 [g]Brazilian Serie A[z]	^-
-Santos vs Vitoria BA	https://ww2.sporttsonline.click/channels/bra/br1.php
+Santos vs Vitoria BA	`0https://ww2.sporttsonline.click/channels/bra/br1.php
 ^=Santos vs Vitoria BA	`Fhttps://www.fctv33.ws/football/brazilian-serie-a-match-4323299/santos-fc---sp-vs-vitria---ba.html
 
 06:30 [l]International Friendly[z]	^-
-Ecuador vs Saudi Arabia	https://ww2.sporttsonline.click/channels/hd/hd6.php
+Ecuador vs Saudi Arabia	`0https://ww2.sporttsonline.click/channels/hd/hd6.php
 ^=Ecuador vs Saudi Arabia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400592/ecuador-vs-saudi-arabia.html
 
 07:05 [g]CONCACAF Champions Cup[z]	^-
-Toluca vs Tigres UANL	https://ww2.sporttsonline.click/channels/hd/hd11.php
+Toluca vs Tigres UANL	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
 ^=Toluca vs Tigres UANL	`Fhttps://www.fctv33.ws/football/concacaf-champions-cup-match-4399352/toluca-vs-tigres-uanl.html
 
 08:00 [l]International Friendly[z]	^-
-South Korea vs Trinidad Tobago	https://ww2.sporttsonline.click/channels/hd/hd8.php
+South Korea vs Trinidad Tobago	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
 ^=South Korea vs Trinidad Tobago	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400918/south-korea-vs-trinidad-and-tobago.html
 
 09:00 [l]International Friendly[z]	^-
-Mexico vs Australia	https://ww2.sporttsonline.click/channels/hd/hd6.php
+Mexico vs Australia	`0https://ww2.sporttsonline.click/channels/hd/hd6.php
 ^=Mexico vs Australia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370241/mexico-vs-australia.html
 
 12:00 [g]Japanese J1 League[z]	^-
