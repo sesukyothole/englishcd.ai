@@ -55,6 +55,10 @@ Gamba Osaka vs Tokyo Verdy	https://pull.livecdn.cc/live/4545832.m3u8
 V-Varen Nagasaki vs Mito Hollyhock	https://pull.livecdn.cc/live/4545836.m3u8
 ^=V-Varen Nagasaki vs Mito Hollyhock	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404710/v-varen-nagasaki-vs-mito-hollyhock.html
 
+17:00 [g]Japanese J1 League[z]	^-
+Kyoto Sanga vs Kashiwa Reysol	https://pull.livecdn.cc/live/4545835.m3u8
+^=Kyoto Sanga vs Kashiwa Reysol	`Fhttps://www.fctv33.ws/football/japanese-j1-league-match-4404709/kyoto-sanga-vs-kashiwa-reysol.html
+
 19:00 [l]International Friendly[z]	^-
 Scotland vs Curacao	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400593/scotland-vs-curacao.html
 
