@@ -33,10 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 30.05.2026	^-
 
-20:30 [l]International Friendly[z]	^-
-Zimbabwe vs India	https://stream.yultech.online/hls/live/sd-6Mwe5Q2Va7pF8k5EDB/index.m3u8
-^=Zimbabwe vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406125/zimbabwe-vs-india.html
-
 21:00 [g]Finnish Super League[z]	^-
 Kups vs Inter Turku	https://pull.livecdn.cc/live/4468106.m3u8
 Kups vs Inter Turku	https://stream.yultech.online/hls/live/sd-6MvZ6dBkPLuSPxUT5F/index.m3u8
