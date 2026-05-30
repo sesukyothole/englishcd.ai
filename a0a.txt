@@ -42,12 +42,19 @@ Scotland vs Curaçao	https://stream.yultech.online/hls/live/sd-6Mwe5HbhV5Gfzh9S2
 Helsinki vs Mariehamn	https://pull.livecdn.cc/live/4468104.m3u8
 
 20:00 [g]Sweden Allsvenskan[z]	^-
-^=GAIS vs Kalmar	https://pull.livecdn.cc/live/4467074.m3u8
-GAIS vs Kalmar	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332108/gais-vs-kalmar.html
+GAIS vs Kalmar	https://pull.livecdn.cc/live/4467074.m3u8
+GAIS vs Kalmar	https://stream.yultech.online/hls/live/sd-6MvZ6EN2qb396J7vay/index.m3u8
+^=GAIS vs Kalmar	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332108/gais-vs-kalmar.html
 Malmo FF vs Halmstads	https://pull.livecdn.cc/live/4467076.m3u8
+Malmo FF vs Halmstads	https://stream.yultech.online/hls/live/sd-6MvZ6EN2qfS6qFmktm/index.m3u8
 ^=Malmo FF vs Halmstads	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332115/malmo-ff-vs-halmstads.html
 AIK Solna vs IK Sirius FK	https://pull.livecdn.cc/live/4467072.m3u8
+AIK Solna vs IK Sirius FK	https://stream.yultech.online/hls/live/sd-6MvZ6EN2qWeBMLU6HB/index.m3u8
 ^=AIK Solna vs IK Sirius FK	`Fhttps://www.fctv33.ws/football/sweden-allsvenskan-match-4332118/aik-vs-ik-sirius-fk.html
+
+20:00 [g]Philippines United Football League[z]	^-
+Manila Digger FC vs One Taguig	https://stream.yultech.online/hls/live/sd-6MwdLb2ZbnAaCQuX9F/index.m3u8
+^=Manila Digger FC vs One Taguig	`Fhttps://www.fctv33.ws/football/philippines-united-football-league-match-4398023/manila-digger-fc-vs-one-taguig.html
 
 21:00 [g]Finnish Super League[z]	^-
 Kups vs Inter Turku	https://pull.livecdn.cc/live/4468106.m3u8
