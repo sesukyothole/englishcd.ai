@@ -56,7 +56,9 @@ Poland vs Ukraine	https://stream.yultech.online/hls/live/sd-6Mwe5HbhUvUkWmqmR7/i
 ^=Poland vs Ukraine	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400589/poland-vs-ukraine.html
 
 23:30 [g]Belgian Pro League[z]	^-
-KAA Gent vs Racing Genk	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4405993/kaa-gent-vs-racing-genk.html
+KAA Gent vs Racing Genk	https://pull.livecdn.cc/live/4546899.m3u8
+KAA Gent vs Racing Genk	https://stream.yultech.online/hls/live/sd-6Mwe5TNesnc4tCDQV3/index.m3u8
+^=KAA Gent vs Racing Genk	`Fhttps://www.fctv33.ws/football/belgian-pro-league-match-4405993/kaa-gent-vs-racing-genk.html
 
 01.06.2026	^-
 
