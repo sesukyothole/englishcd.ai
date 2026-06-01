@@ -54,6 +54,12 @@ Turkey vs North Macedonia	`Fhttps://www.fctv33.ws/football/international-friendl
 01:45 [l]International Friendly[z]	^-
 Austria vs Tunisia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400586/austria-vs-tunisia.html
 
+06:00 [l]International Friendly[z]	^-
+Colombia vs Costa Rica	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400594/colombia-vs-costa-rica.html
+
+08:00 [l]International Friendly[z]	^-
+Canada vs Uzbekistan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370237/canada-vs-uzbekistan.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
