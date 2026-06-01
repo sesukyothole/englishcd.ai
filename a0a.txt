@@ -44,6 +44,8 @@ Japan U19 vs Ivory Coast U23	https://stream.yultech.online/hls/live/sd-6Mwdadekj
 
 20:00 [l]AFF U19 Youth Championship[z]	^-
 Indonesia vs Myanmar	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
+Indosiar	https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
 ^=Indonesia vs Myanmar	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405398/indonesia-u19-vs-myanmar-u19.html
 
 23:00 [l]International Friendly[z]	^-
