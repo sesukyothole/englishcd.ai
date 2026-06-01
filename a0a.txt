@@ -33,25 +33,15 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 01.06.2026	^-
 
-20:00 [l]Toulon Maurice Revello[z]	^-
-Japan U19 vs Ivory Coast U23	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
-Japan U19 vs Ivory Coast U23	https://stream.yultech.online/hls/live/sd-6Mwdadekj9dN9ZGfL9/index.m3u8
-^=Japan U19 vs Ivory Coast U23	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4405397/japan-u19-vs-cote-divoire-u23-06-2026.html
-
-20:00 [l]AFF U19 Youth Championship[z]	^-
-Indonesia vs Myanmar	https://stream.yultech.online/hls/live/sd-6Mwe5TJFoNoqsT27VF/index.m3u8
-Indonesia vs Myanmar	https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-Indonesia vs Myanmar	https://live05.msdht.app/live/19919577.m3u8
-Indonesia vs Myanmar	https://pullsgp.yyzb456.top/live/stream-516701_lsd.m3u8?auth_key=1780322566-0-0-e29c543fea6c6735a94bbc1da7ec987a
-Indonesia vs Myanmar	`0https://www.marza12.shop/football/2990850-indonesia-u19-vs-myanmar-u19.html
-^=Indonesia vs Myanmar	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405398/indonesia-u19-vs-myanmar-u19.html
-
 23:00 [l]International Friendly[z]	^-
 Slovakia vs Malta	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
+Slovakia vs Malta	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Ztg3mPDoMgRX3.m3u8
 ^=Slovakia vs Malta	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404067/slovakia-vs-malta.html
 Bulgaria vs Montenegro	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
+Bulgaria vs Montenegro	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Ztg3jBjvsrWN9.m3u8
 ^=Bulgaria vs Montenegro	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404066/bulgaria-vs-montenegro-06-2026.html
-Maldives vs Afghanistan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406451/maldives-vs-afghanistan.html
+Maldives vs Afghanistan	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Q3zD6s6BYnniq.m3u8
+^=Maldives vs Afghanistan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406451/maldives-vs-afghanistan.html
 
 02.06.2026	^-
 
