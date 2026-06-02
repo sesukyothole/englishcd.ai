@@ -33,16 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 03.06.2026	^-
 
-00:00 [l]International Friendly[z]	^-
-Georgia vs Romania	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
-Georgia vs Romania	https://live.666666.zip/live/4544836.m3u8
-Georgia vs Romania	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Ztg3xNd9kp1HX.m3u8
-^=Georgia vs Romania	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404065/georgia-vs-romania.html
-Morocco vs Madagascar	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
-Morocco vs Madagascar	https://live.666666.zip/live/4542655.m3u8
-Morocco vs Madagascar	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKCvq8Lyd1xmK.m3u8
-^=Morocco vs Madagascar	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401650/morocco-vs-madagascar.html
-
 01:45 [l]International Friendly[z]	^-
 Wales vs Ghana	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Wales vs Ghana	https://live.666666.zip/live/4542668.m3u8
@@ -74,6 +64,14 @@ Philippines vs Australia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-champion
 
 00:00 [l]International Friendly[z]	^-
 Gibraltar vs British Virgin Islands	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404062/gibraltar-vs-british-virgin-islands.html
+
+01:00 [l]International Friendly[z]	^-
+Denmark vs Democratic Rep Congo	`F
+
+01:45 [l]International Friendly[z]	^-
+Netherlands vs Algeria	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370235/netherlands-vs-algeria.html
+Poland vs Nigeria	`Fhttps://www.fctv33.ws/football/international-friendly-match-4386389/poland-vs-nigeria.html
+Luxembourg vs Italy	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400584/luxembourg-vs-italy.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
