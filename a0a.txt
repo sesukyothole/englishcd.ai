@@ -33,14 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02.06.2026	^-
 
-19:15 [l]ASEAN Championship[z]	^-
-Brunei Darussalam vs Timor Leste	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TLTmDNJ6fcSgu.m3u8
-^=Brunei Darussalam vs Timor Leste	`Fhttps://www.fctv33.ws/football/asean-championship-match-4405659/brunei-darussalam-vs-timor-leste.html
-
-20:00 [l]AFF U19 Youth Championship[z]	^-
-Malaysia vs Singapore	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJFe8WbWPSW4V.m3u8
-^=Malaysia vs Singapore	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405661/malaysia-u19-vs-singapore-u19.html
-
 23:00 [l]International Friendly[z]	^-
 Croatia vs Belgium	`0https://ww2.sporttsonline.click/channels/hd/hd5.php
 Croatia vs Belgium	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMKLbfmR8USPX.m3u8
@@ -50,12 +42,15 @@ Croatia vs Belgium	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqKMKLbfmR8U
 
 00:00 [l]International Friendly[z]	^-
 Georgia vs Romania	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
+Georgia vs Romania	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Ztg3xNd9kp1HX.m3u8
 ^=Georgia vs Romania	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404065/georgia-vs-romania.html
 Morocco vs Madagascar	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
+Morocco vs Madagascar	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKCvq8Lyd1xmK.m3u8
 ^=Morocco vs Madagascar	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401650/morocco-vs-madagascar.html
 
 01:45 [l]International Friendly[z]	^-
 Wales vs Ghana	`https://ww2.sporttsonline.click/channels/hd/hd1.php
+Wales vs Ghana	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKDRWy6poQht1.m3u8
 ^=Wales vs Ghana	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401649/wales-vs-ghana.html
 
 07:00 [l]International Friendly[z]	^-
