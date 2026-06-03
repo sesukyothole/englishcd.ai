@@ -31,16 +31,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 	^-
 
-03.06.2026	^-
-
-22:00 [l]International Friendly (w)[z]	^-
-Jordan vs Malaysia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Q3yCdSeFH3j3T.m3u8
-^=Jordan vs Malaysia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406507/jordan-women-vs-malaysia-women.html
-
-22:30 [l]International Friendly[z]	^-
-Croatia U21 vs Qatar U23	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Q3y3C9zXpLXrD.m3u8
-^=Croatia U21 vs Qatar U23	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406431/croatia-u21-vs-qatar-u23.html
-
 04.06.2026	^-
 
 00:00 [l]International Friendly[z]	^-
@@ -87,6 +77,12 @@ Myanmar vs Vietnam	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-m
 
 20:00 [l]AFF U19 Youth Championship[z]	^-
 Timor Leste vs Indonesia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405400/timor-leste-u19-vs-indonesia-u19.html
+
+20:00 [l]International Friendly[z]	^-
+Lesotho vs Kenya	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407043/lesotho-vs-kenya.html
+
+22:00 [l]International Friendly U21[z]	^-
+Sweden vs Finland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407041/sweden-u21-vs-finland-u21.html
 
 23:00 [l]International Friendly[z]	^-
 Slovenia vs Cyprus	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404060/slovenia-vs-cyprus.html
