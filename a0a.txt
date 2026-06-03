@@ -33,25 +33,25 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 03.06.2026	^-
 
-16:00 [l]UEFA European U19 Championship[z]	^-
-Portugal vs Kazakhstan U19	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwcqpgJ4e2CFEneUV.m3u8
-^=Portugal vs Kazakhstan U19	`Fhttps://www.fctv33.ws/football/uefa-european-u19-football-championship-match-4377769/portugal-u19-vs-kazakhstan-u19.html
-
 17:00 [l]International Friendly U18[z]	^-
 Croatia vs Norway	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Q3z3Yyzrebr4u.m3u8
 ^=Croatia vs Norway	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406514/croatia-u18-vs-norway-u18.html
 
 18:30 [l]International Friendly[z]	^-
-Philippines vs Guam Island	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404064/philippines-vs-guam-island.html
+Philippines vs Guam Island	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Ztg3PQR6ZRFz5.m3u8
+^=Philippines vs Guam Island	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404064/philippines-vs-guam-island.html
 
 19:00 [l]International Friendly (w)[z]	^-
-Indonesia vs Singapore	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406512/indonesia-women-vs-singapore-women.html
+Indonesia vs Singapore	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Q3z38oiHNWmP3.m3u8
+^=Indonesia vs Singapore	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406512/indonesia-women-vs-singapore-women.html
 
 20:00 [l]Toulon Maurice Revello[z]	^-
-Japan U19 vs Portugal U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4405947/japan-u19-vs-portugal-u20.html
+Japan U19 vs Portugal U20	https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdadekjE2KtWvVdw.m3u8
+^=Japan U19 vs Portugal U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4405947/japan-u19-vs-portugal-u20.html
 
 20:00 [l]AFF U19 Youth Championship[z]	^-
-Philippines vs Australia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405948/philippines-u19-vs-australia-u19.html
+Philippines vs Australia	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJEoWZ5rrViGD.m3u8
+^=Philippines vs Australia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405948/philippines-u19-vs-australia-u19.html
 
 21:00 [l]International Friendly U20[z]	^-
 Kyrgyzstan vs Bahrain	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407241/kyrgyzstan-u20-vs-bahrain-u20.html
