@@ -82,6 +82,12 @@ Moldova U21 vs Malta U21	`Fhttps://www.fctv33.ws/football/international-friendly
 Sweden vs Greece	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400581/sweden-vs-greece.html
 Andorra vs Liechtenstein	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404056/andorra-vs-liechtenstein.html
 
+02:00 [l]International Friendly[z]	^-
+Spain vs Iraq	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400582/spain-vs-iraq.html
+
+02:10 [l]International Friendly[z]	^-
+France vs Ivory Coast	`Fhttps://www.fctv33.ws/football/international-friendly-match-4373611/france-vs-cote-divoire.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
