@@ -45,13 +45,19 @@ Japan U19 vs Portugal U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revell
 20:00 [l]AFF U19 Youth Championship[z]	^-
 Philippines vs Australia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405948/philippines-u19-vs-australia-u19.html
 
+21:00 [l]International Friendly U20[z]	^-
+Kyrgyzstan vs Bahrain	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407241/kyrgyzstan-u20-vs-bahrain-u20.html
+
 04.06.2026	^-
 
 00:00 [l]International Friendly[z]	^-
 Gibraltar vs British Virgin Islands	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404062/gibraltar-vs-british-virgin-islands.html
 
 01:00 [l]International Friendly[z]	^-
-Denmark vs Democratic Rep Congo	`F
+Denmark vs Democratic Rep Congo	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400585/denmark-vs-democratic-republic-of-the-congo.html
+
+01:30 [l]International Friendly U21[z]	^-
+Portugal vs Northern Ireland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4406920/portugal-u21-vs-northern-ireland-u21.html
 
 01:45 [l]International Friendly[z]	^-
 Netherlands vs Algeria	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370235/netherlands-vs-algeria.html
