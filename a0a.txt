@@ -33,11 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 04.06.2026	^-
 
-18:00 [l]International Friendly[z]	^-
-
-Maldives vs Pakistan	https://stream.yultech.online/hls/live/sd-6Mwe5Q8QxbnR1SZzhb/index.m3u8
-^=Maldives vs Pakistan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407044/maldives-vs-pakistan.html
-
 19:00 [l]International Friendly[z]	^-
 Cambodia vs Bhutan	https://stream.yultech.online/hls/live/sd-6Mwe5ZtfYmxczLgMBB/index.m3u8
 ^=Cambodia vs Bhutan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404059/cambodia-vs-bhutan.html
@@ -47,8 +42,8 @@ Timor Leste vs Indonesia	https://stream.yultech.online/hls/live/sd-6Mwe5TJFdyig2
 Timor Leste vs Indonesia	`0https://www.marza12.shop/football/2990855-timor-leste-u19-vs-indonesia-u19.html
 ^=Timor Leste vs Indonesia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405400/timor-leste-u19-vs-indonesia-u19.html
 
-20:00 [l]International Friendly[z]	^-
-Lesotho vs Kenya	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407043/lesotho-vs-kenya.html
+21:00 [l]International Friendly U19[z]	^-
+Latvia vs Lithuania	https://stream.yultech.online/hls/live/sd-6Mwe5Q8QxgBNkQDq1P/index.m3u8
 
 22:00 [l]International Friendly U21[z]	^-
 Sweden vs Finland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407041/sweden-u21-vs-finland-u21.html
