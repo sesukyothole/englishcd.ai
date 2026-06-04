@@ -39,6 +39,10 @@ Myanmar vs Vietnam	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJFe1v9twx
 
 18:00 [l]International Friendly[z]	^-
 Maldives vs Pakistan	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Q8QxbnR1SZzhb.m3u8
+^=Maldives vs Pakistan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407044/maldives-vs-pakistan.html
+
+19:00 [l]International Friendly[z]	^-
+Cambodia vs Bhutan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404059/cambodia-vs-bhutan.html
 
 20:00 [l]AFF U19 Youth Championship[z]	^-
 Timor Leste vs Indonesia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405400/timor-leste-u19-vs-indonesia-u19.html
@@ -49,22 +53,44 @@ Lesotho vs Kenya	`Fhttps://www.fctv33.ws/football/international-friendly-match-4
 22:00 [l]International Friendly U21[z]	^-
 Sweden vs Finland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407041/sweden-u21-vs-finland-u21.html
 
+23:00 [l]AFC Asian Cup[z]	^-
+Lebanon vs Yemen	`Fhttps://www.fctv33.ws/football/afc-asian-cup-match-4100270/lebanon-vs-yemen.html
+
 23:00 [l]International Friendly[z]	^-
-Slovenia vs Cyprus	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404060/slovenia-vs-cyprus.html
+Northern Ireland vs Guinea	`0https://ww2.sporttsonline.click/channels/hd/hd2.php
+^=Northern Ireland vs Guinea	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404058/northern-ireland-vs-guinea.html
+Slovenia vs Cyprus	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
+^=Slovenia vs Cyprus	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404060/slovenia-vs-cyprus.html
+
+23:00 [l]International Friendly[z]	^-
 Afghanistan vs Bangladesh U23	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407342/afghanistan-vs-bangladesh-u23.html
-Moldova U21 vs Malta U21	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407343/moldova-u21-vs-malta-u21.html
+
+23:00 [l]International Friendly U21[z]	^-
+Moldova vs Malta	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407343/moldova-u21-vs-malta-u21.html
 
 05.06.2026	^-
 
 00:00 [l]International Friendly[z]	^-
-Sweden vs Greece	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400581/sweden-vs-greece.html
-Andorra vs Liechtenstein	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404056/andorra-vs-liechtenstein.html
+Sweden vs Greece	`0https://ww2.sporttsonline.click/channels/hd/hd3.php
+^=Sweden vs Greece	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400581/sweden-vs-greece.html
+Andorra vs Liechtenstein	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
+^=Andorra vs Liechtenstein	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404056/andorra-vs-liechtenstein.html
 
 02:00 [l]International Friendly[z]	^-
-Spain vs Iraq	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400582/spain-vs-iraq.html
+Spain vs Iraq	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
+^=Spain vs Iraq	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400582/spain-vs-iraq.html
 
 02:10 [l]International Friendly[z]	^-
-France vs Ivory Coast	`Fhttps://www.fctv33.ws/football/international-friendly-match-4373611/france-vs-cote-divoire.html
+France vs Ivory Coast	`0https://ww2.sporttsonline.click/channels/hd/hd3.php
+^=France vs Ivory Coast	`Fhttps://www.fctv33.ws/football/international-friendly-match-4373611/france-vs-cote-divoire.html
+
+07:00 [l]International Friendly[z]	^-
+Czech vs Guatemala	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
+^=Czech vs Guatemala	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400580/czechia-vs-guatemala.html
+
+09:00 [l]International Friendly[z]	^-
+Mexico vs Serbia	`0https://ww2.sporttsonline.click/channels/hd/hd5.php
+^=Mexico vs Serbia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370234/mexico-vs-serbia.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
