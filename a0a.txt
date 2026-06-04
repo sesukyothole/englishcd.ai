@@ -33,9 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 04.06.2026	^-
 
-21:00 [l]International Friendly U19[z]	^-
-Latvia vs Lithuania	https://stream.yultech.online/hls/live/sd-6Mwe5Q8QxgBNkQDq1P/index.m3u8
-
 22:00 [l]International Friendly U21[z]	^-
 Sweden vs Finland	https://stream.yultech.online/hls/live/sd-6Mwe5Q8QxnmpMqhaU5/index.m3u8
 ^=Sweden vs Finland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407041/sweden-u21-vs-finland-u21.html
@@ -55,6 +52,10 @@ Afghanistan vs Bangladesh U23	https://stream.yultech.online/hls/live/sd-6Mwe5nrD
 23:00 [l]International Friendly U21[z]	^-
 Moldova vs Malta	https://stream.yultech.online/hls/live/sd-6Mwe5nrDcg7ju2JFGq/index.m3u8
 ^=Moldova vs Malta	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407343/moldova-u21-vs-malta-u21.html
+
+23:00 [l]AFC Asian Cup[z]	^-
+Lebanon vs Yemen	https://stream.yultech.online/hls/live/sd-6MtMP7J6eJp9fXcXBs/index.m3u8
+^=Lebanon vs Yemen	`Fhttps://www.fctv33.ws/football/afc-asian-cup-match-4100270/lebanon-vs-yemen.html
 
 05.06.2026	^-
 
