@@ -33,17 +33,12 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 04.06.2026	^-
 
-07:45 [l]International Friendly[z]	^-
-Panama vs Dominican Republic	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKDG5gT7LhWgm.m3u8
-^=Panama vs Dominican Republic	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401647/panama-vs-dominican-republic.html
-
-08:00 [l]International Friendly[z]	^-
-South Korea vs El Salvador	https://live.666666.zip/live/4541817.m3u8
-South Korea vs El Salvador	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Hbgz3ebKCKSXw.m3u8
-^=South Korea vs El Salvador	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400583/south-korea-vs-el-salvador.html
-
 16:00 [l]AFF U19 Youth Championship[z]	^-
-Myanmar vs Vietnam	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405402/myanmar-u19-vs-vietnam-u19.html
+Myanmar vs Vietnam	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJFe1v9twxkbo.m3u8
+^=Myanmar vs Vietnam	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405402/myanmar-u19-vs-vietnam-u19.html
+
+18:00 [l]International Friendly[z]	^-
+Maldives vs Pakistan	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Q8QxbnR1SZzhb.m3u8
 
 20:00 [l]AFF U19 Youth Championship[z]	^-
 Timor Leste vs Indonesia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405400/timor-leste-u19-vs-indonesia-u19.html
