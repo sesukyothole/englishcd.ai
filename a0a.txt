@@ -80,6 +80,12 @@ Hungary vs Finland	`Fhttps://www.fctv33.ws/football/international-friendly-match
 01:00 [l]International Friendly[z]	^-
 Azerbaijan vs Malta	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404045/azerbaijan-vs-malta.html
 
+01:35 [l]World Cup qualifier UEFA (w)[z]	^-
+Germany vs Norway	`Fhttps://www.fctv33.ws/football/fifa-womens-world-cup-qualificationuefa-match-4313642/germany-women-vs-norway-women.html
+
+02:00 [l]World Cup qualifier UEFA (w)[z]	^-
+Spain vs England	`Fhttps://www.fctv33.ws/football/fifa-womens-world-cup-qualificationuefa-match-4313652/spain-women-vs-england-women.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
