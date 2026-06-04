@@ -33,20 +33,12 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 04.06.2026	^-
 
-20:00 [l]AFF U19 Youth Championship[z]	^-
-Timor Leste vs Indonesia	https://stream.yultech.online/hls/live/sd-6Mwe5TJFdyig2U8qSu/index.m3u8
-Timor Leste vs Indonesia	`0https://www.marza12.shop/football/2990855-timor-leste-u19-vs-indonesia-u19.html
-^=Timor Leste vs Indonesia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4405400/timor-leste-u19-vs-indonesia-u19.html
-
 21:00 [l]International Friendly U19[z]	^-
 Latvia vs Lithuania	https://stream.yultech.online/hls/live/sd-6Mwe5Q8QxgBNkQDq1P/index.m3u8
 
 22:00 [l]International Friendly U21[z]	^-
 Sweden vs Finland	https://stream.yultech.online/hls/live/sd-6Mwe5Q8QxnmpMqhaU5/index.m3u8
 ^=Sweden vs Finland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407041/sweden-u21-vs-finland-u21.html
-
-23:00 [l]AFC Asian Cup[z]	^-
-Lebanon vs Yemen	`Fhttps://www.fctv33.ws/football/afc-asian-cup-match-4100270/lebanon-vs-yemen.html
 
 23:00 [l]International Friendly[z]	^-
 Northern Ireland vs Guinea	`0https://ww2.sporttsonline.click/channels/hd/hd2.php
@@ -68,16 +60,20 @@ Moldova vs Malta	https://stream.yultech.online/hls/live/sd-6Mwe5nrDcg7ju2JFGq/in
 
 00:00 [l]International Friendly[z]	^-
 Sweden vs Greece	`0https://ww2.sporttsonline.click/channels/hd/hd3.php
+Sweden vs Greece	https://stream.yultech.online/hls/live/sd-6Mwe5HbhV35C8DKWso/index.m3u8
 ^=Sweden vs Greece	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400581/sweden-vs-greece.html
 Andorra vs Liechtenstein	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
+Andorra vs Liechtenstein	https://stream.yultech.online/hls/live/sd-6Mwe5ZtfNzteSZXubs/index.m3u8
 ^=Andorra vs Liechtenstein	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404056/andorra-vs-liechtenstein.html
 
 02:00 [l]International Friendly[z]	^-
 Spain vs Iraq	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
+Spain vs Iraq	https://stream.yultech.online/hls/live/sd-6Mwe5HavzYLyGswgs7/index.m3u8
 ^=Spain vs Iraq	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400582/spain-vs-iraq.html
 
 02:10 [l]International Friendly[z]	^-
 France vs Ivory Coast	`0https://ww2.sporttsonline.click/channels/hd/hd3.php
+France vs Ivory Coast	https://stream.yultech.online/hls/live/sd-6MwcqbdZFWTFFU4Hos/index.m3u8
 ^=France vs Ivory Coast	`Fhttps://www.fctv33.ws/football/international-friendly-match-4373611/france-vs-cote-divoire.html
 
 07:00 [l]International Friendly[z]	^-
