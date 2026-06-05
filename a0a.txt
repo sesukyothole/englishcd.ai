@@ -34,33 +34,25 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 05.06.2026	^-
 
-22:00 [l]International Friendly[z]	^-
-Tajikistan vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407297/tajikistan-vs-india.html
-
-22:00 [l]International Friendly U21[z]^-
-Montenegro vs Cyprus	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407403/montenegro-u21-vs-cyprus-u21.html
-Latvia vs Estonia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407699/latvia-u21-vs-estonia-u21.html
-
-22:00 [l]International Friendly U20[z]^-
-Tunisia vs Algeria
-
 23:00 [l]International Friendly[z]	^-
 Belarus vs Syrian	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
 Belarus vs Syrian	https://live.666666.zip/live/4544884.m3u8
+Belarus vs Syrian	`1https://mut.st/watch/belarus-vs-syria/admin/1
 ^=Belarus vs Syrian	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404054/belarus-vs-syria.html
 Georgia vs Bahrain	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
 Georgia vs Bahrain	https://live.666666.zip/live/4544837.m3u8
+Georgia vs Bahrain	`1https://mut.st/watch/georgia-vs-bahrain/admin/1
 ^=Georgia vs Bahrain	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404044/georgia-vs-bahrain.html
 
 23:00 [l]International Friendly U21[z]^-
 Ukraine vs USA	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407662/ukraine-u21-vs-usa-u21.html
+^=Ukraine vs USA	`1https://mut.st/watch/ukraine-u21-vs-usa-u21/admin/1
 
 23:30 [l]International Friendly[z]	^-
 Slovakia vs Montenegro	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
 Slovakia vs Montenegro	https://live.666666.zip/live/4544835.m3u8
+Slovakia vs Montenegro 1	`1https://mut.st/watch/slovakia-vs-montenegro/admin/1
 ^=Slovakia vs Montenegro	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404050/slovakia-vs-montenegro.html
-^=Slovakia vs Montenegro 0	`0https://mut.st/watch/slovakia-vs-montenegro/admin/1
-^=Slovakia vs Montenegro 1	`1https://mut.st/watch/slovakia-vs-montenegro/admin/1
 
 23:30 [l]Toulon Maurice Revello[z]	^-
 Saudi Arabia U21 vs Tunisia U23	`0https://ww2.sporttsonline.click/channels/hd/hd6.php
@@ -71,26 +63,34 @@ Saudi Arabia U21 vs Tunisia U23	`0https://ww2.sporttsonline.click/channels/hd/hd
 00:00 [l]International Friendly[z]	^-
 Moldova vs Bulgaria	`0https://ww2.sporttsonline.click/channels/hd/hd5.php
 Moldova vs Bulgaria	https://live.666666.zip/live/4544831.m3u8
+Moldova vs Bulgaria	`1https://mut.st/watch/moldova-vs-bulgaria/admin/1
 ^=Moldova vs Bulgaria	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404047/moldova-vs-bulgaria.html
 San Marino vs Bangladesh	`0https://ww2.sporttsonline.click/channels/hd/hd2.php
 San Marino vs Bangladesh	https://live.666666.zip/live/4544894.m3u8
+San Marino vs Bangladesh	`1https://mut.st/watch/san-marino-vs-bangladesh/admin/1
 ^=San Marino vs Bangladesh	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404049/san-marino-vs-bangladesh.html
 Russia vs Burkina Faso	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
 Russia vs Burkina Faso	https://live.666666.zip/live/4544892.m3u8
+^=Russia vs Burkina Faso	`1https://mut.st/watch/russia-vs-burkina-faso/admin/1
 ^=Russia vs Burkina Faso	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404048/russia-vs-burkina-faso.html
 
 00:45 [l]International Friendly[z]	^-
 Hungary vs Finland	`0https://ww2.sporttsonline.click/channels/hd/hd4.php
 Hungary vs Finland	https://live.666666.zip/live/4544897.m3u8
+Hungary vs Finland	`1https://mut.st/watch/hungary-vs-finland/admin/1
 ^=Hungary vs Finland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404046/hungary-vs-finland.html
 
 01:00 [l]International Friendly[z]	^-
 Azerbaijan vs Malta	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Azerbaijan vs Malta	https://live.666666.zip/live/4544901.m3u8
+Azerbaijan vs Malta	`1https://mut.st/watch/azerbaijan-vs-malta/admin/1
 ^=Azerbaijan vs Malta	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404045/azerbaijan-vs-malta.html
+^=Benin vs Niger	`1https://mut.st/watch/benin-vs-niger/admin/1
+^=Central African Republic vs Togo	`1https://mut.st/watch/central-african-republic-vs-togo/admin/1
 
-01:00 [l]International Friendly U21[z]	^-
+01:15 [l]International Friendly U21[z]	^-
 Slovenia vs Albania	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407893/slovenia-u21-vs-albania-u21.html
+^=Slovenia vs Albania	`1https://mut.st/watch/slovenia-u21-vs-albania-u21/admin/1
 
 01:35 [l]World Cup qualifier UEFA (w)[z]	^-
 Germany vs Norway	`0https://ww2.sporttsonline.click/channels/hd/hd3.php
@@ -101,21 +101,28 @@ Spain vs England	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
 ^=Spain vs England	`Fhttps://www.fctv33.ws/football/fifa-womens-world-cup-qualificationuefa-match-4313652/spain-women-vs-england-women.html
 Portogal vs Latvia	`Fhttps://www.fctv33.ws/football/fifa-womens-world-cup-qualificationuefa-match-4313647/portugal-women-vs-latvia-women.html
 
+02:00 [l]International Friendly U21[z]	^-
+^=Angola vs Mauritania	`1https://mut.st/watch/angola-vs-mauritania/admin/1
+
 05:15 [l]International Friendly[z]	^-
 Paraguay vs Nicaragua	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
 Paraguay vs Nicaragua	https://live.666666.zip/live/4542675.m3u8
+Paraguay vs Nicaragua	`1https://mut.st/watch/paraguay-vs-nicaragua/delta/1
 
 06:00 [l]International Friendly[z]	^-
 Puerto Rico vs Saudi Arabia	https://live.666666.zip/live/4548634.m3u8
+^=Puerto Rico vs Saudi Arabia	`1https://mut.st/watch/puerto-rico-vs-saudi-arabia/admin/1
 ^=Puerto Rico vs Saudi Arabia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407846/puerto-rico-vs-saudi-arabia.html
 
 06:30 [l]International Friendly[z]	^-
 Canada vs Ireland	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Canada vs Ireland	https://live.666666.zip/live/4512477.m3u8
+Canada vs Ireland	`1https://mut.st/watch/canada-vs-ireland/admin/1
 ^=Canada vs Ireland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370233/canada-vs-ireland.html
 
 07:00 [l]International Friendly[z]	^-
 Haiti vs Peru	`0https://ww2.sporttsonline.click/channels/hd/hd6.php
+Haiti vs Peru	`1https://mut.st/watch/haiti-vs-peru/admin/1
 ^=Haiti vs Peru	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401645/haiti-vs-peru.html
 
 20:00 [l]International Friendly[z]	^-
