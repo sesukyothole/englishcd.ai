@@ -33,17 +33,14 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 05.06.2026	^-
 
-16:00 [l]AFF U19 Youth Championship[z]	^-
-Brunei Darussalam vs Malaysia	https://stream.yultech.online/hls/live/sd-6Mwe5TJFeF737pvFXB/index.m3u8
-^=Brunei Darussalam vs Malaysia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4406554/brunei-darussalam--u19-vs-malaysia-u19.html
-
-18:00 [l]International Friendly[z]^-
+18:00 [l]International Friendly[z]	^-
 USA U20 vs Georgia U21
-Uzbekistan U23 vs Japan U21
 Jamaica vs South Africa
+Uzbekistan U23 vs Japan U21	https://stream.yultech.online/hls/live/sd-6Mwe5nrCSmQeFHqzQD/index.m3u8
 
 18:30 [l]International Friendly[z]	^-
 Singapore vs China	https://live.666666.zip/live/4539878.m3u8
+Singapore vs China	https://stream.yultech.online/hls/live/sd-6MwdLb71Lv9mp2FdRf/index.m3u8
 ^=Singapore vs China	`Fhttps://www.fctv33.ws/football/international-friendly-match-4398635/singapore-vs-china.html
 
 19:00 [l]International Friendly[z]	^-
