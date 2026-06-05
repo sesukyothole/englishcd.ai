@@ -54,6 +54,7 @@ Hong Kong vs Mongolia	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYTL6XzEx
 Thailand vs Kuwait	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYR8cfWR2xV/index.m3u8
 
 20:00 [l]International Friendly[z]	^-
+Oman Sport 🇴🇲	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 Indonesia vs Oman	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
 Indonesia vs Oman	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYVXaQU4sGH/index.m3u8
 Indonesia vs Oman	`0https://www.marza12.shop/football/2991741-indonesia-vs-oman.html
@@ -436,6 +437,312 @@ Soccer A	https://geogersr.itilstrem.workers.dev/https://d2xz2v5wuvgur6.cloudfron
 FIFA World Cup	`0https://xstalk.com/profile/FIFAWorldCup
 Asian Football Confederation	`0https://xstalk.com/profile/theafcdotcom
 Timnas Indonesia	`0https://xstalk.com/profile/TimnasIndonesia
+
+	^-
+ESPN 🇳🇱 1	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+ESPN 🇳🇱 2	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_2_fhd/index.m3u8
+LaLiga TV	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
+LFC TV (event)	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_lfc_hd/index.m3u8
+UEFA (event)	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_01/index.m3u8
+ESPN Deportes (event)	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
+
+	^-
+3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+ABC News	https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+Abu Dhabi Sports 1 Premium	https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+Abu Dhabi Sports 2 Premium	https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd!!efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+Afro Sport	https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+Azteca Guatemala	https://ch1-tva.duin.dev/hls/stream.m3u8
+Bahrain Sports 1 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+Bahrain Sports 2 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+BBC Three	https://livetvde.net/bbcthree/index.m3u8
+BBC Four	https://livetvde.net/bbcfour/index.m3u8
+beIN Sports Xtra En Español 🇺🇸	https://bein-esp-xumo.amagi.tv/playlist.m3u8
+beIN Sports Xtra 🇺🇸	https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+BEK TV	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+Mediaset 1 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+Mediaset 5 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+Cazé TV 1 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+Cazé TV 2 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
+Channel 4 🇬🇧	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+Cricket	`1https://me.webcric.com/frame1.htm[]`3https://me.webcric.com/frame1.htm
+DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
+DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
+^=DFB Play TV	https://jmp2.uk/sam-GB26000118T.m3u8?7
+F1 TV	https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+Dubai Sport 1 🇦🇪	https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+Dubai Sport 2 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+Dubai Sport 3 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+Ziet 🇳🇱	https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd!!aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
+FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+Fast Sports 🇵🇰	https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd!!ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
+Filmax 🇵🇰	https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd!!eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
+Fox Sports Espanol	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
+HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
+HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
+KSA Sport 1	https://uselector.cdn.intigral-ott.net/KSAS1/KSAS1.isml/manifest.mpd!!f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b
+KSS 1	https://uselector.cdn.intigral-ott.net/KSS/KSS.isml/manifest.mpd!!0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba
+KSS 2	https://uselector.cdn.intigral-ott.net/KSS2/KSS2.isml/manifest.mpd!!08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0
+Kuwait Sports 🇰🇼	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+L'Equipe Live 1 🇫🇷	https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
+L'Equipe Live 2 🇫🇷	https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+MAV TV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
+MBC 1	https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+MBC 5	https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+MBC Action	https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd!!5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
+MBC Drama	https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+MBC Masr Drama 🇪🇬	https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+MBC Masr 🇪🇬	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+MBC Masr 🇪🇬	https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+MBMS 1	https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd!!8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9
+MBMS 2	https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd!!4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
+Music Top	https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+Stingray Classica	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
+Vevo Pop Latino	https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8
+Kanal D Drama	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?zwz
+NBC Sports	https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
+NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+NHK World 🇯🇵	https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+Oman Sport 🇴🇲	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+ON Sports 1	https://edge66.magictvbox.com/liveApple/ontvsport/index.m3u8
+ON Sports 2	https://edge66.magictvbox.com/liveApple/onSports2/index.m3u8
+ORF Sport Plus 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd!!ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
+Persiana	https://spstr.abntv.live/hls/psstream.m3u8
+Peacock Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+RedBull TV	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+RTA Sports	https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+RTK1	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
+RTP 3 🇵🇹	https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+RTP Madeira 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+^=Sat 1 🇩🇪	`0https://tv.sportsnews.id/p/ch11.html
+Shahid Bab Al Hara	https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+Shahid Drama	https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+Shahid Elkabeer	https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
+Shahid Maraya	https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+Shahid Masrh Masr	https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
+Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+SMC 4	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+Sport enFrance 🇫🇷	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+Sport 🇮🇹 Italia Plus	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+SSC 1 🇸🇦	https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd!!d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+SSC 2 🇸🇦	https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd!!8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+SSC 3 🇸🇦	https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd!!7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+SSC 4 🇸🇦	https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd!!5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+SSC 5 🇸🇦	https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd!!c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+SSC Extra 1 🇸🇦	https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd!!ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+SSC Extra 2 🇸🇦	https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd!!4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+SSC Extra 3 🇸🇦	https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd!!98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+SSC News 🇸🇦	shttps://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd!!3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+Telefe 🇦🇷	https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
+^=Telemundo	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd!!ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+Tennis 1	https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+Tennis 2	https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+Tennis 3	https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd!!59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
+Thairath 🇹🇭	https://cnt1-streamer13.cdn.3bbtv.com:8443/3bb/live/32/32.mpd!!4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+TNT Sports 1	i3!16/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+TNT Sports 2	i3!16/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+TNT Sports 3	i3!16/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+TNT Sports 4	i3!16/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+TNT Sports 5	i3!16/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd!!60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
+Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
+Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
+CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+
+	^-
+[w]Sport Channels & TV[z]	^-
+
+ABC East	https://1.0!ABC_EAST!.z?7
+ACC Network	https://1.0!ACC_NETWORK!.z?7
+AMC Network	https://1.0!AMC_NETWORK!.z?7
+American Heroes Channel	https://1.0!American_Heroes_Channel!.z?7
+Animal Planet	https://1.0!Animal_Planet!.z?7
+Aspire	https://1.0!Aspire!.z?7
+BBC America	https://1.0!BBC_AMERICA!.z?7
+BBC World News	https://1.0!BBC_WORLD_NEWS!.z?7
+beIN Sports	https://1.0!BEIN_SPORTS!.z?7
+BET East	https://1.0!BET_EAST!.z?7
+BET Her	https://1.0!BET_HER!.z?7
+BET Jams	https://1.0!BET_Jams!.z?7
+BET Soul	https://1.0!BET_SOUL!.z?7
+Big Ten Network	https://1.0!BIG_TEN_NETWORK!.z?7
+Bloomberg	https://1.0!BLOOMBERG!.z?7
+Boomerang	https://1.0!BOOMERANG!.z?7
+Bounce TV	https://1.0!BOUNCE_TV!.z?7
+Bravo	https://1.0!BRAVO!.z?7
+Buzzr	https://1.0!Buzzr!.z?7
+Cartoon Network	https://1.0!CARTOON_NETWORK!.z?7
+CBS East	https://1.0!CBSEAST!.z?7
+CBS Sports Network	https://1.0!CBS_SPORTS_NETWORK!.z?7
+Cinemax East	https://1.0!CINEMAX_EAST!.z?7
+Cinemax Moremax	https://1.0!CINEMAX_MOREMAX!.z?7
+Cinemax West	https://1.0!CINEMAX_WEST!.z?7
+Cleo TV	https://1.0!Cleo_TV!.z?7
+CMT	https://1.0!CMT!.z?7
+CNBC	https://1.0!CNBC!.z?7
+CNN International	https://1.0!CNN_INTERNATIONAL!.z?7
+Comedy Central	https://1.0!Comedy_Central!.z?7
+Comet	https://1.0!COMET!.z?7
+Cooking Channel	https://1.0!COOKING_CHANNEL!.z?7
+Court TV	https://1.0!COURT_TV!.z?7
+Cozi TV	https://1.0!COZI_TV!.z?7
+Crave 1	https://1.0!CRAVE_1!.z?7
+Crave 2	https://1.0!CRAVE_2!.z?7
+Crave 3	https://1.0!CRAVE_3!.z?7
+Crave 4	https://1.0!CRAVE_4!.z?7
+C-Span	https://1.0!C-SPAN!.z?7
+Curiosity Stream	https://1.0!Curiosity_Stream!.z?7
+Destination America	https://1.0!Destination_America!.z?7
+Discovery Channel	https://1.0!Discovery_Channel!.z?7
+Discovery Family Channel	https://1.0!DISCOVERY_FAMILY_CHANNEL!.z?7
+Discovery Life	https://1.0!DISCOVERY_LIFE!.z?7
+Discovery Science	https://1.0!Discovery_Science!.z?7
+Disney Channel	https://1.0!DISNEY_CHANNEL!.z?7
+Disney Jr	https://1.0!DISNEY_JR!.z?7
+Disney XD	https://1.0!DISNEY_XD!.z?7
+DIY	https://1.0!DIY!.z?7
+Epix Drive In	https://1.0!EPIX_DRIVE_IN!.z?7
+ESPN 2	https://1.0!ESPN_2!.z?7
+ESPN News	https://1.0!ESPN_NEWS!.z?7
+ESPN U	https://1.0!ESPN_U!.z?7
+Food Network	https://1.0!FOOD_NETWORK!.z?7
+Fox Business Network	https://1.0!FOX_Business_Network!.z?7
+Fox East	https://1.0!FOX_EAST!.z?7
+Fox Soul	https://1.0!FOX_SOUL!.z?7
+Fox Sports 1	https://1.0!FOX_Sports_1!.z?7
+Fox Sports 2	https://1.0!FOX_SPORTS_2!.z?7
+Free Form	https://1.0!FREE_FORM!.z?7
+FX	https://1.0!FX!.z?7
+FX Movie	https://1.0!FX_MOVIE!.z?7
+FXX	https://1.0!FXX!.z?7
+FYI	https://1.0!FYI!.z?7
+Game Show Network	https://1.0!GAME_SHOW_NETWORK!.z?7
+Golf Channel	https://1.0!GOLF_CHANNEL!.z?7
+Grit TV	https://1.0!GRIT_TV!.z?7
+Hallmark Channel	https://1.0!HALLMARK_CHANNEL!.z?7
+Hallmark Drama	https://1.0!HALLMARK_DRAMA!.z?7
+Hallmark Movies Mysteries	https://1.0!HALLMARK_MOVIES_MYSTERIES!.z?7
+HBO 1	https://1.0!HBO!.z?7
+HBO 2	https://1.0!HBO_2!.z?7
+HBO Comedy	https://1.0!HBO_COMEDY!.z?7
+HBO Family	https://1.0!HBO_FAMILY!.z?7
+HGTV	https://1.0!HGTV!.z?7
+HLN	https://1.0!HLN!.z?7
+HSN	https://1.0!HSN!.z?7
+INSP	https://1.0!INSP!.z?7
+Investigation Discovery	https://1.0!INVESTIGATION_DISCOVERY!.z?7
+ION TV	https://1.0!ION_TV!.z?7
+Lifetime	https://1.0!LIFETIME!.z?7
+Lifetime Movie Network	https://1.0!LIFETIME_MOVIE_NETWORK!.z?7
+Love Nature	https://1.0!LOVE_NATURE!.z?7
+Me TV	https://1.0!ME_TV!.z?7
+MLB Network	https://1.0!MLB_NETWORK!.z?7
+Motor Trend	https://1.0!MOTOR_TREND!.z?7
+MSG	https://1.0!MSG!.z?7
+MTV 1	https://1.0!MTV!.z?7
+MTV 2	https://1.0!MTV_2!.z?7
+MTV Classic	https://1.0!MTV_CLASSIC!.z?7
+MTV Live	https://1.0!MTV_LIVE!.z?7
+MTV U	https://1.0!MTV_U!.z?7
+Much	https://1.0!MUCH!.z?7
+Nat Geo Wild	https://1.0!Nat_Geo_Wild!.z?7
+National Geographic	https://1.0!National_Geographic!.z?7
+NBA 2	https://1.0!NBA_2!.z?7
+NBA TV	https://1.0!NBA_TV!.z?7
+NBC East	https://1.0!NBC_EAST!.z?7
+News Nation	https://1.0!NEWS_NATION!.z?7
+NFL Network	https://1.0!NFL_NETWORK!.z?7
+NFL RedZone	https://1.0!NFL_RedZone!.z?7
+NHL Network	https://1.0!NHL_NETWORK!.z?7
+Nick Jr	https://1.0!NICK_JR!.z?7
+Nick Music	https://1.0!NICK_MUSIC!.z?7
+Nickelodeon	https://1.0!NICKELODEON!.z?7
+Nicktoons	https://1.0!NICKTOONS!.z?7
+Outer Max	https://1.0!OUTER_MAX!.z?7
+Outside TV	https://1.0!OUTSIDE_TV!.z?7
+Ovation	https://1.0!Ovation!.z?7
+OWN	https://1.0!OWN!.z?7
+Oxygen	https://1.0!OXYGEN!.z?7
+Paramount Network	https://1.0!PARAMOUNT_NETWORK!.z?7
+QVC	https://1.0!QVC!.z?7
+Reelz	https://1.0!REELZ!.z?7
+Revolt	https://1.0!REVOLT!.z?7
+SEC Network	https://1.0!SEC_NETWORK!.z?7
+Showtime 1	https://1.0!SHOWTIME!.z?7
+Showtime 2	https://1.0!SHOWTIME_2!.z?7
+Showtime Extreme	https://1.0!SHOWTIME_EXTREME!.z?7
+Showtime Next	https://1.0!SHOWTIME_NEXT!.z?7
+Showtime West	https://1.0!SHOWTIME_WEST!.z?7
+Showtime Women	https://1.0!SHOWTIME_WOMEN!.z?7
+Smithsonian Channel	https://1.0!SMITHSONIAN_CHANNEL!.z?7
+Sportsman Channel	https://1.0!SPORTSMAN_CHANNEL!.z?7
+Start TV	https://1.0!Start_Tv!.z?7
+Starz	https://1.0!STARZ!.z?7
+Starz Comedy	https://1.0!STARZ_COMEDY!.z?7
+Starz Edge	https://1.0!STARZ_EDGE!.z?7
+Starz Encore	https://1.0!STARZ_ENCORE!.z?7
+Starz Encore Action	https://1.0!STARZ_ENCORE_ACTION!.z?7
+Starz Encore Classic	https://1.0!STARZ_ENCORE_CLASSIC!.z?7
+Starz Encore Westerns	https://1.0!STARZ_ENCORE_WESTERNS!.z?7
+Sundance	https://1.0!SUNDANCE!.z?7
+SYFY	https://1.0!SYFY!.z?7
+TBS	https://1.0!TBS!.z?7
+TCM	https://1.0!TCM!.z?7
+Tennis Channel	https://1.0!TENNIS_CHANNEL!.z?7
+The Weather Channel	https://1.0!THE_WEATHER_CHANNEL!.z?7
+TLC	https://1.0!TLC!.z?7
+TNT	https://1.0!TNT!.z?7
+Travel Channel	https://1.0!Travel_Channel!.z?7
+TRU TV	https://1.0!TRU_TV!.z?7
+TV Land	https://1.0!TV_Land!.z?7
+TV One	https://1.0!TV_ONE!.z?7
+USA Network	https://1.0!USA_Network!.z?7
+VH1	https://1.0!VH1!.z?7
+Viceland	https://1.0!VICELAND!.z?7
+W Network	https://1.0!W_NETWORK!.z?7
+WE TV	https://1.0!WE_TV!.z?7
+WGN	https://1.0!WGN!.z?7
+World Fishing Network	https://1.0!WORLD_FISHING_NETWORK!.z?7
+Yes Network	https://1.0!YES_NETWORK!.z?7
+
+FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8?7
+FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8?7
+FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8?7
+FIFA+ 🇩🇪	https://jmp2.uk/sam-DEBA3300019EB.m3u8?7
+FIFA+ 🇪🇸	https://jmp2.uk/sam-ESBC2700009B4.m3u8?7
+FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8?7
+FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8?7
+FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8?7
+FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8?7
+
+[l]For Desktop[z]	^-
+HBO ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+HBO Family ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+HBO Hits ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+HBO Signature ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 	^-
 [w]SMTV[z]	^-
@@ -1084,312 +1391,6 @@ ziggo3	`0https://tv.sportsnews.id/p/ziggo3.html
 ziggo4	`0https://tv.sportsnews.id/p/ziggo4.html
 ziggo5	`0https://tv.sportsnews.id/p/ziggo5.html
 ziggo6	`0https://tv.sportsnews.id/p/ziggo6.html
-
-	^-
-ESPN 🇳🇱 1	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
-ESPN 🇳🇱 2	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_2_fhd/index.m3u8
-LaLiga TV	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
-LFC TV (event)	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_lfc_hd/index.m3u8
-UEFA (event)	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_01/index.m3u8
-ESPN Deportes (event)	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
-
-	^-
-3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-ABC News	https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-Abu Dhabi Sports 1 Premium	https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-Abu Dhabi Sports 2 Premium	https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd!!efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-Afro Sport	https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-Azteca Guatemala	https://ch1-tva.duin.dev/hls/stream.m3u8
-Bahrain Sports 1 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-Bahrain Sports 2 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-BBC Three	https://livetvde.net/bbcthree/index.m3u8
-BBC Four	https://livetvde.net/bbcfour/index.m3u8
-beIN Sports Xtra En Español 🇺🇸	https://bein-esp-xumo.amagi.tv/playlist.m3u8
-beIN Sports Xtra 🇺🇸	https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-BEK TV	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-Mediaset 1 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-Mediaset 5 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-Cazé TV 1 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-Cazé TV 2 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
-Channel 4 🇬🇧	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
-Cricket	`1https://me.webcric.com/frame1.htm[]`3https://me.webcric.com/frame1.htm
-DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
-DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
-^=DFB Play TV	https://jmp2.uk/sam-GB26000118T.m3u8?7
-F1 TV	https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
-Dubai Sport 1 🇦🇪	https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-Dubai Sport 2 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-Dubai Sport 3 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-Ziet 🇳🇱	https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd!!aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
-FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-Fast Sports 🇵🇰	https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd!!ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
-Filmax 🇵🇰	https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd!!eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
-Fox Sports Espanol	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
-HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
-HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
-KSA Sport 1	https://uselector.cdn.intigral-ott.net/KSAS1/KSAS1.isml/manifest.mpd!!f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b
-KSS 1	https://uselector.cdn.intigral-ott.net/KSS/KSS.isml/manifest.mpd!!0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba
-KSS 2	https://uselector.cdn.intigral-ott.net/KSS2/KSS2.isml/manifest.mpd!!08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0
-Kuwait Sports 🇰🇼	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
-L'Equipe Live 1 🇫🇷	https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-L'Equipe Live 2 🇫🇷	https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
-MAV TV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
-MBC 1	https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-MBC 5	https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-MBC Action	https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd!!5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
-MBC Drama	https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-MBC Masr Drama 🇪🇬	https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
-MBC Masr 🇪🇬	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-MBC Masr 🇪🇬	https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-MBMS 1	https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd!!8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9
-MBMS 2	https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd!!4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
-Music Top	https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-Stingray Classica	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
-Vevo Pop Latino	https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8
-Kanal D Drama	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?zwz
-NBC Sports	https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
-NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-NHK World 🇯🇵	https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-Oman Sport 🇴🇲	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-ON Sports 1	https://edge66.magictvbox.com/liveApple/ontvsport/index.m3u8
-ON Sports 2	https://edge66.magictvbox.com/liveApple/onSports2/index.m3u8
-ORF Sport Plus 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd!!ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
-Persiana	https://spstr.abntv.live/hls/psstream.m3u8
-Peacock Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-RedBull TV	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-RTA Sports	https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-RTK1	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
-RTP 3 🇵🇹	https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-RTP Madeira 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
-^=Sat 1 🇩🇪	`0https://tv.sportsnews.id/p/ch11.html
-Shahid Bab Al Hara	https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-Shahid Drama	https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-Shahid Elkabeer	https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
-Shahid Maraya	https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
-Shahid Masrh Masr	https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
-Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-SMC 4	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-Sport enFrance 🇫🇷	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-Sport 🇮🇹 Italia Plus	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-SSC 1 🇸🇦	https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd!!d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-SSC 2 🇸🇦	https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd!!8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-SSC 3 🇸🇦	https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd!!7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-SSC 4 🇸🇦	https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd!!5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-SSC 5 🇸🇦	https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd!!c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-SSC Extra 1 🇸🇦	https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd!!ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-SSC Extra 2 🇸🇦	https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd!!4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-SSC Extra 3 🇸🇦	https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd!!98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
-SSC News 🇸🇦	shttps://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd!!3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
-Telefe 🇦🇷	https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
-^=Telemundo	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd!!ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-Tennis 1	https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-Tennis 2	https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
-Tennis 3	https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd!!59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
-Thairath 🇹🇭	https://cnt1-streamer13.cdn.3bbtv.com:8443/3bb/live/32/32.mpd!!4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-TNT Sports 1	i3!16/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-TNT Sports 2	i3!16/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-TNT Sports 3	i3!16/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-TNT Sports 4	i3!16/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-TNT Sports 5	i3!16/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd!!60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
-Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
-Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
-CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-
-	^-
-[w]Sport Channels & TV[z]	^-
-
-ABC East	https://1.0!ABC_EAST!.z?7
-ACC Network	https://1.0!ACC_NETWORK!.z?7
-AMC Network	https://1.0!AMC_NETWORK!.z?7
-American Heroes Channel	https://1.0!American_Heroes_Channel!.z?7
-Animal Planet	https://1.0!Animal_Planet!.z?7
-Aspire	https://1.0!Aspire!.z?7
-BBC America	https://1.0!BBC_AMERICA!.z?7
-BBC World News	https://1.0!BBC_WORLD_NEWS!.z?7
-beIN Sports	https://1.0!BEIN_SPORTS!.z?7
-BET East	https://1.0!BET_EAST!.z?7
-BET Her	https://1.0!BET_HER!.z?7
-BET Jams	https://1.0!BET_Jams!.z?7
-BET Soul	https://1.0!BET_SOUL!.z?7
-Big Ten Network	https://1.0!BIG_TEN_NETWORK!.z?7
-Bloomberg	https://1.0!BLOOMBERG!.z?7
-Boomerang	https://1.0!BOOMERANG!.z?7
-Bounce TV	https://1.0!BOUNCE_TV!.z?7
-Bravo	https://1.0!BRAVO!.z?7
-Buzzr	https://1.0!Buzzr!.z?7
-Cartoon Network	https://1.0!CARTOON_NETWORK!.z?7
-CBS East	https://1.0!CBSEAST!.z?7
-CBS Sports Network	https://1.0!CBS_SPORTS_NETWORK!.z?7
-Cinemax East	https://1.0!CINEMAX_EAST!.z?7
-Cinemax Moremax	https://1.0!CINEMAX_MOREMAX!.z?7
-Cinemax West	https://1.0!CINEMAX_WEST!.z?7
-Cleo TV	https://1.0!Cleo_TV!.z?7
-CMT	https://1.0!CMT!.z?7
-CNBC	https://1.0!CNBC!.z?7
-CNN International	https://1.0!CNN_INTERNATIONAL!.z?7
-Comedy Central	https://1.0!Comedy_Central!.z?7
-Comet	https://1.0!COMET!.z?7
-Cooking Channel	https://1.0!COOKING_CHANNEL!.z?7
-Court TV	https://1.0!COURT_TV!.z?7
-Cozi TV	https://1.0!COZI_TV!.z?7
-Crave 1	https://1.0!CRAVE_1!.z?7
-Crave 2	https://1.0!CRAVE_2!.z?7
-Crave 3	https://1.0!CRAVE_3!.z?7
-Crave 4	https://1.0!CRAVE_4!.z?7
-C-Span	https://1.0!C-SPAN!.z?7
-Curiosity Stream	https://1.0!Curiosity_Stream!.z?7
-Destination America	https://1.0!Destination_America!.z?7
-Discovery Channel	https://1.0!Discovery_Channel!.z?7
-Discovery Family Channel	https://1.0!DISCOVERY_FAMILY_CHANNEL!.z?7
-Discovery Life	https://1.0!DISCOVERY_LIFE!.z?7
-Discovery Science	https://1.0!Discovery_Science!.z?7
-Disney Channel	https://1.0!DISNEY_CHANNEL!.z?7
-Disney Jr	https://1.0!DISNEY_JR!.z?7
-Disney XD	https://1.0!DISNEY_XD!.z?7
-DIY	https://1.0!DIY!.z?7
-Epix Drive In	https://1.0!EPIX_DRIVE_IN!.z?7
-ESPN 2	https://1.0!ESPN_2!.z?7
-ESPN News	https://1.0!ESPN_NEWS!.z?7
-ESPN U	https://1.0!ESPN_U!.z?7
-Food Network	https://1.0!FOOD_NETWORK!.z?7
-Fox Business Network	https://1.0!FOX_Business_Network!.z?7
-Fox East	https://1.0!FOX_EAST!.z?7
-Fox Soul	https://1.0!FOX_SOUL!.z?7
-Fox Sports 1	https://1.0!FOX_Sports_1!.z?7
-Fox Sports 2	https://1.0!FOX_SPORTS_2!.z?7
-Free Form	https://1.0!FREE_FORM!.z?7
-FX	https://1.0!FX!.z?7
-FX Movie	https://1.0!FX_MOVIE!.z?7
-FXX	https://1.0!FXX!.z?7
-FYI	https://1.0!FYI!.z?7
-Game Show Network	https://1.0!GAME_SHOW_NETWORK!.z?7
-Golf Channel	https://1.0!GOLF_CHANNEL!.z?7
-Grit TV	https://1.0!GRIT_TV!.z?7
-Hallmark Channel	https://1.0!HALLMARK_CHANNEL!.z?7
-Hallmark Drama	https://1.0!HALLMARK_DRAMA!.z?7
-Hallmark Movies Mysteries	https://1.0!HALLMARK_MOVIES_MYSTERIES!.z?7
-HBO 1	https://1.0!HBO!.z?7
-HBO 2	https://1.0!HBO_2!.z?7
-HBO Comedy	https://1.0!HBO_COMEDY!.z?7
-HBO Family	https://1.0!HBO_FAMILY!.z?7
-HGTV	https://1.0!HGTV!.z?7
-HLN	https://1.0!HLN!.z?7
-HSN	https://1.0!HSN!.z?7
-INSP	https://1.0!INSP!.z?7
-Investigation Discovery	https://1.0!INVESTIGATION_DISCOVERY!.z?7
-ION TV	https://1.0!ION_TV!.z?7
-Lifetime	https://1.0!LIFETIME!.z?7
-Lifetime Movie Network	https://1.0!LIFETIME_MOVIE_NETWORK!.z?7
-Love Nature	https://1.0!LOVE_NATURE!.z?7
-Me TV	https://1.0!ME_TV!.z?7
-MLB Network	https://1.0!MLB_NETWORK!.z?7
-Motor Trend	https://1.0!MOTOR_TREND!.z?7
-MSG	https://1.0!MSG!.z?7
-MTV 1	https://1.0!MTV!.z?7
-MTV 2	https://1.0!MTV_2!.z?7
-MTV Classic	https://1.0!MTV_CLASSIC!.z?7
-MTV Live	https://1.0!MTV_LIVE!.z?7
-MTV U	https://1.0!MTV_U!.z?7
-Much	https://1.0!MUCH!.z?7
-Nat Geo Wild	https://1.0!Nat_Geo_Wild!.z?7
-National Geographic	https://1.0!National_Geographic!.z?7
-NBA 2	https://1.0!NBA_2!.z?7
-NBA TV	https://1.0!NBA_TV!.z?7
-NBC East	https://1.0!NBC_EAST!.z?7
-News Nation	https://1.0!NEWS_NATION!.z?7
-NFL Network	https://1.0!NFL_NETWORK!.z?7
-NFL RedZone	https://1.0!NFL_RedZone!.z?7
-NHL Network	https://1.0!NHL_NETWORK!.z?7
-Nick Jr	https://1.0!NICK_JR!.z?7
-Nick Music	https://1.0!NICK_MUSIC!.z?7
-Nickelodeon	https://1.0!NICKELODEON!.z?7
-Nicktoons	https://1.0!NICKTOONS!.z?7
-Outer Max	https://1.0!OUTER_MAX!.z?7
-Outside TV	https://1.0!OUTSIDE_TV!.z?7
-Ovation	https://1.0!Ovation!.z?7
-OWN	https://1.0!OWN!.z?7
-Oxygen	https://1.0!OXYGEN!.z?7
-Paramount Network	https://1.0!PARAMOUNT_NETWORK!.z?7
-QVC	https://1.0!QVC!.z?7
-Reelz	https://1.0!REELZ!.z?7
-Revolt	https://1.0!REVOLT!.z?7
-SEC Network	https://1.0!SEC_NETWORK!.z?7
-Showtime 1	https://1.0!SHOWTIME!.z?7
-Showtime 2	https://1.0!SHOWTIME_2!.z?7
-Showtime Extreme	https://1.0!SHOWTIME_EXTREME!.z?7
-Showtime Next	https://1.0!SHOWTIME_NEXT!.z?7
-Showtime West	https://1.0!SHOWTIME_WEST!.z?7
-Showtime Women	https://1.0!SHOWTIME_WOMEN!.z?7
-Smithsonian Channel	https://1.0!SMITHSONIAN_CHANNEL!.z?7
-Sportsman Channel	https://1.0!SPORTSMAN_CHANNEL!.z?7
-Start TV	https://1.0!Start_Tv!.z?7
-Starz	https://1.0!STARZ!.z?7
-Starz Comedy	https://1.0!STARZ_COMEDY!.z?7
-Starz Edge	https://1.0!STARZ_EDGE!.z?7
-Starz Encore	https://1.0!STARZ_ENCORE!.z?7
-Starz Encore Action	https://1.0!STARZ_ENCORE_ACTION!.z?7
-Starz Encore Classic	https://1.0!STARZ_ENCORE_CLASSIC!.z?7
-Starz Encore Westerns	https://1.0!STARZ_ENCORE_WESTERNS!.z?7
-Sundance	https://1.0!SUNDANCE!.z?7
-SYFY	https://1.0!SYFY!.z?7
-TBS	https://1.0!TBS!.z?7
-TCM	https://1.0!TCM!.z?7
-Tennis Channel	https://1.0!TENNIS_CHANNEL!.z?7
-The Weather Channel	https://1.0!THE_WEATHER_CHANNEL!.z?7
-TLC	https://1.0!TLC!.z?7
-TNT	https://1.0!TNT!.z?7
-Travel Channel	https://1.0!Travel_Channel!.z?7
-TRU TV	https://1.0!TRU_TV!.z?7
-TV Land	https://1.0!TV_Land!.z?7
-TV One	https://1.0!TV_ONE!.z?7
-USA Network	https://1.0!USA_Network!.z?7
-VH1	https://1.0!VH1!.z?7
-Viceland	https://1.0!VICELAND!.z?7
-W Network	https://1.0!W_NETWORK!.z?7
-WE TV	https://1.0!WE_TV!.z?7
-WGN	https://1.0!WGN!.z?7
-World Fishing Network	https://1.0!WORLD_FISHING_NETWORK!.z?7
-Yes Network	https://1.0!YES_NETWORK!.z?7
-
-FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8?7
-FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8?7
-FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8?7
-FIFA+ 🇩🇪	https://jmp2.uk/sam-DEBA3300019EB.m3u8?7
-FIFA+ 🇪🇸	https://jmp2.uk/sam-ESBC2700009B4.m3u8?7
-FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8?7
-FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8?7
-FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8?7
-FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8?7
-
-[l]For Desktop[z]	^-
-HBO ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-HBO Family ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-HBO Hits ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-HBO Signature ID	https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 	^-
 [l]Sports & TV Channels[z] [w]for Desktop[z]	^-
