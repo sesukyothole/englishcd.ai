@@ -51,8 +51,6 @@ Hong Kong vs Mongolia	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYTL6XzEx
 Thailand vs Kuwait	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYR8cfWR2xV/index.m3u8
 
 20:00 [l]International Friendly[z]	^-
-Oman Sport 🇴🇲	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-Indonesia vs Oman	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
 Indonesia vs Oman	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYVXaQU4sGH/index.m3u8
 Indonesia vs Oman	`0https://www.marza12.shop/football/2991741-indonesia-vs-oman.html
 ^=Indonesia vs Oman	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404051/indonesia-vs-oman.html
@@ -67,6 +65,7 @@ Colombia vs China	https://stream.yultech.online/hls/live/sd-6MwdaddzQUAbiUsC3f/i
 
 21:00 [l]International Friendly U21[z]^-
 Belarus vs Kazakhstan
+Montenegro vs Cyprus
 
 21:30 [l]International Friendly[z]	^-
 Russia U21 vs Iraq U23	https://stream.yultech.online/hls/live/sd-6Mwe5nu9tjsK11YqPs/index.m3u8
