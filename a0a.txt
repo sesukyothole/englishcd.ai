@@ -45,9 +45,11 @@ Singapore vs China	https://stream.yultech.online/hls/live/sd-6MwdLb71Lv9mp2FdRf/
 
 19:00 [l]International Friendly[z]	^-
 Niger vs Mauritania
+Hong Kong vs Mongolia	https://live.666666.zip/live/4544883.m3u8
 Hong Kong vs Mongolia	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYTL6XzEx7P/index.m3u8
 
 19:30 [l]International Friendly[z]	^-
+Thailand vs Kuwait	https://live.666666.zip/live/4544880.m3u8
 Thailand vs Kuwait	https://stream.yultech.online/hls/live/sd-6Mwe5ZteYR8cfWR2xV/index.m3u8
 
 20:00 [l]International Friendly[z]	^-
