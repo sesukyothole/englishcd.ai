@@ -33,10 +33,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 05.06.2026	^-
 
-18:00 [l]International Friendly[z]	^-
+18:00 [l]International Friendly[z]^-
 USA U20 vs Georgia U21
 Jamaica vs South Africa
-Uzbekistan U23 vs Japan U21	https://stream.yultech.online/hls/live/sd-6Mwe5nrCSmQeFHqzQD/index.m3u8
+Uzbekistan U23 vs Japan U21 https://stream.yultech.online/hls/live/sd-6Mwe5nrCSmQeFHqzQD/index.m3u8
 
 18:30 [l]International Friendly[z]	^-
 Singapore vs China	https://live.666666.zip/live/4539878.m3u8
