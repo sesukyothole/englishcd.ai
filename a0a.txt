@@ -33,19 +33,12 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 05.06.2026	^-
 
-21:30 [l]International Friendly[z]	^-
-^=Russia U21 vs Iraq U23	https://stream.yultech.online/hls/live/sd-6Mwe5nu9tjsK11YqPs/index.m3u8
-Russia U21 vs Iraq U23	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407867/russia-u21-vs-iraq-u23.html
-
-22:00 [l]International Friendly U18[z]^-
-USA vs Sweden
-
 22:00 [l]International Friendly[z]	^-
 Tajikistan vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407297/tajikistan-vs-india.html
 ^=Tajikistan vs India	https://stream.streamoke.net/live/sd-6Mwe5nrEHdbicDaLxV.m3u8
 ^=Tajikistan vs India	https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5nrEHdbicDaLxV.m3u8
-^=Tajikistan vs India`	`0https://stream.streamoke.net/live/sd-6Mwe5nrEHdbicDaLxV.m3u8
-^=Tajikistan vs India`	`0https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5nrEHdbicDaLxV.m3u8
+^=Tajikistan vs India`1	`1https://stream.streamoke.net/live/sd-6Mwe5nrEHdbicDaLxV.m3u8
+^=Tajikistan vs India`1	`1https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5nrEHdbicDaLxV.m3u8
 
 22:00 [l]International Friendly U21[z]^-
 Montenegro vs Cyprus	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407403/montenegro-u21-vs-cyprus-u21.html
