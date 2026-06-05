@@ -130,6 +130,8 @@ Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 MDTV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Moji TV	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
+Indosiar	https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
 GTV	https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd
 MNC TV	https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 RCTI	https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
@@ -157,9 +159,6 @@ RT Russia TV	https://indihuy.streamized.net/atm/DASH/rusiatv/manifest.mpd
 Sinpo TV	https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 Usee Prime	https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 Z Bioskop	https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
-
-SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
-Indosiar	https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
 
 Pesta Babi .Full Movie	i0`00.reel/843619455466130/
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
