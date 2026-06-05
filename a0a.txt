@@ -33,10 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 05.06.2026	^-
 
-21:00 [l]International Friendly U21[z]^-
-Belarus vs Kazakhstan
-Montenegro vs Cyprus
-
 21:30 [l]International Friendly[z]	^-
 ^=Russia U21 vs Iraq U23	https://stream.yultech.online/hls/live/sd-6Mwe5nu9tjsK11YqPs/index.m3u8
 Russia U21 vs Iraq U23	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407867/russia-u21-vs-iraq-u23.html
@@ -48,7 +44,8 @@ USA vs Sweden
 Tajikistan vs India	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407297/tajikistan-vs-india.html
 
 22:00 [l]International Friendly U21[z]^-
-Latvia vs Estonia
+Montenegro vs Cyprus	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407403/montenegro-u21-vs-cyprus-u21.html
+Latvia vs Estonia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407699/latvia-u21-vs-estonia-u21.html
 
 22:00 [l]International Friendly U20[z]^-
 Tunisia vs Algeria
@@ -62,7 +59,7 @@ Georgia vs Bahrain	https://live.666666.zip/live/4544837.m3u8
 ^=Georgia vs Bahrain	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404044/georgia-vs-bahrain.html
 
 23:00 [l]International Friendly U21[z]^-
-Ukraine vs USA
+Ukraine vs USA	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407662/ukraine-u21-vs-usa-u21.html
 
 23:30 [l]International Friendly[z]	^-
 Slovakia vs Montenegro	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
@@ -84,6 +81,7 @@ San Marino vs Bangladesh	https://live.666666.zip/live/4544894.m3u8
 ^=San Marino vs Bangladesh	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404049/san-marino-vs-bangladesh.html
 Russia vs Burkina Faso	`0https://ww2.sporttsonline.click/channels/hd/hd11.php
 Russia vs Burkina Faso	https://live.666666.zip/live/4544892.m3u8
+^=Russia vs Burkina Faso	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404048/russia-vs-burkina-faso.html
 
 00:45 [l]International Friendly[z]	^-
 Hungary vs Finland	`0https://ww2.sporttsonline.click/channels/hd/hd4.php
@@ -95,6 +93,9 @@ Azerbaijan vs Malta	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Azerbaijan vs Malta	https://live.666666.zip/live/4544901.m3u8
 ^=Azerbaijan vs Malta	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404045/azerbaijan-vs-malta.html
 
+01:00 [l]International Friendly U21[z]	^-
+Slovenia vs Albania	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407893/slovenia-u21-vs-albania-u21.html
+
 01:35 [l]World Cup qualifier UEFA (w)[z]	^-
 Germany vs Norway	`0https://ww2.sporttsonline.click/channels/hd/hd3.php
 ^=Germany vs Norway	`Fhttps://www.fctv33.ws/football/fifa-womens-world-cup-qualificationuefa-match-4313642/germany-women-vs-norway-women.html
@@ -102,6 +103,7 @@ Germany vs Norway	`0https://ww2.sporttsonline.click/channels/hd/hd3.php
 02:00 [l]World Cup qualifier UEFA (w)[z]	^-
 Spain vs England	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
 ^=Spain vs England	`Fhttps://www.fctv33.ws/football/fifa-womens-world-cup-qualificationuefa-match-4313652/spain-women-vs-england-women.html
+Portogal vs Latvia	`Fhttps://www.fctv33.ws/football/fifa-womens-world-cup-qualificationuefa-match-4313647/portugal-women-vs-latvia-women.html
 
 05:15 [l]International Friendly[z]	^-
 Paraguay vs Nicaragua	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
@@ -132,6 +134,9 @@ Cambodia vs Philippines	`Fhttps://www.fctv33.ws/football/aff-u19-youth-champions
 
 20:00 [l]European Baltic Cup[z]	^-
 Lithuania vs Latvia	`Fhttps://www.fctv33.ws/football/european-baltic-cup-match-4406782/lithuania-vs-latvia.html
+
+22:00 [l]European Baltic Cup[z]	^-
+Estonia vs Faroe Islands	`Fhttps://www.fctv33.ws/football/european-baltic-cup-match-4406797/estonia-vs-faroe-islands.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
