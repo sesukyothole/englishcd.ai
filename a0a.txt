@@ -34,9 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 06.06.2026	^-
 
-22:30 [l]International Friendly U21[z]	^-
-Croatia vs Ireland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407977/croatia-u21-vs-ireland-u21.html
-
 23:30 [l]Toulon Maurice Revello[z]	^-
 Portugal U20 vs Ivory Coast U23	`0https://ww2.sporttsonline.click/channels/pt/sporttv3.php
 Portugal U20 vs Ivory Coast U23	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4406622/portugal-u20-vs-cote-divoire-u23.html
@@ -44,21 +41,28 @@ Portugal U20 vs Ivory Coast U23	`Fhttps://www.fctv33.ws/football/toulon-maurice-
 07.06.2026	^-
 
 00:00 [l]International Friendly[z]	^-
-Gibraltar vs Cayman Islands	`0https://www.marza12.shop/football/2992182-gibraltar-vs-cayman-islands.html
+Gibraltar vs Cayman Islands	https://live.666666.zip/live/4544853.m3u8
 Gibraltar vs Cayman Islands	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404038/gibraltar-vs-cayman-islands.html
 
 00:45 [l]International Friendly[z]	^-
 Portugal vs Chile	`0https://ww2.sporttsonline.click/channels/hd/hd2.php
+Portugal vs Chile	https://live.666666.zip/live/4512422.m3u8
+Portugal vs Chile	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 Portugal vs Chile	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370232/portugal-vs-chile.html
 Romania vs Wales	`0https://ww2.sporttsonline.click/channels/hd/hd5.php
+Romania vs Wales	https://live.666666.zip/live/4544838.m3u8
+Romania vs Wales	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 Romania vs Wales	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404037/romania-vs-wales.html
 
 01:00 [l]International Friendly[z]	^-
 Albania vs Luxembourg	`0https://ww2.sporttsonline.click/channels/hd/hd8.php
+Albania vs Luxembourg	https://live.666666.zip/live/4544859.m3u8
+Albania vs Luxembourg	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Albania vs Luxembourg	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404036/albania-vs-luxembourg.html
 
 01:30 [l]International Friendly[z]	^-
 USA vs Germany	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
+USA vs Germany	https://live.666666.zip/live/4460235.m3u8
 USA vs Germany	`1https://mut.st/watch/usa-vs-germany/delta/1
 USA vs Germany	`Fhttps://www.fctv33.ws/football/international-friendly-match-4318054/usa-vs-germany.html
 
@@ -273,6 +277,17 @@ TSN 5	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/
 TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 TVR Sport	https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 Channel 11	https://cdn3.skygo.mn/live/disk1/Channel11/HLS-FTA/Channel11.m3u8
 Education	https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
@@ -529,17 +544,6 @@ USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
-CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 	^-
 [w]Sport Channels & TV[z]	^-
