@@ -34,9 +34,17 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 06.06.2026	^-
 
+14:30 [l]CFA Team China International U23[z]	^-
+China vs Tajikistan	`Fhttps://www.fctv33.ws/football/cfa-team-china-international-tournament-match-4406767/china-u23-vs-tajikistan-u23.html
+
+18:00 [l]International Friendly U23[z]	^-
+Thailand vs South Korea	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407849/thailand-u23-vs-south-korea-u23.html
+
+18:30 [l]International Friendly[z]	^-
+Myanmar vs Guam Island	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404043/myanmar-vs-guam-island.html
+
 20:00 [l]International Friendly[z]	^-
-Belgium vs Tunisia	https://live.666666.zip/live/4512481.m3u8
-^=Belgium vs Tunisia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370231/belgium-vs-tunisia.html
+Belgium vs Tunisia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370231/belgium-vs-tunisia.html
 
 20:00 [l]Toulon Maurice Revello[z]	^-
 Japan U19 vs Canada U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4406623/japan-u19-vs-canada-u20.html
@@ -47,8 +55,60 @@ Cambodia vs Philippines	`Fhttps://www.fctv33.ws/football/aff-u19-youth-champions
 20:00 [l]European Baltic Cup[z]	^-
 Lithuania vs Latvia	`Fhttps://www.fctv33.ws/football/european-baltic-cup-match-4406782/lithuania-vs-latvia.html
 
+21:00 [l]International Friendly[z]	^-
+Armenia vs Kazakhstan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404039/armenia-vs-kazakhstan.html
+
+21:00 [l]European Baltic Cup[z]	^-
+Estonia U19 vs Lithuania U19	`Fhttps://www.fctv33.ws/football/european-baltic-cup-match-4406784/estonia-u19-vs-lithuania-u19.html
+Azerbaijan U21 vs Bahrain U21	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407967/azerbaijan-u21-vs-bahrain-u21.html
+
+21:30 [l]European Baltic Cup[z]	^-
+Palestine vs Kenya	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404041/palestine-vs-kenya.html
+Kyrgyzstan vs Palestine	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407969/kyrgyzstan-vs-palestine.html
+
 22:00 [l]European Baltic Cup[z]	^-
 Estonia vs Faroe Islands	`Fhttps://www.fctv33.ws/football/european-baltic-cup-match-4406797/estonia-vs-faroe-islands.html
+
+22:00 [l]International Friendly U21[z]	^-
+Kosovo vs Luxembourg	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407974/kosovo-u21-vs-luxembourg-u21.html
+
+22:30 [l]International Friendly U21[z]	^-
+Croatia vs Ireland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4407977/croatia-u21-vs-ireland-u21.html
+
+23:30 [l]Toulon Maurice Revello[z]	^-
+Portugal U20 vs Ivory Coast U23	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4406622/portugal-u20-vs-cote-divoire-u23.html
+
+07.06.2026	^-
+
+00:00 [l]International Friendly[z]	^-
+Gibraltar vs Cayman Islands	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404038/gibraltar-vs-cayman-islands.html
+
+00:45 [l]International Friendly[z]	^-
+Portugal vs Chile	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370232/portugal-vs-chile.html
+Romania vs Wales	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404037/romania-vs-wales.html
+
+01:00 [l]International Friendly[z]	^-
+Albania vs Luxembourg	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404036/albania-vs-luxembourg.html
+
+01:30 [l]International Friendly[z]	^-
+USA vs Germany	`Fhttps://www.fctv33.ws/football/international-friendly-match-4318054/usa-vs-germany.html
+
+02:00 [l]International Friendly[z]	^-
+Australia vs Switzerland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400579/australia-vs-switzerland.html
+
+03:00 [l]International Friendly[z]	^-
+England vs New Zealand	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370230/england-vs-new-zealand.html
+Bolivia vs Scotland	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400578/bolivia-vs-scotland.html
+Qatar vs El Salvador	`Fhttps://www.fctv33.ws/football/international-friendly-match-4401643/qatar-vs-el-salvador.html
+
+05:00 [l]International Friendly[z]	^-
+Brazil vs Egypt	`Fhttps://www.fctv33.ws/football/international-friendly-match-4368376/brazil-vs-egypt.html
+
+05:00 [l]International Friendly[z]	^-
+Venezuela vs Turkey	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400577/venezuela-vs-turkiye.html
+
+07:00 [l]International Friendly[z]	^-
+Argentina vs Honduras	`Fhttps://www.fctv33.ws/football/international-friendly-match-4387914/argentina-vs-honduras.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
