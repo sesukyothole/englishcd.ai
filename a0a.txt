@@ -35,6 +35,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 06.06.2026	^-
 
 14:30 [l]CFA Team China International U23[z]	^-
+China vs Tajikistan	https://live.666666.zip/live/4545051.m3u8
 China vs Tajikistan	`Fhttps://www.fctv33.ws/football/cfa-team-china-international-tournament-match-4406767/china-u23-vs-tajikistan-u23.html
 
 18:00 [l]International Friendly U23[z]	^-
@@ -50,9 +51,11 @@ Belgium vs Tunisia	`1https://mut.st/watch/belgium-vs-tunisia/delta/1
 Belgium vs Tunisia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4370231/belgium-vs-tunisia.html
 
 20:00 [l]Toulon Maurice Revello[z]	^-
+Japan U19 vs Canada U20	`0https://www.marza12.shop/football/2990790-japan-u19-vs-canada-u20.html
 Japan U19 vs Canada U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4406623/japan-u19-vs-canada-u20.html
 
 20:00 [l]AFF U19 Youth Championship[z]	^-
+Cambodia vs Philippines	`0https://www.marza12.shop/football/2990858-cambodia-u19-vs-philippines-u19.html
 Cambodia vs Philippines	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4406781/cambodia-u19-vs-philippines-u19.html
 
 20:00 [l]European Baltic Cup[z]	^-
@@ -89,6 +92,7 @@ Portugal U20 vs Ivory Coast U23	`Fhttps://www.fctv33.ws/football/toulon-maurice-
 07.06.2026	^-
 
 00:00 [l]International Friendly[z]	^-
+Gibraltar vs Cayman Islands	`0https://www.marza12.shop/football/2992182-gibraltar-vs-cayman-islands.html
 Gibraltar vs Cayman Islands	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404038/gibraltar-vs-cayman-islands.html
 
 00:45 [l]International Friendly[z]	^-
