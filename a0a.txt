@@ -36,11 +36,9 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 07.06.2026	^-
 
-23:00 [l]International Friendly[z]	^-
-Maldives vs Bangladesh U23	`Fhttps://www.fctv33.ws/football/international-friendly-match-4408047/maldives-vs-bangladesh-u23.html
-
 23:30 [l]International Friendly[z]	^-
 Denmark vs Ukraine	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
+Denmark vs Ukraine	https://live.666666.zip/live/4541804.m3u8
 Denmark vs Ukraine	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400576/denmark-vs-ukraine.html
 
 23:30 [l]Toulon Maurice Revello[z]	^-
@@ -51,24 +49,30 @@ China U19 vs Tunisia U23	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello
 
 01:00 [l]International Friendly[z]	^-
 Kosovo vs Andorra	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
+Kosovo vs Andorra	https://live.666666.zip/live/4544875.m3u8
 Kosovo vs Andorra	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404033/kosovo-vs-andorra.html
 
 01:45 [l]International Friendly[z]	^-
 Croatia vs Slovenia	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
+Croatia vs Slovenia	https://live.666666.zip/live/4541792.m3u8
 Croatia vs Slovenia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400575/croatia-vs-slovenia.html
 
 02:00 [l]International Friendly[z]	^-
 Morocco vs Norway	`0https://ww2.sporttsonline.click/channels/hd/hd10.php
+Morocco vs Norway	https://live.666666.zip/live/4531724.m3u8
 Morocco vs Norway	`Fhttps://www.fctv33.ws/football/international-friendly-match-4389966/morocco-vs-norway.html
 Greece vs Italy	`0https://ww2.sporttsonline.click/channels/hd/hd2.php
+Greece vs Italy	https://live.666666.zip/live/4541794.m3u8
 Greece vs Italy	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400574/greece-vs-italy.html
 
 03:00 [l]International Friendly[z]	^-
 Ecuador vs Guatemala	`0https://ww2.sporttsonline.click/channels/hd/hd9.php
+Ecuador vs Guatemala	https://live.666666.zip/live/4541809.m3u8
 Ecuador vs Guatemala	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400573/ecuador-vs-guatemala.html
 
 06:00 [l]International Friendly[z]	^-
 Colombia vs Jordan	`0https://ww2.sporttsonline.click/channels/hd/hd6.php
+Colombia vs Jordan	https://live.666666.zip/live/4541796.m3u8
 Colombia vs Jordan	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400572/colombia-vs-jordan.html
 
 	^-
