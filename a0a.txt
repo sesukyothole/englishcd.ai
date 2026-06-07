@@ -30,7 +30,7 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 Live Sports Streaming	`0https://www.marza12.shop/football.html
 	^-
-[l]Drama Dubbing Indonesia[z]	^+https://apiv2.free-reels.com/frv2-api/l/2slpsjvWXII
+[][l]Drama Dubbing Indonesia[z]	^-[]^+https://apiv2.free-reels.com/frv2-api/l/2slpsjvWXII
 
 	^-
 
