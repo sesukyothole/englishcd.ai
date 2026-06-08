@@ -73,6 +73,15 @@ France vs Northern Ireland	`Fhttps://www.fctv33.ws/football/international-friend
 09:00 [l]International Friendly[z]	^-
 Peru vs Spain	`Fhttps://www.fctv33.ws/football/international-friendly-match-4400570/peru-vs-spain.html
 
+15:00 [l]EAFF E-1 Football Championship (w)[z]	^-
+South Korea vs Chinese Taipei	`Fhttps://www.fctv33.ws/football/eaff-e-1-womens-football-championship-match-4408782/south-korea-women-vs-chinese-taipei-women.html
+
+15:30 [l]International Friendly (w)[z]	^-
+Indonesia vs Cambodia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4408638/indonesia-women-vs-cambodia-women.html
+
+16:00 [l]ASEAN Championship[z]	^-
+Timor Leste vs Brunei Darussalam	`Fhttps://www.fctv33.ws/football/asean-championship-match-4405664/timor-leste-vs-brunei-darussalam.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
