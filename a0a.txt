@@ -36,11 +36,14 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 15:00 [l]EAFF E-1 Football Championship (w)[z]	^-
 South Korea vs Chinese Taipei	`Fhttps://www.fctv33.ws/football/eaff-e-1-womens-football-championship-match-4408782/south-korea-women-vs-chinese-taipei-women.html
+South Korea vs Chinese Taipei	https://public-play.ycuaas.cn/public/441234375_1780991034_gqzm.flv?txSecret=26865a0614c6fd8cde8d77d2f2bf7564&txTime=6A27D9B7&token=22e3097a45828696&device=3&platform=kqzb
 
 15:30 [l]International Friendly (w)[z]	^-
+Indonesia vs Cambodia	`0https://www.marza12.shop/football/2993095-indonesia-w-vs-cambodia-w.html
 Indonesia vs Cambodia	`Fhttps://www.fctv33.ws/football/international-friendly-match-4408638/indonesia-women-vs-cambodia-women.html
 
 16:00 [l]ASEAN Championship[z]	^-
+Timor Leste vs Brunei Darussalam	`0https://www.marza12.shop/football/2991079-timor-leste-vs-brunei-darussalam.html
 Timor Leste vs Brunei Darussalam	`Fhttps://www.fctv33.ws/football/asean-championship-match-4405664/timor-leste-vs-brunei-darussalam.html
 
 18:30 [l]International Friendly[z]	^-
