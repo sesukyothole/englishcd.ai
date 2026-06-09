@@ -2,6 +2,7 @@
 	^-
 ^=	^-
 ^=mut.st	`1https://mut.st/
+^=idncam	`0https://www.rrty673.com/broadcast/details?room_id=888888888&match_id=4549868&sport_id=1
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
