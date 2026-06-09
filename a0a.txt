@@ -32,16 +32,9 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 	^-
 
 09.06.2026	^-
-18:30 [l]International Friendly[z]	^-
-Myanmar vs Thailand	https://live.666666.zip/live/4549870.m3u8
-Philippines vs Myanmar	https://live.666666.zip/live/4544841.m3u8
-
-18:35 [l]CFA Team China International U23[z]	^-
-China vs Tajikistan	https://live.666666.zip/live/4545050.m3u8
-China vs Tajikistan	`Fhttps://www.fctv33.ws/football/cfa-team-china-international-tournament-match-4407540/china-u23-vs-tajikistan-u23.html
-China vs Thailand	https://live.666666.zip/live/4542898.m3u8
 
 19:00 [l]International Friendly[z]	^-
+Cambodia vs Hong Kong	https://pul-tenm.nbs3g.com/live/sd-1-4544865.m3u8?txSecret=49050a89a8616daf50dfbb40cea1bee0&txTime=6A295942
 Cambodia vs Hong Kong	`Fhttps://www.fctv33.ws/football/international-friendly-match-4404032/cambodia-vs-hong-kong.html
 
 19:00 [l]International Friendly[z]	^-
