@@ -1,8 +1,6 @@
 	^-
 	^-
 ^=	^-
-^=k vs c0	`0https://embed.st/embed/admin/ppv-south-korea-vs-czechia/1
-^=k vs c1	`1https://embed.st/embed/admin/ppv-south-korea-vs-czechia/1
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
@@ -1322,5 +1320,7 @@ TNT Sports 1 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/client
 TNT Sports 2 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 TNT Sports 3 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 TNT Sports 4 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+
+^=k vs c1	`1https://embed.st/embed/admin/ppv-south-korea-vs-czechia/1
 
 	^-
