@@ -70,11 +70,8 @@ South Korea vs Czech	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-43702
 
 Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-World Cup TVRI Piala Dunia	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-TVRI Wolrd	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?7
+FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8?7
 
 Pesta Babi .Full Movie	i0`00.reel/843619455466130/
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
@@ -94,6 +91,8 @@ Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaw
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 tvN CJ E&M	https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
+TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+TVRI Wolrd	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 Animal Planet	https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd!!df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Barca TV	https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
