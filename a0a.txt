@@ -33,9 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 11.06.2026	^-
 
-07:00 [l]International Friendly[z]	^-
-Bolivia vs Algeria	https://live.666666.zip/live/4550228.m3u8
-
 16:00 [l]AFF U19 Youth Championship[z]	^-
 Thailand vs Cambodia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4409173/thailand-u19-vs-cambodia-u19.html
 
@@ -52,6 +49,9 @@ Portugal U20 vs Canada U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revel
 
 02:00 [l]World Cup[z]	^-
 Mexico vs South Africa	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324305/mexico-vs-south-africa.html
+
+09:00 [l]World Cup[z]	^-
+South Korea vs Czech	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4370284/south-korea-vs-czechia.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
