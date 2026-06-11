@@ -28,7 +28,8 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 ^#	^-
 
 Live Sports Streaming	`0https://www.marza12.shop/football.html
-
+	^-
+World Cup TVRI Piala Dunia	https://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 	^-
 
 12.06.2026	^-
@@ -59,6 +60,7 @@ South Korea vs Czech	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-43702
 ^#	^-
 
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+TVRI Wolrd	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 Animal Planet	https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd!!df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 beIN Sport Xtra n	https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
