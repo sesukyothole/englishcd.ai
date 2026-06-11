@@ -35,6 +35,8 @@ World Cup TVRI Piala Dunia	https://khano.nng.cloudns.us/live/m3u8/id/3f58825fe22
 12.06.2026	^-
 
 00:00 [l]Toulon Maurice Revello[z]	^-
+Portugal U20 vs Canada U20	https://live.666666.zip/live/4527112.m3u8
+Portugal U20 vs Canada U20	https://pul-tenm.nbs3g.com/live/hd-en-1-4527112.m3u8?txSecret=e9317bcb70f855b4dd71046715e2b0c2&txTime=6A2C3B8A
 Portugal U20 vs Canada U20	`0https://ww2.sporttsonline.click/channels/pt/sporttv2.php
 Portugal U20 vs Canada U20	`0https://www.marza12.shop/football/2990795-portugal-u20-vs-canada-u20.html
 Portugal U20 vs Canada U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revello-tournament-match-4406624/portugal-u20-vs-canada-u20.html
@@ -63,6 +65,7 @@ Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 TVRI Wolrd	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 FIFA+ Engish	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
 Pesta Babi .Full Movie	i0`00.reel/843619455466130/
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
@@ -84,8 +87,10 @@ My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 tvN CJ E&M	https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
 Animal Planet	https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd!!df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Barca TV	https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 BBC Drama Series	https://stream1.freetv.fun/29d9cd989e3d57ab50d527e42b73589d525ce00b52c343244885a5b5c523d840.m3u8
-beIN Sport Xtra n	https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+beIN Sports 2	https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
+beIN Sports Xtra n	https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -108,13 +113,18 @@ MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 Nusantara TV	https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-TV5 Monde	https://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8
+TSN The Ocho	https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 TV One	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+TV5 Monde	https://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+UFC 1	https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+UFC 2	https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 	^-
@@ -465,8 +475,6 @@ ORF Sport Plus 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-spo
 Persiana	https://spstr.abntv.live/hls/psstream.m3u8
 Peacock Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 RedBull TV	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 RTA Sports	https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 RTK1	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
