@@ -47,9 +47,9 @@ Portugal U20 vs Canada U20	`Fhttps://www.fctv33.ws/football/toulon-maurice-revel
 02:00 [l]World Cup[z]	^-
 Mexico vs South Africa	https://live.666666.zip/live/4459820.m3u8
 Mexico vs South Africa	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Mexico vs South Africa	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 Mexico vs South Africa	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Mexico vs South Africa	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+Mexico vs South Africa	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 Mexico vs South Africa	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Mexico vs South Africa	`0https://www.marza12.shop/football/2906701-mexico-vs-south-africa.html
 Mexico vs South Africa	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324305/mexico-vs-south-africa.html
