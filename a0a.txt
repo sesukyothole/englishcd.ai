@@ -67,54 +67,12 @@ South Korea vs Czech	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-43702
 ^#	^-
 
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-AXN	https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
-Cinemax	https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
-HBO Family	https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
-HBO Hits	https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
-HBO Signature	https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
-HBO	https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
-HITS Movies	https://indihuy.streamized.net/atm/DASH/hitsmovie/manifest.mpd
-K Plus	https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
-KiX	https://indihuy.streamized.net/atm/DASH/kix/manifest.mpd
-Rock Action	https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
-Rock Entertainment	https://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
-Thrill	https://indihuy.streamized.net/atm/DASH/thrill/manifest.mpd
-Warner	https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
 BBC Drama Series	https://stream1.freetv.fun/29d9cd989e3d57ab50d527e42b73589d525ce00b52c343244885a5b5c523d840.m3u8
 Drama Movies Rakuten TV UK	https://stream1.freetv.fun/a0b9690751be25a52de90082f3478abd8647bc8f6aa9893ed8a289875b7069c7.m3u8
 Magna TV	https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 MDTV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Moji TV	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
-Indosiar	https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
-GTV	https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd
-MNC TV	https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
-RCTI	https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
-iNews	https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
-Al Jazeera	https://indihuy.streamized.net/atm/DASH/aljazeera/manifest.mpd
-Arirang	https://indihuy.streamized.net/atm/DASH/ARIRANG/manifest.mpd
-BBC News	https://indihuy.streamized.net/atm/DASH/bbcnews/manifest.mpd
-Bloomberg Austria	https://indihuy.streamized.net/atm/DASH/BLOOMBERG_AT/manifest.mpd
-Cartoonito	https://indihuy.streamized.net/atm/DASH/boomerang/manifest.mpd
-CGTN Documentary	https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
-Channel News Asia	https://indihuy.streamized.net/atm/DASH/newsasia/manifest.mpd
-Discovery Channel	https://indihuy.streamized.net/atm/DASH/disco/manifest.mpd
-DW TV	https://indihuy.streamized.net/atm/DASH/DWTV/manifest.mpd
-Fight Sport	https://indihuy.streamized.net/atm/DASH/fightsport/manifest.mpd
-Indi Kids	https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
-Jawapos	https://indihuy.streamized.net/atm/DASH/jawapos/manifest.mpd
-JTV	https://indihuy.streamized.net/atm/DASH/jtv/manifest.mpd
-Max Eats	https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
-Max Streak	https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
-My Kidz	https://indihuy.streamized.net/atm/DASH/mykids/manifest.mpd
-NHK World Japan	https://indihuy.streamized.net/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
-Nickelodeon	https://indihuy.streamized.net/atm/DASH/nickelodeon/manifest.mpd
-Rajawali TV	https://indihuy.streamized.net/atm/DASH/RAJAWALI_TV/manifest.mpd
-RT Russia TV	https://indihuy.streamized.net/atm/DASH/rusiatv/manifest.mpd
-Sinpo TV	https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
-Usee Prime	https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
-Z Bioskop	https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 
 Pesta Babi .Full Movie	i0`00.reel/843619455466130/
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
@@ -1280,6 +1238,49 @@ TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 ^=RCTI	`Fhttps://m.rctiplus.com/tv/rcti
 ^=iNews	`Fhttps://m.rctiplus.com/tv/inews
 ^=Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+
+AXN	https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
+Cinemax	https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
+HBO Family	https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
+HBO Hits	https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
+HBO Signature	https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
+HBO	https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
+HITS Movies	https://indihuy.streamized.net/atm/DASH/hitsmovie/manifest.mpd
+K Plus	https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
+KiX	https://indihuy.streamized.net/atm/DASH/kix/manifest.mpd
+Rock Action	https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
+Rock Entertainment	https://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
+Thrill	https://indihuy.streamized.net/atm/DASH/thrill/manifest.mpd
+Warner	https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
+SCTV	https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
+Indosiar	https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
+GTV	https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd
+MNC TV	https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+RCTI	https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
+iNews	https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
+Al Jazeera	https://indihuy.streamized.net/atm/DASH/aljazeera/manifest.mpd
+Arirang	https://indihuy.streamized.net/atm/DASH/ARIRANG/manifest.mpd
+BBC News	https://indihuy.streamized.net/atm/DASH/bbcnews/manifest.mpd
+Bloomberg Austria	https://indihuy.streamized.net/atm/DASH/BLOOMBERG_AT/manifest.mpd
+Cartoonito	https://indihuy.streamized.net/atm/DASH/boomerang/manifest.mpd
+CGTN Documentary	https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+Channel News Asia	https://indihuy.streamized.net/atm/DASH/newsasia/manifest.mpd
+Discovery Channel	https://indihuy.streamized.net/atm/DASH/disco/manifest.mpd
+DW TV	https://indihuy.streamized.net/atm/DASH/DWTV/manifest.mpd
+Fight Sport	https://indihuy.streamized.net/atm/DASH/fightsport/manifest.mpd
+Indi Kids	https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
+Jawapos	https://indihuy.streamized.net/atm/DASH/jawapos/manifest.mpd
+JTV	https://indihuy.streamized.net/atm/DASH/jtv/manifest.mpd
+Max Eats	https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
+Max Streak	https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
+My Kidz	https://indihuy.streamized.net/atm/DASH/mykids/manifest.mpd
+NHK World Japan	https://indihuy.streamized.net/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+Nickelodeon	https://indihuy.streamized.net/atm/DASH/nickelodeon/manifest.mpd
+Rajawali TV	https://indihuy.streamized.net/atm/DASH/RAJAWALI_TV/manifest.mpd
+RT Russia TV	https://indihuy.streamized.net/atm/DASH/rusiatv/manifest.mpd
+Sinpo TV	https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
+Usee Prime	https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+Z Bioskop	https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 
 ^=Live 1	`0https://24start.net/homes/blog1/
 ^=Live 2	`0https://24start.net/homes/blog2/
