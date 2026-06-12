@@ -1,6 +1,8 @@
 	^-
 	^-
 ^=	^-
+^=AD Leonico vs Barreiras 0	`0https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4829455
+^=AD Leonico vs Barreiras 1	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4829455
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
