@@ -33,11 +33,15 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 13.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
+Canada vs Bosnia-Herzegovina	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+Canada vs Bosnia-Herzegovina	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Canada vs Bosnia-Herzegovina	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Canada vs Bosnia-Herzegovina	`0https://www.marza12.shop/football/2906756-canada-vs-bosnia-and-herzegovina.html
 Canada vs Bosnia-Herzegovina	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4331450/canada-vs-bosnia-and-herzegovina.html
 
 08:00 [l]World Cup[z]	^-
+USA vs Paraguay	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+USA vs Paraguay	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 USA vs Paraguay	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 USA vs Paraguay	`0https://www.marza12.shop/football/2906706-usa-vs-paraguay.html
 USA vs Paraguay	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318059/usa-vs-paraguay.html
@@ -50,9 +54,10 @@ USA vs Paraguay	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318059/us
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+World Cup Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 World Cup CCTV 5	https://live12.xiazhix1.top/live/85042987.m3u8
-TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?7
 FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8?7
 
@@ -76,6 +81,7 @@ My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 tvN CJ E&M	https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 TVRI Wolrd	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 Animal Planet	https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd!!df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Barca TV	https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
@@ -130,6 +136,10 @@ iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 	^-
 [w]Sports TV Channels[z]	^-
 
+D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd!!a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+M6 TV	https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd!!433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+
+D Sports	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd!!a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 Arena Sport CZ 1	https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
 Arena Sport CZ 2	https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
 beIN Sports AU 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
@@ -169,8 +179,6 @@ SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/defaul
 Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
 TVE La 1	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd!!fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa
 TVE La W	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/arv0kf9ndp/out/v1/aa299e8d19994d78b35977495064e64c/cenc.mpd!!92eb4fb693ddc7b72909828ad62cdff5:0b6f7e58c4566ca418447332b228d488
-Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd!!a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 TVR Sport	https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
