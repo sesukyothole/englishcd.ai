@@ -48,6 +48,9 @@ USA vs Paraguay	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 USA vs Paraguay	`0https://www.marza12.shop/football/2906706-usa-vs-paraguay.html
 USA vs Paraguay	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318059/usa-vs-paraguay.html
 
+16:00 [l]AFF U19 Youth Championship[z]	^-
+Indonesia vs Cambodia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4409755/indonesia-u19-vs-cambodia-u19.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
@@ -1159,10 +1162,6 @@ TNT Sports 1 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/client
 TNT Sports 2 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 TNT Sports 3 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 TNT Sports 4 🇬🇧	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-
-^=AD Leonico vs Barreiras 1	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4829455
-^=AD Leonico vs Barreiras 2	`2https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4829455
-^=AD Leonico vs Barreiras 3	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4829455
 
 TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 TSN 2	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd!!daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
