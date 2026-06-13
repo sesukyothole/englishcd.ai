@@ -33,10 +33,14 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 13.06.2026	^-
 
 16:00 [l]AFF U19 Youth Championship[z]	^-
+Indonesia vs Cambodia	`0https://live.samuraitv.biz.id/p/ch1.html
+Indonesia vs Cambodia	`0https://live.samuraitv.biz.id/p/ch2.html
 Indonesia vs Cambodia	`0https://www.marza12.shop/football/2995788-indonesia-u19-vs-cambodia-u19.html
 Indonesia vs Cambodia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4409755/indonesia-u19-vs-cambodia-u19.html
 
 20:15 [l]AFF U19 Youth Championship[z]	^-
+Thailand vs Australia	`0https://live.samuraitv.biz.id/p/ch45.html
+Thailand vs Australia	`0https://live.samuraitv.biz.id/p/ch46.html
 Thailand vs Australia	`0https://www.marza12.shop/football/2995789-thailand-u19-vs-australia-u19.html
 Thailand vs Australia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4409759/thailand-u19-vs-australia-u19.html
 
@@ -225,6 +229,7 @@ MNB2	https://cdn3.skygo.mn/live/disk1/MNB2/HLS-FTA/MNB2.m3u8
 MNB Sport	https://cdn3.skygo.mn/live/disk1/MNBSport/HLS-FTA/MNBSport.m3u8
 Moviebox	https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 Star TV	https://cdn3.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
+W Sport	https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd!!9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 
 	^-
 [w]Multi TV Channels for PC[z]	^-
@@ -288,6 +293,8 @@ Uniques	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6
 Vision Prime	https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd!!483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 Zee Bioskop	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd!!398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 MU TV	https://get.perfecttv.net/mutv.mpd
+Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 
 	^-
 [l]{s} 👉Ⓜa1 🤹Multi Drama Dubbing Indonesia👈[z]	^^sa1
