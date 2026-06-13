@@ -32,12 +32,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 13.06.2026	^-
 
-16:00 [l]AFF U19 Youth Championship[z]	^-
-Indonesia vs Cambodia	`0https://live.samuraitv.biz.id/p/ch1.html
-Indonesia vs Cambodia	`0https://live.samuraitv.biz.id/p/ch2.html
-Indonesia vs Cambodia	`0https://www.marza12.shop/football/2995788-indonesia-u19-vs-cambodia-u19.html
-Indonesia vs Cambodia	`Fhttps://www.fctv33.ws/football/aff-u19-youth-championship-match-4409755/indonesia-u19-vs-cambodia-u19.html
-
 20:15 [l]AFF U19 Youth Championship[z]	^-
 Thailand vs Australia	`0https://live.samuraitv.biz.id/p/ch45.html
 Thailand vs Australia	`0https://live.samuraitv.biz.id/p/ch46.html
@@ -170,6 +164,8 @@ D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlw
 M6 TV	https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd!!433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
 
 D Sports	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd!!a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport CZ 1	https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
 Arena Sport CZ 2	https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
 beIN Sports AU 1	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd!!335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
@@ -184,45 +180,44 @@ beIN Sports TR Max	https://andro.okan11gote12sokan.cfd/checklist/androstreamlive
 beIN Sports Xtra n	https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 beIN Sports Xtra	https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb563e1e796c628d84cb3d78d1f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da86852db80148b6f4adafb8c2360625f5c98435ee3b24aa7ade80f42de68a9ac1d1a977b58e68314c8c915bd82d64699458e72f3429897a48bd414e0f8ab4191d2613d733a0f44dbe85492c55cafc993684bf31b4a672d252d270e9c3458a7544a5d829f81df37bc7b46ee54e10057db60f82ba449ea0bca69c7a17280e7d7fe514838ebef4e622fa9eba7b0365459b24bf4b8e0d17f7dd6a35a2807815ad12c2f3787ee8b3ab08344c6f873def45e143696c51edb85e4d7a6f0ac5a8c29cff0f19a164b5a2c5151d113f1cc2d9302f54c85e25f6150444fa8da72c185d25179226c8e9251d91654e88fdecd8f406b84305b69e966d8490c2399673b32b67b8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f6b4a165f060e8b90fa88621a17f335407f3bf6c684c4279dff9754f575dc656efc7c5f17d6b52ba17ac5017849561171381b0dcb8980b3554714b99c31bfb/26/854x480_1821600/index.m3u8
+EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 F1 Italy	https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=PmzCRLgZpgmP3ygroDqj7A
 FanCode	https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd!!065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-Fubo Sports 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fox 2 USA	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd!!09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 Fox Deportes	https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd!!d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+Fubo Sports 1	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Laliga TV	https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 MotorSport 1	https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/ts-us-w2-n1/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb573b176573648e84cf3b78d2f04182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe35b17d939f0b7011e917a41fa83439fd401ea84d55a83438471f113c99bf6ded419838cb1599e06e627475c2f7cebe513f0910eef80f503519d753b081951f6b1e19d245dd61d0a3691fecfac2bf816c09b20f31c5dc1338840962499278b1cb3ee0e92acb8d64c467581ca5c6d2eb3edfaff915b32b975b5b7fae2636e90e0157b5ebb0eb2437b62e197ac1580d05b84b827f7d2037921c7c740c1e7d8eeeeb49e048f2dc5d0e091294e4b116d68e17096a85eeb1d8c22dca47f20585e0aa19b5bc393d85935102bece25bda496fd3bd8a87cc402dcc12713080328909533c9d653526b647909b387fc72304930a34891e5fc443aeed2df3a4ddb24b3aec8ac20fab36e9e747d0a352f120640b55e3f6740f461a2c85ba3c7b5a11c241f79dc4e07a0c72869da5dac9402c1536236456ca8888719f9d8e280d06fe4523726719189876b803b35219527f994b82ff5824d1577b428cc03e59492291cdbef3e3bca8718625eaa591382b281768b82a12297cd7a5ff70971f46716e52921c744caf13490ef894caec978722c29572af78701560ccfe100d1a427c711e88dc7bc24ee7811fb090cf10c1e0991d578625a00d15d2c3c97cfdff82c65d4393ab454327fdbe26c16063c41bdd2e86c64fd1a02769765117118cdf05af11ec8bd4957acb76de25697fee6bf594e6bad16e4295f420506251054d07381b2d08ab94d66b0e6fe9b233ef59948c3fcc100763661e84fa6a3087ec64528f216c65a4addf92bdcf7176a00af87cdf6559d13d632fe5df76ee86a4faf98242550bdcc4ce26d8968d839694a0567f0f7f7e9fc4495c74dd0ff4b81ef1a86f1285e587ead96f9b46f63aa985b12bbe4ccaa2bd0abdde9ef1eb67162c393d9d91ad8f7eb0bd0e56f568d3423a27958e96920f9f89e85f21b0258aeb066abd706d55c6bcc905dc22b6e14b4c8de35d6f985368bc8a8d2718db6ab4283d6ad2cc956b3cc0d106965ee9f29d6a65ad2a4fb31d270bc27dfe94f16c7fe8af1c0454d20203fe10eead80050925f8c8144f430c080647c6495838ec4c0fcf79e1b6b2eb284afb008e1c71ba69a6d158a3a72fefe7c1f4a1f73160b4856b7c9726c629e87494a1e59239a0402fae789f1b6fa3adb694a0e8cea4dbcd114e0ecc31f16ec9728988a59061746010b65c6d0479aa45965b532cfebc54ceb4036883c8f400c6255b4b0c1133db10b19221515526fb8517fc8f3013030631ecd048be00b84c1d812514d77b3e48606d2640a6848318d127c872bfe06604f097b6b62fe8a24db9f6e3b7e2195892085d243a98b39cdfd44423f5978fb2347c84ec6aa709075c41e1cda74561bfaf5422fcb1c371abb570881c331e66c680ab40a415e51fde6d6cea0f80a53607bc8c182775802f9fdc7c45a36fe70e0d99159c5417b128481b6377c517ad66027a67e26d9fd7a74f21028b17c3270646c6d9e38da23f461c11580e23676c41ae2a4dd1093a0ba302369dd3fcad84e7f06f7c798f21d2def5f06e23dedff2b3be6fea6cb7c7ca91afc78c981d5ac9b12656ccfd699172ac904c8734eca396823973d4a063814e5d67db66701caeb00214c4ad8f8195f4029b57b86c9dfe8be3d367c5de8d052bea3a76f652c820a259040a6fcb72aa8a695a0f7d5c619c6a0aa5abe1c393ab288083bd2ffcfa0579e2c080469cd26b03c774b7367ea04319c31db140bee76352715727ed7a03bc2a8d5a4534eaa99e18b0a02451677805d2519542f83be36d2d283e4cd78914e888880334792d530ab29b5d970a239d745f508d8337f9a8be48c60485d1e2f254314a0a75bd2c7d4479c045604641a6a5f7dd1e3df41f8b5211adfce7db10527ac08a2ac4d06509a5beff27e93ed902c572fb36591949d5534a1ca1252b0733731523dc177db3cadb819e13fb0bc13f7b9d74c12974c3e1233fc8ec7f97cd66867c0b8128beecff9772fa1b5de8f480bf370f7aa42e32addc97ca587dfeb2454b9e18598dc04afdbf1f9e1d7bc5ee2a682d89c98e5328874dbb2ad90e1502/80/1920x1080_5058864/index.m3u8
-Premier Sports 1	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd!!1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-Premier Sports 2	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd!!1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-Sporsmart 1	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-Sporsmart 2	https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
-TVE La 1	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd!!fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa
-TVE La W	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/arv0kf9ndp/out/v1/aa299e8d19994d78b35977495064e64c/cenc.mpd!!92eb4fb693ddc7b72909828ad62cdff5:0b6f7e58c4566ca418447332b228d488
-TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
-TVR Sport	https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
-Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Nova Sport 🇸🇰 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Nova Sport 🇸🇰 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-EuroSport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-EuroSport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Premier Sports 1	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd!!1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+Premier Sports 2	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd!!1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+Premier Sports	https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd!!b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
+Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
 RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sporsmart 1	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
+Sporsmart 2	https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
+SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
+TVE La 1	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd!!fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa
+TVE La W	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/arv0kf9ndp/out/v1/aa299e8d19994d78b35977495064e64c/cenc.mpd!!92eb4fb693ddc7b72909828ad62cdff5:0b6f7e58c4566ca418447332b228d488
+TVR Sport	https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
+Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 
 Channel 11	https://cdn3.skygo.mn/live/disk1/Channel11/HLS-FTA/Channel11.m3u8
 Education	https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
