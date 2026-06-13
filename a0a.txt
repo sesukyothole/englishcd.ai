@@ -39,7 +39,6 @@ Brazil vs Morocco	https://stream.sports3.win/iptv/live/4460910/manual-10-1319-fa
 Brazil vs Morocco	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Brazil vs Morocco	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Brazil vs Morocco	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Brazil vs Morocco	`0https://www.marza12.shop/football/2906710-brazil-vs-morocco.html
 Brazil vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324335/brazil-vs-morocco.html
 
 08:00 [l]World Cup[z]	^-
@@ -47,7 +46,6 @@ Haiti vs Scotland	https://live.666666.zip/live/4460944.m3u8
 Haiti vs Scotland	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Haiti vs Scotland	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Haiti vs Scotland	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Haiti vs Scotland	`0https://www.marza12.shop/football/2906711-haiti-vs-scotland.html
 Haiti vs Scotland	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4370286/haiti-vs-scotland.html
 
 11:00 [l]World Cup[z]	^-
@@ -55,7 +53,6 @@ Australia vs Turkey	https://live.666666.zip/live/4460947.m3u8
 Australia vs Turkey	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Australia vs Turkey	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Australia vs Turkey	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Australia vs Turkey	`0https://www.marza12.shop/football/2906757-australia-vs-turkey.html
 Australia vs Turkey	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4341131/australia-vs-turkiye.html
 
 15.06.2026	^-
@@ -65,7 +62,6 @@ Germany vs Curacao	https://live.666666.zip/live/4460914.m3u8
 Germany vs Curacao	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Germany vs Curacao	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Germany vs Curacao	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Germany vs Curacao	`0
 Germany vs Curacao	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4341127/germany-vs-curacao.html
 
 03:00 [l]World Cup[z]	^-
@@ -73,7 +69,6 @@ Netherlands vs Japan	https://live.666666.zip/live/4460917.m3u8
 Netherlands vs Japan	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Netherlands vs Japan	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Netherlands vs Japan	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Netherlands vs Japan	`0
 Netherlands vs Japan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4370281/netherlands-vs-japan.html
 
 06:00 [l]World Cup[z]	^-
@@ -81,7 +76,6 @@ Cote d'Ivoire vs Ecuador	https://live.666666.zip/live/4460950.m3u8
 Cote d'Ivoire vs Ecuador	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Cote d'Ivoire vs Ecuador	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Cote d'Ivoire vs Ecuador	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Cote d'Ivoire vs Ecuador	`0
 Cote d'Ivoire vs Ecuador	`F
 
 09:00 [l]World Cup[z]	^-
@@ -89,7 +83,6 @@ Sweden vs Tunisia	https://live.666666.zip/live/4460953.m3u8
 Sweden vs Tunisia	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Sweden vs Tunisia	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Sweden vs Tunisia	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Sweden vs Tunisia	`0
 Sweden vs Tunisia	`F
 
 	^-
