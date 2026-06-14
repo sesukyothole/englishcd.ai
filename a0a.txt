@@ -89,7 +89,7 @@ Sweden vs Tunisia	`F
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-Brazil vs. Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-0-105647-ea08d6fb9c.m3u8
+Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-0-105647-ea08d6fb9c.m3u8
 Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-20-98879-ae93777020.m3u8
 USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-20-95868-f8fdf1105b.m3u8
 Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-20-95863-fefdbf7193.m3u8
