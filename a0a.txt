@@ -68,14 +68,61 @@ Sweden vs Tunisia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324481/
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-0-120797-239ed0db3e.m3u8
-Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-20-113270-b0b792e694.m3u8
-Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-0-105647-ea08d6fb9c.m3u8
-Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-20-98879-ae93777020.m3u8
-USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-20-95868-f8fdf1105b.m3u8
-Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-20-95863-fefdbf7193.m3u8
-South Korea vs Czech Rep Replay	https://stream.sports3.win/iptv/recording/4460938/recording-20-95926-285dbfa4ea.m3u8
-Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-20-95923-b909609269.m3u8
+Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-20-126012-f54b7bd290.m3u8
+Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-20-126012-f54b7bd290-2.m3u8
+Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-0-126010-2cbcaa6c4a.m3u8
+Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-0-126010-2cbcaa6c4a-2.m3u8
+Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-10-126011-891743d82e.m3u8
+Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-10-126011-891743d82e-2.m3u8
+
+Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-20-120796-af2e9b02e3.m3u8
+Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-20-120796-af2e9b02e3-2.m3u8
+Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-0-120794-bf53a89892.m3u8
+Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-0-120794-bf53a89892-2.m3u8
+Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-10-120795-b578fda110.m3u8
+Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-10-120795-b578fda110-2.m3u8
+
+Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-20-120793-14726702cf.m3u8
+Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-20-120793-14726702cf-2.m3u8
+Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-0-120791-28804d7b9c.m3u8
+Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-0-120791-28804d7b9c-2.m3u8
+Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-10-120792-7cac893174.m3u8
+Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-10-120792-7cac893174-2.m3u8
+
+Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-20-120789-3ea1c15d86.m3u8
+Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-20-120789-3ea1c15d86-2.m3u8
+Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-0-120787-7d3994192d.m3u8
+Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-0-120787-7d3994192d-2.m3u8
+Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-10-120788-97278be7d6.m3u8
+Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-10-120788-97278be7d6-2.m3u8
+
+USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-20-120826-704140e18f.m3u8
+USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-20-120826-704140e18f-2.m3u8
+USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-0-120824-dbdfe8f805.m3u8
+USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-0-120824-dbdfe8f805-2.m3u8
+USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-10-120825-b036a4e5ce.m3u8
+USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-10-120825-b036a4e5ce-2.m3u8
+
+Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-20-120821-1d565f48c9.m3u8
+Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-20-120821-1d565f48c9-2.m3u8
+Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-0-120819-68aca1c615.m3u8
+Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-0-120819-68aca1c615-2.m3u8
+Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-10-120820-75a1f11346.m3u8
+Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-10-120820-75a1f11346-2.m3u8
+
+South Korea vs Czech Republic Replay	https://stream.sports3.win/iptv/recording/4460938/recording-20-120884-dc116505dc.m3u8
+South Korea vs Czech Republic Replay	https://stream.sports3.win/iptv/recording/4460938/recording-20-120884-dc116505dc-2.m3u8
+South Korea vs Czech Republic Replay	https://stream.sports3.win/iptv/recording/4460938/recording-0-120882-9180f830f2.m3u8
+South Korea vs Czech Republic Replay	https://stream.sports3.win/iptv/recording/4460938/recording-0-120882-9180f830f2-2.m3u8
+South Korea vs Czech Republic Replay	https://stream.sports3.win/iptv/recording/4460938/recording-10-120883-b05107ffb0.m3u8
+South Korea vs Czech Republic Replay	https://stream.sports3.win/iptv/recording/4460938/recording-10-120883-b05107ffb0-2.m3u8
+
+Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-20-120881-c869b51e2b.m3u8
+Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-20-120881-c869b51e2b-2.m3u8
+Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-0-120879-b0db84281a.m3u8
+Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-0-120879-b0db84281a-2.m3u8
+Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-10-120880-9120740924.m3u8
+Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-10-120880-9120740924-2.m3u8
 
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
