@@ -32,20 +32,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 15.06.2026	^-
 
-03:00 [l]World Cup[z]	^-
-Netherlands vs Japan	https://live.666666.zip/live/4460917.m3u8
-Netherlands vs Japan	https://live12.xiazhix1.top/live/12871538.m3u8
-Netherlands vs Japan	https://live12.xiazhix1.top/live/13212901.m3u8
-Netherlands vs Japan	https://live12.xiazhix1.top/live/37111391.m3u8
-Netherlands vs Japan	https://live12.xiazhix1.top/live/79298159.m3u8
-Netherlands vs Japan	https://live12.xiazhix1.top/live/85042987.m3u8
-Netherlands vs Japan	https://play.ntcwix.com/rrty/hd-zh-1-4460917_gqzm.m3u8?auth_key=1781470382-0-0-2eaf8b4cdf74bf47be18e22f81d0b8a8&token=71a0cb17dee4a529&device=4&platform=rrty
-Netherlands vs Japan	https://pul-tenm.nbs3g.com/live/hd-en-1-4460917.m3u8?txSecret=8fa77004c9ebd6ea58a0d927e5dc0e67&txTime=6A305769
-Netherlands vs Japan	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-Netherlands vs Japan	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-Netherlands vs Japan	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Netherlands vs Japan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4370281/netherlands-vs-japan.html
-
 06:00 [l]World Cup[z]	^-
 Cote d'Ivoire vs Ecuador	https://live.666666.zip/live/4460950.m3u8
 Cote d'Ivoire vs Ecuador	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
