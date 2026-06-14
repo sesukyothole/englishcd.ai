@@ -30,21 +30,6 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 Live Sports Streaming	`0https://www.marza12.shop/football.html
 	^-
 
-14.06.2026	^-
-
-11:00 [l]World Cup[z]	^-
-Australia vs Turkey	https://live.666666.zip/live/4460947.m3u8
-Australia vs Turkey	https://live12.xiazhix1.top/live/12871538.m3u8
-Australia vs Turkey	https://live12.xiazhix1.top/live/23898522.m3u8
-Australia vs Turkey	https://live12.xiazhix1.top/live/37111391.m3u8
-Australia vs Turkey	https://live12.xiazhix1.top/live/79298159.m3u8
-Australia vs Turkey	https://live12.xiazhix1.top/live/85042987.m3u8
-Australia vs Turkey	https://live12.xiazhix1.top/live/565469419.m3u8
-Australia vs Turkey	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-Australia vs Turkey	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-Australia vs Turkey	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
-Australia vs Turkey	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4341131/australia-vs-turkiye.html
-
 15.06.2026	^-
 
 00:00 [l]World Cup[z]	^-
@@ -83,6 +68,7 @@ Sweden vs Tunisia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324481/
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
+Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-0-120797-239ed0db3e.m3u8
 Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-20-113270-b0b792e694.m3u8
 Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-0-105647-ea08d6fb9c.m3u8
 Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-20-98879-ae93777020.m3u8
