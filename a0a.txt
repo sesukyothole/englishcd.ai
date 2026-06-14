@@ -33,7 +33,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 15.06.2026	^-
 
 06:00 [l]World Cup[z]	^-
-Cote d'Ivoire vs Ecuador	https://live.666666.zip/live/4460950.m3u8
 Cote d'Ivoire vs Ecuador	https://live12.xiazhix1.top/live/12871538.m3u8
 Cote d'Ivoire vs Ecuador	https://live12.xiazhix1.top/live/79298159.m3u8
 Cote d'Ivoire vs Ecuador	https://live12.xiazhix1.top/live/85042987.m3u8
@@ -42,6 +41,7 @@ Cote d'Ivoire vs Ecuador	https://live2.egmdispatch.com/live/66457072_fef308f5cdf
 Cote d'Ivoire vs Ecuador	https://play.ntcwix.com/rrty/hd-zh-1-4460950_gqzm.m3u8?auth_key=1781481299-0-0-4a85668aafd783a64fb3c978c56ea5f6&token=1b48c17f12c1638e&device=4&platform=rrty
 Cote d'Ivoire vs Ecuador	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460950.m3u8?auth_key=1781478243-0-0-f075afbe503a2323985b4d699e9eb84d
 Cote d'Ivoire vs Ecuador	https://pul-tenm.nbs3g.com/live/hd-en-1-4460950.m3u8?txSecret=2f8ee6e34c9320f1f87cb8b7c4fb0410&txTime=6A3084E1
+Cote d'Ivoire vs Ecuador	https://live.666666.zip/live/4460950.m3u8
 Cote d'Ivoire vs Ecuador	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Cote d'Ivoire vs Ecuador	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Cote d'Ivoire vs Ecuador	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
