@@ -33,6 +33,8 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 16.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
+Belgium vs Egypt	https://play.ntcwix.com/rrty/hd-zh-1-4460920_gqzm.m3u8?auth_key=1781553521-0-0-25c55777c5855cccb1766ffd8f8e7b04&token=c97f99957720e554&device=4&platform=rrty
+Belgium vs Egypt	https://pul-tenm.nbs3g.com/live/hd-en-1-4460920.m3u8?txSecret=db531540893ef269313e23c0d47f1090&txTime=6A319C41
 Belgium vs Egypt	https://live12.szyac.com/live/37111391.m3u8
 Belgium vs Egypt	https://live12.szyac.com/live/13212901.m3u8
 Belgium vs Egypt	https://live12.szyac.com/live/77795881.m3u8
@@ -66,7 +68,7 @@ Iran vs New Zealand	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-437427
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-[g]RePlay & ReWatch[z]	^-
+[y]RePlay & ReWatch[z]	^-
 
 Spain vs Cape Verde	https://stream.sports3.win/iptv/recording/4460923/recording-20-235593-bd94c20c4d.m3u8
 Sweden vs Tunisia	https://stream.sports3.win/iptv/recording/4460953/recording-20-235611-d3993769a5.m3u8
