@@ -72,18 +72,18 @@ Iran vs New Zealand	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-437427
 
 [y]RePlay & ReWatch[z]	^-
 
-Sweden vs Tunisia	https://stream.sports3.win/iptv/recording/4460953/recording-20-204196-1767abacf8.m3u8
-Ivory Coast vs Ecuador	https://stream.sports3.win/iptv/recording/4460950/recording-20-204193-4a093d465d.m3u8
-Netherlands vs Japan	https://stream.sports3.win/iptv/recording/4460917/recording-20-204188-db0c295771.m3u8
-Germany vs Curaçao	https://stream.sports3.win/iptv/recording/4460914/recording-20-204183-9d5d9c5fbf.m3u8
-Australia vs Türkiye Replay	https://stream.sports3.win/iptv/recording/4460947/recording-20-204221-d157cf3340.m3u8
-Haiti vs Scotland Replay	https://stream.sports3.win/iptv/recording/4460944/recording-20-204218-9dbce01f46.m3u8
-Brazil vs Morocco Replay	https://stream.sports3.win/iptv/recording/4460910/recording-20-204215-c824ea0ea0.m3u8
-Qatar vs Switzerland Replay	https://stream.sports3.win/iptv/recording/4460941/recording-20-204211-a07b1b1af8.m3u8
-USA vs Paraguay Replay	https://stream.sports3.win/iptv/recording/4459827/recording-20-204283-8a568e1ed7.m3u8
-Canada vs Bosnia Herzegovina Replay	https://stream.sports3.win/iptv/recording/4459824/recording-20-204278-5a08cc731e.m3u8
-South Korea vs Czech Republic Replay	https://stream.sports3.win/iptv/recording/4460938/recording-20-204341-e906155648.m3u8
-Mexico vs South Africa Replay	https://stream.sports3.win/iptv/recording/4459820/recording-20-204338-edb9886453.m3u8
+Sweden vs Tunisia	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/a27105275001834807374391775/playlist_eof.m3u8?t=6a3032d7&us=68f43a9da3&sign=02699dde492031b39474cdcd2afcb6e2
+Ivory Coast vs Ecuador	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/7e425a205001834807227647335/playlist_eof.m3u8?t=6a30352f&us=0a8602cc8f&sign=3b4e2fc2670c3099ffe24187812fe3fb
+Netherlands vs Japan	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/e45343445001834807344646736/playlist_eof.m3u8?t=6a30352f&us=0a8602cc8f&sign=b12c3ed2aff418eb63c0880c519aeecd
+Germany vs Curaçao	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/9046e7fa5001834807343335750/playlist_eof.m3u8?t=6a303538&us=78fed2ac1a&sign=959bbddf07645ce519e25c6d0d1d3238
+Australia vs Türkiye	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/215f5e965001834807291420155/playlist_eof.m3u8?t=6a30365d&us=3fb49ed108&sign=aa87989e099528c22e5e4e727cfc4180
+Haiti vs Scotland	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/01e085db5001834807103829371/playlist_eof.m3u8?t=6a30365d&us=3fb49ed108&sign=04b48be1e9cbb4b2dfe0e8907de17ff6
+Brazil vs Morocco	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/9e62fc165001834807224953121/playlist_eof.m3u8?t=6a30365c&us=29a201ebd2&sign=7b161966ca50da140f0aec23a38504ad
+Qatar vs Switzerland	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/83eca8055001834807078803657/playlist_eof.m3u8?t=6a30365c&us=29a201ebd2&sign=d839359f782e771af5c9374981ee6d3e
+USA vs Paraguay	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/970c21275001834807139954285/playlist_eof.m3u8?t=6a303661&us=88505822be&sign=d07444e352216861f31e884904912b55
+Canada vs Bosnia Herzegovina	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/fa5fbaf65001834807080207048/playlist_eof.m3u8?t=6a303661&us=88505822be&sign=0a4d08e11a81ffe12d9624a5dfbca6eb
+South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/recording-20-204341-e906155648.m3u8
+Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-204338-edb9886453.m3u8
 
 	^-
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
