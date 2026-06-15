@@ -33,6 +33,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 15.06.2026	^-
 
 23:00 [l]World Cup[z]	^-
+Spain vs Cape Verde	https://live12.szyac.com/live/12871538.m3u8
+Spain vs Cape Verde	https://live12.szyac.com/live/13212901.m3u8
+Spain vs Cape Verde	https://live12.szyac.com/live/37111391.m3u8
+Spain vs Cape Verde	https://live12.szyac.com/live/85042987.m3u8
 Spain vs Cape Verde	https://play.666666.zip/live/4460923.m3u8
 Spain vs Cape Verde	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Spain vs Cape Verde	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
@@ -82,8 +86,8 @@ Brazil vs Morocco	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/9e62fc165001
 Qatar vs Switzerland	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/83eca8055001834807078803657/playlist_eof.m3u8?t=6a30365c&us=29a201ebd2&sign=d839359f782e771af5c9374981ee6d3e
 USA vs Paraguay	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/970c21275001834807139954285/playlist_eof.m3u8?t=6a303661&us=88505822be&sign=d07444e352216861f31e884904912b55
 Canada vs Bosnia Herzegovina	https://xzb-vod.52kq.top/64664c68vodsgp1386416388/fa5fbaf65001834807080207048/playlist_eof.m3u8?t=6a303661&us=88505822be&sign=0a4d08e11a81ffe12d9624a5dfbca6eb
-South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/recording-20-204341-e906155648.m3u8
-Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-204338-edb9886453.m3u8
+South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/recording-20-226092-e8fb19d05d.m3u8
+Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-226089-3efc174885.m3u8
 
 	^-
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
