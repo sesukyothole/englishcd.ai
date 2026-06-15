@@ -33,6 +33,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 16.06.2026	^-
 
 05:00 [l]World Cup[z]	^-
+Saudi Arabia vs Uruguay	https://live12.szyac.com/live/37111391.m3u8
+Saudi Arabia vs Uruguay	https://live12.szyac.com/live/12871538.m3u8
+Saudi Arabia vs Uruguay	https://live12.szyac.com/live/13212901.m3u8
+Saudi Arabia vs Uruguay	https://live12.szyac.com/live/85042987.m3u8
 Saudi Arabia vs Uruguay	https://play.666666.zip/live/4460959.m3u8
 Saudi Arabia vs Uruguay	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Saudi Arabia vs Uruguay	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
@@ -48,12 +52,26 @@ Iran vs New Zealand	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-437427
 
 17.06.2026	^-
 
-05:00 [l]World Cup[z]	^-
+02:00 [l]World Cup[z]	^-
 France vs Senegal	https://play.666666.zip/live/4460926.m3u8
 France vs Senegal	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 France vs Senegal	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 France vs Senegal	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 France vs Senegal	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324444/france-vs-senegal.html
+
+05:00 [l]World Cup[z]	^-
+Iraq vs Norway	https://play.666666.zip/live/4460967.m3u8
+Iraq vs Norway	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+Iraq vs Norway	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Iraq vs Norway	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
+Iraq vs Norway	`F
+
+08:00 [l]World Cup[z]	^-
+Argentina vs Algeria	https://play.666666.zip/live/4460929.m3u8
+Argentina vs Algeria	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+Argentina vs Algeria	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Argentina vs Algeria	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
+Argentina vs Algeria	`F
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -63,21 +81,22 @@ France vs Senegal	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324444/
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-[g]RePlay & ReWatch[z]	^-
+[y]RePlay & ReWatch[z]	^-
 
-Spain vs Cape Verde	https://stream.sports3.win/iptv/recording/4460923/recording-20-242258-ef0cb51d6d.m3u8
-Sweden vs Tunisia	https://stream.sports3.win/iptv/recording/4460953/recording-20-242279-59b4601874.m3u8
-Ivory Coast vs Ecuador	https://stream.sports3.win/iptv/recording/4460950/recording-20-242276-85d05a3d51.m3u8
-Netherlands vs Japan	https://stream.sports3.win/iptv/recording/4460917/recording-20-242271-eb035c867b.m3u8
-Germany vs Curaçao	https://stream.sports3.win/iptv/recording/4460914/recording-20-242266-160aeb0945.m3u8
-Australia vs Türkiye	https://stream.sports3.win/iptv/recording/4460947/recording-20-242307-0f6acde346.m3u8
-Haiti vs Scotland	https://stream.sports3.win/iptv/recording/4460944/recording-20-242304-af5846c6d9.m3u8
-Brazil vs Morocco	https://stream.sports3.win/iptv/recording/4460910/recording-20-242301-633e60bb06.m3u8
-Qatar vs Switzerland	https://stream.sports3.win/iptv/recording/4460941/recording-20-242297-9ebc03e4b2.m3u8
-USA vs Paraguay	https://stream.sports3.win/iptv/recording/4459827/recording-20-242369-3a48804b26.m3u8
-Canada vs Bosnia Herzegovina	https://stream.sports3.win/iptv/recording/4459824/recording-20-242364-ccee71d6ab.m3u8
-South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/recording-20-242427-49be084702.m3u8
-Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-242424-91f7342863.m3u8
+Belgium vs Egypt	https://stream.sports3.win/iptv/recording/4460920/recording-20-246927-82747273f4.m3u8
+Spain vs Cape Verde	https://stream.sports3.win/iptv/recording/4460923/recording-20-246923-6b148a995d.m3u8
+Sweden vs Tunisia	https://stream.sports3.win/iptv/recording/4460953/recording-20-246947-39befb521b.m3u8
+Ivory Coast vs Ecuador	https://stream.sports3.win/iptv/recording/4460950/recording-20-246944-731dc9aa4a.m3u8
+Netherlands vs Japan	https://stream.sports3.win/iptv/recording/4460917/recording-20-246939-f834daa72c.m3u8
+Germany vs Curaçao	https://stream.sports3.win/iptv/recording/4460914/recording-20-246934-bfd1f4cedb.m3u8
+Australia vs Türkiye	https://stream.sports3.win/iptv/recording/4460947/recording-20-246975-ef8f62d729.m3u8
+Haiti vs Scotland	https://stream.sports3.win/iptv/recording/4460944/recording-20-246972-cf4f1fd4ea.m3u8
+Brazil vs Morocco	https://stream.sports3.win/iptv/recording/4460910/recording-20-246969-5f6e63d0b3.m3u8
+Qatar vs Switzerland	https://stream.sports3.win/iptv/recording/4460941/recording-20-246965-2652f0929c.m3u8
+USA vs Paraguay	https://stream.sports3.win/iptv/recording/4459827/recording-20-247037-65390116fb.m3u8
+Canada vs Bosnia Herzegovina	https://stream.sports3.win/iptv/recording/4459824/recording-20-247032-f6eb2a3d73.m3u8
+South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/recording-20-247095-18c5fdba9f.m3u8
+Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-247092-bd840bd05d.m3u8
 
 	^-
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
