@@ -34,9 +34,12 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 23:00 [l]World Cup[z]	^-
 Spain vs Cape Verde	https://pul-tenm.nbs3g.com/live/hd-en-1-4460923.m3u8?txSecret=4482aa60ee5c5f1a1bf6e4271be7e5a9&txTime=6A317303
+Spain vs Cape Verde	https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709.m3u8
 Spain vs Cape Verde	https://play.ntcwix.com/rrty/hd-zh-1-4460923_gqzm.m3u8?auth_key=1781542987-0-0-319139c6049d24b88809ae9c715a6078&token=58ae00ad4377716a&device=4&platform=rrty
 Spain vs Cape Verde	https://live12.szyac.com/live/85042987.m3u8
 Spain vs Cape Verde	https://live12.szyac.com/live/13212901.m3u8
+Spain vs Cape Verde	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460923.m3u8?auth_key=1781539181-0-0-6dff2eab7e503b885db1ba6d9da0300f
+Spain vs Cape Verde	https://live12.szyac.com/live/28023028.m3u8
 Spain vs Cape Verde	https://live12.szyac.com/live/37111391.m3u8
 Spain vs Cape Verde	https://live12.szyac.com/live/12871538.m3u8
 Spain vs Cape Verde	https://play.666666.zip/live/4460923.m3u8
@@ -1094,7 +1097,4 @@ TSN 3	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/
 TSN 4	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd!!c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 TSN 5	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd!!e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 
-Spain vs Cape Verde	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460923.m3u8?auth_key=1781539181-0-0-6dff2eab7e503b885db1ba6d9da0300f
-Spain vs Cape Verde	https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709.m3u8
-Spain vs Cape Verde	https://live12.szyac.com/live/28023028.m3u8
 	^-
