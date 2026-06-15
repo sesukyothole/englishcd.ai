@@ -33,9 +33,11 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 16.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
+Belgium vs Egypt	https://live.egmdispatch.com/live/66456982_d4a5e030cc48699f56e55ac1a8e03d5a.m3u8
 Belgium vs Egypt	https://pul-tenm.nbs3g.com/live/hd-en-1-4460920.m3u8?txSecret=db531540893ef269313e23c0d47f1090&txTime=6A319C41
 Belgium vs Egypt	https://play.ntcwix.com/rrty/hd-zh-1-4460920_gqzm.m3u8?auth_key=1781553216-0-0-a4d2df2ce10fa0303279a7d4bba14f74&token=f7e5cfeaf3a4c945&device=4&platform=rrty
 Belgium vs Egypt	https://play.ntcwix.com/rrty/hd-zh-1-4460920_gqzm.m3u8?auth_key=1781553521-0-0-25c55777c5855cccb1766ffd8f8e7b04&token=c97f99957720e554&device=4&platform=rrty
+Belgium vs Egypt	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460920.m3u8?auth_key=1781550149-0-0-3ba12fe1e6be8e8b5fcd57dc2b7a6fd2
 Belgium vs Egypt	https://live12.szyac.com/live/37111391.m3u8
 Belgium vs Egypt	https://live12.szyac.com/live/13212901.m3u8
 Belgium vs Egypt	https://live12.szyac.com/live/77795881.m3u8
