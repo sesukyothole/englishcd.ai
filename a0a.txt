@@ -33,17 +33,33 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 15.06.2026	^-
 
 23:00 [l]World Cup[z]	^-
+Spain vs Cape Verde	https://play.666666.zip/live/4460923.m3u8
+Spain vs Cape Verde	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+Spain vs Cape Verde	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Spain vs Cape Verde	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Spain vs Cape Verde	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4370283/spain-vs-cabo-verde.html
 
 16.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
+Belgium vs Egypt	https://play.666666.zip/live/4460920.m3u8
+Belgium vs Egypt	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+Belgium vs Egypt	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Belgium vs Egypt	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Belgium vs Egypt	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324306/belgium-vs-egypt.html
 
 05:00 [l]World Cup[z]	^-
+Saudi Arabia vs Uruguay	https://play.666666.zip/live/4460959.m3u8
+Saudi Arabia vs Uruguay	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+Saudi Arabia vs Uruguay	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Saudi Arabia vs Uruguay	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Saudi Arabia vs Uruguay	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318281/saudi-arabia-vs-uruguay.html
 
 08:00 [l]World Cup[z]	^-
+Iran vs New Zealand	https://play.666666.zip/live/4460956.m3u8
+Iran vs New Zealand	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+Iran vs New Zealand	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Iran vs New Zealand	`0https://ww2.sporttsonline.click/channels/hd/hd1.php
 Iran vs New Zealand	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374271/ir-iran-vs-new-zealand.html
 
 	^-
