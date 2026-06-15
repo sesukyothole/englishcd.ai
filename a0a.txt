@@ -1092,4 +1092,8 @@ TSN 3	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/
 TSN 4	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd!!c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 TSN 5	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd!!e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 
+Spain vs Cape Verde	https://stream.sports3.win/iptv/live/4460923/manual-0-1921-9964c60694.m3u8
+Spain vs Cape Verde	https://stream.sports3.win/iptv/live/4460923/manual-5-1922-a944c3b4c3.m3u8
+Spain vs Cape Verde	https://stream.sports3.win/iptv/live/4460923/manual-10-1923-a879568387.m3u8
+Spain vs Cape Verde	https://stream.sports3.win/iptv/live/4460923/bb-80-1914-bd19cb768d.m3u8
 	^-
