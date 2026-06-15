@@ -1094,4 +1094,7 @@ TSN 3	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/
 TSN 4	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd!!c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 TSN 5	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd!!e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 
+Spain vs Cape Verde	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460923.m3u8?auth_key=1781539181-0-0-6dff2eab7e503b885db1ba6d9da0300f
+Spain vs Cape Verde	https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709.m3u8
+Spain vs Cape Verde	https://live12.szyac.com/live/28023028.m3u8
 	^-
