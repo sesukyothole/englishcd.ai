@@ -33,6 +33,8 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 15.06.2026	^-
 
 23:00 [l]World Cup[z]	^-
+Spain vs Cape Verde	https://pul-tenm.nbs3g.com/live/hd-en-1-4460923.m3u8?txSecret=4482aa60ee5c5f1a1bf6e4271be7e5a9&txTime=6A317303
+Spain vs Cape Verde	https://play.ntcwix.com/rrty/hd-zh-1-4460923_gqzm.m3u8?auth_key=1781542987-0-0-319139c6049d24b88809ae9c715a6078&token=58ae00ad4377716a&device=4&platform=rrty
 Spain vs Cape Verde	https://live12.szyac.com/live/85042987.m3u8
 Spain vs Cape Verde	https://live12.szyac.com/live/13212901.m3u8
 Spain vs Cape Verde	https://live12.szyac.com/live/37111391.m3u8
