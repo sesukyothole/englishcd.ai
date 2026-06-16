@@ -34,6 +34,9 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02:00 [l]World Cup[z]	^-
 France vs Senegal	https://streaming.noobz.top/hls/live.m3u8
+France vs Senegal	https://pul-tenm.nbs3g.com/live/hd-en-1-4460926.m3u8?txSecret=fbd9e60c3e6a4dae8df3c6c8f1024f6e&txTime=6A32ECD0
+France vs Senegal	https://play.ntcwix.com/rrty/hd-zh-1-4460926_gqzm.m3u8?auth_key=1781639652-0-0-d7abed1140b471e86ab75182acf06539&token=4465aca7b8ed0397&device=4&platform=rrty
+France vs Senegal	https://play1.gzxdby.com/live/505112458378_2943755438_1080p.m3u8
 France vs Senegal	https://live12.szyac.com/live/37111391.m3u8
 France vs Senegal	https://live12.szyac.com/live/13212901.m3u8
 France vs Senegal	https://live12.szyac.com/live/48439940.m3u8
