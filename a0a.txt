@@ -33,7 +33,11 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 17.06.2026	^- -pullkgq721 -play.ntcwix
 
 05:00 [l]World Cup[z]	^-
+Iraq vs Norway	https://live.egmdispatch.com/live/66457008_1ffee64926c0c89d63ec47aeba367117.m3u8
+Iraq vs Norway	`0https://player.787200.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4460967.m3u8%3FtxSecret%3D142104370c7365d85f14fedac7e4e0fa%26txTime%3D6A31CC2B
 Iraq vs Norway	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+Iraq vs Norway	https://play1.gzxdby.com/live/483459757706_0844744617.m3u8
+Iraq vs Norway	https://live12.szyac.com/live/85042987.m3u8
 Iraq vs Norway	https://play.666666.zip/live/4460967.m3u8
 Iraq vs Norway	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Iraq vs Norway	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
@@ -98,24 +102,25 @@ Uzbekistan vs Colombia	`F
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-[g]RePlay & ReWatch[z]	^-
+[l]RePlay & ReWatch[z]	^-
 
-Iran vs New Zealand	https://stream.sports3.win/iptv/recording/4460956/recording-20-316866-f9bd66eb82.m3u8
-Saudi Arabia vs Uruguay	https://stream.sports3.win/iptv/recording/4460959/recording-20-316863-1274e24a3e.m3u8
-Belgium vs Egypt	https://stream.sports3.win/iptv/recording/4460920/recording-20-316860-552b63fc23.m3u8
-Spain vs Cape Verde	https://stream.sports3.win/iptv/recording/4460923/recording-20-316856-2be9bc837f.m3u8
-Sweden vs Tunisia	https://stream.sports3.win/iptv/recording/4460953/recording-20-316896-fdc845df58.m3u8
-Ivory Coast vs Ecuador	https://stream.sports3.win/iptv/recording/4460950/recording-20-316893-5762ce1363.m3u8
-Netherlands vs Japan	https://stream.sports3.win/iptv/recording/4460917/recording-20-316888-acf3c5d62e.m3u8
-Germany vs Curaçao	https://stream.sports3.win/iptv/recording/4460914/recording-20-316883-3642b7a25c.m3u8
-Cup Australia vs Türkiye	https://stream.sports3.win/iptv/recording/4460947/recording-20-316924-38a94e43f2.m3u8
-Haiti vs Scotland	https://stream.sports3.win/iptv/recording/4460944/recording-20-316921-631d0d8cd3.m3u8
-Brazil vs Morocco	https://stream.sports3.win/iptv/recording/4460910/recording-20-316918-a4fda0e731.m3u8
-Qatar vs Switzerland	https://stream.sports3.win/iptv/recording/4460941/recording-20-316914-3674854f2d.m3u8
-USA vs Paraguay	https://stream.sports3.win/iptv/recording/4459827/recording-20-316986-af731a9070.m3u8
-Canada vs Bosnia and Herzegovina	https://stream.sports3.win/iptv/recording/4459824/recording-20-316981-d5a9275745.m3u8
-South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/recording-20-317044-f308d5e042.m3u8
-Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-317041-4b9ea4f5b4.m3u8
+France vs Senegal	https://stream.sports3.win/iptv/recording/4460926/recording-20-334432-88d0ea4b42.m3u8
+Iran vs New Zealand	https://stream.sports3.win/iptv/recording/4460956/recording-20-334446-e7d2ce9d6b.m3u8
+Saudi Arabia vs Uruguay	https://stream.sports3.win/iptv/recording/4460959/recording-20-334443-e329b59977.m3u8
+Belgium vs Egypt	https://stream.sports3.win/iptv/recording/4460920/recording-20-334440-e52837f856.m3u8
+Spain vs Cape Verde	https://stream.sports3.win/iptv/recording/4460923/recording-20-334436-ad6378f1b0.m3u8
+Sweden vs Tunisia	https://stream.sports3.win/iptv/recording/4460953/recording-20-334478-f270306d1c.m3u8
+Ivory Coast vs Ecuador	https://stream.sports3.win/iptv/recording/4460950/recording-20-334475-f15cf74327.m3u8
+Netherlands vs Japan	https://stream.sports3.win/iptv/recording/4460917/recording-20-334470-c48ef02f42.m3u8
+Germany vs Curaçao	https://stream.sports3.win/iptv/recording/4460914/recording-20-334465-f28f668d27.m3u8
+Australia vs Türkiye	https://stream.sports3.win/iptv/recording/4460947/recording-20-334506-5bf8468f8d.m3u8
+Haiti vs Scotland	https://stream.sports3.win/iptv/recording/4460944/recording-20-334503-b832e578b2.m3u8
+Brazil vs Morocco	https://stream.sports3.win/iptv/recording/4460910/recording-20-334500-d3327a5fd8.m3u8
+Qatar vs Switzerland	https://stream.sports3.win/iptv/recording/4460941/recording-20-334496-98d5c5850b.m3u8
+USA vs Paraguay	https://stream.sports3.win/iptv/recording/4459827/recording-20-334568-21c56aeb06.m3u8
+Canada vs Bosnia and Herzegovina	https://stream.sports3.win/iptv/recording/4459824/recording-20-334563-ccf67da420.m3u8
+South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/recording-20-334626-6f023513fc.m3u8
+Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-334623-aad458e9f1.m3u8
 
 	^-
 World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
