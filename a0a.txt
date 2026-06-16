@@ -34,10 +34,10 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 05:00 [l]World Cup[z]	^-
 Iraq vs Norway	https://live.egmdispatch.com/live/66457008_1ffee64926c0c89d63ec47aeba367117.m3u8
-Iraq vs Norway	`0https://player.787200.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4460967.m3u8%3FtxSecret%3D142104370c7365d85f14fedac7e4e0fa%26txTime%3D6A31CC2B
 Iraq vs Norway	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 Iraq vs Norway	https://play1.gzxdby.com/live/483459757706_0844744617.m3u8
 Iraq vs Norway	https://live12.szyac.com/live/85042987.m3u8
+Iraq vs Norway	`0https://player.787200.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4460967.m3u8%3FtxSecret%3D142104370c7365d85f14fedac7e4e0fa%26txTime%3D6A31CC2B
 Iraq vs Norway	https://play.666666.zip/live/4460967.m3u8
 Iraq vs Norway	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Iraq vs Norway	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
