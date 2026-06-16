@@ -34,6 +34,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 02:00 [l]World Cup[z]	^-
 France vs Senegal	https://streaming.noobz.top/hls/live.m3u8
+France vs Senegal	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 France vs Senegal	https://pul-tenm.nbs3g.com/live/hd-en-1-4460926.m3u8?txSecret=fbd9e60c3e6a4dae8df3c6c8f1024f6e&txTime=6A32ECD0
 France vs Senegal	https://play.ntcwix.com/rrty/hd-zh-1-4460926_gqzm.m3u8?auth_key=1781639652-0-0-d7abed1140b471e86ab75182acf06539&token=4465aca7b8ed0397&device=4&platform=rrty
 France vs Senegal	https://play1.gzxdby.com/live/505112458378_2943755438_1080p.m3u8
@@ -49,6 +50,7 @@ France vs Senegal	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324444/
 
 05:00 [l]World Cup[z]	^-
 Iraq vs Norway	https://streaming.noobz.top/hls/live.m3u8
+Iraq vs Norway	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 Iraq vs Norway	https://play.666666.zip/live/4460967.m3u8
 Iraq vs Norway	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Iraq vs Norway	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
@@ -57,6 +59,7 @@ Iraq vs Norway	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4370285/ira
 
 08:00 [l]World Cup[z]	^-
 Argentina vs Algeria	https://streaming.noobz.top/hls/live.m3u8
+Argentina vs Algeria	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 Argentina vs Algeria	https://play.666666.zip/live/4460929.m3u8
 Argentina vs Algeria	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Argentina vs Algeria	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
@@ -65,6 +68,7 @@ Argentina vs Algeria	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-43245
 
 11:00 [l]World Cup[z]	^-
 Austria vs Jordan	https://streaming.noobz.top/hls/live.m3u8
+Austria vs Jordan	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 Austria vs Jordan	https://play.666666.zip/live/4460970.m3u8
 Austria vs Jordan	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Austria vs Jordan	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
@@ -73,6 +77,7 @@ Austria vs Jordan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318159/
 
 18.06.2026	^-
 Portugal vs Demo Rep Congo	https://streaming.noobz.top/hls/live.m3u8
+Portugal vs Demo Rep Congo	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 Portugal vs Demo Rep Congo	https://play.666666.zip/live/4460932.m3u8
 Portugal vs Demo Rep Congo	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 Portugal vs Demo Rep Congo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
@@ -107,6 +112,7 @@ South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/
 Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-317041-4b9ea4f5b4.m3u8
 
 	^-
+World Cup RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 World Cup TSN 1	https://streaming.noobz.top/hls/live.m3u8
