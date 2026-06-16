@@ -35,9 +35,13 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 02:00 [l]World Cup[z]	^-
 France vs Senegal	https://streaming.noobz.top/hls/live.m3u8
 France vs Senegal	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+France vs Senegal	https://live.egmdispatch.com/live/66457006_25fe0b375565569f79773d775b496ea8.m3u8
+France vs Senegal	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460926.m3u8?auth_key=1781636517-0-0-ce3d1636c8e6aaaf94074e1ac22e26a5
 France vs Senegal	https://pul-tenm.nbs3g.com/live/hd-en-1-4460926.m3u8?txSecret=fbd9e60c3e6a4dae8df3c6c8f1024f6e&txTime=6A32ECD0
 France vs Senegal	https://play.ntcwix.com/rrty/hd-zh-1-4460926_gqzm.m3u8?auth_key=1781639652-0-0-d7abed1140b471e86ab75182acf06539&token=4465aca7b8ed0397&device=4&platform=rrty
-France vs Senegal	https://play1.gzxdby.com/live/505112458378_2943755438_1080p.m3u8
+France vs Senegal	https://play1.gzxdby.com/live/483459757706_0844744617.m3u8
+France vs Senegal	https://play1.gzxdby.com/live/505112458378_2943755438.m3u8
+France vs Senegal	https://play1.gzxdby.com/live/887820136760_5784133791.m3u8
 France vs Senegal	https://live12.szyac.com/live/37111391.m3u8
 France vs Senegal	https://live12.szyac.com/live/13212901.m3u8
 France vs Senegal	https://live12.szyac.com/live/48439940.m3u8
@@ -112,7 +116,8 @@ South Korea vs Czech Republic	https://stream.sports3.win/iptv/recording/4460938/
 Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recording-20-317041-4b9ea4f5b4.m3u8
 
 	^-
-World Cup RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 World Cup TSN 1	https://streaming.noobz.top/hls/live.m3u8
