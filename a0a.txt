@@ -39,7 +39,7 @@ World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 World Cup VRT.BE	https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd!!893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-World Cup CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup TSN 1	https://streaming.noobz.top/hls/live.m3u8
 
 Portugal vs Demo Rep Congo .GZ	https://play1.gzxdby.com/live/575030291594_0929140719.m3u8
@@ -114,7 +114,7 @@ Mexico vs South Africa	https://stream.sports3.win/iptv/recording/4459820/recordi
 
 	^-
 
-CT Sports 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+CT Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?7
 FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8?7
 
