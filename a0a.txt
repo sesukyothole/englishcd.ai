@@ -32,8 +32,8 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 18.06.2026	^- -pullkgq721 -play.ntcwix
 
-00:00 [l]World Cup[z]	^-
-👇 [y]Portugal vs Demo Rep Congo[z] 👇	^-
+03:00 [l]World Cup[z]	^-
+👇 [y]England vs Croatia[z] 👇	^-
 World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
@@ -41,17 +41,7 @@ World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/pl
 World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup TSN	https://streaming.noobz.top/hls/live.m3u8
 
-Portugal vs Demo Rep Congo .GZ	https://play1.gzxdby.com/live/575030291594_0929140719.m3u8
-Portugal vs Demo Rep Congo .ELTA	https://www.rtmpcdn.com/live/elta.m3u8
-Portugal vs Demo Rep Congo .ELTA	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-Portugal vs Demo Rep Congo .GD	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-Portugal vs Demo Rep Congo .CCTV5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-Portugal vs Demo Rep Congo .Pull	https://pul-tenm.nbs3g.com/live/hd-en-1-4460932.m3u8?txSecret=0048ccc7307246fd6cadf3701e8907f6&txTime=6A341678
-Portugal vs Demo Rep Congo .Play	https://play.666666.zip/live/4460932.m3u8
-Portugal vs Demo Rep Congo	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374270/portugal-vs-democratic-republic-of-the-congo.html
-
-03:00 [l]World Cup[z]	^-
-England vs Croatia	https://play.666666.zip/live/4460935.m3u8
+England vs Croatia .Play	https://play.666666.zip/live/4460935.m3u8
 England vs Croatia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4370282/england-vs-croatia.html
 
 06:00 [l]World Cup[z]	^-
@@ -1104,6 +1094,13 @@ TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 ^=mut.st	`1https://mut.st/
 ^=Maxstream	`Fhttps://maxstream.tv/home
 ^=Drama Channel	https://stream1.freetv.fun/0731342225b6bfd29c883a664caf406d6ac271095db7518c80648fe25059d3a2.m3u8?7
+
+^=Portugal vs Demo Rep Congo .GZ	https://play1.gzxdby.com/live/575030291594_0929140719.m3u8
+^=Portugal vs Demo Rep Congo .ELTA	https://www.rtmpcdn.com/live/elta.m3u8
+^=Portugal vs Demo Rep Congo .ELTA	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+^=Portugal vs Demo Rep Congo .GD	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+^=Portugal vs Demo Rep Congo .CCTV5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+^=Portugal vs Demo Rep Congo .Pull	https://pul-tenm.nbs3g.com/live/hd-en-1-4460932.m3u8?txSecret=0048ccc7307246fd6cadf3701e8907f6&txTime=6A341678
 
 TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 TSN 2	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd!!daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
