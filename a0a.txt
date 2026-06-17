@@ -33,7 +33,7 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 18.06.2026	^- -pullkgq721 -play.ntcwix
 
 00:00 [l]World Cup[z]	^-
-👇 Portugal vs Demo Rep Congo 👇	^-
+👇 [y]Portugal vs Demo Rep Congo[z] 👇	^-
 World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 World Cup TSN 1	https://streaming.noobz.top/hls/live.m3u8
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
