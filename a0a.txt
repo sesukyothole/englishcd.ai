@@ -38,9 +38,8 @@ World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3
 World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-World Cup VRT.BE	https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd!!893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-World Cup TSN 1	https://streaming.noobz.top/hls/live.m3u8
+World Cup TSN	https://streaming.noobz.top/hls/live.m3u8
 
 Portugal vs Demo Rep Congo .GZ	https://play1.gzxdby.com/live/575030291594_0929140719.m3u8
 Portugal vs Demo Rep Congo .ELTA	https://www.rtmpcdn.com/live/elta.m3u8
@@ -257,6 +256,7 @@ TVE La 1	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62
 TVE La W	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/arv0kf9ndp/out/v1/aa299e8d19994d78b35977495064e64c/cenc.mpd!!92eb4fb693ddc7b72909828ad62cdff5:0b6f7e58c4566ca418447332b228d488
 TVR Sport	https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd!!96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+VRT.BE	https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd!!893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 
 Channel 11	https://cdn3.skygo.mn/live/disk1/Channel11/HLS-FTA/Channel11.m3u8
 Education	https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
