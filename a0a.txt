@@ -72,7 +72,7 @@ USA vs Australia	`F
 Scotland vs Morocco	https://play.666666.zip/live/4460945.m3u8
 Scotland vs Morocco	`F
 
-07:00 [l]World Cup[z]	^-
+07:30 [l]World Cup[z]	^-
 Brazil vs Haiti	https://play.666666.zip/live/4460911.m3u8
 Brazil vs Haiti	`F
 
