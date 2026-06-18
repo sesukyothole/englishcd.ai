@@ -39,7 +39,7 @@ World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u
 World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-Canada vs Qatar Live	https://www.rtmpcdn.com/live/c88f43f1-0aef-446b-93ed-1f67c81cc70b.m3u8
+Canada vs Qatar Live	https://pul-tenm.nbs3g.com/live/hd-en-1-4459825.m3u8?txSecret=be5cd3b869d79a9c4464cdefafd6b542&txTime=6A35BD48
 Canada vs Qatar .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
 Canada vs Qatar .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 Canada vs Qatar .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
