@@ -137,6 +137,7 @@ RCTI	https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 iNews	https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
 Indosiar	https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 SCTV	https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+Berita Satu	https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 Cinemax	https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 HBO	https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 HBO Family	https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
@@ -145,6 +146,10 @@ HBO Signature	https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 Hits https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
 Hits Movies	https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 KiX	https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
+Nickelodeon	https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+TVRI	https://cdnbal1.indihometv.com/atm/DASH/TVRI/manifest.mpd
+TVRI World	https://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
+Rodja TV	https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
