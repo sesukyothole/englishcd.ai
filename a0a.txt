@@ -104,10 +104,6 @@ World Cup TSN	https://streaming.noobz.top/hls/live.m3u8
 FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?7
 FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8?7
 
-Pesta Babi .Full Movie	i0`00.reel/843619455466130/
-Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
-Pesta Babi .Alur Cerita	https://www.youtube.com/watch?v=EF3JsA-Y1kI
-
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 Movie Sphere	https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -133,6 +129,15 @@ Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master
 BBC Drama Series	https://stream1.freetv.fun/29d9cd989e3d57ab50d527e42b73589d525ce00b52c343244885a5b5c523d840.m3u8
 beIN Sports 2	https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 beIN Sports Xtra n	https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+GTV	https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
+MNC TV	https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+RCTI	https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+iNews	https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+Indosiar	https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
+SCTV	https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -173,6 +178,10 @@ ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Jowo Channel	https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 Willow Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd!!290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+
+Pesta Babi .Full Movie	i0`00.reel/843619455466130/
+Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
+Pesta Babi .Alur Cerita	https://www.youtube.com/watch?v=EF3JsA-Y1kI
 
 	^-
 [][l]<u>Drama Dubbing Indonesia</u>[z]	^-[]^+https://apiv2.free-reels.com/frv2-api/l/2slpsjvWXII
@@ -254,6 +263,7 @@ Star TV	https://cdn3.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
 
 W Sport	https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd!!9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 Fifa +	https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 	^-
 [w]Multi TV Channels for PC[z]	^-
 
@@ -316,8 +326,6 @@ Uniques	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6
 Vision Prime	https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd!!483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 Zee Bioskop	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd!!398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 MU TV	https://get.perfecttv.net/mutv.mpd
-Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
-Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 
 	^-
 [l]{s} 👉Ⓜa1 🤹Multi Drama Dubbing Indonesia👈[z]	^^sa1
