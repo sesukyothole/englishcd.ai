@@ -39,6 +39,8 @@ World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u
 World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
+Czech Rep vs South Africa English	https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986.m3u8
+Czech Rep vs South Africa HD	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460939.m3u8?auth_key=1781798469-0-0-584c43ddeaea0a67e03ef65b372a0033
 Czech Rep vs South Africa .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
 Czech Rep vs South Africa .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 Czech Rep vs South Africa .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
@@ -59,6 +61,24 @@ Canada vs Qatar	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318061/ca
 08:00 [l]World Cup[z]	^-
 Mexico vs South Korea	https://play.666666.zip/live/4459821.m3u8
 Mexico vs South Korea	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318062/mexico-vs-south-korea.html
+
+20.06.2026	^-
+
+02:00 [l]World Cup[z]	^-
+USA vs Australia	https://play.666666.zip/live/4459828.m3u8
+USA vs Australia	`F
+
+05:00 [l]World Cup[z]	^-
+Scotland vs Morocco	https://play.666666.zip/live/4460945.m3u8
+Scotland vs Morocco	`F
+
+07:00 [l]World Cup[z]	^-
+Brazil vs Haiti	https://play.666666.zip/live/4460911.m3u8
+Brazil vs Haiti	`F
+
+10:00 [l]World Cup[z]	^-
+Türkiye vs Paraguay	https://play.666666.zip/live/4460948.m3u8
+Türkiye vs Paraguay	`F
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -106,7 +126,6 @@ World Cup Joj Sport	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc
 World Cup Sporza	https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd!!893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 World Cup .AMTY	https://www.rtmpcdn.com/live/amty.m3u8
 World Cup .CCTV5	https://www.rtmpcdn.com/live/cctv5.m3u8
-World Cup .ELTA	https://www.rtmpcdn.com/live/elta.m3u8
 World Cup .GDTY	https://www.rtmpcdn.com/live/gdty.m3u8
 FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?7
 FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8?7
@@ -903,5 +922,10 @@ Nickelodeon	https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 TVRI	https://cdnbal1.indihometv.com/atm/DASH/TVRI/manifest.mpd
 TVRI World	https://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
 Rodja TV	https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+World Cup .ELTA	https://www.rtmpcdn.com/live/elta.m3u8
+
+^=Czech Rep vs South Africa HD	https://pullkgq721.qmuiw.com/live/hd-zh-1-4460939.m3u8?auth_key=1781798469-0-0-584c43ddeaea0a67e03ef65b372a0033
+^=Czech Rep vs South Africa .Play	https://play.666666.zip/live/4460939.m3u8
 
 	^-
