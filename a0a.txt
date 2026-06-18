@@ -54,7 +54,7 @@ Mexico vs South Korea	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318
 
 02:00 [l]World Cup[z]	^-
 USA vs Australia	https://play.666666.zip/live/4459828.m3u8
-USA vs Australia	`F
+USA vs Australia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318060/usa-vs-australia.html
 
 05:00 [l]World Cup[z]	^-
 Scotland vs Morocco	https://play.666666.zip/live/4460945.m3u8
@@ -78,6 +78,7 @@ Türkiye vs Paraguay	`F
 
 [l]RePlay & ReWatch[z]	^- 23:59 +5
 
+Switzerland vs Bosnia Herzegovina	https://stream.sports3.win/iptv/recording/4460942/recording-20-498000-fa1f4f7040.m3u8
 Czech Rep vs South Africa	https://stream.sports3.win/iptv/recording/4460939/recording-20-488368-7163c2e6d6.m3u8
 Uzbekistan vs Colombia	https://stream.sports3.win/iptv/recording/4460973/recording-20-488384-d6fc5dc68c.m3u8
 Ghana vs Panama	https://stream.sports3.win/iptv/recording/4460976/recording-20-488381-8f19c87f09.m3u8
