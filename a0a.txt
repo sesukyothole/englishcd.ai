@@ -130,27 +130,6 @@ BBC Drama Series	https://stream1.freetv.fun/29d9cd989e3d57ab50d527e42b73589d525c
 beIN Sports 2	https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 beIN Sports Xtra n	https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
-Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
-GTV	https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
-MNC TV	https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
-RCTI	https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
-iNews	https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
-Indosiar	https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
-SCTV	https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
-Berita Satu	https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-Cinemax	https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
-HBO	https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-HBO Family	https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-HBO Hits	https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-HBO Signature	https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-Hits https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
-Hits Movies	https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
-KiX	https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
-Nickelodeon	https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-TVRI	https://cdnbal1.indihometv.com/atm/DASH/TVRI/manifest.mpd
-TVRI World	https://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
-Rodja TV	https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
-
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CNBC	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNN	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -895,5 +874,26 @@ TSN 5	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/
 
 World Cup Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+
+Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+GTV	https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
+MNC TV	https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+RCTI	https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+iNews	https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+Indosiar	https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
+SCTV	https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+Berita Satu	https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+Cinemax	https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+HBO	https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+HBO Family	https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+HBO Hits	https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+HBO Signature	https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+Hits https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
+Hits Movies	https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+KiX	https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
+Nickelodeon	https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+TVRI	https://cdnbal1.indihometv.com/atm/DASH/TVRI/manifest.mpd
+TVRI World	https://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
+Rodja TV	https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 	^-
