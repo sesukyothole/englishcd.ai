@@ -32,22 +32,18 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 19.06.2026	^-
 
-05:00 [l]World Cup[z]	^-
-👇 [y]Canada vs Qatar[z] 👇	^-
+08:00 [l]World Cup[z]	^-
+👇 [y]Mexico vs South Korea[z] 👇	^-
 World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-Canada vs Qatar Live	https://pul-tenm.nbs3g.com/live/hd-en-1-4459825.m3u8?txSecret=be5cd3b869d79a9c4464cdefafd6b542&txTime=6A35BD48
-Canada vs Qatar .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-Canada vs Qatar .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-Canada vs Qatar .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-Canada vs Qatar .Gdty	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-Canada vs Qatar	https://play.666666.zip/live/4459825.m3u8
-Canada vs Qatar	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318061/canada-vs-qatar.html
-
-08:00 [l]World Cup[z]	^-
+Mexico vs South Korea https://pul-tenm.nbs3g.com/live/hd-en-1-4459821.m3u8?txSecret=be5cd3b869d79a9c4464cdefafd6b542&txTime=6A35BD48
+Mexico vs South Korea .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+Mexico vs South Korea .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+Mexico vs South Korea .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+Mexico vs South Korea .Gdty	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
 Mexico vs South Korea	https://play.666666.zip/live/4459821.m3u8
 Mexico vs South Korea	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318062/mexico-vs-south-korea.html
 
@@ -59,7 +55,7 @@ USA vs Australia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318060/u
 
 05:00 [l]World Cup[z]	^-
 Scotland vs Morocco	https://play.666666.zip/live/4460945.m3u8
-Scotland vs Morocco	`F
+Scotland vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324337/scotland-vs-morocco.html
 
 07:30 [l]World Cup[z]	^-
 Brazil vs Haiti	https://play.666666.zip/live/4460911.m3u8
@@ -79,6 +75,7 @@ Türkiye vs Paraguay	`F
 
 [l]RePlay & ReWatch[z]	^- 23:59 +5
 
+Canada vs Qatar	https://stream.sports3.win/iptv/recording/4459825/recording-20-509213-9d00aea0a5.m3u8
 Switzerland vs Bosnia Herzegovina	https://stream.sports3.win/iptv/recording/4460942/recording-20-498000-fa1f4f7040.m3u8
 Czech Rep vs South Africa	https://stream.sports3.win/iptv/recording/4460939/recording-20-488368-7163c2e6d6.m3u8
 Uzbekistan vs Colombia	https://stream.sports3.win/iptv/recording/4460973/recording-20-488384-d6fc5dc68c.m3u8
