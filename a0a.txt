@@ -32,12 +32,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 20.06.2026	^-
 
-02:00 [l]World Cup[z]	^-
-
-USA vs Australia Live	https://live.egmdispatch.com/live/66456944_cf65c649b1ba496fa9c8ffece3311830.m3u8
-USA vs Australia	https://play.666666.zip/live/4459828.m3u8
-USA vs Australia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318060/usa-vs-australia.html
-
 05:00 [l]World Cup[z]	^-
 👇 [y]Scotland vs Morocco[z] 👇	^-
 World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
