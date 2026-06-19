@@ -33,22 +33,22 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 20.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
-👇 [y]USA vs Australia[z] 👇	^-
-World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-World Cup Joj Sport	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 USA vs Australia Live	https://live.egmdispatch.com/live/66456944_cf65c649b1ba496fa9c8ffece3311830.m3u8
-USA vs Australia .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-USA vs Australia .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-USA vs Australia .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-USA vs Australia .Gdty	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
 USA vs Australia	https://play.666666.zip/live/4459828.m3u8
 USA vs Australia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318060/usa-vs-australia.html
 
 05:00 [l]World Cup[z]	^-
+👇 [y]Scotland vs Morocco[z] 👇	^-
+World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+Scotland vs Morocco .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+Scotland vs Morocco .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+Scotland vs Morocco .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+Scotland vs Morocco .Gdty	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
 Scotland vs Morocco	https://play.666666.zip/live/4460945.m3u8
 Scotland vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324337/scotland-vs-morocco.html
 
@@ -68,7 +68,7 @@ Netherlands vs Sweden	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324
 
 03:00 [l]World Cup[z]	^-
 Germany vs Ivory Coast	https://play.666666.zip/live/4460915.m3u8
-Germany vs Ivory Coast	`F
+Germany vs Ivory Coast	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324575/germany-vs-cote-divoire.html
 
 07:00 [l]World Cup[z]	^-
 Ecuador vs Curaçao	https://play.666666.zip/live/4460951.m3u8
