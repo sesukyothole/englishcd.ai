@@ -33,15 +33,29 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 21.06.2026	^-
 
 00:00 [l]World Cup[z]	^-
+👇 [y]Netherlands vs Sweden[z] 👇	^-
+World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+Netherlands vs Sweden .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+Netherlands vs Sweden .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+Netherlands vs Sweden .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+Netherlands vs Sweden .Gdty	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+Netherlands vs Sweden	https://play.666666.zip/live/4460918.m3u8
 Netherlands vs Sweden	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324482/netherlands-vs-sweden.html
 
 03:00 [l]World Cup[z]	^-
+Germany vs Ivory Coast	https://play.666666.zip/live/4460915.m3u8
 Germany vs Ivory Coast	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324575/germany-vs-cote-divoire.html
 
 07:00 [l]World Cup[z]	^-
+Ecuador vs Curaçao	https://play.666666.zip/live/4460951.m3u8
 Ecuador vs Curaçao	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324576/ecuador-vs-curacao.html
 
 11:00 [l]World Cup[z]	^-
+Tunisia vs Japan	https://play.666666.zip/live/4460954.m3u8
 Tunisia vs Japan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324485/tunisia-vs-japan.html
 
 	^-
