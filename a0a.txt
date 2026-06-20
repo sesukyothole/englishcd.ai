@@ -34,7 +34,6 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 03:00 [l]World Cup[z]	^-
 👇 [y]Germany vs Ivory Coast[z] 👇	^-
-World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup D Sports +	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd!!8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
