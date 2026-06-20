@@ -56,13 +56,13 @@ Tunisia vs Japan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324485/t
 
 23:00 [l]World Cup[z]	^-
 Spain vs Saudi Arabia	https://play.666666.zip/live/4460924.m3u8
-Spain vs Saudi Arabia	`F
+Spain vs Saudi Arabia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318280/spain-vs-saudi-arabia.html
 
 22.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
 Belgium vs Iran	https://play.666666.zip/live/4460921.m3u8
-Belgium vs Iran	`F
+Belgium vs Iran	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324308/belgium-vs-ir-iran.html
 
 05:00 [l]World Cup[z]	^-
 Uruguay vs Cape Verde	https://play.666666.zip/live/4460965.m3u8
@@ -81,7 +81,7 @@ New Zealand vs Egypt	`F
 ^#	^-
 ^=	^-
 
-RePlay & ReWatch . 02:30	^-
+[g]RePlay & ReWatch[z] . 02:30	^-
 
 Netherlands vs Sweden	https://stream.sports3.win/iptv/recording/4460918/recording-20-651066-f0b62d1c50.m3u8
 Türkiye vs Paraguay	https://stream.sports3.win/iptv/recording/4460948/recording-20-651079-683448afc4.m3u8
