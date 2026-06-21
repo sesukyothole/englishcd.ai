@@ -39,6 +39,7 @@ World Cup D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/en
 World Cup TRT 1	https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 World Cup TVP Sport	https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
+Tunisia vs Japan Live	https://live1.egmdispatch.com/live/66456974_b4e447eb3e809914797eeec5d3897665.m3u8
 Tunisia vs Japan .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
 Tunisia vs Japan .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 Tunisia vs Japan .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
@@ -62,7 +63,7 @@ Uruguay vs Cape Verde	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318
 
 08:00 [l]World Cup[z]	^-
 New Zealand vs Egypt	https://play.666666.zip/live/4460957.m3u8
-New Zealand vs Egypt	`F
+New Zealand vs Egypt	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324309/new-zealand-vs-egypt.html
 
 ^#	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
