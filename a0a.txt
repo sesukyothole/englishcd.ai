@@ -58,7 +58,7 @@ Argentina vs Austria	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-43181
 
 04:00 [l]World Cup[z]	^-
 France vs Iraq	https://play.666666.zip/live/4460927.m3u8
-France vs Iraq	`F
+France vs Iraq	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324446/france-vs-iraq.html
 
 07:00 [l]World Cup[z]	^-
 Norway vs Senegal	https://play.666666.zip/live/4460968.m3u8
@@ -77,36 +77,36 @@ Jordan vs Algeria	`F
 ^#	^-
 ^=	^-
 
-[g]RePlay & ReWatch[z] . 01:30	^-
+[g]RePlay & ReWatch[z] . 04:30	^-
 
-Spain vs Saudi Arabia	https://stream.sports3.win/iptv/recording/4460924/recording-20-729965-6025246cff.m3u8
-Tunisia vs Japan	https://stream.sports3.win/iptv/recording/4460954/recording-20-729991-ba3328d958.m3u8
-Ecuador vs Curaçao	https://stream.sports3.win/iptv/recording/4460951/recording-20-729985-388f507e1b.m3u8
-Germany vs Ivory Coast	https://stream.sports3.win/iptv/recording/4460915/recording-20-729979-d556f3736e.m3u8
-Netherlands vs Sweden	https://stream.sports3.win/iptv/recording/4460918/recording-20-729969-de546b22eb.m3u8
-Türkiye vs Paraguay	https://stream.sports3.win/iptv/recording/4460948/recording-20-730048-b813c96b38.m3u8
-Brazil vs Haiti	https://stream.sports3.win/iptv/recording/4460911/recording-20-730045-c5eda1da43.m3u8
-Scotland vs Morocco	https://stream.sports3.win/iptv/recording/4460945/recording-20-730042-5c6086e266.m3u8
-USA vs Australia	https://stream.sports3.win/iptv/recording/4459828/recording-20-730039-7da5b66577.m3u8
-Mexico vs South Korea	https://stream.sports3.win/iptv/recording/4459821/recording-20-730124-d4873ed2f4.m3u8
-Canada vs Qatar	https://stream.sports3.win/iptv/recording/4459825/recording-20-730120-8900c07384.m3u8
-Switzerland vs Bosnia Herzegovina	https://stream.sports3.win/iptv/recording/4460942/recording-20-730117-93800a1469.m3u8
-Czech Republic vs South Africa	https://stream.sports3.win/iptv/recording/4460939/recording-20-730109-20de0ff59c.m3u8
-Uzbekistan vs Colombia	https://stream.sports3.win/iptv/recording/4460973/recording-20-730165-c53b454fef.m3u8
-Ghana vs Panama	https://stream.sports3.win/iptv/recording/4460976/recording-20-730162-240fbcd08c.m3u8
-England vs Croatia	https://stream.sports3.win/iptv/recording/4460935/recording-20-730159-3ec383ed9c.m3u8
-Portugal vs Democratic Congo	https://stream.sports3.win/iptv/recording/4460932/recording-20-730154-772b302cfa.m3u8
-Austria vs Jordan	https://stream.sports3.win/iptv/recording/4460970/recording-20-730211-b902b67bc1.m3u8
-Argentina vs Algeria	https://stream.sports3.win/iptv/recording/4460929/recording-20-730208-b25c82e58d.m3u8
-Iraq vs Norway	https://stream.sports3.win/iptv/recording/4460967/recording-20-730205-40537b576d.m3u8
-France vs Senegal	https://stream.sports3.win/iptv/recording/4460926/recording-20-730202-8fc98a6c1c.m3u8
-Iran vs New Zealand	https://stream.sports3.win/iptv/recording/4460956/recording-20-730248-44cc87c9d2.m3u8
-Saudi Arabia vs Uruguay	https://stream.sports3.win/iptv/recording/4460959/recording-20-730245-20eaaaf491.m3u8
-Belgium vs Egypt	https://stream.sports3.win/iptv/recording/4460920/recording-20-730242-5af1e0d235.m3u8
-Spain vs Cape Verde	https://stream.sports3.win/iptv/recording/4460923/recording-20-730238-ddaf1cc953.m3u8
+Belgium vs Iran	https://stream.sports3.win/iptv/recording/4460921/recording-20-741139-7ce501fd78.m3u8
+Spain vs Saudi Arabia	https://stream.sports3.win/iptv/recording/4460924/recording-20-741132-e399b7bce8.m3u8
+Tunisia vs Japan	https://stream.sports3.win/iptv/recording/4460954/recording-20-741165-52a3e6d99d.m3u8
+Ecuador vs Curaçao	https://stream.sports3.win/iptv/recording/4460951/recording-20-741159-d0fc74de85.m3u8
+Germany vs Ivory Coast	https://stream.sports3.win/iptv/recording/4460915/recording-20-741153-d1f7b0c49b.m3u8
+Netherlands vs Sweden	https://stream.sports3.win/iptv/recording/4460918/recording-20-741143-73ab6066e8.m3u8
+Türkiye vs Paraguay	https://stream.sports3.win/iptv/recording/4460948/recording-20-741222-752c7713c6.m3u8
+Brazil vs Haiti	https://stream.sports3.win/iptv/recording/4460911/recording-20-741219-9a50725031.m3u8
+Scotland vs Morocco	https://stream.sports3.win/iptv/recording/4460945/recording-20-741216-fa7c7d1e65.m3u8
+USA vs Australia	https://stream.sports3.win/iptv/recording/4459828/recording-20-741213-bdd0644895.m3u8
+Mexico vs South Korea	https://stream.sports3.win/iptv/recording/4459821/recording-20-741298-6fe4fb962c.m3u8
+Canada vs Qatar	https://stream.sports3.win/iptv/recording/4459825/recording-20-741294-60c4f489c4.m3u8
+Switzerland vs Bosnia Herzegovina	https://stream.sports3.win/iptv/recording/4460942/recording-20-741291-a9cf0e69c8.m3u8
+Czech Republic vs South Africa	https://stream.sports3.win/iptv/recording/4460939/recording-20-741283-303f747e8e.m3u8
+Uzbekistan vs Colombia	https://stream.sports3.win/iptv/recording/4460973/recording-20-741339-6383c92575.m3u8
+Ghana vs Panama	https://stream.sports3.win/iptv/recording/4460976/recording-20-741336-1be228570a.m3u8
+England vs Croatia	https://stream.sports3.win/iptv/recording/4460935/recording-20-741333-6935f6f809.m3u8
+Portugal vs Democratic Congo	https://stream.sports3.win/iptv/recording/4460932/recording-20-741328-5116ff451b.m3u8
+Austria vs Jordan	https://stream.sports3.win/iptv/recording/4460970/recording-20-741385-1b58395511.m3u8
+Argentina vs Algeria	https://stream.sports3.win/iptv/recording/4460929/recording-20-741382-75085b2761.m3u8
+Iraq vs Norway	https://stream.sports3.win/iptv/recording/4460967/recording-20-741379-d6bf86dcd7.m3u8
+France vs Senegal	https://stream.sports3.win/iptv/recording/4460926/recording-20-741376-268f8110f5.m3u8
+Iran vs New Zealand	https://stream.sports3.win/iptv/recording/4460956/recording-20-741422-584249c1f2.m3u8
+Saudi Arabia vs Uruguay	https://stream.sports3.win/iptv/recording/4460959/recording-20-741419-a1268bc4a5.m3u8
+Belgium vs Egypt	https://stream.sports3.win/iptv/recording/4460920/recording-20-741416-7f418292c2.m3u8
+Spain vs Cape Verde	https://stream.sports3.win/iptv/recording/4460923/recording-20-741412-58944cd7ab.m3u8
 Sweden vs Tunisia	https://stream.sports3.win/iptv/recording/4460953/recording-20-720860-ca95144724.m3u8
 Ivory Coast vs Ecuador	https://stream.sports3.win/iptv/recording/4460950/recording-20-720857-82e2828ed8.m3u8
-Netherlands vs Japan	https://stream.sports3.win/iptv/recording/4460917/recording-20-720852-4d0f905ea0.m3u8
 
 	^-
 
