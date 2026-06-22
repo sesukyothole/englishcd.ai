@@ -58,7 +58,7 @@ France vs Iraq	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324446/fra
 
 07:00 [l]World Cup[z]	^-
 Norway vs Senegal	https://play.666666.zip/live/4460968.m3u8
-Norway vs Senegal	`F
+Norway vs Senegal	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324448/norway-vs-senegal.html
 
 10:00 [l]World Cup[z]	^-
 Jordan vs Algeria	https://play.666666.zip/live/4460971.m3u8
@@ -73,7 +73,7 @@ Jordan vs Algeria	`F
 ^#	^-
 ^=	^-
 
-[g]RePlay & ReWatch[z] . 07:30	^-
+[l]RePlay & ReWatch[z] . 07:30	^-
 
 Uruguay vs Cape Verde	https://stream.sports3.win/iptv/recording/4460965/recording-0-751624-76527e3a44.m3u8
 Belgium vs Iran	https://stream.sports3.win/iptv/recording/4460921/recording-20-751623-e6a71a3331.m3u8
