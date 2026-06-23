@@ -131,6 +131,12 @@ FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c63656321
 ^=World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 ^=World Cup TUDN Vix	https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd!!75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
 
+^=World Cup Amty	https://live13a.jynrrs.com/live/38143826.m3u8
+^=World Cup Cctv5	https://live13a.jynrrs.com/live/20233432.m3u8
+^=World Cup Cctv5+	https://live13a.jynrrs.com/live/79635460.m3u8
+^=World Cup Elta	https://live13a.jynrrs.com/live/16697898.m3u8
+^=World Cup Gdty	https://live13a.jynrrs.com/live/90149826.m3u8
+
 	^-
 
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
