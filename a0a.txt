@@ -31,8 +31,12 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 02:00 [l]World Cup[z]	^-
 Switzerland vs Canada	https://play.666666.zip/live/4459826.m3u8
+Switzerland vs Canada HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTHSWjvLskHmJ/playlist.m3u8
+Switzerland vs Canada SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTHSWjvLskHmJ/playlist.m3u8
 Switzerland vs Canada	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318063/switzerland-vs-canada.html
 Bosnia Herzegovina vs Qatar	https://play.666666.zip/live/4460943.m3u8
+Bosnia Herzegovina vs Qatar HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvZ6BDgJAXeSaQHse/playlist.m3u8
+Bosnia Herzegovina vs Qatar SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvZ6BDgJAXeSaQHse/playlist.m3u8
 Bosnia Herzegovina vs Qatar	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318279/bosnia-and-herzegovina-vs-qatar.html
 
 05:00 [l]World Cup[z]	^-
