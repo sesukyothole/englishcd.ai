@@ -31,8 +31,12 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 05:00 [l]World Cup[z]	^-
 Scotland vs Brazil	https://play.666666.zip/live/4460912.m3u8
+Scotland vs Brazil HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvZ6BDgoJkAjWi2q6/playlist.m3u8
+Scotland vs Brazil SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvZ6BDgoJkAjWi2q6/playlist.m3u8
 Scotland vs Brazil	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324339/scotland-vs-brazil.html
 Morocco vs Haiti	https://play.666666.zip/live/4460946.m3u8
+Morocco vs Haiti HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvZ6BDgJMX3nyXse8/playlist.m3u8
+Morocco vs Haiti SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvZ6BDgJMX3nyXse8/playlist.m3u8
 Morocco vs Haiti	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324338/morocco-vs-haiti.html
 
 08:00 [l]World Cup[z]	^-
