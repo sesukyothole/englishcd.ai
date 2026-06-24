@@ -32,27 +32,16 @@ Live Sports Streaming	`0https://www.marza12.shop/football.html
 
 25.06.2026	^-
 
-World Cup .AMTY	https://www.rtmpcdn.com/live/amty.m3u8
-World Cup .CCTV5	https://www.rtmpcdn.com/live/cctv5.m3u8
-World Cup .ELTA	https://www.rtmpcdn.com/live/elta.m3u8
-World Cup .GDTY	https://www.rtmpcdn.com/live/gdty.m3u8
-
 02:00 [l]World Cup[z]	^-
-Switzerland vs Canada	https://play.666666.zip/live/4459826.m3u8
 Switzerland vs Canada	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318063/switzerland-vs-canada.html
-Bosnia Herzegovina vs Qatar	https://play.666666.zip/live/4460943.m3u8
 Bosnia Herzegovina vs Qatar	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318279/bosnia-and-herzegovina-vs-qatar.html
 
 05:00 [l]World Cup[z]	^-
-Scotland vs Brazil	https://play.666666.zip/live/4460912.m3u8
 Scotland vs Brazil	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324339/scotland-vs-brazil.html
-Morocco vs Haiti	https://play.666666.zip/live/4460946.m3u8
 Morocco vs Haiti	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324338/morocco-vs-haiti.html
 
 08:00 [l]World Cup[z]	^-
-Czech Republic vs Mexico	https://play.666666.zip/live/4459823.m3u8
 Czech Republic vs Mexico	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318066/czechia-vs-mexico.html
-South Africa vs South Korea	https://play.666666.zip/live/4460940.m3u8
 South Africa vs South Korea	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324312/south-africa-vs-south-korea.html
 
 ^#	^-
