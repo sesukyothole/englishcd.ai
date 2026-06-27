@@ -27,35 +27,19 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-27.06.2026	^-
-
-10:00 [l]World Cup[z]	^-
-New Zealand vs Belgium	https://play.666666.zip/live/4460922.m3u8
-New Zealand vs Belgium HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvZ6BDhJQmD9yBrde/playlist.m3u8
-New Zealand vs Belgium SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvZ6BDhJQmD9yBrde/playlist.m3u8
-New Zealand vs Belgium	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324310/new-zealand-vs-belgium.html
-Egypt vs Iran	https://play.666666.zip/live/4460958.m3u8
-Egypt vs Iran	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4324307/egypt-vs-ir-iran.html
-
 28.06.2026	^-
 
 04:00 [l]World Cup[z]	^-
-Panama vs England	https://play.666666.zip/live/4460937.m3u8
 Panama vs England	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4320244/panama-vs-england.html
-Croatia vs Ghana	https://play.666666.zip/live/4460978.m3u8
 Croatia vs Ghana	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4320245/croatia-vs-ghana.html
 
 06:30 [l]World Cup[z]	^-
-Colombia vs Portugal	https://play.666666.zip/live/4460934.m3u8
 Colombia vs Portugal	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4341128/colombia-vs-portugal.html
-Democratic Congo vs Uzbekistan	https://play.666666.zip/live/4460975.m3u8
 Democratic Congo vs Uzbekistan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4341129/democratic-republic-of-the-congo-vs-uzbekistan.html
 
 09:00 [l]World Cup[z]	^-
-Jordan vs Argentina	https://play.666666.zip/live/4460931.m3u8
-Jordan vs Argentina	`F
-Algeria vs Austria	https://play.666666.zip/live/4460972.m3u8
-Algeria vs Austria	`F
+Jordan vs Argentina	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318161/jordan-vs-argentina.html
+Algeria vs Austria	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318163/algeria-vs-austria.html
 
 ^#	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -118,17 +102,6 @@ World Cup D Sports+	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/
 
 FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?7
 FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8?7
-
-^=World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-^=World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-^=World Cup TRT 1	https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-^=World Cup TUDN Vix	https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd!!75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
-
-^=World Cup Amty	https://live13a.jynrrs.com/live/38143826.m3u8
-^=World Cup Cctv5	https://live13a.jynrrs.com/live/20233432.m3u8
-^=World Cup Cctv5+	https://live13a.jynrrs.com/live/79635460.m3u8
-^=World Cup Elta	https://live13a.jynrrs.com/live/16697898.m3u8
-^=World Cup Gdty	https://live13a.jynrrs.com/live/90149826.m3u8
 
 	^-
 
@@ -193,6 +166,17 @@ UFC 2	https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Jowo Channel	https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+^=World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+^=World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+^=World Cup TRT 1	https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+^=World Cup TUDN Vix	https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd!!75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
+
+^=World Cup Amty	https://live13a.jynrrs.com/live/38143826.m3u8
+^=World Cup Cctv5	https://live13a.jynrrs.com/live/20233432.m3u8
+^=World Cup Cctv5+	https://live13a.jynrrs.com/live/79635460.m3u8
+^=World Cup Elta	https://live13a.jynrrs.com/live/16697898.m3u8
+^=World Cup Gdty	https://live13a.jynrrs.com/live/90149826.m3u8
 
 Pesta Babi .Full Movie	i0`00.reel/843619455466130/
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
