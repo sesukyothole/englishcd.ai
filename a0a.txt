@@ -58,23 +58,17 @@ Algeria vs Austria	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318163
 
 [l]RePlay & ReWatch[z]	^-
 
-Egypt vs Iran	https://cdn.honixa3689.qzz.io/live/egypt-ir-iran/vod.m3u8
-New Zealand vs Belgium	https://cdn.honixa3689.qzz.io/live/new-zealand-belgium/vod.m3u8
-Norway vs France	https://cdn.honixa3689.qzz.io/live/norway-france/vod.m3u8
-Senegal vs Iraq	https://cdn.honixa3689.qzz.io/live/senegal-iraq/vod.m3u8
+Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
+Cape Verde vs Saudi Arabia	https://img.refooty.com/m3u8/14505-EXjua.m3u8
+Uruguay vs Spain	https://img.refooty.com/m3u8/14503-Jt7El.m3u8
+Senegal vs Iraq	https://img.refooty.com/m3u8/14497-xRrm5.m3u8
+Norway vs France	https://img.refooty.com/m3u8/14495-SGaXP.m3u8
+Tunisia vs Netherlands	https://img.refooty.com/m3u8/14479-dhQz0.m3u8
+Japan vs Sweden	https://img.refooty.com/m3u8/14481-YKPcI.m3u8
+Türkiye vs USA	https://img.refooty.com/m3u8/14491-CXFyt.m3u8
+Paraguay vs Australia	https://img.refooty.com/m3u8/14483-2yNwR.m3u8
 
-[l]RePlay & ReWatch[z] . 17:00	^-
-
-Egypt vs Iran	https://stream.sports3.win/iptv/recording/4460958/recording-20-1236820-e457e816d0.m3u8
 New Zealand vs Belgium	https://stream.sports3.win/iptv/recording/4460922/recording-20-1236817-448b79efbd.m3u8
-Cape Verde vs Saudi Arabia	https://stream.sports3.win/iptv/recording/4460966/recording-20-1236814-400e8572ac.m3u8
-Uruguay vs Spain	https://stream.sports3.win/iptv/recording/4460925/recording-20-1236811-899af74a21.m3u8
-Senegal vs Iraq	https://stream.sports3.win/iptv/recording/4460969/recording-20-1236807-ccd0c029cd.m3u8
-Norway vs France	https://stream.sports3.win/iptv/recording/4460928/recording-20-1236804-0726f3b5ec.m3u8
-Paraguay vs Australia	https://stream.sports3.win/iptv/recording/4460949/recording-20-1236856-3b18f4abdb.m3u8
-Türkiye vs USA	https://stream.sports3.win/iptv/recording/4459829/recording-20-1236853-fcd5366ca7.m3u8
-Japan vs Sweden	https://stream.sports3.win/iptv/recording/4460955/recording-20-1236850-3cb04a5874.m3u8
-Tunisia vs Netherlands	https://stream.sports3.win/iptv/recording/4460919/recording-20-1236847-0e984e1f3d.m3u8
 Curaçao vs Ivory Coast	https://stream.sports3.win/iptv/recording/4460952/recording-20-1236844-6c9f8b735f.m3u8
 Ecuador vs Germany	https://stream.sports3.win/iptv/recording/4460916/recording-20-1236841-7dea8ba6a5.m3u8
 South Africa vs South Korea	https://stream.sports3.win/iptv/recording/4460940/recording-20-1236905-19e9eda284.m3u8
