@@ -56,8 +56,8 @@ Netherlands vs Morocco	`F
 [l]RePlay & ReWatch[z]	^-
 
 Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
-Jordan vs Argentina	https://cdn.honixa3689.qzz.io/live/jordan-argentina/vod.m3u8
 Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
+Jordan vs Argentina	https://cdn.honixa3689.qzz.io/live/jordan-argentina/vod.m3u8
 Colombia vs Portugal	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
 Colombia vs Portugal	https://cdn.honixa3689.qzz.io/live/colombia-portugal/vod.m3u8
 Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
