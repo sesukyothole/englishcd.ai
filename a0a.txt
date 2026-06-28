@@ -27,18 +27,6 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-28.06.2026	^-
-
-09:00 [l]World Cup[z]	^-
-Jordan vs Argentina	https://play.666666.zip/live/4460931.m3u8
-Jordan vs Argentina HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvZ6BDh8bVkjiDVuS/playlist.m3u8
-Jordan vs Argentina SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvZ6BDh8bVkjiDVuS/playlist.m3u8
-Jordan vs Argentina	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318161/jordan-vs-argentina.html
-Algeria vs Austria	https://play.666666.zip/live/4460972.m3u8
-Algeria vs Austria HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvZ6BDgTuQ97sipJ4/playlist.m3u8
-Algeria vs Austria SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvZ6BDgTuQ97sipJ4/playlist.m3u8
-Algeria vs Austria	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4318163/algeria-vs-austria.html
-
 29.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
@@ -56,10 +44,12 @@ South Africa vs Canada	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-433
 
 [l]RePlay & ReWatch[z]	^-
 
-Congo DR vs Uzbekistan	https://stream.sports3.win/iptv/recording/4460975/recording-20-1293234-ab929e2051.m3u8
-Colombia vs Portugal	https://stream.sports3.win/iptv/recording/4460934/recording-20-1293231-520db8b381.m3u8
-Croatia vs Ghana	https://stream.sports3.win/iptv/recording/4460978/recording-20-1293228-3031da9bbc.m3u8
-Panama vs England	https://stream.sports3.win/iptv/recording/4460937/recording-20-1293225-55f72480df.m3u8
+Algeria vs Austria	https://stream.sports3.win/iptv/recording/4460972/recording-0-1300489-a576db50aa.m3u8
+Jordan vs Argentina	https://stream.sports3.win/iptv/recording/4460931/recording-0-1300488-45ea91c812.m3u8
+Congo DR vs Uzbekistan	https://stream.sports3.win/iptv/recording/4460975/recording-20-1300487-f050464e4d.m3u8
+Colombia vs Portugal	https://stream.sports3.win/iptv/recording/4460934/recording-20-1300484-b8809943dc.m3u8
+Croatia vs Ghana	https://stream.sports3.win/iptv/recording/4460978/recording-20-1300481-be8b753a01.m3u8
+Panama vs England	https://stream.sports3.win/iptv/recording/4460937/recording-20-1300478-3180195018.m3u8
 New Zealand vs Belgium	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
 Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
 Cape Verde vs Saudi Arabia	https://img.refooty.com/m3u8/14505-EXjua.m3u8
