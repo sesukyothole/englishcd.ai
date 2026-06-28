@@ -70,7 +70,7 @@ Egypt vs Iran	https://cdn.honixa3689.qzz.io/live/egypt-ir-iran/vod.m3u8
 Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
 Cape Verde vs Saudi Arabia	https://cdn.honixa3689.qzz.io/live/cabo-verde-saudi-arabia/vod.m3u8
 Cape Verde vs Saudi Arabia	https://img.refooty.com/m3u8/14505-EXjua.m3u8
-Cape Verde vs Saudi Arabia	https://cdn.honixa3689.qzz.io/live/uruguay-spain/vod.m3u8
+Uruguay vs Spain	https://cdn.honixa3689.qzz.io/live/uruguay-spain/vod.m3u8
 Uruguay vs Spain	https://img.refooty.com/m3u8/14503-Jt7El.m3u8
 Senegal vs Iraq	https://img.refooty.com/m3u8/14497-xRrm5.m3u8
 Norway vs France	https://img.refooty.com/m3u8/14495-SGaXP.m3u8
