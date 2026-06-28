@@ -30,18 +30,24 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 29.06.2026	^-
 
 02:00 [l]World Cup[z]	^-
+South Africa vs Canada	https://play.ntcwix.com/rrty/hd-zh-1-4459717_gqzm.m3u8?auth_key=1782676436-0-0-5f8f63165be7fdc581dccbd630d6cbed&token=04947fb32b63f3d9&device=4&platform=rrty
 South Africa vs Canada	https://play.666666.zip/live/4459717.m3u8
+South Africa vs Canada HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSY7rKqQKAtKS/playlist.m3u8
+South Africa vs Canada SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSY7rKqQKAtKS/playlist.m3u8
 South Africa vs Canada	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4337487/south-africa-vs-canada.html
 
 30.06.2026	^-
 
 00:00 [l]World Cup[z]	^-
-Brazil vs Japan	`F
+Brazil vs Japan	https://play.666666.zip/live/4459720.m3u8
+Brazil vs Japan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374269/brazil-vs-japan.html
 
 03:30 [l]World Cup[z]	^-
+Germany vs Paraguay	https://play.666666.zip/live/4459718.m3u8
 Germany vs Paraguay	`F
 
 08:00 [l]World Cup[z]	^-
+Netherlands vs Morocco	https://play.666666.zip/live/4459719.m3u8
 Netherlands vs Morocco	`F
 
 ^#	^-
@@ -55,13 +61,14 @@ Netherlands vs Morocco	`F
 
 [l]RePlay & ReWatch[z]	^-
 
+Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
+Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
+Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
 Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
 Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
 Jordan vs Argentina	https://cdn.honixa3689.qzz.io/live/jordan-argentina/vod.m3u8
 Colombia vs Portugal	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
 Colombia vs Portugal	https://cdn.honixa3689.qzz.io/live/colombia-portugal/vod.m3u8
-Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
-Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
 Congo DR vs Uzbekistan	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
 Congo DR vs Uzbekistan	https://cdn.honixa3689.qzz.io/live/congo-dr-uzbekistan/vod.m3u8
 New Zealand vs Belgium	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
