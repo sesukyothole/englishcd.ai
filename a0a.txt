@@ -39,7 +39,7 @@ South Africa vs Canada	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-433
 Brazil vs Japan	`F
 
 03:30 [l]World Cup[z]	^-
-Germany vs VAR	`F
+Germany vs Paraguay	`F
 
 08:00 [l]World Cup[z]	^-
 Netherlands vs Morocco	`F
