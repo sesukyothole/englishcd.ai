@@ -57,13 +57,20 @@ Netherlands vs Morocco	`F
 
 Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
 Jordan vs Argentina	https://cdn.honixa3689.qzz.io/live/jordan-argentina/vod.m3u8
+Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
 Colombia vs Portugal	https://cdn.honixa3689.qzz.io/live/colombia-portugal/vod.m3u8
+Colombia vs Portugal	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
 Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
 Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
+Congo DR vs Uzbekistan	https://cdn.honixa3689.qzz.io/live/congo-dr-uzbekistan/vod.m3u8
 Congo DR vs Uzbekistan	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
+New Zealand vs Belgium	https://cdn.honixa3689.qzz.io/live/new-zealand-belgium/vod.m3u8
 New Zealand vs Belgium	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
+Egypt vs Iran	https://cdn.honixa3689.qzz.io/live/egypt-ir-iran/vod.m3u8
 Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
+Cape Verde vs Saudi Arabia	https://cdn.honixa3689.qzz.io/live/cabo-verde-saudi-arabia/vod.m3u8
 Cape Verde vs Saudi Arabia	https://img.refooty.com/m3u8/14505-EXjua.m3u8
+Cape Verde vs Saudi Arabia	https://cdn.honixa3689.qzz.io/live/uruguay-spain/vod.m3u8
 Uruguay vs Spain	https://img.refooty.com/m3u8/14503-Jt7El.m3u8
 Senegal vs Iraq	https://img.refooty.com/m3u8/14497-xRrm5.m3u8
 Norway vs France	https://img.refooty.com/m3u8/14495-SGaXP.m3u8
