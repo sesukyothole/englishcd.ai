@@ -52,7 +52,7 @@ Netherlands vs Morocco	`F
 
 [l]RePlay & ReWatch[z]	^-
 
-South Africa vs Canada	https://stream.sports3.win/iptv/recording/4459717/recording-20-1372149-7807dbc09e.m3u8
+South Africa vs Canada	https://stream.sports3.win/iptv/recording/4459717/recording-20-1380804-9c1545ebdf.m3u8
 Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
 Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
 Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
