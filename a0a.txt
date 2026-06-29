@@ -57,12 +57,13 @@ Mexico vs Ecuador	https://play.666666.zip/live/4459723.m3u8
 
 [l]RePlay & ReWatch[z]	^-
 
+Brazil vs Japan	https://cdn.honixa3689.qzz.io/live/80e4b9e3-d3fe-4ff2-b69b-6ec90dcb347a/vod.m3u8
 Brazil vs Japan	https://stream.sports3.win/iptv/recording/4459720/recording-0-1453487-c684ee989f.m3u8
 South Africa vs Canada	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
-Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
-Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
 Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
 Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
+Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
+Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
 Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
 Jordan vs Argentina	https://cdn.honixa3689.qzz.io/live/jordan-argentina/vod.m3u8
 Colombia vs Portugal	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
