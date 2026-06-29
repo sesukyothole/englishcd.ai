@@ -29,12 +29,6 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 30.06.2026	^-
 
-00:00 [l]World Cup[z]	^-
-Brazil vs Japan	https://play.666666.zip/live/4459720.m3u8
-Brazil vs Japan HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYcmMUUNX8MW/playlist.m3u8
-Brazil vs Japan SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcmMUUNX8MW/playlist.m3u8
-Brazil vs Japan	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374269/brazil-vs-japan.html
-
 03:30 [l]World Cup[z]	^-
 Germany vs Paraguay	https://play.666666.zip/live/4459718.m3u8
 Germany vs Paraguay	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374268/germany-vs-paraguay.html
@@ -63,6 +57,7 @@ Mexico vs Ecuador	https://play.666666.zip/live/4459723.m3u8
 
 [l]RePlay & ReWatch[z]	^-
 
+Brazil vs Japan	https://stream.sports3.win/iptv/recording/4459720/recording-0-1453487-c684ee989f.m3u8
 South Africa vs Canada	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
 Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
 Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
