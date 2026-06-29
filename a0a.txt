@@ -39,7 +39,7 @@ Germany vs Paraguay	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-437426
 
 08:00 [l]World Cup[z]	^-
 Netherlands vs Morocco	https://play.666666.zip/live/4459719.m3u8
-Netherlands vs Morocco	`F
+Netherlands vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4338089/netherlands-vs-morocco.html
 
 ^#	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -52,11 +52,11 @@ Netherlands vs Morocco	`F
 
 [l]RePlay & ReWatch[z]	^-
 
-South Africa vs Canada	https://stream.sports3.win/iptv/recording/4459717/recording-20-1380804-9c1545ebdf.m3u8
-Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
-Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
+South Africa vs Canada	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
 Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
 Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
+Panama vs England	https://cdn.honixa3689.qzz.io/live/panama-england/vod.m3u8
+Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
 Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
 Jordan vs Argentina	https://cdn.honixa3689.qzz.io/live/jordan-argentina/vod.m3u8
 Colombia vs Portugal	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
