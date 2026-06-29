@@ -31,7 +31,8 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 03:30 [l]World Cup[z]	^-
 Germany vs Paraguay	https://play.666666.zip/live/4459718.m3u8
-^=Germany vs Paraguay HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSY7Mkb65RyKn/playlist.m3u8
+Germany vs Paraguay Live	https://cdn.honixa3689.qzz.io/live/671538a9-53d7-444b-a403-84e538350fb0/index.m3u8
+Germany vs Paraguay HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSY7Mkb65RyKn/playlist.m3u8
 Germany vs Paraguay SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSY7Mkb65RyKn/playlist.m3u8
 Germany vs Paraguay	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374268/germany-vs-paraguay.html
 
@@ -41,7 +42,7 @@ Netherlands vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-433
 
 00:00 [l]World Cup[z]	^-
 Ivory Coast vs Norway	https://play.666666.zip/live/4459722.m3u8
-^=Ivory Coast vs Norway	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374267/cote-divoire-vs-norway.html
+Ivory Coast vs Norway	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374267/cote-divoire-vs-norway.html
 
 04:00 [l]World Cup[z]	^-
 France vs Sweden	https://play.666666.zip/live/4459721.m3u8
