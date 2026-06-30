@@ -4,9 +4,6 @@
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
-^=vivo	`0https://player.online909.com/live/index.html?liveUrl=https://live.vivo200.com/live/sd-1-4459721.m3u8?txSecret=52c07271d09dcc1d2dc267e5b0c560b9&txTime=6A4434D2
-^=bein1	`https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-^=bein 1	`0https://player.online909.com/live/index.html?liveUrl=`https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 ^=Blank	
 ^=	^-
 
