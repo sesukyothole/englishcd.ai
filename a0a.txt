@@ -68,21 +68,13 @@ USA vs Bosnia Herzegovina	`F
 [l]RePlay & ReWatch[z]	^-
 
 Netherlands vs Morocco	https://img.refooty.com/m3u8/14551-zmiIw.m3u8
-Netherlands vs Morocco	https://cdn.honixa3689.qzz.io/live/93570ea2-f7d2-441d-af3a-cbba3b4f02a5/vod.m3u8
 Germany vs Paraguay	https://img.refooty.com/m3u8/14546-o6i5a.m3u8
-Germany vs Paraguay	https://cdn.honixa3689.qzz.io/live/671538a9-53d7-444b-a403-84e538350fb0/vod.m3u8
 Brazil vs Japan	https://img.refooty.com/m3u8/14544-ZFcL4.m3u8
-Brazil vs Japan	https://cdn.honixa3689.qzz.io/live/80e4b9e3-d3fe-4ff2-b69b-6ec90dcb347a/vod.m3u8
 Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
-Algeria vs Austria	https://cdn.honixa3689.qzz.io/live/algeria-austria/vod.m3u8
 Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
-Jordan vs Argentina	https://cdn.honixa3689.qzz.io/live/jordan-argentina/vod.m3u8
 Colombia vs Portugal	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
-Colombia vs Portugal	https://cdn.honixa3689.qzz.io/live/colombia-portugal/vod.m3u8
 Croatia vs Ghana	https://img.refooty.com/m3u8/14521-WjPUy.m3u8
-Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
 Congo DR vs Uzbekistan	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
-Congo DR vs Uzbekistan	https://cdn.honixa3689.qzz.io/live/congo-dr-uzbekistan/vod.m3u8
 South Africa vs Canada	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
 New Zealand vs Belgium	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
 Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
