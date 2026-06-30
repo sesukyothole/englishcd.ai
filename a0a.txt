@@ -4,6 +4,9 @@
 ^=Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Soccer TV Guide	`1https://www.livesoccertv.com/
 ^=Jadwal Bola	`0https://sportsonline.st/prog.txt
+^=vivo	`0https://player.online909.com/live/index.html?liveUrl=https://live.vivo200.com/live/sd-1-4459721.m3u8?txSecret=52c07271d09dcc1d2dc267e5b0c560b9&txTime=6A4434D2
+^=bein1	`https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+^=bein 1	`0https://player.online909.com/live/index.html?liveUrl=`https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 ^=Blank	
 ^=	^-
 
@@ -158,7 +161,7 @@ World Cup .GDTY	https://www.rtmpcdn.com/live/gdty.m3u8
 
 World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd!!4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-World Cup DZ Sports	`0https://play.88player.top/m3u8.html?url=https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+World Cup DZ Sports	`0https://player.online909.com/live/index.html?liveUrl=https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 World Cup Joj Sport	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup D Sports+	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd!!8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 
