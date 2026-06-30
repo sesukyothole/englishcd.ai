@@ -79,6 +79,7 @@ Croatia vs Ghana	https://img.refooty.com/m3u8/14521-WjPUy.m3u8
 Croatia vs Ghana	https://cdn.honixa3689.qzz.io/live/croatia-ghana/vod.m3u8
 Congo DR vs Uzbekistan	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
 Congo DR vs Uzbekistan	https://cdn.honixa3689.qzz.io/live/congo-dr-uzbekistan/vod.m3u8
+Panama vs England	https://thematchrecap.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/q0FApnLvx3Zx45d6zOpMoA/hl1/9dr5kb6n/thmoxu/tt/index-f2-v1-a1.m3u8?v=1766826492
 South Africa vs Canada	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
 New Zealand vs Belgium	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
 Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
