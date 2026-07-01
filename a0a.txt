@@ -31,6 +31,8 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 03:00 [l]World Cup[z]	^-
 Belgium vs Senegal	https://play.666666.zip/live/4459726.m3u8
+Belgium vs Senegal HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYczYMhFUdGt/playlist.m3u8
+Belgium vs Senegal SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYczYMhFUdGt/playlist.m3u8
 Belgium vs Senegal	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374264/belgium-vs-senegal.html
 
 07:00 [l]World Cup[z]	^-
