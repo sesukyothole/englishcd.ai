@@ -31,6 +31,8 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 08:00 [l]World Cup[z]	^-
 Mexico vs Ecuador	https://play.666666.zip/live/4459723.m3u8
+Mexico vs Ecuador HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYcoYxLrM3WQ/playlist.m3u8
+Mexico vs Ecuador SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcoYxLrM3WQ/playlist.m3u8
 Mexico vs Ecuador	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4338086/mexico-vs-ecuador.html
 
 23:00 [l]World Cup[z]	^-
