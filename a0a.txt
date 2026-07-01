@@ -166,9 +166,7 @@ Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaw
 Travel & Taste	https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 tvN CJ E&M	https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
-TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 TVRI Wolrd	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 Animal Planet	https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd!!df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Barca TV	https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
@@ -218,17 +216,6 @@ UFC 2	https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Jowo Channel	https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
 TV9	https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-
-^=World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-^=World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-^=World Cup TRT 1	https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-^=World Cup TUDN Vix	https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd!!75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
-
-^=World Cup Amty	https://live13a.jynrrs.com/live/38143826.m3u8
-^=World Cup Cctv5	https://live13a.jynrrs.com/live/20233432.m3u8
-^=World Cup Cctv5+	https://live13a.jynrrs.com/live/79635460.m3u8
-^=World Cup Elta	https://live13a.jynrrs.com/live/16697898.m3u8
-^=World Cup Gdty	https://live13a.jynrrs.com/live/90149826.m3u8
 
 Pesta Babi .Full Movie	https://www.youtube.com/watch?v=sytGLOJOYcg
 Pesta Babi .Alur Cerita	https://www.youtube.com/watch?v=EF3JsA-Y1kI
@@ -370,6 +357,27 @@ Uniques	https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6
 Vision Prime	https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd!!483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 Zee Bioskop	https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd!!398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 MU TV	https://get.perfecttv.net/mutv.mpd
+
+Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+GTV	https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
+MNC TV	https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+RCTI	https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+iNews	https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+Indosiar	https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
+SCTV	https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+Berita Satu	https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+Cinemax	https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+HBO	https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+HBO Family	https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+HBO Hits	https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+HBO Signature	https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+Hits https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
+Hits Movies	https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+KiX	https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
+Nickelodeon	https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+TVRI	https://cdnbal1.indihometv.com/atm/DASH/TVRI/manifest.mpd
+TVRI World	https://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
+Rodja TV	https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 	^-
 [l]{s} 👉Ⓜa1 🤹Multi Drama Dubbing Indonesia👈[z]	^^sa1
@@ -935,26 +943,19 @@ Willow Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll
 World Cup Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 
-Max Sports	https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
-GTV	https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
-MNC TV	https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
-RCTI	https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
-iNews	https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
-Indosiar	https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
-SCTV	https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
-Berita Satu	https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-Cinemax	https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
-HBO	https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-HBO Family	https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-HBO Hits	https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-HBO Signature	https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-Hits https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
-Hits Movies	https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
-KiX	https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
-Nickelodeon	https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-TVRI	https://cdnbal1.indihometv.com/atm/DASH/TVRI/manifest.mpd
-TVRI World	https://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
-Rodja TV	https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+
+^=World Cup RTB Go 1	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+^=World Cup RTB Go 2	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+^=World Cup TRT 1	https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+^=World Cup TUDN Vix	https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd!!75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
+
+^=World Cup Amty	https://live13a.jynrrs.com/live/38143826.m3u8
+^=World Cup Cctv5	https://live13a.jynrrs.com/live/20233432.m3u8
+^=World Cup Cctv5+	https://live13a.jynrrs.com/live/79635460.m3u8
+^=World Cup Elta	https://live13a.jynrrs.com/live/16697898.m3u8
+^=World Cup Gdty	https://live13a.jynrrs.com/live/90149826.m3u8
 
 World Cup Sporza	https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd!!893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 World Cup TSN	https://streaming.noobz.top/hls/live.m3u8
