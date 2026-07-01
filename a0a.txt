@@ -30,8 +30,10 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 01.07.2026	^-
 
 23:00 [l]World Cup[z]	^-
-England vs Congo DR	https://play.666666.zip/live/4459724.m3u8
-England vs Congo DR	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374265/england-vs-democratic-republic-of-the-congo.html
+England vs DR Congo	https://play.666666.zip/live/4459724.m3u8
+England vs DR Congo HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYcv9PxHpny6/playlist.m3u8
+England vs DR Congo SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcv9PxHpny6/playlist.m3u8
+England vs DR Congo	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374265/england-vs-democratic-republic-of-the-congo.html
 
 02.07.2026	^-
 
@@ -75,7 +77,7 @@ Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
 Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
 Colombia vs Portugal	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
 Croatia vs Ghana	https://img.refooty.com/m3u8/14521-WjPUy.m3u8
-Congo DR vs Uzbekistan	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
+DR Congo vs Uzbekistan	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
 South Africa vs Canada	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
 New Zealand vs Belgium	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
 Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
@@ -95,7 +97,7 @@ Morocco vs Haiti	https://img.refooty.com/m3u8/morocco-vs-haiti-full-match-24-jun
 Switzerland vs Canada	https://img.refooty.com/m3u8/14448-mVFIb.m3u8
 Bosnia Herzegovina vs Qatar	httpshttps://img.refooty.com/m3u8/14447-uA3Ra.m3u8
 Scotland vs Brazil	https://img.refooty.com/m3u8/14452-g7kCh.m3u8
-Colombia vs Congo DR	https://img.refooty.com/m3u8/14444-prKaR.m3u8
+Colombia vs DR Congo	https://img.refooty.com/m3u8/14444-prKaR.m3u8
 Panama vs Croatia	https://img.refooty.com/m3u8/14438-s6rJc.m3u8
 England vs Ghana	https://img.refooty.com/m3u8/14434-RIXWr.m3u8
 Portugal vs Uzbekistan	https://img.refooty.com/m3u8/14430-YoH0w.m3u8
@@ -122,7 +124,7 @@ Czech Republic vs South Africa	https://img.refooty.com/m3u8/14348-57IqR.m3u8
 Ghana vs Panama	https://img.refooty.com/m3u8/14344-2AIMq.m3u8
 Uzbekistan vs Colombia	https://img.refooty.com/m3u8/14342-gqjgU.m3u8
 England vs Croatia	https://img.refooty.com/m3u8/14336-FK56E.m3u8
-Portugal vs Congo DR	https://img.refooty.com/m3u8/14332-tIt74.m3u8
+Portugal vs DR Congo	https://img.refooty.com/m3u8/14332-tIt74.m3u8
 Austria vs Jordan	https://img.refooty.com/m3u8/14328-rh3oz.m3u8
 Argentina vs Algeria	https://img.refooty.com/m3u8/14324-BIfsH.m3u8
 Iraq vs Norway	https://img.refooty.com/m3u8/14320-WBTfc.m3u8
