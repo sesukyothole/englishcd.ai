@@ -58,6 +58,7 @@ USA vs Bosnia Herzegovina	`F
 
 [l]RePlay & ReWatch[z]	^-
 
+Ivory Coast vs Norway	https://img.refooty.com/m3u8/14558-ASLs0.m3u8
 Netherlands vs Morocco	https://img.refooty.com/m3u8/14551-zmiIw.m3u8
 Germany vs Paraguay	https://img.refooty.com/m3u8/14546-o6i5a.m3u8
 Brazil vs Japan	https://img.refooty.com/m3u8/14544-ZFcL4.m3u8
@@ -241,6 +242,10 @@ Pesta Babi .Alur Cerita	https://www.youtube.com/watch?v=EF3JsA-Y1kI
 	^-
 [w]Sports TV Channels[z]	^-
 
+SportDigital Fussball	https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+Rally TV	https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport 2 🇸🇰	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Arena Sport CZ 1	https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
@@ -283,10 +288,8 @@ Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3
 RT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sporsmart 1	https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 Sporsmart 2	https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+^=SportDigital Fussball	https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd!!0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 SPOTV 1	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 SPOTV 2	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 TV5 Monde	https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd!!fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
