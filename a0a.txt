@@ -46,10 +46,11 @@ Colombia vs Ghana	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374258/
 05.07.2026	^-
 
 00:00 [l]World Cup[z]	^-
-Canada vs Morocco	`F
+Canada vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374257/canada-vs-morocco.html
+Canada vs Morocco	https://hls.live123.fans/live/4459801.m3u8
 
 04:00 [l]World Cup[z]	^-
-Paraguay vs France	`F
+Paraguay vs France	https://hls.live123.fans/live/4459800.m3u8
 
 ^#	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
