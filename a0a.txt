@@ -31,6 +31,8 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 10:00 [l]World Cup[z]	^-
 Switzerland vs Algeria	https://play.666666.zip/live/4459729.m3u8
+Switzerland vs Algeria HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYcRa9e45syS/playlist.m3u8
+Switzerland vs Algeria SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcRa9e45syS/playlist.m3u8
 Switzerland vs Algeria	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4338087/switzerland-vs-algeria.html
 
 04.07.2026	^-
@@ -55,7 +57,7 @@ Colombia vs Ghana	https://play.666666.zip/live/4459732.m3u8
 
 [l]RePlay & ReWatch[z]	^-
 
-Portugal vs Croatia 08:30	https://stream.sports3.win/iptv/recording/4459727/recording-0-1735784-8fc65da7a7.m3u8
+Portugal vs Croatia 09:00	https://stream.sports3.win/iptv/recording/4459727/recording-0-1735784-8fc65da7a7.m3u8
 Spain vs Austria	https://img.refooty.com/m3u8/14584-OmC4o.m3u8
 USA vs Bosnia Herzegovina	https://img.refooty.com/m3u8/14581-e8BKq.m3u8
 Belgium vs Senegal	https://img.refooty.com/m3u8/14577-jDm3B.m3u8
