@@ -60,6 +60,7 @@ Paraguay vs France	`F
 
 [l]RePlay & ReWatch[z]	^-
 
+Switzerland vs Algeria	https://img.refooty.com/m3u8/14589-kjteQ.m3u8
 Portugal vs Croatia	https://img.refooty.com/m3u8/14593-gdZvm.m3u8
 Spain vs Austria	https://img.refooty.com/m3u8/14584-OmC4o.m3u8
 USA vs Bosnia Herzegovina	https://img.refooty.com/m3u8/14581-e8BKq.m3u8
