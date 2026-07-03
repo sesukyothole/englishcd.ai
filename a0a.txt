@@ -155,8 +155,15 @@ World Cup .CCTV5	https://www.rtmpcdn.com/live/cctv5.m3u8
 World Cup .ELTA	https://www.rtmpcdn.com/live/elta.m3u8
 World Cup .GDTY	https://www.rtmpcdn.com/live/gdty.m3u8
 
-World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+World Cup 6 Play	https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+World Cup BPK TV FIFA	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd!!2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+World Cup Fox 1 AR	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd!!f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 World Cup D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd!!4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+World Cup TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+World Cup Hub 2	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSWnEwiwmE2BJ/playlist.m3u8
+World Cup Telemundo	https://proxy.sevaexchange.com/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd!!ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+
+World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup DZ Sports	`0https://player.online909.com/live/index.html?liveUrl=https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 World Cup Joj Sport	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 World Cup D Sports+	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd!!8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
@@ -614,7 +621,6 @@ SSC Extra 2 🇸🇦	https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d4
 SSC Extra 3 🇸🇦	https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd!!98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 SSC News 🇸🇦	shttps://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd!!3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 Telefe 🇦🇷	https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
-^=Telemundo	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd!!ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 Tennis 1	https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 Tennis 2	https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 Tennis 3	https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd!!59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
@@ -940,7 +946,7 @@ TV Asahi	https://nl.utako.moe/TV_Asahi/index.m3u8
 ^=Maxstream	`Fhttps://maxstream.tv/home
 ^=Drama Channel	https://stream1.freetv.fun/0731342225b6bfd29c883a664caf406d6ac271095db7518c80648fe25059d3a2.m3u8?7
 
-TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 TSN 2	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd!!daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
 TSN 3	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd!!f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
 TSN 4	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd!!c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
@@ -955,7 +961,6 @@ TNT Sports 4 🇬🇧	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash
 Willow Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd!!290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 World Cup Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-World Cup BPK TV	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd!!549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 
 TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 Makkah	https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
