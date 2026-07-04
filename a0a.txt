@@ -99,12 +99,16 @@ New Zealand vs Belgium 1H	https://img.refooty.com/m3u8/14507-rRfTV.m3u8
 New Zealand vs Belgium 2H	https://img.refooty.com/m3u8/14508-98GwC.m3u8
 Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
 Egypt vs Iran 1H	https://img.refooty.com/m3u8/14509-D77Zk.m3u8
-
-Cape Verde vs Saudi Arabia	https://img.refooty.com/m3u8/14505-EXjua.m3u8
-Uruguay vs Spain	https://img.refooty.com/m3u8/14503-Jt7El.m3u8
-Senegal vs Iraq	https://img.refooty.com/m3u8/14497-xRrm5.m3u8
+Cape Verde vs Saudi Arabia 1H	https://img.refooty.com/m3u8/14505-EXjua.m3u8
+Cape Verde vs Saudi Arabia 2H	https://img.refooty.com/m3u8/14506-K3W9T.m3u8
+Uruguay vs Spain 1H	https://img.refooty.com/m3u8/14503-Jt7El.m3u8
+Uruguay vs Spain 2H	https://img.refooty.com/m3u8/14504-W1ICL.m3u8
+Senegal vs Iraq 1H	https://img.refooty.com/m3u8/14497-xRrm5.m3u8
+Senegal vs Iraq 2H	https://img.refooty.com/m3u8/14498-LMwTe.m3u8
 Norway vs France	https://img.refooty.com/m3u8/14495-SGaXP.m3u8
-Tunisia vs Netherlands	https://img.refooty.com/m3u8/14479-dhQz0.m3u8
+Tunisia vs Netherlands 1H	https://img.refooty.com/m3u8/14479-dhQz0.m3u8
+Tunisia vs Netherlands 2H	https://img.refooty.com/m3u8/14480-4op1E.m3u8
+
 Japan vs Sweden	https://img.refooty.com/m3u8/14481-YKPcI.m3u8
 Turkiye vs USA	https://img.refooty.com/m3u8/14491-CXFyt.m3u8
 Paraguay vs Australia	https://img.refooty.com/m3u8/14483-2yNwR.m3u8
