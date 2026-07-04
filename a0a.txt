@@ -27,14 +27,6 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-05.07.2026	^-
-
-04:00 [l]World Cup[z]	^-
-Paraguay vs France	https://hls.live123.fans/live/4459800.m3u8
-Paraguay vs France HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH6tD1WMoaJt/playlist.m3u8
-Paraguay vs France SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH6tD1WMoaJt/playlist.m3u8
-Paraguay vs France	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374256/paraguay-vs-france.html
-
 06.07.2026	^-
 
 03:00 [l]World Cup[z]	^-
@@ -62,6 +54,7 @@ USA vs Belgium
 
 [l]RePlay & ReWatch[z]	^-
 
+Paraguay vs France
 Canada vs Morocco 1H	https://img.refooty.com/m3u8/14612-o2oIX.m3u8
 Canada vs Morocco 2H	https://img.refooty.com/m3u8/14613-8QiFQ.m3u8
 Colombia vs Ghana 1H	https://img.refooty.com/m3u8/14608-JNwmy.m3u8
