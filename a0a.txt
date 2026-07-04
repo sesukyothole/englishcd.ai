@@ -29,14 +29,10 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 04.07.2026	^-
 
-05:00 [l]World Cup[z]	^-
-Argentina vs Cape Verde	https://play.666666.zip/live/4459731.m3u8
-Argentina vs Cape Verde HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYT2Uyo5Cbw6/playlist.m3u8
-Argentina vs Cape Verde SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYT2Uyo5Cbw6/playlist.m3u8
-Argentina vs Cape Verde	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374259/argentina-vs-cabo-verde.html
-
 08:30 [l]World Cup[z]	^-
 Colombia vs Ghana	https://play.666666.zip/live/4459732.m3u8
+Colombia vs Ghana HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYT95RQWgMPn/playlist.m3u8
+Colombia vs Ghana SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYT95RQWgMPn/playlist.m3u8
 Colombia vs Ghana	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374258/colombia-vs-ghana.html
 
 05.07.2026	^-
