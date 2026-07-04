@@ -140,9 +140,11 @@ Switzerland vs Canada 2H	https://img.refooty.com/m3u8/14449-b1mgG.m3u8
 Bosnia Herzegovina vs Qatar	https://img.refooty.com/m3u8/14447-uA3Ra.m3u8
 Bosnia Herzegovina vs Qatar 1H	https://img.refooty.com/m3u8/14453-wAnLs.m3u8
 Bosnia Herzegovina vs Qatar 2H	https://img.refooty.com/m3u8/14454-rGa8Q.m3u8
+Scotland vs Brazil 1H	https://img.refooty.com/m3u8/14452-g7kCh.m3u8
+Scotland vs Brazil 2H	https://img.refooty.com/m3u8/14455-YwtWK.m3u8
+Colombia vs DR Congo 1H	https://img.refooty.com/m3u8/14444-prKaR.m3u8
+Colombia vs DR Congo 2H	https://img.refooty.com/m3u8/14445-kHk0l.m3u8
 
-Scotland vs Brazil	https://img.refooty.com/m3u8/14452-g7kCh.m3u8
-Colombia vs DR Congo	https://img.refooty.com/m3u8/14444-prKaR.m3u8
 Panama vs Croatia	https://img.refooty.com/m3u8/14438-s6rJc.m3u8
 England vs Ghana	https://img.refooty.com/m3u8/14434-RIXWr.m3u8
 Portugal vs Uzbekistan	https://img.refooty.com/m3u8/14430-YoH0w.m3u8
