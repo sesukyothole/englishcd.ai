@@ -50,19 +50,31 @@ Paraguay vs France	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374256
 
 Colombia vs Ghana A	https://img.refooty.com/m3u8/14608-JNwmy.m3u8
 Argentina vs Cape Verde	https://img.refooty.com/m3u8/argentina-vs-cape-verde-islands-full-match-3-july-2026-jtzpsm3u8-QEGQm.m3u8
+Argentina vs Cape Verde A	https://img.refooty.com/m3u8/argentina-vs-cape-verde-islands-1st-half-3-july-2026-2l88pm3u8-DYhZ7.m3u8
+Argentina vs Cape Verde B	https://img.refooty.com/m3u8/14604-obijjm3u8-Tga4C.m3u8
+Argentina vs Cape Verde C	https://img.refooty.com/m3u8/14605-ymoggm3u8-knmw6.m3u8
 Australia vs Egypt	https://img.refooty.com/m3u8/14601-tztkhm3u8-uyo5D.m3u8
+Australia vs Egypt A	https://img.refooty.com/m3u8/14597-TtUzY.m3u8
+Australia vs Egypt B	https://img.refooty.com/m3u8/14599-RH558.m3u8
 Switzerland vs Algeria A	https://img.refooty.com/m3u8/14589-kjteQ.m3u8
 Switzerland vs Algeria B	https://img.refooty.com/m3u8/14590-nbjKd.m3u8
 Portugal vs Croatia	https://img.refooty.com/m3u8/14593-gdZvm.m3u8
 Spain vs Austria A	https://img.refooty.com/m3u8/14584-OmC4o.m3u8
 Spain vs Austria B	https://img.refooty.com/m3u8/14585-295sW.m3u8
 USA vs Bosnia Herzegovina	https://img.refooty.com/m3u8/14581-e8BKq.m3u8
+USA vs Bosnia Herzegovina A	https://img.refooty.com/m3u8/14579-2QIK7.m3u8
+USA vs Bosnia Herzegovina B	https://img.refooty.com/m3u8/14580-DhMji.m3u8
 Belgium vs Senegal	https://img.refooty.com/m3u8/14577-jDm3B.m3u8
+Belgium vs Senegal A	https://img.refooty.com/m3u8/14574-gX0qU.m3u8
+Belgium vs Senegal B	https://img.refooty.com/m3u8/14575-NT9UQ.m3u8
+Belgium vs Senegal C	https://img.refooty.com/m3u8/14577-jDm3B.m3u8
 England vs DR Congo	https://img.refooty.com/m3u8/england-vs-congo-dr-1-july-2026-oc8gdm3u8-uBS1v.m3u8
 Mexico vs Ecuador	https://img.refooty.com/m3u8/14566-OSf3I.m3u8
 France vs Sweden A	https://img.refooty.com/m3u8/14560-9tjVH.m3u8
 France vs Sweden B	https://img.refooty.com/m3u8/14561-Q8cGy.m3u8
 Ivory Coast vs Norway	https://img.refooty.com/m3u8/14558-ASLs0.m3u8
+Ivory Coast vs Norway A	https://img.refooty.com/m3u8/14556-77irJ.m3u8
+
 Netherlands vs Morocco	https://img.refooty.com/m3u8/14554-szoi6m3u8-8IOLP.m3u8
 Germany vs Paraguay	https://img.refooty.com/m3u8/14549-isvjE.m3u8
 Brazil vs Japan	https://img.refooty.com/m3u8/14544-ZFcL4.m3u8
