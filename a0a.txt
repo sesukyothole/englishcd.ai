@@ -62,8 +62,8 @@ USA vs Belgium
 
 [l]RePlay & ReWatch[z]	^-
 
-Canada vs Morocco	https://stream.sports3.win/iptv/recording/4459801/recording-20-1881507-b13267a4d2.m3u8
-
+Canada vs Morocco 1H	https://img.refooty.com/m3u8/14612-o2oIX.m3u8
+Canada vs Morocco 2H	https://img.refooty.com/m3u8/14613-8QiFQ.m3u8
 Colombia vs Ghana 1H	https://img.refooty.com/m3u8/14608-JNwmy.m3u8
 Argentina vs Cape Verde FM	https://img.refooty.com/m3u8/argentina-vs-cape-verde-islands-full-match-3-july-2026-jtzpsm3u8-QEGQm.m3u8
 Argentina vs Cape Verde 1H	https://img.refooty.com/m3u8/argentina-vs-cape-verde-islands-1st-half-3-july-2026-2l88pm3u8-DYhZ7.m3u8
