@@ -39,6 +39,14 @@ Canada vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374257/
 Paraguay vs France	https://hls.live123.fans/live/4459800.m3u8
 Paraguay vs France	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374256/paraguay-vs-france.html
 
+06.07.2026	^-
+
+03:00 [l]World Cup[z]	^-
+Brazil vs Norway	https://hls.live123.fans/live/4459802.m3u8
+
+07:00 [l]World Cup[z]	^-
+Mexico vs England	https://hls.live123.fans/live/4459803.m3u8
+
 ^#	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
@@ -116,9 +124,11 @@ Turkiye vs USA 1H	https://img.refooty.com/m3u8/14491-CXFyt.m3u8
 Turkiye vs USA 2H	https://img.refooty.com/m3u8/14492-7hQ1b.m3u8
 Paraguay vs Australia 1H	https://img.refooty.com/m3u8/14483-2yNwR.m3u8
 Paraguay vs Australia 2H	https://img.refooty.com/m3u8/14484-iTcmz.m3u8
+South Africa vs South Korea 1H	https://img.refooty.com/m3u8/14458-NfnAf.m3u8
+South Africa vs South Korea 2H	https://img.refooty.com/m3u8/14459-tlP7p.m3u8
+Czech Republic vs Mexico 1H	https://img.refooty.com/m3u8/14463-tLMNH.m3u8
+Czech Republic vs Mexico 2H	https://img.refooty.com/m3u8/14464-bJjpE.m3u8
 
-South Africa vs South Korea	https://img.refooty.com/m3u8/14458-NfnAf.m3u8
-Czech Republic vs Mexico	https://img.refooty.com/m3u8/14463-tLMNH.m3u8
 Curaçao vs Ivory Coast	https://img.refooty.com/m3u8/14477-ZgnL1.m3u8
 Ecuador vs Germany	https://img.refooty.com/m3u8/14471-45pwI.m3u8
 Morocco vs Haiti	https://img.refooty.com/m3u8/morocco-vs-haiti-full-match-24-june-2026-aBanS.m3u8
