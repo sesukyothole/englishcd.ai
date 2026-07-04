@@ -128,11 +128,16 @@ South Africa vs South Korea 1H	https://img.refooty.com/m3u8/14458-NfnAf.m3u8
 South Africa vs South Korea 2H	https://img.refooty.com/m3u8/14459-tlP7p.m3u8
 Czech Republic vs Mexico 1H	https://img.refooty.com/m3u8/14463-tLMNH.m3u8
 Czech Republic vs Mexico 2H	https://img.refooty.com/m3u8/14464-bJjpE.m3u8
-
 Curaçao vs Ivory Coast	https://img.refooty.com/m3u8/14477-ZgnL1.m3u8
-Ecuador vs Germany	https://img.refooty.com/m3u8/14471-45pwI.m3u8
+Curaçao vs Ivory Coast 1H	https://img.refooty.com/m3u8/14475-NipSJ.m3u8
+Curaçao vs Ivory Coast 2H	https://img.refooty.com/m3u8/14476-Z9Sfq.m3u8
+Ecuador vs Germany 1H	https://img.refooty.com/m3u8/14471-45pwI.m3u8
+Ecuador vs Germany 2H	https://img.refooty.com/m3u8/14472-vF9ht.m3u8
 Morocco vs Haiti	https://img.refooty.com/m3u8/morocco-vs-haiti-full-match-24-june-2026-aBanS.m3u8
 Switzerland vs Canada	https://img.refooty.com/m3u8/14448-mVFIb.m3u8
+Switzerland vs Canada 1H	https://img.refooty.com/m3u8/14446-Q7xiL.m3u8
+Switzerland vs Canada 2H	https://img.refooty.com/m3u8/14449-b1mgG.m3u8
+
 Bosnia Herzegovina vs Qatar	httpshttps://img.refooty.com/m3u8/14447-uA3Ra.m3u8
 Scotland vs Brazil	https://img.refooty.com/m3u8/14452-g7kCh.m3u8
 Colombia vs DR Congo	https://img.refooty.com/m3u8/14444-prKaR.m3u8
