@@ -65,55 +65,55 @@ USA vs Belgium
 Canada vs Morocco	https://stream.sports3.win/iptv/recording/4459801/recording-20-1881507-b13267a4d2.m3u8
 
 Colombia vs Ghana 1H	https://img.refooty.com/m3u8/14608-JNwmy.m3u8
-Argentina vs Cape Verde	https://img.refooty.com/m3u8/argentina-vs-cape-verde-islands-full-match-3-july-2026-jtzpsm3u8-QEGQm.m3u8
+Argentina vs Cape Verde FM	https://img.refooty.com/m3u8/argentina-vs-cape-verde-islands-full-match-3-july-2026-jtzpsm3u8-QEGQm.m3u8
 Argentina vs Cape Verde 1H	https://img.refooty.com/m3u8/argentina-vs-cape-verde-islands-1st-half-3-july-2026-2l88pm3u8-DYhZ7.m3u8
 Argentina vs Cape Verde 2H	https://img.refooty.com/m3u8/14604-obijjm3u8-Tga4C.m3u8
 Argentina vs Cape Verde ET	https://img.refooty.com/m3u8/14605-ymoggm3u8-knmw6.m3u8
-Australia vs Egypt	https://img.refooty.com/m3u8/14601-tztkhm3u8-uyo5D.m3u8
+Australia vs Egypt FM	https://img.refooty.com/m3u8/14601-tztkhm3u8-uyo5D.m3u8
 Australia vs Egypt 1H	https://img.refooty.com/m3u8/14597-TtUzY.m3u8
 Australia vs Egypt 2H	https://img.refooty.com/m3u8/14599-RH558.m3u8
 Switzerland vs Algeria 1H	https://img.refooty.com/m3u8/14589-kjteQ.m3u8
 Switzerland vs Algeria 2H	https://img.refooty.com/m3u8/14590-nbjKd.m3u8
-Portugal vs Croatia	https://img.refooty.com/m3u8/14593-gdZvm.m3u8
+Portugal vs Croatia FM	https://img.refooty.com/m3u8/14593-gdZvm.m3u8
 Spain vs Austria 1H	https://img.refooty.com/m3u8/14584-OmC4o.m3u8
 Spain vs Austria 2H	https://img.refooty.com/m3u8/14585-295sW.m3u8
-USA vs Bosnia Herzegovina	https://img.refooty.com/m3u8/14581-e8BKq.m3u8
+USA vs Bosnia Herzegovina FM	https://img.refooty.com/m3u8/14581-e8BKq.m3u8
 USA vs Bosnia Herzegovina 1H	https://img.refooty.com/m3u8/14579-2QIK7.m3u8
 USA vs Bosnia Herzegovina 2H	https://img.refooty.com/m3u8/14580-DhMji.m3u8
-Belgium vs Senegal	https://img.refooty.com/m3u8/14577-jDm3B.m3u8
+Belgium vs Senegal FM	https://img.refooty.com/m3u8/14577-jDm3B.m3u8
 Belgium vs Senegal 1H	https://img.refooty.com/m3u8/14574-gX0qU.m3u8
 Belgium vs Senegal 2H	https://img.refooty.com/m3u8/14575-NT9UQ.m3u8
 Belgium vs Senegal ET	https://img.refooty.com/m3u8/14577-jDm3B.m3u8
-England vs DR Congo	https://img.refooty.com/m3u8/england-vs-congo-dr-1-july-2026-oc8gdm3u8-uBS1v.m3u8
-Mexico vs Ecuador	https://img.refooty.com/m3u8/14566-OSf3I.m3u8
+England vs DR Congo FM	https://img.refooty.com/m3u8/england-vs-congo-dr-1-july-2026-oc8gdm3u8-uBS1v.m3u8
+Mexico vs Ecuador FM	https://img.refooty.com/m3u8/14566-OSf3I.m3u8
 France vs Sweden 1H	https://img.refooty.com/m3u8/14560-9tjVH.m3u8
 France vs Sweden 2H	https://img.refooty.com/m3u8/14561-Q8cGy.m3u8
-Ivory Coast vs Norway	https://img.refooty.com/m3u8/14558-ASLs0.m3u8
+Ivory Coast vs Norway FM	https://img.refooty.com/m3u8/14558-ASLs0.m3u8
 Ivory Coast vs Norway 1H	https://img.refooty.com/m3u8/14556-77irJ.m3u8
-Netherlands vs Morocco	https://img.refooty.com/m3u8/14554-szoi6m3u8-8IOLP.m3u8
+Netherlands vs Morocco FM	https://img.refooty.com/m3u8/14554-szoi6m3u8-8IOLP.m3u8
 Netherlands vs Morocco 1H	https://img.refooty.com/m3u8/14551-zmiIw.m3u8
 Netherlands vs Morocco 2H	https://img.refooty.com/m3u8/14552-TWbnS.m3u8
 Netherlands vs Morocco ET	https://img.refooty.com/m3u8/14553-ho0iqm3u8-i3BwC.m3u8
-Germany vs Paraguay	https://img.refooty.com/m3u8/14549-isvjE.m3u8
+Germany vs Paraguay FM	https://img.refooty.com/m3u8/14549-isvjE.m3u8
 Germany vs Paraguay 1H	https://img.refooty.com/m3u8/14546-6jEkJ.m3u8
 Germany vs Paraguay 2H	https://img.refooty.com/m3u8/14547-rfP9l.m3u8
 Germany vs Paraguay ET	https://img.refooty.com/m3u8/14548-Q7SDq.m3u8
-Brazil vs Japan	https://img.refooty.com/m3u8/14544-ZFcL4.m3u8
+Brazil vs Japan FM	https://img.refooty.com/m3u8/14544-ZFcL4.m3u8
 Brazil vs Japan 1H	https://img.refooty.com/m3u8/14542-G3Gxx.m3u8
-South Africa vs Canada	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
+South Africa vs Canada FM	https://img.refooty.com/m3u8/14541-RxeMs.m3u8
 South Africa vs Canada 1H	https://img.refooty.com/m3u8/south-africa-vs-canada-1st-half-28-june-2026-Tipx3.m3u8
 South Africa vs Canada 2H	https://img.refooty.com/m3u8/14539-ymCaw.m3u8
-Algeria vs Austria	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
-Jordan vs Argentina	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
-Colombia vs Portugal	https://img.refooty.com/m3u8/colombia-vs-portugal-full-match-27-june-2026-sre19.m3u8
+Algeria vs Austria FM	https://img.refooty.com/m3u8/14532-s9kRf.m3u8
+Jordan vs Argentina FM	https://img.refooty.com/m3u8/14535-KhxKf.m3u8
+Colombia vs Portugal FM	https://img.refooty.com/m3u8/colombia-vs-portugal-full-match-27-june-2026-sre19.m3u8
 Colombia vs Portugal 1H	https://img.refooty.com/m3u8/14524-UbQCc.m3u8
 Colombia vs Portugal 2H	https://img.refooty.com/m3u8/14525-hYvtQ.m3u8
-Croatia vs Ghana	https://img.refooty.com/m3u8/14521-WjPUy.m3u8
-DR Congo vs Uzbekistan	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
-New Zealand vs Belgium	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
+Croatia vs Ghana FM	https://img.refooty.com/m3u8/14521-WjPUy.m3u8
+DR Congo vs Uzbekistan FM	https://img.refooty.com/m3u8/congo-dr-vs-uzbekistan-27-june-2026-tdwtO.m3u8
+New Zealand vs Belgium FM	https://img.refooty.com/m3u8/14512-tj3yi.m3u8
 New Zealand vs Belgium 1H	https://img.refooty.com/m3u8/14507-rRfTV.m3u8
 New Zealand vs Belgium 2H	https://img.refooty.com/m3u8/14508-98GwC.m3u8
-Egypt vs Iran	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
+Egypt vs Iran FM	https://img.refooty.com/m3u8/14513-p2vHf.m3u8
 Egypt vs Iran 1H	https://img.refooty.com/m3u8/14509-D77Zk.m3u8
 Cape Verde vs Saudi Arabia 1H	https://img.refooty.com/m3u8/14505-EXjua.m3u8
 Cape Verde vs Saudi Arabia 2H	https://img.refooty.com/m3u8/14506-K3W9T.m3u8
@@ -121,7 +121,7 @@ Uruguay vs Spain 1H	https://img.refooty.com/m3u8/14503-Jt7El.m3u8
 Uruguay vs Spain 2H	https://img.refooty.com/m3u8/14504-W1ICL.m3u8
 Senegal vs Iraq 1H	https://img.refooty.com/m3u8/14497-xRrm5.m3u8
 Senegal vs Iraq 2H	https://img.refooty.com/m3u8/14498-LMwTe.m3u8
-Norway vs France	https://img.refooty.com/m3u8/14495-SGaXP.m3u8
+Norway vs France FM	https://img.refooty.com/m3u8/14495-SGaXP.m3u8
 Tunisia vs Netherlands 1H	https://img.refooty.com/m3u8/14479-dhQz0.m3u8
 Tunisia vs Netherlands 2H	https://img.refooty.com/m3u8/14480-4op1E.m3u8
 Japan vs Sweden 1H	https://img.refooty.com/m3u8/14481-YKPcI.m3u8
@@ -134,16 +134,16 @@ South Africa vs South Korea 1H	https://img.refooty.com/m3u8/14458-NfnAf.m3u8
 South Africa vs South Korea 2H	https://img.refooty.com/m3u8/14459-tlP7p.m3u8
 Czech Republic vs Mexico 1H	https://img.refooty.com/m3u8/14463-tLMNH.m3u8
 Czech Republic vs Mexico 2H	https://img.refooty.com/m3u8/14464-bJjpE.m3u8
-Curaçao vs Ivory Coast	https://img.refooty.com/m3u8/14477-ZgnL1.m3u8
+Curaçao vs Ivory Coast FM	https://img.refooty.com/m3u8/14477-ZgnL1.m3u8
 Curaçao vs Ivory Coast 1H	https://img.refooty.com/m3u8/14475-NipSJ.m3u8
 Curaçao vs Ivory Coast 2H	https://img.refooty.com/m3u8/14476-Z9Sfq.m3u8
 Ecuador vs Germany 1H	https://img.refooty.com/m3u8/14471-45pwI.m3u8
 Ecuador vs Germany 2H	https://img.refooty.com/m3u8/14472-vF9ht.m3u8
-Morocco vs Haiti	https://img.refooty.com/m3u8/morocco-vs-haiti-full-match-24-june-2026-aBanS.m3u8
-Switzerland vs Canada	https://img.refooty.com/m3u8/14448-mVFIb.m3u8
+Morocco vs Haiti FM	https://img.refooty.com/m3u8/morocco-vs-haiti-full-match-24-june-2026-aBanS.m3u8
+Switzerland vs Canada FM	https://img.refooty.com/m3u8/14448-mVFIb.m3u8
 Switzerland vs Canada 1H	https://img.refooty.com/m3u8/14446-Q7xiL.m3u8
 Switzerland vs Canada 2H	https://img.refooty.com/m3u8/14449-b1mgG.m3u8
-Bosnia Herzegovina vs Qatar	https://img.refooty.com/m3u8/14447-uA3Ra.m3u8
+Bosnia Herzegovina vs Qatar FM	https://img.refooty.com/m3u8/14447-uA3Ra.m3u8
 Bosnia Herzegovina vs Qatar 1H	https://img.refooty.com/m3u8/14453-wAnLs.m3u8
 Bosnia Herzegovina vs Qatar 2H	https://img.refooty.com/m3u8/14454-rGa8Q.m3u8
 Scotland vs Brazil 1H	https://img.refooty.com/m3u8/14452-g7kCh.m3u8
@@ -156,7 +156,7 @@ England vs Ghana 1H	https://img.refooty.com/m3u8/14434-RIXWr.m3u8
 England vs Ghana 2H	https://img.refooty.com/m3u8/14435-sNDpw.m3u8
 Portugal vs Uzbekistan 1H	https://img.refooty.com/m3u8/14430-YoH0w.m3u8
 Portugal vs Uzbekistan 2H	https://img.refooty.com/m3u8/14431-6NT7z.m3u8
-Jordan vs Algeria	https://img.refooty.com/m3u8/14427-U8ZOo.m3u8
+Jordan vs Algeria FM	https://img.refooty.com/m3u8/14427-U8ZOo.m3u8
 Norway vs Senegal 1H	https://img.refooty.com/m3u8/14423-f7RPC.m3u8
 Norway vs Senegal 2H	https://img.refooty.com/m3u8/14424-PccvL.m3u8
 France vs Iraq 1H	https://img.refooty.com/m3u8/14417-KpYCH.m3u8
@@ -167,15 +167,15 @@ New Zealand vs Egypt 1H	https://img.refooty.com/m3u8/14409-qkrTc.m3u8
 New Zealand vs Egypt 2H	https://img.refooty.com/m3u8/14410-0F0yq.m3u8
 Uruguay vs Cape Verde 1H	https://img.refooty.com/m3u8/14405-68Rge.m3u8
 Uruguay vs Cape Verde 2H	https://img.refooty.com/m3u8/14406-Jqt1s.m3u8
-Belgium vs Iran	https://img.refooty.com/m3u8/14401-Tz7Sq.m3u8
-Belgium vs Iran	https://img.refooty.com/m3u8/14402-FctVy.m3u8
+Belgium vs Iran 1H	https://img.refooty.com/m3u8/14401-Tz7Sq.m3u8
+Belgium vs Iran 2H	https://img.refooty.com/m3u8/14402-FctVy.m3u8
 Spain vs Saudi Arabia 1H	https://img.refooty.com/m3u8/14397-laoIM.m3u8
 Spain vs Saudi Arabia 2H	https://img.refooty.com/m3u8/14398-AymzU.m3u8
-Tunisia vs Japan	https://img.refooty.com/m3u8/14395-gifKi.m3u8
+Tunisia vs Japan FM	https://img.refooty.com/m3u8/14395-gifKi.m3u8
 Tunisia vs Japan 1H	https://img.refooty.com/m3u8/14393-rBfQD.m3u8
 Ecuador vs Curaçao 1H	https://img.refooty.com/m3u8/14389-Bq1en.m3u8
 Ecuador vs Curaçao 2H	https://img.refooty.com/m3u8/14390-T0FUd.m3u8
-Germany vs Ivory Coast	https://img.refooty.com/m3u8/14388-q6c9G.m3u8
+Germany vs Ivory Coast FM	https://img.refooty.com/m3u8/14388-q6c9G.m3u8
 Germany vs Ivory Coast 1H	https://img.refooty.com/m3u8/14384-ijp9R.m3u8
 Netherlands vs Sweden 1H	https://img.refooty.com/m3u8/14381-Kn18e.m3u8
 Netherlands vs Sweden 2H	https://img.refooty.com/m3u8/14382-tOevb.m3u8
@@ -185,10 +185,13 @@ Brazil vs Haiti 1H	https://img.refooty.com/m3u8/14373-BOJDs.m3u8
 Brazil vs Haiti 2H	https://img.refooty.com/m3u8/14374-QNc1o.m3u8
 Scotland vs Morocco 1H	https://img.refooty.com/m3u8/14368-nVbps.m3u8
 Scotland vs Morocco 2H	https://img.refooty.com/m3u8/14369-MZXo8.m3u8
+USA vs Australia FM	https://img.refooty.com/m3u8/14366-xGhia.m3u8
+USA vs Australia 1H	https://img.refooty.com/m3u8/14364-YVWLc.m3u8
+Canada vs Qatar 1H	https://img.refooty.com/m3u8/14356-Fbt6p.m3u8
+Canada vs Qatar 2H	https://img.refooty.com/m3u8/14357-sM2xF.m3u8
+Mexico vs South Korea FM	https://img.refooty.com/m3u8/mexico-vs-south-korea-full-match-18-june-2026-9eZVS.m3u8
+Mexico vs South Korea 1H	https://img.refooty.com/m3u8/mexico-vs-south-korea-1st-half-18-june-2026-VbYwH.m3u8
 
-USA vs Australia	https://img.refooty.com/m3u8/14366-xGhia.m3u8
-Canada vs Qatar	https://img.refooty.com/m3u8/14356-Fbt6p.m3u8
-Mexico vs South Korea	https://img.refooty.com/m3u8/mexico-vs-south-korea-full-match-18-june-2026-9eZVS.m3u8
 Switzerland vs Bosnia Herzegovina	https://img.refooty.com/m3u8/14354-7W4SZ.m3u8
 Czech Republic vs South Africa	https://img.refooty.com/m3u8/14348-57IqR.m3u8
 Ghana vs Panama	https://img.refooty.com/m3u8/14344-2AIMq.m3u8
