@@ -30,8 +30,10 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 05.07.2026	^-
 
 00:00 [l]World Cup[z]	^-
-Canada vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374257/canada-vs-morocco.html
 Canada vs Morocco	https://hls.live123.fans/live/4459801.m3u8
+Canada vs Morocco HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH6r1Xdsyf9z/playlist.m3u8
+Canada vs Morocco SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH6r1Xdsyf9z/playlist.m3u8
+Canada vs Morocco	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374257/canada-vs-morocco.html
 
 04:00 [l]World Cup[z]	^-
 Paraguay vs France	https://hls.live123.fans/live/4459800.m3u8
@@ -108,10 +110,13 @@ Senegal vs Iraq 2H	https://img.refooty.com/m3u8/14498-LMwTe.m3u8
 Norway vs France	https://img.refooty.com/m3u8/14495-SGaXP.m3u8
 Tunisia vs Netherlands 1H	https://img.refooty.com/m3u8/14479-dhQz0.m3u8
 Tunisia vs Netherlands 2H	https://img.refooty.com/m3u8/14480-4op1E.m3u8
+Japan vs Sweden 1H	https://img.refooty.com/m3u8/14481-YKPcI.m3u8
+Japan vs Sweden 2H	https://img.refooty.com/m3u8/14482-AtjjJ.m3u8
+Turkiye vs USA 1H	https://img.refooty.com/m3u8/14491-CXFyt.m3u8
+Turkiye vs USA 2H	https://img.refooty.com/m3u8/14492-7hQ1b.m3u8
+Paraguay vs Australia 1H	https://img.refooty.com/m3u8/14483-2yNwR.m3u8
+Paraguay vs Australia 2H	https://img.refooty.com/m3u8/14484-iTcmz.m3u8
 
-Japan vs Sweden	https://img.refooty.com/m3u8/14481-YKPcI.m3u8
-Turkiye vs USA	https://img.refooty.com/m3u8/14491-CXFyt.m3u8
-Paraguay vs Australia	https://img.refooty.com/m3u8/14483-2yNwR.m3u8
 South Africa vs South Korea	https://img.refooty.com/m3u8/14458-NfnAf.m3u8
 Czech Republic vs Mexico	https://img.refooty.com/m3u8/14463-tLMNH.m3u8
 Curaçao vs Ivory Coast	https://img.refooty.com/m3u8/14477-ZgnL1.m3u8
