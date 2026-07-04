@@ -191,8 +191,9 @@ Canada vs Qatar 1H	https://img.refooty.com/m3u8/14356-Fbt6p.m3u8
 Canada vs Qatar 2H	https://img.refooty.com/m3u8/14357-sM2xF.m3u8
 Mexico vs South Korea FM	https://img.refooty.com/m3u8/mexico-vs-south-korea-full-match-18-june-2026-9eZVS.m3u8
 Mexico vs South Korea 1H	https://img.refooty.com/m3u8/mexico-vs-south-korea-1st-half-18-june-2026-VbYwH.m3u8
+Switzerland vs Bosnia Herzegovina FM	https://img.refooty.com/m3u8/14354-7W4SZ.m3u8
+Switzerland vs Bosnia Herzegovina 1H	https://img.refooty.com/m3u8/14350-alLz4.m3u8
 
-Switzerland vs Bosnia Herzegovina	https://img.refooty.com/m3u8/14354-7W4SZ.m3u8
 Czech Republic vs South Africa	https://img.refooty.com/m3u8/14348-57IqR.m3u8
 Ghana vs Panama	https://img.refooty.com/m3u8/14344-2AIMq.m3u8
 Uzbekistan vs Colombia	https://img.refooty.com/m3u8/14342-gqjgU.m3u8
