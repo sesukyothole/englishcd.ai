@@ -29,15 +29,10 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 06.07.2026	^-
 
-03:00 [l]World Cup[z]	^-
-Brazil vs Norway	https://hls.live123.fans/live/4459802.m3u8
-Brazil vs Norway Live	https://live1.kinxie.com/live/53452517_e26c4dbabd557831842b5c1719588bbc.m3u8
-Brazil vs Norway HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH6xbyFKTQcg/playlist.m3u8
-Brazil vs Norway SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH6xbyFKTQcg/playlist.m3u8
-Brazil vs Norway	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374255/brazil-vs-norway.html
-
 07:00 [l]World Cup[z]	^-
 Mexico vs England	https://hls.live123.fans/live/4459803.m3u8
+Mexico vs England HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH6vQVNqdVTn/playlist.m3u8
+Mexico vs England SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH6vQVNqdVTn/playlist.m3u8
 Mexico vs England	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374254/mexico-vs-england.html
 
 07.07.2026	^-
