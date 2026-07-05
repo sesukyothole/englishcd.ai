@@ -245,6 +245,7 @@ USA vs Paraguay 2H	https://img.refooty.com/m3u8/14262-tOPW1.m3u8
 Mexico vs South Africa FM	https://img.refooty.com/m3u8/mexico-vs-south-africa-full-match-PPPh3.m3u8
 Mexico vs South Africa 1H	https://img.refooty.com/m3u8/14252-XzkML.m3u8
 Mexico vs South Africa 2H	https://img.refooty.com/m3u8/14253-3Ipcs.m3u8
+South Korea vs Czech Republic FM	https://img.refooty.com/m3u8/14256-MgmcI.m3u8
 South Korea vs Czech Republic FM	https://img.refooty.com/m3u8/14256-rd5Lc.m3u8
 
 	^-
