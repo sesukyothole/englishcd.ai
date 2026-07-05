@@ -56,6 +56,16 @@ USA vs Belgium	https://hls.live123.fans/live/4459805.m3u8
 ^#	^-
 ^=	^-
 
+World Cup BPK TV FIFA	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd!!2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+World Cup D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd!!4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+World Cup D Sports+	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd!!8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
+World Cup Fox 1 AR	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd!!f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+World Cup Telemundo	https://proxy.sevaexchange.com/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd!!ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+World Cup TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+
+^#	^-
+
 [l]RePlay & ReWatch Full Match[z]	^-
 
 Paraguay vs France 1H	https://img.refooty.com/m3u8/14616-2AbVR.m3u8
@@ -251,16 +261,6 @@ South Korea vs Czech Republic FM	https://img.refooty.com/m3u8/14256-MgmcI.m3u8
 South Korea vs Czech Republic FM	https://img.refooty.com/m3u8/14256-rd5Lc.m3u8
 
 	^-
-
-World Cup BPK TV FIFA	https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd!!2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-World Cup D Sports	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd!!4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-World Cup D Sports+	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd!!8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-World Cup Fox 1 AR	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd!!f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-World Cup Telemundo	https://proxy.sevaexchange.com/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd!!ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-World Cup TSN 1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd!!14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-
-World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-World Cup Joj Sport	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 FIFA+ English	https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?7
 FIFA+ Women	https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8?7
@@ -1086,6 +1086,7 @@ World Cup .Amty	https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elor
 World Cup .Cctv5	https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 World Cup .Elta	https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
 World Cup .Gdty	https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+World Cup Joj Sport	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 Live Sports Streaming	`0https://www.marza12.shop/football.html
 
