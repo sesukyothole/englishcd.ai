@@ -31,6 +31,7 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 02:00 [l]World Cup[z]	^-
 Portugal vs Spain	https://hls.live123.fans/live/4459804.m3u8
+Portugal vs Spain Live	https://live.kinxie.com/live/53452513_3e8c67133c7ffe5a01eeecac56881ed0.m3u8
 Portugal vs Spain HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH72zvzH7EvU/playlist.m3u8
 Portugal vs Spain SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH72zvzH7EvU/playlist.m3u8
 Portugal vs Spain	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374253/portugal-vs-spain.html
