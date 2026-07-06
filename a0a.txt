@@ -58,6 +58,7 @@ World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.m
 
 [l]RePlay & ReWatch Full Match[z]	^-
 
+Mexico vs England 10:00	https://stream.sports3.win/iptv/recording/recording-4459803-1965115.m3u8
 Brazil vs Norway FM	https://img.refooty.com/m3u8/14622-alvU2.m3u8
 Brazil vs Norway 1H	https://img.refooty.com/m3u8/14620-yJVq7.m3u8
 Paraguay vs France 1H	https://img.refooty.com/m3u8/14616-2AbVR.m3u8
