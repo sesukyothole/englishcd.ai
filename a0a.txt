@@ -64,7 +64,7 @@ World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.m
 
 [l]RePlay & ReWatch Full Match[z]	^-
 
-Portugal vs Spain
+Portugal vs Spain 04:30	https://stream.sports3.win/iptv/recording/recording-4459804-1965150.m3u8
 Mexico vs England 1H	https://img.refooty.com/m3u8/14624-W6sci.m3u8
 Mexico vs England 2H	https://img.refooty.com/m3u8/14625-U6Uwh.m3u8
 Brazil vs Norway FM	https://img.refooty.com/m3u8/14622-alvU2.m3u8
