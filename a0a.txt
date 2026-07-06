@@ -29,13 +29,6 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 07.07.2026	^-
 
-02:00 [l]World Cup[z]	^-
-Portugal vs Spain	https://hls.live123.fans/live/4459804.m3u8
-Portugal vs Spain Live	https://live.kinxie.com/live/53452513_3e8c67133c7ffe5a01eeecac56881ed0.m3u8
-Portugal vs Spain HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH72zvzH7EvU/playlist.m3u8
-Portugal vs Spain SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH72zvzH7EvU/playlist.m3u8
-Portugal vs Spain	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374253/portugal-vs-spain.html
-
 07:00 [l]World Cup[z]	^-
 USA vs Belgium	https://hls.live123.fans/live/4459805.m3u8
 USA vs Belgium	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374252/usa-vs-belgium.html
@@ -71,6 +64,7 @@ World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.m
 
 [l]RePlay & ReWatch Full Match[z]	^-
 
+Portugal vs Spain
 Mexico vs England 1H	https://img.refooty.com/m3u8/14624-W6sci.m3u8
 Mexico vs England 2H	https://img.refooty.com/m3u8/14625-U6Uwh.m3u8
 Brazil vs Norway FM	https://img.refooty.com/m3u8/14622-alvU2.m3u8
