@@ -31,6 +31,8 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 02:00 [l]World Cup[z]	^-
 Portugal vs Spain	https://hls.live123.fans/live/4459804.m3u8
+Portugal vs Spain HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH72zvzH7EvU/playlist.m3u8
+Portugal vs Spain SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH72zvzH7EvU/playlist.m3u8
 Portugal vs Spain	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374253/portugal-vs-spain.html
 
 07:00 [l]World Cup[z]	^-
@@ -38,12 +40,12 @@ USA vs Belgium	https://hls.live123.fans/live/4459805.m3u8
 USA vs Belgium	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374252/usa-vs-belgium.html
 
 23:00 [l]World Cup[z]	^-
-Argentina vs Egypt	
+Argentina vs Egypt	https://hls.live123.fans/live/4459806.m3u8
 
 08.07.2026	^-
 
 03:00 [l]World Cup[z]	^-
-Switzerland vs Colombia	
+Switzerland vs Colombia	https://hls.live123.fans/live/4459807.m3u8
 
 ^#	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
