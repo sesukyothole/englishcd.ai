@@ -39,9 +39,11 @@ Mexico vs England	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374254/
 
 02:00 [l]World Cup[z]	^-
 Portugal vs Spain	https://hls.live123.fans/live/4459804.m3u8
+Portugal vs Spain	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374253/portugal-vs-spain.html
 
 07:00 [l]World Cup[z]	^-
 USA vs Belgium	https://hls.live123.fans/live/4459805.m3u8
+USA vs Belgium	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374252/usa-vs-belgium.html
 
 ^#	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
@@ -64,6 +66,8 @@ World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.m
 
 [l]RePlay & ReWatch Full Match[z]	^-
 
+Brazil vs Norway FM	https://img.refooty.com/m3u8/14622-alvU2.m3u8
+Brazil vs Norway 1H	https://img.refooty.com/m3u8/14620-yJVq7.m3u8
 Paraguay vs France 1H	https://img.refooty.com/m3u8/14616-2AbVR.m3u8
 Paraguay vs France 2H	https://img.refooty.com/m3u8/14617-wtCCz.m3u8
 Canada vs Morocco 1H	https://img.refooty.com/m3u8/14612-o2oIX.m3u8
