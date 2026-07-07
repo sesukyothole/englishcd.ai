@@ -29,12 +29,6 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 07.07.2026	^-
 
-07:00 [l]World Cup[z]	^-
-USA vs Belgium	https://hls.live123.fans/live/4459805.m3u8
-USA vs Belgium HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH6zoT7oHKma/playlist.m3u8
-USA vs Belgium SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH6zoT7oHKma/playlist.m3u8
-USA vs Belgium	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374252/usa-vs-belgium.html
-
 23:00 [l]World Cup[z]	^-
 Argentina vs Egypt	https://hls.live123.fans/live/4459806.m3u8
 Argentina vs Egypt	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374251/argentina-vs-egypt.html
@@ -66,6 +60,7 @@ World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.m
 
 [l]RePlay & ReWatch Full Match[z]	^-
 
+USA vs Belgium 09:30	https://stream.sports3.win/iptv/recording/recording-4459805-1965160.m3u8
 Portugal vs Spain 1H	https://img.refooty.com/m3u8/14628-x5cp9.m3u8
 Portugal vs Spain 2H	https://img.refooty.com/m3u8/14629-jHU0P.m3u8
 Mexico vs England 1H	https://img.refooty.com/m3u8/14624-W6sci.m3u8
