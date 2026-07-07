@@ -63,6 +63,7 @@ World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.m
 
 [l]RePlay & ReWatch Full Match[z]	^-
 
+Argentina vs Egypt	https://stream.sports3.win/iptv/recording/recording-4459806-1965199.m3u8
 USA vs Belgium FM	https://img.refooty.com/m3u8/14634-o4F2f.m3u8
 Portugal vs Spain 1H	https://img.refooty.com/m3u8/14628-x5cp9.m3u8
 Portugal vs Spain 2H	https://img.refooty.com/m3u8/14629-jHU0P.m3u8
